@@ -1,7 +1,7 @@
 misthalinian = {
 	color = misthalinian
 	
-	ethos = ethos_bureaucratic
+	ethos = ethos_ceremonious
 	heritage = heritage_west_germanic
 	language = language_common_tongue
 	martial_custom = martial_custom_equal
@@ -10,7 +10,7 @@ misthalinian = {
 		tradition_hereditary_hierarchy
 		tradition_chivalry
 		tradition_castle_keepers
-		tradition_longbow_competitions
+		tradition_staunch_traditionalists
 	}
 	
 	name_list = name_list_saradominist
@@ -301,7 +301,7 @@ elven = {
 	head_determination = head_determination_domain
 	traditions = {
 		tradition_poetry
-		tradition_concubines
+		tradition_music_theory
 		tradition_forest_fighters
 		tradition_longbow_competitions
 	}
