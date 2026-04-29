@@ -1,4 +1,4 @@
-# Gielinor — Age of Chaos
+# Gielinor: Age of Chaos
 
 This is a mod that seeks to bring the world of Gielinor into _Crusader Kings III_. It is a fan project unaffiliated with Jagex or Paradox Interactive.
 
