@@ -2326,6 +2326,7 @@ name_list_dwarven = {
 		"dynn_Macagan"
 		"dynn_Blenheim"
 		"dynn_Peregrine"
+		"dynn_Halbaddon"
 	}
 	dynasty_names = {
 		"dynn_Grimsson"
@@ -2336,6 +2337,7 @@ name_list_dwarven = {
 		"dynn_Macagan"
 		"dynn_Blenheim"
 		"dynn_Peregrine"
+		"dynn_Halbaddon"
 	}
 	male_names = {
 		Audmann Bentamir Blandebir Blasidar Brunolt Derni Dernu Dondakan Dromund Drorkar
