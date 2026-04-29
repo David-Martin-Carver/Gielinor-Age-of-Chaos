@@ -1,5 +1,5 @@
-misthalinian = {
-	color = misthalinian
+misthalanian = {
+	color = misthalanian
 	
 	ethos = ethos_ceremonious
 	heritage = heritage_west_germanic
