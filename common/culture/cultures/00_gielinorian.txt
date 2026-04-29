@@ -4,7 +4,7 @@ misthalinian = {
 	ethos = ethos_bureaucratic
 	heritage = heritage_west_germanic
 	language = language_common_tongue
-	martial_custom = martial_custom_male_only
+	martial_custom = martial_custom_equal
 	head_determination = head_determination_domain
 	traditions = {
 		tradition_hereditary_hierarchy
@@ -36,7 +36,7 @@ asgarnian = {
 	ethos = ethos_bureaucratic
 	heritage = heritage_west_germanic
 	language = language_common_tongue
-	martial_custom = martial_custom_male_only
+	martial_custom = martial_custom_equal
 	head_determination = head_determination_domain
 	traditions = {
 		tradition_hereditary_hierarchy
@@ -97,16 +97,14 @@ kandarian = {
 havenhythian = {
 	color = havenhythian
 	
-	ethos = ethos_bureaucratic
+	ethos = ethos_communal
 	heritage = heritage_west_germanic
 	language = language_common_tongue
-	martial_custom = martial_custom_male_only
+	martial_custom = martial_custom_equal
 	head_determination = head_determination_domain
 	traditions = {
-		tradition_hereditary_hierarchy
-		tradition_chivalry
-		tradition_castle_keepers
-		tradition_longbow_competitions
+		tradition_isolationist
+		tradition_religion_blending
 	}
 	
 	name_list = name_list_saradominist
@@ -133,7 +131,7 @@ fremennik = {
 	ethos = ethos_bellicose
 	heritage = heritage_north_germanic
 	language = language_fremennik
-	martial_custom = martial_custom_male_only
+	martial_custom = martial_custom_equal
 	head_determination = head_determination_domain
 	traditions = {
 		tradition_things
@@ -323,5 +321,63 @@ elven = {
 		30 = caucasian_ginger
 		35 = caucasian_brown_hair
 		30 = caucasian_dark_hair
+	}
+}
+icyene = {
+	color = icyene
+
+	ethos = ethos_bellicose
+	heritage = heritage_ancient_greek
+	language = language_icyene
+	martial_custom = martial_custom_equal
+	head_determination = head_determination_domain
+	traditions = {
+		tradition_philosopher_culture
+		tradition_legalistic
+		tradition_astute_diplomats
+		tradition_maritime_mercantilism
+	}
+	
+	name_list = name_list_icyene
+	
+	coa_gfx = { byzantine_group_coa_gfx }
+	building_gfx = { mediterranean_building_gfx }
+	clothing_gfx = { byzantine_clothing_gfx }
+	unit_gfx = { eastern_unit_gfx }
+	house_coa_frame = house_frame_16
+	
+	ethnicities = {
+		100 = mediterranean_byzantine
+	}
+}
+dwarven = {
+	color = dwarven
+	
+	ethos = ethos_stoic
+	heritage = heritage_north_germanic
+	language = language_dwarven
+	martial_custom = martial_custom_equal
+	head_determination = head_determination_domain
+	traditions = {
+		tradition_metal_craftsmanship
+		tradition_isolationist
+		tradition_mountain_homes
+		tradition_ancient_miners
+		tradition_brewery
+	}
+	
+	name_list = name_list_dwarven
+	
+	coa_gfx = { norse_coa_gfx western_coa_gfx }
+	building_gfx = { norse_building_gfx }
+	clothing_gfx = { fp1_norse_clothing_gfx northern_clothing_gfx }
+	unit_gfx = { norse_unit_gfx }
+	house_coa_frame = house_frame_05
+	
+	ethnicities = {
+		70 = caucasian_northern_blond
+		15 = caucasian_northern_ginger
+		10 = caucasian_northern_brown_hair
+		5 = caucasian_northern_dark_hair
 	}
 }
