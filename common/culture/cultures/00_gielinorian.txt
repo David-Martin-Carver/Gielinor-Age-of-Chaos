@@ -247,6 +247,7 @@ wushanko = {
 	head_determination = head_determination_domain
 	traditions = {
 	tradition_maritime_way_of_life
+	tradition_polygamous
 }
 	dlc_tradition = {
 		trait = tradition_tgp_imperial_peace
@@ -480,5 +481,37 @@ coa_gfx = { english_coa_gfx western_coa_gfx }
 		70 = mediterranean
 		15 = african
 		15 = caucasian_blond
+	}
+}
+werewolf = {
+	color = werewolf
+
+	ethos = ethos_stoic
+	heritage = heritage_east_slavic
+	language = language_werewolf
+	martial_custom = martial_custom_equal
+	head_determination = head_determination_domain
+	traditions = {
+		tradition_wetlanders
+		tradition_strength_in_numbers
+		tradition_eye_for_an_eye
+		tradition_hunters
+		}
+
+	name_list = werewolf
+
+	coa_gfx = { east_slavic_group_coa_gfx western_coa_gfx }
+	building_gfx = { east_slavic_building_gfx western_building_gfx }
+	clothing_gfx = { east_slavic_clothing_gfx northern_clothing_gfx }
+	unit_gfx = { eastern_unit_gfx }
+	house_coa_frame = house_frame_02
+	house_coa_mask_offset = { 0.0 0.055 }
+	house_coa_mask_scale = { 0.9 0.9 }
+
+	ethnicities = {
+		60 = slavic_northern_blond
+		5 = slavic_northern_ginger
+		25 = slavic_northern_brown_hair
+		10 = slavic_northern_dark_hair
 	}
 }
