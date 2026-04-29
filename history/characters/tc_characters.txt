@@ -1,0 +1,12 @@
+TC119 = {
+	name = "Mr Paradox"
+	dynasty = dynn_tc_1
+	religion = faith_8_faith
+	culture = "conversian"
+	823.6.5 = {
+		birth = yes
+	}
+	894.11.22 = {
+		death = yes
+	}
+}

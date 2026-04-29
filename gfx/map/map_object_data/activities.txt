@@ -1,0 +1,21 @@
+﻿game_object_locator={
+	name="activities"
+	render_pass=Map
+	clamp_to_water_level=yes
+	generated_content=no
+	layer="activities_layer"
+	instances={
+		{
+			id=1
+			position={ 471.169281 0.000000 504.183685 }
+			rotation={ -0.000000 -0.000000 -0.000000 1.000000 }
+			scale={ 0.700000 0.700000 0.700000 }
+		}
+		{
+			id=2
+			position={ 481.112854 0.000000 478.751251 }
+			rotation={ -0.000000 -0.000000 -0.000000 1.000000 }
+			scale={ 0.700000 0.700000 0.700000 }
+		}
+	}
+}

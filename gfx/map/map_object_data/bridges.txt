@@ -1,0 +1,10 @@
+﻿object={
+	name="bridge 01"
+	render_pass=MapUnderWater
+	clamp_to_water_level=no
+	generated_content=no
+	layer="temp_layer"
+	pdxmesh="bridge_01_mesh"
+	count=1
+	transform="476.414429 3.312531 490.488434 0.000000 0.000320 0.000000 1.000000 1.674321 1.674321 1.674321
+"}

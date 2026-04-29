@@ -1,0 +1,21 @@
+﻿game_object_locator={
+	name="combat"
+	render_pass=Map
+	clamp_to_water_level=yes
+	generated_content=no
+	layer="unit_layer"
+	instances={
+		{
+			id=1
+			position={ 477.038025 0.000000 510.370483 }
+			rotation={ -0.000000 -0.000000 -0.000000 1.000000 }
+			scale={ 0.700000 0.700000 0.700000 }
+		}
+		{
+			id=2
+			position={ 481.239960 0.000000 477.974915 }
+			rotation={ -0.000000 -0.679674 -0.000000 0.733514 }
+			scale={ 0.700000 0.700000 0.700000 }
+		}
+	}
+}

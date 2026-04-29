@@ -1,0 +1,10 @@
+1 = {
+	culture = conversian
+	religion = faith_32_faith
+	holding = castle_holding
+}
+2 = {
+	culture = conversian
+	religion = faith_58_faith
+	holding = city_holding
+}

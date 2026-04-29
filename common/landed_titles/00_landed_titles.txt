@@ -1,0 +1,27 @@
+e_one = {
+  color = { 82 84 47 }
+  capital = c_one
+  k_one = {
+    color = { 67 96 16 }
+    capital = c_one
+    d_one = {
+      color = { 74 44 221 }
+      capital = c_one
+      c_one = {
+        color = { 115 208 108 }
+        b_one = {
+          province = 1
+          color = { 115 208 108 }
+        }
+        b_two = {
+          province = 2
+          color = { 115 30 180 }
+        }
+      }
+    }
+  }
+}
+# These titles cut hundreds of errors from logs.
+e_hre = { landless = yes }
+e_byzantium = { landless = yes }
+e_roman_empire = { landless = yes }
