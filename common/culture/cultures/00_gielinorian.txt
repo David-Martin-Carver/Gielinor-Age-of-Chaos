@@ -302,7 +302,7 @@ elven = {
 	traditions = {
 		tradition_poetry
 		tradition_concubines
-		tradition_highland_warriors
+		tradition_forest_fighters
 		tradition_longbow_competitions
 	}
 	
