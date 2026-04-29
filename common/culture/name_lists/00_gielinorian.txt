@@ -2353,5 +2353,87 @@ name_list_dwarven = {
 	}
 	female_names = {
 		Solonis Agmundi Grenda Fjoila Haera Hilda Brae Meike Sieglinde Vermundi Freda Jari 
-		Kili Anleif Kara Sagira Sarah 
+		Kili Anleif Kara Sagira Sarah }
+	}
+	name_list_gnomish = {
+	cadet_dynasty_names = { 
+		"dynn_Gianne"
+		"dynn_Le_Smith"
+		"dynn_Vieceli"
+		"dynn_Funch"
+		"dynn_Shareen"
+		"dynn_Tapio"
+		"dynn_Scilla"
+		"dynn_Nacklepen"
+		"dynn_Cianta"
+		"dynn_Oakheart"
+		"dynn_Glyph"
+		"dynn_Inquisitor"
+		"dynn_Skernip"
+		"dynn_Avlafrim"
+		"dynn_Gnonock"
+		"dynn_Winkin"
+		"dynn_Ebola"
+		"dynn_Arblenap"
+		"dynn_Imblewyn"
+		"dynn_Manglethorp"
+		"dynn_Onglewip"
+		"dynn_Butternut"
+		"dynn_Squecks"
+		"dynn_Bake"
+		"dynn_Gnomalus"
+		"dynn_MacKnee"
+		"dynn_van_Druman"
+		"dynn_Arrow"
+		"dynn_Huburns"
+		"dynn_Schepbur"
+		"dynn_Blinkin"
+	}
+	dynasty_names = {
+		"dynn_Gianne"
+		"dynn_Le_Smith"
+		"dynn_Vieceli"
+		"dynn_Funch"
+		"dynn_Shareen"
+		"dynn_Tapio"
+		"dynn_Scilla"
+		"dynn_Nacklepen"
+		"dynn_Cianta"
+		"dynn_Oakheart"
+		"dynn_Glyph"
+		"dynn_Inquisitor"
+		"dynn_Skernip"
+		"dynn_Avlafrim"
+		"dynn_Gnonock"
+		"dynn_Winkin"
+		"dynn_Ebola"
+		"dynn_Arblenap"
+		"dynn_Imblewyn"
+		"dynn_Manglethorp"
+		"dynn_Onglewip"
+		"dynn_Butternut"
+		"dynn_Squecks"
+		"dynn_Bake"
+		"dynn_Gnomalus"
+		"dynn_MacKnee"
+		"dynn_van_Druman"
+		"dynn_Arrow"
+		"dynn_Huburns"
+		"dynn_Schepbur"
+		"dynn_Blinkin"
+	}
+	male_names = {
+		Aluft Blurberry Bolongo Brimstail Burko Errdo Claudio Daero Eebel Ermin Froono
+		Giuseppe Francesco Giovanni Glough Vemmeldo Gulluck Heckel Hudo Narnode Meegle Perrdur
+		Rometti Sarble Spang Tamble Timble Wurbel Yaktwee Swinmari Bolkoy Bolrie Belmondo Montai 
+		Elkoy Golrie Kalron Bolren Remsai Bunkdo Bunkwicket Carado Garkor Karam Lumdo Lumo 
+		Waydar Waymottin Zooknock Ferrnook Gimblewap Spanfipple Brambickle Bleemadge Daerkin
+		Dalbur Klemfoodle Lamdoo Muggin Ninto Copernicus Dundee Elnock Frizzy Caranock Glouphrie Glouron Glout Glouck
+		Gnormadium Guy Hazelmere Laidee Longramble Nyriki Penwie Praistan Wilfred Wingstone
+		Yulf Almonred Deelie Darius Healthorg Peregrim Oaknock Pfaren Argenthorg Pukkamay Sam 
+		Yewnock Farquie Hieronymus Nirol Oomad Glophren Tellervo
+	}
+	female_names = {
+		Anita Dalila Damwin Femi Meegle Mieliki Prissy Sarble Golrana Ani Azalea Cheri Terri 
+		 Fara Deryn Dolly Edina Gena Donna Norda Sasquine }
 	}
