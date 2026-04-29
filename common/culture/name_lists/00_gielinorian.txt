@@ -2439,3 +2439,33 @@ name_list_dwarven = {
 		Anita Dalila Damwin Femi Meegle Mieliki Prissy Sarble Golrana Ani Azalea Cheri Terri 
 		 Fara Deryn Dolly Edina Gena Donna Norda Sasquine }
 	}
+	name_list_karamjan = {
+		cadet_dynasty_names = {
+			"dynn_Shakaya"
+			"dynn_Salika"
+			"dynn_Rei"
+			"dynn_Blinyo"
+			"dynn_Mau"
+			"dynn_Doc"
+			"dynn_Orses"
+			"dynn_Rses"
+		}
+		dynasty_names = {
+			"dynn_Shakaya"
+			"dynn_Salika"
+			"dynn_Rei"
+			"dynn_Blinyo"
+			"dynn_Mau"
+			"dynn_Doc"
+			"dynn_Orses"
+			"dynn_Rses"
+		}
+		male_names = {
+			Lubufu Kedoaba Kedenda Ibeli Kangai Relobo Izzy Hajedy Saniboch Theh Danthalas Bervirius Fanellaman Gabooty Imiago
+			Jagbakoba Karaday Murcaily Rionasta Safta Sharimika Tamayu Tiadeche Timfraku Trufitus Zadimus Duradel Fernahei Kaleb
+			Kelhar Lapalok Mosol Obli Seravel Yanni Vigroy Yohnus Theho Mambo Gujuo Ungadulu Luthas Kofi Yembo Zembo Guarani
+		}
+		female_names = {
+			Rimba Kuradal Jiminua Layleen Bufetta Rashiliya
+		}
+	}
