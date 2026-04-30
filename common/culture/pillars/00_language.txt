@@ -1,0 +1,187 @@
+language_common_tongue = {
+	type = language
+	is_shown = {
+		language_is_shown_trigger = {
+			LANGUAGE = language_common_tongue
+		}
+	}
+	ai_will_do = {
+		value = 10
+		if = {
+			limit = { has_cultural_pillar = language_common_tongue }
+			multiply = 10
+		}
+	}
+	
+	color = misthalanian
+}
+language_goblin = {
+	type = language
+	is_shown = {
+		language_is_shown_trigger = {
+			LANGUAGE = language_goblin
+		}
+	}
+	ai_will_do = {
+		value = 10
+		if = {
+			limit = { has_cultural_pillar = language_goblin }
+			multiply = 10
+		}
+	}
+	
+	color = surface_goblin
+}
+language_dwarven = {
+	type = language
+	is_shown = {
+		language_is_shown_trigger = {
+			LANGUAGE = language_dwarven
+		}
+	}
+	ai_will_do = {
+		value = 10
+		if = {
+			limit = { has_cultural_pillar = language_dwarven }
+			multiply = 10
+		}
+	}
+	
+	color = dwarven
+}
+language_elven = {
+	type = language
+	is_shown = {
+		language_is_shown_trigger = {
+			LANGUAGE = language_elven
+		}
+	}
+	ai_will_do = {
+		value = 10
+		if = {
+			limit = { has_cultural_pillar = language_elven }
+			multiply = 10
+		}
+	}
+	
+	color = elven
+}
+language_gnomish = {
+	type = language
+	is_shown = {
+		language_is_shown_trigger = {
+			LANGUAGE = language_gnomish
+		}
+	}
+	ai_will_do = {
+		value = 10
+		if = {
+			limit = { has_cultural_pillar = language_gnomish }
+			multiply = 10
+		}
+	}
+	
+	color = gnomish
+}
+language_icyene = {
+	type = language
+	is_shown = {
+		language_is_shown_trigger = {
+			LANGUAGE = language_icyene
+		}
+	}
+	ai_will_do = {
+		value = 10
+		if = {
+			limit = { has_cultural_pillar = language_icyene }
+			multiply = 10
+		}
+	}
+	
+	color = icyene
+}
+language_karamjan = {
+	type = language
+	is_shown = {
+		language_is_shown_trigger = {
+			LANGUAGE = language_karamjan
+		}
+	}
+	ai_will_do = {
+		value = 10
+		if = {
+			limit = { has_cultural_pillar = language_karamjan }
+			multiply = 10
+		}
+	}
+	
+	color = karamjan
+}
+language_menaphite = {
+	type = language
+	is_shown = {
+		language_is_shown_trigger = {
+			LANGUAGE = language_menaphite
+		}
+	}
+	ai_will_do = {
+		value = 10
+		if = {
+			limit = { has_cultural_pillar = language_menaphite }
+			multiply = 10
+		}
+	}
+	
+	color = menaphite
+}
+language_werewolf = {
+	type = language
+	is_shown = {
+		language_is_shown_trigger = {
+			LANGUAGE = language_werewolf
+		}
+	}
+	ai_will_do = {
+		value = 10
+		if = {
+			limit = { has_cultural_pillar = language_werewolf }
+			multiply = 10
+		}
+	}
+	
+	color = werewolf
+}
+language_fremennik = {
+	type = language
+	is_shown = {
+		language_is_shown_trigger = {
+			LANGUAGE = language_fremennik
+		}
+	}
+	ai_will_do = {
+		value = 10
+		if = {
+			limit = { has_cultural_pillar = language_fremennik }
+			multiply = 10
+		}
+	}
+	
+	color = fremennik
+}
+language_wushanko = {
+	type = language
+	is_shown = {
+		language_is_shown_trigger = {
+			LANGUAGE = language_wushanko
+		}
+	}
+	ai_will_do = {
+		value = 10
+		if = {
+			limit = { has_cultural_pillar = language_wushanko }
+			multiply = 10
+		}
+	}
+	
+	color = wushanko
+}

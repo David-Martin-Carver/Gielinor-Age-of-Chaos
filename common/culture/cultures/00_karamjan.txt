@@ -1,0 +1,31 @@
+karamjan = {
+	color = karamjan
+
+	ethos = ethos_spiritual
+	heritage = heritage_karamjan
+	language = language_karamjan
+	martial_custom = martial_custom_male_only
+	head_determination = head_determination_herd
+	traditions = {
+		tradition_isolationist
+		tradition_jungle_dwellers
+		tradition_jungle_warriors
+		tradition_bush_hunting
+	}
+
+	name_list = karamjan
+
+coa_gfx = { english_coa_gfx western_coa_gfx }
+	building_gfx = { western_building_gfx }
+	clothing_gfx = { english_clothing_gfx western_clothing_gfx }
+	unit_gfx = { western_unit_gfx }
+	house_coa_frame = house_frame_24
+	house_coa_mask_offset = { 0.0 0.055 }
+	house_coa_mask_scale = { 0.9 0.9 }
+	
+	ethnicities = {
+		70 = mediterranean
+		15 = african
+		15 = caucasian_blond
+	}
+}

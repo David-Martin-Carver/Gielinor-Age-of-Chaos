@@ -1,0 +1,99 @@
+heritage_bandosian = {
+	type = heritage
+	is_shown = {
+		heritage_is_shown_trigger = {
+			HERITAGE = heritage_bandosian
+		}
+	}
+	audio_parameter = european
+}
+heritage_dwarven = {
+	type = heritage
+	is_shown = {
+		heritage_is_shown_trigger = {
+			HERITAGE = heritage_dwarven
+		}
+	}
+	audio_parameter = european
+}
+heritage_elven = {
+	type = heritage
+	is_shown = {
+		heritage_is_shown_trigger = {
+			HERITAGE = heritage_elven
+		}
+	}
+	audio_parameter = european
+}
+heritage_gnomish = {
+	type = heritage
+	is_shown = {
+		heritage_is_shown_trigger = {
+			HERITAGE = heritage_gnomish
+		}
+	}
+	audio_parameter = european
+}
+heritage_hallowed = {
+	type = heritage
+	is_shown = {
+		heritage_is_shown_trigger = {
+			HERITAGE = heritage_hallowed
+		}
+	}
+	audio_parameter = european
+}
+heritage_karamjan = {
+	type = heritage
+	is_shown = {
+		heritage_is_shown_trigger = {
+			HERITAGE = heritage_karamjan
+		}
+	}
+	audio_parameter = european
+}
+heritage_kharidian = {
+	type = heritage
+	is_shown = {
+		heritage_is_shown_trigger = {
+			HERITAGE = heritage_kharidian
+		}
+	}
+	audio_parameter = european
+}
+heritage_mainland = {
+	type = heritage
+	is_shown = {
+		heritage_is_shown_trigger = {
+			HERITAGE = heritage_mainland
+		}
+	}
+	audio_parameter = european
+}
+heritage_morytanian = {
+	type = heritage
+	is_shown = {
+		heritage_is_shown_trigger = {
+			HERITAGE = heritage_morytanian
+		}
+	}
+	audio_parameter = european
+}
+heritage_northern = {
+	type = heritage
+	is_shown = {
+		heritage_is_shown_trigger = {
+			HERITAGE = heritage_northern
+		}
+	}
+	audio_parameter = european
+}
+heritage_wushanko = {
+	type = heritage
+	is_shown = {
+		heritage_is_shown_trigger = {
+			HERITAGE = heritage_wushanko
+		}
+	}
+	audio_parameter = european
+}

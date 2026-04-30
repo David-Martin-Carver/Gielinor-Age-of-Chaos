@@ -1,0 +1,99 @@
+surface_goblin = {
+	color = surface_goblin
+	
+	ethos = ethos_bellicose
+	heritage = heritage_bandosian
+	language = language_goblin
+	martial_custom = martial_custom_equal
+	head_determination = head_determination_domain
+	traditions = {
+		tradition_warrior_culture
+		tradition_strength_in_numbers
+		tradition_frugal_armorsmiths
+		tradition_quarrelsome
+		tradition_adaptive_skirmishing
+	}
+	
+	name_list = name_list_surface_goblin
+	
+	coa_gfx = { english_coa_gfx western_coa_gfx }
+	building_gfx = { western_building_gfx }
+	clothing_gfx = { english_clothing_gfx western_clothing_gfx }
+	unit_gfx = { western_unit_gfx }
+	house_coa_frame = house_frame_24
+	house_coa_mask_offset = { 0.0 0.055 }
+	house_coa_mask_scale = { 0.9 0.9 }
+	
+	ethnicities = {
+		25 = caucasian_blond
+		15 = caucasian_ginger
+		35 = caucasian_brown_hair
+		25 = caucasian_dark_hair
+	}
+}
+ogre = {
+	color = ogre
+
+	ethos = ethos_bellicose
+	heritage = heritage_bandosian
+	language = language_common_tongue
+	martial_custom = martial_custom_equal
+	head_determination = head_determination_domain
+	traditions = {
+		tradition_warrior_culture
+		tradition_hill_dwellers
+		tradition_ruling_caste
+		tradition_highland_warriors
+		tradition_longbow_competitions
+		tradition_storytellers
+	}
+	name_list = name_list_ogre
+	
+	coa_gfx = { english_coa_gfx western_coa_gfx }
+	building_gfx = { western_building_gfx }
+	clothing_gfx = { english_clothing_gfx western_clothing_gfx }
+	unit_gfx = { western_unit_gfx }
+	house_coa_frame = house_frame_24
+	house_coa_mask_offset = { 0.0 0.055 }
+	house_coa_mask_scale = { 0.9 0.9 }
+	
+	ethnicities = {
+		25 = caucasian_blond
+		15 = caucasian_ginger
+		35 = caucasian_brown_hair
+		25 = caucasian_dark_hair
+	}
+}
+troll = {
+	color = troll
+
+	ethos = ethos_bellicose
+	heritage = heritage_bandosian
+	language = language_common_tongue
+	martial_custom = martial_custom_male_only
+	head_determination = head_determination_domain
+	traditions = {
+		tradition_warrior_culture
+		tradition_mountain_homes
+		tradition_mountaineers
+		tradition_winter_warriors
+		tradition_nudists
+	}
+	name_list = name_list_troll
+	
+	coa_gfx = { english_coa_gfx western_coa_gfx }
+	building_gfx = { western_building_gfx }
+	clothing_gfx = { english_clothing_gfx western_clothing_gfx }
+	unit_gfx = { western_unit_gfx }
+	house_coa_frame = house_frame_24
+	house_coa_mask_offset = { 0.0 0.055 }
+	house_coa_mask_scale = { 0.9 0.9 }
+	
+	ethnicities = {
+		25 = caucasian_blond
+		15 = caucasian_ginger
+		35 = caucasian_brown_hair
+		25 = caucasian_dark_hair
+	}
+
+}
