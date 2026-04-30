@@ -1,4 +1,4 @@
-name_list_saradominist = {
+name_list_common = {
 
 	cadet_dynasty_names = {
 		{ "dynnp_de" "dynn_Bohun" }
