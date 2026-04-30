@@ -2536,9 +2536,9 @@ name_list_dwarven = {
 		"dynn_Yaakov
 	}
 	dynasty_names = {
-		dynn_Charron
-		dynn_Ananka
-		dynn_Lesarkus
+		"dynn_Charron"
+		"dynn_Ananka"
+		"dynn_Lesarkus"
 		"dynn_Rabban"
 		"dynn_Efraim"
 		"dynn_Eliyahu"
