@@ -2592,3 +2592,17 @@ name_list_dwarven = {
 	
 	dynasty_of_location_prefix = "dynnp_of"
 	}
+	name_list_troll = {
+
+		male_names = {
+			"Wolf Bones" "Wolf Meat" Ash Dung Mushroom Burntmeat "My Arm" "Drunken dwarf's leg" "Big Rock" "Pretty Flower" 
+			"Sparkly Crystal" "Dwarf Bone" Dad Crate "Easta Buni" Diplomat Kris Lalli Fossil Bubbles Harpoon Milkshake Himself 
+			"Mister Please No Don't Eat Me" "Grey Rocky thing What Looked Like A Rock But Not A Rock" Wizard Summoner Dynamite
+			"Poorly Cooked Karambwan" Morningstar "Magic Stick" Anvil Cliff "The Map" "Pee Hat" Kraka Stick Rock Berry Twig
+			Arrg Lol Stove GP "Fat Toad" Terry "Icy Bones" Seradoomin "Spicy Flower" Wall
+		}
+		female_names = { 
+			Aga Egg "Tiny Insect"
+			}
+
+	}
