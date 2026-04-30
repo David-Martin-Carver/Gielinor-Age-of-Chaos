@@ -1,58 +1,169 @@
 name_list_common = {
 
-	cadet_dynasty_names = {
-		{ "dynnp_de" "dynn_Bohun" }
-		{ "dynnp_de" "dynn_Vere" }
-		{ "dynnp_de" "dynn_Gand" }
-		"dynn_Myall"
-		{ "dynnp_de" "dynn_Turberville" }
-		{ "dynnp_de" "dynn_Holland" }
-		"dynn_Butler"
-		{ "dynnp_of" "dynn_Thornham" }
-		{ "dynnp_de" "dynn_Camville" }
-		"dynn_Breakspear"
-		{ "dynnp_of" "dynn_Itchington" }
-		{ "dynnp_of" "dynn_Northall" }
-		{ "dynnp_de" "dynn_Montagu" }
-		{ "dynnp_de" "dynn_Umfraville" }
-		"dynn_FitzPeter"
-		"dynn_Belles-mains"
-		{ "dynnp_of" "dynn_Warwick" }
-		"dynn_FitzAlan"
-		{ "dynnp_de" "dynn_Beauchamp" }
-		{ "dynnp_of" "dynn_Ilchester" }
-		{ "dynnp_de" "dynn_Raleigh" }
-		{ "dynnp_de" "dynn_Stratford" }
-		"dynn_Becket"
-		{ "dynnp_de" "dynn_la_Pole" }
+		cadet_dynasty_names = {
+		"dynn_Hayles"
+		{ "dynnp_of" "dynn_Norfolk" }
+		"dynn_Rose"
+		"dynn_Dodington"
+		"dynn_Stawell"
+		"dynn_Huntingdon"
+		"dynn_Lockhart"
+		"dynn_Wuffing"
+		"dynn_Henry"
+		"dynn_Hastings"
+		"dynn_Puttoc"
+		{ "dynnp_of" "dynn_Anglo-Saxony" }
+		{ "dynnp_of" "dynn_Northampton" }
+		"dynn_A_theling"
+		"dynn_Moore"
+		"dynn_Fysche"
+		"dynn_Dall"
+		"dynn_Slee"
+		"dynn_Kiil"
+		"dynn_Mel"
+		"dynn_Holter"
+		"dynn_Randolph"
+		"dynn_Percy"
+		"dynn_Despencer"
+		"dynn_Bacon"
+		"dynn_Reresby"
+		"dynn_Cornwallis"
+		"dynn_Clifford"
+		"dynn_Carew"
+		"dynn_Maddock"
+		"dynn_Fortescue"
+		{ "dynnp_de" "dynn_Ros" }
+		"dynn_Howard"
+		"dynn_Maudit"
+		"dynn_Berkeley"
+		"dynn_Barton"
+		"dynn_Colvile"
+		"dynn_Grey"
+		"dynn_Darcy"
+		{ "dynnp_de" "dynn_Garlande" }
+		"dynn_Perry"
+		"dynn_Bethell"
+		"dynn_Perry"
+		"dynn_Borthwick"
+		{ "dynnp_de" "dynn_London" }
+		{ "dynnp_of" "dynn_Hereford" }
+		{ "dynnp_of" "dynn_Gloucester" }
+		{ "dynnp_of" "dynn_Oxford" }
+		{ "dynnp_of" "dynn_Salisbury" }
+		{ "dynnp_of" "dynn_Surrey" }
+		{ "dynnp_of" "dynn_Sussex" }
+		{ "dynnp_of" "dynn_Hampshire" }
+		{ "dynnp_of" "dynn_Dorset" }
+		{ "dynnp_of" "dynn_Somerset" }
+		{ "dynnp_of" "dynn_Devon" }
+		{ "dynnp_of" "dynn_Exeter" }
+		{ "dynnp_of" "dynn_Cumberland" }
+		{ "dynnp_of" "dynn_York" }
+		{ "dynnp_of" "dynn_Lancaster" }
+		{ "dynnp_of" "dynn_Chester" }
+		{ "dynnp_of" "dynn_Lincoln" }
+		{ "dynnp_of" "dynn_Leicester" }
+		{ "dynnp_of" "dynn_Derby" }
+		{ "dynnp_of" "dynn_Shrewsbury" }
+		{ "dynnp_of" "dynn_Northampton" }
+		{ "dynnp_of" "dynn_Bedford" }
+		{ "dynnp_of" "dynn_Norfolk" }
+		{ "dynnp_of" "dynn_Suffolk" }
+		"dynn_Crawford"
+		"dynn_Tynedale"
+		"dynn_Pudsey"
+		"dynn_Marshal"
+		"dynn_Rowe"
+		{ "dynnp_de" "dynn_Criel" }
+		"dynn_Ciesla"
+		"dynn_Ross"
+		"dynn_Wuffing"
+		"dynn_Beorming"
+		"dynn_Eorling"
+		"dynn_A_bbing"
+		"dynn_A_lling"
+		"dynn_Wintaling"
 	}
 
 	dynasty_names = {
-		{ "dynnp_de" "dynn_Bohun" }
-		{ "dynnp_de" "dynn_Vere" }
-		{ "dynnp_de" "dynn_Gand" }
-		"dynn_Myall"
-		{ "dynnp_de" "dynn_Turberville" }
-		{ "dynnp_de" "dynn_Holland" }
-		"dynn_Butler"
-		{ "dynnp_of" "dynn_Thornham" }
-		{ "dynnp_de" "dynn_Camville" }
-		"dynn_Breakspear"
-		{ "dynnp_of" "dynn_Itchington" }
-		{ "dynnp_of" "dynn_Northall" }
-		{ "dynnp_de" "dynn_Montagu" }
-		{ "dynnp_de" "dynn_Umfraville" }
-		"dynn_FitzPeter"
-		"dynn_Belles-mains"
-		{ "dynnp_of" "dynn_Warwick" }
-		"dynn_FitzAlan"
-		{ "dynnp_de" "dynn_Beauchamp" }
-		{ "dynnp_of" "dynn_Ilchester" }
-		{ "dynnp_de" "dynn_Raleigh" }
-		{ "dynnp_de" "dynn_Stratford" }
-		"dynn_Becket"
-		{ "dynnp_de" "dynn_la_Pole" }
-	}
+		"dynn_Hayles"
+		{ "dynnp_of" "dynn_Norfolk" }
+		"dynn_Rose"
+		"dynn_Dodington"
+		"dynn_Stawell"
+		"dynn_Huntingdon"
+		"dynn_Lockhart"
+		"dynn_Wuffing"
+		"dynn_Henry"
+		"dynn_Hastings"
+		"dynn_Puttoc"
+		{ "dynnp_of" "dynn_Misthalin" }
+		{ "dynnp_of" "dynn_Asgarnia" }
+		{ "dynnp_of" "dynn_Kandarin" }
+		{ "dynnp_of" "dynn_Havenhythe" }
+		{ "dynnp_of" "dynn_Entrana" }
+		"dynn_A_theling"
+		"dynn_Moore"
+		"dynn_Fysche"
+		"dynn_Dall"
+		"dynn_Slee"
+		"dynn_Kiil"
+		"dynn_Mel"
+		"dynn_Holter"
+		"dynn_Randolph"
+		"dynn_Percy"
+		"dynn_Despencer"
+		"dynn_Bacon"
+		"dynn_Reresby"
+		"dynn_Cornwallis"
+		"dynn_Clifford"
+		"dynn_Carew"
+		"dynn_Maddock"
+		"dynn_Fortescue"
+		{ "dynnp_de" "dynn_Ros" }
+		"dynn_Howard"
+		"dynn_Maudit"
+		"dynn_Berkeley"
+		"dynn_Barton"
+		"dynn_Colvile"
+		"dynn_Grey"
+		"dynn_Darcy"
+		{ "dynnp_de" "dynn_Garlande" }
+		"dynn_Perry"
+		"dynn_Bethell"
+		"dynn_Perry"
+		"dynn_Borthwick"
+		{ "dynnp_de" "dynn_Varrock" }
+		{ "dynnp_of" "dynn_Lumbridge" }
+		{ "dynnp_of" "dynn_Edgeville" }
+		{ "dynnp_of" "dynn_Lumford" }
+		{ "dynnp_of" "dynn_Draynor" }
+		{ "dynnp_of" "dynn_Forinthry" }
+		{ "dynnp_of" "dynn_Falador" }
+		{ "dynnp_of" "dynn_Sarim" }
+		{ "dynnp_of" "dynn_Taverley" }
+		{ "dynnp_of" "dynn_Burthorpe" }
+		{ "dynnp_of" "dynn_Catherby" }
+		{ "dynnp_of" "dynn_Seers'_Village" }
+		{ "dynnp_of" "dynn_Ardougne" }
+		{ "dynnp_of" "dynn_Yanille" }
+		{ "dynnp_of" "dynn_Ashdale" }
+		{ "dynnp_of" "dynn_Wendlewick" }
+		{ "dynnp_of" "dynn_Anachronia" }
+		"dynn_Crawford"
+		"dynn_Tynedale"
+		"dynn_Pudsey"
+		"dynn_Marshal"
+		"dynn_Rowe"
+		{ "dynnp_de" "dynn_Criel" }
+		"dynn_Ciesla"
+		"dynn_Ross"
+		"dynn_Wuffing"
+		"dynn_Beorming"
+		"dynn_Eorling"
+		"dynn_A_bbing"
+		"dynn_A_lling"
+		"dynn_Wintaling"
 	
 	# Does not exist in 1066 - is the result of cultural amalgamation between Saxon and Norman through events
 	male_names = {
