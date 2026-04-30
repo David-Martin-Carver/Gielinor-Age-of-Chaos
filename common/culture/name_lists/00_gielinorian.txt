@@ -2507,3 +2507,21 @@ name_list_dwarven = {
 			Alexis Galina Irina Ksenia Liliya Milla Nikita Sofiya Svetlana Vera Yadviga Zoja
 		}
 	}
+	name_list_teragardian
+	cadet_dynasty_names = {
+		dynn_Charron
+		dynn_Ananka
+		dynn_Lesarkus
+	}
+	dynasty_names = {
+		dynn_Charron
+		dynn_Ananka
+		dynn_Lesarkus
+	}
+	male_names = {
+		Leka Jeconiah Oreb Robert Arthur Merlin Kay Bedivere Pelleas Tristram Palomedes Lucan Gawain Lancelot Galahad
+	}
+	female_names = {
+		Adela Adelaide Alice Amice Anne Aveline Beatrice Blanche Catherine Cecilia Constance Edith Ela Eleanor Elizabeth Emma Hawise Isabel
+		Isabella Joan Joanna Juliana Mahaut Margaret Mary Matilda Maud Philippa Sybilla
+	}
