@@ -12,3 +12,18 @@ name_list_troll = {
 			}
 
 	}
+	name_list_ogre = {
+		cadet_dynasty_names = {
+			Uglogwee Nar
+		}
+		dynasty_names = {
+			Uglogwee Nar
+		}
+	}
+	male_names = {
+		Gorad Bogrog Bugs Chomp Dal Dalgroth Farkle Gargh Glum Grew Grish Grr'bah Grub Grug Gruh Grunsh Grunther Nung Og Orge Pilg Rantz
+		Scarg Skrach Thuddley Toban Uglug
+	}
+	female_names = {
+		Chargurr Tess Frawd Fycie I'rk Kringk Seegud Snarrk Snarrl Snert Snurgh Thump Tyke 
+		}
