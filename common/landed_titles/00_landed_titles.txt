@@ -17,6 +17,22 @@ e_one = {
           province = 2
           color = { 115 30 180 }
         }
+        b_5 = {
+          province = 5
+          color = { 115 30 180 }
+        }
+        b_6 = {
+          province = 6
+          color = { 115 30 180 }
+        }
+        b_7 = {
+          province = 7
+          color = { 115 30 180 }
+        }
+        b_8 = {
+          province = 8
+          color = { 115 30 180 }
+        }
       }
     }
   }

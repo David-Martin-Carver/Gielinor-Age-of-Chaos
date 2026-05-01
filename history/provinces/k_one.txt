@@ -8,3 +8,23 @@
 	religion = faith_58_faith
 	holding = city_holding
 }
+5 = {
+	culture = misthalanian
+	religion = faith_58_faith
+	holding = castle_holding
+}
+6 = {
+	culture = misthalanian
+	religion = faith_58_faith
+	holding = church_holding
+}
+7 = {
+	culture = misthalanian
+	religion = faith_58_faith
+	holding = city_holding
+}
+8 = {
+	culture = misthalanian
+	religion = faith_58_faith
+	holding = city_holding
+}
