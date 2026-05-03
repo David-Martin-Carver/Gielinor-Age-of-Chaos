@@ -52,6 +52,9 @@ icyene = {
 	house_coa_frame = house_frame_16
 	
 	ethnicities = {
-		100 = mediterranean_byzantine
+		25 = caucasian_blond
+		15 = caucasian_ginger
+		35 = caucasian_brown_hair
+		25 = caucasian_dark_hair
 	}
 }

@@ -1,5 +1,10 @@
 name_list_troll = {
-
+	cadet_dynasty_names = {
+		"dynn_Troll"
+	}
+	dynasty_names = {
+		"dynn_Troll"
+	}
 		male_names = {
 			"Wolf Bones" "Wolf Meat" Ash Dung Mushroom Burntmeat "My Arm" "Drunken dwarf's leg" "Big Rock" "Pretty Flower" 
 			"Sparkly Crystal" "Dwarf Bone" Dad Crate "Easta Buni" Diplomat Kris Lalli Fossil Bubbles Harpoon Milkshake Himself 
