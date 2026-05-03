@@ -190,3 +190,98 @@ name_list_werewolf = {
 			Alexis Galina Irina Ksenia Liliya Milla Nikita Sofiya Svetlana Vera Yadviga Zoja
 		}
 	}
+	name_list_vampyric = {
+		cadet_dynasty_names = {
+			"dynn_Bechstein"
+			"dynn_Belamorta"
+			"dynn_Caernivus"
+			"dynn_Constantine"
+			"dynn_Daubenton"
+			"dynn_Diaemus"
+			"dynn_Dracyula"
+			"dynn_Draynor"
+			"dynn_Helsing"
+			"dynn_Lasiurus"
+			"dynn_Lugosi"
+			"dynn_Nightshade"
+			"dynn_Rasputin"
+			"dynn_Sanguine"
+			{ "dynnp_van" "dynn_Von" }
+			{ "dynnp_von" "dynn_Pitt" }
+			{ "dynnp_von" "dynn_Drak" }
+			{ "dynnp_von" "dynn_Tyn"}
+			"dynn_Alzeph"
+			"dynn_Drakan"
+			"dynn_Ghrazi"
+			"dynn_Jovkai"
+			"dynn_Myrmel"
+			"dynn_Pyrah"
+			"dynn_Shadum"
+			"dynn_Vitur"
+			"dynn_Klause"
+			"dynn_Check"
+			"dynn_Kaninus"
+			"dynn_Vakan"
+			"dynn_Varnis"
+			"dynn_Kaust"
+			{ "dynnp_Von" "dynn_Blott"}
+			"dynn_Lamescus"
+			"dynn_Bloodmortis"
+			"dynn_Draemus"
+			"dynn_Gorthaur"
+			"dynn_Mortshade"
+			"dynn_Noctantine"
+			"dynn_Plaguemanst"
+		}
+		dynasty_names = {
+			"dynn_Bechstein"
+			"dynn_Belamorta"
+			"dynn_Caernivus"
+			"dynn_Constantine"
+			"dynn_Daubenton"
+			"dynn_Diaemus"
+			"dynn_Dracyula"
+			"dynn_Draynor"
+			"dynn_Helsing"
+			"dynn_Lasiurus"
+			"dynn_Lugosi"
+			"dynn_Nightshade"
+			"dynn_Rasputin"
+			"dynn_Sanguine"
+			{ "dynnp_van" "dynn_Von" }
+			{ "dynnp_von" "dynn_Pitt" }
+			{ "dynnp_von" "dynn_Drak" }
+			{ "dynnp_von" "dynn_Tyn"}
+			"dynn_Alzeph"
+			"dynn_Drakan"
+			"dynn_Ghrazi"
+			"dynn_Jovkai"
+			"dynn_Myrmel"
+			"dynn_Pyrah"
+			"dynn_Shadum"
+			"dynn_Vitur"
+			"dynn_Klause"
+			"dynn_Check"
+			"dynn_Kaninus"
+			"dynn_Vakan"
+			"dynn_Varnis"
+			"dynn_Kaust"
+			{ "dynnp_Von" "dynn_Blott"}
+			"dynn_Lamescus"
+			"dynn_Bloodmortis"
+			"dynn_Draemus"
+			"dynn_Gorthaur"
+			"dynn_Mortshade"
+			"dynn_Noctantine"
+			"dynn_Plaguemanst"
+		}
+		male_names = {
+        Carnivus Desmodus Draconis Grigor Haemas Lowerniel Mort Noctillion Remus Tytn Valentin Vampyrus Vlad Von Vergidiyad Ranis
+		Vanstrom Malak Dessous Mischa Alexei Artyom Grigori Zigfrid Malachi Simeon Johannes Solomon Grigan Misdrievus Ruantun
+		Sanguinus Stepan Vengen Morgast
+		}
+		female_names = {
+        Caninelle Carnivara Crimsonette Diphylla Episcula Mortina Natalidae Noctilla Pipistrelle Valentina Vallessia Vampyressa
+		Vanescula Violetta Vonnetta Mornid Nadezhda Anastasia Masha Verzik Anya Valentina Sascha Genevieve
+		}
+	}

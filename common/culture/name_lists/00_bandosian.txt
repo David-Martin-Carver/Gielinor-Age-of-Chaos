@@ -14,10 +14,12 @@ name_list_troll = {
 	}
 	name_list_ogre = {
 		cadet_dynasty_names = {
-			Uglogwee Nar
+			"dynn_Uglogwee"
+			"dynn_Nar"
 		}
 		dynasty_names = {
-			Uglogwee Nar
+			"dynn_Uglogwee" 
+			"dynn_Nar"
 		}
 	}
 	male_names = {
@@ -26,4 +28,214 @@ name_list_troll = {
 	}
 	female_names = {
 		Chargurr Tess Frawd Fycie I'rk Kringk Seegud Snarrk Snarrl Snert Snurgh Thump Tyke 
+		}
+		name_list_surface_goblin = {
+			cadet_dynasty_names = {
+				"dynn_Thorobshuun"
+				"dynn_Garagorshuun"
+				"dynn_Rekeshuun"
+				"dynn_Drogokishuun"
+				"dynn_Huzamogaarb"
+				"dynn_Saragorgak"
+				"dynn_Ekeleshuun"
+				"dynn_Idithuun"
+				"dynn_Narogoshuun"
+				"dynn_Horogothgar"
+				"dynn_Yurkolgokh"
+			}
+			dynasty_names = {
+				"dynn_Thorobshuun"
+				"dynn_Garagorshuun"
+				"dynn_Rekeshuun"
+				"dynn_Drogokishuun"
+				"dynn_Huzamogaarb"
+				"dynn_Saragorgak"
+				"dynn_Ekeleshuun"
+				"dynn_Idithuun"
+				"dynn_Narogoshuun"
+				"dynn_Horogothgar"
+				"dynn_Yurkolgokh"
+			}
+			male_names = {
+				Brokeface Hollowtoof Lumpnose Stinkears Wormbrain Yelps Clothears Creakyknees Bentnoze Wartface Goutbones Greasycheeks
+				Greldo Grubfoot Bighead Murknose Ramsay Rumbleguts Mossfists Slimetoes Slimepits Smellytoes Snotgut Stubthumb Snailfeet
+				Snothead Gubblebak Snailhead Shuddergob Toadbrain Wartknees Dumbface Grimeface Kringle "Phlegm Knee" Barkfoot Frogtongue
+				Maggotscratch Mossbrain Snakearms Tiptup Weakback Bilegut Spitfoot Wormelbow Mouldfinger Offalfoot Spittletoe Snotpit
+				Globfinger Slopfinger Manktongue Pulpknuckle Mudfoot Grimeface Kringle Naghead Wagchin Mudknuckles Beetlearms
+				Beetlebeard Beetleblood Beetlebones Beetlebottom Beetlebrain Beetlebrains Beetlechin Beetleears Beetleeye Beetleeyes
+				Beetleface Beetlefeet Beetlefinger Beetlefingers Beetlefists Beetlefoot Beetlehair Beetlehands Beetlehead Beetleknees
+				Beetleknuckles Beetlelegs Beetlenails Beetleneck Beetlenose Beetleteeth Beetlethighs Beetlethumb Beetletoes Beetletongue
+				Bentarms Bentbeard Bentblood Bentbones Bentbottom Bentbrain Bentbrains Bentchin Bentears Benteye Benteyes Bentface Bentfeet
+				Bentfinger Bentfingers Bentfists Bentfoot Benthair Benthands Benthead Bentknees Bentknuckles Bentlegs Bentnails Bentneck
+				Bentnose Bentteeth Bentthighs Bentthumb Benttoes Benttongue Blobarms Blobbeard Blobblood Blobbones Blobbottom Blobbrain Blobbrains
+				Blobchin Blobears Blobeye Blobeyes Blobface Blobfeet Blobfinger Blobfingers Blobfists Blobfoot Blobhair Blobhands Blobhead
+				Blobknees Blobknuckles Bloblegs Blobnails Blobneck Blobnose Blobteeth Blobthighs Blobthumb Blobtoes Blobtongue Bonearms
+				Bonebeard Boneblood Bonebones Bonebottom Bonebrain Bonebrains Bonechin Boneears Boneeye Boneeyes Boneface Bonefeet Bonefinger
+				Bonefingers Bonefists Bonefoot Bonehair Bonehands Bonehead Boneknees Boneknuckles Bonelegs Bonenails Boneneck Bonenose
+				Boneteeth Bonethighs Bonethumb Bonetoes Bonetongue Dirtarms Dirtbeard Dirtblood Dirtbones Dirtbottom Dirtbrain Dirtbrains
+				Dirtchin Dirtears Dirteye Dirteyes Dirtface Dirtfeet Dirtfinger Dirtfingers Dirtfists Dirtfoot Dirthair Dirthands Dirthead
+				Dirtknees Dirtknuckles Dirtlegs Dirtnails Dirtneck Dirtnose Dirtteeth Dirtthighs Dirtthumb Dirttoes Dirttongue Driparms Dripbeard
+				Dripblood Dripbones Dripbottom Dripbrain Dripbrains Dripchin Dripears Dripeye Dripeyes Dripface Dripfeet Dripfinger Dripfingers
+				Dripfists Dripfoot Driphair Driphands Driphead Dripknees Dripknuckles Driplegs Dripnails Dripneck Dripnose Dripteeth Dripthighs
+				Dripthumb Driptoes Driptongue Eartharms Earthbeard Earthblood Earthbones Earthbottom Earthbrain Earthbrains Earthchin Earthears
+				Eartheye Eartheyes Earthface Earthfeet Earthfinger Earthfingers Earthfists Earthfoot Earthhair Earthhands Earthhead Earthknees
+				Earthknuckles Earthlegs Earthnails Earthneck Earthnose Earthteeth Earththighs Earththumb Earthtoes Earthtongue
+				Fatarms Fatbeard Fatblood Fatbones Fatbottom Fatbrain Fatbrains Fatchin Fatears Fateye Fateyes Fatface Fatfeet Fatfinger
+				Fatfingers Fatfists Fatfoot Fathair Fathands Fathead Fatknees Fatknuckles Fatlegs Fatnails Fatneck Fatnose Fatteeth Fatthighs
+				Fatthumb Fattoes Fattongue Foularms Foulbeard Foulblood Foulbones Foulbottom Foulbrain Foulbrains Foulchin Foulears Fouleye
+				Fouleyes Foulface Foulfeet Foulfinger Foulfingers Foulfists Foulfoot Foulhair Foulhands Foulhead Foulknees Foulknuckles
+				Foullegs Foulnails Foulneck Foulnose Foulteeth Foulthighs Foulthumb Foultoes Foultongue Frogarms Frogbeard Frogblood Frogbones
+				Frogbottom Frogbrain Frogbrains Frogchin Frogears Frogeye Frogeyes Frogface Frogfeet Frongfinger Frongfingers Frogfists Frogfoot
+				Froghair Froghands Froghead Frogknees Frogknuckles Froglegs Frognails Frogneck Frognose Frogteeth Frogthighs Frogthumb
+				Frogtoes Frogtongue Grassarms Grassbeard Grassblood Grassbones Grassbottom Grassbrain Grassbrains Grasschin Grassears Grasseye
+				Grasseyes Grassface Grassfeet Grassfinger Grassfingers Grassfists Grassfoot Grasshair Grasshands Grasshead Grassknees
+				Grassknuckles Grasslegs Grassnails Grassneck Grassnose Grassteeth Grassthighs Grassthumb Grasstoes Grasstongue Grubarms
+				Grubbeard Grubblood Grubbones Grubbottom Grubbrain Grubbrains Grubchin Grubears Grubeye Grubeyes Grubface Grubfeet Grubfinger
+				Grubfingers Grubfists Grubfoot Grubhair Grubhands Grubhead Grubknees Grubknuckles Grublegs Grubnails Grubneck Grubnose Grubteeth
+				Grubthighs Grubthumb Grubtoes Grubtongue Lumparms Lumpbeard Lumpblood Lumpbones Lumpbottom Lumpbrain Lumpbrains Lumpchin
+				Lumpears Lumpeye Lumpeyes Lumpface Lumpfeet Lumpfinger Lumpfingers Lumpfists Lumpfoot Lumphair Lumphands Lumphead
+				Lumpknees Lumpknuckles Lumplegs Lumpnails Lumpneck Lumpnose Lumpteeth Lumpthighs Lumpthumb Lumptoes Lumptongue Maggotarms
+				Maggotbeard Maggotblood Maggotbones Maggotbottom Maggotbrain Maggotbrains Maggotchin Maggotears Maggoteye Maggoteyes
+				Maggotface Maggotfeet Maggotfinger Maggotfingers Maggotfists Maggotfoot Maggothair Maggothands Maggothead Maggotknees
+				Maggotknuckles Maggotlegs Maggotnails Maggotneck Maggotnose Maggotteeth Maggotthighs Maggotthumb Maggottoes Maggottongue
+				Mossarms Mossbeard Mossblood Mossbones Mossbottom Mossbrain Mossbrains Mosschin Mossears Mosseye Mosseyes Mossface Mossfeet
+				Mossfinger Mossfingers Mossfists Mossfoot Mosshair Mosshands Mosshead Mossknees Mossknuckles Mosslegs Mossnails Mossneck
+				Mossnose Mossteeth Mossthighs Mossthumb Mosstoes Mosstongue Mudarms Mudbeard Mudblood Mudbones Mudbottom Mudbrain Mudbrains
+				Mudchin Mudears Mudeye Mudeyes Mudface Mudfeet Mudfinger Mudfingers Mudfists Mudfoot Mudhair Mudhands Mudhead Mudknees
+				Mudknuckles Mudlegs Mudnails Mudneck Mudnose Mudteeth Mudthighs Mudthumb Mudtoes Mudtongue Roacharms Roachbeard Roachblood
+				Roachbones Roachbottom Roachbrain Roachbrains Roachchin Roachears Roacheye Roacheyes Roachface Roachfeet Roachfinger
+				Roachfingers Roachfists Roachfoot Roachhair Roachhands Roachhead Roachknees Roachknuckles Roachlegs Roachnails Roachneck
+				Roachnose Roachteeth Roachthighs Roachthumb Roachtoes Roachtongue Slimearms Slimebeard Slimeblood Slimebones Slimebottom
+				Slimebrain Slimebrains Slimechin Slimeears Slimeeye Slimeeyes Slimeface Slimefeet Slimefinger Slimefingers Slimefists
+				Slimefoot Slimehair Slimehands Slimehead Slimeknees Slimeknuckles Slimelegs Slimenails Slimeneck Slimenose Slimeteeth
+				Slimethighs Slimethumb Slimetoes Slimetongue Slugarms Slugbeard Slugblood Slugbones Slugbottom Slugbrain Slugbrains Slugchin
+				Slugears Slugeye Slugeyes Slugface Slugfeet Slugfinger Slugfingers Slugfists Slugfoot Slughair Slughands Slughead Slugknees
+				Slugknuckles Sluglegs Slugnails Slugneck Slugnose Slugteeth Slugthighs Slugthumb Slugtoes Slugtongue Smallarms Smallbeard
+				Smallblood Smallbones Smallbottom Smallbrain Smallbrains Smallchin Smallears Smalleye Smalleyes Smallface Smallfeet
+				Smallfinger Smallfingers Smallfists Smallfoot Smallhair Smallhands Smallhead Smallknees Smallknuckles Smalllegs Smallnails
+				Smallneck Smallnose Smallteeth Smallthighs Smallthumb Smalltoes Smalltongue Smellyarms Smellybeard Smellyblood Smellybones
+				Smellybottom Smellybrain Smellybrains Smellychin Smellyears Smellyeye Smellyeyes Smellyface Smellyfeet Smellyfinger
+				Smellyfingers Smellyfists Smellyfoot Smellyhair Smellyhands Smellyhead Smellyknees Smellyknuckles Smellylegs Smellynails
+				Smellyneck Smellynose Smellyteeth Smellythighs Smellythumb Smellytoes Smellytongue Snailarms Snailbeard Snailblood Snailbones
+				Snailbottom Snailbrain Snailbrains Snailchin Snailears Snaileye Snaileyes Snailface Snailfeet Snailfinger Snailfingers
+				Snailfists Snailfoot Snailhair Snailhands Snailhead Snailknees Snailknuckles Snaillegs Snailnails Snailneck Snailnose
+				Snailteeth Snailthighs Snailthumb Snailtoes Snailtongue Snowarms Snowbeard Snowblood Snowbones Snowbottom Snowbrain Snowbrains
+				Snowchin Snowears Snoweye Snoweyes Snowface Snowfeet Snowfinger Snowfingers Snowfists Snowfoot Snowhair Snowhands Snowhead
+				Snowknees Snowknuckles Snowlegs Snownails Snowneck Snownose Snowteeth Snowthighs Snowthumb Snowtoes Snowtongue Snotarms
+				Snotbeard Snotblood Snotbones Snotbottom Snotbrain Snotbrains Snotchin Snotears Snoteye Snoteyes Snotface Snotfeet
+				Snotfinger Snotfingers Snotfists Snotfoot Snothair Snothands Snothead Snotknees Snotknuckles Snotlegs Snotnails
+				Snotneck Snotnose Snotteeth Snotthighs Snotthumb Snottoes Snottongue Stupidarms Stupidbeard Stupidblood Stupidbones
+				Stupidbottom Stupidbrain Stupidbrains Stupidchin Stupidears Stupideye Stupideyes Stupidface Stupidfeet Stupidfinger
+				Stupidfingers Stupidfists Stupidfoot Stupidhair Stupidhands Stupidhead Stupidknees Stupidknuckles Stupidlegs Stupidnails
+				Stupidneck Stupidnose Stupidteeth Stupidthighs Stupidthumb Stupidtoes Stupidtongue Thickarms Thickbeard Thickblood Thickbones
+				Thickbottom Thickbrain Thickbrains Thickchin Thickears Thickeye Thickeyes Thickface Thickfeet Thickfinger Thickfingers
+				Thickfists Thickfoot Thickhair Thickhands Thickhead Thickknees Thickknuckles Thicklegs Thicknails Thickneck Thicknose
+				Thickteeth Thickthighs Thickthumb Thicktoes Thicktongue Thinarms Thinbeard Thinblood Thinbones Thinbottom Thinbrain
+				Thinbrains Thinchin Thinears Thineye Thineyes Thinface Thinfeet Thinfinger Thinfingers Thinfists Thinfoot Thinhair
+				Thinhands Thinhead Thinknees Thinknuckles Thinlegs Thinnails Thinneck Thinnose Thinteeth Thinthighs Thinthumb Thintoes Thintongue
+				Toadarms Toadbeard Toadblood Toadbones Toadbottom Toadbrain Toadbrains Toadchin Toadears Toadeye Toadeyes Toadface Toadfeet
+				Toadfinger Toadfingers Toadfists Toadfoot Toadhair Toadhands Toadhead Toadknees Toadknuckles Toadlegs Toadnails Toadneck
+				Toadnose Toadteeth Toadthighs Toadthumb Toadtoes Toadtongue Uglyarms Uglybeard Uglyblood Uglybones Uglybottom Uglybrain
+				Uglybrains Uglychin Uglyears Uglyeye Uglyeyes Uglyface Uglyfeet Uglyfinger Uglyfingers Uglyfists Uglyfoot Uglyhair Uglyhands
+				Uglyhead Uglyknees Uglyknuckles Uglylegs Uglynails Uglyneck Uglynose Uglyteeth Uglythighs Uglythumb Uglytoes Uglytongue
+				Wartarms Wartbeard Wartblood Wartbones Wartbottom Wartbrain Wartbrains Wartchin Wartears Warteye Warteyes Wartface Wartfeet
+				Wartfinger Wartfingers Wartfists Wartfoot Warthair Warthands Warthead Wartknees Wartknuckles Wartlegs Wartnails Wartneck
+				Wartnose Wartteeth Wartthighs Wartthumb Warttoes Warttongue Woodarms Woodbeard Woodblood Woodbones Woodbottom Woodbrain
+				Woodbrains Woodchin Woodears Woodeye Woodeyes Woodface Woodfeet Woodfinger Woodfingers Woodfists Woodfoot Woodhair Woodhands
+				Woodhead Woodknees Woodknuckles Woodlegs Woodnails Woodneck Woodnose Woodteeth Woodthighs Woodthumb Woodtoes Woodtongue
+				Wormarms Wormbeard Wormblood Wormbones Wormbottom Wormbrain Wormbrains Wormchin Wormears Wormeye Wormeyes Wormface Wormfeet
+				Wormfinger Wormfingers Wormfists Wormfoot Wormhair Wormhands Wormhead Wormknees Wormknuckles Wormlegs Wormnails Wormneck
+				Wormnose Wormteeth Wormthighs Wormthumb Wormtoes Wormtongue
+			}
+			female_names = {
+				Nostrillia Brokeface Hollowtoof Lumpnose Stinkears Wormbrain Clothears Creakyknees Bentnoze Wartface Goutbones Greasycheeks
+				Grubfoot Bighead Murknose Rumbleguts Mossfists Slimetoes Slimepits Smellytoes Snotgut Stubthumb Snailfeet
+				Snothead Snailhead Shuddergob Toadbrain Wartknees Dumbface Grimeface "Phlegm Knee" Barkfoot Frogtongue
+				Maggotscratch Mossbrain Snakearms Tiptup Weakback Bilegut Spitfoot Wormelbow Mouldfinger Offalfoot Spittletoe Snotpit
+				Globfinger Slopfinger Manktongue Pulpknuckle Mudfoot Grimeface Kringle Naghead Wagchin Mudknuckles Beetlearms
+				Beetlebeard Beetleblood Beetlebones Beetlebottom Beetlebrain Beetlebrains Beetlechin Beetleears Beetleeye Beetleeyes
+				Beetleface Beetlefeet Beetlefinger Beetlefingers Beetlefists Beetlefoot Beetlehair Beetlehands Beetlehead Beetleknees
+				Beetleknuckles Beetlelegs Beetlenails Beetleneck Beetlenose Beetleteeth Beetlethighs Beetlethumb Beetletoes Beetletongue
+				Bentarms Bentbeard Bentblood Bentbones Bentbottom Bentbrain Bentbrains Bentchin Bentears Benteye Benteyes Bentface Bentfeet
+				Bentfinger Bentfingers Bentfists Bentfoot Benthair Benthands Benthead Bentknees Bentknuckles Bentlegs Bentnails Bentneck
+				Bentnose Bentteeth Bentthighs Bentthumb Benttoes Benttongue Blobarms Blobbeard Blobblood Blobbones Blobbottom Blobbrain Blobbrains
+				Blobchin Blobears Blobeye Blobeyes Blobface Blobfeet Blobfinger Blobfingers Blobfists Blobfoot Blobhair Blobhands Blobhead
+				Blobknees Blobknuckles Bloblegs Blobnails Blobneck Blobnose Blobteeth Blobthighs Blobthumb Blobtoes Blobtongue Bonearms
+				Bonebeard Boneblood Bonebones Bonebottom Bonebrain Bonebrains Bonechin Boneears Boneeye Boneeyes Boneface Bonefeet Bonefinger
+				Bonefingers Bonefists Bonefoot Bonehair Bonehands Bonehead Boneknees Boneknuckles Bonelegs Bonenails Boneneck Bonenose
+				Boneteeth Bonethighs Bonethumb Bonetoes Bonetongue Dirtarms Dirtbeard Dirtblood Dirtbones Dirtbottom Dirtbrain Dirtbrains
+				Dirtchin Dirtears Dirteye Dirteyes Dirtface Dirtfeet Dirtfinger Dirtfingers Dirtfists Dirtfoot Dirthair Dirthands Dirthead
+				Dirtknees Dirtknuckles Dirtlegs Dirtnails Dirtneck Dirtnose Dirtteeth Dirtthighs Dirtthumb Dirttoes Dirttongue Driparms Dripbeard
+				Dripblood Dripbones Dripbottom Dripbrain Dripbrains Dripchin Dripears Dripeye Dripeyes Dripface Dripfeet Dripfinger Dripfingers
+				Dripfists Dripfoot Driphair Driphands Driphead Dripknees Dripknuckles Driplegs Dripnails Dripneck Dripnose Dripteeth Dripthighs
+				Dripthumb Driptoes Driptongue Eartharms Earthbeard Earthblood Earthbones Earthbottom Earthbrain Earthbrains Earthchin Earthears
+				Eartheye Eartheyes Earthface Earthfeet Earthfinger Earthfingers Earthfists Earthfoot Earthhair Earthhands Earthhead Earthknees
+				Earthknuckles Earthlegs Earthnails Earthneck Earthnose Earthteeth Earththighs Earththumb Earthtoes Earthtongue
+				Fatarms Fatbeard Fatblood Fatbones Fatbottom Fatbrain Fatbrains Fatchin Fatears Fateye Fateyes Fatface Fatfeet Fatfinger
+				Fatfingers Fatfists Fatfoot Fathair Fathands Fathead Fatknees Fatknuckles Fatlegs Fatnails Fatneck Fatnose Fatteeth Fatthighs
+				Fatthumb Fattoes Fattongue Foularms Foulbeard Foulblood Foulbones Foulbottom Foulbrain Foulbrains Foulchin Foulears Fouleye
+				Fouleyes Foulface Foulfeet Foulfinger Foulfingers Foulfists Foulfoot Foulhair Foulhands Foulhead Foulknees Foulknuckles
+				Foullegs Foulnails Foulneck Foulnose Foulteeth Foulthighs Foulthumb Foultoes Foultongue Frogarms Frogbeard Frogblood Frogbones
+				Frogbottom Frogbrain Frogbrains Frogchin Frogears Frogeye Frogeyes Frogface Frogfeet Frongfinger Frongfingers Frogfists Frogfoot
+				Froghair Froghands Froghead Frogknees Frogknuckles Froglegs Frognails Frogneck Frognose Frogteeth Frogthighs Frogthumb
+				Frogtoes Frogtongue Grassarms Grassbeard Grassblood Grassbones Grassbottom Grassbrain Grassbrains Grasschin Grassears Grasseye
+				Grasseyes Grassface Grassfeet Grassfinger Grassfingers Grassfists Grassfoot Grasshair Grasshands Grasshead Grassknees
+				Grassknuckles Grasslegs Grassnails Grassneck Grassnose Grassteeth Grassthighs Grassthumb Grasstoes Grasstongue Grubarms
+				Grubbeard Grubblood Grubbones Grubbottom Grubbrain Grubbrains Grubchin Grubears Grubeye Grubeyes Grubface Grubfeet Grubfinger
+				Grubfingers Grubfists Grubfoot Grubhair Grubhands Grubhead Grubknees Grubknuckles Grublegs Grubnails Grubneck Grubnose Grubteeth
+				Grubthighs Grubthumb Grubtoes Grubtongue Lumparms Lumpbeard Lumpblood Lumpbones Lumpbottom Lumpbrain Lumpbrains Lumpchin
+				Lumpears Lumpeye Lumpeyes Lumpface Lumpfeet Lumpfinger Lumpfingers Lumpfists Lumpfoot Lumphair Lumphands Lumphead
+				Lumpknees Lumpknuckles Lumplegs Lumpnails Lumpneck Lumpnose Lumpteeth Lumpthighs Lumpthumb Lumptoes Lumptongue Maggotarms
+				Maggotbeard Maggotblood Maggotbones Maggotbottom Maggotbrain Maggotbrains Maggotchin Maggotears Maggoteye Maggoteyes
+				Maggotface Maggotfeet Maggotfinger Maggotfingers Maggotfists Maggotfoot Maggothair Maggothands Maggothead Maggotknees
+				Maggotknuckles Maggotlegs Maggotnails Maggotneck Maggotnose Maggotteeth Maggotthighs Maggotthumb Maggottoes Maggottongue
+				Mossarms Mossbeard Mossblood Mossbones Mossbottom Mossbrain Mossbrains Mosschin Mossears Mosseye Mosseyes Mossface Mossfeet
+				Mossfinger Mossfingers Mossfists Mossfoot Mosshair Mosshands Mosshead Mossknees Mossknuckles Mosslegs Mossnails Mossneck
+				Mossnose Mossteeth Mossthighs Mossthumb Mosstoes Mosstongue Mudarms Mudbeard Mudblood Mudbones Mudbottom Mudbrain Mudbrains
+				Mudchin Mudears Mudeye Mudeyes Mudface Mudfeet Mudfinger Mudfingers Mudfists Mudfoot Mudhair Mudhands Mudhead Mudknees
+				Mudknuckles Mudlegs Mudnails Mudneck Mudnose Mudteeth Mudthighs Mudthumb Mudtoes Mudtongue Roacharms Roachbeard Roachblood
+				Roachbones Roachbottom Roachbrain Roachbrains Roachchin Roachears Roacheye Roacheyes Roachface Roachfeet Roachfinger
+				Roachfingers Roachfists Roachfoot Roachhair Roachhands Roachhead Roachknees Roachknuckles Roachlegs Roachnails Roachneck
+				Roachnose Roachteeth Roachthighs Roachthumb Roachtoes Roachtongue Slimearms Slimebeard Slimeblood Slimebones Slimebottom
+				Slimebrain Slimebrains Slimechin Slimeears Slimeeye Slimeeyes Slimeface Slimefeet Slimefinger Slimefingers Slimefists
+				Slimefoot Slimehair Slimehands Slimehead Slimeknees Slimeknuckles Slimelegs Slimenails Slimeneck Slimenose Slimeteeth
+				Slimethighs Slimethumb Slimetoes Slimetongue Slugarms Slugbeard Slugblood Slugbones Slugbottom Slugbrain Slugbrains Slugchin
+				Slugears Slugeye Slugeyes Slugface Slugfeet Slugfinger Slugfingers Slugfists Slugfoot Slughair Slughands Slughead Slugknees
+				Slugknuckles Sluglegs Slugnails Slugneck Slugnose Slugteeth Slugthighs Slugthumb Slugtoes Slugtongue Smallarms Smallbeard
+				Smallblood Smallbones Smallbottom Smallbrain Smallbrains Smallchin Smallears Smalleye Smalleyes Smallface Smallfeet
+				Smallfinger Smallfingers Smallfists Smallfoot Smallhair Smallhands Smallhead Smallknees Smallknuckles Smalllegs Smallnails
+				Smallneck Smallnose Smallteeth Smallthighs Smallthumb Smalltoes Smalltongue Smellyarms Smellybeard Smellyblood Smellybones
+				Smellybottom Smellybrain Smellybrains Smellychin Smellyears Smellyeye Smellyeyes Smellyface Smellyfeet Smellyfinger
+				Smellyfingers Smellyfists Smellyfoot Smellyhair Smellyhands Smellyhead Smellyknees Smellyknuckles Smellylegs Smellynails
+				Smellyneck Smellynose Smellyteeth Smellythighs Smellythumb Smellytoes Smellytongue Snailarms Snailbeard Snailblood Snailbones
+				Snailbottom Snailbrain Snailbrains Snailchin Snailears Snaileye Snaileyes Snailface Snailfeet Snailfinger Snailfingers
+				Snailfists Snailfoot Snailhair Snailhands Snailhead Snailknees Snailknuckles Snaillegs Snailnails Snailneck Snailnose
+				Snailteeth Snailthighs Snailthumb Snailtoes Snailtongue Snowarms Snowbeard Snowblood Snowbones Snowbottom Snowbrain Snowbrains
+				Snowchin Snowears Snoweye Snoweyes Snowface Snowfeet Snowfinger Snowfingers Snowfists Snowfoot Snowhair Snowhands Snowhead
+				Snowknees Snowknuckles Snowlegs Snownails Snowneck Snownose Snowteeth Snowthighs Snowthumb Snowtoes Snowtongue Snotarms
+				Snotbeard Snotblood Snotbones Snotbottom Snotbrain Snotbrains Snotchin Snotears Snoteye Snoteyes Snotface Snotfeet
+				Snotfinger Snotfingers Snotfists Snotfoot Snothair Snothands Snothead Snotknees Snotknuckles Snotlegs Snotnails
+				Snotneck Snotnose Snotteeth Snotthighs Snotthumb Snottoes Snottongue Stupidarms Stupidbeard Stupidblood Stupidbones
+				Stupidbottom Stupidbrain Stupidbrains Stupidchin Stupidears Stupideye Stupideyes Stupidface Stupidfeet Stupidfinger
+				Stupidfingers Stupidfists Stupidfoot Stupidhair Stupidhands Stupidhead Stupidknees Stupidknuckles Stupidlegs Stupidnails
+				Stupidneck Stupidnose Stupidteeth Stupidthighs Stupidthumb Stupidtoes Stupidtongue Thickarms Thickbeard Thickblood Thickbones
+				Thickbottom Thickbrain Thickbrains Thickchin Thickears Thickeye Thickeyes Thickface Thickfeet Thickfinger Thickfingers
+				Thickfists Thickfoot Thickhair Thickhands Thickhead Thickknees Thickknuckles Thicklegs Thicknails Thickneck Thicknose
+				Thickteeth Thickthighs Thickthumb Thicktoes Thicktongue Thinarms Thinbeard Thinblood Thinbones Thinbottom Thinbrain
+				Thinbrains Thinchin Thinears Thineye Thineyes Thinface Thinfeet Thinfinger Thinfingers Thinfists Thinfoot Thinhair
+				Thinhands Thinhead Thinknees Thinknuckles Thinlegs Thinnails Thinneck Thinnose Thinteeth Thinthighs Thinthumb Thintoes Thintongue
+				Toadarms Toadbeard Toadblood Toadbones Toadbottom Toadbrain Toadbrains Toadchin Toadears Toadeye Toadeyes Toadface Toadfeet
+				Toadfinger Toadfingers Toadfists Toadfoot Toadhair Toadhands Toadhead Toadknees Toadknuckles Toadlegs Toadnails Toadneck
+				Toadnose Toadteeth Toadthighs Toadthumb Toadtoes Toadtongue Uglyarms Uglybeard Uglyblood Uglybones Uglybottom Uglybrain
+				Uglybrains Uglychin Uglyears Uglyeye Uglyeyes Uglyface Uglyfeet Uglyfinger Uglyfingers Uglyfists Uglyfoot Uglyhair Uglyhands
+				Uglyhead Uglyknees Uglyknuckles Uglylegs Uglynails Uglyneck Uglynose Uglyteeth Uglythighs Uglythumb Uglytoes Uglytongue
+				Wartarms Wartbeard Wartblood Wartbones Wartbottom Wartbrain Wartbrains Wartchin Wartears Warteye Warteyes Wartface Wartfeet
+				Wartfinger Wartfingers Wartfists Wartfoot Warthair Warthands Warthead Wartknees Wartknuckles Wartlegs Wartnails Wartneck
+				Wartnose Wartteeth Wartthighs Wartthumb Warttoes Warttongue Woodarms Woodbeard Woodblood Woodbones Woodbottom Woodbrain
+				Woodbrains Woodchin Woodears Woodeye Woodeyes Woodface Woodfeet Woodfinger Woodfingers Woodfists Woodfoot Woodhair Woodhands
+				Woodhead Woodknees Woodknuckles Woodlegs Woodnails Woodneck Woodnose Woodteeth Woodthighs Woodthumb Woodtoes Woodtongue
+				Wormarms Wormbeard Wormblood Wormbones Wormbottom Wormbrain Wormbrains Wormchin Wormears Wormeye Wormeyes Wormface Wormfeet
+				Wormfinger Wormfingers Wormfists Wormfoot Wormhair Wormhands Wormhead Wormknees Wormknuckles Wormlegs Wormnails Wormneck
+				Wormnose Wormteeth Wormthighs Wormthumb Wormtoes Wormtongue
+			}
 		}
