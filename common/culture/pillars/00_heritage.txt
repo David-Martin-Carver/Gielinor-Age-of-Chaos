@@ -97,3 +97,12 @@ heritage_wushanko = {
 	}
 	audio_parameter = european
 }
+heritage_simian = {
+	type = heritage
+	is_shown = {
+		heritage_is_shown_trigger = {
+			HERITAGE = heritage_simian
+		}
+	}
+	audio_parameter = european
+}

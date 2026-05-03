@@ -185,3 +185,20 @@ language_wushanko = {
 	
 	color = wushanko
 }
+language_monkeyspeak = {
+	type = language
+	is_shown = {
+		language_is_shown_trigger = {
+			LANGUAGE = language_monkeyspeak
+		}
+	}
+	ai_will_do = {
+		value = 10
+		if = {
+			limit = { has_cultural_pillar = language_monkeyspeak }
+			multiply = 10
+		}
+	}
+	
+	color = monkey
+}
