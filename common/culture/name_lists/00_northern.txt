@@ -39,7 +39,6 @@ name_list_fremennik = {
 		"dynn_Burowgar"
 		"dynn_Konungarde"
 		}
-	}
 	
 	male_names = {
 		Agnar Alfrick Askeladden Larravak Bjorn Blanin Borrokar Brundt Dron Eldgrim Freidir Fridgeir Jarvald Lanzig Lokar Manni
@@ -48,13 +47,13 @@ name_list_fremennik = {
 		Runolf Tjorvi Arnor Kjallak Fromund Haming Moldof Rhazien Eric Flosi Gruva Hallvar Hring Keepa Gjuki Nial Raum 
 		Skuli Thorkel Bork Fridleif Gunnar Kjedelig Hrafn Mawnis Morten Slug Thakkrad Trogen Drangund Marmaros Talsar Thok Torsteg
 		Wiglaf Gunthor Haakon Hunding Kjell Peksa Ivor Sigurd Cain Connad Gunnjorn Paldo Paldon Pendron Pierreb Sambur Arnold
-		Otto Bardur Erjolf Hannu Olaf Thorvar Ulfric Vasador Valator Vaasdor Varosad Verisad Vudisor Vlatoad Vedolas Vundiar Versita
+		Otto Bardur Erjolf Olaf Thorvar Ulfric Vasador Valator Vaasdor Varosad Verisad Vudisor Vlatoad Vedolas Vundiar Versita
 		Vislota Vanjuta Yadech Chad Einarr Fell Holdbodi Hrad Hydig Ivor Jatizso Knut Kuhn Neitiznot Sven Svein Thorfinn
 		Wulfgard Yorvik Viljar Reigo Ott Alvis Orvar Jesper Bragi Alberich Fafner Fasolt Siegmund Siegfried Lydspor Hagen Minarch
 		Wotan Acelin Adelino Adolpho Aitan
 	}
 	female_names = {
-		Freya Freygerd Inga Ingrid Jennella Lensa Maria Sassilik Thora Vali Vitharr Yrsa Asleif Gunnhild Halla Hild Astrid Rannveig
+		Freygerd Inga Ingrid Jennella Lensa Maria Sassilik Thora Vali Vitharr Yrsa Asleif Gunnhild Halla Hild Astrid Rannveig
 		Runa Signy Thorhild Valgerd Ashild Helga Matilda Sigrid Vanligga Anne Jofridr Lisse Bryll Estrith Hilda Sonje Gudrun Litara 
 		Larrissa Siv Sif Aesa Arisha Haba Thyra Fiera Fronya Brunnhilde Gutrune Edelschwarz Sieglinde
 	}
@@ -75,8 +74,7 @@ name_list_fremennik = {
 	mat_grm_name_chance = 50
 	mother_name_chance = 0
 
-	
-}
+	}
 name_list_teragardian = {
 	cadet_dynasty_names = {
 		"dynn_Charron"
@@ -162,3 +160,21 @@ name_list_teragardian = {
 	
 	dynasty_of_location_prefix = "dynnp_of"
 	}
+
+name_list_moon_clan = {
+	cadet_dynasty_names = {
+		"dynn_Yaga"
+		{"dynnp_Mac" "dynn_Hyacinth"}
+		"dynn_Lune"
+		"dynn_Moonlander"
+		"dynn_Polaris"
+		"dynn_Blud-Hagic-Maid"
+		"dynn_Sirsalis"
+	}
+	male_names = {
+		Hannu Berty
+	}
+	female_names = {
+		Baba Bouquet Freya Melana Meteora Pauline Jane Rimae Selene
+	}
+}
