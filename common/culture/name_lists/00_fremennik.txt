@@ -51,7 +51,7 @@ name_list_fremennik = {
 	# To avoid weird situations where females are given clearly male names (like Baldur, Thorvald, etc), I have gendered the names according to how Old Norse might interpret their second element.
 	# For simplicity, all Fremennik/Barbarian names other than the Moon Clan's are combined into one name group. However, it should be noted that Barbarian names tend to prefer German spelling (like "sieg") instead of Nordic ("sig").
 	male_names = {
-		# NPC/lore Fremennik names
+		# NPC/lore Fremennik/Barbarian names
 		Acelin Adelino Adolpho Aitan Agnar Alberich Alfrick Alrik Alvis Armod Arnes Arnor Askeladden
 		Bardur Beigarth Bork Borrokar Bjorn Blanin Brand Brundt Bukalla
 		Cain Chad Connad
@@ -162,10 +162,24 @@ name_list_moon_clan = {
 		"dynn_Yaga"
 	}
 	male_names = {
-		Berty Cyrisus Hannu Sirsal
+		# Male Moon Clan members
+		Hannu
+		# Deliberately misinterpreted male Moon Clan member names
+		Sirsal
+		# Male Moon Clan animals
+		Berty
+		# Male Moon Clan visitors
+		Cyrisus
+		# Fathers of female Moon Clan visitors
+		Fell
 	}
 	female_names = {
-		Aesa Baba Bouquet Freya Hyacinth Jane Melana Meteora Pauline Rimae Saldis Selene
+		# Known Female Moon Clan members
+		Baba Bouquet Freya Jane Melana Meteora Pauline Rimae Saldis Selene
+		# Implied Moon Clan members
+		Hyacinth
+		# Female Moon clan visitors
+		Aesa
 	}
 
 	dynasty_of_location_prefix = "dynnp_of"
