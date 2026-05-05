@@ -140,7 +140,7 @@ name_list_fremennik = {
 	# There are exceptions, but patronyms are very common in Fremennik culture.
 	always_use_patronym = yes
 
-	# Chance of children being named after their paternal or maternal grandfather, or their father. Sum must not exceed 100.
+	# Chance of children being named after paternal/maternal ancestors. Sum must not exceed 100.
 	# In Norse tradition, it is generally expected that the firstborns are named after their paternal grandparents, and the secondborns after their maternal grandparents.
 	# But RuneScape has a couple Fremenniks/Barbarians named after their parent, so we need to account for that.
 	pat_grf_name_chance = 50
@@ -159,7 +159,6 @@ name_list_moon_clan = {
 		"dynn_Sirsalis"
 		"dynn_Yaga"
 	}
-
 	male_names = {
 		Berty Cyrisus Hannu Sirsal
 	}
@@ -168,13 +167,13 @@ name_list_moon_clan = {
 	}
 
 	dynasty_of_location_prefix = "dynnp_of"
-	# The Lunar clan uses Scottish masculine "mac" as a matronymic.
+	# The Moon Clan uses Scottish masculine "mac" as a matronymic.
 	patronym_prefix_male = "dynnpat_pre_mac"
 	patronym_prefix_female = "dynnpat_pre_mac"
-	# The Lunar clan only rarely bothers with matronyms.
+	# The Moon Clan only rarely bothers with matronyms.
 	always_use_patronym = no
 
-	# Since the Lunar clan is matrilineal, I inverted the percentages from normal Fremennik tradition.
+	# Since the Moon Clan is matrilineal, I inverted the percentages from normal Fremennik tradition.
 	pat_grf_name_chance = 25
 	mat_grf_name_chance = 50
 	father_name_chance = 10
