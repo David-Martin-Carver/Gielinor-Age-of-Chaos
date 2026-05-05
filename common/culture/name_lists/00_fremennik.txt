@@ -1,130 +1,184 @@
 name_list_fremennik = {
-
-	cadet_dynasty_names = {
-		"dynn_Searunner"
-		"dynn_Gunnars"
-		"dynn_Patrull"
-		"dynn_Lydspor"
-		"dynn_Hring"
-		"dynn_Kettilon"
-		"dynn_Sorvott"
-		"dynn_Gram"
-		"dynn_Swiftfling"
-		"dynn_Urda-Stein"
-		"dynn_Myrka"
-		"dynn_Silkbeard"
-		"dynn_Gastfrihet"
-		"dynn_Holdstrom"
-		"dynn_Mordstatter"
-		"dynn_Burowgar"
-		"dynn_Konungarde"
-		"dynn_Grimhand"
-		"dynn_Godblessed"
-		"dynn_Brokentooth"
-	}
+	# Epithets: the Bard, the Brave, the Champion, The Chief, the Chieftain, the Deathless, the Hammer, Far-Strider, the Helmsman, the Navigator, the Planner, the Reveller, Rockcrusher, the Scout, the Seer, Skullbearer, Spinewielder, of the Valkyries, the Warrior
 
 	dynasty_names = {
-		"dynn_Searunner"
-		"dynn_Gunnars"
-		"dynn_Patrull"
-		"dynn_Lydspor"
-		"dynn_Hring"
-		"dynn_Kettilon"
-		"dynn_Sorvott"
-		"dynn_Gram"
-		"dynn_Swiftfling"
-		"dynn_Urda-Stein"
-		"dynn_Myrka"
-		"dynn_Silkbeard"
-		"dynn_Gastfrihet"
-		"dynn_Holdstrom"
-		"dynn_Mordstatter"
+		"dynn_Brokentooth" # This is an honorific, not a dynasty
 		"dynn_Burowgar"
+		"dynn_Crittersmash" # This is an honorific, not a dynasty
+		"dynn_Gastfrihet"
+		"dynn_Godblessed" # This is an honorific, not a dynasty
+		"dynn_Gunnars"
+		"dynn_Gram"
+		"dynn_Grimhand" # This is an honorific, not a dynasty
+		"dynn_Holdstrom"
+		"dynn_Hring"
+		"dynn_Longbeard" # This is an honorific, not a dynasty
+		"dynn_Patrull"
+		"dynn_Kettilon"
 		"dynn_Konungarde"
-		"dynn_Grimhand"
-		"dynn_Godblessed"
-		"dynn_Brokentooth"
-		}
+		"dynn_Lightning_Arrow" # This is an honorific, not a dynasty
+		"dynn_Mountain" # This is a clan, not a dynasty
+		"dynn_Myrka"
+		"dynn_Salmon" # This is a clan, not a dynasty
+		"dynn_Searunner" # This is an honorific, not a dynasty
+		"dynn_Shieldson" # This is an honorific, not a dynasty
+		"dynn_Silkbeard" # This is an honorific, not a dynasty
+		"dynn_Sorvott"
+		"dynn_Steinn"
+		"dynn_Strongarm" # This is an honorific, not a dynasty
+		"dynn_Swiftling"
+		"dynn_Wolf" # This is a clan, not a dynasty
+		"dynn_Urda"
+	}
+	cadet_dynasty_names = {
+		"dynn_Burowgar"
+		"dynn_Gastfrihet"
+		"dynn_Gram"
+		"dynn_Holdstrom"
+		"dynn_Hring"
+		"dynn_Patrull"
+		"dynn_Kettilon"
+		"dynn_Konungarde"
+		"dynn_Myrka"
+		"dynn_Sorvott"
+		"dynn_Swiftling"
+		"dynn_Urda_Stein"
+	}
 
+	# The below lists are combinations of two things:
+	# 1. NPCs' names, including both their first names and patronymic elements of their surnames.
+	# 2. Procedurally-generated player names (https://runescape.wiki/w/Fremennik_name), which are unisex.
+	# To avoid weird situations where females are given clearly male names (like Baldur, Thorvald, etc), I have gendered the names according to how Old Norse might interpret their second element.
+	# For simplicity, all Fremennik/Barbarian names other than the Moon Clan's are combined into one name group. However, it should be noted that Barbarian names tend to prefer German spelling (like "sieg") instead of Nordic ("sig").
 	male_names = {
-		Agnar Alfrick Askeladden Larravak Bjorn Blanin Borrokar Brundt Dron Eldgrim Freidir Fridgeir Jarvald Lanzig Lokar Manni
-		Mord Olaf Ospak Peer Peter Pontak Reeso Sigli Sigmund Skulgrimen Styrmir Swensen Thorvald Torbrund Volf Hamal Jokul
-		Ragnar Svidi Ghrim Alrik Armod Beigarth Broddi Derrik Einar Finn Frodi Vargas Leif Magnus Osvald Brand Ragnvald Reinn
-		Runolf Tjorvi Arnor Kjallak Fromund Haming Moldof Rhazien Eric Flosi Gruva Hallvar Hring Keepa Gjuki Nial Raum
-		Skuli Thorkel Bork Fridleif Gunnar Kjedelig Hrafn Mawnis Morten Slug Thakkrad Trogen Drangund Marmaros Talsar Thok Torsteg
-		Wiglaf Gunthor Haakon Hunding Kjell Peksa Ivor Sigurd Cain Connad Gunnjorn Paldo Paldon Pendron Pierreb Sambur Arnold
-		Otto Bardur Erjolf Olaf Thorvar Ulfric Vasador Valator Vaasdor Varosad Verisad Vudisor Vlatoad Vedolas Vundiar Versita
-		Vislota Vanjuta Yadech Chad Einarr Fell Holdbodi Hrad Hydig Ivo Jatizso Knut Kuhn Neitiznot Sven Svein Thorfinn
-		Wulfgard Yorvik Viljar Reigo Ott Alvis Orvar Jesper Bragi Alberich Fafner Fasolt Siegmund Siegfried Lydspor Hagen Minarch
-		Wotan Acelin Adelino Adolpho Aitan Alfred Sundri Baldar Baldor Baldur Balkal Balkar Balkir Balkur Ballah Ballak Ballim
-		Ballor Balrak Baltin Balton Baltor Balvald Bardar Bardor Bardur Barkal Barkar Barkir Barkur Barlah Barlak Barlim Barlor
-		Barrak Bartin Barton Bartor Barvald Daldar Daldor Daldur Dalkal Dalkar Dalkir Dalkur Dallah Dallak Dallim Dallor Dalrak
-		Daltin Dalton Daltor Dalvald Dendar Dendor Dendur Denkal Denkar Denkir Denkur Denlah Denlak Denlim Denlor Denrak
-		Dentin Denton Dentor Denvald Dokdar Dokdor Dokdur Dokkal Dokkar Dokkir Dokkur Doklah Doklak Doklim Doklor Dokrak Doktin
-		Dokton Doktor Dokvald Jardar Jardor Jardur Jarkal Jarkar Jarkir Jarkur Jarlah Jarlak Jarlim Jarlor Jarrak Jartin Jarton
-		Jartor Jarvald Jikdar Jikdor Jikdur Jikkal Jikkar Jikkir Jikkur Jiklah Jiklak Jiklim Jiklor Jikrak Jiktin Jikton Jiktor
-		Jikvald Lardar Lardor Lardur Larkal Larkar Larkir Larkur Larlah Larlak Larlim Larlor Larrak Lartin Larton Lartor Larvald
-		Rakdar Rakdor Rakdur Rakkal Rakkar Rakkir Rakkur Raklah Raklak Raklim Raklor Rakrak Raktin Rakton Raktor Rakvald Raldar
-		Raldor Raldur Ralkal Ralkar Ralkir Ralkur Rallah Rallak Rallim Rallor Ralrak Raltin Ralton Raltor Ralvald Rildar Rildor
-		Rildur Rilkal Rilkar Rilkir Rilkur Rillah Rillak Rillim Rillor Rilrak Riltin Rilton Riltor Rilvald Sigdar Sigdor Sigdur
-		Sigkal Sigkar Sigkir Sigkur Siglah Siglak Siglim Siglor Sigrak Sigtin Sigton Sigtor Sigvald Taldar Taldor Taldur Talkal
-		Talkar Talkir Talkur Tallah Tallak Tallim Tallor Talrak Taltin Talton Taltor Talvald Thordar Thordor Thordur Thorkal Thorkar
-		Thorkir Thorkur Thorlah Thorlak Thorlim Thorlor Thorrak Thortin Thorton Thortor Thorvald Tondar Tondor Tondur Tonkal Tonkar
-		Tonkir Tonkur Tonlah Tonlak Tonlim Tonlor Tonrak Tontin Tonton Tontor Tonvald
+		# NPC/lore Fremennik names
+		Acelin Adelino Adolpho Aitan Agnar Alberich Alfrick Alrik Alvis Armod Arnes Arnor Askeladden
+		Bardur Beigarth Bork Borrokar Bjorn Blanin Brand Brundt Bukalla
+		Cain Chad Connad
+		Dalk Derrik Dron
+		Einar Einarr Eir Eldgrim Eric Erjolf
+		Fafner Fasolt Fell Finn Flosi Freidir Fridgeir Fridleif Frodi Fromund
+		Ghrim Gjuki Gruva Gunnar Gunnjorn Gunthor
+		Haakon Hagen Hallvar Hamal Haming Hemlig Holdbodi Hrad Hring Hunding Hydig
+		Isaak Ivo Ivor
+		Jarvald Jatizso Jesper Jokul
+		Kjallak Kjedelig Kjell Knut Koschei Kuhn
+		Lanzig Larravak Leif Lokar Lydspor
+		Magnus Manni Marmaros Mawnis Minarch Moldof Mord Morten Mundsen
+		Neitiznot Nial
+		Ogson Olaf Olef Orvar Ospak Osvald Ott Otto
+		Paldo Paldon Pendron Peer Peksa Peter Pierreb Pontak
+		Ragnar Ragnvald Raum Reeso Reigo Reinn Rhazien Runolf
+		Sambur Siegfried Siegmund Sigli Sigmund Sigurd Skot Skulgrimen Skuli Slug Styrmir Sundri Svein Sven Svidi Swensen
+		Talsar Thakkrad Thok Thorfinn Thorkel Tjorvi Torbrund Torsteg Trogen
+		Ulfric Upp
+		Vargas Viljar Volf
+		Wiglaf Wotan Wulfgard
+		Yadech Yorvik
+
+		# Player Fremennik names
+		 Baldar  Baldor  Baldur  Balkal  Balkar  Ballak  Ballor  Balton  Baltor  Balvald
+		 Bardar  Bardor  Bardur  Barkal  Barkar  Barlak  Barlor  Barton  Bartor  Barvald
+		 Daldar  Daldor  Daldur  Dalkal  Dalkar  Dallak  Dallor  Dalton  Daltor  Dalvald
+		 Dardar  Dardor  Dardur  Darkal  Darkar  Darlak  Darlor  Darton  Dartor  Darvald
+		 Dendar  Dendor  Dendur  Denkal  Denkar  Denlak  Denlor  Denton  Dentor  Denvald
+		 Dokdar  Dokdor  Dokdur  Dokkal  Dokkar  Doklak  Doklor  Dokton  Doktor  Dokvald
+		 Jardar  Jardor  Jardur  Jarkal  Jarkar  Jarlak  Jarlor  Jarton  Jartor  Jarvald
+		 Jikdar  Jikdor  Jikdur  Jikkal  Jikkar  Jiklak  Jiklor  Jikton  Jiktor  Jikvald
+		 Lardar  Lardor  Lardur  Larkal  Larkar  Larlak  Larlor  Larton  Lartor  Larvald
+		 Rakdar  Rakdor  Rakdur  Rakkal  Rakkar  Raklak  Raklor  Rakton  Raktor  Rakvald
+		 Raldar  Raldor  Raldur  Ralkal  Ralkar  Rallak  Rallor  Ralton  Raltor  Ralvald
+		 Rildar  Rildor  Rildur  Rilkal  Rilkar  Rillak  Rillor  Rilton  Riltor  Rilvald
+		 Sigdar  Sigdor  Sigdur  Sigkal  Sigkar  Siglak  Siglor  Sigton  Sigtor  Sigvald
+		 Taldar  Taldor  Taldur  Talkal  Talkar  Tallak  Tallor  Talton  Taltor  Talvald
+		Thordar Thordor Thordur Thorkal Thorkar Thorlak Thorlor Thorton Thortor Thorvald
+		 Tondar  Tondor  Tondur  Tonkal  Tonkar  Tonlak  Tonlor  Tonton  Tontor  Tonvald
 	}
 	female_names = {
-		Freygerd Inga Ingrid Jennella Lensa Maria Sassilik Thora Vali Vitharr Yrsa Asleif Gunnhild Halla Hild Astrid Rannveig
-		Runa Signy Thorhild Valgerd Ashild Helga Matilda Sigrid Vanligga Anne Jofridr Lisse Bryll Estrith Hilda Sonje Gudrun Litara
-		Larrissa Siv Sif Aesa Arisha Haba Thyra Fiera Fronya Brunnhilde Gutrune Edelschwarz Sieglinde Lottie Baldar Baldor Baldur
-		Balkal Balkar Balkir Balkur Ballah Ballak Ballim Ballor Balrak Baltin Balton Baltor Balvald Bardar Bardor Bardur Barkal Barkar
-		Barkir Barkur Barlah Barlak Barlim Barlor
-		Barrak Bartin Barton Bartor Barvald Daldar Daldor Daldur Dalkal Dalkar Dalkir Dalkur Dallah Dallak Dallim Dallor Dalrak
-		Daltin Dalton Daltor Dalvald Dendar Dendor Dendur Denkal Denkar Denkir Denkur Denlah Denlak Denlim Denlor Denrak
-		Dentin Denton Dentor Denvald Dokdar Dokdor Dokdur Dokkal Dokkar Dokkir Dokkur Doklah Doklak Doklim Doklor Dokrak Doktin
-		Dokton Doktor Dokvald Jardar Jardor Jardur Jarkal Jarkar Jarkir Jarkur Jarlah Jarlak Jarlim Jarlor Jarrak Jartin Jarton
-		Jartor Jarvald Jikdar Jikdor Jikdur Jikkal Jikkar Jikkir Jikkur Jiklah Jiklak Jiklim Jiklor Jikrak Jiktin Jikton Jiktor
-		Jikvald Lardar Lardor Lardur Larkal Larkar Larkir Larkur Larlah Larlak Larlim Larlor Larrak Lartin Larton Lartor Larvald
-		Rakdar Rakdor Rakdur Rakkal Rakkar Rakkir Rakkur Raklah Raklak Raklim Raklor Rakrak Raktin Rakton Raktor Rakvald Raldar
-		Raldor Raldur Ralkal Ralkar Ralkir Ralkur Rallah Rallak Rallim Rallor Ralrak Raltin Ralton Raltor Ralvald Rildar Rildor
-		Rildur Rilkal Rilkar Rilkir Rilkur Rillah Rillak Rillim Rillor Rilrak Riltin Rilton Riltor Rilvald Sigdar Sigdor Sigdur
-		Sigkal Sigkar Sigkir Sigkur Siglah Siglak Siglim Siglor Sigrak Sigtin Sigton Sigtor Sigvald Taldar Taldor Taldur Talkal
-		Talkar Talkir Talkur Tallah Tallak Tallim Tallor Talrak Taltin Talton Taltor Talvald Thordar Thordor Thordur Thorkal Thorkar
-		Thorkir Thorkur Thorlah Thorlak Thorlim Thorlor Thorrak Thortin Thorton Thortor Thorvald Tondar Tondor Tondur Tonkal Tonkar
-		Tonkir Tonkur Tonlah Tonlak Tonlim Tonlor Tonrak Tontin Tonton Tontor Tonvald
+		# NPC/lore Fremennik/Barbarian names
+		Aesa Anne Arisha Ashild Asleif Astrid
+		Brunnhilde Bryll
+		Edelschwarz Estrith
+		Fiera Freygerd Fronya Fyre
+		Gudrun Gutrune Gunnhild
+		Haba Halla Helga Hild Hilda
+		Inga Ingrid
+		Jennella Jofridr
+		Larissa Lensa Lissa Litara Lottie
+		Maria Matilda
+		Rannveig Runa
+		Sassilik Sieglinde Sif Signy Sigrid Sonje
+		Thora Thorhild Thyra
+		Valgerd Vali Vanligga Vitharr
+		Yrsa Yrth
+
+		# Player Fremennik names
+		 Balkir  Balkur  Ballah  Ballim  Balrak  Baltin
+		 Barkir  Barkur  Barlah  Barlim  Barrak  Bartin
+		 Dalkir  Dalkur  Dallah  Dallim  Dalrak  Daltin
+		 Darkir  Darkur  Darlah  Darlim  Darrak  Dartin
+		 Denkir  Denkur  Denlah  Denlim  Denrak  Dentin
+		 Dokkir  Dokkur  Doklah  Doklim  Dokrak  Doktin
+		 Jarkir  Jarkur  Jarlah  Jarlim  Jarrak  Jartin
+		 Jikkir  Jikkur  Jiklah  Jiklim  Jikrak  Jiktin
+		 Larkir  Larkur  Larlah  Larlim  Larrak  Lartin
+		 Rakkir  Rakkur  Raklah  Raklim  Rakrak  Raktin
+		 Ralkir  Ralkur  Rallah  Rallim  Ralrak  Raltin
+		 Rilkir  Rilkur  Rillah  Rillim  Rilrak  Riltin
+		 Sigkir  Sigkur  Siglah  Siglim  Sigrak  Sigtin
+		 Talkir  Talkur  Tallah  Tallim  Talrak  Taltin
+		Thorkir Thorkur Thorlah Thorlim Thorrak Thortin
+		 Tonkir  Tonkur  Tonlah  Tonlim  Tonrak  Tontin
 	}
 
-	dynasty_of_location_prefix = "dynnp_af"
-
-	patronym_suffix_male = "dynnpat_suf_sson"
+	# Fremennik all use English "of".
+	dynasty_of_location_prefix = "dynnp_of"
+	# Most Fremennik use -son. Some use -sson, -sen, and -ssen. There is no consistency to where these forms are or aren't used.
+	patronym_suffix_male = "dynnpat_suf_son"
+	# Most Fremennik use -sdottir. The Mountain Tribe uses -sdotter. Neitiznot/Jatizso use -stotter. However, I don't think there is any consistency here, either; Jagex is likely just randomly using variant forms at whim.
 	patronym_suffix_female = "dynnpat_suf_sdottir"
+	# There are exceptions, but patronyms are very common in Fremennik culture.
 	always_use_patronym = yes
 
-	# Chance of male children being named after their paternal or maternal grandfather, or their father. Sum must not exceed 100.
+	# Chance of children being named after their paternal or maternal grandfather, or their father. Sum must not exceed 100.
+	# In Norse tradition, it is generally expected that the firstborns are named after their paternal grandparents, and the secondborns after their maternal grandparents.
+	# But RuneScape has a couple Fremenniks/Barbarians named after their parent, so we need to account for that.
 	pat_grf_name_chance = 50
-	mat_grf_name_chance = 0
-	father_name_chance = 0
-
-	# Chance of female children being named after their paternal or maternal grandmother, or their mother. Sum must not exceed 100.
-	pat_grm_name_chance = 10
-	mat_grm_name_chance = 50
-	mother_name_chance = 0
-
+	mat_grf_name_chance = 25
+	father_name_chance = 10
+	pat_grm_name_chance = 50
+	mat_grm_name_chance = 25
+	mother_name_chance = 10
 }
-
 name_list_moon_clan = {
-	cadet_dynasty_names = {
-		"dynn_Yaga"
-		{"dynnp_Mac" "dynn_Hyacinth"}
+
+	dynasty_names = {
 		"dynn_Lune"
 		"dynn_Moonlander"
 		"dynn_Polaris"
-		"dynn_Blud-Hagic-Maid"
 		"dynn_Sirsalis"
+		"dynn_Yaga"
 	}
+
 	male_names = {
-		Hannu Berty
+		Berty Cyrisus Hannu Sirsal
 	}
 	female_names = {
-		Baba Bouquet Freya Melana Meteora Pauline Jane Rimae Selene
+		Aesa Baba Bouquet Freya Hyacinth Jane Melana Meteora Pauline Rimae Saldis Selene
 	}
+
+	dynasty_of_location_prefix = "dynnp_of"
+	# The Lunar clan uses Scottish masculine "mac" as a matronymic.
+	patronym_prefix_male = "dynnpat_pre_mac"
+	patronym_prefix_female = "dynnpat_pre_mac"
+	# The Lunar clan only rarely bothers with matronyms.
+	always_use_patronym = no
+
+	# Since the Lunar clan is matrilineal, I inverted the percentages from normal Fremennik tradition.
+	pat_grf_name_chance = 25
+	mat_grf_name_chance = 50
+	father_name_chance = 10
+	pat_grm_name_chance = 25
+	mat_grm_name_chance = 50
+	mother_name_chance = 10
 }
