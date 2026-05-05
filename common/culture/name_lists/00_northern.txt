@@ -18,6 +18,8 @@ name_list_fremennik = {
 		"dynn_Mordstatter"
 		"dynn_Burowgar"
 		"dynn_Konungarde"
+		"dynn_Grimhand"
+		"dynn_Godblessed"
 	}
 
 	dynasty_names = {
@@ -38,6 +40,8 @@ name_list_fremennik = {
 		"dynn_Mordstatter"
 		"dynn_Burowgar"
 		"dynn_Konungarde"
+		"dynn_Grimhand"
+		"dynn_Godblessed"
 		}
 	
 	male_names = {
@@ -50,7 +54,7 @@ name_list_fremennik = {
 		Otto Bardur Erjolf Olaf Thorvar Ulfric Vasador Valator Vaasdor Varosad Verisad Vudisor Vlatoad Vedolas Vundiar Versita
 		Vislota Vanjuta Yadech Chad Einarr Fell Holdbodi Hrad Hydig Ivor Jatizso Knut Kuhn Neitiznot Sven Svein Thorfinn
 		Wulfgard Yorvik Viljar Reigo Ott Alvis Orvar Jesper Bragi Alberich Fafner Fasolt Siegmund Siegfried Lydspor Hagen Minarch
-		Wotan Acelin Adelino Adolpho Aitan
+		Wotan Acelin Adelino Adolpho Aitan Alfred
 	}
 	female_names = {
 		Freygerd Inga Ingrid Jennella Lensa Maria Sassilik Thora Vali Vitharr Yrsa Asleif Gunnhild Halla Hild Astrid Rannveig
