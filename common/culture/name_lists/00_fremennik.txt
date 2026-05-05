@@ -2,47 +2,53 @@ name_list_fremennik = {
 	# Epithets: the Bard, the Brave, the Champion, The Chief, the Chieftain, the Deathless, the Hammer, Far-Strider, the Helmsman, the Navigator, the Planner, the Reveller, Rockcrusher, the Scout, the Seer, Skullbearer, Spinewielder, of the Valkyries, the Warrior
 
 	dynasty_names = {
-		"dynn_Brokentooth" # This is an honorific, not a dynasty
+
+		# Dynasties (probable)
 		"dynn_Burowgar"
-		"dynn_Crittersmash" # This is an honorific, not a dynasty
 		"dynn_Gastfrihet"
-		"dynn_Godblessed" # This is an honorific, not a dynasty
 		"dynn_Gunnars"
 		"dynn_Gram"
-		"dynn_Grimhand" # This is an honorific, not a dynasty
 		"dynn_Holdstrom"
 		"dynn_Hring"
-		"dynn_Longbeard" # This is an honorific, not a dynasty
 		"dynn_Patrull"
 		"dynn_Kettilon"
 		"dynn_Konungarde"
-		"dynn_Lightning_Arrow" # This is an honorific, not a dynasty
-		"dynn_Mountain" # This is a clan, not a dynasty
 		"dynn_Myrka"
-		"dynn_Salmon" # This is a clan, not a dynasty
-		"dynn_Searunner" # This is an honorific, not a dynasty
-		"dynn_Shieldson" # This is an honorific, not a dynasty
-		"dynn_Silkbeard" # This is an honorific, not a dynasty
 		"dynn_Sorvott"
-		"dynn_Steinn"
-		"dynn_Strongarm" # This is an honorific, not a dynasty
+		"dynn_Steinn" # implied
 		"dynn_Swiftling"
-		"dynn_Wolf" # This is a clan, not a dynasty
-		"dynn_Urda"
+		"dynn_Urda" # implied
+
+		# Clans
+		"dynn_Basilisk"
+		"dynn_Bear"
+		"dynn_Elk"
+		"dynn_Falcon"
+		"dynn_Larch"
+		"dynn_Mammoth"
+		"dynn_Mountain"
+		"dynn_Ox"
+		"dynn_Salmon"
+		"dynn_Seal"
+		"dynn_Sturgeon"
+		"dynn_Wolf"
 	}
 	cadet_dynasty_names = {
-		"dynn_Burowgar"
-		"dynn_Gastfrihet"
-		"dynn_Gram"
-		"dynn_Holdstrom"
-		"dynn_Hring"
-		"dynn_Patrull"
-		"dynn_Kettilon"
-		"dynn_Konungarde"
-		"dynn_Myrka"
-		"dynn_Sorvott"
-		"dynn_Swiftling"
+
+		# Dynasties (probable)
 		"dynn_Urda_Stein"
+
+		# Honorifics (not real dynasties)
+		"dynn_Brokentooth"
+		"dynn_Crittersmash"
+		"dynn_Godblessed"
+		"dynn_Grimhand"
+		"dynn_Longbeard"
+		"dynn_Lightning_Arrow"
+		"dynn_Searunner"
+		"dynn_Shieldson"
+		"dynn_Silkbeard"
+		"dynn_Strongarm"
 	}
 
 	# The below lists are combinations of two things:
