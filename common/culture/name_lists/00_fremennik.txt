@@ -140,6 +140,8 @@ name_list_fremennik = {
 	# There are exceptions, but patronyms are very common in Fremennik culture.
 	always_use_patronym = yes
 
+	suggest_family_names = yes
+	suggest_ancestor_names = yes
 	# Chance of children being named after paternal/maternal ancestors. Sum must not exceed 100.
 	# In Norse tradition, it is generally expected that the firstborns are named after their paternal grandparents, and the secondborns after their maternal grandparents.
 	# But RuneScape has a couple Fremenniks/Barbarians named after their parent, so we need to account for that.
