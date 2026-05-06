@@ -285,3 +285,82 @@ name_list_werewolf = {
 		Vanescula Violetta Vonnetta Mornid Nadezhda Anastasia Masha Verzik Anya Valentina Sascha Genevieve
 		}
 	}
+	name_list_morytanian_human = {
+		cadet_dynasty_names = {
+			"dynn_Hurtz"
+			"dynn_Evans"
+			"dynn_Strainge"
+			"dynn_Ferdygris"
+			"dynn_Piliu"
+			"dynn_Tarlock"
+			"dynn_Twickit"
+			"dynn_Sefalatis"
+			"dynn_Juip"
+			"dynn_Screwte"
+			"dynn_Forshaw"
+			"dynn_A'hara"
+			"dynn_Fyod"
+			"dynn_Paddlehorn"
+			"dynn_Guile"
+			"dynn_Strom"
+			"dynn_Keelgan"
+			"dynn_Shauncy"
+			"dynn_Fenkenstrain"
+			"dynn_Lestwit"
+			"dynn_Dayth"
+			"dynn_Trakerel"
+		}
+		dynasty_names = {
+			"dynn_Hurtz"
+			"dynn_Evans"
+			"dynn_Strainge"
+			"dynn_Ferdygris"
+			"dynn_Piliu"
+			"dynn_Tarlock"
+			"dynn_Twickit"
+			"dynn_Sefalatis"
+			"dynn_Juip"
+			"dynn_Screwte"
+			"dynn_Forshaw"
+			"dynn_A'hara"
+			"dynn_Fyod"
+			"dynn_Paddlehorn"
+			"dynn_Guile"
+			"dynn_Strom"
+			"dynn_Keelgan"
+			"dynn_Shauncy"
+			"dynn_Fenkenstrain"
+			"dynn_Lestwit"
+			"dynn_Dayth"
+			"dynn_Trakerel"
+			"dynn_Kliyn"
+			"dynn_Ryak"
+			"dynn_Fray"
+			"dynn_Fang"
+			"dynn_Eppel"
+			"dynn_Gadderanks"
+			"dynn_Blakey"
+			"dynn_Barrington"
+			"dynn_Frey"
+			"dynn_Kludge"
+			"dynn_Skye"
+			"dynn_Elding"
+			"dynn_Corbo"
+			"dynn_O'Raleigh"
+			"dynn_Treforest"
+			"dynn_Alcanthric"
+			"dynn_Hayes"
+			"dynn_Harrow"
+		}
+		male_names = {
+			Veliaf Harold Ivan Polmafi Vertida Kael Andiess Mekritus Flaygian Karnac Hereward Calsidiu Mauritys Cyreg Curpile
+			Ral Ben Kendrick Tam Sven Aurel Cornelius Radu Rory Teodor Vasile Sergiu Calin Mihail Sorin Razvan Grigore Luscion
+			Florin Vladimir Wiskit Marius Victor Rolayne Filliman Razmire Ulsquire Ed Treus Dalcian Valantay Droalak Gravingas
+			Metarialus Rologarric Rologarth Rolomere Rolovanne Rologray Charos Bill Boris Callum Petrik Dom Toran Anton
+			Marcus Korvic Kandik
+		}
+		female_names = {
+			Sani Mary Sarius Amelia Elisabeta Catalina Valeria Emilia Luminata Nicoleta Ileana Simona Gabriela Helena Jayene
+			Smiddi Fyiona Maria Rolobrae Melina Velorina Alice Lyra Netty Elena Marabella Isla Eryn Jayna Serra
+		}
+	}
