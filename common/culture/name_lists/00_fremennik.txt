@@ -161,18 +161,18 @@ name_list_fremennik = {
 name_list_moon_clan = {
 
 	dynasty_names = {
-		"dynn_Blud"
-		"dynn_Hagic"
+		"dynn_Blud" # implied
+		"dynn_Hagic" # implied
 		"dynn_Lune"
-		"dynn_Maid"
+		"dynn_Maid" # implied
 		"dynn_Moonlander"
 		"dynn_Polaris"
 		"dynn_Sirsalis"
 		"dynn_Yaga"
 	}
 	cadet_dynasty_names = {
-		"dynn_Blud_Hagic"
-		"dynn_Hagic_Maid"
+		"dynn_Blud_Hagic" # implied
+		"dynn_Hagic_Maid" # implied
 		"dynn_Blud_Hagic_Maid"
 	}
 
