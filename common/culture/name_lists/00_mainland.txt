@@ -218,7 +218,7 @@ name_list_asgarnian = {
 	female_names = {
 		Adela Adelaide Alice Amice Anne Aveline Beatrice Blanche Catherine Cecilia Constance Edith Ela Eleanor Elizabeth Emma Hawise Isabel
 		Isabella Joan Joanna Juliana Mahaut Margaret Mary Matilda Maud Philippa Sybilla Altra Nora Lucy Eva Hynn Geniven Ilme
-		Moranna
+		Moranna Miazrqa
 	}
 	dynasty_of_location_prefix = "dynnp_of"
 	bastard_dynasty_prefix = "dynnp_fitz"
