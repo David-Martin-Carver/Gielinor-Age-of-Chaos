@@ -20,7 +20,7 @@ name_list_al_kharidian = {
 	male_names = {
 		Ali Ozan Khnum Osman Shah Dommik Ellis Faruq Reen Hassan Jaraah Karim Louie Mubariz Zeke Shantay Fayez Musa Raheem Hamid
 		Waseem Zeid Fadli Jadid Mubariz Zahwa Siad Ima Sabeil Sabreen Iqbar Jalal Faisal Jasim Sami Malik Amir Meshari
-		Isma'il Hakeem Abbas Badir Hesham Aligra Mostafa Al-Shabim Eblis Laheeb Rasolo Farid Nen Qar Farhad Kaleef Lazim
+		Isma'il Hakeem Abbas Badir Hesham Aligra Mostafa Al-Shabim Eblis Laheeb Rasolo Farid Nen Qar Farhad Kaleef Lazim Faryd
 	}
 	female_names = {
 		Leela Ayesha Ranael Aadeela Tafani Afrah Dalal A'abla Jeed Anahita Naida Rana Maysa Dafi Munsim Maisa Lydia

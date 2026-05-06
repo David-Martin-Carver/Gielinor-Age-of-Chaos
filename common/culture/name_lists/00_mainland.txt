@@ -209,3 +209,4 @@ name_list_common = {
 		{ name = "mercenary_company_hawkwoods_band" }
 	}
 }
+}

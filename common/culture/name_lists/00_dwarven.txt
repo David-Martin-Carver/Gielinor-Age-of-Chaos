@@ -33,9 +33,9 @@ name_list_dwarven = {
 		Lollk Medwin Niloof Obert Rohak Rutmir Stankers Teplin Thalmund Thordur Thorgel Vestri
 		Alvis Axanamander Azdaran Barakur Daedaric Brehan Gozdaron Korick Phyllis Nestor 
 		Thorbarkin Velenki Abel Armicus Dardar Evryn Fior Isak Ivar Jacob Boff Lukas Nigel Oxi
-        Rauborn Vaeringk Seppan Temur 
+        Rauborn Vaeringk Seppan Temur Malt Gidon
 	}
 	female_names = {
 		Solonis Agmundi Grenda Fjoila Haera Hilda Brae Meike Sieglinde Vermundi Freda Jari 
-		Kili Anleif Kara Sagira Sarah }
+		Kili Anleif Kara Sagira Sarah Liat }
 	}
