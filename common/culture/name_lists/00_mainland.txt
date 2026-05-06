@@ -281,7 +281,7 @@ name_list_kandarian = {
 			Alan Albert Alexander Alfred Andrew Anselm Arnold Arthur Aubrey Baldrick Christopher David Edmund Edward Eric Eustace Fulk George Gerald Gilbert
 			Godfrey Gregory Guy Harold Humphrey Jocelyn Jordan Laurence Lionel Mark Martin Matthew Maurice Michael Paul Philip
 			Randolph Reginald Roderick Samuel Stephen Theobald Waleran Nevan Ceril Philipe Narras Ulthas Lathas Tyras Thoros
-			Clive Cecil Bob David Frank Justin Sammy Chad Francis Kurt
+			Clive Cecil Bob David Frank Justin Sammy Chad Francis Kurt Edmond
 		}
 		0 = { # translated versions of other culture names
 			Blethin Duncan Douglas Fergus Findlay Griffith Kenneth Patrick Teague Howell Meredith Owen Tristan Cecil Sweeney Cedric Merlin Sebastian Zachary

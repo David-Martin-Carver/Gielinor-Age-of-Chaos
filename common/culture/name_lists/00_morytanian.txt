@@ -1,6 +1,7 @@
 name_list_werewolf = {
 		cadet_dynasty_names = {
-"dynn_Mikhailovich"
+		"dynn_Claws"
+        "dynn_Mikhailovich"
 		"dynn_Fyodyorov"
 		"dynn_Lukinich"
 		"dynn_Andreievich"
@@ -92,7 +93,8 @@ name_list_werewolf = {
 		"dynn_Kromsky"
 		}
 		dynasty_names = {
-"dynn_Mikhailovich"
+		"dynn_Claws"
+        "dynn_Mikhailovich"
 		"dynn_Fyodyorov"
 		"dynn_Lukinich"
 		"dynn_Andreievich"
@@ -184,10 +186,12 @@ name_list_werewolf = {
 		"dynn_Kromsky"
 		}
 		male_names = {
-			Gar'rth Jerrod Roavar Georgi Fyodor Dmitri Imre Boris Eduard Georgy Jeroen Joseph Lev Nikolai Yuri
+			Gar'rth Jerrod Roavar Georgi Fyodor Dmitri Imre Boris Eduard Georgy Jeroen Joseph Lev Nikolai Yuri Barker Fidelio
+			Rufus Sbott Daniel Edd Greg Shanty Manti Ralph Scrambles Brax Lygrass Vannaka
 		}
 		female_names = {
-			Alexis Galina Irina Ksenia Liliya Milla Nikita Sofiya Svetlana Vera Yadviga Zoja
+			Alexis Galina Irina Ksenia Liliya Milla Nikita Sofiya Svetlana Vera Yadviga Zoja Greta Helga Larsa Luna Moira
+			Sneezy Alice Doomeye
 		}
 	}
 	name_list_vampyric = {
