@@ -3,6 +3,7 @@ name_list_teragardian = {
 		"dynn_Charron"
 		"dynn_Ananka"
 		"dynn_Lesarkus"
+		"dynn_Hyacinth"
 		"dynn_Rabban"
 		"dynn_Efraim"
 		"dynn_Eliyahu"
@@ -30,6 +31,7 @@ name_list_teragardian = {
 		"dynn_Charron"
 		"dynn_Ananka"
 		"dynn_Lesarkus"
+		"dynn_Hyacinth"
 		"dynn_Rabban"
 		"dynn_Efraim"
 		"dynn_Eliyahu"
@@ -74,7 +76,7 @@ name_list_teragardian = {
 		BaAlZevuv Tovi Noach
 		}
 	female_names = {
-		Anah Anat Atalyah MaAkhah Machlah Achinoam Asenat Atarah Avigayil Avishag Avital Basmat BatSheva
+		Bessie Anah Anat Atalyah MaAkhah Machlah Achinoam Asenat Atarah Avigayil Avishag Avital Basmat BatSheva
 		Beulah Bilhah Bityah Chaggit Channah Chavah CheftziBah Chuldah Delilah Devorah Dinah Ednah Efrat Elisheva
 		Ester Hadassah Hagar Hodiyah Izevel KetziAh Leah Machalat MeheitavEl Merav Mikhal Miriam NaAmah NaOmi
 		Orpah Rachel Rivqah Rut Sarah Shifra Shoshannah Shulammit Tamar Tirtzah Tzillah Tzipporah Tzivyah
