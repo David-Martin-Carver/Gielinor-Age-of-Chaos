@@ -9,9 +9,11 @@ havenhythian = {
 	traditions = {
 		tradition_isolationist
 		tradition_religion_blending
+		tradition_fishermen
+		tradition_hunters
 	}
 	
-	name_list = name_list_common
+	name_list = name_list_havenhythian
 	
 	coa_gfx = { english_coa_gfx western_coa_gfx }
 	building_gfx = { western_building_gfx }

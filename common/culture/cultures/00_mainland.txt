@@ -13,7 +13,7 @@ misthalanian = {
 		tradition_staunch_traditionalists
 	}
 	
-	name_list = name_list_common
+	name_list = name_list_misthalanian
 	
 	coa_gfx = { english_coa_gfx western_coa_gfx }
 	building_gfx = { western_building_gfx }
@@ -47,7 +47,7 @@ asgarnian = {
 		tradition_legalistic
 	}
 	
-	name_list = name_list_common
+	name_list = name_list_asgarnian
 	
 	coa_gfx = { english_coa_gfx western_coa_gfx }
 	building_gfx = { western_building_gfx }
@@ -79,7 +79,7 @@ kandarian = {
 		tradition_ep2_avid_falconers
 	}
 	
-	name_list = name_list_common
+	name_list = name_list_kandarian
 	
 	coa_gfx = { english_coa_gfx western_coa_gfx }
 	building_gfx = { western_building_gfx }
