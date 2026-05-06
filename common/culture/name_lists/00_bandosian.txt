@@ -396,3 +396,19 @@ name_list_troll = {
 				Wormnose Wormteeth Wormthighs Wormthumb Wormtoes Wormtongue
 			}
 		}
+
+		name_list_dorgeshuun = {
+			cadet_dynasty_names = {
+				"dynn_Dorgeshuun"
+			}
+			dynasty_names = {
+				"dynn_Dorgeshuun"
+			}
+			male_names = {
+				Barlak Bartak Bozin Undak Dartog Delgon Durgok Fandon Gamdin Horgon Jobo Kazgar Lorzan Lurgon Markog Mistag Nardok
+				Oldak Reldak Tegdak Turgall Turgok Ulgon Dorgan Elgon
+			}
+			female_names = {
+				Andil Caldi Elzik Gerdi Gundik Inglin Kenti Mernik Miltog Tindar Torzek Zanik Zenkog
+			}
+		}
