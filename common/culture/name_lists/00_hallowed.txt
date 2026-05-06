@@ -296,7 +296,7 @@ cadet_dynasty_names = {
 			Alan Albert Alexander Alfred Andrew Anselm Arnold Arthur Aubrey Baldrick Christopher David Edmund Edward Eric Eustace Fulk George Gerald Gilbert
 			Godfrey Gregory Guy Harold Humphrey Jocelyn Jordan Laurence Lionel Mark Martin Matthew Maurice Michael Paul Philip
 			Randolph Reginald Roderick Samuel Stephen Theobald Waleran Ezekiel Zeke Ben Gil Jocko Isaac Nathan Lev Tom Hawk 
-			Reuben Jacob Jedediah Kaleb Nathaniel
+			Reuben Jacob Jedediah Kaleb Nathaniel Demetrius
 		}
 		0 = { # translated versions of other culture names
 			Blethin Duncan Douglas Fergus Findlay Griffith Kenneth Patrick Teague Howell Meredith Owen Tristan Cecil Sweeney Cedric Merlin Sebastian Zachary
