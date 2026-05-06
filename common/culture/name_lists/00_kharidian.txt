@@ -5,6 +5,7 @@ name_list_al_kharidian = {
 		"dynn_Morrisane"
 		"dynn_Tist"
 		"dynn_Ali-Abdula"
+		"dynn_Nite"
 		"dynn_Legs"
 	}
 
