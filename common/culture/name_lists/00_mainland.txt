@@ -12,8 +12,11 @@ name_list_common = {
 		"dynn_Henry"
 		"dynn_Hastings"
 		"dynn_Puttoc"
-		{ "dynnp_of" "dynn_Anglo-Saxony" }
-		{ "dynnp_of" "dynn_Northampton" }
+		{ "dynnp_of" "dynn_Misthalin" }
+		{ "dynnp_of" "dynn_Asgarnia" }
+		{ "dynnp_of" "dynn_Kandarin" }
+		{ "dynnp_of" "dynn_Havenhythe" }
+		{ "dynnp_of" "dynn_Entrana" }
 		"dynn_A_theling"
 		"dynn_Moore"
 		"dynn_Fysche"
@@ -45,30 +48,23 @@ name_list_common = {
 		"dynn_Bethell"
 		"dynn_Perry"
 		"dynn_Borthwick"
-		{ "dynnp_de" "dynn_London" }
-		{ "dynnp_of" "dynn_Hereford" }
-		{ "dynnp_of" "dynn_Gloucester" }
-		{ "dynnp_of" "dynn_Oxford" }
-		{ "dynnp_of" "dynn_Salisbury" }
-		{ "dynnp_of" "dynn_Surrey" }
-		{ "dynnp_of" "dynn_Sussex" }
-		{ "dynnp_of" "dynn_Hampshire" }
-		{ "dynnp_of" "dynn_Dorset" }
-		{ "dynnp_of" "dynn_Somerset" }
-		{ "dynnp_of" "dynn_Devon" }
-		{ "dynnp_of" "dynn_Exeter" }
-		{ "dynnp_of" "dynn_Cumberland" }
-		{ "dynnp_of" "dynn_York" }
-		{ "dynnp_of" "dynn_Lancaster" }
-		{ "dynnp_of" "dynn_Chester" }
-		{ "dynnp_of" "dynn_Lincoln" }
-		{ "dynnp_of" "dynn_Leicester" }
-		{ "dynnp_of" "dynn_Derby" }
-		{ "dynnp_of" "dynn_Shrewsbury" }
-		{ "dynnp_of" "dynn_Northampton" }
-		{ "dynnp_of" "dynn_Bedford" }
-		{ "dynnp_of" "dynn_Norfolk" }
-		{ "dynnp_of" "dynn_Suffolk" }
+		{ "dynnp_de" "dynn_Varrock" }
+		{ "dynnp_of" "dynn_Lumbridge" }
+		{ "dynnp_of" "dynn_Edgeville" }
+		{ "dynnp_of" "dynn_Lumford" }
+		{ "dynnp_of" "dynn_Draynor" }
+		{ "dynnp_of" "dynn_Forinthry" }
+		{ "dynnp_of" "dynn_Falador" }
+		{ "dynnp_of" "dynn_Sarim" }
+		{ "dynnp_of" "dynn_Taverley" }
+		{ "dynnp_of" "dynn_Burthorpe" }
+		{ "dynnp_of" "dynn_Catherby" }
+		{ "dynnp_of" "dynn_Seers'_Village" }
+		{ "dynnp_of" "dynn_Ardougne" }
+		{ "dynnp_of" "dynn_Yanille" }
+		{ "dynnp_of" "dynn_Ashdale" }
+		{ "dynnp_of" "dynn_Wendlewick" }
+		{ "dynnp_of" "dynn_Anachronia" }
 		"dynn_Crawford"
 		"dynn_Tynedale"
 		"dynn_Pudsey"

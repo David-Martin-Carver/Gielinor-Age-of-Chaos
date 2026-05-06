@@ -24,6 +24,7 @@ name_list_fremennik = {
 		"dynn_Bear"
 		"dynn_Elk"
 		"dynn_Falcon"
+		"dynn_Horse"
 		"dynn_Larch"
 		"dynn_Mammoth"
 		"dynn_Mountain"

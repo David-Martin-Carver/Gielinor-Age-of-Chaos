@@ -149,7 +149,7 @@ name_list_icyene = { # Also shamelessly stolen from Imperator
 	
 	female_names = {
 		Efaritay Garlandia Zilyana Aserima Aurora Briar Haylesse Hebe Hylandia Larina Padosan Pinwheel Prescia Ravina Selemone
-		Viridia Whippoorwhill
+		Viridia Whippoorwhill Adrasteia
 	}
 
 	dynasty_of_location_prefix = "dynnp_of"
