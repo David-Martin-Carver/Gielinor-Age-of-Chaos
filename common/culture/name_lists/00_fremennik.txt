@@ -161,12 +161,21 @@ name_list_fremennik = {
 name_list_moon_clan = {
 
 	dynasty_names = {
+		"dynn_Blud"
+		"dynn_Hagic"
 		"dynn_Lune"
+		"dynn_Maid"
 		"dynn_Moonlander"
 		"dynn_Polaris"
 		"dynn_Sirsalis"
 		"dynn_Yaga"
 	}
+	cadet_dynasty_names = {
+		"dynn_Blud_Hagic"
+		"dynn_Hagic_Maid"
+		"dynn_Blud_Hagic_Maid"
+	}
+
 	male_names = {
 		# Male Moon Clan members
 		Hannu
@@ -180,7 +189,7 @@ name_list_moon_clan = {
 		Fell
 	}
 	female_names = {
-		# Known Female Moon Clan members
+		# Known female Moon Clan members
 		Baba Bouquet Freya Jane Melana Meteora Pauline Rimae Saldis Selene
 		# Implied Moon Clan members
 		Hyacinth
