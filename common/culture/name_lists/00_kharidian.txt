@@ -152,7 +152,7 @@ name_list_menaphite = {
 	female_names = {
 		Satia Henaka Karytis Senliten Habibah Meskhenet Seddu Shiratti Zahra Zahur Jamila Nathifa Neferti Siamun Urbi Akhomet
 		Acenath Quibilah Sagira Anhur Banafrit Bes Esha Sabrina Selma Ehsan Nefertari Wafa Pia Lisah Meena Malala Sennefer Tefebi
-		Jess Rashida
+		Jess Rashida Neite Ka Bestopet Shebit Takhuit Katarina
 	}
 	dynasty_of_location_prefix = "dynnp_of"
 
