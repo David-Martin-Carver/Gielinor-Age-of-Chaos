@@ -208,7 +208,7 @@ name_list_asgarnian = {
 			Alan Albert Alexander Alfred Andrew Anselm Arnold Arthur Aubrey Baldrick Christopher David Edmund Edward Eric Eustace Fulk George Gerald Gilbert
 			Godfrey Gregory Guy Harold Humphrey Jocelyn Jordan Laurence Lionel Mark Martin Matthew Maurice Michael Paul Philip
 			Randolph Reginald Roderick Samuel Stephen Theobald Waleran Vallance Anlaf Raddallin Owen Stario Daquarius Amik Ken 
-			Plyan Loynst Marius Tiffy Kuam Ren Keerdan Martyn
+			Plyan Loynst Marius Tiffy Kuam Ren Keerdan Martyn Iban
 		}
 		0 = { # translated versions of other culture names
 			Blethin Duncan Douglas Fergus Findlay Griffith Kenneth Patrick Teague Howell Meredith Owen Tristan Cecil Sweeney Cedric Merlin Sebastian Zachary

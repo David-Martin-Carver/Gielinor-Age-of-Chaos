@@ -1,6 +1,7 @@
 name_list_werewolf = {
 		cadet_dynasty_names = {
 		"dynn_Claws"
+		"dynn_Doomeye"
         "dynn_Mikhailovich"
 		"dynn_Fyodyorov"
 		"dynn_Lukinich"
@@ -94,6 +95,7 @@ name_list_werewolf = {
 		}
 		dynasty_names = {
 		"dynn_Claws"
+		"dynn_Doomeye"
         "dynn_Mikhailovich"
 		"dynn_Fyodyorov"
 		"dynn_Lukinich"
@@ -191,7 +193,7 @@ name_list_werewolf = {
 		}
 		female_names = {
 			Alexis Galina Irina Ksenia Liliya Milla Nikita Sofiya Svetlana Vera Yadviga Zoja Greta Helga Larsa Luna Moira
-			Sneezy Alice Doomeye
+			Sneezy Alice
 		}
 	}
 	name_list_vampyric = {
