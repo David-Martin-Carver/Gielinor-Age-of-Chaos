@@ -1,0 +1,2535 @@
+NORC_1 = {
+    name = "Aengus83"
+    culture = "norcerian"
+    faith = "colocist"
+    dynasty = NORCD1 #NorcDyn1
+    father = NORC_25 #Lochlann27
+    mother = NORC_49 #Eabha42
+    575.1.1 = {
+        birth = yes
+    }
+}
+
+NORC_10 = {
+    name = "Conall90"
+    culture = "norcerian"
+    faith = "colocist"
+    dynasty = NORCD1 #NorcDyn1
+    father = NORC_7 #Colman32
+    mother = NORC_35 #Aoife38
+    579.1.1 = {
+        birth = yes
+    }
+}
+
+NORC_100 = {
+    name = "Muireann54"
+    culture = "norcerian"
+    faith = "colocist"
+    female = yes
+    dynasty = NORCD3 #NorcDyn3
+    father = NORC_97 #Flann13
+    mother = NORC_14 #Eabha5
+    555.1.1 = {
+        birth = yes
+    }
+    574.1.1 = {
+        add_spouse = NORC_126 #Eremon59
+    }
+}
+
+NORC_101 = {
+    name = "Niall133"
+    culture = "norcerian"
+    faith = "colocist"
+    dynasty = NORCD3 #NorcDyn3
+    father = NORC_82 #Art48
+    mother = NORC_33 #Una28
+    568.1.1 = {
+        birth = yes
+    }
+    586.1.1 = {
+        add_spouse = NORC_124 #Eabha146
+    }
+}
+
+NORC_102 = {
+    name = "Niamh125"
+    culture = "norcerian"
+    faith = "colocist"
+    female = yes
+    dynasty = NORCD3 #NorcDyn3
+    father = NORC_110 #Tadhg47
+    mother = NORC_173 #Roisin69
+    580.1.1 = {
+        birth = yes
+    }
+}
+
+NORC_103 = {
+    name = "Niamh127"
+    culture = "norcerian"
+    faith = "colocist"
+    female = yes
+    dynasty = NORCD3 #NorcDyn3
+    father = NORC_110 #Tadhg47
+    mother = NORC_173 #Roisin69
+    582.1.1 = {
+        birth = yes
+    }
+}
+
+NORC_104 = {
+    name = "Niamh14"
+    culture = "norcerian"
+    faith = "colocist"
+    female = yes
+    dynasty = NORCD3 #NorcDyn3
+    father = NORC_111 #Tuathal11
+    523.1.1 = {
+        birth = yes
+    }
+    545.1.1 = {
+        add_spouse = NORC_123 #Diarmaid17
+    }
+}
+
+NORC_105 = {
+    name = "Oisin52"
+    culture = "norcerian"
+    faith = "colocist"
+    dynasty = NORCD3 #NorcDyn3
+    father = NORC_97 #Flann13
+    mother = NORC_14 #Eabha5
+    552.1.1 = {
+        birth = yes
+    }
+    570.1.1 = {
+        add_spouse = NORC_26 #Mairead29
+    }
+}
+
+NORC_106 = {
+    name = "Padraig139"
+    culture = "norcerian"
+    faith = "colocist"
+    dynasty = NORCD3 #NorcDyn3
+    father = NORC_105 #Oisin52
+    mother = NORC_26 #Mairead29
+    571.1.1 = {
+        birth = yes
+    }
+    586.1.1 = {
+        add_spouse = NORC_3 #Aoife85
+    }
+}
+
+NORC_107 = {
+    name = "Sadhbh135"
+    culture = "norcerian"
+    faith = "colocist"
+    female = yes
+    dynasty = NORCD3 #NorcDyn3
+    father = NORC_82 #Art48
+    mother = NORC_33 #Una28
+    572.1.1 = {
+        birth = yes
+    }
+}
+
+NORC_108 = {
+    name = "Sadhbh51"
+    culture = "norcerian"
+    faith = "colocist"
+    female = yes
+    dynasty = NORCD3 #NorcDyn3
+    father = NORC_97 #Flann13
+    mother = NORC_14 #Eabha5
+    551.1.1 = {
+        birth = yes
+    }
+    567.1.1 = {
+        add_spouse = NORC_48 #Diarmaid43
+    }
+}
+
+NORC_109 = {
+    name = "Siobhan141"
+    culture = "norcerian"
+    faith = "colocist"
+    female = yes
+    dynasty = NORCD3 #NorcDyn3
+    father = NORC_105 #Oisin52
+    mother = NORC_26 #Mairead29
+    573.1.1 = {
+        birth = yes
+    }
+}
+
+NORC_11 = {
+    name = "Conall93"
+    culture = "norcerian"
+    faith = "colocist"
+    dynasty = NORCD1 #NorcDyn1
+    father = NORC_8 #Colman34
+    mother = NORC_67 #Riona46
+    578.1.1 = {
+        birth = yes
+    }
+}
+
+NORC_110 = {
+    name = "Tadhg47"
+    culture = "norcerian"
+    faith = "colocist"
+    dynasty = NORCD3 #NorcDyn3
+    father = NORC_96 #Fergus12
+    mother = NORC_148 #Aoife25
+    550.1.1 = {
+        birth = yes
+    }
+    575.1.1 = {
+        add_spouse = NORC_173 #Roisin69
+    }
+}
+
+NORC_111 = {
+    name = "Tuathal11"
+    culture = "norcerian"
+    faith = "colocist"
+    dynasty = NORCD3 #NorcDyn3
+    482.1.1 = {
+        birth = yes
+    }
+    556.1.1 = {
+        death = yes
+    }
+}
+
+NORC_112 = {
+    name = "Uilliam140"
+    culture = "norcerian"
+    faith = "colocist"
+    dynasty = NORCD3 #NorcDyn3
+    father = NORC_105 #Oisin52
+    mother = NORC_26 #Mairead29
+    572.1.1 = {
+        birth = yes
+    }
+}
+
+NORC_113 = {
+    name = "Aengus151"
+    culture = "norcerian"
+    faith = "colocist"
+    dynasty = NORCD4 #NorcDyn4
+    father = NORC_134 #Lochlann57
+    mother = NORC_93 #Eilis49
+    574.1.1 = {
+        birth = yes
+    }
+}
+
+NORC_114 = {
+    name = "Aine155"
+    culture = "norcerian"
+    faith = "colocist"
+    female = yes
+    dynasty = NORCD4 #NorcDyn4
+    father = NORC_134 #Lochlann57
+    mother = NORC_93 #Eilis49
+    581.1.1 = {
+        birth = yes
+    }
+}
+
+NORC_115 = {
+    name = "Aisling19"
+    culture = "norcerian"
+    faith = "colocist"
+    female = yes
+    dynasty = NORCD4 #NorcDyn4
+    father = NORC_133 #Guaire16
+    524.1.1 = {
+        birth = yes
+    }
+    548.1.1 = {
+        add_spouse = NORC_161 #Guaire23
+    }
+    583.1.1 = {
+        death = yes
+    }
+}
+
+NORC_116 = {
+    name = "Aoife154"
+    culture = "norcerian"
+    faith = "colocist"
+    female = yes
+    dynasty = NORCD4 #NorcDyn4
+    father = NORC_134 #Lochlann57
+    mother = NORC_93 #Eilis49
+    580.1.1 = {
+        birth = yes
+    }
+}
+
+NORC_117 = {
+    name = "Brendan158"
+    culture = "norcerian"
+    faith = "colocist"
+    dynasty = NORCD4 #NorcDyn4
+    father = NORC_126 #Eremon59
+    mother = NORC_100 #Muireann54
+    578.1.1 = {
+        birth = yes
+    }
+}
+
+NORC_118 = {
+    name = "Brendan60"
+    culture = "norcerian"
+    faith = "colocist"
+    dynasty = NORCD4 #NorcDyn4
+    father = NORC_130 #Fergal18
+    mother = NORC_177 #Sadhbh24
+    550.1.1 = {
+        birth = yes
+    }
+    567.1.1 = {
+        add_spouse = NORC_64 #Muirenn41
+    }
+}
+
+NORC_119 = {
+    name = "Bresal150"
+    culture = "norcerian"
+    faith = "colocist"
+    dynasty = NORCD4 #NorcDyn4
+    father = NORC_134 #Lochlann57
+    mother = NORC_93 #Eilis49
+    572.1.1 = {
+        birth = yes
+    }
+}
+
+NORC_12 = {
+    name = "Deirdre91"
+    culture = "norcerian"
+    faith = "colocist"
+    female = yes
+    dynasty = NORCD1 #NorcDyn1
+    father = NORC_8 #Colman34
+    mother = NORC_67 #Riona46
+    574.1.1 = {
+        birth = yes
+    }
+}
+
+NORC_120 = {
+    name = "Cathal147"
+    culture = "norcerian"
+    faith = "colocist"
+    dynasty = NORCD4 #NorcDyn4
+    father = NORC_118 #Brendan60
+    mother = NORC_64 #Muirenn41
+    572.1.1 = {
+        birth = yes
+    }
+}
+
+NORC_121 = {
+    name = "Clodagh156"
+    culture = "norcerian"
+    faith = "colocist"
+    female = yes
+    dynasty = NORCD4 #NorcDyn4
+    father = NORC_126 #Eremon59
+    mother = NORC_100 #Muireann54
+    575.1.1 = {
+        birth = yes
+    }
+}
+
+NORC_122 = {
+    name = "Deirdre157"
+    culture = "norcerian"
+    faith = "colocist"
+    female = yes
+    dynasty = NORCD4 #NorcDyn4
+    father = NORC_126 #Eremon59
+    mother = NORC_100 #Muireann54
+    577.1.1 = {
+        birth = yes
+    }
+}
+
+NORC_123 = {
+    name = "Diarmaid17"
+    culture = "norcerian"
+    faith = "colocist"
+    dynasty = NORCD4 #NorcDyn4
+    father = NORC_133 #Guaire16
+    518.1.1 = {
+        birth = yes
+    }
+    545.1.1 = {
+        add_spouse = NORC_104 #Niamh14
+    }
+    576.1.1 = {
+        death = yes
+    }
+}
+
+NORC_124 = {
+    name = "Eabha146"
+    culture = "norcerian"
+    faith = "colocist"
+    female = yes
+    dynasty = NORCD4 #NorcDyn4
+    father = NORC_118 #Brendan60
+    mother = NORC_64 #Muirenn41
+    570.1.1 = {
+        birth = yes
+    }
+    586.1.1 = {
+        add_spouse = NORC_101 #Niall133
+    }
+}
+
+NORC_125 = {
+    name = "Eoghan144"
+    culture = "norcerian"
+    faith = "colocist"
+    dynasty = NORCD4 #NorcDyn4
+    father = NORC_118 #Brendan60
+    mother = NORC_64 #Muirenn41
+    568.1.1 = {
+        birth = yes
+    }
+    586.1.1 = {
+        add_spouse = NORC_52 #Etain97
+    }
+}
+
+NORC_126 = {
+    name = "Eremon59"
+    culture = "norcerian"
+    faith = "colocist"
+    dynasty = NORCD4 #NorcDyn4
+    father = NORC_123 #Diarmaid17
+    mother = NORC_104 #Niamh14
+    556.1.1 = {
+        birth = yes
+    }
+    574.1.1 = {
+        add_spouse = NORC_100 #Muireann54
+    }
+}
+
+NORC_127 = {
+    name = "Etain148"
+    culture = "norcerian"
+    faith = "colocist"
+    female = yes
+    dynasty = NORCD4 #NorcDyn4
+    father = NORC_118 #Brendan60
+    mother = NORC_64 #Muirenn41
+    573.1.1 = {
+        birth = yes
+    }
+}
+
+NORC_128 = {
+    name = "Etain62"
+    culture = "norcerian"
+    faith = "colocist"
+    female = yes
+    dynasty = NORCD4 #NorcDyn4
+    father = NORC_130 #Fergal18
+    mother = NORC_177 #Sadhbh24
+    554.1.1 = {
+        birth = yes
+    }
+    572.1.1 = {
+        add_spouse = NORC_65 #Niall39
+    }
+}
+
+NORC_129 = {
+    name = "Fergal145"
+    culture = "norcerian"
+    faith = "colocist"
+    dynasty = NORCD4 #NorcDyn4
+    father = NORC_118 #Brendan60
+    mother = NORC_64 #Muirenn41
+    569.1.1 = {
+        birth = yes
+    }
+    586.1.1 = {
+        add_spouse = NORC_56 #Fionnuala112
+    }
+}
+
+NORC_13 = {
+    name = "Domnall3"
+    culture = "norcerian"
+    faith = "colocist"
+    dynasty = NORCD1 #NorcDyn1
+    father = NORC_19 #Eremon1
+    518.1.1 = {
+        birth = yes
+    }
+    545.1.1 = {
+        add_spouse = NORC_43 #Clodagh10
+    }
+    575.1.1 = {
+        death = yes
+    }
+}
+
+NORC_130 = {
+    name = "Fergal18"
+    culture = "norcerian"
+    faith = "colocist"
+    dynasty = NORCD4 #NorcDyn4
+    father = NORC_133 #Guaire16
+    521.1.1 = {
+        birth = yes
+    }
+    547.1.1 = {
+        add_spouse = NORC_177 #Sadhbh24
+    }
+    574.1.1 = {
+        death = yes
+    }
+}
+
+NORC_131 = {
+    name = "Fergus149"
+    culture = "norcerian"
+    faith = "colocist"
+    dynasty = NORCD4 #NorcDyn4
+    father = NORC_118 #Brendan60
+    mother = NORC_64 #Muirenn41
+    574.1.1 = {
+        birth = yes
+    }
+}
+
+NORC_132 = {
+    name = "Guaire153"
+    culture = "norcerian"
+    faith = "colocist"
+    dynasty = NORCD4 #NorcDyn4
+    father = NORC_134 #Lochlann57
+    mother = NORC_93 #Eilis49
+    578.1.1 = {
+        birth = yes
+    }
+}
+
+NORC_133 = {
+    name = "Guaire16"
+    culture = "norcerian"
+    faith = "colocist"
+    dynasty = NORCD4 #NorcDyn4
+    483.1.1 = {
+        birth = yes
+    }
+    557.1.1 = {
+        death = yes
+    }
+}
+
+NORC_134 = {
+    name = "Lochlann57"
+    culture = "norcerian"
+    faith = "colocist"
+    dynasty = NORCD4 #NorcDyn4
+    father = NORC_123 #Diarmaid17
+    mother = NORC_104 #Niamh14
+    552.1.1 = {
+        birth = yes
+    }
+    571.1.1 = {
+        add_spouse = NORC_93 #Eilis49
+    }
+}
+
+NORC_135 = {
+    name = "Mairead61"
+    culture = "norcerian"
+    faith = "colocist"
+    female = yes
+    dynasty = NORCD4 #NorcDyn4
+    father = NORC_130 #Fergal18
+    mother = NORC_177 #Sadhbh24
+    552.1.1 = {
+        birth = yes
+    }
+    566.1.1 = {
+        add_spouse = NORC_73 #Tadhg45
+    }
+}
+
+NORC_136 = {
+    name = "Neasa20"
+    culture = "norcerian"
+    faith = "colocist"
+    female = yes
+    dynasty = NORCD4 #NorcDyn4
+    father = NORC_133 #Guaire16
+    527.1.1 = {
+        birth = yes
+    }
+    543.1.1 = {
+        add_spouse = NORC_55 #Fergus8
+    }
+    579.1.1 = {
+        death = yes
+    }
+}
+
+NORC_137 = {
+    name = "Saoirse58"
+    culture = "norcerian"
+    faith = "colocist"
+    female = yes
+    dynasty = NORCD4 #NorcDyn4
+    father = NORC_123 #Diarmaid17
+    mother = NORC_104 #Niamh14
+    554.1.1 = {
+        birth = yes
+    }
+    572.1.1 = {
+        add_spouse = NORC_152 #Conall65
+    }
+}
+
+NORC_138 = {
+    name = "Siobhan160"
+    culture = "norcerian"
+    faith = "colocist"
+    female = yes
+    dynasty = NORCD4 #NorcDyn4
+    father = NORC_126 #Eremon59
+    mother = NORC_100 #Muireann54
+    581.1.1 = {
+        birth = yes
+    }
+}
+
+NORC_139 = {
+    name = "Siobhan56"
+    culture = "norcerian"
+    faith = "colocist"
+    female = yes
+    dynasty = NORCD4 #NorcDyn4
+    father = NORC_123 #Diarmaid17
+    mother = NORC_104 #Niamh14
+    550.1.1 = {
+        birth = yes
+    }
+    576.1.1 = {
+        add_spouse = NORC_163 #Lochlann64
+    }
+}
+
+NORC_14 = {
+    name = "Eabha5"
+    culture = "norcerian"
+    faith = "colocist"
+    female = yes
+    dynasty = NORCD1 #NorcDyn1
+    father = NORC_19 #Eremon1
+    524.1.1 = {
+        birth = yes
+    }
+    546.1.1 = {
+        add_spouse = NORC_97 #Flann13
+    }
+    570.1.1 = {
+        death = yes
+    }
+}
+
+NORC_140 = {
+    name = "Tadhg159"
+    culture = "norcerian"
+    faith = "colocist"
+    dynasty = NORCD4 #NorcDyn4
+    father = NORC_126 #Eremon59
+    mother = NORC_100 #Muireann54
+    579.1.1 = {
+        birth = yes
+    }
+}
+
+NORC_141 = {
+    name = "Tuathal152"
+    culture = "norcerian"
+    faith = "colocist"
+    dynasty = NORCD4 #NorcDyn4
+    father = NORC_134 #Lochlann57
+    mother = NORC_93 #Eilis49
+    576.1.1 = {
+        birth = yes
+    }
+}
+
+NORC_142 = {
+    name = "Aed177"
+    culture = "norcerian"
+    faith = "colocist"
+    dynasty = NORCD5 #NorcDyn5
+    father = NORC_176 #Ronan67
+    mother = NORC_17 #Emer35
+    567.1.1 = {
+        birth = yes
+    }
+    586.1.1 = {
+        add_spouse = NORC_86 #Caoimhe134
+    }
+}
+
+NORC_143 = {
+    name = "Aed74"
+    culture = "norcerian"
+    faith = "colocist"
+    dynasty = NORCD5 #NorcDyn5
+    father = NORC_161 #Guaire23
+    mother = NORC_115 #Aisling19
+    558.1.1 = {
+        birth = yes
+    }
+}
+
+NORC_144 = {
+    name = "Aengus72"
+    culture = "norcerian"
+    faith = "colocist"
+    dynasty = NORCD5 #NorcDyn5
+    father = NORC_161 #Guaire23
+    mother = NORC_115 #Aisling19
+    555.1.1 = {
+        birth = yes
+    }
+}
+
+NORC_145 = {
+    name = "Ailis168"
+    culture = "norcerian"
+    faith = "colocist"
+    female = yes
+    dynasty = NORCD5 #NorcDyn5
+    father = NORC_170 #Oisin70
+    mother = NORC_32 #Una26
+    576.1.1 = {
+        birth = yes
+    }
+}
+
+NORC_146 = {
+    name = "Aine170"
+    culture = "norcerian"
+    faith = "colocist"
+    female = yes
+    dynasty = NORCD5 #NorcDyn5
+    father = NORC_170 #Oisin70
+    mother = NORC_32 #Una26
+    578.1.1 = {
+        birth = yes
+    }
+}
+
+NORC_147 = {
+    name = "Aine68"
+    culture = "norcerian"
+    faith = "colocist"
+    female = yes
+    dynasty = NORCD5 #NorcDyn5
+    father = NORC_160 #Guaire22
+    mother = NORC_2 #Aisling4
+    556.1.1 = {
+        birth = yes
+    }
+    566.1.1 = {
+        add_spouse = NORC_98 #Guaire50
+    }
+}
+
+NORC_148 = {
+    name = "Aoife25"
+    culture = "norcerian"
+    faith = "colocist"
+    female = yes
+    dynasty = NORCD5 #NorcDyn5
+    father = NORC_157 #Fergal21
+    528.1.1 = {
+        birth = yes
+    }
+    549.1.1 = {
+        add_spouse = NORC_96 #Fergus12
+    }
+    568.1.1 = {
+        death = yes
+    }
+}
+
+NORC_149 = {
+    name = "Art180"
+    culture = "norcerian"
+    faith = "colocist"
+    dynasty = NORCD5 #NorcDyn5
+    father = NORC_176 #Ronan67
+    mother = NORC_17 #Emer35
+    572.1.1 = {
+        birth = yes
+    }
+}
+
+NORC_15 = {
+    name = "Eabha88"
+    culture = "norcerian"
+    faith = "colocist"
+    female = yes
+    dynasty = NORCD1 #NorcDyn1
+    father = NORC_7 #Colman32
+    mother = NORC_35 #Aoife38
+    576.1.1 = {
+        birth = yes
+    }
+}
+
+NORC_150 = {
+    name = "Ciara162"
+    culture = "norcerian"
+    faith = "colocist"
+    female = yes
+    dynasty = NORCD5 #NorcDyn5
+    father = NORC_163 #Lochlann64
+    mother = NORC_139 #Siobhan56
+    578.1.1 = {
+        birth = yes
+    }
+}
+
+NORC_151 = {
+    name = "Conall167"
+    culture = "norcerian"
+    faith = "colocist"
+    dynasty = NORCD5 #NorcDyn5
+    father = NORC_152 #Conall65
+    mother = NORC_137 #Saoirse58
+    577.1.1 = {
+        birth = yes
+    }
+}
+
+NORC_152 = {
+    name = "Conall65"
+    culture = "norcerian"
+    faith = "colocist"
+    dynasty = NORCD5 #NorcDyn5
+    father = NORC_160 #Guaire22
+    mother = NORC_2 #Aisling4
+    552.1.1 = {
+        birth = yes
+    }
+    572.1.1 = {
+        add_spouse = NORC_137 #Saoirse58
+    }
+}
+
+NORC_153 = {
+    name = "Eithne161"
+    culture = "norcerian"
+    faith = "colocist"
+    female = yes
+    dynasty = NORCD5 #NorcDyn5
+    father = NORC_163 #Lochlann64
+    mother = NORC_139 #Siobhan56
+    577.1.1 = {
+        birth = yes
+    }
+}
+
+NORC_154 = {
+    name = "Eochaid176"
+    culture = "norcerian"
+    faith = "colocist"
+    dynasty = NORCD5 #NorcDyn5
+    father = NORC_162 #Iarlaith66
+    mother = NORC_5 #Blathnat33
+    580.1.1 = {
+        birth = yes
+    }
+}
+
+NORC_155 = {
+    name = "Eoghan172"
+    culture = "norcerian"
+    faith = "colocist"
+    dynasty = NORCD5 #NorcDyn5
+    father = NORC_170 #Oisin70
+    mother = NORC_32 #Una26
+    581.1.1 = {
+        birth = yes
+    }
+}
+
+NORC_156 = {
+    name = "Eremon171"
+    culture = "norcerian"
+    faith = "colocist"
+    dynasty = NORCD5 #NorcDyn5
+    father = NORC_170 #Oisin70
+    mother = NORC_32 #Una26
+    579.1.1 = {
+        birth = yes
+    }
+}
+
+NORC_157 = {
+    name = "Fergal21"
+    culture = "norcerian"
+    faith = "colocist"
+    dynasty = NORCD5 #NorcDyn5
+    484.1.1 = {
+        birth = yes
+    }
+    541.1.1 = {
+        death = yes
+    }
+}
+
+NORC_158 = {
+    name = "Fergus173"
+    culture = "norcerian"
+    faith = "colocist"
+    dynasty = NORCD5 #NorcDyn5
+    father = NORC_170 #Oisin70
+    mother = NORC_32 #Una26
+    582.1.1 = {
+        birth = yes
+    }
+}
+
+NORC_159 = {
+    name = "Fionnuala169"
+    culture = "norcerian"
+    faith = "colocist"
+    female = yes
+    dynasty = NORCD5 #NorcDyn5
+    father = NORC_170 #Oisin70
+    mother = NORC_32 #Una26
+    577.1.1 = {
+        birth = yes
+    }
+}
+
+NORC_16 = {
+    name = "Eabha94"
+    culture = "norcerian"
+    faith = "colocist"
+    female = yes
+    dynasty = NORCD1 #NorcDyn1
+    father = NORC_8 #Colman34
+    mother = NORC_67 #Riona46
+    579.1.1 = {
+        birth = yes
+    }
+}
+
+NORC_160 = {
+    name = "Guaire22"
+    culture = "norcerian"
+    faith = "colocist"
+    dynasty = NORCD5 #NorcDyn5
+    father = NORC_157 #Fergal21
+    519.1.1 = {
+        birth = yes
+    }
+    545.1.1 = {
+        add_spouse = NORC_2 #Aisling4
+    }
+    575.1.1 = {
+        death = yes
+    }
+}
+
+NORC_161 = {
+    name = "Guaire23"
+    culture = "norcerian"
+    faith = "colocist"
+    dynasty = NORCD5 #NorcDyn5
+    father = NORC_157 #Fergal21
+    522.1.1 = {
+        birth = yes
+    }
+    548.1.1 = {
+        add_spouse = NORC_115 #Aisling19
+    }
+    575.1.1 = {
+        death = yes
+    }
+}
+
+NORC_162 = {
+    name = "Iarlaith66"
+    culture = "norcerian"
+    faith = "colocist"
+    dynasty = NORCD5 #NorcDyn5
+    father = NORC_160 #Guaire22
+    mother = NORC_2 #Aisling4
+    553.1.1 = {
+        birth = yes
+    }
+    576.1.1 = {
+        add_spouse = NORC_5 #Blathnat33
+    }
+}
+
+NORC_163 = {
+    name = "Lochlann64"
+    culture = "norcerian"
+    faith = "colocist"
+    dynasty = NORCD5 #NorcDyn5
+    father = NORC_160 #Guaire22
+    mother = NORC_2 #Aisling4
+    551.1.1 = {
+        birth = yes
+    }
+    576.1.1 = {
+        add_spouse = NORC_139 #Siobhan56
+    }
+}
+
+NORC_164 = {
+    name = "Macha164"
+    culture = "norcerian"
+    faith = "colocist"
+    female = yes
+    dynasty = NORCD5 #NorcDyn5
+    father = NORC_152 #Conall65
+    mother = NORC_137 #Saoirse58
+    573.1.1 = {
+        birth = yes
+    }
+}
+
+NORC_165 = {
+    name = "Macha174"
+    culture = "norcerian"
+    faith = "colocist"
+    female = yes
+    dynasty = NORCD5 #NorcDyn5
+    father = NORC_162 #Iarlaith66
+    mother = NORC_5 #Blathnat33
+    577.1.1 = {
+        birth = yes
+    }
+}
+
+NORC_166 = {
+    name = "Macha76"
+    culture = "norcerian"
+    faith = "colocist"
+    female = yes
+    dynasty = NORCD5 #NorcDyn5
+    548.1.1 = {
+        birth = yes
+    }
+    574.1.1 = {
+        add_spouse = NORC_71 #Seamus40
+    }
+}
+
+NORC_167 = {
+    name = "Maeve75"
+    culture = "norcerian"
+    faith = "colocist"
+    female = yes
+    dynasty = NORCD5 #NorcDyn5
+    548.1.1 = {
+        birth = yes
+    }
+}
+
+NORC_168 = {
+    name = "Neasa71"
+    culture = "norcerian"
+    faith = "colocist"
+    female = yes
+    dynasty = NORCD5 #NorcDyn5
+    father = NORC_161 #Guaire23
+    mother = NORC_115 #Aisling19
+    553.1.1 = {
+        birth = yes
+    }
+}
+
+NORC_169 = {
+    name = "Oisin165"
+    culture = "norcerian"
+    faith = "colocist"
+    dynasty = NORCD5 #NorcDyn5
+    father = NORC_152 #Conall65
+    mother = NORC_137 #Saoirse58
+    575.1.1 = {
+        birth = yes
+    }
+}
+
+NORC_17 = {
+    name = "Emer35"
+    culture = "norcerian"
+    faith = "colocist"
+    female = yes
+    dynasty = NORCD1 #NorcDyn1
+    father = NORC_13 #Domnall3
+    mother = NORC_43 #Clodagh10
+    556.1.1 = {
+        birth = yes
+    }
+    566.1.1 = {
+        add_spouse = NORC_176 #Ronan67
+    }
+}
+
+NORC_170 = {
+    name = "Oisin70"
+    culture = "norcerian"
+    faith = "colocist"
+    dynasty = NORCD5 #NorcDyn5
+    father = NORC_161 #Guaire23
+    mother = NORC_115 #Aisling19
+    552.1.1 = {
+        birth = yes
+    }
+    575.1.1 = {
+        add_spouse = NORC_32 #Una26
+    }
+}
+
+NORC_171 = {
+    name = "Padraig73"
+    culture = "norcerian"
+    faith = "colocist"
+    dynasty = NORCD5 #NorcDyn5
+    father = NORC_161 #Guaire23
+    mother = NORC_115 #Aisling19
+    556.1.1 = {
+        birth = yes
+    }
+}
+
+NORC_172 = {
+    name = "Roisin179"
+    culture = "norcerian"
+    faith = "colocist"
+    female = yes
+    dynasty = NORCD5 #NorcDyn5
+    father = NORC_176 #Ronan67
+    mother = NORC_17 #Emer35
+    571.1.1 = {
+        birth = yes
+    }
+}
+
+NORC_173 = {
+    name = "Roisin69"
+    culture = "norcerian"
+    faith = "colocist"
+    female = yes
+    dynasty = NORCD5 #NorcDyn5
+    father = NORC_161 #Guaire23
+    mother = NORC_115 #Aisling19
+    550.1.1 = {
+        birth = yes
+    }
+    575.1.1 = {
+        add_spouse = NORC_110 #Tadhg47
+    }
+}
+
+NORC_174 = {
+    name = "Ronan163"
+    culture = "norcerian"
+    faith = "colocist"
+    dynasty = NORCD5 #NorcDyn5
+    father = NORC_163 #Lochlann64
+    mother = NORC_139 #Siobhan56
+    579.1.1 = {
+        birth = yes
+    }
+}
+
+NORC_175 = {
+    name = "Ronan175"
+    culture = "norcerian"
+    faith = "colocist"
+    dynasty = NORCD5 #NorcDyn5
+    father = NORC_162 #Iarlaith66
+    mother = NORC_5 #Blathnat33
+    578.1.1 = {
+        birth = yes
+    }
+}
+
+NORC_176 = {
+    name = "Ronan67"
+    culture = "norcerian"
+    faith = "colocist"
+    dynasty = NORCD5 #NorcDyn5
+    father = NORC_160 #Guaire22
+    mother = NORC_2 #Aisling4
+    554.1.1 = {
+        birth = yes
+    }
+    566.1.1 = {
+        add_spouse = NORC_17 #Emer35
+    }
+}
+
+NORC_177 = {
+    name = "Sadhbh24"
+    culture = "norcerian"
+    faith = "colocist"
+    female = yes
+    dynasty = NORCD5 #NorcDyn5
+    father = NORC_157 #Fergal21
+    525.1.1 = {
+        birth = yes
+    }
+    547.1.1 = {
+        add_spouse = NORC_130 #Fergal18
+    }
+    572.1.1 = {
+        death = yes
+    }
+}
+
+NORC_178 = {
+    name = "Tadhg178"
+    culture = "norcerian"
+    faith = "colocist"
+    dynasty = NORCD5 #NorcDyn5
+    father = NORC_176 #Ronan67
+    mother = NORC_17 #Emer35
+    569.1.1 = {
+        birth = yes
+    }
+    586.1.1 = {
+        add_spouse = NORC_68 #Roisin98
+    }
+}
+
+NORC_179 = {
+    name = "Treasa63"
+    culture = "norcerian"
+    faith = "colocist"
+    female = yes
+    dynasty = NORCD5 #NorcDyn5
+    father = NORC_160 #Guaire22
+    mother = NORC_2 #Aisling4
+    550.1.1 = {
+        birth = yes
+    }
+}
+
+NORC_18 = {
+    name = "Eochaid81"
+    culture = "norcerian"
+    faith = "colocist"
+    dynasty = NORCD1 #NorcDyn1
+    father = NORC_25 #Lochlann27
+    mother = NORC_49 #Eabha42
+    572.1.1 = {
+        birth = yes
+    }
+}
+
+NORC_180 = {
+    name = "Uilliam166"
+    culture = "norcerian"
+    faith = "colocist"
+    dynasty = NORCD5 #NorcDyn5
+    father = NORC_152 #Conall65
+    mother = NORC_137 #Saoirse58
+    576.1.1 = {
+        birth = yes
+    }
+}
+
+NORC_19 = {
+    name = "Eremon1"
+    culture = "norcerian"
+    faith = "colocist"
+    dynasty = NORCD1 #NorcDyn1
+    480.1.1 = {
+        birth = yes
+    }
+    556.1.1 = {
+        death = yes
+    }
+}
+
+NORC_2 = {
+    name = "Aisling4"
+    culture = "norcerian"
+    faith = "colocist"
+    female = yes
+    dynasty = NORCD1 #NorcDyn1
+    father = NORC_19 #Eremon1
+    521.1.1 = {
+        birth = yes
+    }
+    545.1.1 = {
+        add_spouse = NORC_160 #Guaire22
+    }
+    582.1.1 = {
+        death = yes
+    }
+}
+
+NORC_20 = {
+    name = "Fergal30"
+    culture = "norcerian"
+    faith = "colocist"
+    dynasty = NORCD1 #NorcDyn1
+    father = NORC_13 #Domnall3
+    mother = NORC_43 #Clodagh10
+    550.1.1 = {
+        birth = yes
+    }
+    573.1.1 = {
+        add_spouse = NORC_50 #Eilis77
+    }
+}
+
+NORC_21 = {
+    name = "Fergal84"
+    culture = "norcerian"
+    faith = "colocist"
+    dynasty = NORCD1 #NorcDyn1
+    father = NORC_22 #Fintan31
+    mother = NORC_62 #Maeve36
+    569.1.1 = {
+        birth = yes
+    }
+    586.1.1 = {
+        add_spouse = NORC_70 #Sadhbh110
+    }
+}
+
+NORC_22 = {
+    name = "Fintan31"
+    culture = "norcerian"
+    faith = "colocist"
+    dynasty = NORCD1 #NorcDyn1
+    father = NORC_13 #Domnall3
+    mother = NORC_43 #Clodagh10
+    551.1.1 = {
+        birth = yes
+    }
+    568.1.1 = {
+        add_spouse = NORC_62 #Maeve36
+    }
+}
+
+NORC_23 = {
+    name = "Fionnuala89"
+    culture = "norcerian"
+    faith = "colocist"
+    female = yes
+    dynasty = NORCD1 #NorcDyn1
+    father = NORC_7 #Colman32
+    mother = NORC_35 #Aoife38
+    578.1.1 = {
+        birth = yes
+    }
+}
+
+NORC_24 = {
+    name = "Lasair95"
+    culture = "norcerian"
+    faith = "colocist"
+    female = yes
+    dynasty = NORCD1 #NorcDyn1
+    father = NORC_8 #Colman34
+    mother = NORC_67 #Riona46
+    580.1.1 = {
+        birth = yes
+    }
+}
+
+NORC_25 = {
+    name = "Lochlann27"
+    culture = "norcerian"
+    faith = "colocist"
+    dynasty = NORCD1 #NorcDyn1
+    father = NORC_4 #Art2
+    mother = NORC_72 #Sinead9
+    551.1.1 = {
+        birth = yes
+    }
+    571.1.1 = {
+        add_spouse = NORC_49 #Eabha42
+    }
+}
+
+NORC_26 = {
+    name = "Mairead29"
+    culture = "norcerian"
+    faith = "colocist"
+    female = yes
+    dynasty = NORCD1 #NorcDyn1
+    father = NORC_4 #Art2
+    mother = NORC_72 #Sinead9
+    554.1.1 = {
+        birth = yes
+    }
+    570.1.1 = {
+        add_spouse = NORC_105 #Oisin52
+    }
+}
+
+NORC_27 = {
+    name = "Muirenn87"
+    culture = "norcerian"
+    faith = "colocist"
+    female = yes
+    dynasty = NORCD1 #NorcDyn1
+    father = NORC_7 #Colman32
+    mother = NORC_35 #Aoife38
+    574.1.1 = {
+        birth = yes
+    }
+}
+
+NORC_28 = {
+    name = "Niall78"
+    culture = "norcerian"
+    faith = "colocist"
+    dynasty = NORCD1 #NorcDyn1
+    father = NORC_20 #Fergal30
+    mother = NORC_50 #Eilis77
+    574.1.1 = {
+        birth = yes
+    }
+}
+
+NORC_29 = {
+    name = "Oisin92"
+    culture = "norcerian"
+    faith = "colocist"
+    dynasty = NORCD1 #NorcDyn1
+    father = NORC_8 #Colman34
+    mother = NORC_67 #Riona46
+    576.1.1 = {
+        birth = yes
+    }
+}
+
+NORC_3 = {
+    name = "Aoife85"
+    culture = "norcerian"
+    faith = "colocist"
+    female = yes
+    dynasty = NORCD1 #NorcDyn1
+    father = NORC_22 #Fintan31
+    mother = NORC_62 #Maeve36
+    571.1.1 = {
+        birth = yes
+    }
+    586.1.1 = {
+        add_spouse = NORC_106 #Padraig139
+    }
+}
+
+NORC_30 = {
+    name = "Orla86"
+    culture = "norcerian"
+    faith = "colocist"
+    female = yes
+    dynasty = NORCD1 #NorcDyn1
+    father = NORC_22 #Fintan31
+    mother = NORC_62 #Maeve36
+    573.1.1 = {
+        birth = yes
+    }
+}
+
+NORC_31 = {
+    name = "Sorcha82"
+    culture = "norcerian"
+    faith = "colocist"
+    female = yes
+    dynasty = NORCD1 #NorcDyn1
+    father = NORC_25 #Lochlann27
+    mother = NORC_49 #Eabha42
+    574.1.1 = {
+        birth = yes
+    }
+}
+
+NORC_32 = {
+    name = "Una26"
+    culture = "norcerian"
+    faith = "colocist"
+    female = yes
+    dynasty = NORCD1 #NorcDyn1
+    father = NORC_4 #Art2
+    mother = NORC_72 #Sinead9
+    550.1.1 = {
+        birth = yes
+    }
+    575.1.1 = {
+        add_spouse = NORC_170 #Oisin70
+    }
+}
+
+NORC_33 = {
+    name = "Una28"
+    culture = "norcerian"
+    faith = "colocist"
+    female = yes
+    dynasty = NORCD1 #NorcDyn1
+    father = NORC_4 #Art2
+    mother = NORC_72 #Sinead9
+    552.1.1 = {
+        birth = yes
+    }
+    567.1.1 = {
+        add_spouse = NORC_82 #Art48
+    }
+}
+
+NORC_34 = {
+    name = "Aisling100"
+    culture = "norcerian"
+    faith = "colocist"
+    female = yes
+    dynasty = NORCD2 #NorcDyn2
+    father = NORC_58 #Guaire37
+    mother = NORC_94 #Eilis53
+    574.1.1 = {
+        birth = yes
+    }
+}
+
+NORC_35 = {
+    name = "Aoife38"
+    culture = "norcerian"
+    faith = "colocist"
+    female = yes
+    dynasty = NORCD2 #NorcDyn2
+    father = NORC_45 #Colman7
+    mother = NORC_95 #Emer15
+    555.1.1 = {
+        birth = yes
+    }
+    573.1.1 = {
+        add_spouse = NORC_7 #Colman32
+    }
+}
+
+NORC_36 = {
+    name = "Brendan44"
+    culture = "norcerian"
+    faith = "colocist"
+    dynasty = NORCD2 #NorcDyn2
+    father = NORC_55 #Fergus8
+    mother = NORC_136 #Neasa20
+    554.1.1 = {
+        birth = yes
+    }
+    571.1.1 = {
+        add_spouse = NORC_79 #Aine55
+    }
+}
+
+NORC_37 = {
+    name = "Brian107"
+    culture = "norcerian"
+    faith = "colocist"
+    dynasty = NORCD2 #NorcDyn2
+    father = NORC_36 #Brendan44
+    mother = NORC_79 #Aine55
+    576.1.1 = {
+        birth = yes
+    }
+}
+
+NORC_38 = {
+    name = "Brian118"
+    culture = "norcerian"
+    faith = "colocist"
+    dynasty = NORCD2 #NorcDyn2
+    father = NORC_71 #Seamus40
+    mother = NORC_166 #Macha76
+    576.1.1 = {
+        birth = yes
+    }
+}
+
+NORC_39 = {
+    name = "Brian122"
+    culture = "norcerian"
+    faith = "colocist"
+    dynasty = NORCD2 #NorcDyn2
+    father = NORC_71 #Seamus40
+    mother = NORC_166 #Macha76
+    581.1.1 = {
+        birth = yes
+    }
+}
+
+NORC_4 = {
+    name = "Art2"
+    culture = "norcerian"
+    faith = "colocist"
+    dynasty = NORCD1 #NorcDyn1
+    father = NORC_19 #Eremon1
+    515.1.1 = {
+        birth = yes
+    }
+    546.1.1 = {
+        add_spouse = NORC_72 #Sinead9
+    }
+}
+
+NORC_40 = {
+    name = "Cenn113"
+    culture = "norcerian"
+    faith = "colocist"
+    dynasty = NORCD2 #NorcDyn2
+    father = NORC_73 #Tadhg45
+    mother = NORC_135 #Mairead61
+    571.1.1 = {
+        birth = yes
+    }
+    586.1.1 = {
+        add_spouse = NORC_92 #Eilis130
+    }
+}
+
+NORC_41 = {
+    name = "Ciaran121"
+    culture = "norcerian"
+    faith = "colocist"
+    dynasty = NORCD2 #NorcDyn2
+    father = NORC_71 #Seamus40
+    mother = NORC_166 #Macha76
+    580.1.1 = {
+        birth = yes
+    }
+}
+
+NORC_42 = {
+    name = "Ciaran96"
+    culture = "norcerian"
+    faith = "colocist"
+    dynasty = NORCD2 #NorcDyn2
+    father = NORC_48 #Diarmaid43
+    mother = NORC_108 #Sadhbh51
+    568.1.1 = {
+        birth = yes
+    }
+    586.1.1 = {
+        add_spouse = NORC_81 #Aoife128
+    }
+}
+
+NORC_43 = {
+    name = "Clodagh10"
+    culture = "norcerian"
+    faith = "colocist"
+    female = yes
+    dynasty = NORCD2 #NorcDyn2
+    father = NORC_47 #Conall6
+    525.1.1 = {
+        birth = yes
+    }
+    545.1.1 = {
+        add_spouse = NORC_13 #Domnall3
+    }
+    583.1.1 = {
+        death = yes
+    }
+}
+
+NORC_44 = {
+    name = "Clodagh103"
+    culture = "norcerian"
+    faith = "colocist"
+    female = yes
+    dynasty = NORCD2 #NorcDyn2
+    father = NORC_58 #Guaire37
+    mother = NORC_94 #Eilis53
+    578.1.1 = {
+        birth = yes
+    }
+}
+
+NORC_45 = {
+    name = "Colman7"
+    culture = "norcerian"
+    faith = "colocist"
+    dynasty = NORCD2 #NorcDyn2
+    father = NORC_47 #Conall6
+    516.1.1 = {
+        birth = yes
+    }
+    550.1.1 = {
+        add_spouse = NORC_95 #Emer15
+    }
+    568.1.1 = {
+        death = yes
+    }
+}
+
+NORC_46 = {
+    name = "Conall111"
+    culture = "norcerian"
+    faith = "colocist"
+    dynasty = NORCD2 #NorcDyn2
+    father = NORC_73 #Tadhg45
+    mother = NORC_135 #Mairead61
+    569.1.1 = {
+        birth = yes
+    }
+    586.1.1 = {
+        add_spouse = NORC_85 #Brigid129
+    }
+}
+
+NORC_47 = {
+    name = "Conall6"
+    culture = "norcerian"
+    faith = "colocist"
+    dynasty = NORCD2 #NorcDyn2
+    481.1.1 = {
+        birth = yes
+    }
+    560.1.1 = {
+        death = yes
+    }
+}
+
+NORC_48 = {
+    name = "Diarmaid43"
+    culture = "norcerian"
+    faith = "colocist"
+    dynasty = NORCD2 #NorcDyn2
+    father = NORC_55 #Fergus8
+    mother = NORC_136 #Neasa20
+    552.1.1 = {
+        birth = yes
+    }
+    567.1.1 = {
+        add_spouse = NORC_108 #Sadhbh51
+    }
+}
+
+NORC_49 = {
+    name = "Eabha42"
+    culture = "norcerian"
+    faith = "colocist"
+    female = yes
+    dynasty = NORCD2 #NorcDyn2
+    father = NORC_55 #Fergus8
+    mother = NORC_136 #Neasa20
+    550.1.1 = {
+        birth = yes
+    }
+    571.1.1 = {
+        add_spouse = NORC_25 #Lochlann27
+    }
+}
+
+NORC_5 = {
+    name = "Blathnat33"
+    culture = "norcerian"
+    faith = "colocist"
+    female = yes
+    dynasty = NORCD1 #NorcDyn1
+    father = NORC_13 #Domnall3
+    mother = NORC_43 #Clodagh10
+    553.1.1 = {
+        birth = yes
+    }
+    576.1.1 = {
+        add_spouse = NORC_162 #Iarlaith66
+    }
+}
+
+NORC_50 = {
+    name = "Eilis77"
+    culture = "norcerian"
+    faith = "colocist"
+    female = yes
+    dynasty = NORCD2 #NorcDyn2
+    540.1.1 = {
+        birth = yes
+    }
+    573.1.1 = {
+        add_spouse = NORC_20 #Fergal30
+    }
+}
+
+NORC_51 = {
+    name = "Etain104"
+    culture = "norcerian"
+    faith = "colocist"
+    female = yes
+    dynasty = NORCD2 #NorcDyn2
+    father = NORC_58 #Guaire37
+    mother = NORC_94 #Eilis53
+    580.1.1 = {
+        birth = yes
+    }
+}
+
+NORC_52 = {
+    name = "Etain97"
+    culture = "norcerian"
+    faith = "colocist"
+    female = yes
+    dynasty = NORCD2 #NorcDyn2
+    father = NORC_48 #Diarmaid43
+    mother = NORC_108 #Sadhbh51
+    569.1.1 = {
+        birth = yes
+    }
+    586.1.1 = {
+        add_spouse = NORC_125 #Eoghan144
+    }
+}
+
+NORC_53 = {
+    name = "Fergal119"
+    culture = "norcerian"
+    faith = "colocist"
+    dynasty = NORCD2 #NorcDyn2
+    father = NORC_71 #Seamus40
+    mother = NORC_166 #Macha76
+    577.1.1 = {
+        birth = yes
+    }
+}
+
+NORC_54 = {
+    name = "Fergus116"
+    culture = "norcerian"
+    faith = "colocist"
+    dynasty = NORCD2 #NorcDyn2
+    father = NORC_65 #Niall39
+    mother = NORC_128 #Etain62
+    577.1.1 = {
+        birth = yes
+    }
+}
+
+NORC_55 = {
+    name = "Fergus8"
+    culture = "norcerian"
+    faith = "colocist"
+    dynasty = NORCD2 #NorcDyn2
+    father = NORC_47 #Conall6
+    519.1.1 = {
+        birth = yes
+    }
+    543.1.1 = {
+        add_spouse = NORC_136 #Neasa20
+    }
+    569.1.1 = {
+        death = yes
+    }
+}
+
+NORC_56 = {
+    name = "Fionnuala112"
+    culture = "norcerian"
+    faith = "colocist"
+    female = yes
+    dynasty = NORCD2 #NorcDyn2
+    father = NORC_73 #Tadhg45
+    mother = NORC_135 #Mairead61
+    570.1.1 = {
+        birth = yes
+    }
+    586.1.1 = {
+        add_spouse = NORC_129 #Fergal145
+    }
+}
+
+NORC_57 = {
+    name = "Guaire120"
+    culture = "norcerian"
+    faith = "colocist"
+    dynasty = NORCD2 #NorcDyn2
+    father = NORC_71 #Seamus40
+    mother = NORC_166 #Macha76
+    579.1.1 = {
+        birth = yes
+    }
+}
+
+NORC_58 = {
+    name = "Guaire37"
+    culture = "norcerian"
+    faith = "colocist"
+    dynasty = NORCD2 #NorcDyn2
+    father = NORC_45 #Colman7
+    mother = NORC_95 #Emer15
+    553.1.1 = {
+        birth = yes
+    }
+    573.1.1 = {
+        add_spouse = NORC_94 #Eilis53
+    }
+}
+
+NORC_59 = {
+    name = "Lasair114"
+    culture = "norcerian"
+    faith = "colocist"
+    female = yes
+    dynasty = NORCD2 #NorcDyn2
+    father = NORC_65 #Niall39
+    mother = NORC_128 #Etain62
+    573.1.1 = {
+        birth = yes
+    }
+}
+
+NORC_6 = {
+    name = "Clodagh80"
+    culture = "norcerian"
+    faith = "colocist"
+    female = yes
+    dynasty = NORCD1 #NorcDyn1
+    father = NORC_20 #Fergal30
+    mother = NORC_50 #Eilis77
+    577.1.1 = {
+        birth = yes
+    }
+}
+
+NORC_60 = {
+    name = "Lasair99"
+    culture = "norcerian"
+    faith = "colocist"
+    female = yes
+    dynasty = NORCD2 #NorcDyn2
+    father = NORC_48 #Diarmaid43
+    mother = NORC_108 #Sadhbh51
+    572.1.1 = {
+        birth = yes
+    }
+}
+
+NORC_61 = {
+    name = "Lugh106"
+    culture = "norcerian"
+    faith = "colocist"
+    dynasty = NORCD2 #NorcDyn2
+    father = NORC_36 #Brendan44
+    mother = NORC_79 #Aine55
+    574.1.1 = {
+        birth = yes
+    }
+}
+
+NORC_62 = {
+    name = "Maeve36"
+    culture = "norcerian"
+    faith = "colocist"
+    female = yes
+    dynasty = NORCD2 #NorcDyn2
+    father = NORC_45 #Colman7
+    mother = NORC_95 #Emer15
+    551.1.1 = {
+        birth = yes
+    }
+    568.1.1 = {
+        add_spouse = NORC_22 #Fintan31
+    }
+}
+
+NORC_63 = {
+    name = "Muirenn115"
+    culture = "norcerian"
+    faith = "colocist"
+    female = yes
+    dynasty = NORCD2 #NorcDyn2
+    father = NORC_65 #Niall39
+    mother = NORC_128 #Etain62
+    575.1.1 = {
+        birth = yes
+    }
+}
+
+NORC_64 = {
+    name = "Muirenn41"
+    culture = "norcerian"
+    faith = "colocist"
+    female = yes
+    dynasty = NORCD2 #NorcDyn2
+    father = NORC_45 #Colman7
+    mother = NORC_95 #Emer15
+    560.1.1 = {
+        birth = yes
+    }
+    567.1.1 = {
+        add_spouse = NORC_118 #Brendan60
+    }
+}
+
+NORC_65 = {
+    name = "Niall39"
+    culture = "norcerian"
+    faith = "colocist"
+    dynasty = NORCD2 #NorcDyn2
+    father = NORC_45 #Colman7
+    mother = NORC_95 #Emer15
+    557.1.1 = {
+        birth = yes
+    }
+    572.1.1 = {
+        add_spouse = NORC_128 #Etain62
+    }
+}
+
+NORC_66 = {
+    name = "Oisin102"
+    culture = "norcerian"
+    faith = "colocist"
+    dynasty = NORCD2 #NorcDyn2
+    father = NORC_58 #Guaire37
+    mother = NORC_94 #Eilis53
+    576.1.1 = {
+        birth = yes
+    }
+}
+
+NORC_67 = {
+    name = "Riona46"
+    culture = "norcerian"
+    faith = "colocist"
+    female = yes
+    dynasty = NORCD2 #NorcDyn2
+    father = NORC_55 #Fergus8
+    mother = NORC_136 #Neasa20
+    557.1.1 = {
+        birth = yes
+    }
+    573.1.1 = {
+        add_spouse = NORC_8 #Colman34
+    }
+}
+
+NORC_68 = {
+    name = "Roisin98"
+    culture = "norcerian"
+    faith = "colocist"
+    female = yes
+    dynasty = NORCD2 #NorcDyn2
+    father = NORC_48 #Diarmaid43
+    mother = NORC_108 #Sadhbh51
+    570.1.1 = {
+        birth = yes
+    }
+    586.1.1 = {
+        add_spouse = NORC_178 #Tadhg178
+    }
+}
+
+NORC_69 = {
+    name = "Ruaidri117"
+    culture = "norcerian"
+    faith = "colocist"
+    dynasty = NORCD2 #NorcDyn2
+    father = NORC_71 #Seamus40
+    mother = NORC_166 #Macha76
+    575.1.1 = {
+        birth = yes
+    }
+}
+
+NORC_7 = {
+    name = "Colman32"
+    culture = "norcerian"
+    faith = "colocist"
+    dynasty = NORCD1 #NorcDyn1
+    father = NORC_13 #Domnall3
+    mother = NORC_43 #Clodagh10
+    552.1.1 = {
+        birth = yes
+    }
+    573.1.1 = {
+        add_spouse = NORC_35 #Aoife38
+    }
+}
+
+NORC_70 = {
+    name = "Sadhbh110"
+    culture = "norcerian"
+    faith = "colocist"
+    female = yes
+    dynasty = NORCD2 #NorcDyn2
+    father = NORC_73 #Tadhg45
+    mother = NORC_135 #Mairead61
+    567.1.1 = {
+        birth = yes
+    }
+    586.1.1 = {
+        add_spouse = NORC_21 #Fergal84
+    }
+}
+
+NORC_71 = {
+    name = "Seamus40"
+    culture = "norcerian"
+    faith = "colocist"
+    dynasty = NORCD2 #NorcDyn2
+    father = NORC_45 #Colman7
+    mother = NORC_95 #Emer15
+    559.1.1 = {
+        birth = yes
+    }
+    574.1.1 = {
+        add_spouse = NORC_166 #Macha76
+    }
+}
+
+NORC_72 = {
+    name = "Sinead9"
+    culture = "norcerian"
+    faith = "colocist"
+    female = yes
+    dynasty = NORCD2 #NorcDyn2
+    father = NORC_47 #Conall6
+    522.1.1 = {
+        birth = yes
+    }
+    546.1.1 = {
+        add_spouse = NORC_4 #Art2
+    }
+    576.1.1 = {
+        death = yes
+    }
+}
+
+NORC_73 = {
+    name = "Tadhg45"
+    culture = "norcerian"
+    faith = "colocist"
+    dynasty = NORCD2 #NorcDyn2
+    father = NORC_55 #Fergus8
+    mother = NORC_136 #Neasa20
+    556.1.1 = {
+        birth = yes
+    }
+    566.1.1 = {
+        add_spouse = NORC_135 #Mairead61
+    }
+}
+
+NORC_74 = {
+    name = "Treasa101"
+    culture = "norcerian"
+    faith = "colocist"
+    female = yes
+    dynasty = NORCD2 #NorcDyn2
+    father = NORC_58 #Guaire37
+    mother = NORC_94 #Eilis53
+    575.1.1 = {
+        birth = yes
+    }
+}
+
+NORC_75 = {
+    name = "Uilliam105"
+    culture = "norcerian"
+    faith = "colocist"
+    dynasty = NORCD2 #NorcDyn2
+    father = NORC_36 #Brendan44
+    mother = NORC_79 #Aine55
+    572.1.1 = {
+        birth = yes
+    }
+}
+
+NORC_76 = {
+    name = "Uilliam108"
+    culture = "norcerian"
+    faith = "colocist"
+    dynasty = NORCD2 #NorcDyn2
+    father = NORC_36 #Brendan44
+    mother = NORC_79 #Aine55
+    577.1.1 = {
+        birth = yes
+    }
+}
+
+NORC_77 = {
+    name = "Uilliam109"
+    culture = "norcerian"
+    faith = "colocist"
+    dynasty = NORCD2 #NorcDyn2
+    father = NORC_36 #Brendan44
+    mother = NORC_79 #Aine55
+    578.1.1 = {
+        birth = yes
+    }
+}
+
+NORC_78 = {
+    name = "Ailis138"
+    culture = "norcerian"
+    faith = "colocist"
+    female = yes
+    dynasty = NORCD3 #NorcDyn3
+    father = NORC_82 #Art48
+    mother = NORC_33 #Una28
+    576.1.1 = {
+        birth = yes
+    }
+}
+
+NORC_79 = {
+    name = "Aine55"
+    culture = "norcerian"
+    faith = "colocist"
+    female = yes
+    dynasty = NORCD3 #NorcDyn3
+    father = NORC_97 #Flann13
+    mother = NORC_14 #Eabha5
+    557.1.1 = {
+        birth = yes
+    }
+    571.1.1 = {
+        add_spouse = NORC_36 #Brendan44
+    }
+}
+
+NORC_8 = {
+    name = "Colman34"
+    culture = "norcerian"
+    faith = "colocist"
+    dynasty = NORCD1 #NorcDyn1
+    father = NORC_13 #Domnall3
+    mother = NORC_43 #Clodagh10
+    555.1.1 = {
+        birth = yes
+    }
+    573.1.1 = {
+        add_spouse = NORC_67 #Riona46
+    }
+}
+
+NORC_80 = {
+    name = "Aisling124"
+    culture = "norcerian"
+    faith = "colocist"
+    female = yes
+    dynasty = NORCD3 #NorcDyn3
+    father = NORC_110 #Tadhg47
+    mother = NORC_173 #Roisin69
+    578.1.1 = {
+        birth = yes
+    }
+}
+
+NORC_81 = {
+    name = "Aoife128"
+    culture = "norcerian"
+    faith = "colocist"
+    female = yes
+    dynasty = NORCD3 #NorcDyn3
+    father = NORC_98 #Guaire50
+    mother = NORC_147 #Aine68
+    567.1.1 = {
+        birth = yes
+    }
+    586.1.1 = {
+        add_spouse = NORC_42 #Ciaran96
+    }
+}
+
+NORC_82 = {
+    name = "Art48"
+    culture = "norcerian"
+    faith = "colocist"
+    dynasty = NORCD3 #NorcDyn3
+    father = NORC_96 #Fergus12
+    mother = NORC_148 #Aoife25
+    551.1.1 = {
+        birth = yes
+    }
+    567.1.1 = {
+        add_spouse = NORC_33 #Una28
+    }
+}
+
+NORC_83 = {
+    name = "Brendan137"
+    culture = "norcerian"
+    faith = "colocist"
+    dynasty = NORCD3 #NorcDyn3
+    father = NORC_82 #Art48
+    mother = NORC_33 #Una28
+    575.1.1 = {
+        birth = yes
+    }
+}
+
+NORC_84 = {
+    name = "Brian132"
+    culture = "norcerian"
+    faith = "colocist"
+    dynasty = NORCD3 #NorcDyn3
+    father = NORC_98 #Guaire50
+    mother = NORC_147 #Aine68
+    573.1.1 = {
+        birth = yes
+    }
+}
+
+NORC_85 = {
+    name = "Brigid129"
+    culture = "norcerian"
+    faith = "colocist"
+    female = yes
+    dynasty = NORCD3 #NorcDyn3
+    father = NORC_98 #Guaire50
+    mother = NORC_147 #Aine68
+    568.1.1 = {
+        birth = yes
+    }
+    586.1.1 = {
+        add_spouse = NORC_46 #Conall111
+    }
+}
+
+NORC_86 = {
+    name = "Caoimhe134"
+    culture = "norcerian"
+    faith = "colocist"
+    female = yes
+    dynasty = NORCD3 #NorcDyn3
+    father = NORC_82 #Art48
+    mother = NORC_33 #Una28
+    570.1.1 = {
+        birth = yes
+    }
+    586.1.1 = {
+        add_spouse = NORC_142 #Aed177
+    }
+}
+
+NORC_87 = {
+    name = "Cenn142"
+    culture = "norcerian"
+    faith = "colocist"
+    dynasty = NORCD3 #NorcDyn3
+    father = NORC_105 #Oisin52
+    mother = NORC_26 #Mairead29
+    574.1.1 = {
+        birth = yes
+    }
+}
+
+NORC_88 = {
+    name = "Ciara136"
+    culture = "norcerian"
+    faith = "colocist"
+    female = yes
+    dynasty = NORCD3 #NorcDyn3
+    father = NORC_82 #Art48
+    mother = NORC_33 #Una28
+    573.1.1 = {
+        birth = yes
+    }
+}
+
+NORC_89 = {
+    name = "Conall126"
+    culture = "norcerian"
+    faith = "colocist"
+    dynasty = NORCD3 #NorcDyn3
+    father = NORC_110 #Tadhg47
+    mother = NORC_173 #Roisin69
+    581.1.1 = {
+        birth = yes
+    }
+}
+
+NORC_9 = {
+    name = "Colman79"
+    culture = "norcerian"
+    faith = "colocist"
+    dynasty = NORCD1 #NorcDyn1
+    father = NORC_20 #Fergal30
+    mother = NORC_50 #Eilis77
+    576.1.1 = {
+        birth = yes
+    }
+}
+
+NORC_90 = {
+    name = "Conall131"
+    culture = "norcerian"
+    faith = "colocist"
+    dynasty = NORCD3 #NorcDyn3
+    father = NORC_98 #Guaire50
+    mother = NORC_147 #Aine68
+    572.1.1 = {
+        birth = yes
+    }
+}
+
+NORC_91 = {
+    name = "Diarmaid123"
+    culture = "norcerian"
+    faith = "colocist"
+    dynasty = NORCD3 #NorcDyn3
+    father = NORC_110 #Tadhg47
+    mother = NORC_173 #Roisin69
+    576.1.1 = {
+        birth = yes
+    }
+}
+
+NORC_92 = {
+    name = "Eilis130"
+    culture = "norcerian"
+    faith = "colocist"
+    female = yes
+    dynasty = NORCD3 #NorcDyn3
+    father = NORC_98 #Guaire50
+    mother = NORC_147 #Aine68
+    570.1.1 = {
+        birth = yes
+    }
+    586.1.1 = {
+        add_spouse = NORC_40 #Cenn113
+    }
+}
+
+NORC_93 = {
+    name = "Eilis49"
+    culture = "norcerian"
+    faith = "colocist"
+    female = yes
+    dynasty = NORCD3 #NorcDyn3
+    father = NORC_96 #Fergus12
+    mother = NORC_148 #Aoife25
+    552.1.1 = {
+        birth = yes
+    }
+    571.1.1 = {
+        add_spouse = NORC_134 #Lochlann57
+    }
+}
+
+NORC_94 = {
+    name = "Eilis53"
+    culture = "norcerian"
+    faith = "colocist"
+    female = yes
+    dynasty = NORCD3 #NorcDyn3
+    father = NORC_97 #Flann13
+    mother = NORC_14 #Eabha5
+    553.1.1 = {
+        birth = yes
+    }
+    573.1.1 = {
+        add_spouse = NORC_58 #Guaire37
+    }
+}
+
+NORC_95 = {
+    name = "Emer15"
+    culture = "norcerian"
+    faith = "colocist"
+    female = yes
+    dynasty = NORCD3 #NorcDyn3
+    father = NORC_111 #Tuathal11
+    526.1.1 = {
+        birth = yes
+    }
+    550.1.1 = {
+        add_spouse = NORC_45 #Colman7
+    }
+    571.1.1 = {
+        death = yes
+    }
+}
+
+NORC_96 = {
+    name = "Fergus12"
+    culture = "norcerian"
+    faith = "colocist"
+    dynasty = NORCD3 #NorcDyn3
+    father = NORC_111 #Tuathal11
+    517.1.1 = {
+        birth = yes
+    }
+    549.1.1 = {
+        add_spouse = NORC_148 #Aoife25
+    }
+    578.1.1 = {
+        death = yes
+    }
+}
+
+NORC_97 = {
+    name = "Flann13"
+    culture = "norcerian"
+    faith = "colocist"
+    dynasty = NORCD3 #NorcDyn3
+    father = NORC_111 #Tuathal11
+    520.1.1 = {
+        birth = yes
+    }
+    546.1.1 = {
+        add_spouse = NORC_14 #Eabha5
+    }
+    568.1.1 = {
+        death = yes
+    }
+}
+
+NORC_98 = {
+    name = "Guaire50"
+    culture = "norcerian"
+    faith = "colocist"
+    dynasty = NORCD3 #NorcDyn3
+    father = NORC_97 #Flann13
+    mother = NORC_14 #Eabha5
+    550.1.1 = {
+        birth = yes
+    }
+    566.1.1 = {
+        add_spouse = NORC_147 #Aine68
+    }
+}
+
+NORC_99 = {
+    name = "Iseult143"
+    culture = "norcerian"
+    faith = "colocist"
+    female = yes
+    dynasty = NORCD3 #NorcDyn3
+    father = NORC_105 #Oisin52
+    mother = NORC_26 #Mairead29
+    576.1.1 = {
+        birth = yes
+    }
+}
+

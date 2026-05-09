@@ -18,7 +18,7 @@
 
 ##d_duchygrevone ###################################
 ###c_grevone
-1018 = {	#placeholder
+2207 = {	#placeholder
 	culture = arbundian
 	religion = grevetican
 	holding = church_holding
@@ -29,13 +29,13 @@
 		special_building = generic_grevetican_fortress
 	}
 }
-1019 = {	#placeholder
+2208 = {	#placeholder
 	holding = city_holding
 }
 
 ##d_duchygrevtwo ###################################
 ###c_grevtwo
-1015 = {	#placeholder
+2210 = {	#placeholder
 	culture = arbundian
 	religion = grevetican
 	holding = church_holding
@@ -46,10 +46,10 @@
 		special_building = generic_grevetican_fortress
 	}
 }
-1014 = {	#placeholder
+2209 = {	#placeholder
 	holding = castle_holding
 }
-1016 = {	#placeholder
+2211 = {	#placeholder
 	holding = city_holding
 }
 

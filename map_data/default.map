@@ -16,23 +16,27 @@ seasons = "seasons.txt"
 # SEA ZONES
 #############
 # European Seas
-sea_zones = RANGE { 893 897 }
-sea_zones = RANGE { 588 594 }
-sea_zones = RANGE { 531 535 }
 sea_zones = RANGE { 218 229 }
+sea_zones = RANGE { 531 535 }
+sea_zones = RANGE { 588 594 }
+sea_zones = RANGE { 2065 2079 }
+sea_zones = RANGE { 2540 2544 }
 
 ###############
 # MAJOR RIVERS
 ###############
 #Arbundian rivers
-river_provinces = RANGE { 898 916 }	#Euradan Rivers
-river_provinces = RANGE { 520 530 }	#Arbundian Rivers
-river_provinces = RANGE { 210 217 }	#Arbundian Rivers
+river_provinces = RANGE { 210 217 }		#Arbundian Rivers
+river_provinces = RANGE { 520 530 }
+river_provinces = RANGE { 2080 2114 }
+river_provinces = RANGE { 2545 2563 }	#Euradan Rivers
 
 ########
 # LAKES
 ########
-lakes = LIST { 919 918 917 199 }	#Mountain lake
+lakes = LIST { 199 }	#Mountain lake
+lakes = RANGE { 2195 2203 }	#Mountain lakes
+lakes = RANGE { 2564 2566 }	#Euradan lakes
 
 #####################
 # IMPASSABLE TERRAIN
@@ -41,12 +45,13 @@ lakes = LIST { 919 918 917 199 }	#Mountain lake
 # Blocks unit movement.
 
 #Arbundia
-impassable_mountains = LIST { 1017 595 587 197 198 }
-impassable_mountains = RANGE { 1020 1031 }
-impassable_mountains = RANGE { 920 1013 }
-impassable_mountains = RANGE { 580 586 }
-impassable_mountains = RANGE { 501 519 }
+impassable_mountains = LIST { 197 198 2204 2205 2212 }
 impassable_mountains = RANGE { 200 209 }
+impassable_mountains = RANGE { 501 518 }
+impassable_mountains = RANGE { 580 587 }
+impassable_mountains = RANGE { 2115 2194 }
+impassable_mountains = RANGE { 2213 2248 }
+impassable_mountains = RANGE { 2567 2660 }
 
 ############
 # WASTELAND
@@ -54,10 +59,11 @@ impassable_mountains = RANGE { 200 209 }
 # These are actually supposed to be Wasteland:
 # Cannot be colored. Blocks unit movement, used for things like Sahara desert. 
 
+impassable_mountains = LIST { 519 }
 
 # IMPASSABLE SEA ZONES
 # These sea provinces cannot be crossed/sailed
-impassable_seas = LIST { 230 }
+impassable_seas = LIST { 230 595 }
 
 # UNUSED PROVINCES
 # These provinces cause issues because they are passable land, but not part of any title.

@@ -1,0 +1,6409 @@
+HULR_1 = {
+    name = "Deneria"
+    culture = "hulrethan"
+    faith = "sylvan_heart"
+    female = yes
+    dynasty = HULRD1 #HulrDyn1
+    father = HULR_23 #Canphird
+    mother = HULR_50 #Ilneris
+    550.1.1 = {
+        birth = yes
+    }
+    571.1.1 = {
+        add_spouse = HULR_441 #Lambert177
+    }
+}
+
+HULR_10 = {
+    name = "Corlifa"
+    culture = "hulrethan"
+    faith = "sylvan_heart"
+    female = yes
+    dynasty = HULRD1 #HulrDyn1
+    father = HULR_23 #Canphird
+    mother = HULR_50 #Ilneris
+    557.1.1 = {
+        birth = yes
+    }
+    568.1.1 = {
+        add_spouse = HULR_446 #Odo175
+    }
+}
+
+HULR_100 = {
+    name = "Corlof"
+    culture = "hulrethan"
+    faith = "sylvan_heart"
+    dynasty = HULRD11 #HulrDyn11
+    father = HULR_76 #Winethed
+    mother = HULR_198 #Corlifa
+    579.1.1 = {
+        birth = yes
+    }
+}
+
+HULR_101 = {
+    name = "Cofrisa"
+    culture = "hulrethan"
+    faith = "sylvan_heart"
+    female = yes
+    dynasty = HULRD11 #HulrDyn11
+    father = HULR_77 #Cordagael
+    mother = HULR_192 #Ponalria
+    568.1.1 = {
+        birth = yes
+    }
+    586.1.1 = {
+        add_spouse = HULR_47 #Benoit215
+    }
+}
+
+HULR_102 = {
+    name = "Nephrid"
+    culture = "hulrethan"
+    faith = "sylvan_heart"
+    dynasty = HULRD11 #HulrDyn11
+    father = HULR_97 #Ponalry
+    mother = HULR_193 #Hanarith
+    568.1.1 = {
+        birth = yes
+    }
+    586.1.1 = {
+        add_spouse = HULR_133 #Melisende265
+    }
+}
+
+HULR_103 = {
+    name = "Conachia"
+    culture = "hulrethan"
+    faith = "sylvan_heart"
+    female = yes
+    dynasty = HULRD12 #HulrDyn12
+    father = HULR_138 #Coidril
+    mother = HULR_240 #Ponalria
+    578.1.1 = {
+        birth = yes
+    }
+}
+
+HULR_104 = {
+    name = "Inisted"
+    culture = "hulrethan"
+    faith = "sylvan_heart"
+    dynasty = HULRD12 #HulrDyn12
+    father = HULR_115 #Geosphry
+    mother = HULR_216 #Algaisa
+    558.1.1 = {
+        birth = yes
+    }
+    567.1.1 = {
+        add_spouse = HULR_288 #Radegonde141
+    }
+}
+
+HULR_105 = {
+    name = "Ejeris"
+    culture = "hulrethan"
+    faith = "sylvan_heart"
+    dynasty = HULRD12 #HulrDyn12
+    father = HULR_118 #Wolrof
+    mother = HULR_221 #Alriva
+    576.1.1 = {
+        birth = yes
+    }
+}
+
+HULR_106 = {
+    name = "Pelcrof"
+    culture = "hulrethan"
+    faith = "sylvan_heart"
+    dynasty = HULRD12 #HulrDyn12
+    father = HULR_109 #Belendir
+    mother = HULR_247 #Deneria
+    557.1.1 = {
+        birth = yes
+    }
+    577.1.1 = {
+        add_spouse = HULR_250 #Lucie130
+    }
+}
+
+HULR_107 = {
+    name = "Hanarist"
+    culture = "hulrethan"
+    faith = "sylvan_heart"
+    dynasty = HULRD12 #HulrDyn12
+    father = HULR_138 #Coidril
+    mother = HULR_240 #Ponalria
+    572.1.1 = {
+        birth = yes
+    }
+}
+
+HULR_108 = {
+    name = "Volacidias"
+    culture = "hulrethan"
+    faith = "sylvan_heart"
+    dynasty = HULRD12 #HulrDyn12
+    father = HULR_104 #Inisted
+    mother = HULR_288 #Recra
+    568.1.1 = {
+        birth = yes
+    }
+    586.1.1 = {
+        add_spouse = HULR_207 #Berthe303
+    }
+}
+
+HULR_109 = {
+    name = "Belendir"
+    culture = "hulrethan"
+    faith = "sylvan_heart"
+    dynasty = HULRD12 #HulrDyn12
+    father = HULR_142 #Ilrolph
+    522.1.1 = {
+        birth = yes
+    }
+    546.1.1 = {
+        add_spouse = HULR_247 #Jacquette20
+    }
+    570.1.1 = {
+        death = yes
+    }
+}
+
+HULR_11 = {
+    name = "Conached"
+    culture = "hulrethan"
+    faith = "sylvan_heart"
+    dynasty = HULRD1 #HulrDyn1
+    father = HULR_3 #Corlof
+    mother = HULR_56 #Inistesia
+    575.1.1 = {
+        birth = yes
+    }
+}
+
+HULR_110 = {
+    name = "Cordagela"
+    culture = "hulrethan"
+    faith = "sylvan_heart"
+    female = yes
+    dynasty = HULRD12 #HulrDyn12
+    father = HULR_109 #Belendir
+    mother = HULR_247 #Deneria
+    555.1.1 = {
+        birth = yes
+    }
+    570.1.1 = {
+        add_spouse = HULR_62 #Manasses77
+    }
+}
+
+HULR_111 = {
+    name = "Canphira"
+    culture = "hulrethan"
+    faith = "sylvan_heart"
+    female = yes
+    dynasty = HULRD12 #HulrDyn12
+    father = HULR_142 #Ilrolph
+    525.1.1 = {
+        birth = yes
+    }
+    535.1.1 = {
+        add_spouse = HULR_259 #Thierry18
+    }
+    568.1.1 = {
+        death = yes
+    }
+}
+
+HULR_112 = {
+    name = "Ilneris"
+    culture = "hulrethan"
+    faith = "sylvan_heart"
+    female = yes
+    dynasty = HULRD12 #HulrDyn12
+    father = HULR_104 #Inisted
+    mother = HULR_288 #Recra
+    571.1.1 = {
+        birth = yes
+    }
+    586.1.1 = {
+        add_spouse = HULR_82 #Charles229
+    }
+}
+
+HULR_113 = {
+    name = "Urnes"
+    culture = "hulrethan"
+    faith = "sylvan_heart"
+    dynasty = HULRD12 #HulrDyn12
+    father = HULR_138 #Coidril
+    mother = HULR_240 #Ponalria
+    571.1.1 = {
+        birth = yes
+    }
+    586.1.1 = {
+        add_spouse = HULR_201 #Aelis304
+    }
+}
+
+HULR_114 = {
+    name = "Olthedas"
+    culture = "hulrethan"
+    faith = "sylvan_heart"
+    dynasty = HULRD12 #HulrDyn12
+    father = HULR_106 #Pelcrof
+    mother = HULR_250 #Cordagela
+    585.1.1 = {
+        birth = yes
+    }
+}
+
+HULR_115 = {
+    name = "Geosphry"
+    culture = "hulrethan"
+    faith = "sylvan_heart"
+    dynasty = HULRD12 #HulrDyn12
+    father = HULR_142 #Ilrolph
+    519.1.1 = {
+        birth = yes
+    }
+    535.1.1 = {
+        add_spouse = HULR_216 #Heloise15
+    }
+    572.1.1 = {
+        death = yes
+    }
+}
+
+HULR_116 = {
+    name = "Ilrolfa"
+    culture = "hulrethan"
+    faith = "sylvan_heart"
+    female = yes
+    dynasty = HULRD12 #HulrDyn12
+    father = HULR_115 #Geosphry
+    mother = HULR_216 #Algaisa
+    550.1.1 = {
+        birth = yes
+    }
+    571.1.1 = {
+        add_spouse = HULR_236 #Arnaud129
+    }
+}
+
+HULR_117 = {
+    name = "Olanthred"
+    culture = "hulrethan"
+    faith = "sylvan_heart"
+    dynasty = HULRD12 #HulrDyn12
+    father = HULR_106 #Pelcrof
+    mother = HULR_250 #Cordagela
+    580.1.1 = {
+        birth = yes
+    }
+}
+
+HULR_118 = {
+    name = "Wolrof"
+    culture = "hulrethan"
+    faith = "sylvan_heart"
+    dynasty = HULRD12 #HulrDyn12
+    father = HULR_109 #Belendir
+    mother = HULR_247 #Deneria
+    550.1.1 = {
+        birth = yes
+    }
+    570.1.1 = {
+        add_spouse = HULR_221 #Jeanne119
+    }
+}
+
+HULR_119 = {
+    name = "Winethed"
+    culture = "hulrethan"
+    faith = "sylvan_heart"
+    dynasty = HULRD12 #HulrDyn12
+    father = HULR_141 #Hephri
+    mother = HULR_212 #Volacidia
+    577.1.1 = {
+        birth = yes
+    }
+}
+
+HULR_12 = {
+    name = "Inistia"
+    culture = "hulrethan"
+    faith = "sylvan_heart"
+    female = yes
+    dynasty = HULRD1 #HulrDyn1
+    father = HULR_3 #Corlof
+    mother = HULR_56 #Inistesia
+    572.1.1 = {
+        birth = yes
+    }
+}
+
+HULR_120 = {
+    name = "Inistesia"
+    culture = "hulrethan"
+    faith = "sylvan_heart"
+    female = yes
+    dynasty = HULRD12 #HulrDyn12
+    father = HULR_115 #Geosphry
+    mother = HULR_216 #Algaisa
+    554.1.1 = {
+        birth = yes
+    }
+    577.1.1 = {
+        add_spouse = HULR_55 #Geoffroi74
+    }
+}
+
+HULR_121 = {
+    name = "Volacidia"
+    culture = "hulrethan"
+    faith = "sylvan_heart"
+    female = yes
+    dynasty = HULRD12 #HulrDyn12
+    father = HULR_141 #Hephri
+    mother = HULR_212 #Volacidia
+    573.1.1 = {
+        birth = yes
+    }
+}
+
+HULR_122 = {
+    name = "Acrista"
+    culture = "hulrethan"
+    faith = "sylvan_heart"
+    female = yes
+    dynasty = HULRD12 #HulrDyn12
+    father = HULR_109 #Belendir
+    mother = HULR_247 #Deneria
+    552.1.1 = {
+        birth = yes
+    }
+    576.1.1 = {
+        add_spouse = HULR_17 #Gautier69
+    }
+}
+
+HULR_123 = {
+    name = "Algaisa"
+    culture = "hulrethan"
+    faith = "sylvan_heart"
+    female = yes
+    dynasty = HULRD12 #HulrDyn12
+    father = HULR_141 #Hephri
+    mother = HULR_212 #Volacidia
+    575.1.1 = {
+        birth = yes
+    }
+}
+
+HULR_124 = {
+    name = "Alriva"
+    culture = "hulrethan"
+    faith = "sylvan_heart"
+    female = yes
+    dynasty = HULRD12 #HulrDyn12
+    father = HULR_118 #Wolrof
+    mother = HULR_221 #Alriva
+    571.1.1 = {
+        birth = yes
+    }
+    586.1.1 = {
+        add_spouse = HULR_316 #Henri367
+    }
+}
+
+HULR_125 = {
+    name = "Tenaria"
+    culture = "hulrethan"
+    faith = "sylvan_heart"
+    female = yes
+    dynasty = HULRD12 #HulrDyn12
+    father = HULR_138 #Coidril
+    mother = HULR_240 #Ponalria
+    574.1.1 = {
+        birth = yes
+    }
+}
+
+HULR_126 = {
+    name = "Cordagael"
+    culture = "hulrethan"
+    faith = "sylvan_heart"
+    dynasty = HULRD12 #HulrDyn12
+    father = HULR_118 #Wolrof
+    mother = HULR_221 #Alriva
+    575.1.1 = {
+        birth = yes
+    }
+}
+
+HULR_127 = {
+    name = "Canphird"
+    culture = "hulrethan"
+    faith = "sylvan_heart"
+    dynasty = HULRD12 #HulrDyn12
+    father = HULR_106 #Pelcrof
+    mother = HULR_250 #Cordagela
+    578.1.1 = {
+        birth = yes
+    }
+}
+
+HULR_128 = {
+    name = "Tolchena"
+    culture = "hulrethan"
+    faith = "sylvan_heart"
+    female = yes
+    dynasty = HULRD12 #HulrDyn12
+    father = HULR_104 #Inisted
+    mother = HULR_288 #Recra
+    573.1.1 = {
+        birth = yes
+    }
+}
+
+HULR_129 = {
+    name = "Ejeria"
+    culture = "hulrethan"
+    faith = "sylvan_heart"
+    female = yes
+    dynasty = HULRD12 #HulrDyn12
+    father = HULR_138 #Coidril
+    mother = HULR_240 #Ponalria
+    569.1.1 = {
+        birth = yes
+    }
+    586.1.1 = {
+        add_spouse = HULR_85 #Evrard239
+    }
+}
+
+HULR_13 = {
+    name = "Olthedra"
+    culture = "hulrethan"
+    faith = "sylvan_heart"
+    female = yes
+    dynasty = HULRD1 #HulrDyn1
+    father = HULR_17 #Conached
+    mother = HULR_122 #Acrista
+    579.1.1 = {
+        birth = yes
+    }
+}
+
+HULR_130 = {
+    name = "Olanphria"
+    culture = "hulrethan"
+    faith = "sylvan_heart"
+    female = yes
+    dynasty = HULRD12 #HulrDyn12
+    father = HULR_115 #Geosphry
+    mother = HULR_216 #Algaisa
+    553.1.1 = {
+        birth = yes
+    }
+    569.1.1 = {
+        add_spouse = HULR_276 #Lambert134
+    }
+}
+
+HULR_131 = {
+    name = "Olthena"
+    culture = "hulrethan"
+    faith = "sylvan_heart"
+    female = yes
+    dynasty = HULRD12 #HulrDyn12
+    father = HULR_109 #Belendir
+    mother = HULR_247 #Deneria
+    558.1.1 = {
+        birth = yes
+    }
+    569.1.1 = {
+        add_spouse = HULR_294 #Thierry142
+    }
+}
+
+HULR_132 = {
+    name = "Algais"
+    culture = "hulrethan"
+    faith = "sylvan_heart"
+    dynasty = HULRD12 #HulrDyn12
+    father = HULR_138 #Coidril
+    mother = HULR_240 #Ponalria
+    576.1.1 = {
+        birth = yes
+    }
+}
+
+HULR_133 = {
+    name = "Nephrina"
+    culture = "hulrethan"
+    faith = "sylvan_heart"
+    female = yes
+    dynasty = HULRD12 #HulrDyn12
+    father = HULR_104 #Inisted
+    mother = HULR_288 #Recra
+    569.1.1 = {
+        birth = yes
+    }
+    586.1.1 = {
+        add_spouse = HULR_102 #Yves227
+    }
+}
+
+HULR_134 = {
+    name = "Winetha"
+    culture = "hulrethan"
+    faith = "sylvan_heart"
+    female = yes
+    dynasty = HULRD12 #HulrDyn12
+    father = HULR_106 #Pelcrof
+    mother = HULR_250 #Cordagela
+    583.1.1 = {
+        birth = yes
+    }
+}
+
+HULR_135 = {
+    name = "Wolrisa"
+    culture = "hulrethan"
+    faith = "sylvan_heart"
+    female = yes
+    dynasty = HULRD12 #HulrDyn12
+    father = HULR_106 #Pelcrof
+    mother = HULR_250 #Cordagela
+    582.1.1 = {
+        birth = yes
+    }
+}
+
+HULR_136 = {
+    name = "Ronela"
+    culture = "hulrethan"
+    faith = "sylvan_heart"
+    female = yes
+    dynasty = HULRD12 #HulrDyn12
+    father = HULR_109 #Belendir
+    mother = HULR_247 #Deneria
+    554.1.1 = {
+        birth = yes
+    }
+    573.1.1 = {
+        add_spouse = HULR_261 #Anjou135
+    }
+}
+
+HULR_137 = {
+    name = "Alrof"
+    culture = "hulrethan"
+    faith = "sylvan_heart"
+    dynasty = HULRD12 #HulrDyn12
+    father = HULR_118 #Wolrof
+    mother = HULR_221 #Alriva
+    573.1.1 = {
+        birth = yes
+    }
+}
+
+HULR_138 = {
+    name = "Coidril"
+    culture = "hulrethan"
+    faith = "sylvan_heart"
+    dynasty = HULRD12 #HulrDyn12
+    father = HULR_115 #Geosphry
+    mother = HULR_216 #Algaisa
+    556.1.1 = {
+        birth = yes
+    }
+    568.1.1 = {
+        add_spouse = HULR_240 #Denise131
+    }
+}
+
+HULR_139 = {
+    name = "Recra"
+    culture = "hulrethan"
+    faith = "sylvan_heart"
+    female = yes
+    dynasty = HULRD12 #HulrDyn12
+    father = HULR_141 #Hephri
+    mother = HULR_212 #Volacidia
+    574.1.1 = {
+        birth = yes
+    }
+}
+
+HULR_14 = {
+    name = "Henerof"
+    culture = "hulrethan"
+    faith = "sylvan_heart"
+    dynasty = HULRD1 #HulrDyn1
+    father = HULR_29 #Hephri
+    518.1.1 = {
+        birth = yes
+    }
+    548.1.1 = {
+        add_spouse = HULR_59 #Jeanne50
+    }
+    570.1.1 = {
+        death = yes
+    }
+}
+
+HULR_140 = {
+    name = "Ponalria"
+    culture = "hulrethan"
+    faith = "sylvan_heart"
+    female = yes
+    dynasty = HULRD12 #HulrDyn12
+    father = HULR_142 #Ilrolph
+    528.1.1 = {
+        birth = yes
+    }
+    549.1.1 = {
+        add_spouse = HULR_67 #Thierry48
+    }
+    578.1.1 = {
+        death = yes
+    }
+}
+
+HULR_141 = {
+    name = "Hephri"
+    culture = "hulrethan"
+    faith = "sylvan_heart"
+    dynasty = HULRD12 #HulrDyn12
+    father = HULR_115 #Geosphry
+    mother = HULR_216 #Algaisa
+    551.1.1 = {
+        birth = yes
+    }
+    572.1.1 = {
+        add_spouse = HULR_212 #Euphrosine126
+    }
+}
+
+HULR_142 = {
+    name = "Ilrolph"
+    culture = "hulrethan"
+    faith = "sylvan_heart"
+    dynasty = HULRD12 #HulrDyn12
+    481.1.1 = {
+        birth = yes
+    }
+    549.1.1 = {
+        death = yes
+    }
+}
+
+HULR_143 = {
+    name = "Hanarith"
+    culture = "hulrethan"
+    faith = "sylvan_heart"
+    female = yes
+    dynasty = HULRD13 #HulrDyn13
+    father = HULR_161 #Pelcrof
+    mother = HULR_319 #Tenaria
+    582.1.1 = {
+        birth = yes
+    }
+}
+
+HULR_144 = {
+    name = "Tolched"
+    culture = "hulrethan"
+    faith = "sylvan_heart"
+    dynasty = HULRD13 #HulrDyn13
+    father = HULR_171 #Olthedas
+    523.1.1 = {
+        birth = yes
+    }
+    539.1.1 = {
+        add_spouse = HULR_321 #Jeanne30
+    }
+    574.1.1 = {
+        death = yes
+    }
+}
+
+HULR_145 = {
+    name = "Ronolf"
+    culture = "hulrethan"
+    faith = "sylvan_heart"
+    dynasty = HULRD13 #HulrDyn13
+    father = HULR_146 #Recrof
+    mother = HULR_282 #Nephrina
+    572.1.1 = {
+        birth = yes
+    }
+}
+
+HULR_146 = {
+    name = "Recrof"
+    culture = "hulrethan"
+    faith = "sylvan_heart"
+    dynasty = HULRD13 #HulrDyn13
+    father = HULR_144 #Tolched
+    mother = HULR_321 #Ejeria
+    550.1.1 = {
+        birth = yes
+    }
+    567.1.1 = {
+        add_spouse = HULR_282 #Odile137
+    }
+}
+
+HULR_147 = {
+    name = "Hephria"
+    culture = "hulrethan"
+    faith = "sylvan_heart"
+    female = yes
+    dynasty = HULRD13 #HulrDyn13
+    father = HULR_161 #Pelcrof
+    mother = HULR_319 #Tenaria
+    581.1.1 = {
+        birth = yes
+    }
+}
+
+HULR_148 = {
+    name = "Deneria"
+    culture = "hulrethan"
+    faith = "sylvan_heart"
+    female = yes
+    dynasty = HULRD13 #HulrDyn13
+    father = HULR_171 #Olthedas
+    529.1.1 = {
+        birth = yes
+    }
+    539.1.1 = {
+        add_spouse = HULR_99 #Raimbaud52
+    }
+    572.1.1 = {
+        death = yes
+    }
+}
+
+HULR_149 = {
+    name = "Corlifa"
+    culture = "hulrethan"
+    faith = "sylvan_heart"
+    female = yes
+    dynasty = HULRD13 #HulrDyn13
+    father = HULR_171 #Olthedas
+    526.1.1 = {
+        birth = yes
+    }
+    537.1.1 = {
+        add_spouse = HULR_277 #Lambert22
+    }
+    578.1.1 = {
+        death = yes
+    }
+}
+
+HULR_15 = {
+    name = "Cofrisa"
+    culture = "hulrethan"
+    faith = "sylvan_heart"
+    female = yes
+    dynasty = HULRD1 #HulrDyn1
+    father = HULR_2 #Recrof
+    mother = HULR_68 #Olanphria
+    576.1.1 = {
+        birth = yes
+    }
+}
+
+HULR_150 = {
+    name = "Conachia"
+    culture = "hulrethan"
+    faith = "sylvan_heart"
+    female = yes
+    dynasty = HULRD13 #HulrDyn13
+    father = HULR_146 #Recrof
+    mother = HULR_282 #Nephrina
+    568.1.1 = {
+        birth = yes
+    }
+    586.1.1 = {
+        add_spouse = HULR_326 #Olivier362
+    }
+}
+
+HULR_151 = {
+    name = "Cordagela"
+    culture = "hulrethan"
+    faith = "sylvan_heart"
+    female = yes
+    dynasty = HULRD13 #HulrDyn13
+    father = HULR_146 #Recrof
+    mother = HULR_282 #Nephrina
+    574.1.1 = {
+        birth = yes
+    }
+}
+
+HULR_152 = {
+    name = "Ponalry"
+    culture = "hulrethan"
+    faith = "sylvan_heart"
+    dynasty = HULRD13 #HulrDyn13
+    father = HULR_146 #Recrof
+    mother = HULR_282 #Nephrina
+    570.1.1 = {
+        birth = yes
+    }
+    586.1.1 = {
+        add_spouse = HULR_271 #Heloise333
+    }
+}
+
+HULR_153 = {
+    name = "Canphira"
+    culture = "hulrethan"
+    faith = "sylvan_heart"
+    female = yes
+    dynasty = HULRD13 #HulrDyn13
+    father = HULR_158 #Nephrid
+    mother = HULR_280 #Olanphria
+    553.1.1 = {
+        birth = yes
+    }
+    571.1.1 = {
+        add_spouse = HULR_269 #Geoffroi144
+    }
+}
+
+HULR_154 = {
+    name = "Ilneris"
+    culture = "hulrethan"
+    faith = "sylvan_heart"
+    female = yes
+    dynasty = HULRD13 #HulrDyn13
+    father = HULR_160 #Ejeris
+    mother = HULR_266 #Inistesia
+    576.1.1 = {
+        birth = yes
+    }
+}
+
+HULR_155 = {
+    name = "Ilrolfa"
+    culture = "hulrethan"
+    faith = "sylvan_heart"
+    female = yes
+    dynasty = HULRD13 #HulrDyn13
+    father = HULR_172 #Geosphry
+    mother = HULR_308 #Inistesia
+    572.1.1 = {
+        birth = yes
+    }
+}
+
+HULR_156 = {
+    name = "Inistia"
+    culture = "hulrethan"
+    faith = "sylvan_heart"
+    female = yes
+    dynasty = HULRD13 #HulrDyn13
+    father = HULR_160 #Ejeris
+    mother = HULR_266 #Inistesia
+    574.1.1 = {
+        birth = yes
+    }
+}
+
+HULR_157 = {
+    name = "Corlof"
+    culture = "hulrethan"
+    faith = "sylvan_heart"
+    dynasty = HULRD13 #HulrDyn13
+    father = HULR_161 #Pelcrof
+    mother = HULR_319 #Tenaria
+    580.1.1 = {
+        birth = yes
+    }
+}
+
+HULR_158 = {
+    name = "Nephrid"
+    culture = "hulrethan"
+    faith = "sylvan_heart"
+    dynasty = HULRD13 #HulrDyn13
+    father = HULR_171 #Olthedas
+    520.1.1 = {
+        birth = yes
+    }
+    550.1.1 = {
+        add_spouse = HULR_280 #Nicole25
+    }
+    579.1.1 = {
+        death = yes
+    }
+}
+
+HULR_159 = {
+    name = "Inistesia"
+    culture = "hulrethan"
+    faith = "sylvan_heart"
+    female = yes
+    dynasty = HULRD13 #HulrDyn13
+    father = HULR_160 #Ejeris
+    mother = HULR_266 #Inistesia
+    578.1.1 = {
+        birth = yes
+    }
+}
+
+HULR_16 = {
+    name = "Inisted"
+    culture = "hulrethan"
+    faith = "sylvan_heart"
+    dynasty = HULRD1 #HulrDyn1
+    father = HULR_39 #Algais
+    mother = HULR_94 #Cordagela
+    583.1.1 = {
+        birth = yes
+    }
+}
+
+HULR_160 = {
+    name = "Ejeris"
+    culture = "hulrethan"
+    faith = "sylvan_heart"
+    dynasty = HULRD13 #HulrDyn13
+    father = HULR_158 #Nephrid
+    mother = HULR_280 #Olanphria
+    551.1.1 = {
+        birth = yes
+    }
+    570.1.1 = {
+        add_spouse = HULR_266 #Euphrosine138
+    }
+}
+
+HULR_161 = {
+    name = "Pelcrof"
+    culture = "hulrethan"
+    faith = "sylvan_heart"
+    dynasty = HULRD13 #HulrDyn13
+    father = HULR_144 #Tolched
+    mother = HULR_321 #Ejeria
+    552.1.1 = {
+        birth = yes
+    }
+    576.1.1 = {
+        add_spouse = HULR_319 #Isabelle152
+    }
+}
+
+HULR_162 = {
+    name = "Volacidia"
+    culture = "hulrethan"
+    faith = "sylvan_heart"
+    female = yes
+    dynasty = HULRD13 #HulrDyn13
+    father = HULR_144 #Tolched
+    mother = HULR_321 #Ejeria
+    551.1.1 = {
+        birth = yes
+    }
+    566.1.1 = {
+        add_spouse = HULR_52 #Evrard75
+    }
+}
+
+HULR_163 = {
+    name = "Acrista"
+    culture = "hulrethan"
+    faith = "sylvan_heart"
+    female = yes
+    dynasty = HULRD13 #HulrDyn13
+    father = HULR_160 #Ejeris
+    mother = HULR_266 #Inistesia
+    571.1.1 = {
+        birth = yes
+    }
+    586.1.1 = {
+        add_spouse = HULR_90 #Guy241
+    }
+}
+
+HULR_164 = {
+    name = "Algaisa"
+    culture = "hulrethan"
+    faith = "sylvan_heart"
+    female = yes
+    dynasty = HULRD13 #HulrDyn13
+    father = HULR_146 #Recrof
+    mother = HULR_282 #Nephrina
+    576.1.1 = {
+        birth = yes
+    }
+}
+
+HULR_165 = {
+    name = "Alriva"
+    culture = "hulrethan"
+    faith = "sylvan_heart"
+    female = yes
+    dynasty = HULRD13 #HulrDyn13
+    father = HULR_146 #Recrof
+    mother = HULR_282 #Nephrina
+    577.1.1 = {
+        birth = yes
+    }
+}
+
+HULR_166 = {
+    name = "Tenaria"
+    culture = "hulrethan"
+    faith = "sylvan_heart"
+    female = yes
+    dynasty = HULRD13 #HulrDyn13
+    father = HULR_172 #Geosphry
+    mother = HULR_308 #Inistesia
+    574.1.1 = {
+        birth = yes
+    }
+}
+
+HULR_167 = {
+    name = "Hanarist"
+    culture = "hulrethan"
+    faith = "sylvan_heart"
+    dynasty = HULRD13 #HulrDyn13
+    father = HULR_160 #Ejeris
+    mother = HULR_266 #Inistesia
+    573.1.1 = {
+        birth = yes
+    }
+}
+
+HULR_168 = {
+    name = "Volacidias"
+    culture = "hulrethan"
+    faith = "sylvan_heart"
+    dynasty = HULRD13 #HulrDyn13
+    father = HULR_172 #Geosphry
+    mother = HULR_308 #Inistesia
+    575.1.1 = {
+        birth = yes
+    }
+}
+
+HULR_169 = {
+    name = "Belendir"
+    culture = "hulrethan"
+    faith = "sylvan_heart"
+    dynasty = HULRD13 #HulrDyn13
+    father = HULR_161 #Pelcrof
+    mother = HULR_319 #Tenaria
+    577.1.1 = {
+        birth = yes
+    }
+}
+
+HULR_17 = {
+    name = "Conached"
+    culture = "hulrethan"
+    faith = "sylvan_heart"
+    dynasty = HULRD1 #HulrDyn1
+    father = HULR_23 #Canphird
+    mother = HULR_50 #Ilneris
+    556.1.1 = {
+        birth = yes
+    }
+    576.1.1 = {
+        add_spouse = HULR_122 #Heloise96
+    }
+}
+
+HULR_170 = {
+    name = "Urnes"
+    culture = "hulrethan"
+    faith = "sylvan_heart"
+    dynasty = HULRD13 #HulrDyn13
+    father = HULR_161 #Pelcrof
+    mother = HULR_319 #Tenaria
+    578.1.1 = {
+        birth = yes
+    }
+}
+
+HULR_171 = {
+    name = "Olthedas"
+    culture = "hulrethan"
+    faith = "sylvan_heart"
+    dynasty = HULRD13 #HulrDyn13
+    482.1.1 = {
+        birth = yes
+    }
+    542.1.1 = {
+        death = yes
+    }
+}
+
+HULR_172 = {
+    name = "Geosphry"
+    culture = "hulrethan"
+    faith = "sylvan_heart"
+    dynasty = HULRD13 #HulrDyn13
+    father = HULR_158 #Nephrid
+    mother = HULR_280 #Olanphria
+    555.1.1 = {
+        birth = yes
+    }
+    571.1.1 = {
+        add_spouse = HULR_308 #Felicie148
+    }
+}
+
+HULR_173 = {
+    name = "Tolchena"
+    culture = "hulrethan"
+    faith = "sylvan_heart"
+    female = yes
+    dynasty = HULRD2 #HulrDyn2
+    father = HULR_181 #Canphird
+    mother = HULR_347 #Cordagela
+    550.1.1 = {
+        birth = yes
+    }
+    573.1.1 = {
+        add_spouse = HULR_61 #Lothaire80
+    }
+}
+
+HULR_174 = {
+    name = "Ejeria"
+    culture = "hulrethan"
+    faith = "sylvan_heart"
+    female = yes
+    dynasty = HULRD2 #HulrDyn2
+    father = HULR_182 #Algais
+    525.1.1 = {
+        birth = yes
+    }
+    539.1.1 = {
+        add_spouse = HULR_79 #Baldwin53
+    }
+    576.1.1 = {
+        death = yes
+    }
+}
+
+HULR_175 = {
+    name = "Olanthred"
+    culture = "hulrethan"
+    faith = "sylvan_heart"
+    dynasty = HULRD2 #HulrDyn2
+    father = HULR_188 #Coidril
+    mother = HULR_297 #Hephria
+    581.1.1 = {
+        birth = yes
+    }
+}
+
+HULR_176 = {
+    name = "Wolrof"
+    culture = "hulrethan"
+    faith = "sylvan_heart"
+    dynasty = HULRD2 #HulrDyn2
+    father = HULR_188 #Coidril
+    mother = HULR_297 #Hephria
+    583.1.1 = {
+        birth = yes
+    }
+}
+
+HULR_177 = {
+    name = "Olthedra"
+    culture = "hulrethan"
+    faith = "sylvan_heart"
+    female = yes
+    dynasty = HULRD2 #HulrDyn2
+    father = HULR_191 #Ilrolph
+    mother = HULR_373 #Winetha
+    556.1.1 = {
+        birth = yes
+    }
+    568.1.1 = {
+        add_spouse = HULR_323 #Louis147
+    }
+}
+
+HULR_178 = {
+    name = "Olanphria"
+    culture = "hulrethan"
+    faith = "sylvan_heart"
+    female = yes
+    dynasty = HULRD2 #HulrDyn2
+    father = HULR_182 #Algais
+    522.1.1 = {
+        birth = yes
+    }
+    540.1.1 = {
+        add_spouse = HULR_286 #Pons23
+    }
+    568.1.1 = {
+        death = yes
+    }
+}
+
+HULR_179 = {
+    name = "Olthena"
+    culture = "hulrethan"
+    faith = "sylvan_heart"
+    female = yes
+    dynasty = HULRD2 #HulrDyn2
+    father = HULR_191 #Ilrolph
+    mother = HULR_373 #Winetha
+    550.1.1 = {
+        birth = yes
+    }
+    574.1.1 = {
+        add_spouse = HULR_309 #Foulques145
+    }
+}
+
+HULR_18 = {
+    name = "Winethed"
+    culture = "hulrethan"
+    faith = "sylvan_heart"
+    dynasty = HULRD1 #HulrDyn1
+    father = HULR_39 #Algais
+    mother = HULR_94 #Cordagela
+    585.1.1 = {
+        birth = yes
+    }
+}
+
+HULR_180 = {
+    name = "Cordagael"
+    culture = "hulrethan"
+    faith = "sylvan_heart"
+    dynasty = HULRD2 #HulrDyn2
+    father = HULR_183 #Alrof
+    mother = HULR_358 #Inistesia
+    570.1.1 = {
+        birth = yes
+    }
+    586.1.1 = {
+        add_spouse = HULR_313 #Heloise359
+    }
+}
+
+HULR_181 = {
+    name = "Canphird"
+    culture = "hulrethan"
+    faith = "sylvan_heart"
+    dynasty = HULRD2 #HulrDyn2
+    father = HULR_182 #Algais
+    516.1.1 = {
+        birth = yes
+    }
+    547.1.1 = {
+        add_spouse = HULR_347 #Euphrosine35
+    }
+    580.1.1 = {
+        death = yes
+    }
+}
+
+HULR_182 = {
+    name = "Algais"
+    culture = "hulrethan"
+    faith = "sylvan_heart"
+    dynasty = HULRD2 #HulrDyn2
+    481.1.1 = {
+        birth = yes
+    }
+    543.1.1 = {
+        death = yes
+    }
+}
+
+HULR_183 = {
+    name = "Alrof"
+    culture = "hulrethan"
+    faith = "sylvan_heart"
+    dynasty = HULRD2 #HulrDyn2
+    father = HULR_191 #Ilrolph
+    mother = HULR_373 #Winetha
+    557.1.1 = {
+        birth = yes
+    }
+    569.1.1 = {
+        add_spouse = HULR_358 #Jeanne157
+    }
+}
+
+HULR_184 = {
+    name = "Nephrina"
+    culture = "hulrethan"
+    faith = "sylvan_heart"
+    female = yes
+    dynasty = HULRD2 #HulrDyn2
+    father = HULR_181 #Canphird
+    mother = HULR_347 #Cordagela
+    555.1.1 = {
+        birth = yes
+    }
+    578.1.1 = {
+        add_spouse = HULR_86 #Evrard85
+    }
+}
+
+HULR_185 = {
+    name = "Winetha"
+    culture = "hulrethan"
+    faith = "sylvan_heart"
+    female = yes
+    dynasty = HULRD2 #HulrDyn2
+    father = HULR_183 #Alrof
+    mother = HULR_358 #Inistesia
+    576.1.1 = {
+        birth = yes
+    }
+}
+
+HULR_186 = {
+    name = "Wolrisa"
+    culture = "hulrethan"
+    faith = "sylvan_heart"
+    female = yes
+    dynasty = HULRD2 #HulrDyn2
+    father = HULR_181 #Canphird
+    mother = HULR_347 #Cordagela
+    554.1.1 = {
+        birth = yes
+    }
+    567.1.1 = {
+        add_spouse = HULR_333 #Thibaut153
+    }
+}
+
+HULR_187 = {
+    name = "Ronela"
+    culture = "hulrethan"
+    faith = "sylvan_heart"
+    female = yes
+    dynasty = HULRD2 #HulrDyn2
+    father = HULR_188 #Coidril
+    mother = HULR_297 #Hephria
+    584.1.1 = {
+        birth = yes
+    }
+}
+
+HULR_188 = {
+    name = "Coidril"
+    culture = "hulrethan"
+    faith = "sylvan_heart"
+    dynasty = HULRD2 #HulrDyn2
+    father = HULR_191 #Ilrolph
+    mother = HULR_373 #Winetha
+    555.1.1 = {
+        birth = yes
+    }
+    578.1.1 = {
+        add_spouse = HULR_297 #Adelaide150
+    }
+}
+
+HULR_189 = {
+    name = "Henerof"
+    culture = "hulrethan"
+    faith = "sylvan_heart"
+    dynasty = HULRD2 #HulrDyn2
+    father = HULR_188 #Coidril
+    mother = HULR_297 #Hephria
+    585.1.1 = {
+        birth = yes
+    }
+}
+
+HULR_19 = {
+    name = "Hephri"
+    culture = "hulrethan"
+    faith = "sylvan_heart"
+    dynasty = HULRD1 #HulrDyn1
+    father = HULR_32 #Olthedas
+    mother = HULR_63 #Tenaria
+    574.1.1 = {
+        birth = yes
+    }
+}
+
+HULR_190 = {
+    name = "Recra"
+    culture = "hulrethan"
+    faith = "sylvan_heart"
+    female = yes
+    dynasty = HULRD2 #HulrDyn2
+    father = HULR_181 #Canphird
+    mother = HULR_347 #Cordagela
+    552.1.1 = {
+        birth = yes
+    }
+    567.1.1 = {
+        add_spouse = HULR_301 #Arnaud151
+    }
+}
+
+HULR_191 = {
+    name = "Ilrolph"
+    culture = "hulrethan"
+    faith = "sylvan_heart"
+    dynasty = HULRD2 #HulrDyn2
+    father = HULR_182 #Algais
+    519.1.1 = {
+        birth = yes
+    }
+    547.1.1 = {
+        add_spouse = HULR_373 #Alix40
+    }
+    569.1.1 = {
+        death = yes
+    }
+}
+
+HULR_192 = {
+    name = "Ponalria"
+    culture = "hulrethan"
+    faith = "sylvan_heart"
+    female = yes
+    dynasty = HULRD2 #HulrDyn2
+    father = HULR_181 #Canphird
+    mother = HULR_347 #Cordagela
+    557.1.1 = {
+        birth = yes
+    }
+    566.1.1 = {
+        add_spouse = HULR_77 #Arnaud87
+    }
+}
+
+HULR_193 = {
+    name = "Hanarith"
+    culture = "hulrethan"
+    faith = "sylvan_heart"
+    female = yes
+    dynasty = HULRD2 #HulrDyn2
+    father = HULR_191 #Ilrolph
+    mother = HULR_373 #Winetha
+    553.1.1 = {
+        birth = yes
+    }
+    567.1.1 = {
+        add_spouse = HULR_97 #Maurice84
+    }
+}
+
+HULR_194 = {
+    name = "Tolched"
+    culture = "hulrethan"
+    faith = "sylvan_heart"
+    dynasty = HULRD2 #HulrDyn2
+    father = HULR_188 #Coidril
+    mother = HULR_297 #Hephria
+    579.1.1 = {
+        birth = yes
+    }
+}
+
+HULR_195 = {
+    name = "Hephria"
+    culture = "hulrethan"
+    faith = "sylvan_heart"
+    female = yes
+    dynasty = HULRD2 #HulrDyn2
+    father = HULR_183 #Alrof
+    mother = HULR_358 #Inistesia
+    571.1.1 = {
+        birth = yes
+    }
+    586.1.1 = {
+        add_spouse = HULR_336 #Yves368
+    }
+}
+
+HULR_196 = {
+    name = "Ronolf"
+    culture = "hulrethan"
+    faith = "sylvan_heart"
+    dynasty = HULRD2 #HulrDyn2
+    father = HULR_183 #Alrof
+    mother = HULR_358 #Inistesia
+    574.1.1 = {
+        birth = yes
+    }
+}
+
+HULR_197 = {
+    name = "Deneria"
+    culture = "hulrethan"
+    faith = "sylvan_heart"
+    female = yes
+    dynasty = HULRD2 #HulrDyn2
+    father = HULR_183 #Alrof
+    mother = HULR_358 #Inistesia
+    573.1.1 = {
+        birth = yes
+    }
+}
+
+HULR_198 = {
+    name = "Corlifa"
+    culture = "hulrethan"
+    faith = "sylvan_heart"
+    female = yes
+    dynasty = HULRD2 #HulrDyn2
+    father = HULR_191 #Ilrolph
+    mother = HULR_373 #Winetha
+    551.1.1 = {
+        birth = yes
+    }
+    574.1.1 = {
+        add_spouse = HULR_76 #Anjou86
+    }
+}
+
+HULR_199 = {
+    name = "Cofrisa"
+    culture = "hulrethan"
+    faith = "sylvan_heart"
+    female = yes
+    dynasty = HULRD3 #HulrDyn3
+    father = HULR_202 #Ponalry
+    523.1.1 = {
+        birth = yes
+    }
+    548.1.1 = {
+        add_spouse = HULR_311 #Giselbert27
+    }
+    580.1.1 = {
+        death = yes
+    }
+}
+
+HULR_2 = {
+    name = "Recrof"
+    culture = "hulrethan"
+    faith = "sylvan_heart"
+    dynasty = HULRD1 #HulrDyn1
+    father = HULR_14 #Henerof
+    mother = HULR_59 #Acrista
+    552.1.1 = {
+        birth = yes
+    }
+    570.1.1 = {
+        add_spouse = HULR_68 #Yolande82
+    }
+}
+
+HULR_20 = {
+    name = "Conachia"
+    culture = "hulrethan"
+    faith = "sylvan_heart"
+    female = yes
+    dynasty = HULRD1 #HulrDyn1
+    father = HULR_32 #Olthedas
+    mother = HULR_63 #Tenaria
+    571.1.1 = {
+        birth = yes
+    }
+}
+
+HULR_200 = {
+    name = "Cordagela"
+    culture = "hulrethan"
+    faith = "sylvan_heart"
+    female = yes
+    dynasty = HULRD3 #HulrDyn3
+    father = HULR_219 #Olthedas
+    mother = HULR_31 #Volacidia
+    574.1.1 = {
+        birth = yes
+    }
+}
+
+HULR_201 = {
+    name = "Canphira"
+    culture = "hulrethan"
+    faith = "sylvan_heart"
+    female = yes
+    dynasty = HULRD3 #HulrDyn3
+    father = HULR_229 #Cordagael
+    mother = HULR_439 #Hanarith
+    570.1.1 = {
+        birth = yes
+    }
+    586.1.1 = {
+        add_spouse = HULR_113 #Evrard254
+    }
+}
+
+HULR_202 = {
+    name = "Ponalry"
+    culture = "hulrethan"
+    faith = "sylvan_heart"
+    dynasty = HULRD3 #HulrDyn3
+    482.1.1 = {
+        birth = yes
+    }
+    560.1.1 = {
+        death = yes
+    }
+}
+
+HULR_203 = {
+    name = "Corlof"
+    culture = "hulrethan"
+    faith = "sylvan_heart"
+    dynasty = HULRD3 #HulrDyn3
+    father = HULR_210 #Pelcrof
+    mother = HULR_432 #Winetha
+    575.1.1 = {
+        birth = yes
+    }
+}
+
+HULR_204 = {
+    name = "Nephrid"
+    culture = "hulrethan"
+    faith = "sylvan_heart"
+    dynasty = HULRD3 #HulrDyn3
+    father = HULR_229 #Cordagael
+    mother = HULR_439 #Hanarith
+    573.1.1 = {
+        birth = yes
+    }
+}
+
+HULR_205 = {
+    name = "Inisted"
+    culture = "hulrethan"
+    faith = "sylvan_heart"
+    dynasty = HULRD3 #HulrDyn3
+    father = HULR_210 #Pelcrof
+    mother = HULR_432 #Winetha
+    573.1.1 = {
+        birth = yes
+    }
+}
+
+HULR_206 = {
+    name = "Ejeris"
+    culture = "hulrethan"
+    faith = "sylvan_heart"
+    dynasty = HULRD3 #HulrDyn3
+    father = HULR_219 #Olthedas
+    mother = HULR_31 #Volacidia
+    572.1.1 = {
+        birth = yes
+    }
+}
+
+HULR_207 = {
+    name = "Ilneris"
+    culture = "hulrethan"
+    faith = "sylvan_heart"
+    female = yes
+    dynasty = HULRD3 #HulrDyn3
+    father = HULR_229 #Cordagael
+    mother = HULR_439 #Hanarith
+    569.1.1 = {
+        birth = yes
+    }
+    586.1.1 = {
+        add_spouse = HULR_108 #Charles264
+    }
+}
+
+HULR_208 = {
+    name = "Ilrolfa"
+    culture = "hulrethan"
+    faith = "sylvan_heart"
+    female = yes
+    dynasty = HULRD3 #HulrDyn3
+    father = HULR_226 #Wolrof
+    mother = HULR_368 #Tolchena
+    581.1.1 = {
+        birth = yes
+    }
+}
+
+HULR_209 = {
+    name = "Inistia"
+    culture = "hulrethan"
+    faith = "sylvan_heart"
+    female = yes
+    dynasty = HULRD3 #HulrDyn3
+    father = HULR_226 #Wolrof
+    mother = HULR_368 #Tolchena
+    583.1.1 = {
+        birth = yes
+    }
+}
+
+HULR_21 = {
+    name = "Inistesia"
+    culture = "hulrethan"
+    faith = "sylvan_heart"
+    female = yes
+    dynasty = HULRD1 #HulrDyn1
+    father = HULR_33 #Canphird
+    mother = HULR_53 #Inistia
+    575.1.1 = {
+        birth = yes
+    }
+}
+
+HULR_210 = {
+    name = "Pelcrof"
+    culture = "hulrethan"
+    faith = "sylvan_heart"
+    dynasty = HULRD3 #HulrDyn3
+    father = HULR_217 #Conached
+    mother = HULR_37 #Olthedra
+    551.1.1 = {
+        birth = yes
+    }
+    570.1.1 = {
+        add_spouse = HULR_432 #Giselle173
+    }
+}
+
+HULR_211 = {
+    name = "Hanarist"
+    culture = "hulrethan"
+    faith = "sylvan_heart"
+    dynasty = HULRD3 #HulrDyn3
+    father = HULR_202 #Ponalry
+    517.1.1 = {
+        birth = yes
+    }
+    543.1.1 = {
+        add_spouse = HULR_444 #Madeleine45
+    }
+    570.1.1 = {
+        death = yes
+    }
+}
+
+HULR_212 = {
+    name = "Volacidia"
+    culture = "hulrethan"
+    faith = "sylvan_heart"
+    female = yes
+    dynasty = HULRD3 #HulrDyn3
+    father = HULR_217 #Conached
+    mother = HULR_37 #Olthedra
+    557.1.1 = {
+        birth = yes
+    }
+    572.1.1 = {
+        add_spouse = HULR_141 #Thibaut90
+    }
+}
+
+HULR_213 = {
+    name = "Volacidias"
+    culture = "hulrethan"
+    faith = "sylvan_heart"
+    dynasty = HULRD3 #HulrDyn3
+    father = HULR_229 #Cordagael
+    mother = HULR_439 #Hanarith
+    571.1.1 = {
+        birth = yes
+    }
+    586.1.1 = {
+        add_spouse = HULR_386 #Giselle401
+    }
+}
+
+HULR_214 = {
+    name = "Acrista"
+    culture = "hulrethan"
+    faith = "sylvan_heart"
+    female = yes
+    dynasty = HULRD3 #HulrDyn3
+    father = HULR_230 #Algais
+    mother = HULR_423 #Olanphria
+    576.1.1 = {
+        birth = yes
+    }
+}
+
+HULR_215 = {
+    name = "Belendir"
+    culture = "hulrethan"
+    faith = "sylvan_heart"
+    dynasty = HULRD3 #HulrDyn3
+    father = HULR_230 #Algais
+    mother = HULR_423 #Olanphria
+    574.1.1 = {
+        birth = yes
+    }
+}
+
+HULR_216 = {
+    name = "Algaisa"
+    culture = "hulrethan"
+    faith = "sylvan_heart"
+    female = yes
+    dynasty = HULRD3 #HulrDyn3
+    father = HULR_202 #Ponalry
+    526.1.1 = {
+        birth = yes
+    }
+    535.1.1 = {
+        add_spouse = HULR_115 #Evrard57
+    }
+    571.1.1 = {
+        death = yes
+    }
+}
+
+HULR_217 = {
+    name = "Conached"
+    culture = "hulrethan"
+    faith = "sylvan_heart"
+    dynasty = HULRD3 #HulrDyn3
+    father = HULR_202 #Ponalry
+    520.1.1 = {
+        birth = yes
+    }
+    540.1.1 = {
+        add_spouse = HULR_37 #Sabine5
+    }
+}
+
+HULR_218 = {
+    name = "Urnes"
+    culture = "hulrethan"
+    faith = "sylvan_heart"
+    dynasty = HULRD3 #HulrDyn3
+    father = HULR_219 #Olthedas
+    mother = HULR_31 #Volacidia
+    570.1.1 = {
+        birth = yes
+    }
+    586.1.1 = {
+        add_spouse = HULR_320 #Jacquette363
+    }
+}
+
+HULR_219 = {
+    name = "Olthedas"
+    culture = "hulrethan"
+    faith = "sylvan_heart"
+    dynasty = HULRD3 #HulrDyn3
+    father = HULR_217 #Conached
+    mother = HULR_37 #Olthedra
+    556.1.1 = {
+        birth = yes
+    }
+    568.1.1 = {
+        add_spouse = HULR_31 #Orianne67
+    }
+}
+
+HULR_22 = {
+    name = "Geosphry"
+    culture = "hulrethan"
+    faith = "sylvan_heart"
+    dynasty = HULRD1 #HulrDyn1
+    father = HULR_33 #Canphird
+    mother = HULR_53 #Inistia
+    577.1.1 = {
+        birth = yes
+    }
+}
+
+HULR_220 = {
+    name = "Olanthred"
+    culture = "hulrethan"
+    faith = "sylvan_heart"
+    dynasty = HULRD3 #HulrDyn3
+    father = HULR_219 #Olthedas
+    mother = HULR_31 #Volacidia
+    575.1.1 = {
+        birth = yes
+    }
+}
+
+HULR_221 = {
+    name = "Alriva"
+    culture = "hulrethan"
+    faith = "sylvan_heart"
+    female = yes
+    dynasty = HULRD3 #HulrDyn3
+    father = HULR_211 #Hanarist
+    mother = HULR_444 #Cofrisa
+    552.1.1 = {
+        birth = yes
+    }
+    570.1.1 = {
+        add_spouse = HULR_118 #Geoffroi95
+    }
+}
+
+HULR_222 = {
+    name = "Tenaria"
+    culture = "hulrethan"
+    faith = "sylvan_heart"
+    female = yes
+    dynasty = HULRD3 #HulrDyn3
+    father = HULR_219 #Olthedas
+    mother = HULR_31 #Volacidia
+    569.1.1 = {
+        birth = yes
+    }
+    586.1.1 = {
+        add_spouse = HULR_385 #Giselbert396
+    }
+}
+
+HULR_223 = {
+    name = "Tolchena"
+    culture = "hulrethan"
+    faith = "sylvan_heart"
+    female = yes
+    dynasty = HULRD3 #HulrDyn3
+    father = HULR_229 #Cordagael
+    mother = HULR_439 #Hanarith
+    576.1.1 = {
+        birth = yes
+    }
+}
+
+HULR_224 = {
+    name = "Ejeria"
+    culture = "hulrethan"
+    faith = "sylvan_heart"
+    female = yes
+    dynasty = HULRD3 #HulrDyn3
+    father = HULR_219 #Olthedas
+    mother = HULR_31 #Volacidia
+    577.1.1 = {
+        birth = yes
+    }
+}
+
+HULR_225 = {
+    name = "Olthedra"
+    culture = "hulrethan"
+    faith = "sylvan_heart"
+    female = yes
+    dynasty = HULRD3 #HulrDyn3
+    father = HULR_230 #Algais
+    mother = HULR_423 #Olanphria
+    578.1.1 = {
+        birth = yes
+    }
+}
+
+HULR_226 = {
+    name = "Wolrof"
+    culture = "hulrethan"
+    faith = "sylvan_heart"
+    dynasty = HULRD3 #HulrDyn3
+    father = HULR_217 #Conached
+    mother = HULR_37 #Olthedra
+    550.1.1 = {
+        birth = yes
+    }
+    578.1.1 = {
+        add_spouse = HULR_368 #Sabine161
+    }
+}
+
+HULR_227 = {
+    name = "Winethed"
+    culture = "hulrethan"
+    faith = "sylvan_heart"
+    dynasty = HULRD3 #HulrDyn3
+    father = HULR_226 #Wolrof
+    mother = HULR_368 #Tolchena
+    579.1.1 = {
+        birth = yes
+    }
+}
+
+HULR_228 = {
+    name = "Olanphria"
+    culture = "hulrethan"
+    faith = "sylvan_heart"
+    female = yes
+    dynasty = HULRD3 #HulrDyn3
+    father = HULR_211 #Hanarist
+    mother = HULR_444 #Cofrisa
+    550.1.1 = {
+        birth = yes
+    }
+    567.1.1 = {
+        add_spouse = HULR_300 #Amaury154
+    }
+}
+
+HULR_229 = {
+    name = "Cordagael"
+    culture = "hulrethan"
+    faith = "sylvan_heart"
+    dynasty = HULRD3 #HulrDyn3
+    father = HULR_217 #Conached
+    mother = HULR_37 #Olthedra
+    553.1.1 = {
+        birth = yes
+    }
+    568.1.1 = {
+        add_spouse = HULR_439 #Jeanne176
+    }
+}
+
+HULR_23 = {
+    name = "Canphird"
+    culture = "hulrethan"
+    faith = "sylvan_heart"
+    dynasty = HULRD1 #HulrDyn1
+    father = HULR_29 #Hephri
+    515.1.1 = {
+        birth = yes
+    }
+    538.1.1 = {
+        add_spouse = HULR_50 #Clemence49
+    }
+    568.1.1 = {
+        death = yes
+    }
+}
+
+HULR_230 = {
+    name = "Algais"
+    culture = "hulrethan"
+    faith = "sylvan_heart"
+    dynasty = HULRD3 #HulrDyn3
+    father = HULR_211 #Hanarist
+    mother = HULR_444 #Cofrisa
+    554.1.1 = {
+        birth = yes
+    }
+    573.1.1 = {
+        add_spouse = HULR_423 #Agnes180
+    }
+}
+
+HULR_231 = {
+    name = "Alrof"
+    culture = "hulrethan"
+    faith = "sylvan_heart"
+    dynasty = HULRD3 #HulrDyn3
+    father = HULR_210 #Pelcrof
+    mother = HULR_432 #Winetha
+    571.1.1 = {
+        birth = yes
+    }
+    586.1.1 = {
+        add_spouse = HULR_397 #Madeleine404
+    }
+}
+
+HULR_232 = {
+    name = "Olthena"
+    culture = "hulrethan"
+    faith = "sylvan_heart"
+    female = yes
+    dynasty = HULRD3 #HulrDyn3
+    father = HULR_230 #Algais
+    mother = HULR_423 #Olanphria
+    580.1.1 = {
+        birth = yes
+    }
+}
+
+HULR_233 = {
+    name = "Nephrina"
+    culture = "hulrethan"
+    faith = "sylvan_heart"
+    female = yes
+    dynasty = HULRD3 #HulrDyn3
+    father = HULR_217 #Conached
+    mother = HULR_37 #Olthedra
+    555.1.1 = {
+        birth = yes
+    }
+    573.1.1 = {
+        add_spouse = HULR_332 #Thibaut149
+    }
+}
+
+HULR_234 = {
+    name = "Coidril"
+    culture = "hulrethan"
+    faith = "sylvan_heart"
+    dynasty = HULRD3 #HulrDyn3
+    father = HULR_229 #Cordagael
+    mother = HULR_439 #Hanarith
+    574.1.1 = {
+        birth = yes
+    }
+}
+
+HULR_235 = {
+    name = "Winetha"
+    culture = "hulrethan"
+    faith = "sylvan_heart"
+    female = yes
+    dynasty = HULRD4 #HulrDyn4
+    father = HULR_244 #Ronolf
+    mother = HULR_95 #Canphira
+    550.1.1 = {
+        birth = yes
+    }
+    575.1.1 = {
+        add_spouse = HULR_354 #Guy158
+    }
+}
+
+HULR_236 = {
+    name = "Henerof"
+    culture = "hulrethan"
+    faith = "sylvan_heart"
+    dynasty = HULRD4 #HulrDyn4
+    father = HULR_244 #Ronolf
+    mother = HULR_95 #Canphira
+    554.1.1 = {
+        birth = yes
+    }
+    571.1.1 = {
+        add_spouse = HULR_116 #Felicie89
+    }
+}
+
+HULR_237 = {
+    name = "Hephri"
+    culture = "hulrethan"
+    faith = "sylvan_heart"
+    dynasty = HULRD4 #HulrDyn4
+    father = HULR_245 #Recrof
+    mother = HULR_41 #Alriva
+    574.1.1 = {
+        birth = yes
+    }
+}
+
+HULR_238 = {
+    name = "Wolrisa"
+    culture = "hulrethan"
+    faith = "sylvan_heart"
+    female = yes
+    dynasty = HULRD4 #HulrDyn4
+    father = HULR_256 #Nephrid
+    mother = HULR_71 #Winetha
+    581.1.1 = {
+        birth = yes
+    }
+}
+
+HULR_239 = {
+    name = "Ronela"
+    culture = "hulrethan"
+    faith = "sylvan_heart"
+    female = yes
+    dynasty = HULRD4 #HulrDyn4
+    father = HULR_245 #Recrof
+    mother = HULR_41 #Alriva
+    571.1.1 = {
+        birth = yes
+    }
+    586.1.1 = {
+        add_spouse = HULR_389 #Henri405
+    }
+}
+
+HULR_24 = {
+    name = "Recra"
+    culture = "hulrethan"
+    faith = "sylvan_heart"
+    female = yes
+    dynasty = HULRD1 #HulrDyn1
+    father = HULR_33 #Canphird
+    mother = HULR_53 #Inistia
+    578.1.1 = {
+        birth = yes
+    }
+}
+
+HULR_240 = {
+    name = "Ponalria"
+    culture = "hulrethan"
+    faith = "sylvan_heart"
+    female = yes
+    dynasty = HULRD4 #HulrDyn4
+    father = HULR_259 #Pelcrof
+    mother = HULR_111 #Canphira
+    550.1.1 = {
+        birth = yes
+    }
+    568.1.1 = {
+        add_spouse = HULR_138 #Suger93
+    }
+}
+
+HULR_241 = {
+    name = "Hanarith"
+    culture = "hulrethan"
+    faith = "sylvan_heart"
+    female = yes
+    dynasty = HULRD4 #HulrDyn4
+    father = HULR_257 #Inisted
+    524.1.1 = {
+        birth = yes
+    }
+    549.1.1 = {
+        add_spouse = HULR_315 #Henri28
+    }
+    578.1.1 = {
+        death = yes
+    }
+}
+
+HULR_242 = {
+    name = "Ilrolph"
+    culture = "hulrethan"
+    faith = "sylvan_heart"
+    dynasty = HULRD4 #HulrDyn4
+    father = HULR_245 #Recrof
+    mother = HULR_41 #Alriva
+    570.1.1 = {
+        birth = yes
+    }
+    586.1.1 = {
+        add_spouse = HULR_405 #Nicole398
+    }
+}
+
+HULR_243 = {
+    name = "Tolched"
+    culture = "hulrethan"
+    faith = "sylvan_heart"
+    dynasty = HULRD4 #HulrDyn4
+    father = HULR_236 #Henerof
+    mother = HULR_116 #Ilrolfa
+    576.1.1 = {
+        birth = yes
+    }
+}
+
+HULR_244 = {
+    name = "Ronolf"
+    culture = "hulrethan"
+    faith = "sylvan_heart"
+    dynasty = HULRD4 #HulrDyn4
+    father = HULR_257 #Inisted
+    518.1.1 = {
+        birth = yes
+    }
+    546.1.1 = {
+        add_spouse = HULR_95 #Marguerite54
+    }
+    570.1.1 = {
+        death = yes
+    }
+}
+
+HULR_245 = {
+    name = "Recrof"
+    culture = "hulrethan"
+    faith = "sylvan_heart"
+    dynasty = HULRD4 #HulrDyn4
+    father = HULR_259 #Pelcrof
+    mother = HULR_111 #Canphira
+    551.1.1 = {
+        birth = yes
+    }
+    569.1.1 = {
+        add_spouse = HULR_41 #Aelis81
+    }
+}
+
+HULR_246 = {
+    name = "Hephria"
+    culture = "hulrethan"
+    faith = "sylvan_heart"
+    female = yes
+    dynasty = HULRD4 #HulrDyn4
+    father = HULR_245 #Recrof
+    mother = HULR_41 #Alriva
+    573.1.1 = {
+        birth = yes
+    }
+}
+
+HULR_247 = {
+    name = "Deneria"
+    culture = "hulrethan"
+    faith = "sylvan_heart"
+    female = yes
+    dynasty = HULRD4 #HulrDyn4
+    father = HULR_257 #Inisted
+    527.1.1 = {
+        birth = yes
+    }
+    546.1.1 = {
+        add_spouse = HULR_109 #Charles58
+    }
+    579.1.1 = {
+        death = yes
+    }
+}
+
+HULR_248 = {
+    name = "Corlifa"
+    culture = "hulrethan"
+    faith = "sylvan_heart"
+    female = yes
+    dynasty = HULRD4 #HulrDyn4
+    father = HULR_245 #Recrof
+    mother = HULR_41 #Alriva
+    575.1.1 = {
+        birth = yes
+    }
+}
+
+HULR_249 = {
+    name = "Cofrisa"
+    culture = "hulrethan"
+    faith = "sylvan_heart"
+    female = yes
+    dynasty = HULRD4 #HulrDyn4
+    father = HULR_256 #Nephrid
+    mother = HULR_71 #Winetha
+    579.1.1 = {
+        birth = yes
+    }
+}
+
+HULR_25 = {
+    name = "Conachia"
+    culture = "hulrethan"
+    faith = "sylvan_heart"
+    female = yes
+    dynasty = HULRD1 #HulrDyn1
+    father = HULR_3 #Corlof
+    mother = HULR_56 #Inistesia
+    573.1.1 = {
+        birth = yes
+    }
+}
+
+HULR_250 = {
+    name = "Cordagela"
+    culture = "hulrethan"
+    faith = "sylvan_heart"
+    female = yes
+    dynasty = HULRD4 #HulrDyn4
+    father = HULR_244 #Ronolf
+    mother = HULR_95 #Canphira
+    555.1.1 = {
+        birth = yes
+    }
+    577.1.1 = {
+        add_spouse = HULR_106 #Arnaud99
+    }
+}
+
+HULR_251 = {
+    name = "Canphira"
+    culture = "hulrethan"
+    faith = "sylvan_heart"
+    female = yes
+    dynasty = HULRD4 #HulrDyn4
+    father = HULR_244 #Ronolf
+    mother = HULR_95 #Canphira
+    552.1.1 = {
+        birth = yes
+    }
+    575.1.1 = {
+        add_spouse = HULR_349 #Foulques162
+    }
+}
+
+HULR_252 = {
+    name = "Ilneris"
+    culture = "hulrethan"
+    faith = "sylvan_heart"
+    female = yes
+    dynasty = HULRD4 #HulrDyn4
+    father = HULR_256 #Nephrid
+    mother = HULR_71 #Winetha
+    586.1.1 = {
+        birth = yes
+    }
+}
+
+HULR_253 = {
+    name = "Ponalry"
+    culture = "hulrethan"
+    faith = "sylvan_heart"
+    dynasty = HULRD4 #HulrDyn4
+    father = HULR_236 #Henerof
+    mother = HULR_116 #Ilrolfa
+    572.1.1 = {
+        birth = yes
+    }
+}
+
+HULR_254 = {
+    name = "Ilrolfa"
+    culture = "hulrethan"
+    faith = "sylvan_heart"
+    female = yes
+    dynasty = HULRD4 #HulrDyn4
+    father = HULR_256 #Nephrid
+    mother = HULR_71 #Winetha
+    578.1.1 = {
+        birth = yes
+    }
+}
+
+HULR_255 = {
+    name = "Corlof"
+    culture = "hulrethan"
+    faith = "sylvan_heart"
+    dynasty = HULRD4 #HulrDyn4
+    father = HULR_236 #Henerof
+    mother = HULR_116 #Ilrolfa
+    574.1.1 = {
+        birth = yes
+    }
+}
+
+HULR_256 = {
+    name = "Nephrid"
+    culture = "hulrethan"
+    faith = "sylvan_heart"
+    dynasty = HULRD4 #HulrDyn4
+    father = HULR_259 #Pelcrof
+    mother = HULR_111 #Canphira
+    552.1.1 = {
+        birth = yes
+    }
+    577.1.1 = {
+        add_spouse = HULR_71 #Adelaide83
+    }
+}
+
+HULR_257 = {
+    name = "Inisted"
+    culture = "hulrethan"
+    faith = "sylvan_heart"
+    dynasty = HULRD4 #HulrDyn4
+    483.1.1 = {
+        birth = yes
+    }
+    561.1.1 = {
+        death = yes
+    }
+}
+
+HULR_258 = {
+    name = "Ejeris"
+    culture = "hulrethan"
+    faith = "sylvan_heart"
+    dynasty = HULRD4 #HulrDyn4
+    father = HULR_256 #Nephrid
+    mother = HULR_71 #Winetha
+    583.1.1 = {
+        birth = yes
+    }
+}
+
+HULR_259 = {
+    name = "Pelcrof"
+    culture = "hulrethan"
+    faith = "sylvan_heart"
+    dynasty = HULRD4 #HulrDyn4
+    father = HULR_257 #Inisted
+    521.1.1 = {
+        birth = yes
+    }
+    535.1.1 = {
+        add_spouse = HULR_111 #Ermengarde59
+    }
+    570.1.1 = {
+        death = yes
+    }
+}
+
+HULR_26 = {
+    name = "Inistia"
+    culture = "hulrethan"
+    faith = "sylvan_heart"
+    female = yes
+    dynasty = HULRD1 #HulrDyn1
+    father = HULR_33 #Canphird
+    mother = HULR_53 #Inistia
+    582.1.1 = {
+        birth = yes
+    }
+}
+
+HULR_260 = {
+    name = "Hanarist"
+    culture = "hulrethan"
+    faith = "sylvan_heart"
+    dynasty = HULRD4 #HulrDyn4
+    father = HULR_256 #Nephrid
+    mother = HULR_71 #Winetha
+    584.1.1 = {
+        birth = yes
+    }
+}
+
+HULR_261 = {
+    name = "Volacidias"
+    culture = "hulrethan"
+    faith = "sylvan_heart"
+    dynasty = HULRD5 #HulrDyn5
+    father = HULR_277 #Algais
+    mother = HULR_149 #Corlifa
+    551.1.1 = {
+        birth = yes
+    }
+    573.1.1 = {
+        add_spouse = HULR_136 #Radegonde97
+    }
+}
+
+HULR_262 = {
+    name = "Belendir"
+    culture = "hulrethan"
+    faith = "sylvan_heart"
+    dynasty = HULRD5 #HulrDyn5
+    father = HULR_294 #Recrof
+    mother = HULR_131 #Olthena
+    573.1.1 = {
+        birth = yes
+    }
+}
+
+HULR_263 = {
+    name = "Conached"
+    culture = "hulrethan"
+    faith = "sylvan_heart"
+    dynasty = HULRD5 #HulrDyn5
+    father = HULR_294 #Recrof
+    mother = HULR_131 #Olthena
+    574.1.1 = {
+        birth = yes
+    }
+}
+
+HULR_264 = {
+    name = "Urnes"
+    culture = "hulrethan"
+    faith = "sylvan_heart"
+    dynasty = HULRD5 #HulrDyn5
+    father = HULR_276 #Canphird
+    mother = HULR_130 #Olanphria
+    573.1.1 = {
+        birth = yes
+    }
+}
+
+HULR_265 = {
+    name = "Olthedas"
+    culture = "hulrethan"
+    faith = "sylvan_heart"
+    dynasty = HULRD5 #HulrDyn5
+    father = HULR_261 #Volacidias
+    mother = HULR_136 #Ronela
+    575.1.1 = {
+        birth = yes
+    }
+}
+
+HULR_266 = {
+    name = "Inistesia"
+    culture = "hulrethan"
+    faith = "sylvan_heart"
+    female = yes
+    dynasty = HULRD5 #HulrDyn5
+    father = HULR_277 #Algais
+    mother = HULR_149 #Corlifa
+    556.1.1 = {
+        birth = yes
+    }
+    570.1.1 = {
+        add_spouse = HULR_160 #Jocelin101
+    }
+}
+
+HULR_267 = {
+    name = "Volacidia"
+    culture = "hulrethan"
+    faith = "sylvan_heart"
+    female = yes
+    dynasty = HULRD5 #HulrDyn5
+    father = HULR_261 #Volacidias
+    mother = HULR_136 #Ronela
+    577.1.1 = {
+        birth = yes
+    }
+}
+
+HULR_268 = {
+    name = "Geosphry"
+    culture = "hulrethan"
+    faith = "sylvan_heart"
+    dynasty = HULRD5 #HulrDyn5
+    father = HULR_276 #Canphird
+    mother = HULR_130 #Olanphria
+    574.1.1 = {
+        birth = yes
+    }
+}
+
+HULR_269 = {
+    name = "Olanthred"
+    culture = "hulrethan"
+    faith = "sylvan_heart"
+    dynasty = HULRD5 #HulrDyn5
+    father = HULR_286 #Alrof
+    mother = HULR_178 #Olanphria
+    557.1.1 = {
+        birth = yes
+    }
+    571.1.1 = {
+        add_spouse = HULR_153 #Ermengarde102
+    }
+}
+
+HULR_27 = {
+    name = "Wolrof"
+    culture = "hulrethan"
+    faith = "sylvan_heart"
+    dynasty = HULRD1 #HulrDyn1
+    father = HULR_39 #Algais
+    mother = HULR_94 #Cordagela
+    579.1.1 = {
+        birth = yes
+    }
+}
+
+HULR_270 = {
+    name = "Winethed"
+    culture = "hulrethan"
+    faith = "sylvan_heart"
+    dynasty = HULRD5 #HulrDyn5
+    484.1.1 = {
+        birth = yes
+    }
+    563.1.1 = {
+        death = yes
+    }
+}
+
+HULR_271 = {
+    name = "Acrista"
+    culture = "hulrethan"
+    faith = "sylvan_heart"
+    female = yes
+    dynasty = HULRD5 #HulrDyn5
+    father = HULR_276 #Canphird
+    mother = HULR_130 #Olanphria
+    570.1.1 = {
+        birth = yes
+    }
+    586.1.1 = {
+        add_spouse = HULR_152 #Erard269
+    }
+}
+
+HULR_272 = {
+    name = "Cordagael"
+    culture = "hulrethan"
+    faith = "sylvan_heart"
+    dynasty = HULRD5 #HulrDyn5
+    father = HULR_261 #Volacidias
+    mother = HULR_136 #Ronela
+    579.1.1 = {
+        birth = yes
+    }
+}
+
+HULR_273 = {
+    name = "Algaisa"
+    culture = "hulrethan"
+    faith = "sylvan_heart"
+    female = yes
+    dynasty = HULRD5 #HulrDyn5
+    father = HULR_286 #Alrof
+    mother = HULR_178 #Olanphria
+    555.1.1 = {
+        birth = yes
+    }
+    566.1.1 = {
+        add_spouse = HULR_384 #Geoffroi164
+    }
+}
+
+HULR_274 = {
+    name = "Alriva"
+    culture = "hulrethan"
+    faith = "sylvan_heart"
+    female = yes
+    dynasty = HULRD5 #HulrDyn5
+    father = HULR_286 #Alrof
+    mother = HULR_178 #Olanphria
+    550.1.1 = {
+        birth = yes
+    }
+    571.1.1 = {
+        add_spouse = HULR_359 #Lambert159
+    }
+}
+
+HULR_275 = {
+    name = "Tenaria"
+    culture = "hulrethan"
+    faith = "sylvan_heart"
+    female = yes
+    dynasty = HULRD5 #HulrDyn5
+    father = HULR_276 #Canphird
+    mother = HULR_130 #Olanphria
+    572.1.1 = {
+        birth = yes
+    }
+}
+
+HULR_276 = {
+    name = "Canphird"
+    culture = "hulrethan"
+    faith = "sylvan_heart"
+    dynasty = HULRD5 #HulrDyn5
+    father = HULR_277 #Algais
+    mother = HULR_149 #Corlifa
+    550.1.1 = {
+        birth = yes
+    }
+    569.1.1 = {
+        add_spouse = HULR_130 #Marguerite91
+    }
+}
+
+HULR_277 = {
+    name = "Algais"
+    culture = "hulrethan"
+    faith = "sylvan_heart"
+    dynasty = HULRD5 #HulrDyn5
+    father = HULR_270 #Winethed
+    519.1.1 = {
+        birth = yes
+    }
+    537.1.1 = {
+        add_spouse = HULR_149 #Denise64
+    }
+    573.1.1 = {
+        death = yes
+    }
+}
+
+HULR_278 = {
+    name = "Tolchena"
+    culture = "hulrethan"
+    faith = "sylvan_heart"
+    female = yes
+    dynasty = HULRD5 #HulrDyn5
+    father = HULR_277 #Algais
+    mother = HULR_149 #Corlifa
+    553.1.1 = {
+        birth = yes
+    }
+    573.1.1 = {
+        add_spouse = HULR_346 #Erard163
+    }
+}
+
+HULR_279 = {
+    name = "Ejeria"
+    culture = "hulrethan"
+    faith = "sylvan_heart"
+    female = yes
+    dynasty = HULRD5 #HulrDyn5
+    father = HULR_270 #Winethed
+    525.1.1 = {
+        birth = yes
+    }
+    537.1.1 = {
+        add_spouse = HULR_351 #Gaston32
+    }
+    569.1.1 = {
+        death = yes
+    }
+}
+
+HULR_28 = {
+    name = "Olthedra"
+    culture = "hulrethan"
+    faith = "sylvan_heart"
+    female = yes
+    dynasty = HULRD1 #HulrDyn1
+    father = HULR_39 #Algais
+    mother = HULR_94 #Cordagela
+    584.1.1 = {
+        birth = yes
+    }
+}
+
+HULR_280 = {
+    name = "Olanphria"
+    culture = "hulrethan"
+    faith = "sylvan_heart"
+    female = yes
+    dynasty = HULRD5 #HulrDyn5
+    father = HULR_270 #Winethed
+    528.1.1 = {
+        birth = yes
+    }
+    550.1.1 = {
+        add_spouse = HULR_158 #Hugh62
+    }
+    578.1.1 = {
+        death = yes
+    }
+}
+
+HULR_281 = {
+    name = "Olthena"
+    culture = "hulrethan"
+    faith = "sylvan_heart"
+    female = yes
+    dynasty = HULRD5 #HulrDyn5
+    father = HULR_261 #Volacidias
+    mother = HULR_136 #Ronela
+    581.1.1 = {
+        birth = yes
+    }
+}
+
+HULR_282 = {
+    name = "Nephrina"
+    culture = "hulrethan"
+    faith = "sylvan_heart"
+    female = yes
+    dynasty = HULRD5 #HulrDyn5
+    father = HULR_277 #Algais
+    mother = HULR_149 #Corlifa
+    555.1.1 = {
+        birth = yes
+    }
+    567.1.1 = {
+        add_spouse = HULR_146 #Arnaud104
+    }
+}
+
+HULR_283 = {
+    name = "Winetha"
+    culture = "hulrethan"
+    faith = "sylvan_heart"
+    female = yes
+    dynasty = HULRD5 #HulrDyn5
+    father = HULR_269 #Olanthred
+    mother = HULR_153 #Canphira
+    574.1.1 = {
+        birth = yes
+    }
+}
+
+HULR_284 = {
+    name = "Wolrisa"
+    culture = "hulrethan"
+    faith = "sylvan_heart"
+    female = yes
+    dynasty = HULRD5 #HulrDyn5
+    father = HULR_277 #Algais
+    mother = HULR_149 #Corlifa
+    557.1.1 = {
+        birth = yes
+    }
+    568.1.1 = {
+        add_spouse = HULR_409 #Renaud170
+    }
+}
+
+HULR_285 = {
+    name = "Ronela"
+    culture = "hulrethan"
+    faith = "sylvan_heart"
+    female = yes
+    dynasty = HULRD5 #HulrDyn5
+    father = HULR_294 #Recrof
+    mother = HULR_131 #Olthena
+    576.1.1 = {
+        birth = yes
+    }
+}
+
+HULR_286 = {
+    name = "Alrof"
+    culture = "hulrethan"
+    faith = "sylvan_heart"
+    dynasty = HULRD5 #HulrDyn5
+    father = HULR_270 #Winethed
+    522.1.1 = {
+        birth = yes
+    }
+    540.1.1 = {
+        add_spouse = HULR_178 #Berthe9
+    }
+}
+
+HULR_287 = {
+    name = "Coidril"
+    culture = "hulrethan"
+    faith = "sylvan_heart"
+    dynasty = HULRD5 #HulrDyn5
+    father = HULR_276 #Canphird
+    mother = HULR_130 #Olanphria
+    576.1.1 = {
+        birth = yes
+    }
+}
+
+HULR_288 = {
+    name = "Recra"
+    culture = "hulrethan"
+    faith = "sylvan_heart"
+    female = yes
+    dynasty = HULRD5 #HulrDyn5
+    father = HULR_286 #Alrof
+    mother = HULR_178 #Olanphria
+    552.1.1 = {
+        birth = yes
+    }
+    567.1.1 = {
+        add_spouse = HULR_104 #Amaury94
+    }
+}
+
+HULR_289 = {
+    name = "Henerof"
+    culture = "hulrethan"
+    faith = "sylvan_heart"
+    dynasty = HULRD5 #HulrDyn5
+    father = HULR_294 #Recrof
+    mother = HULR_131 #Olthena
+    571.1.1 = {
+        birth = yes
+    }
+    586.1.1 = {
+        add_spouse = HULR_5 #Aude185
+    }
+}
+
+HULR_29 = {
+    name = "Hephri"
+    culture = "hulrethan"
+    faith = "sylvan_heart"
+    dynasty = HULRD1 #HulrDyn1
+    480.1.1 = {
+        birth = yes
+    }
+    542.1.1 = {
+        death = yes
+    }
+}
+
+HULR_290 = {
+    name = "Ilrolph"
+    culture = "hulrethan"
+    faith = "sylvan_heart"
+    dynasty = HULRD5 #HulrDyn5
+    father = HULR_261 #Volacidias
+    mother = HULR_136 #Ronela
+    574.1.1 = {
+        birth = yes
+    }
+}
+
+HULR_291 = {
+    name = "Ponalria"
+    culture = "hulrethan"
+    faith = "sylvan_heart"
+    female = yes
+    dynasty = HULRD5 #HulrDyn5
+    father = HULR_294 #Recrof
+    mother = HULR_131 #Olthena
+    575.1.1 = {
+        birth = yes
+    }
+}
+
+HULR_292 = {
+    name = "Tolched"
+    culture = "hulrethan"
+    faith = "sylvan_heart"
+    dynasty = HULRD5 #HulrDyn5
+    father = HULR_261 #Volacidias
+    mother = HULR_136 #Ronela
+    580.1.1 = {
+        birth = yes
+    }
+}
+
+HULR_293 = {
+    name = "Ronolf"
+    culture = "hulrethan"
+    faith = "sylvan_heart"
+    dynasty = HULRD5 #HulrDyn5
+    father = HULR_294 #Recrof
+    mother = HULR_131 #Olthena
+    570.1.1 = {
+        birth = yes
+    }
+    586.1.1 = {
+        add_spouse = HULR_391 #Jacquette407
+    }
+}
+
+HULR_294 = {
+    name = "Recrof"
+    culture = "hulrethan"
+    faith = "sylvan_heart"
+    dynasty = HULRD5 #HulrDyn5
+    father = HULR_286 #Alrof
+    mother = HULR_178 #Olanphria
+    554.1.1 = {
+        birth = yes
+    }
+    569.1.1 = {
+        add_spouse = HULR_131 #Mathilde100
+    }
+}
+
+HULR_295 = {
+    name = "Hanarith"
+    culture = "hulrethan"
+    faith = "sylvan_heart"
+    female = yes
+    dynasty = HULRD5 #HulrDyn5
+    father = HULR_269 #Olanthred
+    mother = HULR_153 #Canphira
+    572.1.1 = {
+        birth = yes
+    }
+}
+
+HULR_296 = {
+    name = "Ponalry"
+    culture = "hulrethan"
+    faith = "sylvan_heart"
+    dynasty = HULRD5 #HulrDyn5
+    father = HULR_269 #Olanthred
+    mother = HULR_153 #Canphira
+    575.1.1 = {
+        birth = yes
+    }
+}
+
+HULR_297 = {
+    name = "Hephria"
+    culture = "hulrethan"
+    faith = "sylvan_heart"
+    female = yes
+    dynasty = HULRD6 #HulrDyn6
+    father = HULR_311 #Hanarist
+    mother = HULR_199 #Cofrisa
+    559.1.1 = {
+        birth = yes
+    }
+    578.1.1 = {
+        add_spouse = HULR_188 #Manasses115
+    }
+}
+
+HULR_298 = {
+    name = "Deneria"
+    culture = "hulrethan"
+    faith = "sylvan_heart"
+    female = yes
+    dynasty = HULRD6 #HulrDyn6
+    father = HULR_332 #Algais
+    mother = HULR_233 #Nephrina
+    580.1.1 = {
+        birth = yes
+    }
+}
+
+HULR_299 = {
+    name = "Corlifa"
+    culture = "hulrethan"
+    faith = "sylvan_heart"
+    female = yes
+    dynasty = HULRD6 #HulrDyn6
+    father = HULR_301 #Inisted
+    mother = HULR_190 #Recra
+    572.1.1 = {
+        birth = yes
+    }
+}
+
+HULR_3 = {
+    name = "Corlof"
+    culture = "hulrethan"
+    faith = "sylvan_heart"
+    dynasty = HULRD1 #HulrDyn1
+    547.1.1 = {
+        birth = yes
+    }
+    571.1.1 = {
+        add_spouse = HULR_56 #Helene78
+    }
+}
+
+HULR_30 = {
+    name = "Cofrisa"
+    culture = "hulrethan"
+    faith = "sylvan_heart"
+    female = yes
+    dynasty = HULRD1 #HulrDyn1
+    father = HULR_17 #Conached
+    mother = HULR_122 #Acrista
+    581.1.1 = {
+        birth = yes
+    }
+}
+
+HULR_300 = {
+    name = "Nephrid"
+    culture = "hulrethan"
+    faith = "sylvan_heart"
+    dynasty = HULRD6 #HulrDyn6
+    father = HULR_315 #Volacidias
+    mother = HULR_241 #Hanarith
+    554.1.1 = {
+        birth = yes
+    }
+    567.1.1 = {
+        add_spouse = HULR_228 #Orianne118
+    }
+}
+
+HULR_301 = {
+    name = "Inisted"
+    culture = "hulrethan"
+    faith = "sylvan_heart"
+    dynasty = HULRD6 #HulrDyn6
+    father = HULR_315 #Volacidias
+    mother = HULR_241 #Hanarith
+    550.1.1 = {
+        birth = yes
+    }
+    567.1.1 = {
+        add_spouse = HULR_190 #Melisende108
+    }
+}
+
+HULR_302 = {
+    name = "Conachia"
+    culture = "hulrethan"
+    faith = "sylvan_heart"
+    female = yes
+    dynasty = HULRD6 #HulrDyn6
+    father = HULR_309 #Ejeris
+    mother = HULR_179 #Olthena
+    576.1.1 = {
+        birth = yes
+    }
+}
+
+HULR_303 = {
+    name = "Cordagela"
+    culture = "hulrethan"
+    faith = "sylvan_heart"
+    female = yes
+    dynasty = HULRD6 #HulrDyn6
+    father = HULR_309 #Ejeris
+    mother = HULR_179 #Olthena
+    575.1.1 = {
+        birth = yes
+    }
+}
+
+HULR_304 = {
+    name = "Canphira"
+    culture = "hulrethan"
+    faith = "sylvan_heart"
+    female = yes
+    dynasty = HULRD6 #HulrDyn6
+    father = HULR_332 #Algais
+    mother = HULR_233 #Nephrina
+    579.1.1 = {
+        birth = yes
+    }
+}
+
+HULR_305 = {
+    name = "Ilneris"
+    culture = "hulrethan"
+    faith = "sylvan_heart"
+    female = yes
+    dynasty = HULRD6 #HulrDyn6
+    father = HULR_323 #Olanthred
+    mother = HULR_177 #Olthedra
+    571.1.1 = {
+        birth = yes
+    }
+    586.1.1 = {
+        add_spouse = HULR_415 #Simon422
+    }
+}
+
+HULR_306 = {
+    name = "Ilrolfa"
+    culture = "hulrethan"
+    faith = "sylvan_heart"
+    female = yes
+    dynasty = HULRD6 #HulrDyn6
+    father = HULR_300 #Nephrid
+    mother = HULR_228 #Olanphria
+    573.1.1 = {
+        birth = yes
+    }
+}
+
+HULR_307 = {
+    name = "Inistia"
+    culture = "hulrethan"
+    faith = "sylvan_heart"
+    female = yes
+    dynasty = HULRD6 #HulrDyn6
+    father = HULR_301 #Inisted
+    mother = HULR_190 #Recra
+    568.1.1 = {
+        birth = yes
+    }
+    586.1.1 = {
+        add_spouse = HULR_374 #Amaury420
+    }
+}
+
+HULR_308 = {
+    name = "Inistesia"
+    culture = "hulrethan"
+    faith = "sylvan_heart"
+    female = yes
+    dynasty = HULRD6 #HulrDyn6
+    father = HULR_311 #Hanarist
+    mother = HULR_199 #Cofrisa
+    555.1.1 = {
+        birth = yes
+    }
+    571.1.1 = {
+        add_spouse = HULR_172 #Yves103
+    }
+}
+
+HULR_309 = {
+    name = "Ejeris"
+    culture = "hulrethan"
+    faith = "sylvan_heart"
+    dynasty = HULRD6 #HulrDyn6
+    father = HULR_311 #Hanarist
+    mother = HULR_199 #Cofrisa
+    550.1.1 = {
+        birth = yes
+    }
+    574.1.1 = {
+        add_spouse = HULR_179 #Blanche112
+    }
+}
+
+HULR_31 = {
+    name = "Volacidia"
+    culture = "hulrethan"
+    faith = "sylvan_heart"
+    female = yes
+    dynasty = HULRD1 #HulrDyn1
+    father = HULR_23 #Canphird
+    mother = HULR_50 #Ilneris
+    552.1.1 = {
+        birth = yes
+    }
+    568.1.1 = {
+        add_spouse = HULR_219 #Heribert125
+    }
+}
+
+HULR_310 = {
+    name = "Pelcrof"
+    culture = "hulrethan"
+    faith = "sylvan_heart"
+    dynasty = HULRD6 #HulrDyn6
+    485.1.1 = {
+        birth = yes
+    }
+    541.1.1 = {
+        death = yes
+    }
+}
+
+HULR_311 = {
+    name = "Hanarist"
+    culture = "hulrethan"
+    faith = "sylvan_heart"
+    dynasty = HULRD6 #HulrDyn6
+    father = HULR_310 #Pelcrof
+    520.1.1 = {
+        birth = yes
+    }
+    548.1.1 = {
+        add_spouse = HULR_199 #Adelaide14
+    }
+    578.1.1 = {
+        death = yes
+    }
+}
+
+HULR_312 = {
+    name = "Acrista"
+    culture = "hulrethan"
+    faith = "sylvan_heart"
+    female = yes
+    dynasty = HULRD6 #HulrDyn6
+    father = HULR_311 #Hanarist
+    mother = HULR_199 #Cofrisa
+    552.1.1 = {
+        birth = yes
+    }
+    566.1.1 = {
+        add_spouse = HULR_375 #Anjou171
+    }
+}
+
+HULR_313 = {
+    name = "Algaisa"
+    culture = "hulrethan"
+    faith = "sylvan_heart"
+    female = yes
+    dynasty = HULRD6 #HulrDyn6
+    father = HULR_333 #Alrof
+    mother = HULR_186 #Wolrisa
+    568.1.1 = {
+        birth = yes
+    }
+    586.1.1 = {
+        add_spouse = HULR_180 #Eudes292
+    }
+}
+
+HULR_314 = {
+    name = "Alriva"
+    culture = "hulrethan"
+    faith = "sylvan_heart"
+    female = yes
+    dynasty = HULRD6 #HulrDyn6
+    father = HULR_333 #Alrof
+    mother = HULR_186 #Wolrisa
+    569.1.1 = {
+        birth = yes
+    }
+    586.1.1 = {
+        add_spouse = HULR_394 #Lothaire406
+    }
+}
+
+HULR_315 = {
+    name = "Volacidias"
+    culture = "hulrethan"
+    faith = "sylvan_heart"
+    dynasty = HULRD6 #HulrDyn6
+    father = HULR_310 #Pelcrof
+    523.1.1 = {
+        birth = yes
+    }
+    549.1.1 = {
+        add_spouse = HULR_241 #Ermengarde19
+    }
+    573.1.1 = {
+        death = yes
+    }
+}
+
+HULR_316 = {
+    name = "Belendir"
+    culture = "hulrethan"
+    faith = "sylvan_heart"
+    dynasty = HULRD6 #HulrDyn6
+    father = HULR_300 #Nephrid
+    mother = HULR_228 #Olanphria
+    570.1.1 = {
+        birth = yes
+    }
+    586.1.1 = {
+        add_spouse = HULR_124 #Jacquette245
+    }
+}
+
+HULR_317 = {
+    name = "Conached"
+    culture = "hulrethan"
+    faith = "sylvan_heart"
+    dynasty = HULRD6 #HulrDyn6
+    father = HULR_301 #Inisted
+    mother = HULR_190 #Recra
+    570.1.1 = {
+        birth = yes
+    }
+    586.1.1 = {
+        add_spouse = HULR_64 #Melisende217
+    }
+}
+
+HULR_318 = {
+    name = "Urnes"
+    culture = "hulrethan"
+    faith = "sylvan_heart"
+    dynasty = HULRD6 #HulrDyn6
+    father = HULR_300 #Nephrid
+    mother = HULR_228 #Olanphria
+    574.1.1 = {
+        birth = yes
+    }
+}
+
+HULR_319 = {
+    name = "Tenaria"
+    culture = "hulrethan"
+    faith = "sylvan_heart"
+    female = yes
+    dynasty = HULRD6 #HulrDyn6
+    father = HULR_315 #Volacidias
+    mother = HULR_241 #Hanarith
+    551.1.1 = {
+        birth = yes
+    }
+    576.1.1 = {
+        add_spouse = HULR_161 #Jocelin106
+    }
+}
+
+HULR_32 = {
+    name = "Olthedas"
+    culture = "hulrethan"
+    faith = "sylvan_heart"
+    dynasty = HULRD1 #HulrDyn1
+    father = HULR_14 #Henerof
+    mother = HULR_59 #Acrista
+    550.1.1 = {
+        birth = yes
+    }
+    569.1.1 = {
+        add_spouse = HULR_63 #Mathilde79
+    }
+}
+
+HULR_320 = {
+    name = "Tolchena"
+    culture = "hulrethan"
+    faith = "sylvan_heart"
+    female = yes
+    dynasty = HULRD6 #HulrDyn6
+    father = HULR_323 #Olanthred
+    mother = HULR_177 #Olthedra
+    569.1.1 = {
+        birth = yes
+    }
+    586.1.1 = {
+        add_spouse = HULR_218 #Henri314
+    }
+}
+
+HULR_321 = {
+    name = "Ejeria"
+    culture = "hulrethan"
+    faith = "sylvan_heart"
+    female = yes
+    dynasty = HULRD6 #HulrDyn6
+    father = HULR_310 #Pelcrof
+    529.1.1 = {
+        birth = yes
+    }
+    539.1.1 = {
+        add_spouse = HULR_144 #Amaury63
+    }
+    578.1.1 = {
+        death = yes
+    }
+}
+
+HULR_322 = {
+    name = "Geosphry"
+    culture = "hulrethan"
+    faith = "sylvan_heart"
+    dynasty = HULRD6 #HulrDyn6
+    father = HULR_300 #Nephrid
+    mother = HULR_228 #Olanphria
+    568.1.1 = {
+        birth = yes
+    }
+    586.1.1 = {
+        add_spouse = HULR_51 #Constance216
+    }
+}
+
+HULR_323 = {
+    name = "Olanthred"
+    culture = "hulrethan"
+    faith = "sylvan_heart"
+    dynasty = HULRD6 #HulrDyn6
+    father = HULR_311 #Hanarist
+    mother = HULR_199 #Cofrisa
+    553.1.1 = {
+        birth = yes
+    }
+    568.1.1 = {
+        add_spouse = HULR_177 #Berthe116
+    }
+}
+
+HULR_324 = {
+    name = "Olthedra"
+    culture = "hulrethan"
+    faith = "sylvan_heart"
+    female = yes
+    dynasty = HULRD6 #HulrDyn6
+    father = HULR_332 #Algais
+    mother = HULR_233 #Nephrina
+    582.1.1 = {
+        birth = yes
+    }
+}
+
+HULR_325 = {
+    name = "Wolrof"
+    culture = "hulrethan"
+    faith = "sylvan_heart"
+    dynasty = HULRD6 #HulrDyn6
+    father = HULR_333 #Alrof
+    mother = HULR_186 #Wolrisa
+    570.1.1 = {
+        birth = yes
+    }
+    586.1.1 = {
+        add_spouse = HULR_72 #Aelis242
+    }
+}
+
+HULR_326 = {
+    name = "Winethed"
+    culture = "hulrethan"
+    faith = "sylvan_heart"
+    dynasty = HULRD6 #HulrDyn6
+    father = HULR_333 #Alrof
+    mother = HULR_186 #Wolrisa
+    571.1.1 = {
+        birth = yes
+    }
+    586.1.1 = {
+        add_spouse = HULR_150 #Emmeline268
+    }
+}
+
+HULR_327 = {
+    name = "Olanphria"
+    culture = "hulrethan"
+    faith = "sylvan_heart"
+    female = yes
+    dynasty = HULRD6 #HulrDyn6
+    father = HULR_315 #Volacidias
+    mother = HULR_241 #Hanarith
+    556.1.1 = {
+        birth = yes
+    }
+    577.1.1 = {
+        add_spouse = HULR_383 #Gaston166
+    }
+}
+
+HULR_328 = {
+    name = "Cordagael"
+    culture = "hulrethan"
+    faith = "sylvan_heart"
+    dynasty = HULRD6 #HulrDyn6
+    father = HULR_309 #Ejeris
+    mother = HULR_179 #Olthena
+    578.1.1 = {
+        birth = yes
+    }
+}
+
+HULR_329 = {
+    name = "Olthena"
+    culture = "hulrethan"
+    faith = "sylvan_heart"
+    female = yes
+    dynasty = HULRD6 #HulrDyn6
+    father = HULR_310 #Pelcrof
+    526.1.1 = {
+        birth = yes
+    }
+    550.1.1 = {
+        add_spouse = HULR_366 #Richard33
+    }
+}
+
+HULR_33 = {
+    name = "Canphird"
+    culture = "hulrethan"
+    faith = "sylvan_heart"
+    dynasty = HULRD1 #HulrDyn1
+    father = HULR_14 #Henerof
+    mother = HULR_59 #Acrista
+    551.1.1 = {
+        birth = yes
+    }
+    574.1.1 = {
+        add_spouse = HULR_53 #Felicie76
+    }
+}
+
+HULR_330 = {
+    name = "Nephrina"
+    culture = "hulrethan"
+    faith = "sylvan_heart"
+    female = yes
+    dynasty = HULRD6 #HulrDyn6
+    father = HULR_332 #Algais
+    mother = HULR_233 #Nephrina
+    576.1.1 = {
+        birth = yes
+    }
+}
+
+HULR_331 = {
+    name = "Winetha"
+    culture = "hulrethan"
+    faith = "sylvan_heart"
+    female = yes
+    dynasty = HULRD6 #HulrDyn6
+    father = HULR_332 #Algais
+    mother = HULR_233 #Nephrina
+    577.1.1 = {
+        birth = yes
+    }
+}
+
+HULR_332 = {
+    name = "Algais"
+    culture = "hulrethan"
+    faith = "sylvan_heart"
+    dynasty = HULRD6 #HulrDyn6
+    father = HULR_311 #Hanarist
+    mother = HULR_199 #Cofrisa
+    557.1.1 = {
+        birth = yes
+    }
+    573.1.1 = {
+        add_spouse = HULR_233 #Sabine124
+    }
+}
+
+HULR_333 = {
+    name = "Alrof"
+    culture = "hulrethan"
+    faith = "sylvan_heart"
+    dynasty = HULRD6 #HulrDyn6
+    father = HULR_315 #Volacidias
+    mother = HULR_241 #Hanarith
+    552.1.1 = {
+        birth = yes
+    }
+    567.1.1 = {
+        add_spouse = HULR_186 #Jeanne109
+    }
+}
+
+HULR_334 = {
+    name = "Coidril"
+    culture = "hulrethan"
+    faith = "sylvan_heart"
+    dynasty = HULRD6 #HulrDyn6
+    father = HULR_323 #Olanthred
+    mother = HULR_177 #Olthedra
+    572.1.1 = {
+        birth = yes
+    }
+}
+
+HULR_335 = {
+    name = "Wolrisa"
+    culture = "hulrethan"
+    faith = "sylvan_heart"
+    female = yes
+    dynasty = HULRD6 #HulrDyn6
+    father = HULR_332 #Algais
+    mother = HULR_233 #Nephrina
+    574.1.1 = {
+        birth = yes
+    }
+}
+
+HULR_336 = {
+    name = "Henerof"
+    culture = "hulrethan"
+    faith = "sylvan_heart"
+    dynasty = HULRD6 #HulrDyn6
+    father = HULR_300 #Nephrid
+    mother = HULR_228 #Olanphria
+    571.1.1 = {
+        birth = yes
+    }
+    586.1.1 = {
+        add_spouse = HULR_195 #Rosalie293
+    }
+}
+
+HULR_337 = {
+    name = "Ronela"
+    culture = "hulrethan"
+    faith = "sylvan_heart"
+    female = yes
+    dynasty = HULRD7 #HulrDyn7
+    father = HULR_354 #Inisted
+    mother = HULR_235 #Winetha
+    579.1.1 = {
+        birth = yes
+    }
+}
+
+HULR_338 = {
+    name = "Recra"
+    culture = "hulrethan"
+    faith = "sylvan_heart"
+    female = yes
+    dynasty = HULRD7 #HulrDyn7
+    father = HULR_359 #Ejeris
+    mother = HULR_274 #Alriva
+    573.1.1 = {
+        birth = yes
+    }
+}
+
+HULR_339 = {
+    name = "Ponalria"
+    culture = "hulrethan"
+    faith = "sylvan_heart"
+    female = yes
+    dynasty = HULRD7 #HulrDyn7
+    father = HULR_349 #Tolched
+    mother = HULR_251 #Canphira
+    576.1.1 = {
+        birth = yes
+    }
+}
+
+HULR_34 = {
+    name = "Hanarith"
+    culture = "hulrethan"
+    faith = "sylvan_heart"
+    female = yes
+    dynasty = HULRD1 #HulrDyn1
+    father = HULR_33 #Canphird
+    mother = HULR_53 #Inistia
+    580.1.1 = {
+        birth = yes
+    }
+}
+
+HULR_340 = {
+    name = "Hephri"
+    culture = "hulrethan"
+    faith = "sylvan_heart"
+    dynasty = HULRD7 #HulrDyn7
+    father = HULR_346 #Ilrolph
+    mother = HULR_278 #Tolchena
+    578.1.1 = {
+        birth = yes
+    }
+}
+
+HULR_341 = {
+    name = "Hephria"
+    culture = "hulrethan"
+    faith = "sylvan_heart"
+    female = yes
+    dynasty = HULRD7 #HulrDyn7
+    father = HULR_349 #Tolched
+    mother = HULR_251 #Canphira
+    582.1.1 = {
+        birth = yes
+    }
+}
+
+HULR_342 = {
+    name = "Deneria"
+    culture = "hulrethan"
+    faith = "sylvan_heart"
+    female = yes
+    dynasty = HULRD7 #HulrDyn7
+    father = HULR_349 #Tolched
+    mother = HULR_251 #Canphira
+    580.1.1 = {
+        birth = yes
+    }
+}
+
+HULR_343 = {
+    name = "Corlifa"
+    culture = "hulrethan"
+    faith = "sylvan_heart"
+    female = yes
+    dynasty = HULRD7 #HulrDyn7
+    father = HULR_367 #Belendir
+    527.1.1 = {
+        birth = yes
+    }
+    542.1.1 = {
+        add_spouse = HULR_422 #Yves37
+    }
+}
+
+HULR_344 = {
+    name = "Cofrisa"
+    culture = "hulrethan"
+    faith = "sylvan_heart"
+    female = yes
+    dynasty = HULRD7 #HulrDyn7
+    father = HULR_349 #Tolched
+    mother = HULR_251 #Canphira
+    579.1.1 = {
+        birth = yes
+    }
+}
+
+HULR_345 = {
+    name = "Conachia"
+    culture = "hulrethan"
+    faith = "sylvan_heart"
+    female = yes
+    dynasty = HULRD7 #HulrDyn7
+    father = HULR_346 #Ilrolph
+    mother = HULR_278 #Tolchena
+    580.1.1 = {
+        birth = yes
+    }
+}
+
+HULR_346 = {
+    name = "Ilrolph"
+    culture = "hulrethan"
+    faith = "sylvan_heart"
+    dynasty = HULRD7 #HulrDyn7
+    father = HULR_366 #Volacidias
+    mother = HULR_329 #Olthena
+    556.1.1 = {
+        birth = yes
+    }
+    573.1.1 = {
+        add_spouse = HULR_278 #Marguerite136
+    }
+}
+
+HULR_347 = {
+    name = "Cordagela"
+    culture = "hulrethan"
+    faith = "sylvan_heart"
+    female = yes
+    dynasty = HULRD7 #HulrDyn7
+    father = HULR_367 #Belendir
+    530.1.1 = {
+        birth = yes
+    }
+    547.1.1 = {
+        add_spouse = HULR_181 #Geoffroi7
+    }
+    571.1.1 = {
+        death = yes
+    }
+}
+
+HULR_348 = {
+    name = "Canphira"
+    culture = "hulrethan"
+    faith = "sylvan_heart"
+    female = yes
+    dynasty = HULRD7 #HulrDyn7
+    father = HULR_354 #Inisted
+    mother = HULR_235 #Winetha
+    578.1.1 = {
+        birth = yes
+    }
+}
+
+HULR_349 = {
+    name = "Tolched"
+    culture = "hulrethan"
+    faith = "sylvan_heart"
+    dynasty = HULRD7 #HulrDyn7
+    father = HULR_366 #Volacidias
+    mother = HULR_329 #Olthena
+    554.1.1 = {
+        birth = yes
+    }
+    575.1.1 = {
+        add_spouse = HULR_251 #Mathilde128
+    }
+}
+
+HULR_35 = {
+    name = "Ronolf"
+    culture = "hulrethan"
+    faith = "sylvan_heart"
+    dynasty = HULRD1 #HulrDyn1
+    father = HULR_33 #Canphird
+    mother = HULR_53 #Inistia
+    584.1.1 = {
+        birth = yes
+    }
+}
+
+HULR_350 = {
+    name = "Recrof"
+    culture = "hulrethan"
+    faith = "sylvan_heart"
+    dynasty = HULRD7 #HulrDyn7
+    father = HULR_359 #Ejeris
+    mother = HULR_274 #Alriva
+    576.1.1 = {
+        birth = yes
+    }
+}
+
+HULR_351 = {
+    name = "Ponalry"
+    culture = "hulrethan"
+    faith = "sylvan_heart"
+    dynasty = HULRD7 #HulrDyn7
+    father = HULR_367 #Belendir
+    521.1.1 = {
+        birth = yes
+    }
+    537.1.1 = {
+        add_spouse = HULR_279 #Mathilde24
+    }
+    577.1.1 = {
+        death = yes
+    }
+}
+
+HULR_352 = {
+    name = "Corlof"
+    culture = "hulrethan"
+    faith = "sylvan_heart"
+    dynasty = HULRD7 #HulrDyn7
+    father = HULR_359 #Ejeris
+    mother = HULR_274 #Alriva
+    575.1.1 = {
+        birth = yes
+    }
+}
+
+HULR_353 = {
+    name = "Nephrid"
+    culture = "hulrethan"
+    faith = "sylvan_heart"
+    dynasty = HULRD7 #HulrDyn7
+    father = HULR_359 #Ejeris
+    mother = HULR_274 #Alriva
+    574.1.1 = {
+        birth = yes
+    }
+}
+
+HULR_354 = {
+    name = "Inisted"
+    culture = "hulrethan"
+    faith = "sylvan_heart"
+    dynasty = HULRD7 #HulrDyn7
+    father = HULR_351 #Ponalry
+    mother = HULR_279 #Ejeria
+    553.1.1 = {
+        birth = yes
+    }
+    575.1.1 = {
+        add_spouse = HULR_235 #Adelaide127
+    }
+}
+
+HULR_355 = {
+    name = "Ilneris"
+    culture = "hulrethan"
+    faith = "sylvan_heart"
+    female = yes
+    dynasty = HULRD7 #HulrDyn7
+    father = HULR_359 #Ejeris
+    mother = HULR_274 #Alriva
+    577.1.1 = {
+        birth = yes
+    }
+}
+
+HULR_356 = {
+    name = "Ilrolfa"
+    culture = "hulrethan"
+    faith = "sylvan_heart"
+    female = yes
+    dynasty = HULRD7 #HulrDyn7
+    father = HULR_351 #Ponalry
+    mother = HULR_279 #Ejeria
+    550.1.1 = {
+        birth = yes
+    }
+    573.1.1 = {
+        add_spouse = HULR_377 #Charles172
+    }
+}
+
+HULR_357 = {
+    name = "Inistia"
+    culture = "hulrethan"
+    faith = "sylvan_heart"
+    female = yes
+    dynasty = HULRD7 #HulrDyn7
+    father = HULR_359 #Ejeris
+    mother = HULR_274 #Alriva
+    572.1.1 = {
+        birth = yes
+    }
+}
+
+HULR_358 = {
+    name = "Inistesia"
+    culture = "hulrethan"
+    faith = "sylvan_heart"
+    female = yes
+    dynasty = HULRD7 #HulrDyn7
+    father = HULR_351 #Ponalry
+    mother = HULR_279 #Ejeria
+    551.1.1 = {
+        birth = yes
+    }
+    569.1.1 = {
+        add_spouse = HULR_183 #Guy117
+    }
+}
+
+HULR_359 = {
+    name = "Ejeris"
+    culture = "hulrethan"
+    faith = "sylvan_heart"
+    dynasty = HULRD7 #HulrDyn7
+    father = HULR_351 #Ponalry
+    mother = HULR_279 #Ejeria
+    555.1.1 = {
+        birth = yes
+    }
+    571.1.1 = {
+        add_spouse = HULR_274 #Isabelle140
+    }
+}
+
+HULR_36 = {
+    name = "Volacidia"
+    culture = "hulrethan"
+    faith = "sylvan_heart"
+    female = yes
+    dynasty = HULRD1 #HulrDyn1
+    father = HULR_32 #Olthedas
+    mother = HULR_63 #Tenaria
+    573.1.1 = {
+        birth = yes
+    }
+}
+
+HULR_360 = {
+    name = "Acrista"
+    culture = "hulrethan"
+    faith = "sylvan_heart"
+    female = yes
+    dynasty = HULRD7 #HulrDyn7
+    father = HULR_349 #Tolched
+    mother = HULR_251 #Canphira
+    577.1.1 = {
+        birth = yes
+    }
+}
+
+HULR_361 = {
+    name = "Algaisa"
+    culture = "hulrethan"
+    faith = "sylvan_heart"
+    female = yes
+    dynasty = HULRD7 #HulrDyn7
+    father = HULR_366 #Volacidias
+    mother = HULR_329 #Olthena
+    551.1.1 = {
+        birth = yes
+    }
+    567.1.1 = {
+        add_spouse = HULR_416 #Suger167
+    }
+}
+
+HULR_362 = {
+    name = "Alriva"
+    culture = "hulrethan"
+    faith = "sylvan_heart"
+    female = yes
+    dynasty = HULRD7 #HulrDyn7
+    father = HULR_346 #Ilrolph
+    mother = HULR_278 #Tolchena
+    581.1.1 = {
+        birth = yes
+    }
+}
+
+HULR_363 = {
+    name = "Tenaria"
+    culture = "hulrethan"
+    faith = "sylvan_heart"
+    female = yes
+    dynasty = HULRD7 #HulrDyn7
+    father = HULR_346 #Ilrolph
+    mother = HULR_278 #Tolchena
+    576.1.1 = {
+        birth = yes
+    }
+}
+
+HULR_364 = {
+    name = "Pelcrof"
+    culture = "hulrethan"
+    faith = "sylvan_heart"
+    dynasty = HULRD7 #HulrDyn7
+    father = HULR_354 #Inisted
+    mother = HULR_235 #Winetha
+    576.1.1 = {
+        birth = yes
+    }
+}
+
+HULR_365 = {
+    name = "Hanarist"
+    culture = "hulrethan"
+    faith = "sylvan_heart"
+    dynasty = HULRD7 #HulrDyn7
+    father = HULR_346 #Ilrolph
+    mother = HULR_278 #Tolchena
+    574.1.1 = {
+        birth = yes
+    }
+}
+
+HULR_366 = {
+    name = "Volacidias"
+    culture = "hulrethan"
+    faith = "sylvan_heart"
+    dynasty = HULRD7 #HulrDyn7
+    father = HULR_367 #Belendir
+    524.1.1 = {
+        birth = yes
+    }
+    550.1.1 = {
+        add_spouse = HULR_329 #Rosalie29
+    }
+    576.1.1 = {
+        death = yes
+    }
+}
+
+HULR_367 = {
+    name = "Belendir"
+    culture = "hulrethan"
+    faith = "sylvan_heart"
+    dynasty = HULRD7 #HulrDyn7
+    486.1.1 = {
+        birth = yes
+    }
+    542.1.1 = {
+        death = yes
+    }
+}
+
+HULR_368 = {
+    name = "Tolchena"
+    culture = "hulrethan"
+    faith = "sylvan_heart"
+    female = yes
+    dynasty = HULRD7 #HulrDyn7
+    father = HULR_366 #Volacidias
+    mother = HULR_329 #Olthena
+    553.1.1 = {
+        birth = yes
+    }
+    578.1.1 = {
+        add_spouse = HULR_226 #Odo121
+    }
+}
+
+HULR_369 = {
+    name = "Ejeria"
+    culture = "hulrethan"
+    faith = "sylvan_heart"
+    female = yes
+    dynasty = HULRD8 #HulrDyn8
+    father = HULR_418 #Belendir
+    mother = HULR_440 #Deneria
+    577.1.1 = {
+        birth = yes
+    }
+}
+
+HULR_37 = {
+    name = "Olthedra"
+    culture = "hulrethan"
+    faith = "sylvan_heart"
+    female = yes
+    dynasty = HULRD1 #HulrDyn1
+    father = HULR_29 #Hephri
+    524.1.1 = {
+        birth = yes
+    }
+    540.1.1 = {
+        add_spouse = HULR_217 #Henri13
+    }
+    582.1.1 = {
+        death = yes
+    }
+}
+
+HULR_370 = {
+    name = "Olanphria"
+    culture = "hulrethan"
+    faith = "sylvan_heart"
+    female = yes
+    dynasty = HULRD8 #HulrDyn8
+    father = HULR_384 #Winethed
+    mother = HULR_273 #Algaisa
+    575.1.1 = {
+        birth = yes
+    }
+}
+
+HULR_371 = {
+    name = "Olthena"
+    culture = "hulrethan"
+    faith = "sylvan_heart"
+    female = yes
+    dynasty = HULRD8 #HulrDyn8
+    father = HULR_383 #Wolrof
+    mother = HULR_327 #Olanphria
+    584.1.1 = {
+        birth = yes
+    }
+}
+
+HULR_372 = {
+    name = "Nephrina"
+    culture = "hulrethan"
+    faith = "sylvan_heart"
+    female = yes
+    dynasty = HULRD8 #HulrDyn8
+    father = HULR_417 #Volacidias
+    mother = HULR_433 #Wolrisa
+    576.1.1 = {
+        birth = yes
+    }
+}
+
+HULR_373 = {
+    name = "Winetha"
+    culture = "hulrethan"
+    faith = "sylvan_heart"
+    female = yes
+    dynasty = HULRD8 #HulrDyn8
+    father = HULR_408 #Corlof
+    524.1.1 = {
+        birth = yes
+    }
+    547.1.1 = {
+        add_spouse = HULR_191 #Olivier8
+    }
+    570.1.1 = {
+        death = yes
+    }
+}
+
+HULR_374 = {
+    name = "Conached"
+    culture = "hulrethan"
+    faith = "sylvan_heart"
+    dynasty = HULRD8 #HulrDyn8
+    father = HULR_416 #Hanarist
+    mother = HULR_361 #Algaisa
+    568.1.1 = {
+        birth = yes
+    }
+    586.1.1 = {
+        add_spouse = HULR_307 #Ermengarde356
+    }
+}
+
+HULR_375 = {
+    name = "Urnes"
+    culture = "hulrethan"
+    faith = "sylvan_heart"
+    dynasty = HULRD8 #HulrDyn8
+    father = HULR_376 #Olthedas
+    mother = HULR_424 #Olthena
+    551.1.1 = {
+        birth = yes
+    }
+    566.1.1 = {
+        add_spouse = HULR_312 #Helene146
+    }
+}
+
+HULR_376 = {
+    name = "Olthedas"
+    culture = "hulrethan"
+    faith = "sylvan_heart"
+    dynasty = HULRD8 #HulrDyn8
+    father = HULR_408 #Corlof
+    518.1.1 = {
+        birth = yes
+    }
+    546.1.1 = {
+        add_spouse = HULR_424 #Alienor44
+    }
+    577.1.1 = {
+        death = yes
+    }
+}
+
+HULR_377 = {
+    name = "Geosphry"
+    culture = "hulrethan"
+    faith = "sylvan_heart"
+    dynasty = HULRD8 #HulrDyn8
+    father = HULR_376 #Olthedas
+    mother = HULR_424 #Olthena
+    552.1.1 = {
+        birth = yes
+    }
+    573.1.1 = {
+        add_spouse = HULR_356 #Heloise156
+    }
+}
+
+HULR_378 = {
+    name = "Wolrisa"
+    culture = "hulrethan"
+    faith = "sylvan_heart"
+    female = yes
+    dynasty = HULRD8 #HulrDyn8
+    father = HULR_383 #Wolrof
+    mother = HULR_327 #Olanphria
+    580.1.1 = {
+        birth = yes
+    }
+}
+
+HULR_379 = {
+    name = "Ronela"
+    culture = "hulrethan"
+    faith = "sylvan_heart"
+    female = yes
+    dynasty = HULRD8 #HulrDyn8
+    father = HULR_377 #Geosphry
+    mother = HULR_356 #Ilrolfa
+    579.1.1 = {
+        birth = yes
+    }
+}
+
+HULR_38 = {
+    name = "Recra"
+    culture = "hulrethan"
+    faith = "sylvan_heart"
+    female = yes
+    dynasty = HULRD1 #HulrDyn1
+    father = HULR_2 #Recrof
+    mother = HULR_68 #Olanphria
+    573.1.1 = {
+        birth = yes
+    }
+}
+
+HULR_380 = {
+    name = "Ponalria"
+    culture = "hulrethan"
+    faith = "sylvan_heart"
+    female = yes
+    dynasty = HULRD8 #HulrDyn8
+    father = HULR_418 #Belendir
+    mother = HULR_440 #Deneria
+    579.1.1 = {
+        birth = yes
+    }
+}
+
+HULR_381 = {
+    name = "Olanthred"
+    culture = "hulrethan"
+    faith = "sylvan_heart"
+    dynasty = HULRD8 #HulrDyn8
+    father = HULR_417 #Volacidias
+    mother = HULR_433 #Wolrisa
+    574.1.1 = {
+        birth = yes
+    }
+}
+
+HULR_382 = {
+    name = "Hanarith"
+    culture = "hulrethan"
+    faith = "sylvan_heart"
+    female = yes
+    dynasty = HULRD8 #HulrDyn8
+    father = HULR_377 #Geosphry
+    mother = HULR_356 #Ilrolfa
+    577.1.1 = {
+        birth = yes
+    }
+}
+
+HULR_383 = {
+    name = "Wolrof"
+    culture = "hulrethan"
+    faith = "sylvan_heart"
+    dynasty = HULRD8 #HulrDyn8
+    father = HULR_422 #Geosphry
+    mother = HULR_343 #Corlifa
+    552.1.1 = {
+        birth = yes
+    }
+    577.1.1 = {
+        add_spouse = HULR_327 #Perrine155
+    }
+}
+
+HULR_384 = {
+    name = "Winethed"
+    culture = "hulrethan"
+    faith = "sylvan_heart"
+    dynasty = HULRD8 #HulrDyn8
+    father = HULR_422 #Geosphry
+    mother = HULR_343 #Corlifa
+    550.1.1 = {
+        birth = yes
+    }
+    566.1.1 = {
+        add_spouse = HULR_273 #Isabeau143
+    }
+}
+
+HULR_385 = {
+    name = "Cordagael"
+    culture = "hulrethan"
+    faith = "sylvan_heart"
+    dynasty = HULRD8 #HulrDyn8
+    father = HULR_384 #Winethed
+    mother = HULR_273 #Algaisa
+    567.1.1 = {
+        birth = yes
+    }
+    586.1.1 = {
+        add_spouse = HULR_222 #Jeanne313
+    }
+}
+
+HULR_386 = {
+    name = "Hephria"
+    culture = "hulrethan"
+    faith = "sylvan_heart"
+    female = yes
+    dynasty = HULRD8 #HulrDyn8
+    father = HULR_409 #Nephrid
+    mother = HULR_284 #Wolrisa
+    569.1.1 = {
+        birth = yes
+    }
+    586.1.1 = {
+        add_spouse = HULR_213 #Geoffroi305
+    }
+}
+
+HULR_387 = {
+    name = "Deneria"
+    culture = "hulrethan"
+    faith = "sylvan_heart"
+    female = yes
+    dynasty = HULRD8 #HulrDyn8
+    father = HULR_418 #Belendir
+    mother = HULR_440 #Deneria
+    581.1.1 = {
+        birth = yes
+    }
+}
+
+HULR_388 = {
+    name = "Corlifa"
+    culture = "hulrethan"
+    faith = "sylvan_heart"
+    female = yes
+    dynasty = HULRD8 #HulrDyn8
+    father = HULR_383 #Wolrof
+    mother = HULR_327 #Olanphria
+    578.1.1 = {
+        birth = yes
+    }
+}
+
+HULR_389 = {
+    name = "Canphird"
+    culture = "hulrethan"
+    faith = "sylvan_heart"
+    dynasty = HULRD8 #HulrDyn8
+    father = HULR_375 #Urnes
+    mother = HULR_312 #Acrista
+    568.1.1 = {
+        birth = yes
+    }
+    586.1.1 = {
+        add_spouse = HULR_239 #Constance320
+    }
+}
+
+HULR_39 = {
+    name = "Algais"
+    culture = "hulrethan"
+    faith = "sylvan_heart"
+    dynasty = HULRD1 #HulrDyn1
+    father = HULR_23 #Canphird
+    mother = HULR_50 #Ilneris
+    554.1.1 = {
+        birth = yes
+    }
+    578.1.1 = {
+        add_spouse = HULR_94 #Lucie88
+    }
+}
+
+HULR_390 = {
+    name = "Cofrisa"
+    culture = "hulrethan"
+    faith = "sylvan_heart"
+    female = yes
+    dynasty = HULRD8 #HulrDyn8
+    father = HULR_422 #Geosphry
+    mother = HULR_343 #Corlifa
+    551.1.1 = {
+        birth = yes
+    }
+    569.1.1 = {
+        add_spouse = HULR_427 #Benoit178
+    }
+}
+
+HULR_391 = {
+    name = "Conachia"
+    culture = "hulrethan"
+    faith = "sylvan_heart"
+    female = yes
+    dynasty = HULRD8 #HulrDyn8
+    father = HULR_375 #Urnes
+    mother = HULR_312 #Acrista
+    571.1.1 = {
+        birth = yes
+    }
+    586.1.1 = {
+        add_spouse = HULR_293 #Thibaut344
+    }
+}
+
+HULR_392 = {
+    name = "Alrof"
+    culture = "hulrethan"
+    faith = "sylvan_heart"
+    dynasty = HULRD8 #HulrDyn8
+    father = HULR_417 #Volacidias
+    mother = HULR_433 #Wolrisa
+    580.1.1 = {
+        birth = yes
+    }
+}
+
+HULR_393 = {
+    name = "Coidril"
+    culture = "hulrethan"
+    faith = "sylvan_heart"
+    dynasty = HULRD8 #HulrDyn8
+    father = HULR_383 #Wolrof
+    mother = HULR_327 #Olanphria
+    583.1.1 = {
+        birth = yes
+    }
+}
+
+HULR_394 = {
+    name = "Henerof"
+    culture = "hulrethan"
+    faith = "sylvan_heart"
+    dynasty = HULRD8 #HulrDyn8
+    father = HULR_375 #Urnes
+    mother = HULR_312 #Acrista
+    570.1.1 = {
+        birth = yes
+    }
+    586.1.1 = {
+        add_spouse = HULR_314 #Heloise360
+    }
+}
+
+HULR_395 = {
+    name = "Hephri"
+    culture = "hulrethan"
+    faith = "sylvan_heart"
+    dynasty = HULRD8 #HulrDyn8
+    father = HULR_384 #Winethed
+    mother = HULR_273 #Algaisa
+    573.1.1 = {
+        birth = yes
+    }
+}
+
+HULR_396 = {
+    name = "Ilrolph"
+    culture = "hulrethan"
+    faith = "sylvan_heart"
+    dynasty = HULRD8 #HulrDyn8
+    father = HULR_416 #Hanarist
+    mother = HULR_361 #Algaisa
+    572.1.1 = {
+        birth = yes
+    }
+}
+
+HULR_397 = {
+    name = "Cordagela"
+    culture = "hulrethan"
+    faith = "sylvan_heart"
+    female = yes
+    dynasty = HULRD8 #HulrDyn8
+    father = HULR_375 #Urnes
+    mother = HULR_312 #Acrista
+    567.1.1 = {
+        birth = yes
+    }
+    586.1.1 = {
+        add_spouse = HULR_231 #Richard300
+    }
+}
+
+HULR_398 = {
+    name = "Canphira"
+    culture = "hulrethan"
+    faith = "sylvan_heart"
+    female = yes
+    dynasty = HULRD8 #HulrDyn8
+    father = HULR_418 #Belendir
+    mother = HULR_440 #Deneria
+    580.1.1 = {
+        birth = yes
+    }
+}
+
+HULR_399 = {
+    name = "Tolched"
+    culture = "hulrethan"
+    faith = "sylvan_heart"
+    dynasty = HULRD8 #HulrDyn8
+    father = HULR_377 #Geosphry
+    mother = HULR_356 #Ilrolfa
+    574.1.1 = {
+        birth = yes
+    }
+}
+
+HULR_4 = {
+    name = "Ronolf"
+    culture = "hulrethan"
+    faith = "sylvan_heart"
+    dynasty = HULRD1 #HulrDyn1
+    father = HULR_2 #Recrof
+    mother = HULR_68 #Olanphria
+    574.1.1 = {
+        birth = yes
+    }
+}
+
+HULR_40 = {
+    name = "Ilneris"
+    culture = "hulrethan"
+    faith = "sylvan_heart"
+    female = yes
+    dynasty = HULRD10 #HulrDyn10
+    father = HULR_52 #Pelcrof
+    mother = HULR_162 #Volacidia
+    567.1.1 = {
+        birth = yes
+    }
+    586.1.1 = {
+        add_spouse = HULR_7 #Benoit195
+    }
+}
+
+HULR_400 = {
+    name = "Recrof"
+    culture = "hulrethan"
+    faith = "sylvan_heart"
+    dynasty = HULRD8 #HulrDyn8
+    father = HULR_417 #Volacidias
+    mother = HULR_433 #Wolrisa
+    572.1.1 = {
+        birth = yes
+    }
+}
+
+HULR_401 = {
+    name = "Ilrolfa"
+    culture = "hulrethan"
+    faith = "sylvan_heart"
+    female = yes
+    dynasty = HULRD8 #HulrDyn8
+    father = HULR_384 #Winethed
+    mother = HULR_273 #Algaisa
+    569.1.1 = {
+        birth = yes
+    }
+    586.1.1 = {
+        add_spouse = HULR_431 #Evrard442
+    }
+}
+
+HULR_402 = {
+    name = "Inistia"
+    culture = "hulrethan"
+    faith = "sylvan_heart"
+    female = yes
+    dynasty = HULRD8 #HulrDyn8
+    father = HULR_409 #Nephrid
+    mother = HULR_284 #Wolrisa
+    572.1.1 = {
+        birth = yes
+    }
+}
+
+HULR_403 = {
+    name = "Inistesia"
+    culture = "hulrethan"
+    faith = "sylvan_heart"
+    female = yes
+    dynasty = HULRD8 #HulrDyn8
+    father = HULR_416 #Hanarist
+    mother = HULR_361 #Algaisa
+    569.1.1 = {
+        birth = yes
+    }
+    586.1.1 = {
+        add_spouse = HULR_435 #Guy443
+    }
+}
+
+HULR_404 = {
+    name = "Volacidia"
+    culture = "hulrethan"
+    faith = "sylvan_heart"
+    female = yes
+    dynasty = HULRD8 #HulrDyn8
+    father = HULR_408 #Corlof
+    521.1.1 = {
+        birth = yes
+    }
+    540.1.1 = {
+        add_spouse = HULR_436 #Haimo43
+    }
+}
+
+HULR_405 = {
+    name = "Acrista"
+    culture = "hulrethan"
+    faith = "sylvan_heart"
+    female = yes
+    dynasty = HULRD8 #HulrDyn8
+    father = HULR_384 #Winethed
+    mother = HULR_273 #Algaisa
+    571.1.1 = {
+        birth = yes
+    }
+    586.1.1 = {
+        add_spouse = HULR_242 #Foulques319
+    }
+}
+
+HULR_406 = {
+    name = "Algaisa"
+    culture = "hulrethan"
+    faith = "sylvan_heart"
+    female = yes
+    dynasty = HULRD8 #HulrDyn8
+    father = HULR_417 #Volacidias
+    mother = HULR_433 #Wolrisa
+    575.1.1 = {
+        birth = yes
+    }
+}
+
+HULR_407 = {
+    name = "Ponalry"
+    culture = "hulrethan"
+    faith = "sylvan_heart"
+    dynasty = HULRD8 #HulrDyn8
+    father = HULR_416 #Hanarist
+    mother = HULR_361 #Algaisa
+    573.1.1 = {
+        birth = yes
+    }
+}
+
+HULR_408 = {
+    name = "Corlof"
+    culture = "hulrethan"
+    faith = "sylvan_heart"
+    dynasty = HULRD8 #HulrDyn8
+    487.1.1 = {
+        birth = yes
+    }
+    564.1.1 = {
+        death = yes
+    }
+}
+
+HULR_409 = {
+    name = "Nephrid"
+    culture = "hulrethan"
+    faith = "sylvan_heart"
+    dynasty = HULRD8 #HulrDyn8
+    father = HULR_376 #Olthedas
+    mother = HULR_424 #Olthena
+    550.1.1 = {
+        birth = yes
+    }
+    568.1.1 = {
+        add_spouse = HULR_284 #Perrine139
+    }
+}
+
+HULR_41 = {
+    name = "Alriva"
+    culture = "hulrethan"
+    faith = "sylvan_heart"
+    female = yes
+    dynasty = HULRD10 #HulrDyn10
+    father = HULR_67 #Olthedas
+    mother = HULR_140 #Ponalria
+    557.1.1 = {
+        birth = yes
+    }
+    569.1.1 = {
+        add_spouse = HULR_245 #Guy132
+    }
+}
+
+HULR_410 = {
+    name = "Inisted"
+    culture = "hulrethan"
+    faith = "sylvan_heart"
+    dynasty = HULRD8 #HulrDyn8
+    father = HULR_383 #Wolrof
+    mother = HULR_327 #Olanphria
+    581.1.1 = {
+        birth = yes
+    }
+}
+
+HULR_411 = {
+    name = "Tenaria"
+    culture = "hulrethan"
+    faith = "sylvan_heart"
+    female = yes
+    dynasty = HULRD8 #HulrDyn8
+    father = HULR_377 #Geosphry
+    mother = HULR_356 #Ilrolfa
+    576.1.1 = {
+        birth = yes
+    }
+}
+
+HULR_412 = {
+    name = "Tolchena"
+    culture = "hulrethan"
+    faith = "sylvan_heart"
+    female = yes
+    dynasty = HULRD8 #HulrDyn8
+    father = HULR_377 #Geosphry
+    mother = HULR_356 #Ilrolfa
+    581.1.1 = {
+        birth = yes
+    }
+}
+
+HULR_413 = {
+    name = "Ejeria"
+    culture = "hulrethan"
+    faith = "sylvan_heart"
+    female = yes
+    dynasty = HULRD8 #HulrDyn8
+    father = HULR_418 #Belendir
+    mother = HULR_440 #Deneria
+    575.1.1 = {
+        birth = yes
+    }
+}
+
+HULR_414 = {
+    name = "Ejeris"
+    culture = "hulrethan"
+    faith = "sylvan_heart"
+    dynasty = HULRD8 #HulrDyn8
+    father = HULR_377 #Geosphry
+    mother = HULR_356 #Ilrolfa
+    575.1.1 = {
+        birth = yes
+    }
+}
+
+HULR_415 = {
+    name = "Pelcrof"
+    culture = "hulrethan"
+    faith = "sylvan_heart"
+    dynasty = HULRD8 #HulrDyn8
+    father = HULR_416 #Hanarist
+    mother = HULR_361 #Algaisa
+    570.1.1 = {
+        birth = yes
+    }
+    586.1.1 = {
+        add_spouse = HULR_305 #Constance364
+    }
+}
+
+HULR_416 = {
+    name = "Hanarist"
+    culture = "hulrethan"
+    faith = "sylvan_heart"
+    dynasty = HULRD8 #HulrDyn8
+    father = HULR_422 #Geosphry
+    mother = HULR_343 #Corlifa
+    554.1.1 = {
+        birth = yes
+    }
+    567.1.1 = {
+        add_spouse = HULR_361 #Madeleine160
+    }
+}
+
+HULR_417 = {
+    name = "Volacidias"
+    culture = "hulrethan"
+    faith = "sylvan_heart"
+    dynasty = HULRD8 #HulrDyn8
+    father = HULR_422 #Geosphry
+    mother = HULR_343 #Corlifa
+    556.1.1 = {
+        birth = yes
+    }
+    571.1.1 = {
+        add_spouse = HULR_433 #Giselle174
+    }
+}
+
+HULR_418 = {
+    name = "Belendir"
+    culture = "hulrethan"
+    faith = "sylvan_heart"
+    dynasty = HULRD8 #HulrDyn8
+    father = HULR_422 #Geosphry
+    mother = HULR_343 #Corlifa
+    557.1.1 = {
+        birth = yes
+    }
+    574.1.1 = {
+        add_spouse = HULR_440 #Judith179
+    }
+}
+
+HULR_419 = {
+    name = "Olthedra"
+    culture = "hulrethan"
+    faith = "sylvan_heart"
+    female = yes
+    dynasty = HULRD8 #HulrDyn8
+    father = HULR_409 #Nephrid
+    mother = HULR_284 #Wolrisa
+    571.1.1 = {
+        birth = yes
+    }
+    586.1.1 = {
+        add_spouse = HULR_425 #Anjou448
+    }
+}
+
+HULR_42 = {
+    name = "Conached"
+    culture = "hulrethan"
+    faith = "sylvan_heart"
+    dynasty = HULRD10 #HulrDyn10
+    father = HULR_61 #Conached
+    mother = HULR_173 #Tolchena
+    577.1.1 = {
+        birth = yes
+    }
+}
+
+HULR_420 = {
+    name = "Urnes"
+    culture = "hulrethan"
+    faith = "sylvan_heart"
+    dynasty = HULRD8 #HulrDyn8
+    father = HULR_383 #Wolrof
+    mother = HULR_327 #Olanphria
+    579.1.1 = {
+        birth = yes
+    }
+}
+
+HULR_421 = {
+    name = "Olthedas"
+    culture = "hulrethan"
+    faith = "sylvan_heart"
+    dynasty = HULRD8 #HulrDyn8
+    father = HULR_417 #Volacidias
+    mother = HULR_433 #Wolrisa
+    578.1.1 = {
+        birth = yes
+    }
+}
+
+HULR_422 = {
+    name = "Geosphry"
+    culture = "hulrethan"
+    faith = "sylvan_heart"
+    dynasty = HULRD8 #HulrDyn8
+    father = HULR_408 #Corlof
+    515.1.1 = {
+        birth = yes
+    }
+    542.1.1 = {
+        add_spouse = HULR_343 #Denise34
+    }
+    568.1.1 = {
+        death = yes
+    }
+}
+
+HULR_423 = {
+    name = "Olanphria"
+    culture = "hulrethan"
+    faith = "sylvan_heart"
+    female = yes
+    dynasty = HULRD9 #HulrDyn9
+    father = HULR_436 #Henerof
+    mother = HULR_404 #Volacidia
+    555.1.1 = {
+        birth = yes
+    }
+    573.1.1 = {
+        add_spouse = HULR_230 #Renaud120
+    }
+}
+
+HULR_424 = {
+    name = "Olthena"
+    culture = "hulrethan"
+    faith = "sylvan_heart"
+    female = yes
+    dynasty = HULRD9 #HulrDyn9
+    father = HULR_428 #Cordagael
+    522.1.1 = {
+        birth = yes
+    }
+    546.1.1 = {
+        add_spouse = HULR_376 #Bernard38
+    }
+    576.1.1 = {
+        death = yes
+    }
+}
+
+HULR_425 = {
+    name = "Olanthred"
+    culture = "hulrethan"
+    faith = "sylvan_heart"
+    dynasty = HULRD9 #HulrDyn9
+    father = HULR_427 #Winethed
+    mother = HULR_390 #Cofrisa
+    571.1.1 = {
+        birth = yes
+    }
+    586.1.1 = {
+        add_spouse = HULR_419 #Theodora402
+    }
+}
+
+HULR_426 = {
+    name = "Wolrof"
+    culture = "hulrethan"
+    faith = "sylvan_heart"
+    dynasty = HULRD9 #HulrDyn9
+    father = HULR_446 #Tolched
+    mother = HULR_10 #Corlifa
+    572.1.1 = {
+        birth = yes
+    }
+}
+
+HULR_427 = {
+    name = "Winethed"
+    culture = "hulrethan"
+    faith = "sylvan_heart"
+    dynasty = HULRD9 #HulrDyn9
+    father = HULR_436 #Henerof
+    mother = HULR_404 #Volacidia
+    552.1.1 = {
+        birth = yes
+    }
+    569.1.1 = {
+        add_spouse = HULR_390 #Jacquette165
+    }
+}
+
+HULR_428 = {
+    name = "Cordagael"
+    culture = "hulrethan"
+    faith = "sylvan_heart"
+    dynasty = HULRD9 #HulrDyn9
+    488.1.1 = {
+        birth = yes
+    }
+    543.1.1 = {
+        death = yes
+    }
+}
+
+HULR_429 = {
+    name = "Nephrina"
+    culture = "hulrethan"
+    faith = "sylvan_heart"
+    female = yes
+    dynasty = HULRD9 #HulrDyn9
+    father = HULR_446 #Tolched
+    mother = HULR_10 #Corlifa
+    574.1.1 = {
+        birth = yes
+    }
+}
+
+HULR_43 = {
+    name = "Canphird"
+    culture = "hulrethan"
+    faith = "sylvan_heart"
+    dynasty = HULRD10 #HulrDyn10
+    father = HULR_61 #Conached
+    mother = HULR_173 #Tolchena
+    579.1.1 = {
+        birth = yes
+    }
+}
+
+HULR_430 = {
+    name = "Algais"
+    culture = "hulrethan"
+    faith = "sylvan_heart"
+    dynasty = HULRD9 #HulrDyn9
+    father = HULR_441 #Hephri
+    mother = HULR_1 #Deneria
+    578.1.1 = {
+        birth = yes
+    }
+}
+
+HULR_431 = {
+    name = "Alrof"
+    culture = "hulrethan"
+    faith = "sylvan_heart"
+    dynasty = HULRD9 #HulrDyn9
+    father = HULR_446 #Tolched
+    mother = HULR_10 #Corlifa
+    569.1.1 = {
+        birth = yes
+    }
+    586.1.1 = {
+        add_spouse = HULR_401 #Marguerite397
+    }
+}
+
+HULR_432 = {
+    name = "Winetha"
+    culture = "hulrethan"
+    faith = "sylvan_heart"
+    female = yes
+    dynasty = HULRD9 #HulrDyn9
+    father = HULR_448 #Recrof
+    mother = HULR_9 #Corlifa
+    550.1.1 = {
+        birth = yes
+    }
+    570.1.1 = {
+        add_spouse = HULR_210 #Erard122
+    }
+}
+
+HULR_433 = {
+    name = "Wolrisa"
+    culture = "hulrethan"
+    faith = "sylvan_heart"
+    female = yes
+    dynasty = HULRD9 #HulrDyn9
+    father = HULR_448 #Recrof
+    mother = HULR_9 #Corlifa
+    551.1.1 = {
+        birth = yes
+    }
+    571.1.1 = {
+        add_spouse = HULR_417 #Suger168
+    }
+}
+
+HULR_434 = {
+    name = "Ronela"
+    culture = "hulrethan"
+    faith = "sylvan_heart"
+    female = yes
+    dynasty = HULRD9 #HulrDyn9
+    father = HULR_441 #Hephri
+    mother = HULR_1 #Deneria
+    575.1.1 = {
+        birth = yes
+    }
+}
+
+HULR_435 = {
+    name = "Coidril"
+    culture = "hulrethan"
+    faith = "sylvan_heart"
+    dynasty = HULRD9 #HulrDyn9
+    father = HULR_446 #Tolched
+    mother = HULR_10 #Corlifa
+    571.1.1 = {
+        birth = yes
+    }
+    586.1.1 = {
+        add_spouse = HULR_403 #Melisende421
+    }
+}
+
+HULR_436 = {
+    name = "Henerof"
+    culture = "hulrethan"
+    faith = "sylvan_heart"
+    dynasty = HULRD9 #HulrDyn9
+    father = HULR_428 #Cordagael
+    519.1.1 = {
+        birth = yes
+    }
+    540.1.1 = {
+        add_spouse = HULR_404 #Nicole39
+    }
+    578.1.1 = {
+        death = yes
+    }
+}
+
+HULR_437 = {
+    name = "Recra"
+    culture = "hulrethan"
+    faith = "sylvan_heart"
+    female = yes
+    dynasty = HULRD9 #HulrDyn9
+    father = HULR_446 #Tolched
+    mother = HULR_10 #Corlifa
+    576.1.1 = {
+        birth = yes
+    }
+}
+
+HULR_438 = {
+    name = "Ponalria"
+    culture = "hulrethan"
+    faith = "sylvan_heart"
+    female = yes
+    dynasty = HULRD9 #HulrDyn9
+    father = HULR_427 #Winethed
+    mother = HULR_390 #Cofrisa
+    572.1.1 = {
+        birth = yes
+    }
+}
+
+HULR_439 = {
+    name = "Hanarith"
+    culture = "hulrethan"
+    faith = "sylvan_heart"
+    female = yes
+    dynasty = HULRD9 #HulrDyn9
+    father = HULR_448 #Recrof
+    mother = HULR_9 #Corlifa
+    553.1.1 = {
+        birth = yes
+    }
+    568.1.1 = {
+        add_spouse = HULR_229 #Raimbaud123
+    }
+}
+
+HULR_44 = {
+    name = "Hephria"
+    culture = "hulrethan"
+    faith = "sylvan_heart"
+    female = yes
+    dynasty = HULRD10 #HulrDyn10
+    father = HULR_62 #Urnes
+    mother = HULR_110 #Cordagela
+    573.1.1 = {
+        birth = yes
+    }
+}
+
+HULR_440 = {
+    name = "Deneria"
+    culture = "hulrethan"
+    faith = "sylvan_heart"
+    female = yes
+    dynasty = HULRD9 #HulrDyn9
+    father = HULR_436 #Henerof
+    mother = HULR_404 #Volacidia
+    553.1.1 = {
+        birth = yes
+    }
+    574.1.1 = {
+        add_spouse = HULR_418 #Suger169
+    }
+}
+
+HULR_441 = {
+    name = "Hephri"
+    culture = "hulrethan"
+    faith = "sylvan_heart"
+    dynasty = HULRD9 #HulrDyn9
+    father = HULR_436 #Henerof
+    mother = HULR_404 #Volacidia
+    550.1.1 = {
+        birth = yes
+    }
+    571.1.1 = {
+        add_spouse = HULR_1 #Aelis66
+    }
+}
+
+HULR_442 = {
+    name = "Ilrolph"
+    culture = "hulrethan"
+    faith = "sylvan_heart"
+    dynasty = HULRD9 #HulrDyn9
+    father = HULR_441 #Hephri
+    mother = HULR_1 #Deneria
+    572.1.1 = {
+        birth = yes
+    }
+}
+
+HULR_443 = {
+    name = "Corlifa"
+    culture = "hulrethan"
+    faith = "sylvan_heart"
+    female = yes
+    dynasty = HULRD9 #HulrDyn9
+    father = HULR_441 #Hephri
+    mother = HULR_1 #Deneria
+    576.1.1 = {
+        birth = yes
+    }
+}
+
+HULR_444 = {
+    name = "Cofrisa"
+    culture = "hulrethan"
+    faith = "sylvan_heart"
+    female = yes
+    dynasty = HULRD9 #HulrDyn9
+    father = HULR_428 #Cordagael
+    525.1.1 = {
+        birth = yes
+    }
+    543.1.1 = {
+        add_spouse = HULR_211 #Eudes12
+    }
+    579.1.1 = {
+        death = yes
+    }
+}
+
+HULR_445 = {
+    name = "Conachia"
+    culture = "hulrethan"
+    faith = "sylvan_heart"
+    female = yes
+    dynasty = HULRD9 #HulrDyn9
+    father = HULR_427 #Winethed
+    mother = HULR_390 #Cofrisa
+    570.1.1 = {
+        birth = yes
+    }
+}
+
+HULR_446 = {
+    name = "Tolched"
+    culture = "hulrethan"
+    faith = "sylvan_heart"
+    dynasty = HULRD9 #HulrDyn9
+    father = HULR_448 #Recrof
+    mother = HULR_9 #Corlifa
+    552.1.1 = {
+        birth = yes
+    }
+    568.1.1 = {
+        add_spouse = HULR_10 #Blanche70
+    }
+}
+
+HULR_447 = {
+    name = "Ronolf"
+    culture = "hulrethan"
+    faith = "sylvan_heart"
+    dynasty = HULRD9 #HulrDyn9
+    father = HULR_441 #Hephri
+    mother = HULR_1 #Deneria
+    573.1.1 = {
+        birth = yes
+    }
+}
+
+HULR_448 = {
+    name = "Recrof"
+    culture = "hulrethan"
+    faith = "sylvan_heart"
+    dynasty = HULRD9 #HulrDyn9
+    father = HULR_428 #Cordagael
+    516.1.1 = {
+        birth = yes
+    }
+    544.1.1 = {
+        add_spouse = HULR_9 #Blanche4
+    }
+    578.1.1 = {
+        death = yes
+    }
+}
+
+HULR_449 = {
+    name = "Ponalry"
+    culture = "hulrethan"
+    faith = "sylvan_heart"
+    dynasty = HULRD9 #HulrDyn9
+    father = HULR_441 #Hephri
+    mother = HULR_1 #Deneria
+    579.1.1 = {
+        birth = yes
+    }
+}
+
+HULR_45 = {
+    name = "Corlof"
+    culture = "hulrethan"
+    faith = "sylvan_heart"
+    dynasty = HULRD10 #HulrDyn10
+    father = HULR_57 #Belendir
+    517.1.1 = {
+        birth = yes
+    }
+    548.1.1 = {
+        add_spouse = HULR_92 #Jacquette55
+    }
+    582.1.1 = {
+        death = yes
+    }
+}
+
+HULR_46 = {
+    name = "Cordagela"
+    culture = "hulrethan"
+    faith = "sylvan_heart"
+    female = yes
+    dynasty = HULRD10 #HulrDyn10
+    father = HULR_55 #Volacidias
+    mother = HULR_120 #Inistesia
+    582.1.1 = {
+        birth = yes
+    }
+}
+
+HULR_47 = {
+    name = "Nephrid"
+    culture = "hulrethan"
+    faith = "sylvan_heart"
+    dynasty = HULRD10 #HulrDyn10
+    father = HULR_52 #Pelcrof
+    mother = HULR_162 #Volacidia
+    568.1.1 = {
+        birth = yes
+    }
+    586.1.1 = {
+        add_spouse = HULR_101 #Veronique240
+    }
+}
+
+HULR_48 = {
+    name = "Inisted"
+    culture = "hulrethan"
+    faith = "sylvan_heart"
+    dynasty = HULRD10 #HulrDyn10
+    father = HULR_62 #Urnes
+    mother = HULR_110 #Cordagela
+    571.1.1 = {
+        birth = yes
+    }
+    586.1.1 = {
+        add_spouse = HULR_84 #Euphrosine228
+    }
+}
+
+HULR_49 = {
+    name = "Ejeris"
+    culture = "hulrethan"
+    faith = "sylvan_heart"
+    dynasty = HULRD10 #HulrDyn10
+    father = HULR_62 #Urnes
+    mother = HULR_110 #Cordagela
+    575.1.1 = {
+        birth = yes
+    }
+}
+
+HULR_5 = {
+    name = "Canphira"
+    culture = "hulrethan"
+    faith = "sylvan_heart"
+    female = yes
+    dynasty = HULRD1 #HulrDyn1
+    father = HULR_32 #Olthedas
+    mother = HULR_63 #Tenaria
+    570.1.1 = {
+        birth = yes
+    }
+    586.1.1 = {
+        add_spouse = HULR_289 #Richard345
+    }
+}
+
+HULR_50 = {
+    name = "Ilneris"
+    culture = "hulrethan"
+    faith = "sylvan_heart"
+    female = yes
+    dynasty = HULRD10 #HulrDyn10
+    father = HULR_57 #Belendir
+    523.1.1 = {
+        birth = yes
+    }
+    538.1.1 = {
+        add_spouse = HULR_23 #Hugh2
+    }
+    572.1.1 = {
+        death = yes
+    }
+}
+
+HULR_51 = {
+    name = "Ilrolfa"
+    culture = "hulrethan"
+    faith = "sylvan_heart"
+    female = yes
+    dynasty = HULRD10 #HulrDyn10
+    father = HULR_52 #Pelcrof
+    mother = HULR_162 #Volacidia
+    569.1.1 = {
+        birth = yes
+    }
+    586.1.1 = {
+        add_spouse = HULR_322 #Jocelin366
+    }
+}
+
+HULR_52 = {
+    name = "Pelcrof"
+    culture = "hulrethan"
+    faith = "sylvan_heart"
+    dynasty = HULRD10 #HulrDyn10
+    father = HULR_45 #Corlof
+    mother = HULR_92 #Conachia
+    552.1.1 = {
+        birth = yes
+    }
+    566.1.1 = {
+        add_spouse = HULR_162 #Lucie105
+    }
+}
+
+HULR_53 = {
+    name = "Inistia"
+    culture = "hulrethan"
+    faith = "sylvan_heart"
+    female = yes
+    dynasty = HULRD10 #HulrDyn10
+    father = HULR_45 #Corlof
+    mother = HULR_92 #Conachia
+    554.1.1 = {
+        birth = yes
+    }
+    574.1.1 = {
+        add_spouse = HULR_33 #Pons72
+    }
+}
+
+HULR_54 = {
+    name = "Hanarist"
+    culture = "hulrethan"
+    faith = "sylvan_heart"
+    dynasty = HULRD10 #HulrDyn10
+    father = HULR_61 #Conached
+    mother = HULR_173 #Tolchena
+    575.1.1 = {
+        birth = yes
+    }
+}
+
+HULR_55 = {
+    name = "Volacidias"
+    culture = "hulrethan"
+    faith = "sylvan_heart"
+    dynasty = HULRD10 #HulrDyn10
+    father = HULR_45 #Corlof
+    mother = HULR_92 #Conachia
+    550.1.1 = {
+        birth = yes
+    }
+    577.1.1 = {
+        add_spouse = HULR_120 #Helene92
+    }
+}
+
+HULR_56 = {
+    name = "Inistesia"
+    culture = "hulrethan"
+    faith = "sylvan_heart"
+    female = yes
+    dynasty = HULRD10 #HulrDyn10
+    father = HULR_67 #Olthedas
+    mother = HULR_140 #Ponalria
+    551.1.1 = {
+        birth = yes
+    }
+    571.1.1 = {
+        add_spouse = HULR_3 #Arnaud181
+    }
+}
+
+HULR_57 = {
+    name = "Belendir"
+    culture = "hulrethan"
+    faith = "sylvan_heart"
+    dynasty = HULRD10 #HulrDyn10
+    489.1.1 = {
+        birth = yes
+    }
+    550.1.1 = {
+        death = yes
+    }
+}
+
+HULR_58 = {
+    name = "Volacidia"
+    culture = "hulrethan"
+    faith = "sylvan_heart"
+    female = yes
+    dynasty = HULRD10 #HulrDyn10
+    father = HULR_61 #Conached
+    mother = HULR_173 #Tolchena
+    574.1.1 = {
+        birth = yes
+    }
+}
+
+HULR_59 = {
+    name = "Acrista"
+    culture = "hulrethan"
+    faith = "sylvan_heart"
+    female = yes
+    dynasty = HULRD10 #HulrDyn10
+    father = HULR_57 #Belendir
+    526.1.1 = {
+        birth = yes
+    }
+    548.1.1 = {
+        add_spouse = HULR_14 #Evrard3
+    }
+    575.1.1 = {
+        death = yes
+    }
+}
+
+HULR_6 = {
+    name = "Algaisa"
+    culture = "hulrethan"
+    faith = "sylvan_heart"
+    female = yes
+    dynasty = HULRD1 #HulrDyn1
+    father = HULR_39 #Algais
+    mother = HULR_94 #Cordagela
+    581.1.1 = {
+        birth = yes
+    }
+}
+
+HULR_60 = {
+    name = "Alriva"
+    culture = "hulrethan"
+    faith = "sylvan_heart"
+    female = yes
+    dynasty = HULRD10 #HulrDyn10
+    father = HULR_55 #Volacidias
+    mother = HULR_120 #Inistesia
+    580.1.1 = {
+        birth = yes
+    }
+}
+
+HULR_61 = {
+    name = "Conached"
+    culture = "hulrethan"
+    faith = "sylvan_heart"
+    dynasty = HULRD10 #HulrDyn10
+    father = HULR_67 #Olthedas
+    mother = HULR_140 #Ponalria
+    555.1.1 = {
+        birth = yes
+    }
+    573.1.1 = {
+        add_spouse = HULR_173 #Adelaide107
+    }
+}
+
+HULR_62 = {
+    name = "Urnes"
+    culture = "hulrethan"
+    faith = "sylvan_heart"
+    dynasty = HULRD10 #HulrDyn10
+    father = HULR_67 #Olthedas
+    mother = HULR_140 #Ponalria
+    550.1.1 = {
+        birth = yes
+    }
+    570.1.1 = {
+        add_spouse = HULR_110 #Clemence98
+    }
+}
+
+HULR_63 = {
+    name = "Tenaria"
+    culture = "hulrethan"
+    faith = "sylvan_heart"
+    female = yes
+    dynasty = HULRD10 #HulrDyn10
+    father = HULR_67 #Olthedas
+    mother = HULR_140 #Ponalria
+    553.1.1 = {
+        birth = yes
+    }
+    569.1.1 = {
+        add_spouse = HULR_32 #Pons71
+    }
+}
+
+HULR_64 = {
+    name = "Tolchena"
+    culture = "hulrethan"
+    faith = "sylvan_heart"
+    female = yes
+    dynasty = HULRD10 #HulrDyn10
+    father = HULR_52 #Pelcrof
+    mother = HULR_162 #Volacidia
+    571.1.1 = {
+        birth = yes
+    }
+    586.1.1 = {
+        add_spouse = HULR_317 #Heribert357
+    }
+}
+
+HULR_65 = {
+    name = "Ejeria"
+    culture = "hulrethan"
+    faith = "sylvan_heart"
+    female = yes
+    dynasty = HULRD10 #HulrDyn10
+    father = HULR_55 #Volacidias
+    mother = HULR_120 #Inistesia
+    578.1.1 = {
+        birth = yes
+    }
+}
+
+HULR_66 = {
+    name = "Olthedra"
+    culture = "hulrethan"
+    faith = "sylvan_heart"
+    female = yes
+    dynasty = HULRD10 #HulrDyn10
+    father = HULR_55 #Volacidias
+    mother = HULR_120 #Inistesia
+    579.1.1 = {
+        birth = yes
+    }
+}
+
+HULR_67 = {
+    name = "Olthedas"
+    culture = "hulrethan"
+    faith = "sylvan_heart"
+    dynasty = HULRD10 #HulrDyn10
+    father = HULR_57 #Belendir
+    520.1.1 = {
+        birth = yes
+    }
+    549.1.1 = {
+        add_spouse = HULR_140 #Theodora60
+    }
+    583.1.1 = {
+        death = yes
+    }
+}
+
+HULR_68 = {
+    name = "Olanphria"
+    culture = "hulrethan"
+    faith = "sylvan_heart"
+    female = yes
+    dynasty = HULRD10 #HulrDyn10
+    father = HULR_67 #Olthedas
+    mother = HULR_140 #Ponalria
+    559.1.1 = {
+        birth = yes
+    }
+    570.1.1 = {
+        add_spouse = HULR_2 #Amaury73
+    }
+}
+
+HULR_69 = {
+    name = "Olthena"
+    culture = "hulrethan"
+    faith = "sylvan_heart"
+    female = yes
+    dynasty = HULRD11 #HulrDyn11
+    father = HULR_97 #Ponalry
+    mother = HULR_193 #Hanarith
+    574.1.1 = {
+        birth = yes
+    }
+}
+
+HULR_7 = {
+    name = "Geosphry"
+    culture = "hulrethan"
+    faith = "sylvan_heart"
+    dynasty = HULRD1 #HulrDyn1
+    father = HULR_2 #Recrof
+    mother = HULR_68 #Olanphria
+    571.1.1 = {
+        birth = yes
+    }
+    586.1.1 = {
+        add_spouse = HULR_40 #Adelaide214
+    }
+}
+
+HULR_70 = {
+    name = "Nephrina"
+    culture = "hulrethan"
+    faith = "sylvan_heart"
+    female = yes
+    dynasty = HULRD11 #HulrDyn11
+    father = HULR_77 #Cordagael
+    mother = HULR_192 #Ponalria
+    573.1.1 = {
+        birth = yes
+    }
+}
+
+HULR_71 = {
+    name = "Winetha"
+    culture = "hulrethan"
+    faith = "sylvan_heart"
+    female = yes
+    dynasty = HULRD11 #HulrDyn11
+    father = HULR_99 #Nephrid
+    mother = HULR_148 #Deneria
+    550.1.1 = {
+        birth = yes
+    }
+    577.1.1 = {
+        add_spouse = HULR_256 #Richard133
+    }
+}
+
+HULR_72 = {
+    name = "Wolrisa"
+    culture = "hulrethan"
+    faith = "sylvan_heart"
+    female = yes
+    dynasty = HULRD11 #HulrDyn11
+    father = HULR_77 #Cordagael
+    mother = HULR_192 #Ponalria
+    571.1.1 = {
+        birth = yes
+    }
+    586.1.1 = {
+        add_spouse = HULR_325 #Olivier361
+    }
+}
+
+HULR_73 = {
+    name = "Ronela"
+    culture = "hulrethan"
+    faith = "sylvan_heart"
+    female = yes
+    dynasty = HULRD11 #HulrDyn11
+    father = HULR_86 #Henerof
+    mother = HULR_184 #Nephrina
+    583.1.1 = {
+        birth = yes
+    }
+}
+
+HULR_74 = {
+    name = "Olanthred"
+    culture = "hulrethan"
+    faith = "sylvan_heart"
+    dynasty = HULRD11 #HulrDyn11
+    father = HULR_86 #Henerof
+    mother = HULR_184 #Nephrina
+    587.1.1 = {
+        birth = yes
+    }
+}
+
+HULR_75 = {
+    name = "Wolrof"
+    culture = "hulrethan"
+    faith = "sylvan_heart"
+    dynasty = HULRD11 #HulrDyn11
+    480.1.1 = {
+        birth = yes
+    }
+    554.1.1 = {
+        death = yes
+    }
+}
+
+HULR_76 = {
+    name = "Winethed"
+    culture = "hulrethan"
+    faith = "sylvan_heart"
+    dynasty = HULRD11 #HulrDyn11
+    father = HULR_79 #Canphird
+    mother = HULR_174 #Ejeria
+    550.1.1 = {
+        birth = yes
+    }
+    574.1.1 = {
+        add_spouse = HULR_198 #Veronique113
+    }
+}
+
+HULR_77 = {
+    name = "Cordagael"
+    culture = "hulrethan"
+    faith = "sylvan_heart"
+    dynasty = HULRD11 #HulrDyn11
+    father = HULR_79 #Canphird
+    mother = HULR_174 #Ejeria
+    552.1.1 = {
+        birth = yes
+    }
+    566.1.1 = {
+        add_spouse = HULR_192 #Radegonde111
+    }
+}
+
+HULR_78 = {
+    name = "Recra"
+    culture = "hulrethan"
+    faith = "sylvan_heart"
+    female = yes
+    dynasty = HULRD11 #HulrDyn11
+    father = HULR_76 #Winethed
+    mother = HULR_198 #Corlifa
+    577.1.1 = {
+        birth = yes
+    }
+}
+
+HULR_79 = {
+    name = "Canphird"
+    culture = "hulrethan"
+    faith = "sylvan_heart"
+    dynasty = HULRD11 #HulrDyn11
+    father = HULR_75 #Wolrof
+    521.1.1 = {
+        birth = yes
+    }
+    539.1.1 = {
+        add_spouse = HULR_174 #Alienor10
+    }
+    582.1.1 = {
+        death = yes
+    }
+}
+
+HULR_8 = {
+    name = "Ponalria"
+    culture = "hulrethan"
+    faith = "sylvan_heart"
+    female = yes
+    dynasty = HULRD1 #HulrDyn1
+    father = HULR_17 #Conached
+    mother = HULR_122 #Acrista
+    577.1.1 = {
+        birth = yes
+    }
+}
+
+HULR_80 = {
+    name = "Algais"
+    culture = "hulrethan"
+    faith = "sylvan_heart"
+    dynasty = HULRD11 #HulrDyn11
+    father = HULR_86 #Henerof
+    mother = HULR_184 #Nephrina
+    581.1.1 = {
+        birth = yes
+    }
+}
+
+HULR_81 = {
+    name = "Hanarith"
+    culture = "hulrethan"
+    faith = "sylvan_heart"
+    female = yes
+    dynasty = HULRD11 #HulrDyn11
+    father = HULR_86 #Henerof
+    mother = HULR_184 #Nephrina
+    585.1.1 = {
+        birth = yes
+    }
+}
+
+HULR_82 = {
+    name = "Alrof"
+    culture = "hulrethan"
+    faith = "sylvan_heart"
+    dynasty = HULRD11 #HulrDyn11
+    father = HULR_97 #Ponalry
+    mother = HULR_193 #Hanarith
+    570.1.1 = {
+        birth = yes
+    }
+    586.1.1 = {
+        add_spouse = HULR_112 #Euphrosine266
+    }
+}
+
+HULR_83 = {
+    name = "Hephria"
+    culture = "hulrethan"
+    faith = "sylvan_heart"
+    female = yes
+    dynasty = HULRD11 #HulrDyn11
+    father = HULR_76 #Winethed
+    mother = HULR_198 #Corlifa
+    575.1.1 = {
+        birth = yes
+    }
+}
+
+HULR_84 = {
+    name = "Deneria"
+    culture = "hulrethan"
+    faith = "sylvan_heart"
+    female = yes
+    dynasty = HULRD11 #HulrDyn11
+    father = HULR_97 #Ponalry
+    mother = HULR_193 #Hanarith
+    569.1.1 = {
+        birth = yes
+    }
+    586.1.1 = {
+        add_spouse = HULR_48 #Charles211
+    }
+}
+
+HULR_85 = {
+    name = "Coidril"
+    culture = "hulrethan"
+    faith = "sylvan_heart"
+    dynasty = HULRD11 #HulrDyn11
+    father = HULR_77 #Cordagael
+    mother = HULR_192 #Ponalria
+    567.1.1 = {
+        birth = yes
+    }
+    586.1.1 = {
+        add_spouse = HULR_129 #Marguerite253
+    }
+}
+
+HULR_86 = {
+    name = "Henerof"
+    culture = "hulrethan"
+    faith = "sylvan_heart"
+    dynasty = HULRD11 #HulrDyn11
+    father = HULR_99 #Nephrid
+    mother = HULR_148 #Deneria
+    552.1.1 = {
+        birth = yes
+    }
+    578.1.1 = {
+        add_spouse = HULR_184 #Isabelle110
+    }
+}
+
+HULR_87 = {
+    name = "Hephri"
+    culture = "hulrethan"
+    faith = "sylvan_heart"
+    dynasty = HULRD11 #HulrDyn11
+    father = HULR_97 #Ponalry
+    mother = HULR_193 #Hanarith
+    575.1.1 = {
+        birth = yes
+    }
+}
+
+HULR_88 = {
+    name = "Ilrolph"
+    culture = "hulrethan"
+    faith = "sylvan_heart"
+    dynasty = HULRD11 #HulrDyn11
+    father = HULR_86 #Henerof
+    mother = HULR_184 #Nephrina
+    579.1.1 = {
+        birth = yes
+    }
+}
+
+HULR_89 = {
+    name = "Tolched"
+    culture = "hulrethan"
+    faith = "sylvan_heart"
+    dynasty = HULRD11 #HulrDyn11
+    father = HULR_86 #Henerof
+    mother = HULR_184 #Nephrina
+    586.1.1 = {
+        birth = yes
+    }
+}
+
+HULR_9 = {
+    name = "Corlifa"
+    culture = "hulrethan"
+    faith = "sylvan_heart"
+    female = yes
+    dynasty = HULRD1 #HulrDyn1
+    father = HULR_29 #Hephri
+    521.1.1 = {
+        birth = yes
+    }
+    544.1.1 = {
+        add_spouse = HULR_448 #Renaud42
+    }
+    579.1.1 = {
+        death = yes
+    }
+}
+
+HULR_90 = {
+    name = "Ronolf"
+    culture = "hulrethan"
+    faith = "sylvan_heart"
+    dynasty = HULRD11 #HulrDyn11
+    father = HULR_77 #Cordagael
+    mother = HULR_192 #Ponalria
+    570.1.1 = {
+        birth = yes
+    }
+    586.1.1 = {
+        add_spouse = HULR_163 #Marguerite274
+    }
+}
+
+HULR_91 = {
+    name = "Cofrisa"
+    culture = "hulrethan"
+    faith = "sylvan_heart"
+    female = yes
+    dynasty = HULRD11 #HulrDyn11
+    father = HULR_97 #Ponalry
+    mother = HULR_193 #Hanarith
+    572.1.1 = {
+        birth = yes
+    }
+}
+
+HULR_92 = {
+    name = "Conachia"
+    culture = "hulrethan"
+    faith = "sylvan_heart"
+    female = yes
+    dynasty = HULRD11 #HulrDyn11
+    father = HULR_75 #Wolrof
+    527.1.1 = {
+        birth = yes
+    }
+    548.1.1 = {
+        add_spouse = HULR_45 #Baldwin47
+    }
+    575.1.1 = {
+        death = yes
+    }
+}
+
+HULR_93 = {
+    name = "Recrof"
+    culture = "hulrethan"
+    faith = "sylvan_heart"
+    dynasty = HULRD11 #HulrDyn11
+    father = HULR_77 #Cordagael
+    mother = HULR_192 #Ponalria
+    574.1.1 = {
+        birth = yes
+    }
+}
+
+HULR_94 = {
+    name = "Cordagela"
+    culture = "hulrethan"
+    faith = "sylvan_heart"
+    female = yes
+    dynasty = HULRD11 #HulrDyn11
+    father = HULR_79 #Canphird
+    mother = HULR_174 #Ejeria
+    554.1.1 = {
+        birth = yes
+    }
+    578.1.1 = {
+        add_spouse = HULR_39 #Thierry68
+    }
+}
+
+HULR_95 = {
+    name = "Canphira"
+    culture = "hulrethan"
+    faith = "sylvan_heart"
+    female = yes
+    dynasty = HULRD11 #HulrDyn11
+    father = HULR_75 #Wolrof
+    524.1.1 = {
+        birth = yes
+    }
+    546.1.1 = {
+        add_spouse = HULR_244 #Gautier17
+    }
+    583.1.1 = {
+        death = yes
+    }
+}
+
+HULR_96 = {
+    name = "Ilneris"
+    culture = "hulrethan"
+    faith = "sylvan_heart"
+    female = yes
+    dynasty = HULRD11 #HulrDyn11
+    father = HULR_76 #Winethed
+    mother = HULR_198 #Corlifa
+    576.1.1 = {
+        birth = yes
+    }
+}
+
+HULR_97 = {
+    name = "Ponalry"
+    culture = "hulrethan"
+    faith = "sylvan_heart"
+    dynasty = HULRD11 #HulrDyn11
+    father = HULR_99 #Nephrid
+    mother = HULR_148 #Deneria
+    551.1.1 = {
+        birth = yes
+    }
+    567.1.1 = {
+        add_spouse = HULR_193 #Radegonde114
+    }
+}
+
+HULR_98 = {
+    name = "Corlof"
+    culture = "hulrethan"
+    faith = "sylvan_heart"
+    dynasty = HULRD11 #HulrDyn11
+    father = HULR_76 #Winethed
+    mother = HULR_198 #Corlifa
+    581.1.1 = {
+        birth = yes
+    }
+}
+
+HULR_99 = {
+    name = "Nephrid"
+    culture = "hulrethan"
+    faith = "sylvan_heart"
+    dynasty = HULRD11 #HulrDyn11
+    father = HULR_75 #Wolrof
+    518.1.1 = {
+        birth = yes
+    }
+    539.1.1 = {
+        add_spouse = HULR_148 #Constance65
+    }
+    581.1.1 = {
+        death = yes
+    }
+}
+

@@ -1,0 +1,418 @@
+#k_eastk1
+##d_duchyeastk1 ###################################
+###c_240
+969 = {	#placeholder
+	culture = hulrethan
+	religion = sylvan_heart
+	holding = castle_holding
+}
+966 = {	#placeholder
+	holding = city_holding
+}
+968 = {	#placeholder
+	holding = church_holding
+}
+965 = {	#placeholder
+	holding = none
+}
+###c_241
+964 = {	#placeholder
+	culture = hulrethan
+	religion = sylvan_heart
+	holding = castle_holding
+}
+963 = {	#placeholder
+	holding = city_holding
+}
+###c_242
+962 = {	#placeholder
+	culture = hulrethan
+	religion = sylvan_heart
+	holding = castle_holding
+}
+967 = {	#placeholder
+	holding = city_holding
+}
+961 = {	#placeholder
+	holding = none
+}
+###c_243
+##d_duchy41 ###################################
+958 = {	#placeholder
+	culture = hulrethan
+	religion = sylvan_heart
+	holding = castle_holding
+}
+959 = {	#placeholder
+	holding = city_holding
+}
+960 = {	#placeholder
+	holding = church_holding
+}
+###c_244
+905 = {	#placeholder
+	culture = hulrethan
+	religion = sylvan_heart
+	holding = castle_holding
+}
+902 = {	#placeholder
+	holding = none
+}
+906 = {	#placeholder
+	holding = church_holding
+}
+907 = {	#placeholder
+	holding = none
+}
+###c_245
+898 = {	#placeholder
+	culture = hulrethan
+	religion = sylvan_heart
+	holding = castle_holding
+}
+899 = {	#placeholder
+	holding = city_holding
+}
+900 = {	#placeholder
+	holding = none
+}
+901 = {	#placeholder
+	holding = none
+}
+###c_246
+908 = {	#placeholder
+	culture = hulrethan
+	religion = sylvan_heart
+	holding = castle_holding
+}
+903 = {	#placeholder
+	holding = city_holding
+}
+909 = {	#placeholder
+	holding = none
+}
+###c_247
+910 = {	#placeholder
+	culture = hulrethan
+	religion = sylvan_heart
+	holding = castle_holding
+}
+911 = {	#placeholder
+	holding = city_holding
+}
+904 = {	#placeholder
+	holding = none
+}
+912 = {	#placeholder
+	holding = none
+}
+###c_248
+915 = {	#placeholder
+	culture = hulrethan
+	religion = sylvan_heart
+	holding = castle_holding
+}
+913 = {	#placeholder
+	holding = city_holding
+}
+914 = {	#placeholder
+	holding = none
+}
+###c_249
+918 = {	#placeholder
+	culture = hulrethan
+	religion = sylvan_heart
+	holding = castle_holding
+}
+916 = {	#placeholder
+	holding = city_holding
+}
+917 = {	#placeholder
+	holding = church_holding
+}
+###c_250
+923 = {	#placeholder
+	culture = hulrethan
+	religion = sylvan_heart
+	holding = castle_holding
+}
+922 = {	#placeholder
+	holding = none
+}
+924 = {	#placeholder
+	holding = church_holding
+}
+###c_251
+##d_duchy42 ###################################
+919 = {	#placeholder
+	culture = hulrethan
+	religion = sylvan_heart
+	holding = castle_holding
+}
+920 = {	#placeholder
+	holding = city_holding
+}
+921 = {	#placeholder
+	holding = church_holding
+}
+###c_252
+934 = {	#placeholder
+	culture = hulrethan
+	religion = sylvan_heart
+	holding = castle_holding
+}
+937 = {	#placeholder
+	holding = city_holding
+}
+936 = {	#placeholder
+	holding = church_holding
+}
+935 = {	#placeholder
+	holding = none
+}
+###c_253
+929 = {	#placeholder
+	culture = hulrethan
+	religion = sylvan_heart
+	holding = castle_holding
+}
+933 = {	#placeholder
+	holding = city_holding
+}
+932 = {	#placeholder
+	holding = none
+}
+###c_254
+925 = {	#placeholder
+	culture = hulrethan
+	religion = sylvan_heart
+	holding = castle_holding
+}
+927 = {	#placeholder
+	holding = none
+}
+926 = {	#placeholder
+	holding = church_holding
+}
+###c_255
+930 = {	#placeholder
+	culture = hulrethan
+	religion = sylvan_heart
+	holding = castle_holding
+}
+928 = {	#placeholder
+	holding = city_holding
+}
+931 = {	#placeholder
+	holding = church_holding
+}
+###c_256
+938 = {	#placeholder
+	culture = hulrethan
+	religion = sylvan_heart
+	holding = castle_holding
+}
+939 = {	#placeholder
+	holding = city_holding
+}
+940 = {	#placeholder
+	holding = none
+}
+941 = {	#placeholder
+	holding = none
+}
+###c_257
+945 = {	#placeholder
+	culture = hulrethan
+	religion = sylvan_heart
+	holding = castle_holding
+}
+947 = {	#placeholder
+	holding = city_holding
+}
+946 = {	#placeholder
+	holding = none
+}
+###c_258
+##d_duchy43 ###################################
+944 = {	#placeholder
+	culture = hulrethan
+	religion = sylvan_heart
+	holding = castle_holding
+}
+942 = {	#placeholder
+	holding = city_holding
+}
+943 = {	#placeholder
+	holding = church_holding
+}
+###c_259
+948 = {	#placeholder
+	culture = hulrethan
+	religion = sylvan_heart
+	holding = castle_holding
+}
+950 = {	#placeholder
+	holding = none
+}
+949 = {	#placeholder
+	holding = church_holding
+}
+###c_260
+951 = {	#placeholder
+	culture = hulrethan
+	religion = sylvan_heart
+	holding = castle_holding
+}
+952 = {	#placeholder
+	holding = city_holding
+}
+953 = {	#placeholder
+	holding = church_holding
+}
+###c_261
+##d_duchy44 ###################################
+956 = {	#placeholder
+	culture = hulrethan
+	religion = sylvan_heart
+	holding = castle_holding
+}
+954 = {	#placeholder
+	holding = city_holding
+}
+955 = {	#placeholder
+	holding = church_holding
+}
+957 = {	#placeholder
+	holding = none
+}
+###c_262
+982 = {	#placeholder
+	culture = hulrethan
+	religion = sylvan_heart
+	holding = castle_holding
+}
+981 = {	#placeholder
+	holding = city_holding
+}
+983 = {	#placeholder
+	holding = none
+}
+980 = {	#placeholder
+	holding = none
+}
+###c_262a
+972 = {	#placeholder
+	culture = hulrethan
+	religion = sylvan_heart
+	holding = castle_holding
+}
+973 = {	#placeholder
+	holding = city_holding
+}
+971 = {	#placeholder
+	holding = none
+}
+970 = {	#placeholder
+	holding = none
+}
+###c_263
+974 = {	#placeholder
+	culture = hulrethan
+	religion = sylvan_heart
+	holding = castle_holding
+}
+977 = {	#placeholder
+	holding = city_holding
+}
+975 = {	#placeholder
+	holding = church_holding
+}
+###c_264
+978 = {	#placeholder
+	culture = hulrethan
+	religion = sylvan_heart
+	holding = castle_holding
+}
+976 = {	#placeholder
+	holding = city_holding
+}
+979 = {	#placeholder
+	holding = church_holding
+}
+###c_265
+##d_duchy45 ###################################
+985 = {	#placeholder
+	culture = hulrethan
+	religion = sylvan_heart
+	holding = castle_holding
+}
+984 = {	#placeholder
+	holding = city_holding
+}
+###c_266
+989 = {	#placeholder
+	culture = hulrethan
+	religion = sylvan_heart
+	holding = castle_holding
+}
+987 = {	#placeholder
+	holding = none
+}
+988 = {	#placeholder
+	holding = church_holding
+}
+986 = {	#placeholder
+	holding = none
+}
+###c_267
+1001 = {	#placeholder
+	culture = hulrethan
+	religion = sylvan_heart
+	holding = castle_holding
+}
+999 = {	#placeholder
+	holding = city_holding
+}
+1000 = {	#placeholder
+	holding = none
+}
+1002 = {	#placeholder
+	holding = none
+}
+###c_268
+997 = {	#placeholder
+	culture = hulrethan
+	religion = sylvan_heart
+	holding = castle_holding
+}
+996 = {	#placeholder
+	holding = city_holding
+}
+998 = {	#placeholder
+	holding = none
+}
+###c_269
+991 = {	#placeholder
+	culture = hulrethan
+	religion = sylvan_heart
+	holding = castle_holding
+}
+990 = {	#placeholder
+	holding = city_holding
+}
+992 = {	#placeholder
+	holding = church_holding
+}
+###c_270
+995 = {	#placeholder
+	culture = hulrethan
+	religion = sylvan_heart
+	holding = castle_holding
+}
+994 = {	#placeholder
+	holding = city_holding
+}
+993 = {	#placeholder
+	holding = none
+}

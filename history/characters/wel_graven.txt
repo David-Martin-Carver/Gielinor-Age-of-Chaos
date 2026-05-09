@@ -1,0 +1,8872 @@
+WELG_1 = {
+    name = "Aili243"
+    culture = "wel_gravan"
+    faith = "stonegods"
+    female = yes
+    dynasty = WELGD1 #WelgDyn1
+    538.1.1 = {
+        birth = yes
+    }
+    573.1.1 = {
+        add_spouse = WELG_606 #Joona213
+    }
+}
+
+WELG_10 = {
+    name = "Ilmari271"
+    culture = "wel_gravan"
+    faith = "stonegods"
+    dynasty = WELGD1 #WelgDyn1
+    father = WELG_9 #Hannu84
+    mother = WELG_70 #Katariina96
+    571.1.1 = {
+        birth = yes
+    }
+    586.1.1 = {
+        add_spouse = WELG_73 #Lotta317
+    }
+}
+
+WELG_100 = {
+    name = "Aili336"
+    culture = "wel_gravan"
+    faith = "stonegods"
+    female = yes
+    dynasty = WELGD11 #WelgDyn11
+    father = WELG_131 #Tapio103
+    mother = WELG_297 #Veera239
+    573.1.1 = {
+        birth = yes
+    }
+}
+
+WELG_101 = {
+    name = "Aili54"
+    culture = "wel_gravan"
+    faith = "stonegods"
+    female = yes
+    dynasty = WELGD11 #WelgDyn11
+    father = WELG_116 #Kalevi51
+    524.1.1 = {
+        birth = yes
+    }
+    544.1.1 = {
+        add_spouse = WELG_356 #Veikko8
+    }
+    568.1.1 = {
+        death = yes
+    }
+}
+
+WELG_102 = {
+    name = "Aino347"
+    culture = "wel_gravan"
+    faith = "stonegods"
+    female = yes
+    dynasty = WELGD11 #WelgDyn11
+    father = WELG_141 #Veli109
+    mother = WELG_307 #Hanna242
+    577.1.1 = {
+        birth = yes
+    }
+}
+
+WELG_103 = {
+    name = "Antti343"
+    culture = "wel_gravan"
+    faith = "stonegods"
+    dynasty = WELGD11 #WelgDyn11
+    father = WELG_139 #Valto107
+    mother = WELG_282 #Kaisa136
+    575.1.1 = {
+        birth = yes
+    }
+}
+
+WELG_104 = {
+    name = "Eero327"
+    culture = "wel_gravan"
+    faith = "stonegods"
+    dynasty = WELGD11 #WelgDyn11
+    father = WELG_99 #Aapo102
+    mother = WELG_213 #Sini254
+    577.1.1 = {
+        birth = yes
+    }
+}
+
+WELG_105 = {
+    name = "Elina334"
+    culture = "wel_gravan"
+    faith = "stonegods"
+    female = yes
+    dynasty = WELGD11 #WelgDyn11
+    father = WELG_138 #Vaino106
+    mother = WELG_188 #Inkeri124
+    580.1.1 = {
+        birth = yes
+    }
+}
+
+WELG_106 = {
+    name = "Esko322"
+    culture = "wel_gravan"
+    faith = "stonegods"
+    dynasty = WELGD11 #WelgDyn11
+    father = WELG_120 #Lauri105
+    mother = WELG_185 #Helmi223
+    576.1.1 = {
+        birth = yes
+    }
+}
+
+WELG_107 = {
+    name = "Hanna101"
+    culture = "wel_gravan"
+    faith = "stonegods"
+    female = yes
+    dynasty = WELGD11 #WelgDyn11
+    father = WELG_109 #Hannu52
+    mother = WELG_209 #Riikka65
+    550.1.1 = {
+        birth = yes
+    }
+    566.1.1 = {
+        add_spouse = WELG_395 #Valto161
+    }
+}
+
+WELG_108 = {
+    name = "Hannele321"
+    culture = "wel_gravan"
+    faith = "stonegods"
+    female = yes
+    dynasty = WELGD11 #WelgDyn11
+    father = WELG_120 #Lauri105
+    mother = WELG_185 #Helmi223
+    575.1.1 = {
+        birth = yes
+    }
+}
+
+WELG_109 = {
+    name = "Hannu52"
+    culture = "wel_gravan"
+    faith = "stonegods"
+    dynasty = WELGD11 #WelgDyn11
+    father = WELG_116 #Kalevi51
+    518.1.1 = {
+        birth = yes
+    }
+    549.1.1 = {
+        add_spouse = WELG_209 #Riikka65
+    }
+    581.1.1 = {
+        death = yes
+    }
+}
+
+WELG_11 = {
+    name = "Jaana259"
+    culture = "wel_gravan"
+    faith = "stonegods"
+    female = yes
+    dynasty = WELGD1 #WelgDyn1
+    father = WELG_34 #Tapio81
+    mother = WELG_69 #Katariina256
+    579.1.1 = {
+        birth = yes
+    }
+}
+
+WELG_110 = {
+    name = "Iida108"
+    culture = "wel_gravan"
+    faith = "stonegods"
+    female = yes
+    dynasty = WELGD11 #WelgDyn11
+    father = WELG_142 #Veli53
+    mother = WELG_232 #Iida70
+    554.1.1 = {
+        birth = yes
+    }
+    568.1.1 = {
+        add_spouse = WELG_371 #Markku166
+    }
+}
+
+WELG_111 = {
+    name = "Iida230"
+    culture = "wel_gravan"
+    faith = "stonegods"
+    female = yes
+    dynasty = WELGD11 #WelgDyn11
+    545.1.1 = {
+        birth = yes
+    }
+    575.1.1 = {
+        add_spouse = WELG_64 #Jari97
+    }
+}
+
+WELG_112 = {
+    name = "Johanna325"
+    culture = "wel_gravan"
+    faith = "stonegods"
+    female = yes
+    dynasty = WELGD11 #WelgDyn11
+    father = WELG_99 #Aapo102
+    mother = WELG_213 #Sini254
+    573.1.1 = {
+        birth = yes
+    }
+}
+
+WELG_113 = {
+    name = "Johanna328"
+    culture = "wel_gravan"
+    faith = "stonegods"
+    female = yes
+    dynasty = WELGD11 #WelgDyn11
+    father = WELG_99 #Aapo102
+    mother = WELG_213 #Sini254
+    578.1.1 = {
+        birth = yes
+    }
+}
+
+WELG_114 = {
+    name = "Juhani345"
+    culture = "wel_gravan"
+    faith = "stonegods"
+    dynasty = WELGD11 #WelgDyn11
+    father = WELG_141 #Veli109
+    mother = WELG_307 #Hanna242
+    574.1.1 = {
+        birth = yes
+    }
+}
+
+WELG_115 = {
+    name = "Kalevi326"
+    culture = "wel_gravan"
+    faith = "stonegods"
+    dynasty = WELGD11 #WelgDyn11
+    father = WELG_99 #Aapo102
+    mother = WELG_213 #Sini254
+    575.1.1 = {
+        birth = yes
+    }
+}
+
+WELG_116 = {
+    name = "Kalevi51"
+    culture = "wel_gravan"
+    faith = "stonegods"
+    dynasty = WELGD11 #WelgDyn11
+    480.1.1 = {
+        birth = yes
+    }
+    555.1.1 = {
+        death = yes
+    }
+}
+
+WELG_117 = {
+    name = "Katariina335"
+    culture = "wel_gravan"
+    faith = "stonegods"
+    female = yes
+    dynasty = WELGD11 #WelgDyn11
+    father = WELG_138 #Vaino106
+    mother = WELG_188 #Inkeri124
+    581.1.1 = {
+        birth = yes
+    }
+}
+
+WELG_118 = {
+    name = "Kauko341"
+    culture = "wel_gravan"
+    faith = "stonegods"
+    dynasty = WELGD11 #WelgDyn11
+    father = WELG_139 #Valto107
+    mother = WELG_282 #Kaisa136
+    572.1.1 = {
+        birth = yes
+    }
+}
+
+WELG_119 = {
+    name = "Kirsi340"
+    culture = "wel_gravan"
+    faith = "stonegods"
+    female = yes
+    dynasty = WELGD11 #WelgDyn11
+    father = WELG_139 #Valto107
+    mother = WELG_282 #Kaisa136
+    570.1.1 = {
+        birth = yes
+    }
+    586.1.1 = {
+        add_spouse = WELG_482 #Jari553
+    }
+}
+
+WELG_12 = {
+    name = "Kaisa270"
+    culture = "wel_gravan"
+    faith = "stonegods"
+    female = yes
+    dynasty = WELGD1 #WelgDyn1
+    father = WELG_22 #Kosti86
+    mother = WELG_96 #Vieno249
+    575.1.1 = {
+        birth = yes
+    }
+}
+
+WELG_120 = {
+    name = "Lauri105"
+    culture = "wel_gravan"
+    faith = "stonegods"
+    dynasty = WELGD11 #WelgDyn11
+    father = WELG_142 #Veli53
+    mother = WELG_232 #Iida70
+    550.1.1 = {
+        birth = yes
+    }
+    574.1.1 = {
+        add_spouse = WELG_185 #Helmi223
+    }
+}
+
+WELG_121 = {
+    name = "Maija241"
+    culture = "wel_gravan"
+    faith = "stonegods"
+    female = yes
+    dynasty = WELGD11 #WelgDyn11
+    539.1.1 = {
+        birth = yes
+    }
+    568.1.1 = {
+        add_spouse = WELG_56 #Hannu91
+    }
+}
+
+WELG_122 = {
+    name = "Marja252"
+    culture = "wel_gravan"
+    faith = "stonegods"
+    female = yes
+    dynasty = WELGD11 #WelgDyn11
+    544.1.1 = {
+        birth = yes
+    }
+    574.1.1 = {
+        add_spouse = WELG_372 #Matti165
+    }
+}
+
+WELG_123 = {
+    name = "Matti346"
+    culture = "wel_gravan"
+    faith = "stonegods"
+    dynasty = WELGD11 #WelgDyn11
+    father = WELG_141 #Veli109
+    mother = WELG_307 #Hanna242
+    575.1.1 = {
+        birth = yes
+    }
+}
+
+WELG_124 = {
+    name = "Noora324"
+    culture = "wel_gravan"
+    faith = "stonegods"
+    female = yes
+    dynasty = WELGD11 #WelgDyn11
+    father = WELG_120 #Lauri105
+    mother = WELG_185 #Helmi223
+    578.1.1 = {
+        birth = yes
+    }
+}
+
+WELG_125 = {
+    name = "Noora337"
+    culture = "wel_gravan"
+    faith = "stonegods"
+    female = yes
+    dynasty = WELGD11 #WelgDyn11
+    father = WELG_131 #Tapio103
+    mother = WELG_297 #Veera239
+    574.1.1 = {
+        birth = yes
+    }
+}
+
+WELG_126 = {
+    name = "Paivi329"
+    culture = "wel_gravan"
+    faith = "stonegods"
+    female = yes
+    dynasty = WELGD11 #WelgDyn11
+    father = WELG_99 #Aapo102
+    mother = WELG_213 #Sini254
+    579.1.1 = {
+        birth = yes
+    }
+}
+
+WELG_127 = {
+    name = "Reino333"
+    culture = "wel_gravan"
+    faith = "stonegods"
+    dynasty = WELGD11 #WelgDyn11
+    father = WELG_138 #Vaino106
+    mother = WELG_188 #Inkeri124
+    579.1.1 = {
+        birth = yes
+    }
+}
+
+WELG_128 = {
+    name = "Riikka323"
+    culture = "wel_gravan"
+    faith = "stonegods"
+    female = yes
+    dynasty = WELGD11 #WelgDyn11
+    father = WELG_120 #Lauri105
+    mother = WELG_185 #Helmi223
+    577.1.1 = {
+        birth = yes
+    }
+}
+
+WELG_129 = {
+    name = "Sari224"
+    culture = "wel_gravan"
+    faith = "stonegods"
+    female = yes
+    dynasty = WELGD11 #WelgDyn11
+    544.1.1 = {
+        birth = yes
+    }
+    574.1.1 = {
+        add_spouse = WELG_76 #Niilo92
+    }
+}
+
+WELG_13 = {
+    name = "Kaisa279"
+    culture = "wel_gravan"
+    faith = "stonegods"
+    female = yes
+    dynasty = WELGD1 #WelgDyn1
+    father = WELG_26 #Matti88
+    mother = WELG_94 #Ulla94
+    573.1.1 = {
+        birth = yes
+    }
+}
+
+WELG_130 = {
+    name = "Satu104"
+    culture = "wel_gravan"
+    faith = "stonegods"
+    female = yes
+    dynasty = WELGD11 #WelgDyn11
+    father = WELG_109 #Hannu52
+    mother = WELG_209 #Riikka65
+    553.1.1 = {
+        birth = yes
+    }
+    575.1.1 = {
+        add_spouse = WELG_66 #Joona93
+    }
+}
+
+WELG_131 = {
+    name = "Tapio103"
+    culture = "wel_gravan"
+    faith = "stonegods"
+    dynasty = WELGD11 #WelgDyn11
+    father = WELG_109 #Hannu52
+    mother = WELG_209 #Riikka65
+    552.1.1 = {
+        birth = yes
+    }
+    572.1.1 = {
+        add_spouse = WELG_297 #Veera239
+    }
+}
+
+WELG_132 = {
+    name = "Tapio338"
+    culture = "wel_gravan"
+    faith = "stonegods"
+    dynasty = WELGD11 #WelgDyn11
+    father = WELG_131 #Tapio103
+    mother = WELG_297 #Veera239
+    575.1.1 = {
+        birth = yes
+    }
+}
+
+WELG_133 = {
+    name = "Tiina225"
+    culture = "wel_gravan"
+    faith = "stonegods"
+    female = yes
+    dynasty = WELGD11 #WelgDyn11
+    543.1.1 = {
+        birth = yes
+    }
+    573.1.1 = {
+        add_spouse = WELG_336 #Iivo156
+    }
+}
+
+WELG_134 = {
+    name = "Tiina344"
+    culture = "wel_gravan"
+    faith = "stonegods"
+    female = yes
+    dynasty = WELGD11 #WelgDyn11
+    father = WELG_139 #Valto107
+    mother = WELG_282 #Kaisa136
+    577.1.1 = {
+        birth = yes
+    }
+}
+
+WELG_135 = {
+    name = "Timo342"
+    culture = "wel_gravan"
+    faith = "stonegods"
+    dynasty = WELGD11 #WelgDyn11
+    father = WELG_139 #Valto107
+    mother = WELG_282 #Kaisa136
+    574.1.1 = {
+        birth = yes
+    }
+}
+
+WELG_136 = {
+    name = "Tuuli331"
+    culture = "wel_gravan"
+    faith = "stonegods"
+    female = yes
+    dynasty = WELGD11 #WelgDyn11
+    father = WELG_138 #Vaino106
+    mother = WELG_188 #Inkeri124
+    575.1.1 = {
+        birth = yes
+    }
+}
+
+WELG_137 = {
+    name = "Urho332"
+    culture = "wel_gravan"
+    faith = "stonegods"
+    dynasty = WELGD11 #WelgDyn11
+    father = WELG_138 #Vaino106
+    mother = WELG_188 #Inkeri124
+    577.1.1 = {
+        birth = yes
+    }
+}
+
+WELG_138 = {
+    name = "Vaino106"
+    culture = "wel_gravan"
+    faith = "stonegods"
+    dynasty = WELGD11 #WelgDyn11
+    father = WELG_142 #Veli53
+    mother = WELG_232 #Iida70
+    551.1.1 = {
+        birth = yes
+    }
+    573.1.1 = {
+        add_spouse = WELG_188 #Inkeri124
+    }
+}
+
+WELG_139 = {
+    name = "Valto107"
+    culture = "wel_gravan"
+    faith = "stonegods"
+    dynasty = WELGD11 #WelgDyn11
+    father = WELG_142 #Veli53
+    mother = WELG_232 #Iida70
+    552.1.1 = {
+        birth = yes
+    }
+    569.1.1 = {
+        add_spouse = WELG_282 #Kaisa136
+    }
+}
+
+WELG_14 = {
+    name = "Kalevi264"
+    culture = "wel_gravan"
+    faith = "stonegods"
+    dynasty = WELGD1 #WelgDyn1
+    father = WELG_17 #Kalevi85
+    mother = WELG_93 #Ulla221
+    576.1.1 = {
+        birth = yes
+    }
+}
+
+WELG_140 = {
+    name = "Valto330"
+    culture = "wel_gravan"
+    faith = "stonegods"
+    dynasty = WELGD11 #WelgDyn11
+    father = WELG_138 #Vaino106
+    mother = WELG_188 #Inkeri124
+    574.1.1 = {
+        birth = yes
+    }
+}
+
+WELG_141 = {
+    name = "Veli109"
+    culture = "wel_gravan"
+    faith = "stonegods"
+    dynasty = WELGD11 #WelgDyn11
+    father = WELG_142 #Veli53
+    mother = WELG_232 #Iida70
+    556.1.1 = {
+        birth = yes
+    }
+    573.1.1 = {
+        add_spouse = WELG_307 #Hanna242
+    }
+}
+
+WELG_142 = {
+    name = "Veli53"
+    culture = "wel_gravan"
+    faith = "stonegods"
+    dynasty = WELGD11 #WelgDyn11
+    father = WELG_116 #Kalevi51
+    521.1.1 = {
+        birth = yes
+    }
+    548.1.1 = {
+        add_spouse = WELG_232 #Iida70
+    }
+    569.1.1 = {
+        death = yes
+    }
+}
+
+WELG_143 = {
+    name = "Vieno55"
+    culture = "wel_gravan"
+    faith = "stonegods"
+    female = yes
+    dynasty = WELGD11 #WelgDyn11
+    father = WELG_116 #Kalevi51
+    527.1.1 = {
+        birth = yes
+    }
+    542.1.1 = {
+        add_spouse = WELG_45 #Arto47
+    }
+    574.1.1 = {
+        death = yes
+    }
+}
+
+WELG_144 = {
+    name = "Ylva339"
+    culture = "wel_gravan"
+    faith = "stonegods"
+    female = yes
+    dynasty = WELGD11 #WelgDyn11
+    father = WELG_131 #Tapio103
+    mother = WELG_297 #Veera239
+    576.1.1 = {
+        birth = yes
+    }
+}
+
+WELG_145 = {
+    name = "Aapo357"
+    culture = "wel_gravan"
+    faith = "stonegods"
+    dynasty = WELGD12 #WelgDyn12
+    father = WELG_163 #Mikko115
+    mother = WELG_303 #Anni149
+    577.1.1 = {
+        birth = yes
+    }
+}
+
+WELG_146 = {
+    name = "Ahti360"
+    culture = "wel_gravan"
+    faith = "stonegods"
+    dynasty = WELGD12 #WelgDyn12
+    father = WELG_156 #Kosti116
+    mother = WELG_302 #Anni146
+    574.1.1 = {
+        birth = yes
+    }
+}
+
+WELG_147 = {
+    name = "Aili110"
+    culture = "wel_gravan"
+    faith = "stonegods"
+    female = yes
+    dynasty = WELGD12 #WelgDyn12
+    father = WELG_149 #Arto57
+    mother = WELG_298 #Veera75
+    550.1.1 = {
+        birth = yes
+    }
+    571.1.1 = {
+        add_spouse = WELG_369 #Lempi163
+    }
+}
+
+WELG_148 = {
+    name = "Anni362"
+    culture = "wel_gravan"
+    faith = "stonegods"
+    female = yes
+    dynasty = WELGD12 #WelgDyn12
+    father = WELG_156 #Kosti116
+    mother = WELG_302 #Anni146
+    577.1.1 = {
+        birth = yes
+    }
+}
+
+WELG_149 = {
+    name = "Arto57"
+    culture = "wel_gravan"
+    faith = "stonegods"
+    dynasty = WELGD12 #WelgDyn12
+    father = WELG_166 #Onni56
+    519.1.1 = {
+        birth = yes
+    }
+    547.1.1 = {
+        add_spouse = WELG_298 #Veera75
+    }
+    583.1.1 = {
+        death = yes
+    }
+}
+
+WELG_15 = {
+    name = "Kalevi275"
+    culture = "wel_gravan"
+    faith = "stonegods"
+    dynasty = WELGD1 #WelgDyn1
+    father = WELG_9 #Hannu84
+    mother = WELG_70 #Katariina96
+    577.1.1 = {
+        birth = yes
+    }
+}
+
+WELG_150 = {
+    name = "Ilmari113"
+    culture = "wel_gravan"
+    faith = "stonegods"
+    dynasty = WELGD12 #WelgDyn12
+    father = WELG_174 #Veli58
+    mother = WELG_327 #Tuuli80
+    550.1.1 = {
+        birth = yes
+    }
+    574.1.1 = {
+        add_spouse = WELG_313 #Kirsi142
+    }
+}
+
+WELG_151 = {
+    name = "Ilmari363"
+    culture = "wel_gravan"
+    faith = "stonegods"
+    dynasty = WELGD12 #WelgDyn12
+    father = WELG_156 #Kosti116
+    mother = WELG_302 #Anni146
+    579.1.1 = {
+        birth = yes
+    }
+}
+
+WELG_152 = {
+    name = "Inkeri355"
+    culture = "wel_gravan"
+    faith = "stonegods"
+    female = yes
+    dynasty = WELGD12 #WelgDyn12
+    father = WELG_163 #Mikko115
+    mother = WELG_303 #Anni149
+    573.1.1 = {
+        birth = yes
+    }
+}
+
+WELG_153 = {
+    name = "Joona359"
+    culture = "wel_gravan"
+    faith = "stonegods"
+    dynasty = WELGD12 #WelgDyn12
+    father = WELG_156 #Kosti116
+    mother = WELG_302 #Anni146
+    573.1.1 = {
+        birth = yes
+    }
+}
+
+WELG_154 = {
+    name = "Kaisa358"
+    culture = "wel_gravan"
+    faith = "stonegods"
+    female = yes
+    dynasty = WELGD12 #WelgDyn12
+    father = WELG_156 #Kosti116
+    mother = WELG_302 #Anni146
+    572.1.1 = {
+        birth = yes
+    }
+}
+
+WELG_155 = {
+    name = "Kerttu353"
+    culture = "wel_gravan"
+    faith = "stonegods"
+    female = yes
+    dynasty = WELGD12 #WelgDyn12
+    father = WELG_163 #Mikko115
+    mother = WELG_303 #Anni149
+    569.1.1 = {
+        birth = yes
+    }
+    586.1.1 = {
+        add_spouse = WELG_505 #Urho535
+    }
+}
+
+WELG_156 = {
+    name = "Kosti116"
+    culture = "wel_gravan"
+    faith = "stonegods"
+    dynasty = WELGD12 #WelgDyn12
+    father = WELG_174 #Veli58
+    mother = WELG_327 #Tuuli80
+    553.1.1 = {
+        birth = yes
+    }
+    571.1.1 = {
+        add_spouse = WELG_302 #Anni146
+    }
+}
+
+WELG_157 = {
+    name = "Lempi351"
+    culture = "wel_gravan"
+    faith = "stonegods"
+    dynasty = WELGD12 #WelgDyn12
+    father = WELG_150 #Ilmari113
+    mother = WELG_313 #Kirsi142
+    581.1.1 = {
+        birth = yes
+    }
+}
+
+WELG_158 = {
+    name = "Liisa226"
+    culture = "wel_gravan"
+    faith = "stonegods"
+    female = yes
+    dynasty = WELGD12 #WelgDyn12
+    536.1.1 = {
+        birth = yes
+    }
+    577.1.1 = {
+        add_spouse = WELG_90 #Timo98
+    }
+}
+
+WELG_159 = {
+    name = "Liisa349"
+    culture = "wel_gravan"
+    faith = "stonegods"
+    female = yes
+    dynasty = WELGD12 #WelgDyn12
+    father = WELG_150 #Ilmari113
+    mother = WELG_313 #Kirsi142
+    577.1.1 = {
+        birth = yes
+    }
+}
+
+WELG_16 = {
+    name = "Kalevi3"
+    culture = "wel_gravan"
+    faith = "stonegods"
+    dynasty = WELGD1 #WelgDyn1
+    father = WELG_28 #Paavo1
+    518.1.1 = {
+        birth = yes
+    }
+    544.1.1 = {
+        add_spouse = WELG_58 #Iida50
+    }
+    572.1.1 = {
+        death = yes
+    }
+}
+
+WELG_160 = {
+    name = "Maija112"
+    culture = "wel_gravan"
+    faith = "stonegods"
+    female = yes
+    dynasty = WELGD12 #WelgDyn12
+    father = WELG_149 #Arto57
+    mother = WELG_298 #Veera75
+    552.1.1 = {
+        birth = yes
+    }
+    567.1.1 = {
+        add_spouse = WELG_40 #Aapo100
+    }
+}
+
+WELG_161 = {
+    name = "Maija352"
+    culture = "wel_gravan"
+    faith = "stonegods"
+    female = yes
+    dynasty = WELGD12 #WelgDyn12
+    father = WELG_163 #Mikko115
+    mother = WELG_303 #Anni149
+    568.1.1 = {
+        birth = yes
+    }
+    586.1.1 = {
+        add_spouse = WELG_55 #Hannu310
+    }
+}
+
+WELG_162 = {
+    name = "Marja114"
+    culture = "wel_gravan"
+    faith = "stonegods"
+    female = yes
+    dynasty = WELGD12 #WelgDyn12
+    father = WELG_174 #Veli58
+    mother = WELG_327 #Tuuli80
+    551.1.1 = {
+        birth = yes
+    }
+    575.1.1 = {
+        add_spouse = WELG_392 #Urho169
+    }
+}
+
+WELG_163 = {
+    name = "Mikko115"
+    culture = "wel_gravan"
+    faith = "stonegods"
+    dynasty = WELGD12 #WelgDyn12
+    father = WELG_174 #Veli58
+    mother = WELG_327 #Tuuli80
+    552.1.1 = {
+        birth = yes
+    }
+    567.1.1 = {
+        add_spouse = WELG_303 #Anni149
+    }
+}
+
+WELG_164 = {
+    name = "Mikko354"
+    culture = "wel_gravan"
+    faith = "stonegods"
+    dynasty = WELGD12 #WelgDyn12
+    father = WELG_163 #Mikko115
+    mother = WELG_303 #Anni149
+    571.1.1 = {
+        birth = yes
+    }
+    586.1.1 = {
+        add_spouse = WELG_262 #Sini411
+    }
+}
+
+WELG_165 = {
+    name = "Noora111"
+    culture = "wel_gravan"
+    faith = "stonegods"
+    female = yes
+    dynasty = WELGD12 #WelgDyn12
+    father = WELG_149 #Arto57
+    mother = WELG_298 #Veera75
+    551.1.1 = {
+        birth = yes
+    }
+    567.1.1 = {
+        add_spouse = WELG_68 #Kari95
+    }
+}
+
+WELG_166 = {
+    name = "Onni56"
+    culture = "wel_gravan"
+    faith = "stonegods"
+    dynasty = WELGD12 #WelgDyn12
+    481.1.1 = {
+        birth = yes
+    }
+    559.1.1 = {
+        death = yes
+    }
+}
+
+WELG_167 = {
+    name = "Pihla248"
+    culture = "wel_gravan"
+    faith = "stonegods"
+    female = yes
+    dynasty = WELGD12 #WelgDyn12
+    539.1.1 = {
+        birth = yes
+    }
+    578.1.1 = {
+        add_spouse = WELG_386 #Tapio168
+    }
+}
+
+WELG_168 = {
+    name = "Reino350"
+    culture = "wel_gravan"
+    faith = "stonegods"
+    dynasty = WELGD12 #WelgDyn12
+    father = WELG_150 #Ilmari113
+    mother = WELG_313 #Kirsi142
+    579.1.1 = {
+        birth = yes
+    }
+}
+
+WELG_169 = {
+    name = "Riikka348"
+    culture = "wel_gravan"
+    faith = "stonegods"
+    female = yes
+    dynasty = WELGD12 #WelgDyn12
+    father = WELG_150 #Ilmari113
+    mother = WELG_313 #Kirsi142
+    575.1.1 = {
+        birth = yes
+    }
+}
+
+WELG_17 = {
+    name = "Kalevi85"
+    culture = "wel_gravan"
+    faith = "stonegods"
+    dynasty = WELGD1 #WelgDyn1
+    father = WELG_16 #Kalevi3
+    mother = WELG_58 #Iida50
+    550.1.1 = {
+        birth = yes
+    }
+    572.1.1 = {
+        add_spouse = WELG_93 #Ulla221
+    }
+}
+
+WELG_170 = {
+    name = "Riikka356"
+    culture = "wel_gravan"
+    faith = "stonegods"
+    female = yes
+    dynasty = WELGD12 #WelgDyn12
+    father = WELG_163 #Mikko115
+    mother = WELG_303 #Anni149
+    575.1.1 = {
+        birth = yes
+    }
+}
+
+WELG_171 = {
+    name = "Riikka59"
+    culture = "wel_gravan"
+    faith = "stonegods"
+    female = yes
+    dynasty = WELGD12 #WelgDyn12
+    father = WELG_166 #Onni56
+    525.1.1 = {
+        birth = yes
+    }
+    537.1.1 = {
+        add_spouse = WELG_379 #Paavo12
+    }
+    573.1.1 = {
+        death = yes
+    }
+}
+
+WELG_172 = {
+    name = "Tuuli361"
+    culture = "wel_gravan"
+    faith = "stonegods"
+    female = yes
+    dynasty = WELGD12 #WelgDyn12
+    father = WELG_156 #Kosti116
+    mother = WELG_302 #Anni146
+    576.1.1 = {
+        birth = yes
+    }
+}
+
+WELG_173 = {
+    name = "Veera238"
+    culture = "wel_gravan"
+    faith = "stonegods"
+    female = yes
+    dynasty = WELGD12 #WelgDyn12
+    541.1.1 = {
+        birth = yes
+    }
+    572.1.1 = {
+        add_spouse = WELG_95 #Veli99
+    }
+}
+
+WELG_174 = {
+    name = "Veli58"
+    culture = "wel_gravan"
+    faith = "stonegods"
+    dynasty = WELGD12 #WelgDyn12
+    father = WELG_166 #Onni56
+    522.1.1 = {
+        birth = yes
+    }
+    537.1.1 = {
+        add_spouse = WELG_327 #Tuuli80
+    }
+    574.1.1 = {
+        death = yes
+    }
+}
+
+WELG_175 = {
+    name = "Ylva60"
+    culture = "wel_gravan"
+    faith = "stonegods"
+    female = yes
+    dynasty = WELGD12 #WelgDyn12
+    father = WELG_166 #Onni56
+    528.1.1 = {
+        birth = yes
+    }
+    536.1.1 = {
+        add_spouse = WELG_46 #Arto48
+    }
+    570.1.1 = {
+        death = yes
+    }
+}
+
+WELG_176 = {
+    name = "Aapo378"
+    culture = "wel_gravan"
+    faith = "stonegods"
+    dynasty = WELGD13 #WelgDyn13
+    father = WELG_203 #Mikko121
+    mother = WELG_360 #Anni236
+    576.1.1 = {
+        birth = yes
+    }
+}
+
+WELG_177 = {
+    name = "Aili118"
+    culture = "wel_gravan"
+    faith = "stonegods"
+    female = yes
+    dynasty = WELGD13 #WelgDyn13
+    father = WELG_200 #Lempi62
+    mother = WELG_345 #Sari10
+    551.1.1 = {
+        birth = yes
+    }
+    570.1.1 = {
+        add_spouse = WELG_409 #Kosti171
+    }
+}
+
+WELG_178 = {
+    name = "Aili240"
+    culture = "wel_gravan"
+    faith = "stonegods"
+    female = yes
+    dynasty = WELGD13 #WelgDyn13
+    545.1.1 = {
+        birth = yes
+    }
+    576.1.1 = {
+        add_spouse = WELG_417 #Sakari174
+    }
+}
+
+WELG_179 = {
+    name = "Antti368"
+    culture = "wel_gravan"
+    faith = "stonegods"
+    dynasty = WELGD13 #WelgDyn13
+    father = WELG_224 #Yrjo120
+    mother = WELG_333 #Hannele153
+    579.1.1 = {
+        birth = yes
+    }
+}
+
+WELG_18 = {
+    name = "Kari276"
+    culture = "wel_gravan"
+    faith = "stonegods"
+    dynasty = WELGD1 #WelgDyn1
+    father = WELG_26 #Matti88
+    mother = WELG_94 #Ulla94
+    567.1.1 = {
+        birth = yes
+    }
+    586.1.1 = {
+        add_spouse = WELG_81 #Pihla309
+    }
+}
+
+WELG_180 = {
+    name = "Eeva394"
+    culture = "wel_gravan"
+    faith = "stonegods"
+    female = yes
+    dynasty = WELGD13 #WelgDyn13
+    father = WELG_192 #Juhani125
+    mother = WELG_377 #Noora162
+    579.1.1 = {
+        birth = yes
+    }
+}
+
+WELG_181 = {
+    name = "Elli375"
+    culture = "wel_gravan"
+    faith = "stonegods"
+    female = yes
+    dynasty = WELGD13 #WelgDyn13
+    father = WELG_218 #Toivo119
+    mother = WELG_370 #Marja229
+    582.1.1 = {
+        birth = yes
+    }
+}
+
+WELG_182 = {
+    name = "Elli64"
+    culture = "wel_gravan"
+    faith = "stonegods"
+    female = yes
+    dynasty = WELGD13 #WelgDyn13
+    father = WELG_205 #Olli61
+    526.1.1 = {
+        birth = yes
+    }
+    542.1.1 = {
+        add_spouse = WELG_396 #Veikko13
+    }
+    576.1.1 = {
+        death = yes
+    }
+}
+
+WELG_183 = {
+    name = "Hannu389"
+    culture = "wel_gravan"
+    faith = "stonegods"
+    dynasty = WELGD13 #WelgDyn13
+    father = WELG_215 #Tapio123
+    mother = WELG_361 #Eeva160
+    578.1.1 = {
+        birth = yes
+    }
+}
+
+WELG_184 = {
+    name = "Hannu390"
+    culture = "wel_gravan"
+    faith = "stonegods"
+    dynasty = WELGD13 #WelgDyn13
+    father = WELG_192 #Juhani125
+    mother = WELG_377 #Noora162
+    575.1.1 = {
+        birth = yes
+    }
+}
+
+WELG_185 = {
+    name = "Helmi223"
+    culture = "wel_gravan"
+    faith = "stonegods"
+    female = yes
+    dynasty = WELGD13 #WelgDyn13
+    545.1.1 = {
+        birth = yes
+    }
+    574.1.1 = {
+        add_spouse = WELG_120 #Lauri105
+    }
+}
+
+WELG_186 = {
+    name = "Iida387"
+    culture = "wel_gravan"
+    faith = "stonegods"
+    female = yes
+    dynasty = WELGD13 #WelgDyn13
+    father = WELG_215 #Tapio123
+    mother = WELG_361 #Eeva160
+    575.1.1 = {
+        birth = yes
+    }
+}
+
+WELG_187 = {
+    name = "Ilmari384"
+    culture = "wel_gravan"
+    faith = "stonegods"
+    dynasty = WELGD13 #WelgDyn13
+    father = WELG_215 #Tapio123
+    mother = WELG_361 #Eeva160
+    571.1.1 = {
+        birth = yes
+    }
+    586.1.1 = {
+        add_spouse = WELG_274 #Elli428
+    }
+}
+
+WELG_188 = {
+    name = "Inkeri124"
+    culture = "wel_gravan"
+    faith = "stonegods"
+    female = yes
+    dynasty = WELGD13 #WelgDyn13
+    father = WELG_191 #Joona63
+    mother = WELG_397 #Vilma15
+    557.1.1 = {
+        birth = yes
+    }
+    573.1.1 = {
+        add_spouse = WELG_138 #Vaino106
+    }
+}
+
+WELG_189 = {
+    name = "Inkeri392"
+    culture = "wel_gravan"
+    faith = "stonegods"
+    female = yes
+    dynasty = WELGD13 #WelgDyn13
+    father = WELG_192 #Juhani125
+    mother = WELG_377 #Noora162
+    577.1.1 = {
+        birth = yes
+    }
+}
+
+WELG_19 = {
+    name = "Katariina82"
+    culture = "wel_gravan"
+    faith = "stonegods"
+    female = yes
+    dynasty = WELGD1 #WelgDyn1
+    father = WELG_30 #Pekka2
+    mother = WELG_86 #Ritva49
+    551.1.1 = {
+        birth = yes
+    }
+    577.1.1 = {
+        add_spouse = WELG_354 #Veikko151
+    }
+}
+
+WELG_190 = {
+    name = "Jaana382"
+    culture = "wel_gravan"
+    faith = "stonegods"
+    female = yes
+    dynasty = WELGD13 #WelgDyn13
+    father = WELG_204 #Niilo122
+    mother = WELG_382 #Sari164
+    568.1.1 = {
+        birth = yes
+    }
+    586.1.1 = {
+        add_spouse = WELG_71 #Kosti281
+    }
+}
+
+WELG_191 = {
+    name = "Joona63"
+    culture = "wel_gravan"
+    faith = "stonegods"
+    dynasty = WELGD13 #WelgDyn13
+    father = WELG_205 #Olli61
+    523.1.1 = {
+        birth = yes
+    }
+    549.1.1 = {
+        add_spouse = WELG_397 #Vilma15
+    }
+}
+
+WELG_192 = {
+    name = "Juhani125"
+    culture = "wel_gravan"
+    faith = "stonegods"
+    dynasty = WELGD13 #WelgDyn13
+    father = WELG_191 #Joona63
+    mother = WELG_397 #Vilma15
+    558.1.1 = {
+        birth = yes
+    }
+    574.1.1 = {
+        add_spouse = WELG_377 #Noora162
+    }
+}
+
+WELG_193 = {
+    name = "Kalevi391"
+    culture = "wel_gravan"
+    faith = "stonegods"
+    dynasty = WELGD13 #WelgDyn13
+    father = WELG_192 #Juhani125
+    mother = WELG_377 #Noora162
+    576.1.1 = {
+        birth = yes
+    }
+}
+
+WELG_194 = {
+    name = "Kauko376"
+    culture = "wel_gravan"
+    faith = "stonegods"
+    dynasty = WELGD13 #WelgDyn13
+    father = WELG_218 #Toivo119
+    mother = WELG_370 #Marja229
+    584.1.1 = {
+        birth = yes
+    }
+}
+
+WELG_195 = {
+    name = "Kauko381"
+    culture = "wel_gravan"
+    faith = "stonegods"
+    dynasty = WELGD13 #WelgDyn13
+    father = WELG_204 #Niilo122
+    mother = WELG_382 #Sari164
+    567.1.1 = {
+        birth = yes
+    }
+    586.1.1 = {
+        add_spouse = WELG_248 #Mari414
+    }
+}
+
+WELG_196 = {
+    name = "Kerttu379"
+    culture = "wel_gravan"
+    faith = "stonegods"
+    female = yes
+    dynasty = WELGD13 #WelgDyn13
+    father = WELG_203 #Mikko121
+    mother = WELG_360 #Anni236
+    578.1.1 = {
+        birth = yes
+    }
+}
+
+WELG_197 = {
+    name = "Kirsi367"
+    culture = "wel_gravan"
+    faith = "stonegods"
+    female = yes
+    dynasty = WELGD13 #WelgDyn13
+    father = WELG_224 #Yrjo120
+    mother = WELG_333 #Hannele153
+    577.1.1 = {
+        birth = yes
+    }
+}
+
+WELG_198 = {
+    name = "Lauri365"
+    culture = "wel_gravan"
+    faith = "stonegods"
+    dynasty = WELGD13 #WelgDyn13
+    father = WELG_214 #Tapio117
+    mother = WELG_357 #Vieno228
+    576.1.1 = {
+        birth = yes
+    }
+}
+
+WELG_199 = {
+    name = "Lauri380"
+    culture = "wel_gravan"
+    faith = "stonegods"
+    dynasty = WELGD13 #WelgDyn13
+    father = WELG_203 #Mikko121
+    mother = WELG_360 #Anni236
+    580.1.1 = {
+        birth = yes
+    }
+}
+
+WELG_2 = {
+    name = "Aili89"
+    culture = "wel_gravan"
+    faith = "stonegods"
+    female = yes
+    dynasty = WELGD1 #WelgDyn1
+    father = WELG_16 #Kalevi3
+    mother = WELG_58 #Iida50
+    554.1.1 = {
+        birth = yes
+    }
+    570.1.1 = {
+        add_spouse = WELG_620 #Mikko215
+    }
+}
+
+WELG_20 = {
+    name = "Kerttu258"
+    culture = "wel_gravan"
+    faith = "stonegods"
+    female = yes
+    dynasty = WELGD1 #WelgDyn1
+    father = WELG_34 #Tapio81
+    mother = WELG_69 #Katariina256
+    578.1.1 = {
+        birth = yes
+    }
+}
+
+WELG_200 = {
+    name = "Lempi62"
+    culture = "wel_gravan"
+    faith = "stonegods"
+    dynasty = WELGD13 #WelgDyn13
+    father = WELG_205 #Olli61
+    520.1.1 = {
+        birth = yes
+    }
+    546.1.1 = {
+        add_spouse = WELG_345 #Sari10
+    }
+    571.1.1 = {
+        death = yes
+    }
+}
+
+WELG_201 = {
+    name = "Liisa383"
+    culture = "wel_gravan"
+    faith = "stonegods"
+    female = yes
+    dynasty = WELGD13 #WelgDyn13
+    father = WELG_204 #Niilo122
+    mother = WELG_382 #Sari164
+    569.1.1 = {
+        birth = yes
+    }
+    586.1.1 = {
+        add_spouse = WELG_507 #Vaino554
+    }
+}
+
+WELG_202 = {
+    name = "Marja371"
+    culture = "wel_gravan"
+    faith = "stonegods"
+    female = yes
+    dynasty = WELGD13 #WelgDyn13
+    father = WELG_224 #Yrjo120
+    mother = WELG_333 #Hannele153
+    583.1.1 = {
+        birth = yes
+    }
+}
+
+WELG_203 = {
+    name = "Mikko121"
+    culture = "wel_gravan"
+    faith = "stonegods"
+    dynasty = WELGD13 #WelgDyn13
+    father = WELG_191 #Joona63
+    mother = WELG_397 #Vilma15
+    552.1.1 = {
+        birth = yes
+    }
+    574.1.1 = {
+        add_spouse = WELG_360 #Anni236
+    }
+}
+
+WELG_204 = {
+    name = "Niilo122"
+    culture = "wel_gravan"
+    faith = "stonegods"
+    dynasty = WELGD13 #WelgDyn13
+    father = WELG_191 #Joona63
+    mother = WELG_397 #Vilma15
+    554.1.1 = {
+        birth = yes
+    }
+    566.1.1 = {
+        add_spouse = WELG_382 #Sari164
+    }
+}
+
+WELG_205 = {
+    name = "Olli61"
+    culture = "wel_gravan"
+    faith = "stonegods"
+    dynasty = WELGD13 #WelgDyn13
+    482.1.1 = {
+        birth = yes
+    }
+    544.1.1 = {
+        death = yes
+    }
+}
+
+WELG_206 = {
+    name = "Pekka370"
+    culture = "wel_gravan"
+    faith = "stonegods"
+    dynasty = WELGD13 #WelgDyn13
+    father = WELG_224 #Yrjo120
+    mother = WELG_333 #Hannele153
+    582.1.1 = {
+        birth = yes
+    }
+}
+
+WELG_207 = {
+    name = "Pihla372"
+    culture = "wel_gravan"
+    faith = "stonegods"
+    female = yes
+    dynasty = WELGD13 #WelgDyn13
+    father = WELG_218 #Toivo119
+    mother = WELG_370 #Marja229
+    578.1.1 = {
+        birth = yes
+    }
+}
+
+WELG_208 = {
+    name = "Reino393"
+    culture = "wel_gravan"
+    faith = "stonegods"
+    dynasty = WELGD13 #WelgDyn13
+    father = WELG_192 #Juhani125
+    mother = WELG_377 #Noora162
+    578.1.1 = {
+        birth = yes
+    }
+}
+
+WELG_209 = {
+    name = "Riikka65"
+    culture = "wel_gravan"
+    faith = "stonegods"
+    female = yes
+    dynasty = WELGD13 #WelgDyn13
+    father = WELG_205 #Olli61
+    529.1.1 = {
+        birth = yes
+    }
+    549.1.1 = {
+        add_spouse = WELG_109 #Hannu52
+    }
+    583.1.1 = {
+        death = yes
+    }
+}
+
+WELG_21 = {
+    name = "Kerttu278"
+    culture = "wel_gravan"
+    faith = "stonegods"
+    female = yes
+    dynasty = WELGD1 #WelgDyn1
+    father = WELG_26 #Matti88
+    mother = WELG_94 #Ulla94
+    571.1.1 = {
+        birth = yes
+    }
+    586.1.1 = {
+        add_spouse = WELG_349 #Timo465
+    }
+}
+
+WELG_210 = {
+    name = "Ritva364"
+    culture = "wel_gravan"
+    faith = "stonegods"
+    female = yes
+    dynasty = WELGD13 #WelgDyn13
+    father = WELG_214 #Tapio117
+    mother = WELG_357 #Vieno228
+    575.1.1 = {
+        birth = yes
+    }
+}
+
+WELG_211 = {
+    name = "Satu374"
+    culture = "wel_gravan"
+    faith = "stonegods"
+    female = yes
+    dynasty = WELGD13 #WelgDyn13
+    father = WELG_218 #Toivo119
+    mother = WELG_370 #Marja229
+    580.1.1 = {
+        birth = yes
+    }
+}
+
+WELG_212 = {
+    name = "Simo373"
+    culture = "wel_gravan"
+    faith = "stonegods"
+    dynasty = WELGD13 #WelgDyn13
+    father = WELG_218 #Toivo119
+    mother = WELG_370 #Marja229
+    579.1.1 = {
+        birth = yes
+    }
+}
+
+WELG_213 = {
+    name = "Sini254"
+    culture = "wel_gravan"
+    faith = "stonegods"
+    female = yes
+    dynasty = WELGD13 #WelgDyn13
+    548.1.1 = {
+        birth = yes
+    }
+    572.1.1 = {
+        add_spouse = WELG_99 #Aapo102
+    }
+}
+
+WELG_214 = {
+    name = "Tapio117"
+    culture = "wel_gravan"
+    faith = "stonegods"
+    dynasty = WELGD13 #WelgDyn13
+    father = WELG_200 #Lempi62
+    mother = WELG_345 #Sari10
+    550.1.1 = {
+        birth = yes
+    }
+    574.1.1 = {
+        add_spouse = WELG_357 #Vieno228
+    }
+}
+
+WELG_215 = {
+    name = "Tapio123"
+    culture = "wel_gravan"
+    faith = "stonegods"
+    dynasty = WELGD13 #WelgDyn13
+    father = WELG_191 #Joona63
+    mother = WELG_397 #Vilma15
+    555.1.1 = {
+        birth = yes
+    }
+    570.1.1 = {
+        add_spouse = WELG_361 #Eeva160
+    }
+}
+
+WELG_216 = {
+    name = "Tapio388"
+    culture = "wel_gravan"
+    faith = "stonegods"
+    dynasty = WELGD13 #WelgDyn13
+    father = WELG_215 #Tapio123
+    mother = WELG_361 #Eeva160
+    577.1.1 = {
+        birth = yes
+    }
+}
+
+WELG_217 = {
+    name = "Tiina251"
+    culture = "wel_gravan"
+    faith = "stonegods"
+    female = yes
+    dynasty = WELGD13 #WelgDyn13
+    544.1.1 = {
+        birth = yes
+    }
+    576.1.1 = {
+        add_spouse = WELG_428 #Veli170
+    }
+}
+
+WELG_218 = {
+    name = "Toivo119"
+    culture = "wel_gravan"
+    faith = "stonegods"
+    dynasty = WELGD13 #WelgDyn13
+    father = WELG_200 #Lempi62
+    mother = WELG_345 #Sari10
+    552.1.1 = {
+        birth = yes
+    }
+    577.1.1 = {
+        add_spouse = WELG_370 #Marja229
+    }
+}
+
+WELG_219 = {
+    name = "Toivo386"
+    culture = "wel_gravan"
+    faith = "stonegods"
+    dynasty = WELGD13 #WelgDyn13
+    father = WELG_215 #Tapio123
+    mother = WELG_361 #Eeva160
+    574.1.1 = {
+        birth = yes
+    }
+}
+
+WELG_22 = {
+    name = "Kosti86"
+    culture = "wel_gravan"
+    faith = "stonegods"
+    dynasty = WELGD1 #WelgDyn1
+    father = WELG_16 #Kalevi3
+    mother = WELG_58 #Iida50
+    551.1.1 = {
+        birth = yes
+    }
+    568.1.1 = {
+        add_spouse = WELG_96 #Vieno249
+    }
+}
+
+WELG_220 = {
+    name = "Ulla385"
+    culture = "wel_gravan"
+    faith = "stonegods"
+    female = yes
+    dynasty = WELGD13 #WelgDyn13
+    father = WELG_215 #Tapio123
+    mother = WELG_361 #Eeva160
+    572.1.1 = {
+        birth = yes
+    }
+}
+
+WELG_221 = {
+    name = "Veli366"
+    culture = "wel_gravan"
+    faith = "stonegods"
+    dynasty = WELGD13 #WelgDyn13
+    father = WELG_214 #Tapio117
+    mother = WELG_357 #Vieno228
+    578.1.1 = {
+        birth = yes
+    }
+}
+
+WELG_222 = {
+    name = "Vilma369"
+    culture = "wel_gravan"
+    faith = "stonegods"
+    female = yes
+    dynasty = WELGD13 #WelgDyn13
+    father = WELG_224 #Yrjo120
+    mother = WELG_333 #Hannele153
+    581.1.1 = {
+        birth = yes
+    }
+}
+
+WELG_223 = {
+    name = "Ylva377"
+    culture = "wel_gravan"
+    faith = "stonegods"
+    female = yes
+    dynasty = WELGD13 #WelgDyn13
+    father = WELG_203 #Mikko121
+    mother = WELG_360 #Anni236
+    575.1.1 = {
+        birth = yes
+    }
+}
+
+WELG_224 = {
+    name = "Yrjo120"
+    culture = "wel_gravan"
+    faith = "stonegods"
+    dynasty = WELGD13 #WelgDyn13
+    father = WELG_191 #Joona63
+    mother = WELG_397 #Vilma15
+    550.1.1 = {
+        birth = yes
+    }
+    576.1.1 = {
+        add_spouse = WELG_333 #Hannele153
+    }
+}
+
+WELG_225 = {
+    name = "Yrjo395"
+    culture = "wel_gravan"
+    faith = "stonegods"
+    dynasty = WELGD13 #WelgDyn13
+    father = WELG_192 #Juhani125
+    mother = WELG_377 #Noora162
+    581.1.1 = {
+        birth = yes
+    }
+}
+
+WELG_226 = {
+    name = "Ahti130"
+    culture = "wel_gravan"
+    faith = "stonegods"
+    dynasty = WELGD14 #WelgDyn14
+    father = WELG_241 #Joona67
+    mother = WELG_425 #Tuuli20
+    557.1.1 = {
+        birth = yes
+    }
+    569.1.1 = {
+        add_spouse = WELG_439 #Hanna182
+    }
+}
+
+WELG_227 = {
+    name = "Ahti419"
+    culture = "wel_gravan"
+    faith = "stonegods"
+    dynasty = WELGD14 #WelgDyn14
+    father = WELG_265 #Veli129
+    mother = WELG_470 #Vieno187
+    573.1.1 = {
+        birth = yes
+    }
+}
+
+WELG_228 = {
+    name = "Anni416"
+    culture = "wel_gravan"
+    faith = "stonegods"
+    female = yes
+    dynasty = WELGD14 #WelgDyn14
+    father = WELG_229 #Eero128
+    mother = WELG_435 #Elina253
+    575.1.1 = {
+        birth = yes
+    }
+}
+
+WELG_229 = {
+    name = "Eero128"
+    culture = "wel_gravan"
+    faith = "stonegods"
+    dynasty = WELGD14 #WelgDyn14
+    father = WELG_241 #Joona67
+    mother = WELG_425 #Tuuli20
+    554.1.1 = {
+        birth = yes
+    }
+    568.1.1 = {
+        add_spouse = WELG_435 #Elina253
+    }
+}
+
+WELG_23 = {
+    name = "Mari272"
+    culture = "wel_gravan"
+    faith = "stonegods"
+    female = yes
+    dynasty = WELGD1 #WelgDyn1
+    father = WELG_9 #Hannu84
+    mother = WELG_70 #Katariina96
+    573.1.1 = {
+        birth = yes
+    }
+}
+
+WELG_230 = {
+    name = "Elina132"
+    culture = "wel_gravan"
+    faith = "stonegods"
+    female = yes
+    dynasty = WELGD14 #WelgDyn14
+    father = WELG_263 #Tapio68
+    mother = WELG_445 #Johanna25
+    552.1.1 = {
+        birth = yes
+    }
+    574.1.1 = {
+        add_spouse = WELG_420 #Simo177
+    }
+}
+
+WELG_231 = {
+    name = "Heikki404"
+    culture = "wel_gravan"
+    faith = "stonegods"
+    dynasty = WELGD14 #WelgDyn14
+    father = WELG_255 #Paavo131
+    mother = WELG_424 #Tuuli175
+    583.1.1 = {
+        birth = yes
+    }
+}
+
+WELG_232 = {
+    name = "Iida70"
+    culture = "wel_gravan"
+    faith = "stonegods"
+    female = yes
+    dynasty = WELGD14 #WelgDyn14
+    father = WELG_264 #Toivo66
+    530.1.1 = {
+        birth = yes
+    }
+    548.1.1 = {
+        add_spouse = WELG_142 #Veli53
+    }
+    574.1.1 = {
+        death = yes
+    }
+}
+
+WELG_233 = {
+    name = "Iivo127"
+    culture = "wel_gravan"
+    faith = "stonegods"
+    dynasty = WELGD14 #WelgDyn14
+    father = WELG_241 #Joona67
+    mother = WELG_425 #Tuuli20
+    552.1.1 = {
+        birth = yes
+    }
+    567.1.1 = {
+        add_spouse = WELG_403 #Emilia172
+    }
+}
+
+WELG_234 = {
+    name = "Iivo399"
+    culture = "wel_gravan"
+    faith = "stonegods"
+    dynasty = WELGD14 #WelgDyn14
+    father = WELG_258 #Risto126
+    mother = WELG_400 #Aili245
+    581.1.1 = {
+        birth = yes
+    }
+}
+
+WELG_235 = {
+    name = "Inkeri403"
+    culture = "wel_gravan"
+    faith = "stonegods"
+    female = yes
+    dynasty = WELGD14 #WelgDyn14
+    father = WELG_255 #Paavo131
+    mother = WELG_424 #Tuuli175
+    581.1.1 = {
+        birth = yes
+    }
+}
+
+WELG_236 = {
+    name = "Jaana402"
+    culture = "wel_gravan"
+    faith = "stonegods"
+    female = yes
+    dynasty = WELGD14 #WelgDyn14
+    father = WELG_255 #Paavo131
+    mother = WELG_424 #Tuuli175
+    580.1.1 = {
+        birth = yes
+    }
+}
+
+WELG_237 = {
+    name = "Jaana417"
+    culture = "wel_gravan"
+    faith = "stonegods"
+    female = yes
+    dynasty = WELGD14 #WelgDyn14
+    father = WELG_229 #Eero128
+    mother = WELG_435 #Elina253
+    577.1.1 = {
+        birth = yes
+    }
+}
+
+WELG_238 = {
+    name = "Johanna412"
+    culture = "wel_gravan"
+    faith = "stonegods"
+    female = yes
+    dynasty = WELGD14 #WelgDyn14
+    father = WELG_229 #Eero128
+    mother = WELG_435 #Elina253
+    569.1.1 = {
+        birth = yes
+    }
+    586.1.1 = {
+        add_spouse = WELG_561 #Hannu603
+    }
+}
+
+WELG_239 = {
+    name = "Johanna423"
+    culture = "wel_gravan"
+    faith = "stonegods"
+    female = yes
+    dynasty = WELGD14 #WelgDyn14
+    father = WELG_226 #Ahti130
+    mother = WELG_439 #Hanna182
+    573.1.1 = {
+        birth = yes
+    }
+}
+
+WELG_24 = {
+    name = "Marja268"
+    culture = "wel_gravan"
+    faith = "stonegods"
+    female = yes
+    dynasty = WELGD1 #WelgDyn1
+    father = WELG_22 #Kosti86
+    mother = WELG_96 #Vieno249
+    573.1.1 = {
+        birth = yes
+    }
+}
+
+WELG_240 = {
+    name = "Joona401"
+    culture = "wel_gravan"
+    faith = "stonegods"
+    dynasty = WELGD14 #WelgDyn14
+    father = WELG_255 #Paavo131
+    mother = WELG_424 #Tuuli175
+    578.1.1 = {
+        birth = yes
+    }
+}
+
+WELG_241 = {
+    name = "Joona67"
+    culture = "wel_gravan"
+    faith = "stonegods"
+    dynasty = WELGD14 #WelgDyn14
+    father = WELG_264 #Toivo66
+    521.1.1 = {
+        birth = yes
+    }
+    549.1.1 = {
+        add_spouse = WELG_425 #Tuuli20
+    }
+    579.1.1 = {
+        death = yes
+    }
+}
+
+WELG_242 = {
+    name = "Juhani405"
+    culture = "wel_gravan"
+    faith = "stonegods"
+    dynasty = WELGD14 #WelgDyn14
+    father = WELG_255 #Paavo131
+    mother = WELG_424 #Tuuli175
+    584.1.1 = {
+        birth = yes
+    }
+}
+
+WELG_243 = {
+    name = "Lauri133"
+    culture = "wel_gravan"
+    faith = "stonegods"
+    dynasty = WELGD14 #WelgDyn14
+    father = WELG_263 #Tapio68
+    mother = WELG_445 #Johanna25
+    553.1.1 = {
+        birth = yes
+    }
+    566.1.1 = {
+        add_spouse = WELG_462 #Satu244
+    }
+}
+
+WELG_244 = {
+    name = "Lempi396"
+    culture = "wel_gravan"
+    faith = "stonegods"
+    dynasty = WELGD14 #WelgDyn14
+    father = WELG_258 #Risto126
+    mother = WELG_400 #Aili245
+    576.1.1 = {
+        birth = yes
+    }
+}
+
+WELG_245 = {
+    name = "Lempi410"
+    culture = "wel_gravan"
+    faith = "stonegods"
+    dynasty = WELGD14 #WelgDyn14
+    father = WELG_243 #Lauri133
+    mother = WELG_462 #Satu244
+    569.1.1 = {
+        birth = yes
+    }
+    586.1.1 = {
+        add_spouse = WELG_362 #Hanna477
+    }
+}
+
+WELG_246 = {
+    name = "Lotta420"
+    culture = "wel_gravan"
+    faith = "stonegods"
+    female = yes
+    dynasty = WELGD14 #WelgDyn14
+    father = WELG_265 #Veli129
+    mother = WELG_470 #Vieno187
+    575.1.1 = {
+        birth = yes
+    }
+}
+
+WELG_247 = {
+    name = "Mari400"
+    culture = "wel_gravan"
+    faith = "stonegods"
+    female = yes
+    dynasty = WELGD14 #WelgDyn14
+    father = WELG_255 #Paavo131
+    mother = WELG_424 #Tuuli175
+    577.1.1 = {
+        birth = yes
+    }
+}
+
+WELG_248 = {
+    name = "Mari414"
+    culture = "wel_gravan"
+    faith = "stonegods"
+    female = yes
+    dynasty = WELGD14 #WelgDyn14
+    father = WELG_229 #Eero128
+    mother = WELG_435 #Elina253
+    571.1.1 = {
+        birth = yes
+    }
+    586.1.1 = {
+        add_spouse = WELG_195 #Kauko381
+    }
+}
+
+WELG_249 = {
+    name = "Marja413"
+    culture = "wel_gravan"
+    faith = "stonegods"
+    female = yes
+    dynasty = WELGD14 #WelgDyn14
+    father = WELG_229 #Eero128
+    mother = WELG_435 #Elina253
+    570.1.1 = {
+        birth = yes
+    }
+    586.1.1 = {
+        add_spouse = WELG_550 #Aapo594
+    }
+}
+
+WELG_25 = {
+    name = "Marja87"
+    culture = "wel_gravan"
+    faith = "stonegods"
+    female = yes
+    dynasty = WELGD1 #WelgDyn1
+    father = WELG_16 #Kalevi3
+    mother = WELG_58 #Iida50
+    552.1.1 = {
+        birth = yes
+    }
+    575.1.1 = {
+        add_spouse = WELG_334 #Hannu154
+    }
+}
+
+WELG_250 = {
+    name = "Markku406"
+    culture = "wel_gravan"
+    faith = "stonegods"
+    dynasty = WELGD14 #WelgDyn14
+    father = WELG_233 #Iivo127
+    mother = WELG_403 #Emilia172
+    568.1.1 = {
+        birth = yes
+    }
+    586.1.1 = {
+        add_spouse = WELG_350 #Tuuli466
+    }
+}
+
+WELG_251 = {
+    name = "Matti421"
+    culture = "wel_gravan"
+    faith = "stonegods"
+    dynasty = WELGD14 #WelgDyn14
+    father = WELG_226 #Ahti130
+    mother = WELG_439 #Hanna182
+    570.1.1 = {
+        birth = yes
+    }
+    586.1.1 = {
+        add_spouse = WELG_459 #Ritva514
+    }
+}
+
+WELG_252 = {
+    name = "Mikko415"
+    culture = "wel_gravan"
+    faith = "stonegods"
+    dynasty = WELGD14 #WelgDyn14
+    father = WELG_229 #Eero128
+    mother = WELG_435 #Elina253
+    573.1.1 = {
+        birth = yes
+    }
+}
+
+WELG_253 = {
+    name = "Minna397"
+    culture = "wel_gravan"
+    faith = "stonegods"
+    female = yes
+    dynasty = WELGD14 #WelgDyn14
+    father = WELG_258 #Risto126
+    mother = WELG_400 #Aili245
+    577.1.1 = {
+        birth = yes
+    }
+}
+
+WELG_254 = {
+    name = "Noora422"
+    culture = "wel_gravan"
+    faith = "stonegods"
+    female = yes
+    dynasty = WELGD14 #WelgDyn14
+    father = WELG_226 #Ahti130
+    mother = WELG_439 #Hanna182
+    571.1.1 = {
+        birth = yes
+    }
+    586.1.1 = {
+        add_spouse = WELG_599 #Vaino605
+    }
+}
+
+WELG_255 = {
+    name = "Paavo131"
+    culture = "wel_gravan"
+    faith = "stonegods"
+    dynasty = WELGD14 #WelgDyn14
+    father = WELG_263 #Tapio68
+    mother = WELG_445 #Johanna25
+    550.1.1 = {
+        birth = yes
+    }
+    576.1.1 = {
+        add_spouse = WELG_424 #Tuuli175
+    }
+}
+
+WELG_256 = {
+    name = "Paavo398"
+    culture = "wel_gravan"
+    faith = "stonegods"
+    dynasty = WELGD14 #WelgDyn14
+    father = WELG_258 #Risto126
+    mother = WELG_400 #Aili245
+    579.1.1 = {
+        birth = yes
+    }
+}
+
+WELG_257 = {
+    name = "Reino407"
+    culture = "wel_gravan"
+    faith = "stonegods"
+    dynasty = WELGD14 #WelgDyn14
+    father = WELG_233 #Iivo127
+    mother = WELG_403 #Emilia172
+    570.1.1 = {
+        birth = yes
+    }
+    586.1.1 = {
+        add_spouse = WELG_405 #Hannele500
+    }
+}
+
+WELG_258 = {
+    name = "Risto126"
+    culture = "wel_gravan"
+    faith = "stonegods"
+    dynasty = WELGD14 #WelgDyn14
+    father = WELG_241 #Joona67
+    mother = WELG_425 #Tuuli20
+    550.1.1 = {
+        birth = yes
+    }
+    575.1.1 = {
+        add_spouse = WELG_400 #Aili245
+    }
+}
+
+WELG_259 = {
+    name = "Risto418"
+    culture = "wel_gravan"
+    faith = "stonegods"
+    dynasty = WELGD14 #WelgDyn14
+    father = WELG_265 #Veli129
+    mother = WELG_470 #Vieno187
+    571.1.1 = {
+        birth = yes
+    }
+    586.1.1 = {
+        add_spouse = WELG_556 #Elli608
+    }
+}
+
+WELG_26 = {
+    name = "Matti88"
+    culture = "wel_gravan"
+    faith = "stonegods"
+    dynasty = WELGD1 #WelgDyn1
+    father = WELG_16 #Kalevi3
+    mother = WELG_58 #Iida50
+    553.1.1 = {
+        birth = yes
+    }
+    566.1.1 = {
+        add_spouse = WELG_94 #Ulla94
+    }
+}
+
+WELG_260 = {
+    name = "Sari409"
+    culture = "wel_gravan"
+    faith = "stonegods"
+    female = yes
+    dynasty = WELGD14 #WelgDyn14
+    father = WELG_243 #Lauri133
+    mother = WELG_462 #Satu244
+    567.1.1 = {
+        birth = yes
+    }
+    586.1.1 = {
+        add_spouse = WELG_80 #Pekka312
+    }
+}
+
+WELG_261 = {
+    name = "Simo408"
+    culture = "wel_gravan"
+    faith = "stonegods"
+    dynasty = WELGD14 #WelgDyn14
+    father = WELG_233 #Iivo127
+    mother = WELG_403 #Emilia172
+    571.1.1 = {
+        birth = yes
+    }
+    586.1.1 = {
+        add_spouse = WELG_451 #Marja516
+    }
+}
+
+WELG_262 = {
+    name = "Sini411"
+    culture = "wel_gravan"
+    faith = "stonegods"
+    female = yes
+    dynasty = WELGD14 #WelgDyn14
+    father = WELG_243 #Lauri133
+    mother = WELG_462 #Satu244
+    570.1.1 = {
+        birth = yes
+    }
+    586.1.1 = {
+        add_spouse = WELG_164 #Mikko354
+    }
+}
+
+WELG_263 = {
+    name = "Tapio68"
+    culture = "wel_gravan"
+    faith = "stonegods"
+    dynasty = WELGD14 #WelgDyn14
+    father = WELG_264 #Toivo66
+    524.1.1 = {
+        birth = yes
+    }
+    546.1.1 = {
+        add_spouse = WELG_445 #Johanna25
+    }
+    568.1.1 = {
+        death = yes
+    }
+}
+
+WELG_264 = {
+    name = "Toivo66"
+    culture = "wel_gravan"
+    faith = "stonegods"
+    dynasty = WELGD14 #WelgDyn14
+    483.1.1 = {
+        birth = yes
+    }
+    543.1.1 = {
+        death = yes
+    }
+}
+
+WELG_265 = {
+    name = "Veli129"
+    culture = "wel_gravan"
+    faith = "stonegods"
+    dynasty = WELGD14 #WelgDyn14
+    father = WELG_241 #Joona67
+    mother = WELG_425 #Tuuli20
+    555.1.1 = {
+        birth = yes
+    }
+    570.1.1 = {
+        add_spouse = WELG_470 #Vieno187
+    }
+}
+
+WELG_266 = {
+    name = "Ylva69"
+    culture = "wel_gravan"
+    faith = "stonegods"
+    female = yes
+    dynasty = WELGD14 #WelgDyn14
+    father = WELG_264 #Toivo66
+    527.1.1 = {
+        birth = yes
+    }
+    537.1.1 = {
+        add_spouse = WELG_414 #Reino17
+    }
+}
+
+WELG_267 = {
+    name = "Aapo424"
+    culture = "wel_gravan"
+    faith = "stonegods"
+    dynasty = WELGD15 #WelgDyn15
+    father = WELG_270 #Antti139
+    mother = WELG_480 #Jaana247
+    578.1.1 = {
+        birth = yes
+    }
+}
+
+WELG_268 = {
+    name = "Aino429"
+    culture = "wel_gravan"
+    faith = "stonegods"
+    female = yes
+    dynasty = WELGD15 #WelgDyn15
+    father = WELG_285 #Kauko135
+    mother = WELG_492 #Mari192
+    572.1.1 = {
+        birth = yes
+    }
+}
+
+WELG_269 = {
+    name = "Anni434"
+    culture = "wel_gravan"
+    faith = "stonegods"
+    female = yes
+    dynasty = WELGD15 #WelgDyn15
+    father = WELG_275 #Esko141
+    mother = WELG_527 #Maija198
+    572.1.1 = {
+        birth = yes
+    }
+}
+
+WELG_27 = {
+    name = "Minna90"
+    culture = "wel_gravan"
+    faith = "stonegods"
+    female = yes
+    dynasty = WELGD1 #WelgDyn1
+    father = WELG_16 #Kalevi3
+    mother = WELG_58 #Iida50
+    555.1.1 = {
+        birth = yes
+    }
+    566.1.1 = {
+        add_spouse = WELG_348 #Tapio152
+    }
+}
+
+WELG_270 = {
+    name = "Antti139"
+    culture = "wel_gravan"
+    faith = "stonegods"
+    dynasty = WELGD15 #WelgDyn15
+    father = WELG_281 #Joona73
+    mother = WELG_518 #Helmi35
+    550.1.1 = {
+        birth = yes
+    }
+    577.1.1 = {
+        add_spouse = WELG_480 #Jaana247
+    }
+}
+
+WELG_271 = {
+    name = "Antti425"
+    culture = "wel_gravan"
+    faith = "stonegods"
+    dynasty = WELGD15 #WelgDyn15
+    father = WELG_270 #Antti139
+    mother = WELG_480 #Jaana247
+    580.1.1 = {
+        birth = yes
+    }
+}
+
+WELG_272 = {
+    name = "Antti72"
+    culture = "wel_gravan"
+    faith = "stonegods"
+    dynasty = WELGD15 #WelgDyn15
+    father = WELG_299 #Veikko71
+    515.1.1 = {
+        birth = yes
+    }
+    543.1.1 = {
+        add_spouse = WELG_498 #Riikka30
+    }
+    583.1.1 = {
+        death = yes
+    }
+}
+
+WELG_273 = {
+    name = "Eeva74"
+    culture = "wel_gravan"
+    faith = "stonegods"
+    female = yes
+    dynasty = WELGD15 #WelgDyn15
+    father = WELG_299 #Veikko71
+    521.1.1 = {
+        birth = yes
+    }
+    547.1.1 = {
+        add_spouse = WELG_416 #Risto18
+    }
+    572.1.1 = {
+        death = yes
+    }
+}
+
+WELG_274 = {
+    name = "Elli428"
+    culture = "wel_gravan"
+    faith = "stonegods"
+    female = yes
+    dynasty = WELGD15 #WelgDyn15
+    father = WELG_285 #Kauko135
+    mother = WELG_492 #Mari192
+    570.1.1 = {
+        birth = yes
+    }
+    586.1.1 = {
+        add_spouse = WELG_187 #Ilmari384
+    }
+}
+
+WELG_275 = {
+    name = "Esko141"
+    culture = "wel_gravan"
+    faith = "stonegods"
+    dynasty = WELGD15 #WelgDyn15
+    father = WELG_281 #Joona73
+    mother = WELG_518 #Helmi35
+    553.1.1 = {
+        birth = yes
+    }
+    571.1.1 = {
+        add_spouse = WELG_527 #Maija198
+    }
+}
+
+WELG_276 = {
+    name = "Hanna426"
+    culture = "wel_gravan"
+    faith = "stonegods"
+    female = yes
+    dynasty = WELGD15 #WelgDyn15
+    father = WELG_270 #Antti139
+    mother = WELG_480 #Jaana247
+    582.1.1 = {
+        birth = yes
+    }
+}
+
+WELG_277 = {
+    name = "Hannele430"
+    culture = "wel_gravan"
+    faith = "stonegods"
+    female = yes
+    dynasty = WELGD15 #WelgDyn15
+    father = WELG_285 #Kauko135
+    mother = WELG_492 #Mari192
+    574.1.1 = {
+        birth = yes
+    }
+}
+
+WELG_278 = {
+    name = "Helmi134"
+    culture = "wel_gravan"
+    faith = "stonegods"
+    female = yes
+    dynasty = WELGD15 #WelgDyn15
+    father = WELG_272 #Antti72
+    mother = WELG_498 #Riikka30
+    550.1.1 = {
+        birth = yes
+    }
+    578.1.1 = {
+        add_spouse = WELG_466 #Urho178
+    }
+}
+
+WELG_279 = {
+    name = "Ilmari435"
+    culture = "wel_gravan"
+    faith = "stonegods"
+    dynasty = WELGD15 #WelgDyn15
+    father = WELG_275 #Esko141
+    mother = WELG_527 #Maija198
+    573.1.1 = {
+        birth = yes
+    }
+}
+
+WELG_28 = {
+    name = "Paavo1"
+    culture = "wel_gravan"
+    faith = "stonegods"
+    dynasty = WELGD1 #WelgDyn1
+    480.1.1 = {
+        birth = yes
+    }
+    564.1.1 = {
+        death = yes
+    }
+}
+
+WELG_280 = {
+    name = "Jari440"
+    culture = "wel_gravan"
+    faith = "stonegods"
+    dynasty = WELGD15 #WelgDyn15
+    father = WELG_300 #Veli138
+    mother = WELG_535 #Ritva203
+    575.1.1 = {
+        birth = yes
+    }
+}
+
+WELG_281 = {
+    name = "Joona73"
+    culture = "wel_gravan"
+    faith = "stonegods"
+    dynasty = WELGD15 #WelgDyn15
+    father = WELG_299 #Veikko71
+    518.1.1 = {
+        birth = yes
+    }
+    538.1.1 = {
+        add_spouse = WELG_518 #Helmi35
+    }
+    568.1.1 = {
+        death = yes
+    }
+}
+
+WELG_282 = {
+    name = "Kaisa136"
+    culture = "wel_gravan"
+    faith = "stonegods"
+    female = yes
+    dynasty = WELGD15 #WelgDyn15
+    father = WELG_272 #Antti72
+    mother = WELG_498 #Riikka30
+    553.1.1 = {
+        birth = yes
+    }
+    569.1.1 = {
+        add_spouse = WELG_139 #Valto107
+    }
+}
+
+WELG_283 = {
+    name = "Kari443"
+    culture = "wel_gravan"
+    faith = "stonegods"
+    dynasty = WELGD15 #WelgDyn15
+    father = WELG_300 #Veli138
+    mother = WELG_535 #Ritva203
+    580.1.1 = {
+        birth = yes
+    }
+}
+
+WELG_284 = {
+    name = "Katariina439"
+    culture = "wel_gravan"
+    faith = "stonegods"
+    female = yes
+    dynasty = WELGD15 #WelgDyn15
+    father = WELG_300 #Veli138
+    mother = WELG_535 #Ritva203
+    573.1.1 = {
+        birth = yes
+    }
+}
+
+WELG_285 = {
+    name = "Kauko135"
+    culture = "wel_gravan"
+    faith = "stonegods"
+    dynasty = WELGD15 #WelgDyn15
+    father = WELG_272 #Antti72
+    mother = WELG_498 #Riikka30
+    552.1.1 = {
+        birth = yes
+    }
+    567.1.1 = {
+        add_spouse = WELG_492 #Mari192
+    }
+}
+
+WELG_286 = {
+    name = "Kerttu137"
+    culture = "wel_gravan"
+    faith = "stonegods"
+    female = yes
+    dynasty = WELGD15 #WelgDyn15
+    father = WELG_272 #Antti72
+    mother = WELG_498 #Riikka30
+    555.1.1 = {
+        birth = yes
+    }
+    568.1.1 = {
+        add_spouse = WELG_454 #Olli184
+    }
+}
+
+WELG_287 = {
+    name = "Lotta438"
+    culture = "wel_gravan"
+    faith = "stonegods"
+    female = yes
+    dynasty = WELGD15 #WelgDyn15
+    father = WELG_300 #Veli138
+    mother = WELG_535 #Ritva203
+    572.1.1 = {
+        birth = yes
+    }
+}
+
+WELG_288 = {
+    name = "Mari442"
+    culture = "wel_gravan"
+    faith = "stonegods"
+    female = yes
+    dynasty = WELGD15 #WelgDyn15
+    father = WELG_300 #Veli138
+    mother = WELG_535 #Ritva203
+    579.1.1 = {
+        birth = yes
+    }
+}
+
+WELG_289 = {
+    name = "Paavo433"
+    culture = "wel_gravan"
+    faith = "stonegods"
+    dynasty = WELGD15 #WelgDyn15
+    father = WELG_294 #Toivo140
+    mother = WELG_514 #Elli232
+    580.1.1 = {
+        birth = yes
+    }
+}
+
+WELG_29 = {
+    name = "Paivi4"
+    culture = "wel_gravan"
+    faith = "stonegods"
+    female = yes
+    dynasty = WELGD1 #WelgDyn1
+    father = WELG_28 #Paavo1
+    521.1.1 = {
+        birth = yes
+    }
+    550.1.1 = {
+        add_spouse = WELG_629 #Vaino42
+    }
+    577.1.1 = {
+        death = yes
+    }
+}
+
+WELG_290 = {
+    name = "Paivi436"
+    culture = "wel_gravan"
+    faith = "stonegods"
+    female = yes
+    dynasty = WELGD15 #WelgDyn15
+    father = WELG_275 #Esko141
+    mother = WELG_527 #Maija198
+    575.1.1 = {
+        birth = yes
+    }
+}
+
+WELG_291 = {
+    name = "Sakari427"
+    culture = "wel_gravan"
+    faith = "stonegods"
+    dynasty = WELGD15 #WelgDyn15
+    father = WELG_285 #Kauko135
+    mother = WELG_492 #Mari192
+    568.1.1 = {
+        birth = yes
+    }
+    586.1.1 = {
+        add_spouse = WELG_555 #Eeva609
+    }
+}
+
+WELG_292 = {
+    name = "Sakari431"
+    culture = "wel_gravan"
+    faith = "stonegods"
+    dynasty = WELGD15 #WelgDyn15
+    father = WELG_294 #Toivo140
+    mother = WELG_514 #Elli232
+    577.1.1 = {
+        birth = yes
+    }
+}
+
+WELG_293 = {
+    name = "Tiina441"
+    culture = "wel_gravan"
+    faith = "stonegods"
+    female = yes
+    dynasty = WELGD15 #WelgDyn15
+    father = WELG_300 #Veli138
+    mother = WELG_535 #Ritva203
+    577.1.1 = {
+        birth = yes
+    }
+}
+
+WELG_294 = {
+    name = "Toivo140"
+    culture = "wel_gravan"
+    faith = "stonegods"
+    dynasty = WELGD15 #WelgDyn15
+    father = WELG_281 #Joona73
+    mother = WELG_518 #Helmi35
+    552.1.1 = {
+        birth = yes
+    }
+    576.1.1 = {
+        add_spouse = WELG_514 #Elli232
+    }
+}
+
+WELG_295 = {
+    name = "Ulla432"
+    culture = "wel_gravan"
+    faith = "stonegods"
+    female = yes
+    dynasty = WELGD15 #WelgDyn15
+    father = WELG_294 #Toivo140
+    mother = WELG_514 #Elli232
+    578.1.1 = {
+        birth = yes
+    }
+}
+
+WELG_296 = {
+    name = "Urho437"
+    culture = "wel_gravan"
+    faith = "stonegods"
+    dynasty = WELGD15 #WelgDyn15
+    father = WELG_275 #Esko141
+    mother = WELG_527 #Maija198
+    576.1.1 = {
+        birth = yes
+    }
+}
+
+WELG_297 = {
+    name = "Veera239"
+    culture = "wel_gravan"
+    faith = "stonegods"
+    female = yes
+    dynasty = WELGD15 #WelgDyn15
+    545.1.1 = {
+        birth = yes
+    }
+    572.1.1 = {
+        add_spouse = WELG_131 #Tapio103
+    }
+}
+
+WELG_298 = {
+    name = "Veera75"
+    culture = "wel_gravan"
+    faith = "stonegods"
+    female = yes
+    dynasty = WELGD15 #WelgDyn15
+    father = WELG_299 #Veikko71
+    524.1.1 = {
+        birth = yes
+    }
+    547.1.1 = {
+        add_spouse = WELG_149 #Arto57
+    }
+    582.1.1 = {
+        death = yes
+    }
+}
+
+WELG_299 = {
+    name = "Veikko71"
+    culture = "wel_gravan"
+    faith = "stonegods"
+    dynasty = WELGD15 #WelgDyn15
+    484.1.1 = {
+        birth = yes
+    }
+    564.1.1 = {
+        death = yes
+    }
+}
+
+WELG_3 = {
+    name = "Arto260"
+    culture = "wel_gravan"
+    faith = "stonegods"
+    dynasty = WELGD1 #WelgDyn1
+    father = WELG_34 #Tapio81
+    mother = WELG_69 #Katariina256
+    580.1.1 = {
+        birth = yes
+    }
+}
+
+WELG_30 = {
+    name = "Pekka2"
+    culture = "wel_gravan"
+    faith = "stonegods"
+    dynasty = WELGD1 #WelgDyn1
+    father = WELG_28 #Paavo1
+    515.1.1 = {
+        birth = yes
+    }
+    535.1.1 = {
+        add_spouse = WELG_86 #Ritva49
+    }
+}
+
+WELG_300 = {
+    name = "Veli138"
+    culture = "wel_gravan"
+    faith = "stonegods"
+    dynasty = WELGD15 #WelgDyn15
+    father = WELG_272 #Antti72
+    mother = WELG_498 #Riikka30
+    557.1.1 = {
+        birth = yes
+    }
+    571.1.1 = {
+        add_spouse = WELG_535 #Ritva203
+    }
+}
+
+WELG_301 = {
+    name = "Ahti144"
+    culture = "wel_gravan"
+    faith = "stonegods"
+    dynasty = WELGD16 #WelgDyn16
+    father = WELG_312 #Juhani77
+    mother = WELG_562 #Iida40
+    552.1.1 = {
+        birth = yes
+    }
+    571.1.1 = {
+        add_spouse = WELG_632 #Vieno218
+    }
+}
+
+WELG_302 = {
+    name = "Anni146"
+    culture = "wel_gravan"
+    faith = "stonegods"
+    female = yes
+    dynasty = WELGD16 #WelgDyn16
+    father = WELG_312 #Juhani77
+    mother = WELG_562 #Iida40
+    554.1.1 = {
+        birth = yes
+    }
+    571.1.1 = {
+        add_spouse = WELG_156 #Kosti116
+    }
+}
+
+WELG_303 = {
+    name = "Anni149"
+    culture = "wel_gravan"
+    faith = "stonegods"
+    female = yes
+    dynasty = WELGD16 #WelgDyn16
+    father = WELG_321 #Paavo78
+    mother = WELG_618 #Marja45
+    552.1.1 = {
+        birth = yes
+    }
+    567.1.1 = {
+        add_spouse = WELG_163 #Mikko115
+    }
+}
+
+WELG_304 = {
+    name = "Eero455"
+    culture = "wel_gravan"
+    faith = "stonegods"
+    dynasty = WELGD16 #WelgDyn16
+    father = WELG_301 #Ahti144
+    mother = WELG_632 #Vieno218
+    575.1.1 = {
+        birth = yes
+    }
+}
+
+WELG_305 = {
+    name = "Elli450"
+    culture = "wel_gravan"
+    faith = "stonegods"
+    female = yes
+    dynasty = WELGD16 #WelgDyn16
+    father = WELG_323 #Pekka148
+    mother = WELG_615 #Maija231
+    579.1.1 = {
+        birth = yes
+    }
+}
+
+WELG_306 = {
+    name = "Esko143"
+    culture = "wel_gravan"
+    faith = "stonegods"
+    dynasty = WELGD16 #WelgDyn16
+    father = WELG_312 #Juhani77
+    mother = WELG_562 #Iida40
+    551.1.1 = {
+        birth = yes
+    }
+    569.1.1 = {
+        add_spouse = WELG_633 #Ylva227
+    }
+}
+
+WELG_307 = {
+    name = "Hanna242"
+    culture = "wel_gravan"
+    faith = "stonegods"
+    female = yes
+    dynasty = WELGD16 #WelgDyn16
+    539.1.1 = {
+        birth = yes
+    }
+    573.1.1 = {
+        add_spouse = WELG_141 #Veli109
+    }
+}
+
+WELG_308 = {
+    name = "Helmi446"
+    culture = "wel_gravan"
+    faith = "stonegods"
+    female = yes
+    dynasty = WELGD16 #WelgDyn16
+    father = WELG_306 #Esko143
+    mother = WELG_633 #Ylva227
+    572.1.1 = {
+        birth = yes
+    }
+}
+
+WELG_309 = {
+    name = "Iivo76"
+    culture = "wel_gravan"
+    faith = "stonegods"
+    dynasty = WELGD16 #WelgDyn16
+    485.1.1 = {
+        birth = yes
+    }
+    546.1.1 = {
+        death = yes
+    }
+}
+
+WELG_31 = {
+    name = "Pekka257"
+    culture = "wel_gravan"
+    faith = "stonegods"
+    dynasty = WELGD1 #WelgDyn1
+    father = WELG_34 #Tapio81
+    mother = WELG_69 #Katariina256
+    577.1.1 = {
+        birth = yes
+    }
+}
+
+WELG_310 = {
+    name = "Jaana453"
+    culture = "wel_gravan"
+    faith = "stonegods"
+    female = yes
+    dynasty = WELGD16 #WelgDyn16
+    father = WELG_301 #Ahti144
+    mother = WELG_632 #Vieno218
+    572.1.1 = {
+        birth = yes
+    }
+}
+
+WELG_311 = {
+    name = "Juhani447"
+    culture = "wel_gravan"
+    faith = "stonegods"
+    dynasty = WELGD16 #WelgDyn16
+    father = WELG_306 #Esko143
+    mother = WELG_633 #Ylva227
+    573.1.1 = {
+        birth = yes
+    }
+}
+
+WELG_312 = {
+    name = "Juhani77"
+    culture = "wel_gravan"
+    faith = "stonegods"
+    dynasty = WELGD16 #WelgDyn16
+    father = WELG_309 #Iivo76
+    516.1.1 = {
+        birth = yes
+    }
+    548.1.1 = {
+        add_spouse = WELG_562 #Iida40
+    }
+    572.1.1 = {
+        death = yes
+    }
+}
+
+WELG_313 = {
+    name = "Kirsi142"
+    culture = "wel_gravan"
+    faith = "stonegods"
+    female = yes
+    dynasty = WELGD16 #WelgDyn16
+    father = WELG_312 #Juhani77
+    mother = WELG_562 #Iida40
+    550.1.1 = {
+        birth = yes
+    }
+    574.1.1 = {
+        add_spouse = WELG_150 #Ilmari113
+    }
+}
+
+WELG_314 = {
+    name = "Liisa233"
+    culture = "wel_gravan"
+    faith = "stonegods"
+    female = yes
+    dynasty = WELGD16 #WelgDyn16
+    546.1.1 = {
+        birth = yes
+    }
+    570.1.1 = {
+        add_spouse = WELG_464 #Timo179
+    }
+}
+
+WELG_315 = {
+    name = "Lotta147"
+    culture = "wel_gravan"
+    faith = "stonegods"
+    female = yes
+    dynasty = WELGD16 #WelgDyn16
+    father = WELG_321 #Paavo78
+    mother = WELG_618 #Marja45
+    550.1.1 = {
+        birth = yes
+    }
+    569.1.1 = {
+        add_spouse = WELG_473 #Yrjo185
+    }
+}
+
+WELG_316 = {
+    name = "Maija451"
+    culture = "wel_gravan"
+    faith = "stonegods"
+    female = yes
+    dynasty = WELGD16 #WelgDyn16
+    father = WELG_323 #Pekka148
+    mother = WELG_615 #Maija231
+    581.1.1 = {
+        birth = yes
+    }
+}
+
+WELG_317 = {
+    name = "Maija79"
+    culture = "wel_gravan"
+    faith = "stonegods"
+    female = yes
+    dynasty = WELGD16 #WelgDyn16
+    father = WELG_309 #Iivo76
+    522.1.1 = {
+        birth = yes
+    }
+    537.1.1 = {
+        add_spouse = WELG_437 #Esko22
+    }
+    575.1.1 = {
+        death = yes
+    }
+}
+
+WELG_318 = {
+    name = "Markku449"
+    culture = "wel_gravan"
+    faith = "stonegods"
+    dynasty = WELGD16 #WelgDyn16
+    father = WELG_323 #Pekka148
+    mother = WELG_615 #Maija231
+    577.1.1 = {
+        birth = yes
+    }
+}
+
+WELG_319 = {
+    name = "Matti445"
+    culture = "wel_gravan"
+    faith = "stonegods"
+    dynasty = WELGD16 #WelgDyn16
+    father = WELG_306 #Esko143
+    mother = WELG_633 #Ylva227
+    571.1.1 = {
+        birth = yes
+    }
+    586.1.1 = {
+        add_spouse = WELG_597 #Ulla606
+    }
+}
+
+WELG_32 = {
+    name = "Sari267"
+    culture = "wel_gravan"
+    faith = "stonegods"
+    female = yes
+    dynasty = WELGD1 #WelgDyn1
+    father = WELG_22 #Kosti86
+    mother = WELG_96 #Vieno249
+    572.1.1 = {
+        birth = yes
+    }
+}
+
+WELG_320 = {
+    name = "Paavo454"
+    culture = "wel_gravan"
+    faith = "stonegods"
+    dynasty = WELGD16 #WelgDyn16
+    father = WELG_301 #Ahti144
+    mother = WELG_632 #Vieno218
+    573.1.1 = {
+        birth = yes
+    }
+}
+
+WELG_321 = {
+    name = "Paavo78"
+    culture = "wel_gravan"
+    faith = "stonegods"
+    dynasty = WELGD16 #WelgDyn16
+    father = WELG_309 #Iivo76
+    519.1.1 = {
+        birth = yes
+    }
+    538.1.1 = {
+        add_spouse = WELG_618 #Marja45
+    }
+    582.1.1 = {
+        death = yes
+    }
+}
+
+WELG_322 = {
+    name = "Paivi444"
+    culture = "wel_gravan"
+    faith = "stonegods"
+    female = yes
+    dynasty = WELGD16 #WelgDyn16
+    father = WELG_306 #Esko143
+    mother = WELG_633 #Ylva227
+    570.1.1 = {
+        birth = yes
+    }
+    586.1.1 = {
+        add_spouse = WELG_588 #Risto610
+    }
+}
+
+WELG_323 = {
+    name = "Pekka148"
+    culture = "wel_gravan"
+    faith = "stonegods"
+    dynasty = WELGD16 #WelgDyn16
+    father = WELG_321 #Paavo78
+    mother = WELG_618 #Marja45
+    551.1.1 = {
+        birth = yes
+    }
+    574.1.1 = {
+        add_spouse = WELG_615 #Maija231
+    }
+}
+
+WELG_324 = {
+    name = "Saara150"
+    culture = "wel_gravan"
+    faith = "stonegods"
+    female = yes
+    dynasty = WELGD16 #WelgDyn16
+    father = WELG_321 #Paavo78
+    mother = WELG_618 #Marja45
+    554.1.1 = {
+        birth = yes
+    }
+    578.1.1 = {
+        add_spouse = WELG_436 #Esko181
+    }
+}
+
+WELG_325 = {
+    name = "Tiina145"
+    culture = "wel_gravan"
+    faith = "stonegods"
+    female = yes
+    dynasty = WELGD16 #WelgDyn16
+    father = WELG_312 #Juhani77
+    mother = WELG_562 #Iida40
+    553.1.1 = {
+        birth = yes
+    }
+    574.1.1 = {
+        add_spouse = WELG_465 #Toivo180
+    }
+}
+
+WELG_326 = {
+    name = "Tiina452"
+    culture = "wel_gravan"
+    faith = "stonegods"
+    female = yes
+    dynasty = WELGD16 #WelgDyn16
+    father = WELG_323 #Pekka148
+    mother = WELG_615 #Maija231
+    583.1.1 = {
+        birth = yes
+    }
+}
+
+WELG_327 = {
+    name = "Tuuli80"
+    culture = "wel_gravan"
+    faith = "stonegods"
+    female = yes
+    dynasty = WELGD16 #WelgDyn16
+    father = WELG_309 #Iivo76
+    525.1.1 = {
+        birth = yes
+    }
+    537.1.1 = {
+        add_spouse = WELG_174 #Veli58
+    }
+    579.1.1 = {
+        death = yes
+    }
+}
+
+WELG_328 = {
+    name = "Ulla448"
+    culture = "wel_gravan"
+    faith = "stonegods"
+    female = yes
+    dynasty = WELGD16 #WelgDyn16
+    father = WELG_323 #Pekka148
+    mother = WELG_615 #Maija231
+    575.1.1 = {
+        birth = yes
+    }
+}
+
+WELG_329 = {
+    name = "Aapo459"
+    culture = "wel_gravan"
+    faith = "stonegods"
+    dynasty = WELGD2 #WelgDyn2
+    father = WELG_354 #Veikko151
+    mother = WELG_19 #Katariina82
+    584.1.1 = {
+        birth = yes
+    }
+}
+
+WELG_33 = {
+    name = "Sini5"
+    culture = "wel_gravan"
+    faith = "stonegods"
+    female = yes
+    dynasty = WELGD1 #WelgDyn1
+    father = WELG_28 #Paavo1
+    524.1.1 = {
+        birth = yes
+    }
+    543.1.1 = {
+        add_spouse = WELG_343 #Mikko7
+    }
+    571.1.1 = {
+        death = yes
+    }
+}
+
+WELG_330 = {
+    name = "Aili456"
+    culture = "wel_gravan"
+    faith = "stonegods"
+    female = yes
+    dynasty = WELGD2 #WelgDyn2
+    father = WELG_354 #Veikko151
+    mother = WELG_19 #Katariina82
+    578.1.1 = {
+        birth = yes
+    }
+}
+
+WELG_331 = {
+    name = "Eero464"
+    culture = "wel_gravan"
+    faith = "stonegods"
+    dynasty = WELGD2 #WelgDyn2
+    father = WELG_348 #Tapio152
+    mother = WELG_27 #Minna90
+    567.1.1 = {
+        birth = yes
+    }
+    586.1.1 = {
+        add_spouse = WELG_628 #Ulla631
+    }
+}
+
+WELG_332 = {
+    name = "Elli471"
+    culture = "wel_gravan"
+    faith = "stonegods"
+    female = yes
+    dynasty = WELGD2 #WelgDyn2
+    father = WELG_336 #Iivo156
+    mother = WELG_133 #Tiina225
+    579.1.1 = {
+        birth = yes
+    }
+}
+
+WELG_333 = {
+    name = "Hannele153"
+    culture = "wel_gravan"
+    faith = "stonegods"
+    female = yes
+    dynasty = WELGD2 #WelgDyn2
+    father = WELG_343 #Mikko7
+    mother = WELG_33 #Sini5
+    553.1.1 = {
+        birth = yes
+    }
+    576.1.1 = {
+        add_spouse = WELG_224 #Yrjo120
+    }
+}
+
+WELG_334 = {
+    name = "Hannu154"
+    culture = "wel_gravan"
+    faith = "stonegods"
+    dynasty = WELGD2 #WelgDyn2
+    father = WELG_356 #Veikko8
+    mother = WELG_101 #Aili54
+    550.1.1 = {
+        birth = yes
+    }
+    575.1.1 = {
+        add_spouse = WELG_25 #Marja87
+    }
+}
+
+WELG_335 = {
+    name = "Iida9"
+    culture = "wel_gravan"
+    faith = "stonegods"
+    female = yes
+    dynasty = WELGD2 #WelgDyn2
+    father = WELG_352 #Vaino6
+    522.1.1 = {
+        birth = yes
+    }
+    537.1.1 = {
+        add_spouse = WELG_438 #Esko23
+    }
+}
+
+WELG_336 = {
+    name = "Iivo156"
+    culture = "wel_gravan"
+    faith = "stonegods"
+    dynasty = WELGD2 #WelgDyn2
+    father = WELG_356 #Veikko8
+    mother = WELG_101 #Aili54
+    554.1.1 = {
+        birth = yes
+    }
+    573.1.1 = {
+        add_spouse = WELG_133 #Tiina225
+    }
+}
+
+WELG_337 = {
+    name = "Iivo463"
+    culture = "wel_gravan"
+    faith = "stonegods"
+    dynasty = WELGD2 #WelgDyn2
+    father = WELG_334 #Hannu154
+    mother = WELG_25 #Marja87
+    580.1.1 = {
+        birth = yes
+    }
+}
+
+WELG_338 = {
+    name = "Johanna460"
+    culture = "wel_gravan"
+    faith = "stonegods"
+    female = yes
+    dynasty = WELGD2 #WelgDyn2
+    father = WELG_334 #Hannu154
+    mother = WELG_25 #Marja87
+    576.1.1 = {
+        birth = yes
+    }
+}
+
+WELG_339 = {
+    name = "Maija461"
+    culture = "wel_gravan"
+    faith = "stonegods"
+    female = yes
+    dynasty = WELGD2 #WelgDyn2
+    father = WELG_334 #Hannu154
+    mother = WELG_25 #Marja87
+    578.1.1 = {
+        birth = yes
+    }
+}
+
+WELG_34 = {
+    name = "Tapio81"
+    culture = "wel_gravan"
+    faith = "stonegods"
+    dynasty = WELGD1 #WelgDyn1
+    father = WELG_30 #Pekka2
+    mother = WELG_86 #Ritva49
+    550.1.1 = {
+        birth = yes
+    }
+    576.1.1 = {
+        add_spouse = WELG_69 #Katariina256
+    }
+}
+
+WELG_340 = {
+    name = "Marja157"
+    culture = "wel_gravan"
+    faith = "stonegods"
+    female = yes
+    dynasty = WELGD2 #WelgDyn2
+    father = WELG_356 #Veikko8
+    mother = WELG_101 #Aili54
+    555.1.1 = {
+        birth = yes
+    }
+    574.1.1 = {
+        add_spouse = WELG_509 #Veikko190
+    }
+}
+
+WELG_341 = {
+    name = "Matti458"
+    culture = "wel_gravan"
+    faith = "stonegods"
+    dynasty = WELGD2 #WelgDyn2
+    father = WELG_354 #Veikko151
+    mother = WELG_19 #Katariina82
+    582.1.1 = {
+        birth = yes
+    }
+}
+
+WELG_342 = {
+    name = "Matti467"
+    culture = "wel_gravan"
+    faith = "stonegods"
+    dynasty = WELGD2 #WelgDyn2
+    father = WELG_348 #Tapio152
+    mother = WELG_27 #Minna90
+    573.1.1 = {
+        birth = yes
+    }
+}
+
+WELG_343 = {
+    name = "Mikko7"
+    culture = "wel_gravan"
+    faith = "stonegods"
+    dynasty = WELGD2 #WelgDyn2
+    father = WELG_352 #Vaino6
+    516.1.1 = {
+        birth = yes
+    }
+    543.1.1 = {
+        add_spouse = WELG_33 #Sini5
+    }
+    571.1.1 = {
+        death = yes
+    }
+}
+
+WELG_344 = {
+    name = "Saara462"
+    culture = "wel_gravan"
+    faith = "stonegods"
+    female = yes
+    dynasty = WELGD2 #WelgDyn2
+    father = WELG_334 #Hannu154
+    mother = WELG_25 #Marja87
+    579.1.1 = {
+        birth = yes
+    }
+}
+
+WELG_345 = {
+    name = "Sari10"
+    culture = "wel_gravan"
+    faith = "stonegods"
+    female = yes
+    dynasty = WELGD2 #WelgDyn2
+    father = WELG_352 #Vaino6
+    525.1.1 = {
+        birth = yes
+    }
+    546.1.1 = {
+        add_spouse = WELG_200 #Lempi62
+    }
+    577.1.1 = {
+        death = yes
+    }
+}
+
+WELG_346 = {
+    name = "Sini155"
+    culture = "wel_gravan"
+    faith = "stonegods"
+    female = yes
+    dynasty = WELGD2 #WelgDyn2
+    father = WELG_356 #Veikko8
+    mother = WELG_101 #Aili54
+    552.1.1 = {
+        birth = yes
+    }
+    570.1.1 = {
+        add_spouse = WELG_483 #Joona189
+    }
+}
+
+WELG_347 = {
+    name = "Sini470"
+    culture = "wel_gravan"
+    faith = "stonegods"
+    female = yes
+    dynasty = WELGD2 #WelgDyn2
+    father = WELG_336 #Iivo156
+    mother = WELG_133 #Tiina225
+    577.1.1 = {
+        birth = yes
+    }
+}
+
+WELG_348 = {
+    name = "Tapio152"
+    culture = "wel_gravan"
+    faith = "stonegods"
+    dynasty = WELGD2 #WelgDyn2
+    father = WELG_343 #Mikko7
+    mother = WELG_33 #Sini5
+    551.1.1 = {
+        birth = yes
+    }
+    566.1.1 = {
+        add_spouse = WELG_27 #Minna90
+    }
+}
+
+WELG_349 = {
+    name = "Timo465"
+    culture = "wel_gravan"
+    faith = "stonegods"
+    dynasty = WELGD2 #WelgDyn2
+    father = WELG_348 #Tapio152
+    mother = WELG_27 #Minna90
+    569.1.1 = {
+        birth = yes
+    }
+    586.1.1 = {
+        add_spouse = WELG_21 #Kerttu278
+    }
+}
+
+WELG_35 = {
+    name = "Tiina265"
+    culture = "wel_gravan"
+    faith = "stonegods"
+    female = yes
+    dynasty = WELGD1 #WelgDyn1
+    father = WELG_22 #Kosti86
+    mother = WELG_96 #Vieno249
+    569.1.1 = {
+        birth = yes
+    }
+}
+
+WELG_350 = {
+    name = "Tuuli466"
+    culture = "wel_gravan"
+    faith = "stonegods"
+    female = yes
+    dynasty = WELGD2 #WelgDyn2
+    father = WELG_348 #Tapio152
+    mother = WELG_27 #Minna90
+    571.1.1 = {
+        birth = yes
+    }
+    586.1.1 = {
+        add_spouse = WELG_250 #Markku406
+    }
+}
+
+WELG_351 = {
+    name = "Tuuli468"
+    culture = "wel_gravan"
+    faith = "stonegods"
+    female = yes
+    dynasty = WELGD2 #WelgDyn2
+    father = WELG_336 #Iivo156
+    mother = WELG_133 #Tiina225
+    574.1.1 = {
+        birth = yes
+    }
+}
+
+WELG_352 = {
+    name = "Vaino6"
+    culture = "wel_gravan"
+    faith = "stonegods"
+    dynasty = WELGD2 #WelgDyn2
+    481.1.1 = {
+        birth = yes
+    }
+    545.1.1 = {
+        death = yes
+    }
+}
+
+WELG_353 = {
+    name = "Veera457"
+    culture = "wel_gravan"
+    faith = "stonegods"
+    female = yes
+    dynasty = WELGD2 #WelgDyn2
+    father = WELG_354 #Veikko151
+    mother = WELG_19 #Katariina82
+    580.1.1 = {
+        birth = yes
+    }
+}
+
+WELG_354 = {
+    name = "Veikko151"
+    culture = "wel_gravan"
+    faith = "stonegods"
+    dynasty = WELGD2 #WelgDyn2
+    father = WELG_343 #Mikko7
+    mother = WELG_33 #Sini5
+    550.1.1 = {
+        birth = yes
+    }
+    577.1.1 = {
+        add_spouse = WELG_19 #Katariina82
+    }
+}
+
+WELG_355 = {
+    name = "Veikko469"
+    culture = "wel_gravan"
+    faith = "stonegods"
+    dynasty = WELGD2 #WelgDyn2
+    father = WELG_336 #Iivo156
+    mother = WELG_133 #Tiina225
+    575.1.1 = {
+        birth = yes
+    }
+}
+
+WELG_356 = {
+    name = "Veikko8"
+    culture = "wel_gravan"
+    faith = "stonegods"
+    dynasty = WELGD2 #WelgDyn2
+    father = WELG_352 #Vaino6
+    519.1.1 = {
+        birth = yes
+    }
+    544.1.1 = {
+        add_spouse = WELG_101 #Aili54
+    }
+    582.1.1 = {
+        death = yes
+    }
+}
+
+WELG_357 = {
+    name = "Vieno228"
+    culture = "wel_gravan"
+    faith = "stonegods"
+    female = yes
+    dynasty = WELGD2 #WelgDyn2
+    537.1.1 = {
+        birth = yes
+    }
+    574.1.1 = {
+        add_spouse = WELG_214 #Tapio117
+    }
+}
+
+WELG_358 = {
+    name = "Aapo483"
+    culture = "wel_gravan"
+    faith = "stonegods"
+    dynasty = WELGD3 #WelgDyn3
+    father = WELG_386 #Tapio168
+    mother = WELG_167 #Pihla248
+    580.1.1 = {
+        birth = yes
+    }
+}
+
+WELG_359 = {
+    name = "Ahti484"
+    culture = "wel_gravan"
+    faith = "stonegods"
+    dynasty = WELGD3 #WelgDyn3
+    father = WELG_386 #Tapio168
+    mother = WELG_167 #Pihla248
+    582.1.1 = {
+        birth = yes
+    }
+}
+
+WELG_36 = {
+    name = "Tiina83"
+    culture = "wel_gravan"
+    faith = "stonegods"
+    female = yes
+    dynasty = WELGD1 #WelgDyn1
+    father = WELG_30 #Pekka2
+    mother = WELG_86 #Ritva49
+    552.1.1 = {
+        birth = yes
+    }
+    566.1.1 = {
+        add_spouse = WELG_619 #Markku219
+    }
+}
+
+WELG_360 = {
+    name = "Anni236"
+    culture = "wel_gravan"
+    faith = "stonegods"
+    female = yes
+    dynasty = WELGD3 #WelgDyn3
+    539.1.1 = {
+        birth = yes
+    }
+    574.1.1 = {
+        add_spouse = WELG_203 #Mikko121
+    }
+}
+
+WELG_361 = {
+    name = "Eeva160"
+    culture = "wel_gravan"
+    faith = "stonegods"
+    female = yes
+    dynasty = WELGD3 #WelgDyn3
+    father = WELG_379 #Paavo12
+    mother = WELG_171 #Riikka59
+    553.1.1 = {
+        birth = yes
+    }
+    570.1.1 = {
+        add_spouse = WELG_215 #Tapio123
+    }
+}
+
+WELG_362 = {
+    name = "Hanna477"
+    culture = "wel_gravan"
+    faith = "stonegods"
+    female = yes
+    dynasty = WELGD3 #WelgDyn3
+    father = WELG_395 #Valto161
+    mother = WELG_107 #Hanna101
+    571.1.1 = {
+        birth = yes
+    }
+    586.1.1 = {
+        add_spouse = WELG_245 #Lempi410
+    }
+}
+
+WELG_363 = {
+    name = "Hanna479"
+    culture = "wel_gravan"
+    faith = "stonegods"
+    female = yes
+    dynasty = WELGD3 #WelgDyn3
+    father = WELG_371 #Markku166
+    mother = WELG_110 #Iida108
+    569.1.1 = {
+        birth = yes
+    }
+    586.1.1 = {
+        add_spouse = WELG_592 #Simo595
+    }
+}
+
+WELG_364 = {
+    name = "Hannele255"
+    culture = "wel_gravan"
+    faith = "stonegods"
+    female = yes
+    dynasty = WELGD3 #WelgDyn3
+    536.1.1 = {
+        birth = yes
+    }
+    576.1.1 = {
+        add_spouse = WELG_510 #Veli193
+    }
+}
+
+WELG_365 = {
+    name = "Helmi482"
+    culture = "wel_gravan"
+    faith = "stonegods"
+    female = yes
+    dynasty = WELGD3 #WelgDyn3
+    father = WELG_386 #Tapio168
+    mother = WELG_167 #Pihla248
+    579.1.1 = {
+        birth = yes
+    }
+}
+
+WELG_366 = {
+    name = "Iida158"
+    culture = "wel_gravan"
+    faith = "stonegods"
+    female = yes
+    dynasty = WELGD3 #WelgDyn3
+    father = WELG_379 #Paavo12
+    mother = WELG_171 #Riikka59
+    550.1.1 = {
+        birth = yes
+    }
+    577.1.1 = {
+        add_spouse = WELG_478 #Esko194
+    }
+}
+
+WELG_367 = {
+    name = "Johanna492"
+    culture = "wel_gravan"
+    faith = "stonegods"
+    female = yes
+    dynasty = WELGD3 #WelgDyn3
+    father = WELG_392 #Urho169
+    mother = WELG_162 #Marja114
+    578.1.1 = {
+        birth = yes
+    }
+}
+
+WELG_368 = {
+    name = "Kari472"
+    culture = "wel_gravan"
+    faith = "stonegods"
+    dynasty = WELGD3 #WelgDyn3
+    father = WELG_372 #Matti165
+    mother = WELG_122 #Marja252
+    575.1.1 = {
+        birth = yes
+    }
+}
+
+WELG_369 = {
+    name = "Lempi163"
+    culture = "wel_gravan"
+    faith = "stonegods"
+    dynasty = WELGD3 #WelgDyn3
+    father = WELG_379 #Paavo12
+    mother = WELG_171 #Riikka59
+    557.1.1 = {
+        birth = yes
+    }
+    571.1.1 = {
+        add_spouse = WELG_147 #Aili110
+    }
+}
+
+WELG_37 = {
+    name = "Tuuli269"
+    culture = "wel_gravan"
+    faith = "stonegods"
+    female = yes
+    dynasty = WELGD1 #WelgDyn1
+    father = WELG_22 #Kosti86
+    mother = WELG_96 #Vieno249
+    574.1.1 = {
+        birth = yes
+    }
+}
+
+WELG_370 = {
+    name = "Marja229"
+    culture = "wel_gravan"
+    faith = "stonegods"
+    female = yes
+    dynasty = WELGD3 #WelgDyn3
+    536.1.1 = {
+        birth = yes
+    }
+    577.1.1 = {
+        add_spouse = WELG_218 #Toivo119
+    }
+}
+
+WELG_371 = {
+    name = "Markku166"
+    culture = "wel_gravan"
+    faith = "stonegods"
+    dynasty = WELGD3 #WelgDyn3
+    father = WELG_396 #Veikko13
+    mother = WELG_182 #Elli64
+    554.1.1 = {
+        birth = yes
+    }
+    568.1.1 = {
+        add_spouse = WELG_110 #Iida108
+    }
+}
+
+WELG_372 = {
+    name = "Matti165"
+    culture = "wel_gravan"
+    faith = "stonegods"
+    dynasty = WELGD3 #WelgDyn3
+    father = WELG_396 #Veikko13
+    mother = WELG_182 #Elli64
+    552.1.1 = {
+        birth = yes
+    }
+    574.1.1 = {
+        add_spouse = WELG_122 #Marja252
+    }
+}
+
+WELG_373 = {
+    name = "Matti475"
+    culture = "wel_gravan"
+    faith = "stonegods"
+    dynasty = WELGD3 #WelgDyn3
+    father = WELG_395 #Valto161
+    mother = WELG_107 #Hanna101
+    567.1.1 = {
+        birth = yes
+    }
+    586.1.1 = {
+        add_spouse = WELG_89 #Sini280
+    }
+}
+
+WELG_374 = {
+    name = "Matti493"
+    culture = "wel_gravan"
+    faith = "stonegods"
+    dynasty = WELGD3 #WelgDyn3
+    father = WELG_392 #Urho169
+    mother = WELG_162 #Marja114
+    579.1.1 = {
+        birth = yes
+    }
+}
+
+WELG_375 = {
+    name = "Mikko489"
+    culture = "wel_gravan"
+    faith = "stonegods"
+    dynasty = WELGD3 #WelgDyn3
+    father = WELG_369 #Lempi163
+    mother = WELG_147 #Aili110
+    577.1.1 = {
+        birth = yes
+    }
+}
+
+WELG_376 = {
+    name = "Minna481"
+    culture = "wel_gravan"
+    faith = "stonegods"
+    female = yes
+    dynasty = WELGD3 #WelgDyn3
+    father = WELG_371 #Markku166
+    mother = WELG_110 #Iida108
+    572.1.1 = {
+        birth = yes
+    }
+}
+
+WELG_377 = {
+    name = "Noora162"
+    culture = "wel_gravan"
+    faith = "stonegods"
+    female = yes
+    dynasty = WELGD3 #WelgDyn3
+    father = WELG_379 #Paavo12
+    mother = WELG_171 #Riikka59
+    556.1.1 = {
+        birth = yes
+    }
+    574.1.1 = {
+        add_spouse = WELG_192 #Juhani125
+    }
+}
+
+WELG_378 = {
+    name = "Noora486"
+    culture = "wel_gravan"
+    faith = "stonegods"
+    female = yes
+    dynasty = WELGD3 #WelgDyn3
+    father = WELG_369 #Lempi163
+    mother = WELG_147 #Aili110
+    573.1.1 = {
+        birth = yes
+    }
+}
+
+WELG_379 = {
+    name = "Paavo12"
+    culture = "wel_gravan"
+    faith = "stonegods"
+    dynasty = WELGD3 #WelgDyn3
+    father = WELG_394 #Valto11
+    517.1.1 = {
+        birth = yes
+    }
+    537.1.1 = {
+        add_spouse = WELG_171 #Riikka59
+    }
+    578.1.1 = {
+        death = yes
+    }
+}
+
+WELG_38 = {
+    name = "Urho262"
+    culture = "wel_gravan"
+    faith = "stonegods"
+    dynasty = WELGD1 #WelgDyn1
+    father = WELG_17 #Kalevi85
+    mother = WELG_93 #Ulla221
+    573.1.1 = {
+        birth = yes
+    }
+}
+
+WELG_380 = {
+    name = "Pihla488"
+    culture = "wel_gravan"
+    faith = "stonegods"
+    female = yes
+    dynasty = WELGD3 #WelgDyn3
+    father = WELG_369 #Lempi163
+    mother = WELG_147 #Aili110
+    576.1.1 = {
+        birth = yes
+    }
+}
+
+WELG_381 = {
+    name = "Riikka490"
+    culture = "wel_gravan"
+    faith = "stonegods"
+    female = yes
+    dynasty = WELGD3 #WelgDyn3
+    father = WELG_369 #Lempi163
+    mother = WELG_147 #Aili110
+    578.1.1 = {
+        birth = yes
+    }
+}
+
+WELG_382 = {
+    name = "Sari164"
+    culture = "wel_gravan"
+    faith = "stonegods"
+    female = yes
+    dynasty = WELGD3 #WelgDyn3
+    father = WELG_396 #Veikko13
+    mother = WELG_182 #Elli64
+    550.1.1 = {
+        birth = yes
+    }
+    566.1.1 = {
+        add_spouse = WELG_204 #Niilo122
+    }
+}
+
+WELG_383 = {
+    name = "Simo485"
+    culture = "wel_gravan"
+    faith = "stonegods"
+    dynasty = WELGD3 #WelgDyn3
+    father = WELG_369 #Lempi163
+    mother = WELG_147 #Aili110
+    572.1.1 = {
+        birth = yes
+    }
+}
+
+WELG_384 = {
+    name = "Sini473"
+    culture = "wel_gravan"
+    faith = "stonegods"
+    female = yes
+    dynasty = WELGD3 #WelgDyn3
+    father = WELG_372 #Matti165
+    mother = WELG_122 #Marja252
+    576.1.1 = {
+        birth = yes
+    }
+}
+
+WELG_385 = {
+    name = "Sini480"
+    culture = "wel_gravan"
+    faith = "stonegods"
+    female = yes
+    dynasty = WELGD3 #WelgDyn3
+    father = WELG_371 #Markku166
+    mother = WELG_110 #Iida108
+    571.1.1 = {
+        birth = yes
+    }
+    586.1.1 = {
+        add_spouse = WELG_612 #Lauri626
+    }
+}
+
+WELG_386 = {
+    name = "Tapio168"
+    culture = "wel_gravan"
+    faith = "stonegods"
+    dynasty = WELGD3 #WelgDyn3
+    father = WELG_396 #Veikko13
+    mother = WELG_182 #Elli64
+    556.1.1 = {
+        birth = yes
+    }
+    578.1.1 = {
+        add_spouse = WELG_167 #Pihla248
+    }
+}
+
+WELG_387 = {
+    name = "Tapio476"
+    culture = "wel_gravan"
+    faith = "stonegods"
+    dynasty = WELGD3 #WelgDyn3
+    father = WELG_395 #Valto161
+    mother = WELG_107 #Hanna101
+    569.1.1 = {
+        birth = yes
+    }
+    586.1.1 = {
+        add_spouse = WELG_82 #Pihla311
+    }
+}
+
+WELG_388 = {
+    name = "Toivo487"
+    culture = "wel_gravan"
+    faith = "stonegods"
+    dynasty = WELGD3 #WelgDyn3
+    father = WELG_369 #Lempi163
+    mother = WELG_147 #Aili110
+    574.1.1 = {
+        birth = yes
+    }
+}
+
+WELG_389 = {
+    name = "Tuuli14"
+    culture = "wel_gravan"
+    faith = "stonegods"
+    female = yes
+    dynasty = WELGD3 #WelgDyn3
+    father = WELG_394 #Valto11
+    523.1.1 = {
+        birth = yes
+    }
+    535.1.1 = {
+        add_spouse = WELG_479 #Esko27
+    }
+    568.1.1 = {
+        death = yes
+    }
+}
+
+WELG_39 = {
+    name = "Vaino277"
+    culture = "wel_gravan"
+    faith = "stonegods"
+    dynasty = WELGD1 #WelgDyn1
+    father = WELG_26 #Matti88
+    mother = WELG_94 #Ulla94
+    569.1.1 = {
+        birth = yes
+    }
+    586.1.1 = {
+        add_spouse = WELG_77 #Noora315
+    }
+}
+
+WELG_390 = {
+    name = "Tuuli159"
+    culture = "wel_gravan"
+    faith = "stonegods"
+    female = yes
+    dynasty = WELGD3 #WelgDyn3
+    father = WELG_379 #Paavo12
+    mother = WELG_171 #Riikka59
+    551.1.1 = {
+        birth = yes
+    }
+    569.1.1 = {
+        add_spouse = WELG_501 #Tapio191
+    }
+}
+
+WELG_391 = {
+    name = "Tuuli491"
+    culture = "wel_gravan"
+    faith = "stonegods"
+    female = yes
+    dynasty = WELGD3 #WelgDyn3
+    father = WELG_392 #Urho169
+    mother = WELG_162 #Marja114
+    576.1.1 = {
+        birth = yes
+    }
+}
+
+WELG_392 = {
+    name = "Urho169"
+    culture = "wel_gravan"
+    faith = "stonegods"
+    dynasty = WELGD3 #WelgDyn3
+    father = WELG_396 #Veikko13
+    mother = WELG_182 #Elli64
+    558.1.1 = {
+        birth = yes
+    }
+    575.1.1 = {
+        add_spouse = WELG_162 #Marja114
+    }
+}
+
+WELG_393 = {
+    name = "Urho478"
+    culture = "wel_gravan"
+    faith = "stonegods"
+    dynasty = WELGD3 #WelgDyn3
+    father = WELG_395 #Valto161
+    mother = WELG_107 #Hanna101
+    572.1.1 = {
+        birth = yes
+    }
+}
+
+WELG_394 = {
+    name = "Valto11"
+    culture = "wel_gravan"
+    faith = "stonegods"
+    dynasty = WELGD3 #WelgDyn3
+    482.1.1 = {
+        birth = yes
+    }
+    543.1.1 = {
+        death = yes
+    }
+}
+
+WELG_395 = {
+    name = "Valto161"
+    culture = "wel_gravan"
+    faith = "stonegods"
+    dynasty = WELGD3 #WelgDyn3
+    father = WELG_379 #Paavo12
+    mother = WELG_171 #Riikka59
+    554.1.1 = {
+        birth = yes
+    }
+    566.1.1 = {
+        add_spouse = WELG_107 #Hanna101
+    }
+}
+
+WELG_396 = {
+    name = "Veikko13"
+    culture = "wel_gravan"
+    faith = "stonegods"
+    dynasty = WELGD3 #WelgDyn3
+    father = WELG_394 #Valto11
+    520.1.1 = {
+        birth = yes
+    }
+    542.1.1 = {
+        add_spouse = WELG_182 #Elli64
+    }
+}
+
+WELG_397 = {
+    name = "Vilma15"
+    culture = "wel_gravan"
+    faith = "stonegods"
+    female = yes
+    dynasty = WELGD3 #WelgDyn3
+    father = WELG_394 #Valto11
+    526.1.1 = {
+        birth = yes
+    }
+    549.1.1 = {
+        add_spouse = WELG_191 #Joona63
+    }
+    582.1.1 = {
+        death = yes
+    }
+}
+
+WELG_398 = {
+    name = "Vilma167"
+    culture = "wel_gravan"
+    faith = "stonegods"
+    female = yes
+    dynasty = WELGD3 #WelgDyn3
+    father = WELG_396 #Veikko13
+    mother = WELG_182 #Elli64
+    555.1.1 = {
+        birth = yes
+    }
+    572.1.1 = {
+        add_spouse = WELG_543 #Vaino195
+    }
+}
+
+WELG_399 = {
+    name = "Yrjo474"
+    culture = "wel_gravan"
+    faith = "stonegods"
+    dynasty = WELGD3 #WelgDyn3
+    father = WELG_372 #Matti165
+    mother = WELG_122 #Marja252
+    577.1.1 = {
+        birth = yes
+    }
+}
+
+WELG_4 = {
+    name = "Elina273"
+    culture = "wel_gravan"
+    faith = "stonegods"
+    female = yes
+    dynasty = WELGD1 #WelgDyn1
+    father = WELG_9 #Hannu84
+    mother = WELG_70 #Katariina96
+    575.1.1 = {
+        birth = yes
+    }
+}
+
+WELG_40 = {
+    name = "Aapo100"
+    culture = "wel_gravan"
+    faith = "stonegods"
+    dynasty = WELGD10 #WelgDyn10
+    father = WELG_46 #Arto48
+    mother = WELG_175 #Ylva60
+    554.1.1 = {
+        birth = yes
+    }
+    567.1.1 = {
+        add_spouse = WELG_160 #Maija112
+    }
+}
+
+WELG_400 = {
+    name = "Aili245"
+    culture = "wel_gravan"
+    faith = "stonegods"
+    female = yes
+    dynasty = WELGD4 #WelgDyn4
+    537.1.1 = {
+        birth = yes
+    }
+    575.1.1 = {
+        add_spouse = WELG_258 #Risto126
+    }
+}
+
+WELG_401 = {
+    name = "Aili507"
+    culture = "wel_gravan"
+    faith = "stonegods"
+    female = yes
+    dynasty = WELGD4 #WelgDyn4
+    father = WELG_420 #Simo177
+    mother = WELG_230 #Elina132
+    578.1.1 = {
+        birth = yes
+    }
+}
+
+WELG_402 = {
+    name = "Eero495"
+    culture = "wel_gravan"
+    faith = "stonegods"
+    dynasty = WELGD4 #WelgDyn4
+    father = WELG_428 #Veli170
+    mother = WELG_217 #Tiina251
+    578.1.1 = {
+        birth = yes
+    }
+}
+
+WELG_403 = {
+    name = "Emilia172"
+    culture = "wel_gravan"
+    faith = "stonegods"
+    female = yes
+    dynasty = WELGD4 #WelgDyn4
+    father = WELG_414 #Reino17
+    mother = WELG_266 #Ylva69
+    553.1.1 = {
+        birth = yes
+    }
+    567.1.1 = {
+        add_spouse = WELG_233 #Iivo127
+    }
+}
+
+WELG_404 = {
+    name = "Emilia494"
+    culture = "wel_gravan"
+    faith = "stonegods"
+    female = yes
+    dynasty = WELGD4 #WelgDyn4
+    father = WELG_428 #Veli170
+    mother = WELG_217 #Tiina251
+    577.1.1 = {
+        birth = yes
+    }
+}
+
+WELG_405 = {
+    name = "Hannele500"
+    culture = "wel_gravan"
+    faith = "stonegods"
+    female = yes
+    dynasty = WELGD4 #WelgDyn4
+    father = WELG_409 #Kosti171
+    mother = WELG_177 #Aili118
+    571.1.1 = {
+        birth = yes
+    }
+    586.1.1 = {
+        add_spouse = WELG_257 #Reino407
+    }
+}
+
+WELG_406 = {
+    name = "Johanna250"
+    culture = "wel_gravan"
+    faith = "stonegods"
+    female = yes
+    dynasty = WELGD4 #WelgDyn4
+    544.1.1 = {
+        birth = yes
+    }
+    575.1.1 = {
+        add_spouse = WELG_537 #Sakari196
+    }
+}
+
+WELG_407 = {
+    name = "Johanna497"
+    culture = "wel_gravan"
+    faith = "stonegods"
+    female = yes
+    dynasty = WELGD4 #WelgDyn4
+    father = WELG_417 #Sakari174
+    mother = WELG_178 #Aili240
+    577.1.1 = {
+        birth = yes
+    }
+}
+
+WELG_408 = {
+    name = "Kerttu173"
+    culture = "wel_gravan"
+    faith = "stonegods"
+    female = yes
+    dynasty = WELGD4 #WelgDyn4
+    father = WELG_414 #Reino17
+    mother = WELG_266 #Ylva69
+    554.1.1 = {
+        birth = yes
+    }
+    577.1.1 = {
+        add_spouse = WELG_546 #Yrjo202
+    }
+}
+
+WELG_409 = {
+    name = "Kosti171"
+    culture = "wel_gravan"
+    faith = "stonegods"
+    dynasty = WELGD4 #WelgDyn4
+    father = WELG_414 #Reino17
+    mother = WELG_266 #Ylva69
+    551.1.1 = {
+        birth = yes
+    }
+    570.1.1 = {
+        add_spouse = WELG_177 #Aili118
+    }
+}
+
+WELG_41 = {
+    name = "Aapo306"
+    culture = "wel_gravan"
+    faith = "stonegods"
+    dynasty = WELGD10 #WelgDyn10
+    father = WELG_95 #Veli99
+    mother = WELG_173 #Veera238
+    575.1.1 = {
+        birth = yes
+    }
+}
+
+WELG_410 = {
+    name = "Kosti496"
+    culture = "wel_gravan"
+    faith = "stonegods"
+    dynasty = WELGD4 #WelgDyn4
+    father = WELG_428 #Veli170
+    mother = WELG_217 #Tiina251
+    579.1.1 = {
+        birth = yes
+    }
+}
+
+WELG_411 = {
+    name = "Lauri16"
+    culture = "wel_gravan"
+    faith = "stonegods"
+    dynasty = WELGD4 #WelgDyn4
+    483.1.1 = {
+        birth = yes
+    }
+    558.1.1 = {
+        death = yes
+    }
+}
+
+WELG_412 = {
+    name = "Maija222"
+    culture = "wel_gravan"
+    faith = "stonegods"
+    female = yes
+    dynasty = WELGD4 #WelgDyn4
+    536.1.1 = {
+        birth = yes
+    }
+    573.1.1 = {
+        add_spouse = WELG_532 #Paavo200
+    }
+}
+
+WELG_413 = {
+    name = "Mari503"
+    culture = "wel_gravan"
+    faith = "stonegods"
+    female = yes
+    dynasty = WELGD4 #WelgDyn4
+    father = WELG_409 #Kosti171
+    mother = WELG_177 #Aili118
+    574.1.1 = {
+        birth = yes
+    }
+}
+
+WELG_414 = {
+    name = "Reino17"
+    culture = "wel_gravan"
+    faith = "stonegods"
+    dynasty = WELGD4 #WelgDyn4
+    father = WELG_411 #Lauri16
+    518.1.1 = {
+        birth = yes
+    }
+    537.1.1 = {
+        add_spouse = WELG_266 #Ylva69
+    }
+    575.1.1 = {
+        death = yes
+    }
+}
+
+WELG_415 = {
+    name = "Reino505"
+    culture = "wel_gravan"
+    faith = "stonegods"
+    dynasty = WELGD4 #WelgDyn4
+    father = WELG_420 #Simo177
+    mother = WELG_230 #Elina132
+    575.1.1 = {
+        birth = yes
+    }
+}
+
+WELG_416 = {
+    name = "Risto18"
+    culture = "wel_gravan"
+    faith = "stonegods"
+    dynasty = WELGD4 #WelgDyn4
+    father = WELG_411 #Lauri16
+    521.1.1 = {
+        birth = yes
+    }
+    547.1.1 = {
+        add_spouse = WELG_273 #Eeva74
+    }
+    579.1.1 = {
+        death = yes
+    }
+}
+
+WELG_417 = {
+    name = "Sakari174"
+    culture = "wel_gravan"
+    faith = "stonegods"
+    dynasty = WELGD4 #WelgDyn4
+    father = WELG_416 #Risto18
+    mother = WELG_273 #Eeva74
+    550.1.1 = {
+        birth = yes
+    }
+    576.1.1 = {
+        add_spouse = WELG_178 #Aili240
+    }
+}
+
+WELG_418 = {
+    name = "Sari19"
+    culture = "wel_gravan"
+    faith = "stonegods"
+    female = yes
+    dynasty = WELGD4 #WelgDyn4
+    father = WELG_411 #Lauri16
+    524.1.1 = {
+        birth = yes
+    }
+    548.1.1 = {
+        add_spouse = WELG_499 #Simo28
+    }
+    576.1.1 = {
+        death = yes
+    }
+}
+
+WELG_419 = {
+    name = "Satu506"
+    culture = "wel_gravan"
+    faith = "stonegods"
+    female = yes
+    dynasty = WELGD4 #WelgDyn4
+    father = WELG_420 #Simo177
+    mother = WELG_230 #Elina132
+    576.1.1 = {
+        birth = yes
+    }
+}
+
+WELG_42 = {
+    name = "Ahti304"
+    culture = "wel_gravan"
+    faith = "stonegods"
+    dynasty = WELGD10 #WelgDyn10
+    father = WELG_95 #Veli99
+    mother = WELG_173 #Veera238
+    573.1.1 = {
+        birth = yes
+    }
+}
+
+WELG_420 = {
+    name = "Simo177"
+    culture = "wel_gravan"
+    faith = "stonegods"
+    dynasty = WELGD4 #WelgDyn4
+    father = WELG_416 #Risto18
+    mother = WELG_273 #Eeva74
+    554.1.1 = {
+        birth = yes
+    }
+    574.1.1 = {
+        add_spouse = WELG_230 #Elina132
+    }
+}
+
+WELG_421 = {
+    name = "Tapio502"
+    culture = "wel_gravan"
+    faith = "stonegods"
+    dynasty = WELGD4 #WelgDyn4
+    father = WELG_409 #Kosti171
+    mother = WELG_177 #Aili118
+    573.1.1 = {
+        birth = yes
+    }
+}
+
+WELG_422 = {
+    name = "Tiina504"
+    culture = "wel_gravan"
+    faith = "stonegods"
+    female = yes
+    dynasty = WELGD4 #WelgDyn4
+    father = WELG_409 #Kosti171
+    mother = WELG_177 #Aili118
+    575.1.1 = {
+        birth = yes
+    }
+}
+
+WELG_423 = {
+    name = "Toivo498"
+    culture = "wel_gravan"
+    faith = "stonegods"
+    dynasty = WELGD4 #WelgDyn4
+    father = WELG_417 #Sakari174
+    mother = WELG_178 #Aili240
+    578.1.1 = {
+        birth = yes
+    }
+}
+
+WELG_424 = {
+    name = "Tuuli175"
+    culture = "wel_gravan"
+    faith = "stonegods"
+    female = yes
+    dynasty = WELGD4 #WelgDyn4
+    father = WELG_416 #Risto18
+    mother = WELG_273 #Eeva74
+    551.1.1 = {
+        birth = yes
+    }
+    576.1.1 = {
+        add_spouse = WELG_255 #Paavo131
+    }
+}
+
+WELG_425 = {
+    name = "Tuuli20"
+    culture = "wel_gravan"
+    faith = "stonegods"
+    female = yes
+    dynasty = WELGD4 #WelgDyn4
+    father = WELG_411 #Lauri16
+    527.1.1 = {
+        birth = yes
+    }
+    549.1.1 = {
+        add_spouse = WELG_241 #Joona67
+    }
+    576.1.1 = {
+        death = yes
+    }
+}
+
+WELG_426 = {
+    name = "Tuuli499"
+    culture = "wel_gravan"
+    faith = "stonegods"
+    female = yes
+    dynasty = WELGD4 #WelgDyn4
+    father = WELG_417 #Sakari174
+    mother = WELG_178 #Aili240
+    579.1.1 = {
+        birth = yes
+    }
+}
+
+WELG_427 = {
+    name = "Veera176"
+    culture = "wel_gravan"
+    faith = "stonegods"
+    female = yes
+    dynasty = WELGD4 #WelgDyn4
+    father = WELG_416 #Risto18
+    mother = WELG_273 #Eeva74
+    552.1.1 = {
+        birth = yes
+    }
+    576.1.1 = {
+        add_spouse = WELG_531 #Mikko197
+    }
+}
+
+WELG_428 = {
+    name = "Veli170"
+    culture = "wel_gravan"
+    faith = "stonegods"
+    dynasty = WELGD4 #WelgDyn4
+    father = WELG_414 #Reino17
+    mother = WELG_266 #Ylva69
+    550.1.1 = {
+        birth = yes
+    }
+    576.1.1 = {
+        add_spouse = WELG_217 #Tiina251
+    }
+}
+
+WELG_429 = {
+    name = "Vieno501"
+    culture = "wel_gravan"
+    faith = "stonegods"
+    female = yes
+    dynasty = WELGD4 #WelgDyn4
+    father = WELG_409 #Kosti171
+    mother = WELG_177 #Aili118
+    572.1.1 = {
+        birth = yes
+    }
+}
+
+WELG_43 = {
+    name = "Aili318"
+    culture = "wel_gravan"
+    faith = "stonegods"
+    female = yes
+    dynasty = WELGD10 #WelgDyn10
+    father = WELG_40 #Aapo100
+    mother = WELG_160 #Maija112
+    572.1.1 = {
+        birth = yes
+    }
+}
+
+WELG_430 = {
+    name = "Ylva508"
+    culture = "wel_gravan"
+    faith = "stonegods"
+    female = yes
+    dynasty = WELGD4 #WelgDyn4
+    father = WELG_420 #Simo177
+    mother = WELG_230 #Elina132
+    580.1.1 = {
+        birth = yes
+    }
+}
+
+WELG_431 = {
+    name = "Aapo510"
+    culture = "wel_gravan"
+    faith = "stonegods"
+    dynasty = WELGD5 #WelgDyn5
+    father = WELG_466 #Urho178
+    mother = WELG_278 #Helmi134
+    581.1.1 = {
+        birth = yes
+    }
+}
+
+WELG_432 = {
+    name = "Aili188"
+    culture = "wel_gravan"
+    faith = "stonegods"
+    female = yes
+    dynasty = WELGD5 #WelgDyn5
+    father = WELG_438 #Esko23
+    mother = WELG_335 #Iida9
+    555.1.1 = {
+        birth = yes
+    }
+    574.1.1 = {
+        add_spouse = WELG_584 #Olli205
+    }
+}
+
+WELG_433 = {
+    name = "Aino246"
+    culture = "wel_gravan"
+    faith = "stonegods"
+    female = yes
+    dynasty = WELGD5 #WelgDyn5
+    540.1.1 = {
+        birth = yes
+    }
+    573.1.1 = {
+        add_spouse = WELG_559 #Hannu204
+    }
+}
+
+WELG_434 = {
+    name = "Antti520"
+    culture = "wel_gravan"
+    faith = "stonegods"
+    dynasty = WELGD5 #WelgDyn5
+    father = WELG_464 #Timo179
+    mother = WELG_314 #Liisa233
+    578.1.1 = {
+        birth = yes
+    }
+}
+
+WELG_435 = {
+    name = "Elina253"
+    culture = "wel_gravan"
+    faith = "stonegods"
+    female = yes
+    dynasty = WELGD5 #WelgDyn5
+    540.1.1 = {
+        birth = yes
+    }
+    568.1.1 = {
+        add_spouse = WELG_229 #Eero128
+    }
+}
+
+WELG_436 = {
+    name = "Esko181"
+    culture = "wel_gravan"
+    faith = "stonegods"
+    dynasty = WELGD5 #WelgDyn5
+    father = WELG_437 #Esko22
+    mother = WELG_317 #Maija79
+    555.1.1 = {
+        birth = yes
+    }
+    578.1.1 = {
+        add_spouse = WELG_324 #Saara150
+    }
+}
+
+WELG_437 = {
+    name = "Esko22"
+    culture = "wel_gravan"
+    faith = "stonegods"
+    dynasty = WELGD5 #WelgDyn5
+    father = WELG_452 #Mikko21
+    519.1.1 = {
+        birth = yes
+    }
+    537.1.1 = {
+        add_spouse = WELG_317 #Maija79
+    }
+    572.1.1 = {
+        death = yes
+    }
+}
+
+WELG_438 = {
+    name = "Esko23"
+    culture = "wel_gravan"
+    faith = "stonegods"
+    dynasty = WELGD5 #WelgDyn5
+    father = WELG_452 #Mikko21
+    522.1.1 = {
+        birth = yes
+    }
+    537.1.1 = {
+        add_spouse = WELG_335 #Iida9
+    }
+    581.1.1 = {
+        death = yes
+    }
+}
+
+WELG_439 = {
+    name = "Hanna182"
+    culture = "wel_gravan"
+    faith = "stonegods"
+    female = yes
+    dynasty = WELGD5 #WelgDyn5
+    father = WELG_437 #Esko22
+    mother = WELG_317 #Maija79
+    557.1.1 = {
+        birth = yes
+    }
+    569.1.1 = {
+        add_spouse = WELG_226 #Ahti130
+    }
+}
+
+WELG_44 = {
+    name = "Anni307"
+    culture = "wel_gravan"
+    faith = "stonegods"
+    female = yes
+    dynasty = WELGD10 #WelgDyn10
+    father = WELG_95 #Veli99
+    mother = WELG_173 #Veera238
+    577.1.1 = {
+        birth = yes
+    }
+}
+
+WELG_440 = {
+    name = "Hanna24"
+    culture = "wel_gravan"
+    faith = "stonegods"
+    female = yes
+    dynasty = WELGD5 #WelgDyn5
+    father = WELG_452 #Mikko21
+    525.1.1 = {
+        birth = yes
+    }
+    535.1.1 = {
+        add_spouse = WELG_520 #Ilmari32
+    }
+    570.1.1 = {
+        death = yes
+    }
+}
+
+WELG_441 = {
+    name = "Hannu534"
+    culture = "wel_gravan"
+    faith = "stonegods"
+    dynasty = WELGD5 #WelgDyn5
+    father = WELG_436 #Esko181
+    mother = WELG_324 #Saara150
+    585.1.1 = {
+        birth = yes
+    }
+}
+
+WELG_442 = {
+    name = "Helmi522"
+    culture = "wel_gravan"
+    faith = "stonegods"
+    female = yes
+    dynasty = WELGD5 #WelgDyn5
+    father = WELG_473 #Yrjo185
+    mother = WELG_315 #Lotta147
+    571.1.1 = {
+        birth = yes
+    }
+    586.1.1 = {
+        add_spouse = WELG_604 #Hannu618
+    }
+}
+
+WELG_443 = {
+    name = "Iivo509"
+    culture = "wel_gravan"
+    faith = "stonegods"
+    dynasty = WELGD5 #WelgDyn5
+    father = WELG_466 #Urho178
+    mother = WELG_278 #Helmi134
+    579.1.1 = {
+        birth = yes
+    }
+}
+
+WELG_444 = {
+    name = "Johanna183"
+    culture = "wel_gravan"
+    faith = "stonegods"
+    female = yes
+    dynasty = WELGD5 #WelgDyn5
+    father = WELG_437 #Esko22
+    mother = WELG_317 #Maija79
+    559.1.1 = {
+        birth = yes
+    }
+    567.1.1 = {
+        add_spouse = WELG_581 #Mikko208
+    }
+}
+
+WELG_445 = {
+    name = "Johanna25"
+    culture = "wel_gravan"
+    faith = "stonegods"
+    female = yes
+    dynasty = WELGD5 #WelgDyn5
+    father = WELG_452 #Mikko21
+    528.1.1 = {
+        birth = yes
+    }
+    546.1.1 = {
+        add_spouse = WELG_263 #Tapio68
+    }
+    574.1.1 = {
+        death = yes
+    }
+}
+
+WELG_446 = {
+    name = "Johanna521"
+    culture = "wel_gravan"
+    faith = "stonegods"
+    female = yes
+    dynasty = WELGD5 #WelgDyn5
+    father = WELG_473 #Yrjo185
+    mother = WELG_315 #Lotta147
+    570.1.1 = {
+        birth = yes
+    }
+    586.1.1 = {
+        add_spouse = WELG_613 #Lempi617
+    }
+}
+
+WELG_447 = {
+    name = "Juhani523"
+    culture = "wel_gravan"
+    faith = "stonegods"
+    dynasty = WELGD5 #WelgDyn5
+    father = WELG_473 #Yrjo185
+    mother = WELG_315 #Lotta147
+    572.1.1 = {
+        birth = yes
+    }
+}
+
+WELG_448 = {
+    name = "Kalevi524"
+    culture = "wel_gravan"
+    faith = "stonegods"
+    dynasty = WELGD5 #WelgDyn5
+    father = WELG_473 #Yrjo185
+    mother = WELG_315 #Lotta147
+    574.1.1 = {
+        birth = yes
+    }
+}
+
+WELG_449 = {
+    name = "Kalevi527"
+    culture = "wel_gravan"
+    faith = "stonegods"
+    dynasty = WELGD5 #WelgDyn5
+    father = WELG_465 #Toivo180
+    mother = WELG_325 #Tiina145
+    577.1.1 = {
+        birth = yes
+    }
+}
+
+WELG_45 = {
+    name = "Arto47"
+    culture = "wel_gravan"
+    faith = "stonegods"
+    dynasty = WELGD10 #WelgDyn10
+    father = WELG_57 #Heikki46
+    517.1.1 = {
+        birth = yes
+    }
+    542.1.1 = {
+        add_spouse = WELG_143 #Vieno55
+    }
+    576.1.1 = {
+        death = yes
+    }
+}
+
+WELG_450 = {
+    name = "Lempi525"
+    culture = "wel_gravan"
+    faith = "stonegods"
+    dynasty = WELGD5 #WelgDyn5
+    father = WELG_473 #Yrjo185
+    mother = WELG_315 #Lotta147
+    575.1.1 = {
+        birth = yes
+    }
+}
+
+WELG_451 = {
+    name = "Marja516"
+    culture = "wel_gravan"
+    faith = "stonegods"
+    female = yes
+    dynasty = WELGD5 #WelgDyn5
+    father = WELG_464 #Timo179
+    mother = WELG_314 #Liisa233
+    571.1.1 = {
+        birth = yes
+    }
+    586.1.1 = {
+        add_spouse = WELG_261 #Simo408
+    }
+}
+
+WELG_452 = {
+    name = "Mikko21"
+    culture = "wel_gravan"
+    faith = "stonegods"
+    dynasty = WELGD5 #WelgDyn5
+    484.1.1 = {
+        birth = yes
+    }
+    550.1.1 = {
+        death = yes
+    }
+}
+
+WELG_453 = {
+    name = "Minna186"
+    culture = "wel_gravan"
+    faith = "stonegods"
+    female = yes
+    dynasty = WELGD5 #WelgDyn5
+    father = WELG_438 #Esko23
+    mother = WELG_335 #Iida9
+    552.1.1 = {
+        birth = yes
+    }
+    573.1.1 = {
+        add_spouse = WELG_571 #Kauko207
+    }
+}
+
+WELG_454 = {
+    name = "Olli184"
+    culture = "wel_gravan"
+    faith = "stonegods"
+    dynasty = WELGD5 #WelgDyn5
+    father = WELG_438 #Esko23
+    mother = WELG_335 #Iida9
+    550.1.1 = {
+        birth = yes
+    }
+    568.1.1 = {
+        add_spouse = WELG_286 #Kerttu137
+    }
+}
+
+WELG_455 = {
+    name = "Onni511"
+    culture = "wel_gravan"
+    faith = "stonegods"
+    dynasty = WELGD5 #WelgDyn5
+    father = WELG_466 #Urho178
+    mother = WELG_278 #Helmi134
+    582.1.1 = {
+        birth = yes
+    }
+}
+
+WELG_456 = {
+    name = "Paavo517"
+    culture = "wel_gravan"
+    faith = "stonegods"
+    dynasty = WELGD5 #WelgDyn5
+    father = WELG_464 #Timo179
+    mother = WELG_314 #Liisa233
+    572.1.1 = {
+        birth = yes
+    }
+}
+
+WELG_457 = {
+    name = "Paivi526"
+    culture = "wel_gravan"
+    faith = "stonegods"
+    female = yes
+    dynasty = WELGD5 #WelgDyn5
+    father = WELG_465 #Toivo180
+    mother = WELG_325 #Tiina145
+    575.1.1 = {
+        birth = yes
+    }
+}
+
+WELG_458 = {
+    name = "Ritva513"
+    culture = "wel_gravan"
+    faith = "stonegods"
+    female = yes
+    dynasty = WELGD5 #WelgDyn5
+    father = WELG_454 #Olli184
+    mother = WELG_286 #Kerttu137
+    569.1.1 = {
+        birth = yes
+    }
+    586.1.1 = {
+        add_spouse = WELG_624 #Simo627
+    }
+}
+
+WELG_459 = {
+    name = "Ritva514"
+    culture = "wel_gravan"
+    faith = "stonegods"
+    female = yes
+    dynasty = WELGD5 #WelgDyn5
+    father = WELG_454 #Olli184
+    mother = WELG_286 #Kerttu137
+    570.1.1 = {
+        birth = yes
+    }
+    586.1.1 = {
+        add_spouse = WELG_251 #Matti421
+    }
+}
+
+WELG_46 = {
+    name = "Arto48"
+    culture = "wel_gravan"
+    faith = "stonegods"
+    dynasty = WELGD10 #WelgDyn10
+    father = WELG_57 #Heikki46
+    520.1.1 = {
+        birth = yes
+    }
+    536.1.1 = {
+        add_spouse = WELG_175 #Ylva60
+    }
+    576.1.1 = {
+        death = yes
+    }
+}
+
+WELG_460 = {
+    name = "Saara515"
+    culture = "wel_gravan"
+    faith = "stonegods"
+    female = yes
+    dynasty = WELGD5 #WelgDyn5
+    father = WELG_454 #Olli184
+    mother = WELG_286 #Kerttu137
+    572.1.1 = {
+        birth = yes
+    }
+}
+
+WELG_461 = {
+    name = "Sari533"
+    culture = "wel_gravan"
+    faith = "stonegods"
+    female = yes
+    dynasty = WELGD5 #WelgDyn5
+    father = WELG_436 #Esko181
+    mother = WELG_324 #Saara150
+    583.1.1 = {
+        birth = yes
+    }
+}
+
+WELG_462 = {
+    name = "Satu244"
+    culture = "wel_gravan"
+    faith = "stonegods"
+    female = yes
+    dynasty = WELGD5 #WelgDyn5
+    537.1.1 = {
+        birth = yes
+    }
+    566.1.1 = {
+        add_spouse = WELG_243 #Lauri133
+    }
+}
+
+WELG_463 = {
+    name = "Tiina518"
+    culture = "wel_gravan"
+    faith = "stonegods"
+    female = yes
+    dynasty = WELGD5 #WelgDyn5
+    father = WELG_464 #Timo179
+    mother = WELG_314 #Liisa233
+    574.1.1 = {
+        birth = yes
+    }
+}
+
+WELG_464 = {
+    name = "Timo179"
+    culture = "wel_gravan"
+    faith = "stonegods"
+    dynasty = WELGD5 #WelgDyn5
+    father = WELG_437 #Esko22
+    mother = WELG_317 #Maija79
+    551.1.1 = {
+        birth = yes
+    }
+    570.1.1 = {
+        add_spouse = WELG_314 #Liisa233
+    }
+}
+
+WELG_465 = {
+    name = "Toivo180"
+    culture = "wel_gravan"
+    faith = "stonegods"
+    dynasty = WELGD5 #WelgDyn5
+    father = WELG_437 #Esko22
+    mother = WELG_317 #Maija79
+    553.1.1 = {
+        birth = yes
+    }
+    574.1.1 = {
+        add_spouse = WELG_325 #Tiina145
+    }
+}
+
+WELG_466 = {
+    name = "Urho178"
+    culture = "wel_gravan"
+    faith = "stonegods"
+    dynasty = WELGD5 #WelgDyn5
+    father = WELG_437 #Esko22
+    mother = WELG_317 #Maija79
+    550.1.1 = {
+        birth = yes
+    }
+    578.1.1 = {
+        add_spouse = WELG_278 #Helmi134
+    }
+}
+
+WELG_467 = {
+    name = "Valto512"
+    culture = "wel_gravan"
+    faith = "stonegods"
+    dynasty = WELGD5 #WelgDyn5
+    father = WELG_466 #Urho178
+    mother = WELG_278 #Helmi134
+    584.1.1 = {
+        birth = yes
+    }
+}
+
+WELG_468 = {
+    name = "Veera528"
+    culture = "wel_gravan"
+    faith = "stonegods"
+    female = yes
+    dynasty = WELGD5 #WelgDyn5
+    father = WELG_465 #Toivo180
+    mother = WELG_325 #Tiina145
+    578.1.1 = {
+        birth = yes
+    }
+}
+
+WELG_469 = {
+    name = "Veli532"
+    culture = "wel_gravan"
+    faith = "stonegods"
+    dynasty = WELGD5 #WelgDyn5
+    father = WELG_436 #Esko181
+    mother = WELG_324 #Saara150
+    582.1.1 = {
+        birth = yes
+    }
+}
+
+WELG_47 = {
+    name = "Eero291"
+    culture = "wel_gravan"
+    faith = "stonegods"
+    dynasty = WELGD10 #WelgDyn10
+    father = WELG_64 #Jari97
+    mother = WELG_111 #Iida230
+    578.1.1 = {
+        birth = yes
+    }
+}
+
+WELG_470 = {
+    name = "Vieno187"
+    culture = "wel_gravan"
+    faith = "stonegods"
+    female = yes
+    dynasty = WELGD5 #WelgDyn5
+    father = WELG_438 #Esko23
+    mother = WELG_335 #Iida9
+    553.1.1 = {
+        birth = yes
+    }
+    570.1.1 = {
+        add_spouse = WELG_265 #Veli129
+    }
+}
+
+WELG_471 = {
+    name = "Vieno529"
+    culture = "wel_gravan"
+    faith = "stonegods"
+    female = yes
+    dynasty = WELGD5 #WelgDyn5
+    father = WELG_465 #Toivo180
+    mother = WELG_325 #Tiina145
+    580.1.1 = {
+        birth = yes
+    }
+}
+
+WELG_472 = {
+    name = "Ylva530"
+    culture = "wel_gravan"
+    faith = "stonegods"
+    female = yes
+    dynasty = WELGD5 #WelgDyn5
+    father = WELG_436 #Esko181
+    mother = WELG_324 #Saara150
+    579.1.1 = {
+        birth = yes
+    }
+}
+
+WELG_473 = {
+    name = "Yrjo185"
+    culture = "wel_gravan"
+    faith = "stonegods"
+    dynasty = WELGD5 #WelgDyn5
+    father = WELG_438 #Esko23
+    mother = WELG_335 #Iida9
+    551.1.1 = {
+        birth = yes
+    }
+    569.1.1 = {
+        add_spouse = WELG_315 #Lotta147
+    }
+}
+
+WELG_474 = {
+    name = "Yrjo519"
+    culture = "wel_gravan"
+    faith = "stonegods"
+    dynasty = WELGD5 #WelgDyn5
+    father = WELG_464 #Timo179
+    mother = WELG_314 #Liisa233
+    576.1.1 = {
+        birth = yes
+    }
+}
+
+WELG_475 = {
+    name = "Yrjo531"
+    culture = "wel_gravan"
+    faith = "stonegods"
+    dynasty = WELGD5 #WelgDyn5
+    father = WELG_436 #Esko181
+    mother = WELG_324 #Saara150
+    581.1.1 = {
+        birth = yes
+    }
+}
+
+WELG_476 = {
+    name = "Eero548"
+    culture = "wel_gravan"
+    faith = "stonegods"
+    dynasty = WELGD6 #WelgDyn6
+    father = WELG_478 #Esko194
+    mother = WELG_366 #Iida158
+    579.1.1 = {
+        birth = yes
+    }
+}
+
+WELG_477 = {
+    name = "Emilia555"
+    culture = "wel_gravan"
+    faith = "stonegods"
+    female = yes
+    dynasty = WELGD6 #WelgDyn6
+    father = WELG_501 #Tapio191
+    mother = WELG_390 #Tuuli159
+    572.1.1 = {
+        birth = yes
+    }
+}
+
+WELG_478 = {
+    name = "Esko194"
+    culture = "wel_gravan"
+    faith = "stonegods"
+    dynasty = WELGD6 #WelgDyn6
+    father = WELG_499 #Simo28
+    mother = WELG_418 #Sari19
+    553.1.1 = {
+        birth = yes
+    }
+    577.1.1 = {
+        add_spouse = WELG_366 #Iida158
+    }
+}
+
+WELG_479 = {
+    name = "Esko27"
+    culture = "wel_gravan"
+    faith = "stonegods"
+    dynasty = WELGD6 #WelgDyn6
+    father = WELG_486 #Kauko26
+    520.1.1 = {
+        birth = yes
+    }
+    535.1.1 = {
+        add_spouse = WELG_389 #Tuuli14
+    }
+    575.1.1 = {
+        death = yes
+    }
+}
+
+WELG_48 = {
+    name = "Eero314"
+    culture = "wel_gravan"
+    faith = "stonegods"
+    dynasty = WELGD10 #WelgDyn10
+    father = WELG_68 #Kari95
+    mother = WELG_165 #Noora111
+    574.1.1 = {
+        birth = yes
+    }
+}
+
+WELG_480 = {
+    name = "Jaana247"
+    culture = "wel_gravan"
+    faith = "stonegods"
+    female = yes
+    dynasty = WELGD6 #WelgDyn6
+    540.1.1 = {
+        birth = yes
+    }
+    577.1.1 = {
+        add_spouse = WELG_270 #Antti139
+    }
+}
+
+WELG_481 = {
+    name = "Jaana538"
+    culture = "wel_gravan"
+    faith = "stonegods"
+    female = yes
+    dynasty = WELGD6 #WelgDyn6
+    father = WELG_509 #Veikko190
+    mother = WELG_340 #Marja157
+    575.1.1 = {
+        birth = yes
+    }
+}
+
+WELG_482 = {
+    name = "Jari553"
+    culture = "wel_gravan"
+    faith = "stonegods"
+    dynasty = WELGD6 #WelgDyn6
+    father = WELG_501 #Tapio191
+    mother = WELG_390 #Tuuli159
+    570.1.1 = {
+        birth = yes
+    }
+    586.1.1 = {
+        add_spouse = WELG_119 #Kirsi340
+    }
+}
+
+WELG_483 = {
+    name = "Joona189"
+    culture = "wel_gravan"
+    faith = "stonegods"
+    dynasty = WELGD6 #WelgDyn6
+    father = WELG_479 #Esko27
+    mother = WELG_389 #Tuuli14
+    550.1.1 = {
+        birth = yes
+    }
+    570.1.1 = {
+        add_spouse = WELG_346 #Sini155
+    }
+}
+
+WELG_484 = {
+    name = "Joona541"
+    culture = "wel_gravan"
+    faith = "stonegods"
+    dynasty = WELGD6 #WelgDyn6
+    father = WELG_509 #Veikko190
+    mother = WELG_340 #Marja157
+    579.1.1 = {
+        birth = yes
+    }
+}
+
+WELG_485 = {
+    name = "Kari537"
+    culture = "wel_gravan"
+    faith = "stonegods"
+    dynasty = WELGD6 #WelgDyn6
+    father = WELG_483 #Joona189
+    mother = WELG_346 #Sini155
+    574.1.1 = {
+        birth = yes
+    }
+}
+
+WELG_486 = {
+    name = "Kauko26"
+    culture = "wel_gravan"
+    faith = "stonegods"
+    dynasty = WELGD6 #WelgDyn6
+    485.1.1 = {
+        birth = yes
+    }
+    550.1.1 = {
+        death = yes
+    }
+}
+
+WELG_487 = {
+    name = "Lauri542"
+    culture = "wel_gravan"
+    faith = "stonegods"
+    dynasty = WELGD6 #WelgDyn6
+    father = WELG_509 #Veikko190
+    mother = WELG_340 #Marja157
+    581.1.1 = {
+        birth = yes
+    }
+}
+
+WELG_488 = {
+    name = "Lempi545"
+    culture = "wel_gravan"
+    faith = "stonegods"
+    dynasty = WELGD6 #WelgDyn6
+    father = WELG_510 #Veli193
+    mother = WELG_364 #Hannele255
+    579.1.1 = {
+        birth = yes
+    }
+}
+
+WELG_489 = {
+    name = "Lotta539"
+    culture = "wel_gravan"
+    faith = "stonegods"
+    female = yes
+    dynasty = WELGD6 #WelgDyn6
+    father = WELG_509 #Veikko190
+    mother = WELG_340 #Marja157
+    576.1.1 = {
+        birth = yes
+    }
+}
+
+WELG_49 = {
+    name = "Eeva295"
+    culture = "wel_gravan"
+    faith = "stonegods"
+    female = yes
+    dynasty = WELGD10 #WelgDyn10
+    father = WELG_66 #Joona93
+    mother = WELG_130 #Satu104
+    580.1.1 = {
+        birth = yes
+    }
+}
+
+WELG_490 = {
+    name = "Lotta557"
+    culture = "wel_gravan"
+    faith = "stonegods"
+    female = yes
+    dynasty = WELGD6 #WelgDyn6
+    father = WELG_501 #Tapio191
+    mother = WELG_390 #Tuuli159
+    576.1.1 = {
+        birth = yes
+    }
+}
+
+WELG_491 = {
+    name = "Maija550"
+    culture = "wel_gravan"
+    faith = "stonegods"
+    female = yes
+    dynasty = WELGD6 #WelgDyn6
+    father = WELG_478 #Esko194
+    mother = WELG_366 #Iida158
+    582.1.1 = {
+        birth = yes
+    }
+}
+
+WELG_492 = {
+    name = "Mari192"
+    culture = "wel_gravan"
+    faith = "stonegods"
+    female = yes
+    dynasty = WELGD6 #WelgDyn6
+    father = WELG_499 #Simo28
+    mother = WELG_418 #Sari19
+    550.1.1 = {
+        birth = yes
+    }
+    567.1.1 = {
+        add_spouse = WELG_285 #Kauko135
+    }
+}
+
+WELG_493 = {
+    name = "Matti546"
+    culture = "wel_gravan"
+    faith = "stonegods"
+    dynasty = WELGD6 #WelgDyn6
+    father = WELG_510 #Veli193
+    mother = WELG_364 #Hannele255
+    580.1.1 = {
+        birth = yes
+    }
+}
+
+WELG_494 = {
+    name = "Noora235"
+    culture = "wel_gravan"
+    faith = "stonegods"
+    female = yes
+    dynasty = WELGD6 #WelgDyn6
+    545.1.1 = {
+        birth = yes
+    }
+    577.1.1 = {
+        add_spouse = WELG_563 #Jari206
+    }
+}
+
+WELG_495 = {
+    name = "Noora547"
+    culture = "wel_gravan"
+    faith = "stonegods"
+    female = yes
+    dynasty = WELGD6 #WelgDyn6
+    father = WELG_478 #Esko194
+    mother = WELG_366 #Iida158
+    578.1.1 = {
+        birth = yes
+    }
+}
+
+WELG_496 = {
+    name = "Onni549"
+    culture = "wel_gravan"
+    faith = "stonegods"
+    dynasty = WELGD6 #WelgDyn6
+    father = WELG_478 #Esko194
+    mother = WELG_366 #Iida158
+    580.1.1 = {
+        birth = yes
+    }
+}
+
+WELG_497 = {
+    name = "Paavo544"
+    culture = "wel_gravan"
+    faith = "stonegods"
+    dynasty = WELGD6 #WelgDyn6
+    father = WELG_510 #Veli193
+    mother = WELG_364 #Hannele255
+    577.1.1 = {
+        birth = yes
+    }
+}
+
+WELG_498 = {
+    name = "Riikka30"
+    culture = "wel_gravan"
+    faith = "stonegods"
+    female = yes
+    dynasty = WELGD6 #WelgDyn6
+    father = WELG_486 #Kauko26
+    529.1.1 = {
+        birth = yes
+    }
+    543.1.1 = {
+        add_spouse = WELG_272 #Antti72
+    }
+    582.1.1 = {
+        death = yes
+    }
+}
+
+WELG_499 = {
+    name = "Simo28"
+    culture = "wel_gravan"
+    faith = "stonegods"
+    dynasty = WELGD6 #WelgDyn6
+    father = WELG_486 #Kauko26
+    523.1.1 = {
+        birth = yes
+    }
+    548.1.1 = {
+        add_spouse = WELG_418 #Sari19
+    }
+    574.1.1 = {
+        death = yes
+    }
+}
+
+WELG_5 = {
+    name = "Esko263"
+    culture = "wel_gravan"
+    faith = "stonegods"
+    dynasty = WELGD1 #WelgDyn1
+    father = WELG_17 #Kalevi85
+    mother = WELG_93 #Ulla221
+    575.1.1 = {
+        birth = yes
+    }
+}
+
+WELG_50 = {
+    name = "Elli303"
+    culture = "wel_gravan"
+    faith = "stonegods"
+    female = yes
+    dynasty = WELGD10 #WelgDyn10
+    father = WELG_90 #Timo98
+    mother = WELG_158 #Liisa226
+    582.1.1 = {
+        birth = yes
+    }
+}
+
+WELG_500 = {
+    name = "Sini29"
+    culture = "wel_gravan"
+    faith = "stonegods"
+    female = yes
+    dynasty = WELGD6 #WelgDyn6
+    father = WELG_486 #Kauko26
+    526.1.1 = {
+        birth = yes
+    }
+    537.1.1 = {
+        add_spouse = WELG_517 #Hannu33
+    }
+    577.1.1 = {
+        death = yes
+    }
+}
+
+WELG_501 = {
+    name = "Tapio191"
+    culture = "wel_gravan"
+    faith = "stonegods"
+    dynasty = WELGD6 #WelgDyn6
+    father = WELG_479 #Esko27
+    mother = WELG_389 #Tuuli14
+    554.1.1 = {
+        birth = yes
+    }
+    569.1.1 = {
+        add_spouse = WELG_390 #Tuuli159
+    }
+}
+
+WELG_502 = {
+    name = "Tapio536"
+    culture = "wel_gravan"
+    faith = "stonegods"
+    dynasty = WELGD6 #WelgDyn6
+    father = WELG_483 #Joona189
+    mother = WELG_346 #Sini155
+    573.1.1 = {
+        birth = yes
+    }
+}
+
+WELG_503 = {
+    name = "Tiina551"
+    culture = "wel_gravan"
+    faith = "stonegods"
+    female = yes
+    dynasty = WELGD6 #WelgDyn6
+    father = WELG_478 #Esko194
+    mother = WELG_366 #Iida158
+    583.1.1 = {
+        birth = yes
+    }
+}
+
+WELG_504 = {
+    name = "Tuuli552"
+    culture = "wel_gravan"
+    faith = "stonegods"
+    female = yes
+    dynasty = WELGD6 #WelgDyn6
+    father = WELG_478 #Esko194
+    mother = WELG_366 #Iida158
+    584.1.1 = {
+        birth = yes
+    }
+}
+
+WELG_505 = {
+    name = "Urho535"
+    culture = "wel_gravan"
+    faith = "stonegods"
+    dynasty = WELGD6 #WelgDyn6
+    father = WELG_483 #Joona189
+    mother = WELG_346 #Sini155
+    571.1.1 = {
+        birth = yes
+    }
+    586.1.1 = {
+        add_spouse = WELG_155 #Kerttu353
+    }
+}
+
+WELG_506 = {
+    name = "Vaino543"
+    culture = "wel_gravan"
+    faith = "stonegods"
+    dynasty = WELGD6 #WelgDyn6
+    father = WELG_509 #Veikko190
+    mother = WELG_340 #Marja157
+    583.1.1 = {
+        birth = yes
+    }
+}
+
+WELG_507 = {
+    name = "Vaino554"
+    culture = "wel_gravan"
+    faith = "stonegods"
+    dynasty = WELGD6 #WelgDyn6
+    father = WELG_501 #Tapio191
+    mother = WELG_390 #Tuuli159
+    571.1.1 = {
+        birth = yes
+    }
+    586.1.1 = {
+        add_spouse = WELG_201 #Liisa383
+    }
+}
+
+WELG_508 = {
+    name = "Veera556"
+    culture = "wel_gravan"
+    faith = "stonegods"
+    female = yes
+    dynasty = WELGD6 #WelgDyn6
+    father = WELG_501 #Tapio191
+    mother = WELG_390 #Tuuli159
+    574.1.1 = {
+        birth = yes
+    }
+}
+
+WELG_509 = {
+    name = "Veikko190"
+    culture = "wel_gravan"
+    faith = "stonegods"
+    dynasty = WELGD6 #WelgDyn6
+    father = WELG_479 #Esko27
+    mother = WELG_389 #Tuuli14
+    552.1.1 = {
+        birth = yes
+    }
+    574.1.1 = {
+        add_spouse = WELG_340 #Marja157
+    }
+}
+
+WELG_51 = {
+    name = "Emilia287"
+    culture = "wel_gravan"
+    faith = "stonegods"
+    female = yes
+    dynasty = WELGD10 #WelgDyn10
+    father = WELG_76 #Niilo92
+    mother = WELG_129 #Sari224
+    581.1.1 = {
+        birth = yes
+    }
+}
+
+WELG_510 = {
+    name = "Veli193"
+    culture = "wel_gravan"
+    faith = "stonegods"
+    dynasty = WELGD6 #WelgDyn6
+    father = WELG_499 #Simo28
+    mother = WELG_418 #Sari19
+    552.1.1 = {
+        birth = yes
+    }
+    576.1.1 = {
+        add_spouse = WELG_364 #Hannele255
+    }
+}
+
+WELG_511 = {
+    name = "Vieno540"
+    culture = "wel_gravan"
+    faith = "stonegods"
+    female = yes
+    dynasty = WELGD6 #WelgDyn6
+    father = WELG_509 #Veikko190
+    mother = WELG_340 #Marja157
+    578.1.1 = {
+        birth = yes
+    }
+}
+
+WELG_512 = {
+    name = "Eeva34"
+    culture = "wel_gravan"
+    faith = "stonegods"
+    female = yes
+    dynasty = WELGD7 #WelgDyn7
+    father = WELG_533 #Reino31
+    527.1.1 = {
+        birth = yes
+    }
+    542.1.1 = {
+        add_spouse = WELG_585 #Olli37
+    }
+    576.1.1 = {
+        death = yes
+    }
+}
+
+WELG_513 = {
+    name = "Eeva567"
+    culture = "wel_gravan"
+    faith = "stonegods"
+    female = yes
+    dynasty = WELGD7 #WelgDyn7
+    father = WELG_537 #Sakari196
+    mother = WELG_406 #Johanna250
+    576.1.1 = {
+        birth = yes
+    }
+}
+
+WELG_514 = {
+    name = "Elli232"
+    culture = "wel_gravan"
+    faith = "stonegods"
+    female = yes
+    dynasty = WELGD7 #WelgDyn7
+    547.1.1 = {
+        birth = yes
+    }
+    576.1.1 = {
+        add_spouse = WELG_294 #Toivo140
+    }
+}
+
+WELG_515 = {
+    name = "Emilia199"
+    culture = "wel_gravan"
+    faith = "stonegods"
+    female = yes
+    dynasty = WELGD7 #WelgDyn7
+    father = WELG_520 #Ilmari32
+    mother = WELG_440 #Hanna24
+    555.1.1 = {
+        birth = yes
+    }
+    574.1.1 = {
+        add_spouse = WELG_576 #Kosti212
+    }
+}
+
+WELG_516 = {
+    name = "Hanna563"
+    culture = "wel_gravan"
+    faith = "stonegods"
+    female = yes
+    dynasty = WELGD7 #WelgDyn7
+    father = WELG_532 #Paavo200
+    mother = WELG_412 #Maija222
+    578.1.1 = {
+        birth = yes
+    }
+}
+
+WELG_517 = {
+    name = "Hannu33"
+    culture = "wel_gravan"
+    faith = "stonegods"
+    dynasty = WELGD7 #WelgDyn7
+    father = WELG_533 #Reino31
+    524.1.1 = {
+        birth = yes
+    }
+    537.1.1 = {
+        add_spouse = WELG_500 #Sini29
+    }
+    568.1.1 = {
+        death = yes
+    }
+}
+
+WELG_518 = {
+    name = "Helmi35"
+    culture = "wel_gravan"
+    faith = "stonegods"
+    female = yes
+    dynasty = WELGD7 #WelgDyn7
+    father = WELG_533 #Reino31
+    530.1.1 = {
+        birth = yes
+    }
+    538.1.1 = {
+        add_spouse = WELG_281 #Joona73
+    }
+    570.1.1 = {
+        death = yes
+    }
+}
+
+WELG_519 = {
+    name = "Helmi558"
+    culture = "wel_gravan"
+    faith = "stonegods"
+    female = yes
+    dynasty = WELGD7 #WelgDyn7
+    father = WELG_543 #Vaino195
+    mother = WELG_398 #Vilma167
+    573.1.1 = {
+        birth = yes
+    }
+}
+
+WELG_52 = {
+    name = "Esko289"
+    culture = "wel_gravan"
+    faith = "stonegods"
+    dynasty = WELGD10 #WelgDyn10
+    father = WELG_64 #Jari97
+    mother = WELG_111 #Iida230
+    576.1.1 = {
+        birth = yes
+    }
+}
+
+WELG_520 = {
+    name = "Ilmari32"
+    culture = "wel_gravan"
+    faith = "stonegods"
+    dynasty = WELGD7 #WelgDyn7
+    father = WELG_533 #Reino31
+    521.1.1 = {
+        birth = yes
+    }
+    535.1.1 = {
+        add_spouse = WELG_440 #Hanna24
+    }
+    575.1.1 = {
+        death = yes
+    }
+}
+
+WELG_521 = {
+    name = "Johanna201"
+    culture = "wel_gravan"
+    faith = "stonegods"
+    female = yes
+    dynasty = WELGD7 #WelgDyn7
+    father = WELG_517 #Hannu33
+    mother = WELG_500 #Sini29
+    552.1.1 = {
+        birth = yes
+    }
+    566.1.1 = {
+        add_spouse = WELG_565 #Joona210
+    }
+}
+
+WELG_522 = {
+    name = "Joona575"
+    culture = "wel_gravan"
+    faith = "stonegods"
+    dynasty = WELGD7 #WelgDyn7
+    father = WELG_531 #Mikko197
+    mother = WELG_427 #Veera176
+    582.1.1 = {
+        birth = yes
+    }
+}
+
+WELG_523 = {
+    name = "Kari576"
+    culture = "wel_gravan"
+    faith = "stonegods"
+    dynasty = WELGD7 #WelgDyn7
+    father = WELG_546 #Yrjo202
+    mother = WELG_408 #Kerttu173
+    578.1.1 = {
+        birth = yes
+    }
+}
+
+WELG_524 = {
+    name = "Lauri564"
+    culture = "wel_gravan"
+    faith = "stonegods"
+    dynasty = WELGD7 #WelgDyn7
+    father = WELG_532 #Paavo200
+    mother = WELG_412 #Maija222
+    579.1.1 = {
+        birth = yes
+    }
+}
+
+WELG_525 = {
+    name = "Lotta234"
+    culture = "wel_gravan"
+    faith = "stonegods"
+    female = yes
+    dynasty = WELGD7 #WelgDyn7
+    540.1.1 = {
+        birth = yes
+    }
+    566.1.1 = {
+        add_spouse = WELG_575 #Kosti209
+    }
+}
+
+WELG_526 = {
+    name = "Lotta570"
+    culture = "wel_gravan"
+    faith = "stonegods"
+    female = yes
+    dynasty = WELGD7 #WelgDyn7
+    father = WELG_537 #Sakari196
+    mother = WELG_406 #Johanna250
+    580.1.1 = {
+        birth = yes
+    }
+}
+
+WELG_527 = {
+    name = "Maija198"
+    culture = "wel_gravan"
+    faith = "stonegods"
+    female = yes
+    dynasty = WELGD7 #WelgDyn7
+    father = WELG_520 #Ilmari32
+    mother = WELG_440 #Hanna24
+    554.1.1 = {
+        birth = yes
+    }
+    571.1.1 = {
+        add_spouse = WELG_275 #Esko141
+    }
+}
+
+WELG_528 = {
+    name = "Maija571"
+    culture = "wel_gravan"
+    faith = "stonegods"
+    female = yes
+    dynasty = WELGD7 #WelgDyn7
+    father = WELG_531 #Mikko197
+    mother = WELG_427 #Veera176
+    577.1.1 = {
+        birth = yes
+    }
+}
+
+WELG_529 = {
+    name = "Markku569"
+    culture = "wel_gravan"
+    faith = "stonegods"
+    dynasty = WELGD7 #WelgDyn7
+    father = WELG_537 #Sakari196
+    mother = WELG_406 #Johanna250
+    579.1.1 = {
+        birth = yes
+    }
+}
+
+WELG_53 = {
+    name = "Hanna285"
+    culture = "wel_gravan"
+    faith = "stonegods"
+    female = yes
+    dynasty = WELGD10 #WelgDyn10
+    father = WELG_76 #Niilo92
+    mother = WELG_129 #Sari224
+    578.1.1 = {
+        birth = yes
+    }
+}
+
+WELG_530 = {
+    name = "Matti561"
+    culture = "wel_gravan"
+    faith = "stonegods"
+    dynasty = WELGD7 #WelgDyn7
+    father = WELG_532 #Paavo200
+    mother = WELG_412 #Maija222
+    574.1.1 = {
+        birth = yes
+    }
+}
+
+WELG_531 = {
+    name = "Mikko197"
+    culture = "wel_gravan"
+    faith = "stonegods"
+    dynasty = WELGD7 #WelgDyn7
+    father = WELG_520 #Ilmari32
+    mother = WELG_440 #Hanna24
+    553.1.1 = {
+        birth = yes
+    }
+    576.1.1 = {
+        add_spouse = WELG_427 #Veera176
+    }
+}
+
+WELG_532 = {
+    name = "Paavo200"
+    culture = "wel_gravan"
+    faith = "stonegods"
+    dynasty = WELGD7 #WelgDyn7
+    father = WELG_517 #Hannu33
+    mother = WELG_500 #Sini29
+    550.1.1 = {
+        birth = yes
+    }
+    573.1.1 = {
+        add_spouse = WELG_412 #Maija222
+    }
+}
+
+WELG_533 = {
+    name = "Reino31"
+    culture = "wel_gravan"
+    faith = "stonegods"
+    dynasty = WELGD7 #WelgDyn7
+    486.1.1 = {
+        birth = yes
+    }
+    563.1.1 = {
+        death = yes
+    }
+}
+
+WELG_534 = {
+    name = "Riikka577"
+    culture = "wel_gravan"
+    faith = "stonegods"
+    female = yes
+    dynasty = WELGD7 #WelgDyn7
+    father = WELG_546 #Yrjo202
+    mother = WELG_408 #Kerttu173
+    580.1.1 = {
+        birth = yes
+    }
+}
+
+WELG_535 = {
+    name = "Ritva203"
+    culture = "wel_gravan"
+    faith = "stonegods"
+    female = yes
+    dynasty = WELGD7 #WelgDyn7
+    father = WELG_517 #Hannu33
+    mother = WELG_500 #Sini29
+    556.1.1 = {
+        birth = yes
+    }
+    571.1.1 = {
+        add_spouse = WELG_300 #Veli138
+    }
+}
+
+WELG_536 = {
+    name = "Ritva559"
+    culture = "wel_gravan"
+    faith = "stonegods"
+    female = yes
+    dynasty = WELGD7 #WelgDyn7
+    father = WELG_543 #Vaino195
+    mother = WELG_398 #Vilma167
+    575.1.1 = {
+        birth = yes
+    }
+}
+
+WELG_537 = {
+    name = "Sakari196"
+    culture = "wel_gravan"
+    faith = "stonegods"
+    dynasty = WELGD7 #WelgDyn7
+    father = WELG_520 #Ilmari32
+    mother = WELG_440 #Hanna24
+    551.1.1 = {
+        birth = yes
+    }
+    575.1.1 = {
+        add_spouse = WELG_406 #Johanna250
+    }
+}
+
+WELG_538 = {
+    name = "Sakari562"
+    culture = "wel_gravan"
+    faith = "stonegods"
+    dynasty = WELGD7 #WelgDyn7
+    father = WELG_532 #Paavo200
+    mother = WELG_412 #Maija222
+    576.1.1 = {
+        birth = yes
+    }
+}
+
+WELG_539 = {
+    name = "Simo578"
+    culture = "wel_gravan"
+    faith = "stonegods"
+    dynasty = WELGD7 #WelgDyn7
+    father = WELG_546 #Yrjo202
+    mother = WELG_408 #Kerttu173
+    581.1.1 = {
+        birth = yes
+    }
+}
+
+WELG_54 = {
+    name = "Hanna302"
+    culture = "wel_gravan"
+    faith = "stonegods"
+    female = yes
+    dynasty = WELGD10 #WelgDyn10
+    father = WELG_90 #Timo98
+    mother = WELG_158 #Liisa226
+    581.1.1 = {
+        birth = yes
+    }
+}
+
+WELG_540 = {
+    name = "Timo565"
+    culture = "wel_gravan"
+    faith = "stonegods"
+    dynasty = WELGD7 #WelgDyn7
+    father = WELG_532 #Paavo200
+    mother = WELG_412 #Maija222
+    581.1.1 = {
+        birth = yes
+    }
+}
+
+WELG_541 = {
+    name = "Ulla574"
+    culture = "wel_gravan"
+    faith = "stonegods"
+    female = yes
+    dynasty = WELGD7 #WelgDyn7
+    father = WELG_531 #Mikko197
+    mother = WELG_427 #Veera176
+    580.1.1 = {
+        birth = yes
+    }
+}
+
+WELG_542 = {
+    name = "Urho566"
+    culture = "wel_gravan"
+    faith = "stonegods"
+    dynasty = WELGD7 #WelgDyn7
+    father = WELG_532 #Paavo200
+    mother = WELG_412 #Maija222
+    582.1.1 = {
+        birth = yes
+    }
+}
+
+WELG_543 = {
+    name = "Vaino195"
+    culture = "wel_gravan"
+    faith = "stonegods"
+    dynasty = WELGD7 #WelgDyn7
+    father = WELG_520 #Ilmari32
+    mother = WELG_440 #Hanna24
+    550.1.1 = {
+        birth = yes
+    }
+    572.1.1 = {
+        add_spouse = WELG_398 #Vilma167
+    }
+}
+
+WELG_544 = {
+    name = "Valto560"
+    culture = "wel_gravan"
+    faith = "stonegods"
+    dynasty = WELGD7 #WelgDyn7
+    father = WELG_543 #Vaino195
+    mother = WELG_398 #Vilma167
+    576.1.1 = {
+        birth = yes
+    }
+}
+
+WELG_545 = {
+    name = "Valto572"
+    culture = "wel_gravan"
+    faith = "stonegods"
+    dynasty = WELGD7 #WelgDyn7
+    father = WELG_531 #Mikko197
+    mother = WELG_427 #Veera176
+    578.1.1 = {
+        birth = yes
+    }
+}
+
+WELG_546 = {
+    name = "Yrjo202"
+    culture = "wel_gravan"
+    faith = "stonegods"
+    dynasty = WELGD7 #WelgDyn7
+    father = WELG_517 #Hannu33
+    mother = WELG_500 #Sini29
+    554.1.1 = {
+        birth = yes
+    }
+    577.1.1 = {
+        add_spouse = WELG_408 #Kerttu173
+    }
+}
+
+WELG_547 = {
+    name = "Yrjo568"
+    culture = "wel_gravan"
+    faith = "stonegods"
+    dynasty = WELGD7 #WelgDyn7
+    father = WELG_537 #Sakari196
+    mother = WELG_406 #Johanna250
+    577.1.1 = {
+        birth = yes
+    }
+}
+
+WELG_548 = {
+    name = "Yrjo573"
+    culture = "wel_gravan"
+    faith = "stonegods"
+    dynasty = WELGD7 #WelgDyn7
+    father = WELG_531 #Mikko197
+    mother = WELG_427 #Veera176
+    579.1.1 = {
+        birth = yes
+    }
+}
+
+WELG_549 = {
+    name = "Aapo581"
+    culture = "wel_gravan"
+    faith = "stonegods"
+    dynasty = WELGD8 #WelgDyn8
+    father = WELG_559 #Hannu204
+    mother = WELG_433 #Aino246
+    577.1.1 = {
+        birth = yes
+    }
+}
+
+WELG_55 = {
+    name = "Hannu310"
+    culture = "wel_gravan"
+    faith = "stonegods"
+    dynasty = WELGD10 #WelgDyn10
+    father = WELG_68 #Kari95
+    mother = WELG_165 #Noora111
+    569.1.1 = {
+        birth = yes
+    }
+    586.1.1 = {
+        add_spouse = WELG_161 #Maija352
+    }
+}
+
+WELG_550 = {
+    name = "Aapo594"
+    culture = "wel_gravan"
+    faith = "stonegods"
+    dynasty = WELGD8 #WelgDyn8
+    father = WELG_581 #Mikko208
+    mother = WELG_444 #Johanna183
+    568.1.1 = {
+        birth = yes
+    }
+    586.1.1 = {
+        add_spouse = WELG_249 #Marja413
+    }
+}
+
+WELG_551 = {
+    name = "Ahti607"
+    culture = "wel_gravan"
+    faith = "stonegods"
+    dynasty = WELGD8 #WelgDyn8
+    father = WELG_575 #Kosti209
+    mother = WELG_525 #Lotta234
+    573.1.1 = {
+        birth = yes
+    }
+}
+
+WELG_552 = {
+    name = "Ahti616"
+    culture = "wel_gravan"
+    faith = "stonegods"
+    dynasty = WELGD8 #WelgDyn8
+    father = WELG_576 #Kosti212
+    mother = WELG_515 #Emilia199
+    579.1.1 = {
+        birth = yes
+    }
+}
+
+WELG_553 = {
+    name = "Arto593"
+    culture = "wel_gravan"
+    faith = "stonegods"
+    dynasty = WELGD8 #WelgDyn8
+    father = WELG_584 #Olli205
+    mother = WELG_432 #Aili188
+    582.1.1 = {
+        birth = yes
+    }
+}
+
+WELG_554 = {
+    name = "Eero590"
+    culture = "wel_gravan"
+    faith = "stonegods"
+    dynasty = WELGD8 #WelgDyn8
+    father = WELG_584 #Olli205
+    mother = WELG_432 #Aili188
+    578.1.1 = {
+        birth = yes
+    }
+}
+
+WELG_555 = {
+    name = "Eeva609"
+    culture = "wel_gravan"
+    faith = "stonegods"
+    female = yes
+    dynasty = WELGD8 #WelgDyn8
+    father = WELG_565 #Joona210
+    mother = WELG_521 #Johanna201
+    568.1.1 = {
+        birth = yes
+    }
+    586.1.1 = {
+        add_spouse = WELG_291 #Sakari427
+    }
+}
+
+WELG_556 = {
+    name = "Elli608"
+    culture = "wel_gravan"
+    faith = "stonegods"
+    female = yes
+    dynasty = WELGD8 #WelgDyn8
+    father = WELG_565 #Joona210
+    mother = WELG_521 #Johanna201
+    567.1.1 = {
+        birth = yes
+    }
+    586.1.1 = {
+        add_spouse = WELG_259 #Risto418
+    }
+}
+
+WELG_557 = {
+    name = "Esko580"
+    culture = "wel_gravan"
+    faith = "stonegods"
+    dynasty = WELGD8 #WelgDyn8
+    father = WELG_559 #Hannu204
+    mother = WELG_433 #Aino246
+    576.1.1 = {
+        birth = yes
+    }
+}
+
+WELG_558 = {
+    name = "Hanna591"
+    culture = "wel_gravan"
+    faith = "stonegods"
+    female = yes
+    dynasty = WELGD8 #WelgDyn8
+    father = WELG_584 #Olli205
+    mother = WELG_432 #Aili188
+    580.1.1 = {
+        birth = yes
+    }
+}
+
+WELG_559 = {
+    name = "Hannu204"
+    culture = "wel_gravan"
+    faith = "stonegods"
+    dynasty = WELGD8 #WelgDyn8
+    father = WELG_585 #Olli37
+    mother = WELG_512 #Eeva34
+    550.1.1 = {
+        birth = yes
+    }
+    573.1.1 = {
+        add_spouse = WELG_433 #Aino246
+    }
+}
+
+WELG_56 = {
+    name = "Hannu91"
+    culture = "wel_gravan"
+    faith = "stonegods"
+    dynasty = WELGD10 #WelgDyn10
+    father = WELG_45 #Arto47
+    mother = WELG_143 #Vieno55
+    550.1.1 = {
+        birth = yes
+    }
+    568.1.1 = {
+        add_spouse = WELG_121 #Maija241
+    }
+}
+
+WELG_560 = {
+    name = "Hannu602"
+    culture = "wel_gravan"
+    faith = "stonegods"
+    dynasty = WELGD8 #WelgDyn8
+    father = WELG_563 #Jari206
+    mother = WELG_494 #Noora235
+    581.1.1 = {
+        birth = yes
+    }
+}
+
+WELG_561 = {
+    name = "Hannu603"
+    culture = "wel_gravan"
+    faith = "stonegods"
+    dynasty = WELGD8 #WelgDyn8
+    father = WELG_575 #Kosti209
+    mother = WELG_525 #Lotta234
+    567.1.1 = {
+        birth = yes
+    }
+    586.1.1 = {
+        add_spouse = WELG_238 #Johanna412
+    }
+}
+
+WELG_562 = {
+    name = "Iida40"
+    culture = "wel_gravan"
+    faith = "stonegods"
+    female = yes
+    dynasty = WELGD8 #WelgDyn8
+    father = WELG_590 #Simo36
+    524.1.1 = {
+        birth = yes
+    }
+    548.1.1 = {
+        add_spouse = WELG_312 #Juhani77
+    }
+    576.1.1 = {
+        death = yes
+    }
+}
+
+WELG_563 = {
+    name = "Jari206"
+    culture = "wel_gravan"
+    faith = "stonegods"
+    dynasty = WELGD8 #WelgDyn8
+    father = WELG_585 #Olli37
+    mother = WELG_512 #Eeva34
+    553.1.1 = {
+        birth = yes
+    }
+    577.1.1 = {
+        add_spouse = WELG_494 #Noora235
+    }
+}
+
+WELG_564 = {
+    name = "Jari586"
+    culture = "wel_gravan"
+    faith = "stonegods"
+    dynasty = WELGD8 #WelgDyn8
+    father = WELG_571 #Kauko207
+    mother = WELG_453 #Minna186
+    581.1.1 = {
+        birth = yes
+    }
+}
+
+WELG_565 = {
+    name = "Joona210"
+    culture = "wel_gravan"
+    faith = "stonegods"
+    dynasty = WELGD8 #WelgDyn8
+    father = WELG_598 #Urho38
+    mother = WELG_603 #Hannele44
+    554.1.1 = {
+        birth = yes
+    }
+    566.1.1 = {
+        add_spouse = WELG_521 #Johanna201
+    }
+}
+
+WELG_566 = {
+    name = "Kaisa598"
+    culture = "wel_gravan"
+    faith = "stonegods"
+    female = yes
+    dynasty = WELGD8 #WelgDyn8
+    father = WELG_581 #Mikko208
+    mother = WELG_444 #Johanna183
+    576.1.1 = {
+        birth = yes
+    }
+}
+
+WELG_567 = {
+    name = "Kalevi585"
+    culture = "wel_gravan"
+    faith = "stonegods"
+    dynasty = WELGD8 #WelgDyn8
+    father = WELG_571 #Kauko207
+    mother = WELG_453 #Minna186
+    579.1.1 = {
+        birth = yes
+    }
+}
+
+WELG_568 = {
+    name = "Kari613"
+    culture = "wel_gravan"
+    faith = "stonegods"
+    dynasty = WELGD8 #WelgDyn8
+    father = WELG_576 #Kosti212
+    mother = WELG_515 #Emilia199
+    575.1.1 = {
+        birth = yes
+    }
+}
+
+WELG_569 = {
+    name = "Katariina39"
+    culture = "wel_gravan"
+    faith = "stonegods"
+    female = yes
+    dynasty = WELGD8 #WelgDyn8
+    father = WELG_590 #Simo36
+    521.1.1 = {
+        birth = yes
+    }
+    544.1.1 = {
+        add_spouse = WELG_630 #Vaino43
+    }
+    570.1.1 = {
+        death = yes
+    }
+}
+
+WELG_57 = {
+    name = "Heikki46"
+    culture = "wel_gravan"
+    faith = "stonegods"
+    dynasty = WELGD10 #WelgDyn10
+    489.1.1 = {
+        birth = yes
+    }
+    550.1.1 = {
+        death = yes
+    }
+}
+
+WELG_570 = {
+    name = "Katariina600"
+    culture = "wel_gravan"
+    faith = "stonegods"
+    female = yes
+    dynasty = WELGD8 #WelgDyn8
+    father = WELG_563 #Jari206
+    mother = WELG_494 #Noora235
+    578.1.1 = {
+        birth = yes
+    }
+}
+
+WELG_571 = {
+    name = "Kauko207"
+    culture = "wel_gravan"
+    faith = "stonegods"
+    dynasty = WELGD8 #WelgDyn8
+    father = WELG_598 #Urho38
+    mother = WELG_603 #Hannele44
+    550.1.1 = {
+        birth = yes
+    }
+    573.1.1 = {
+        add_spouse = WELG_453 #Minna186
+    }
+}
+
+WELG_572 = {
+    name = "Kerttu211"
+    culture = "wel_gravan"
+    faith = "stonegods"
+    female = yes
+    dynasty = WELGD8 #WelgDyn8
+    father = WELG_598 #Urho38
+    mother = WELG_603 #Hannele44
+    555.1.1 = {
+        birth = yes
+    }
+    569.1.1 = {
+        add_spouse = WELG_621 #Niilo217
+    }
+}
+
+WELG_573 = {
+    name = "Kerttu592"
+    culture = "wel_gravan"
+    faith = "stonegods"
+    female = yes
+    dynasty = WELGD8 #WelgDyn8
+    father = WELG_584 #Olli205
+    mother = WELG_432 #Aili188
+    581.1.1 = {
+        birth = yes
+    }
+}
+
+WELG_574 = {
+    name = "Kirsi601"
+    culture = "wel_gravan"
+    faith = "stonegods"
+    female = yes
+    dynasty = WELGD8 #WelgDyn8
+    father = WELG_563 #Jari206
+    mother = WELG_494 #Noora235
+    580.1.1 = {
+        birth = yes
+    }
+}
+
+WELG_575 = {
+    name = "Kosti209"
+    culture = "wel_gravan"
+    faith = "stonegods"
+    dynasty = WELGD8 #WelgDyn8
+    father = WELG_598 #Urho38
+    mother = WELG_603 #Hannele44
+    553.1.1 = {
+        birth = yes
+    }
+    566.1.1 = {
+        add_spouse = WELG_525 #Lotta234
+    }
+}
+
+WELG_576 = {
+    name = "Kosti212"
+    culture = "wel_gravan"
+    faith = "stonegods"
+    dynasty = WELGD8 #WelgDyn8
+    father = WELG_598 #Urho38
+    mother = WELG_603 #Hannele44
+    557.1.1 = {
+        birth = yes
+    }
+    574.1.1 = {
+        add_spouse = WELG_515 #Emilia199
+    }
+}
+
+WELG_577 = {
+    name = "Kosti589"
+    culture = "wel_gravan"
+    faith = "stonegods"
+    dynasty = WELGD8 #WelgDyn8
+    father = WELG_584 #Olli205
+    mother = WELG_432 #Aili188
+    577.1.1 = {
+        birth = yes
+    }
+}
+
+WELG_578 = {
+    name = "Lempi587"
+    culture = "wel_gravan"
+    faith = "stonegods"
+    dynasty = WELGD8 #WelgDyn8
+    father = WELG_571 #Kauko207
+    mother = WELG_453 #Minna186
+    583.1.1 = {
+        birth = yes
+    }
+}
+
+WELG_579 = {
+    name = "Maija612"
+    culture = "wel_gravan"
+    faith = "stonegods"
+    female = yes
+    dynasty = WELGD8 #WelgDyn8
+    father = WELG_565 #Joona210
+    mother = WELG_521 #Johanna201
+    572.1.1 = {
+        birth = yes
+    }
+}
+
+WELG_58 = {
+    name = "Iida50"
+    culture = "wel_gravan"
+    faith = "stonegods"
+    female = yes
+    dynasty = WELGD10 #WelgDyn10
+    father = WELG_57 #Heikki46
+    526.1.1 = {
+        birth = yes
+    }
+    544.1.1 = {
+        add_spouse = WELG_16 #Kalevi3
+    }
+    581.1.1 = {
+        death = yes
+    }
+}
+
+WELG_580 = {
+    name = "Markku583"
+    culture = "wel_gravan"
+    faith = "stonegods"
+    dynasty = WELGD8 #WelgDyn8
+    father = WELG_571 #Kauko207
+    mother = WELG_453 #Minna186
+    576.1.1 = {
+        birth = yes
+    }
+}
+
+WELG_581 = {
+    name = "Mikko208"
+    culture = "wel_gravan"
+    faith = "stonegods"
+    dynasty = WELGD8 #WelgDyn8
+    father = WELG_598 #Urho38
+    mother = WELG_603 #Hannele44
+    551.1.1 = {
+        birth = yes
+    }
+    567.1.1 = {
+        add_spouse = WELG_444 #Johanna183
+    }
+}
+
+WELG_582 = {
+    name = "Noora596"
+    culture = "wel_gravan"
+    faith = "stonegods"
+    female = yes
+    dynasty = WELGD8 #WelgDyn8
+    father = WELG_581 #Mikko208
+    mother = WELG_444 #Johanna183
+    572.1.1 = {
+        birth = yes
+    }
+}
+
+WELG_583 = {
+    name = "Noora599"
+    culture = "wel_gravan"
+    faith = "stonegods"
+    female = yes
+    dynasty = WELGD8 #WelgDyn8
+    father = WELG_581 #Mikko208
+    mother = WELG_444 #Johanna183
+    578.1.1 = {
+        birth = yes
+    }
+}
+
+WELG_584 = {
+    name = "Olli205"
+    culture = "wel_gravan"
+    faith = "stonegods"
+    dynasty = WELGD8 #WelgDyn8
+    father = WELG_585 #Olli37
+    mother = WELG_512 #Eeva34
+    551.1.1 = {
+        birth = yes
+    }
+    574.1.1 = {
+        add_spouse = WELG_432 #Aili188
+    }
+}
+
+WELG_585 = {
+    name = "Olli37"
+    culture = "wel_gravan"
+    faith = "stonegods"
+    dynasty = WELGD8 #WelgDyn8
+    father = WELG_590 #Simo36
+    515.1.1 = {
+        birth = yes
+    }
+    542.1.1 = {
+        add_spouse = WELG_512 #Eeva34
+    }
+    575.1.1 = {
+        death = yes
+    }
+}
+
+WELG_586 = {
+    name = "Paivi604"
+    culture = "wel_gravan"
+    faith = "stonegods"
+    female = yes
+    dynasty = WELGD8 #WelgDyn8
+    father = WELG_575 #Kosti209
+    mother = WELG_525 #Lotta234
+    568.1.1 = {
+        birth = yes
+    }
+}
+
+WELG_587 = {
+    name = "Pihla579"
+    culture = "wel_gravan"
+    faith = "stonegods"
+    female = yes
+    dynasty = WELGD8 #WelgDyn8
+    father = WELG_559 #Hannu204
+    mother = WELG_433 #Aino246
+    574.1.1 = {
+        birth = yes
+    }
+}
+
+WELG_588 = {
+    name = "Risto610"
+    culture = "wel_gravan"
+    faith = "stonegods"
+    dynasty = WELGD8 #WelgDyn8
+    father = WELG_565 #Joona210
+    mother = WELG_521 #Johanna201
+    569.1.1 = {
+        birth = yes
+    }
+    586.1.1 = {
+        add_spouse = WELG_322 #Paivi444
+    }
+}
+
+WELG_589 = {
+    name = "Ritva611"
+    culture = "wel_gravan"
+    faith = "stonegods"
+    female = yes
+    dynasty = WELGD8 #WelgDyn8
+    father = WELG_565 #Joona210
+    mother = WELG_521 #Johanna201
+    570.1.1 = {
+        birth = yes
+    }
+}
+
+WELG_59 = {
+    name = "Iivo313"
+    culture = "wel_gravan"
+    faith = "stonegods"
+    dynasty = WELGD10 #WelgDyn10
+    father = WELG_68 #Kari95
+    mother = WELG_165 #Noora111
+    573.1.1 = {
+        birth = yes
+    }
+}
+
+WELG_590 = {
+    name = "Simo36"
+    culture = "wel_gravan"
+    faith = "stonegods"
+    dynasty = WELGD8 #WelgDyn8
+    487.1.1 = {
+        birth = yes
+    }
+    555.1.1 = {
+        death = yes
+    }
+}
+
+WELG_591 = {
+    name = "Simo584"
+    culture = "wel_gravan"
+    faith = "stonegods"
+    dynasty = WELGD8 #WelgDyn8
+    father = WELG_571 #Kauko207
+    mother = WELG_453 #Minna186
+    578.1.1 = {
+        birth = yes
+    }
+}
+
+WELG_592 = {
+    name = "Simo595"
+    culture = "wel_gravan"
+    faith = "stonegods"
+    dynasty = WELGD8 #WelgDyn8
+    father = WELG_581 #Mikko208
+    mother = WELG_444 #Johanna183
+    570.1.1 = {
+        birth = yes
+    }
+    586.1.1 = {
+        add_spouse = WELG_363 #Hanna479
+    }
+}
+
+WELG_593 = {
+    name = "Sini615"
+    culture = "wel_gravan"
+    faith = "stonegods"
+    female = yes
+    dynasty = WELGD8 #WelgDyn8
+    father = WELG_576 #Kosti212
+    mother = WELG_515 #Emilia199
+    578.1.1 = {
+        birth = yes
+    }
+}
+
+WELG_594 = {
+    name = "Tapio588"
+    culture = "wel_gravan"
+    faith = "stonegods"
+    dynasty = WELGD8 #WelgDyn8
+    father = WELG_584 #Olli205
+    mother = WELG_432 #Aili188
+    575.1.1 = {
+        birth = yes
+    }
+}
+
+WELG_595 = {
+    name = "Tiina582"
+    culture = "wel_gravan"
+    faith = "stonegods"
+    female = yes
+    dynasty = WELGD8 #WelgDyn8
+    father = WELG_571 #Kauko207
+    mother = WELG_453 #Minna186
+    574.1.1 = {
+        birth = yes
+    }
+}
+
+WELG_596 = {
+    name = "Timo597"
+    culture = "wel_gravan"
+    faith = "stonegods"
+    dynasty = WELGD8 #WelgDyn8
+    father = WELG_581 #Mikko208
+    mother = WELG_444 #Johanna183
+    574.1.1 = {
+        birth = yes
+    }
+}
+
+WELG_597 = {
+    name = "Ulla606"
+    culture = "wel_gravan"
+    faith = "stonegods"
+    female = yes
+    dynasty = WELGD8 #WelgDyn8
+    father = WELG_575 #Kosti209
+    mother = WELG_525 #Lotta234
+    571.1.1 = {
+        birth = yes
+    }
+    586.1.1 = {
+        add_spouse = WELG_319 #Matti445
+    }
+}
+
+WELG_598 = {
+    name = "Urho38"
+    culture = "wel_gravan"
+    faith = "stonegods"
+    dynasty = WELGD8 #WelgDyn8
+    father = WELG_590 #Simo36
+    518.1.1 = {
+        birth = yes
+    }
+    542.1.1 = {
+        add_spouse = WELG_603 #Hannele44
+    }
+    578.1.1 = {
+        death = yes
+    }
+}
+
+WELG_599 = {
+    name = "Vaino605"
+    culture = "wel_gravan"
+    faith = "stonegods"
+    dynasty = WELGD8 #WelgDyn8
+    father = WELG_575 #Kosti209
+    mother = WELG_525 #Lotta234
+    569.1.1 = {
+        birth = yes
+    }
+    586.1.1 = {
+        add_spouse = WELG_254 #Noora422
+    }
+}
+
+WELG_6 = {
+    name = "Hannele261"
+    culture = "wel_gravan"
+    faith = "stonegods"
+    female = yes
+    dynasty = WELGD1 #WelgDyn1
+    father = WELG_34 #Tapio81
+    mother = WELG_69 #Katariina256
+    581.1.1 = {
+        birth = yes
+    }
+}
+
+WELG_60 = {
+    name = "Ilmari301"
+    culture = "wel_gravan"
+    faith = "stonegods"
+    dynasty = WELGD10 #WelgDyn10
+    father = WELG_90 #Timo98
+    mother = WELG_158 #Liisa226
+    580.1.1 = {
+        birth = yes
+    }
+}
+
+WELG_600 = {
+    name = "Valto614"
+    culture = "wel_gravan"
+    faith = "stonegods"
+    dynasty = WELGD8 #WelgDyn8
+    father = WELG_576 #Kosti212
+    mother = WELG_515 #Emilia199
+    576.1.1 = {
+        birth = yes
+    }
+}
+
+WELG_601 = {
+    name = "Anni214"
+    culture = "wel_gravan"
+    faith = "stonegods"
+    female = yes
+    dynasty = WELGD9 #WelgDyn9
+    father = WELG_629 #Vaino42
+    mother = WELG_29 #Paivi4
+    552.1.1 = {
+        birth = yes
+    }
+}
+
+WELG_602 = {
+    name = "Emilia629"
+    culture = "wel_gravan"
+    faith = "stonegods"
+    female = yes
+    dynasty = WELGD9 #WelgDyn9
+    father = WELG_619 #Markku219
+    mother = WELG_36 #Tiina83
+    572.1.1 = {
+        birth = yes
+    }
+}
+
+WELG_603 = {
+    name = "Hannele44"
+    culture = "wel_gravan"
+    faith = "stonegods"
+    female = yes
+    dynasty = WELGD9 #WelgDyn9
+    father = WELG_610 #Kari41
+    522.1.1 = {
+        birth = yes
+    }
+    542.1.1 = {
+        add_spouse = WELG_598 #Urho38
+    }
+    575.1.1 = {
+        death = yes
+    }
+}
+
+WELG_604 = {
+    name = "Hannu618"
+    culture = "wel_gravan"
+    faith = "stonegods"
+    dynasty = WELGD9 #WelgDyn9
+    father = WELG_621 #Niilo217
+    mother = WELG_572 #Kerttu211
+    571.1.1 = {
+        birth = yes
+    }
+    586.1.1 = {
+        add_spouse = WELG_442 #Helmi522
+    }
+}
+
+WELG_605 = {
+    name = "Heikki624"
+    culture = "wel_gravan"
+    faith = "stonegods"
+    dynasty = WELGD9 #WelgDyn9
+    father = WELG_606 #Joona213
+    mother = WELG_1 #Aili243
+    580.1.1 = {
+        birth = yes
+    }
+}
+
+WELG_606 = {
+    name = "Joona213"
+    culture = "wel_gravan"
+    faith = "stonegods"
+    dynasty = WELGD9 #WelgDyn9
+    father = WELG_629 #Vaino42
+    mother = WELG_29 #Paivi4
+    551.1.1 = {
+        birth = yes
+    }
+    573.1.1 = {
+        add_spouse = WELG_1 #Aili243
+    }
+}
+
+WELG_607 = {
+    name = "Juhani216"
+    culture = "wel_gravan"
+    faith = "stonegods"
+    dynasty = WELGD9 #WelgDyn9
+    father = WELG_629 #Vaino42
+    mother = WELG_29 #Paivi4
+    555.1.1 = {
+        birth = yes
+    }
+}
+
+WELG_608 = {
+    name = "Juhani620"
+    culture = "wel_gravan"
+    faith = "stonegods"
+    dynasty = WELGD9 #WelgDyn9
+    father = WELG_606 #Joona213
+    mother = WELG_1 #Aili243
+    574.1.1 = {
+        birth = yes
+    }
+}
+
+WELG_609 = {
+    name = "Kari220"
+    culture = "wel_gravan"
+    faith = "stonegods"
+    dynasty = WELGD9 #WelgDyn9
+    father = WELG_630 #Vaino43
+    mother = WELG_569 #Katariina39
+    555.1.1 = {
+        birth = yes
+    }
+}
+
+WELG_61 = {
+    name = "Inkeri286"
+    culture = "wel_gravan"
+    faith = "stonegods"
+    female = yes
+    dynasty = WELGD10 #WelgDyn10
+    father = WELG_76 #Niilo92
+    mother = WELG_129 #Sari224
+    579.1.1 = {
+        birth = yes
+    }
+}
+
+WELG_610 = {
+    name = "Kari41"
+    culture = "wel_gravan"
+    faith = "stonegods"
+    dynasty = WELGD9 #WelgDyn9
+    488.1.1 = {
+        birth = yes
+    }
+    551.1.1 = {
+        death = yes
+    }
+}
+
+WELG_611 = {
+    name = "Kauko619"
+    culture = "wel_gravan"
+    faith = "stonegods"
+    dynasty = WELGD9 #WelgDyn9
+    father = WELG_621 #Niilo217
+    mother = WELG_572 #Kerttu211
+    573.1.1 = {
+        birth = yes
+    }
+}
+
+WELG_612 = {
+    name = "Lauri626"
+    culture = "wel_gravan"
+    faith = "stonegods"
+    dynasty = WELGD9 #WelgDyn9
+    father = WELG_619 #Markku219
+    mother = WELG_36 #Tiina83
+    567.1.1 = {
+        birth = yes
+    }
+    586.1.1 = {
+        add_spouse = WELG_385 #Sini480
+    }
+}
+
+WELG_613 = {
+    name = "Lempi617"
+    culture = "wel_gravan"
+    faith = "stonegods"
+    dynasty = WELGD9 #WelgDyn9
+    father = WELG_621 #Niilo217
+    mother = WELG_572 #Kerttu211
+    570.1.1 = {
+        birth = yes
+    }
+    586.1.1 = {
+        add_spouse = WELG_446 #Johanna521
+    }
+}
+
+WELG_614 = {
+    name = "Liisa632"
+    culture = "wel_gravan"
+    faith = "stonegods"
+    female = yes
+    dynasty = WELGD9 #WelgDyn9
+    father = WELG_620 #Mikko215
+    mother = WELG_2 #Aili89
+    573.1.1 = {
+        birth = yes
+    }
+}
+
+WELG_615 = {
+    name = "Maija231"
+    culture = "wel_gravan"
+    faith = "stonegods"
+    female = yes
+    dynasty = WELGD9 #WelgDyn9
+    541.1.1 = {
+        birth = yes
+    }
+    574.1.1 = {
+        add_spouse = WELG_323 #Pekka148
+    }
+}
+
+WELG_616 = {
+    name = "Maija622"
+    culture = "wel_gravan"
+    faith = "stonegods"
+    female = yes
+    dynasty = WELGD9 #WelgDyn9
+    father = WELG_606 #Joona213
+    mother = WELG_1 #Aili243
+    577.1.1 = {
+        birth = yes
+    }
+}
+
+WELG_617 = {
+    name = "Mari623"
+    culture = "wel_gravan"
+    faith = "stonegods"
+    female = yes
+    dynasty = WELGD9 #WelgDyn9
+    father = WELG_606 #Joona213
+    mother = WELG_1 #Aili243
+    579.1.1 = {
+        birth = yes
+    }
+}
+
+WELG_618 = {
+    name = "Marja45"
+    culture = "wel_gravan"
+    faith = "stonegods"
+    female = yes
+    dynasty = WELGD9 #WelgDyn9
+    father = WELG_610 #Kari41
+    525.1.1 = {
+        birth = yes
+    }
+    538.1.1 = {
+        add_spouse = WELG_321 #Paavo78
+    }
+    574.1.1 = {
+        death = yes
+    }
+}
+
+WELG_619 = {
+    name = "Markku219"
+    culture = "wel_gravan"
+    faith = "stonegods"
+    dynasty = WELGD9 #WelgDyn9
+    father = WELG_630 #Vaino43
+    mother = WELG_569 #Katariina39
+    553.1.1 = {
+        birth = yes
+    }
+    566.1.1 = {
+        add_spouse = WELG_36 #Tiina83
+    }
+}
+
+WELG_62 = {
+    name = "Inkeri320"
+    culture = "wel_gravan"
+    faith = "stonegods"
+    female = yes
+    dynasty = WELGD10 #WelgDyn10
+    father = WELG_40 #Aapo100
+    mother = WELG_160 #Maija112
+    576.1.1 = {
+        birth = yes
+    }
+}
+
+WELG_620 = {
+    name = "Mikko215"
+    culture = "wel_gravan"
+    faith = "stonegods"
+    dynasty = WELGD9 #WelgDyn9
+    father = WELG_629 #Vaino42
+    mother = WELG_29 #Paivi4
+    554.1.1 = {
+        birth = yes
+    }
+    570.1.1 = {
+        add_spouse = WELG_2 #Aili89
+    }
+}
+
+WELG_621 = {
+    name = "Niilo217"
+    culture = "wel_gravan"
+    faith = "stonegods"
+    dynasty = WELGD9 #WelgDyn9
+    father = WELG_630 #Vaino43
+    mother = WELG_569 #Katariina39
+    550.1.1 = {
+        birth = yes
+    }
+    569.1.1 = {
+        add_spouse = WELG_572 #Kerttu211
+    }
+}
+
+WELG_622 = {
+    name = "Noora628"
+    culture = "wel_gravan"
+    faith = "stonegods"
+    female = yes
+    dynasty = WELGD9 #WelgDyn9
+    father = WELG_619 #Markku219
+    mother = WELG_36 #Tiina83
+    571.1.1 = {
+        birth = yes
+    }
+}
+
+WELG_623 = {
+    name = "Satu621"
+    culture = "wel_gravan"
+    faith = "stonegods"
+    female = yes
+    dynasty = WELGD9 #WelgDyn9
+    father = WELG_606 #Joona213
+    mother = WELG_1 #Aili243
+    576.1.1 = {
+        birth = yes
+    }
+}
+
+WELG_624 = {
+    name = "Simo627"
+    culture = "wel_gravan"
+    faith = "stonegods"
+    dynasty = WELGD9 #WelgDyn9
+    father = WELG_619 #Markku219
+    mother = WELG_36 #Tiina83
+    569.1.1 = {
+        birth = yes
+    }
+    586.1.1 = {
+        add_spouse = WELG_458 #Ritva513
+    }
+}
+
+WELG_625 = {
+    name = "Sini237"
+    culture = "wel_gravan"
+    faith = "stonegods"
+    female = yes
+    dynasty = WELGD9 #WelgDyn9
+    539.1.1 = {
+        birth = yes
+    }
+}
+
+WELG_626 = {
+    name = "Tapio630"
+    culture = "wel_gravan"
+    faith = "stonegods"
+    dynasty = WELGD9 #WelgDyn9
+    father = WELG_619 #Markku219
+    mother = WELG_36 #Tiina83
+    574.1.1 = {
+        birth = yes
+    }
+}
+
+WELG_627 = {
+    name = "Tuuli633"
+    culture = "wel_gravan"
+    faith = "stonegods"
+    female = yes
+    dynasty = WELGD9 #WelgDyn9
+    father = WELG_620 #Mikko215
+    mother = WELG_2 #Aili89
+    574.1.1 = {
+        birth = yes
+    }
+}
+
+WELG_628 = {
+    name = "Ulla631"
+    culture = "wel_gravan"
+    faith = "stonegods"
+    female = yes
+    dynasty = WELGD9 #WelgDyn9
+    father = WELG_620 #Mikko215
+    mother = WELG_2 #Aili89
+    571.1.1 = {
+        birth = yes
+    }
+    586.1.1 = {
+        add_spouse = WELG_331 #Eero464
+    }
+}
+
+WELG_629 = {
+    name = "Vaino42"
+    culture = "wel_gravan"
+    faith = "stonegods"
+    dynasty = WELGD9 #WelgDyn9
+    father = WELG_610 #Kari41
+    516.1.1 = {
+        birth = yes
+    }
+    550.1.1 = {
+        add_spouse = WELG_29 #Paivi4
+    }
+    570.1.1 = {
+        death = yes
+    }
+}
+
+WELG_63 = {
+    name = "Jari300"
+    culture = "wel_gravan"
+    faith = "stonegods"
+    dynasty = WELGD10 #WelgDyn10
+    father = WELG_90 #Timo98
+    mother = WELG_158 #Liisa226
+    579.1.1 = {
+        birth = yes
+    }
+}
+
+WELG_630 = {
+    name = "Vaino43"
+    culture = "wel_gravan"
+    faith = "stonegods"
+    dynasty = WELGD9 #WelgDyn9
+    father = WELG_610 #Kari41
+    519.1.1 = {
+        birth = yes
+    }
+    544.1.1 = {
+        add_spouse = WELG_569 #Katariina39
+    }
+}
+
+WELG_631 = {
+    name = "Veli625"
+    culture = "wel_gravan"
+    faith = "stonegods"
+    dynasty = WELGD9 #WelgDyn9
+    father = WELG_606 #Joona213
+    mother = WELG_1 #Aili243
+    581.1.1 = {
+        birth = yes
+    }
+}
+
+WELG_632 = {
+    name = "Vieno218"
+    culture = "wel_gravan"
+    faith = "stonegods"
+    female = yes
+    dynasty = WELGD9 #WelgDyn9
+    father = WELG_630 #Vaino43
+    mother = WELG_569 #Katariina39
+    552.1.1 = {
+        birth = yes
+    }
+    571.1.1 = {
+        add_spouse = WELG_301 #Ahti144
+    }
+}
+
+WELG_633 = {
+    name = "Ylva227"
+    culture = "wel_gravan"
+    faith = "stonegods"
+    female = yes
+    dynasty = WELGD9 #WelgDyn9
+    538.1.1 = {
+        birth = yes
+    }
+    569.1.1 = {
+        add_spouse = WELG_306 #Esko143
+    }
+}
+
+WELG_64 = {
+    name = "Jari97"
+    culture = "wel_gravan"
+    faith = "stonegods"
+    dynasty = WELGD10 #WelgDyn10
+    father = WELG_46 #Arto48
+    mother = WELG_175 #Ylva60
+    551.1.1 = {
+        birth = yes
+    }
+    575.1.1 = {
+        add_spouse = WELG_111 #Iida230
+    }
+}
+
+WELG_65 = {
+    name = "Johanna316"
+    culture = "wel_gravan"
+    faith = "stonegods"
+    female = yes
+    dynasty = WELGD10 #WelgDyn10
+    father = WELG_40 #Aapo100
+    mother = WELG_160 #Maija112
+    569.1.1 = {
+        birth = yes
+    }
+    586.1.1 = {
+        add_spouse = WELG_7 #Hannu266
+    }
+}
+
+WELG_66 = {
+    name = "Joona93"
+    culture = "wel_gravan"
+    faith = "stonegods"
+    dynasty = WELGD10 #WelgDyn10
+    father = WELG_45 #Arto47
+    mother = WELG_143 #Vieno55
+    552.1.1 = {
+        birth = yes
+    }
+    575.1.1 = {
+        add_spouse = WELG_130 #Satu104
+    }
+}
+
+WELG_67 = {
+    name = "Kalevi298"
+    culture = "wel_gravan"
+    faith = "stonegods"
+    dynasty = WELGD10 #WelgDyn10
+    father = WELG_66 #Joona93
+    mother = WELG_130 #Satu104
+    583.1.1 = {
+        birth = yes
+    }
+}
+
+WELG_68 = {
+    name = "Kari95"
+    culture = "wel_gravan"
+    faith = "stonegods"
+    dynasty = WELGD10 #WelgDyn10
+    father = WELG_45 #Arto47
+    mother = WELG_143 #Vieno55
+    554.1.1 = {
+        birth = yes
+    }
+    567.1.1 = {
+        add_spouse = WELG_165 #Noora111
+    }
+}
+
+WELG_69 = {
+    name = "Katariina256"
+    culture = "wel_gravan"
+    faith = "stonegods"
+    female = yes
+    dynasty = WELGD10 #WelgDyn10
+    538.1.1 = {
+        birth = yes
+    }
+    576.1.1 = {
+        add_spouse = WELG_34 #Tapio81
+    }
+}
+
+WELG_7 = {
+    name = "Hannu266"
+    culture = "wel_gravan"
+    faith = "stonegods"
+    dynasty = WELGD1 #WelgDyn1
+    father = WELG_22 #Kosti86
+    mother = WELG_96 #Vieno249
+    571.1.1 = {
+        birth = yes
+    }
+    586.1.1 = {
+        add_spouse = WELG_65 #Johanna316
+    }
+}
+
+WELG_70 = {
+    name = "Katariina96"
+    culture = "wel_gravan"
+    faith = "stonegods"
+    female = yes
+    dynasty = WELGD10 #WelgDyn10
+    father = WELG_46 #Arto48
+    mother = WELG_175 #Ylva60
+    550.1.1 = {
+        birth = yes
+    }
+    570.1.1 = {
+        add_spouse = WELG_9 #Hannu84
+    }
+}
+
+WELG_71 = {
+    name = "Kosti281"
+    culture = "wel_gravan"
+    faith = "stonegods"
+    dynasty = WELGD10 #WelgDyn10
+    father = WELG_56 #Hannu91
+    mother = WELG_121 #Maija241
+    571.1.1 = {
+        birth = yes
+    }
+    586.1.1 = {
+        add_spouse = WELG_190 #Jaana382
+    }
+}
+
+WELG_72 = {
+    name = "Lempi290"
+    culture = "wel_gravan"
+    faith = "stonegods"
+    dynasty = WELGD10 #WelgDyn10
+    father = WELG_64 #Jari97
+    mother = WELG_111 #Iida230
+    577.1.1 = {
+        birth = yes
+    }
+}
+
+WELG_73 = {
+    name = "Lotta317"
+    culture = "wel_gravan"
+    faith = "stonegods"
+    female = yes
+    dynasty = WELGD10 #WelgDyn10
+    father = WELG_40 #Aapo100
+    mother = WELG_160 #Maija112
+    570.1.1 = {
+        birth = yes
+    }
+    586.1.1 = {
+        add_spouse = WELG_10 #Ilmari271
+    }
+}
+
+WELG_74 = {
+    name = "Marja319"
+    culture = "wel_gravan"
+    faith = "stonegods"
+    female = yes
+    dynasty = WELGD10 #WelgDyn10
+    father = WELG_40 #Aapo100
+    mother = WELG_160 #Maija112
+    574.1.1 = {
+        birth = yes
+    }
+}
+
+WELG_75 = {
+    name = "Mikko308"
+    culture = "wel_gravan"
+    faith = "stonegods"
+    dynasty = WELGD10 #WelgDyn10
+    father = WELG_95 #Veli99
+    mother = WELG_173 #Veera238
+    578.1.1 = {
+        birth = yes
+    }
+}
+
+WELG_76 = {
+    name = "Niilo92"
+    culture = "wel_gravan"
+    faith = "stonegods"
+    dynasty = WELGD10 #WelgDyn10
+    father = WELG_45 #Arto47
+    mother = WELG_143 #Vieno55
+    551.1.1 = {
+        birth = yes
+    }
+    574.1.1 = {
+        add_spouse = WELG_129 #Sari224
+    }
+}
+
+WELG_77 = {
+    name = "Noora315"
+    culture = "wel_gravan"
+    faith = "stonegods"
+    female = yes
+    dynasty = WELGD10 #WelgDyn10
+    father = WELG_40 #Aapo100
+    mother = WELG_160 #Maija112
+    568.1.1 = {
+        birth = yes
+    }
+    586.1.1 = {
+        add_spouse = WELG_39 #Vaino277
+    }
+}
+
+WELG_78 = {
+    name = "Onni282"
+    culture = "wel_gravan"
+    faith = "stonegods"
+    dynasty = WELGD10 #WelgDyn10
+    father = WELG_56 #Hannu91
+    mother = WELG_121 #Maija241
+    573.1.1 = {
+        birth = yes
+    }
+}
+
+WELG_79 = {
+    name = "Pekka292"
+    culture = "wel_gravan"
+    faith = "stonegods"
+    dynasty = WELGD10 #WelgDyn10
+    father = WELG_64 #Jari97
+    mother = WELG_111 #Iida230
+    580.1.1 = {
+        birth = yes
+    }
+}
+
+WELG_8 = {
+    name = "Hannu274"
+    culture = "wel_gravan"
+    faith = "stonegods"
+    dynasty = WELGD1 #WelgDyn1
+    father = WELG_9 #Hannu84
+    mother = WELG_70 #Katariina96
+    576.1.1 = {
+        birth = yes
+    }
+}
+
+WELG_80 = {
+    name = "Pekka312"
+    culture = "wel_gravan"
+    faith = "stonegods"
+    dynasty = WELGD10 #WelgDyn10
+    father = WELG_68 #Kari95
+    mother = WELG_165 #Noora111
+    571.1.1 = {
+        birth = yes
+    }
+    586.1.1 = {
+        add_spouse = WELG_260 #Sari409
+    }
+}
+
+WELG_81 = {
+    name = "Pihla309"
+    culture = "wel_gravan"
+    faith = "stonegods"
+    female = yes
+    dynasty = WELGD10 #WelgDyn10
+    father = WELG_68 #Kari95
+    mother = WELG_165 #Noora111
+    568.1.1 = {
+        birth = yes
+    }
+    586.1.1 = {
+        add_spouse = WELG_18 #Kari276
+    }
+}
+
+WELG_82 = {
+    name = "Pihla311"
+    culture = "wel_gravan"
+    faith = "stonegods"
+    female = yes
+    dynasty = WELGD10 #WelgDyn10
+    father = WELG_68 #Kari95
+    mother = WELG_165 #Noora111
+    570.1.1 = {
+        birth = yes
+    }
+    586.1.1 = {
+        add_spouse = WELG_387 #Tapio476
+    }
+}
+
+WELG_83 = {
+    name = "Reino293"
+    culture = "wel_gravan"
+    faith = "stonegods"
+    dynasty = WELGD10 #WelgDyn10
+    father = WELG_66 #Joona93
+    mother = WELG_130 #Satu104
+    576.1.1 = {
+        birth = yes
+    }
+}
+
+WELG_84 = {
+    name = "Riikka296"
+    culture = "wel_gravan"
+    faith = "stonegods"
+    female = yes
+    dynasty = WELGD10 #WelgDyn10
+    father = WELG_66 #Joona93
+    mother = WELG_130 #Satu104
+    581.1.1 = {
+        birth = yes
+    }
+}
+
+WELG_85 = {
+    name = "Riikka305"
+    culture = "wel_gravan"
+    faith = "stonegods"
+    female = yes
+    dynasty = WELGD10 #WelgDyn10
+    father = WELG_95 #Veli99
+    mother = WELG_173 #Veera238
+    574.1.1 = {
+        birth = yes
+    }
+}
+
+WELG_86 = {
+    name = "Ritva49"
+    culture = "wel_gravan"
+    faith = "stonegods"
+    female = yes
+    dynasty = WELGD10 #WelgDyn10
+    father = WELG_57 #Heikki46
+    523.1.1 = {
+        birth = yes
+    }
+    535.1.1 = {
+        add_spouse = WELG_30 #Pekka2
+    }
+    577.1.1 = {
+        death = yes
+    }
+}
+
+WELG_87 = {
+    name = "Sari283"
+    culture = "wel_gravan"
+    faith = "stonegods"
+    female = yes
+    dynasty = WELGD10 #WelgDyn10
+    father = WELG_76 #Niilo92
+    mother = WELG_129 #Sari224
+    575.1.1 = {
+        birth = yes
+    }
+}
+
+WELG_88 = {
+    name = "Sari294"
+    culture = "wel_gravan"
+    faith = "stonegods"
+    female = yes
+    dynasty = WELGD10 #WelgDyn10
+    father = WELG_66 #Joona93
+    mother = WELG_130 #Satu104
+    578.1.1 = {
+        birth = yes
+    }
+}
+
+WELG_89 = {
+    name = "Sini280"
+    culture = "wel_gravan"
+    faith = "stonegods"
+    female = yes
+    dynasty = WELGD10 #WelgDyn10
+    father = WELG_56 #Hannu91
+    mother = WELG_121 #Maija241
+    569.1.1 = {
+        birth = yes
+    }
+    586.1.1 = {
+        add_spouse = WELG_373 #Matti475
+    }
+}
+
+WELG_9 = {
+    name = "Hannu84"
+    culture = "wel_gravan"
+    faith = "stonegods"
+    dynasty = WELGD1 #WelgDyn1
+    father = WELG_30 #Pekka2
+    mother = WELG_86 #Ritva49
+    553.1.1 = {
+        birth = yes
+    }
+    570.1.1 = {
+        add_spouse = WELG_70 #Katariina96
+    }
+}
+
+WELG_90 = {
+    name = "Timo98"
+    culture = "wel_gravan"
+    faith = "stonegods"
+    dynasty = WELGD10 #WelgDyn10
+    father = WELG_46 #Arto48
+    mother = WELG_175 #Ylva60
+    552.1.1 = {
+        birth = yes
+    }
+    577.1.1 = {
+        add_spouse = WELG_158 #Liisa226
+    }
+}
+
+WELG_91 = {
+    name = "Toivo284"
+    culture = "wel_gravan"
+    faith = "stonegods"
+    dynasty = WELGD10 #WelgDyn10
+    father = WELG_76 #Niilo92
+    mother = WELG_129 #Sari224
+    576.1.1 = {
+        birth = yes
+    }
+}
+
+WELG_92 = {
+    name = "Tuuli299"
+    culture = "wel_gravan"
+    faith = "stonegods"
+    female = yes
+    dynasty = WELGD10 #WelgDyn10
+    father = WELG_90 #Timo98
+    mother = WELG_158 #Liisa226
+    578.1.1 = {
+        birth = yes
+    }
+}
+
+WELG_93 = {
+    name = "Ulla221"
+    culture = "wel_gravan"
+    faith = "stonegods"
+    female = yes
+    dynasty = WELGD10 #WelgDyn10
+    540.1.1 = {
+        birth = yes
+    }
+    572.1.1 = {
+        add_spouse = WELG_17 #Kalevi85
+    }
+}
+
+WELG_94 = {
+    name = "Ulla94"
+    culture = "wel_gravan"
+    faith = "stonegods"
+    female = yes
+    dynasty = WELGD10 #WelgDyn10
+    father = WELG_45 #Arto47
+    mother = WELG_143 #Vieno55
+    553.1.1 = {
+        birth = yes
+    }
+    566.1.1 = {
+        add_spouse = WELG_26 #Matti88
+    }
+}
+
+WELG_95 = {
+    name = "Veli99"
+    culture = "wel_gravan"
+    faith = "stonegods"
+    dynasty = WELGD10 #WelgDyn10
+    father = WELG_46 #Arto48
+    mother = WELG_175 #Ylva60
+    553.1.1 = {
+        birth = yes
+    }
+    572.1.1 = {
+        add_spouse = WELG_173 #Veera238
+    }
+}
+
+WELG_96 = {
+    name = "Vieno249"
+    culture = "wel_gravan"
+    faith = "stonegods"
+    female = yes
+    dynasty = WELGD10 #WelgDyn10
+    548.1.1 = {
+        birth = yes
+    }
+    568.1.1 = {
+        add_spouse = WELG_22 #Kosti86
+    }
+}
+
+WELG_97 = {
+    name = "Vieno297"
+    culture = "wel_gravan"
+    faith = "stonegods"
+    female = yes
+    dynasty = WELGD10 #WelgDyn10
+    father = WELG_66 #Joona93
+    mother = WELG_130 #Satu104
+    582.1.1 = {
+        birth = yes
+    }
+}
+
+WELG_98 = {
+    name = "Vilma288"
+    culture = "wel_gravan"
+    faith = "stonegods"
+    female = yes
+    dynasty = WELGD10 #WelgDyn10
+    father = WELG_76 #Niilo92
+    mother = WELG_129 #Sari224
+    583.1.1 = {
+        birth = yes
+    }
+}
+
+WELG_99 = {
+    name = "Aapo102"
+    culture = "wel_gravan"
+    faith = "stonegods"
+    dynasty = WELGD11 #WelgDyn11
+    father = WELG_109 #Hannu52
+    mother = WELG_209 #Riikka65
+    551.1.1 = {
+        birth = yes
+    }
+    572.1.1 = {
+        add_spouse = WELG_213 #Sini254
+    }
+}
+

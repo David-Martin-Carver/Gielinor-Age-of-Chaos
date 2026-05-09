@@ -21,6 +21,60 @@ d_briarhold_guard = {
 	capital = c_98
 }
 
+d_middlehills = {
+	color = { 180 55 180 }
+
+	capital = c_237
+}
+
+d_fond_ferry = {
+	color = { 90 205 255 }
+
+	capital = c_263
+}
+
+d_real_cold_river = {
+	color = { 205 205 255 }
+
+	capital = c_334
+}
+
+d_pineguard = {
+	color = { 90 205 70 }
+
+	capital = c_330
+}
+
+d_twinstreams = {
+	color = { 50 230 175 }
+
+	capital = c_292
+}
+
+d_archkeeper = {
+	color = { 182 225 30 }
+
+	capital = c_304
+}
+
+d_greyhollow = {
+	color = { 240 225 170 }
+
+	capital = c_396
+}
+
+d_rockcross = {
+	color = { 240 151 47 }
+
+	capital = c_512
+}
+
+k_upper_ceria = {
+	color = { 153 217 234 }
+
+	capital = c_431
+}
+
 d_duchygrevone = {
 	color = { 70 80 240 }
 	ruler_uses_title_name = no

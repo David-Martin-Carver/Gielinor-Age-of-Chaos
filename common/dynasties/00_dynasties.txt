@@ -1,0 +1,2108 @@
+﻿1 = {
+	name = "dynn_erroling"
+	culture = "arbundian"
+}
+2 = {
+	name = "dynn_grevis"
+	culture = "arbundian"
+}
+3 = {
+	name = "dynn_3"
+	culture = "arbundian"
+}
+4 = {
+	name = "dynn_4"
+	culture = "arbundian"
+}
+5 = {
+	name = "dynn_5"
+	culture = "arbundian"
+}
+6 = {
+	name = "dynn_6"
+	culture = "arbundian"
+}
+7 = {
+	name = "dynn_7"
+	culture = "arbundian"
+}
+8 = {
+	name = "dynn_8"
+	culture = "arbundian"
+}
+9 = {
+	name = "dynn_9"
+	culture = "arbundian"
+}
+10 = {
+	name = "dynn_10"
+	culture = "arbundian"
+}
+11 = {
+	name = "dynn_11"
+	culture = "arbundian"
+}
+12 = {
+	name = "dynn_12"
+	culture = "arbundian"
+}
+13 = {
+	name = "dynn_13"
+	culture = "arbundian"
+}
+14 = {
+	name = "dynn_14"
+	culture = "arbundian"
+}
+15 = {
+	name = "dynn_15"
+	culture = "arbundian"
+}
+16 = {
+	name = "dynn_16"
+	culture = "arbundian"
+}
+17 = {
+	name = "dynn_17"
+	culture = "arbundian"
+}
+18 = {
+	name = "dynn_18"
+	culture = "arbundian"
+}
+19 = {
+	name = "dynn_19"
+	culture = "arbundian"
+}
+20 = {
+	name = "dynn_20"
+	culture = "arbundian"
+}
+21 = {
+	name = "dynn_21"
+	culture = "arbundian"
+}
+22 = {
+	name = "dynn_22"
+	culture = "arbundian"
+}
+23 = {
+	name = "dynn_23"
+	culture = "arbundian"
+}
+24 = {
+	name = "dynn_24"
+	culture = "arbundian"
+}
+25 = {
+	name = "dynn_25"
+	culture = "arbundian"
+}
+26 = {
+	name = "dynn_26"
+	culture = "arbundian"
+}
+27 = {
+	name = "dynn_euradan1"
+	culture = "euradan"
+}
+28 = {
+	name = "dynn_euradan2"
+	culture = "euradan"
+}
+29 = {
+	name = "dynn_euradan3"
+	culture = "euradan"
+}
+30 = {
+	name = "dynn_euradan4"
+	culture = "euradan"
+}
+31 = {
+	name = "dynn_euradan5"
+	culture = "euradan"
+}
+32 = {
+	name = "dynn_euradan6"
+	culture = "euradan"
+}
+33 = {
+	name = "dynn_euradan7"
+	culture = "euradan"
+}
+34 = {
+	name = "dynn_euradan8"
+	culture = "euradan"
+}
+35 = {
+	name = "dynn_euradan9"
+	culture = "euradan"
+}
+36 = {
+	name = "dynn_euradan10"
+	culture = "euradan"
+}
+37 = {
+	name = "dynn_euradan11"
+	culture = "euradan"
+}
+38 = {
+	name = "dynn_euradan12"
+	culture = "euradan"
+}
+39 = {
+	name = "dynn_euradan13"
+	culture = "euradan"
+}
+40 = {
+	name = "dynn_euradan14"
+	culture = "euradan"
+}
+41 = {
+	name = "dynn_euradan15"
+	culture = "euradan"
+}
+42 = {
+	name = "dynn_euradan16"
+	culture = "euradan"
+}
+43 = {
+	name = "dynn_herrecan1"
+	culture = "herrecan"
+}
+44 = {
+	name = "dynn_herrecan2"
+	culture = "herrecan"
+}
+45 = {
+	name = "dynn_herrecan3"
+	culture = "herrecan"
+}
+46 = {
+	name = "dynn_herrecan4"
+	culture = "herrecan"
+}
+47 = {
+	name = "dynn_herrecan5"
+	culture = "herrecan"
+}
+48 = {
+	name = "dynn_herrecan6"
+	culture = "herrecan"
+}
+49 = {
+	name = "dynn_herrecan7"
+	culture = "herrecan"
+}
+50 = {
+	name = "dynn_herrecan8"
+	culture = "herrecan"
+}
+51 = {
+	name = "dynn_herrecan9"
+	culture = "herrecan"
+}
+52 = {
+	name = "dynn_herrecan10"
+	culture = "herrecan"
+}
+53 = {
+	name = "dynn_herrecan11"
+	culture = "herrecan"
+}
+54 = {
+	name = "dynn_herrecan12"
+	culture = "herrecan"
+}
+55 = {
+	name = "dynn_herrecan13"
+	culture = "herrecan"
+}
+56 = {
+	name = "dynn_herrecan14"
+	culture = "herrecan"
+}
+57 = {
+	name = "dynn_herrecan15"
+	culture = "herrecan"
+}
+58 = {
+	name = "dynn_herrecan16"
+	culture = "herrecan"
+}
+59 = {
+	name = "dynn_herrecan17"
+	culture = "herrecan"
+}
+60 = {
+	name = "dynn_herrecan18"
+	culture = "herrecan"
+}
+61 = {
+	name = "dynn_herrecan19"
+	culture = "herrecan"
+}
+62 = {
+	name = "dynn_herrecan20"
+	culture = "herrecan"
+}
+63 = {
+	name = "dynn_herrecan21"
+	culture = "herrecan"
+}
+64 = {
+	name = "dynn_herrecan22"
+	culture = "herrecan"
+}
+65 = {
+	name = "dynn_herrecan23"
+	culture = "herrecan"
+}
+66 = {
+	name = "dynn_herrecan24"
+	culture = "herrecan"
+}
+67 = {
+	name = "dynn_herrecan25"
+	culture = "herrecan"
+}
+68 = {
+	name = "dynn_herrecan26"
+	culture = "herrecan"
+}
+69 = {
+	name = "dynn_herrecan27"
+	culture = "herrecan"
+}
+70 = {
+	name = "dynn_herrecan28"
+	culture = "herrecan"
+}
+71 = {
+	name = "dynn_herrecan29"
+	culture = "herrecan"
+}
+72 = {
+	name = "dynn_herrecan30"
+	culture = "herrecan"
+}
+73 = {
+	name = "dynn_herrecan31"
+	culture = "herrecan"
+}
+74 = {
+	name = "dynn_herrecan32"
+	culture = "herrecan"
+}
+7500075 = {
+	name = "dynn_thalleran1"
+	culture = "thalleran"
+}
+76 = {
+	name = "dynn_thalleran2"
+	culture = "thalleran"
+}
+77 = {
+	name = "dynn_thalleran3"
+	culture = "thalleran"
+}
+78 = {
+	name = "dynn_thalleran4"
+	culture = "thalleran"
+}
+79 = {
+	name = "dynn_thalleran5"
+	culture = "thalleran"
+}
+80 = {
+	name = "dynn_thalleran6"
+	culture = "thalleran"
+}
+81 = {
+	name = "dynn_thalleran7"
+	culture = "thalleran"
+}
+82 = {
+	name = "dynn_thalleran8"
+	culture = "thalleran"
+}
+83 = {
+	name = "dynn_thalleran9"
+	culture = "thalleran"
+}
+84 = {
+	name = "dynn_thalleran10"
+	culture = "thalleran"
+}
+85 = {
+	name = "dynn_thalleran11"
+	culture = "thalleran"
+}
+86 = {
+	name = "dynn_thalleran12"
+	culture = "thalleran"
+}
+87 = {
+	name = "dynn_thalleran13"
+	culture = "thalleran"
+}
+88 = {
+	name = "dynn_thalleran14"
+	culture = "thalleran"
+}
+89 = {
+	name = "dynn_thalleran15"
+	culture = "thalleran"
+}
+90 = {
+	name = "dynn_calraian1"
+	culture = "calraian"
+}
+91 = {
+	name = "dynn_calraian2"
+	culture = "calraian"
+}
+92 = {
+	name = "dynn_calraian3"
+	culture = "calraian"
+}
+93 = {
+	name = "dynn_calraian4"
+	culture = "calraian"
+}
+94 = {
+	name = "dynn_calraian5"
+	culture = "calraian"
+}
+95 = {
+	name = "dynn_calraian6"
+	culture = "calraian"
+}
+96 = {
+	name = "dynn_calraian7"
+	culture = "calraian"
+}
+97 = {
+	name = "dynn_calraian8"
+	culture = "calraian"
+}
+98 = {
+	name = "dynn_calraian9"
+	culture = "calraian"
+}
+99 = {
+	name = "dynn_calraian10"
+	culture = "calraian"
+}
+100 = {
+	name = "dynn_calraian11"
+	culture = "calraian"
+}
+101 = {
+	name = "dynn_calraian12"
+	culture = "calraian"
+}
+102 = {
+	name = "dynn_calraian13"
+	culture = "calraian"
+}
+103 = {
+	name = "dynn_calraian14"
+	culture = "calraian"
+}
+104 = {
+	name = "dynn_calraian15"
+	culture = "calraian"
+}
+105 = {
+	name = "dynn_calraian16"
+	culture = "calraian"
+}
+106 = {
+	name = "dynn_calraian17"
+	culture = "calraian"
+}
+107 = {
+	name = "dynn_calraian18"
+	culture = "calraian"
+}
+108 = {
+	name = "dynn_calraian19"
+	culture = "calraian"
+}
+109 = {
+	name = "dynn_calraian20"
+	culture = "calraian"
+}
+110 = {
+	name = "dynn_calraian21"
+	culture = "calraian"
+}
+111 = {
+	name = "dynn_calraian22"
+	culture = "calraian"
+}
+112 = {
+	name = "dynn_calraian23"
+	culture = "calraian"
+}
+113 = {
+	name = "dynn_cerian1"
+	culture = "cerian"
+}
+114 = {
+	name = "dynn_cerian2"
+	culture = "cerian"
+}
+115 = {
+	name = "dynn_cerian3"
+	culture = "cerian"
+}
+116 = {
+	name = "dynn_cerian4"
+	culture = "cerian"
+}
+117 = {
+	name = "dynn_cerian5"
+	culture = "cerian"
+}
+118 = {
+	name = "dynn_cerian6"
+	culture = "cerian"
+}
+119 = {
+	name = "dynn_cerian7"
+	culture = "cerian"
+}
+120 = {
+	name = "dynn_cerian8"
+	culture = "cerian"
+}
+121 = {
+	name = "dynn_cerian9"
+	culture = "cerian"
+}
+122 = {
+	name = "dynn_cerian10"
+	culture = "cerian"
+}
+123 = {
+	name = "dynn_cerian11"
+	culture = "cerian"
+}
+124 = {
+	name = "dynn_cerian12"
+	culture = "cerian"
+}
+125 = {
+	name = "dynn_cerian13"
+	culture = "cerian"
+}
+126 = {
+	name = "dynn_mongr1"
+	culture = "mon_grellan"
+}
+127 = {
+	name = "dynn_mongr2"
+	culture = "mon_grellan"
+}
+128 = {
+	name = "dynn_mongr3"
+	culture = "mon_grellan"
+}
+129 = {
+	name = "dynn_mongr4"
+	culture = "mon_grellan"
+}
+130 = {
+	name = "dynn_mongr5"
+	culture = "mon_grellan"
+}
+131 = {
+	name = "dynn_mongr6"
+	culture = "mon_grellan"
+}
+132 = {
+	name = "dynn_mongr7"
+	culture = "mon_grellan"
+}
+133 = {
+	name = "dynn_mongr8"
+	culture = "mon_grellan"
+}
+134 = {
+	name = "dynn_mongr9"
+	culture = "mon_grellan"
+}
+135 = {
+	name = "dynn_mongr10"
+	culture = "mon_grellan"
+}
+136 = {
+	name = "dynn_mongr11"
+	culture = "mon_grellan"
+}
+137 = {
+	name = "dynn_mongr12"
+	culture = "mon_grellan"
+}
+138 = {
+	name = "dynn_mongr13"
+	culture = "mon_grellan"
+}
+139 = {
+	name = "dynn_mongr14"
+	culture = "mon_grellan"
+}
+140 = {
+	name = "dynn_mongr15"
+	culture = "mon_grellan"
+}
+141 = {
+	name = "dynn_mongr16"
+	culture = "mon_grellan"
+}
+142 = {
+	name = "dynn_mongr17"
+	culture = "mon_grellan"
+}
+143 = {
+	name = "dynn_mongr18"
+	culture = "mon_grellan"
+}
+144 = {
+	name = "dynn_mongr19"
+	culture = "mon_grellan"
+}
+145 = {
+	name = "dynn_mongr20"
+	culture = "mon_grellan"
+}
+146 = {
+	name = "dynn_mongr21"
+	culture = "mon_grellan"
+}
+147 = {
+	name = "dynn_mongr22"
+	culture = "mon_grellan"
+}
+148 = {
+	name = "dynn_ferran1"
+	culture = "ferran"
+}
+149 = {
+	name = "dynn_ferran2"
+	culture = "ferran"
+}
+150 = {
+	name = "dynn_ferran3"
+	culture = "ferran"
+}
+151 = {
+	name = "dynn_ferran4"
+	culture = "ferran"
+}
+152 = {
+	name = "dynn_ferran5"
+	culture = "ferran"
+}
+153 = {
+	name = "dynn_ferran6"
+	culture = "ferran"
+}
+154 = {
+	name = "dynn_ferran7"
+	culture = "ferran"
+}
+155 = {
+	name = "dynn_ferran8"
+	culture = "ferran"
+}
+156 = {
+	name = "dynn_ferran9"
+	culture = "ferran"
+}
+157 = {
+	name = "dynn_ferran10"
+	culture = "ferran"
+}
+158 = {
+	name = "dynn_ferran11"
+	culture = "ferran"
+}
+159 = {
+	name = "dynn_ferran12"
+	culture = "ferran"
+}
+160 = {
+	name = "dynn_ferran13"
+	culture = "ferran"
+}
+161 = {
+	name = "dynn_ferran14"
+	culture = "ferran"
+}
+162 = {
+	name = "dynn_ferran15"
+	culture = "ferran"
+}
+163 = {
+	name = "dynn_ferran16"
+	culture = "ferran"
+}
+164 = {
+	name = "dynn_ferran17"
+	culture = "ferran"
+}
+165 = {
+	name = "dynn_ferran18"
+	culture = "ferran"
+}
+166 = {
+	name = "dynn_lyrath1"
+	culture = "ferran"
+}
+167 = {
+	name = "dynn_lyrath2"
+	culture = "ferran"
+}
+168 = {
+	name = "dynn_lyrath3"
+	culture = "ferran"
+}
+169 = {
+	name = "dynn_lyrath4"
+	culture = "ferran"
+}
+170 = {
+	name = "dynn_lyrath5"
+	culture = "ferran"
+}
+171 = {
+	name = "dynn_lyrath6"
+	culture = "ferran"
+}
+172 = {
+	name = "dynn_castigonian1"
+	culture = "castigonian"
+}
+173 = {
+	name = "dynn_castigonian2"
+	culture = "castigonian"
+}
+174 = {
+	name = "dynn_castigonian3"
+	culture = "castigonian"
+}
+175 = {
+	name = "dynn_castigonian4"
+	culture = "castigonian"
+}
+176 = {
+	name = "dynn_castigonian5"
+	culture = "castigonian"
+}
+177 = {
+	name = "dynn_castigonian6"
+	culture = "castigonian"
+}
+178 = {
+	name = "dynn_castigonian7"
+	culture = "castigonian"
+}
+179 = {
+	name = "dynn_castigonian8"
+	culture = "castigonian"
+}
+180 = {
+	name = "dynn_castigonian9"
+	culture = "castigonian"
+}
+181 = {
+	name = "dynn_castigonian10"
+	culture = "castigonian"
+}
+182 = {
+	name = "dynn_castigonian11"
+	culture = "castigonian"
+}
+183 = {
+	name = "dynn_castigonian12"
+	culture = "castigonian"
+}
+184 = {
+	name = "dynn_castigonian13"
+	culture = "castigonian"
+}
+185 = {
+	name = "dynn_castigonian14"
+	culture = "castigonian"
+}
+186 = {
+	name = "dynn_castigonian15"
+	culture = "castigonian"
+}
+187 = {
+	name = "dynn_castigonian16"
+	culture = "castigonian"
+}
+188 = {
+	name = "dynn_castigonian17"
+	culture = "castigonian"
+}
+189 = {
+	name = "dynn_castigonian18"
+	culture = "castigonian"
+}
+190 = {
+	name = "dynn_castigonian19"
+	culture = "castigonian"
+}
+191 = {
+	name = "dynn_castigonian20"
+	culture = "castigonian"
+}
+192 = {
+	name = "dynn_castigonian21"
+	culture = "castigonian"
+}
+193 = {
+	name = "dynn_castigonian22"
+	culture = "castigonian"
+}
+194 = {
+	name = "dynn_castigonian23"
+	culture = "castigonian"
+}
+195 = {
+	name = "dynn_castigonian24"
+	culture = "castigonian"
+}
+196 = {
+	name = "dynn_castigonian25"
+	culture = "castigonian"
+}
+197 = {
+	name = "dynn_castigonian26"
+	culture = "castigonian"
+}
+198 = {
+	name = "dynn_castigonian27"
+	culture = "castigonian"
+}
+199 = {
+	name = "dynn_castigonian28"
+	culture = "castigonian"
+}
+200 = {
+	name = "dynn_castigonian29"
+	culture = "castigonian"
+}
+201 = {
+	name = "dynn_thalleran16"
+	culture = "thalleran"
+}
+202 = {
+	name = "dynn_thalleran17"
+	culture = "thalleran"
+}
+203 = {
+	name = "dynn_thalleran18"
+	culture = "thalleran"
+}
+204 = {
+	name = "dynn_mongr23"
+	culture = "erro_arbundian"
+}
+verris = {
+	name = "dynn_verris"
+	culture = "arbundian"
+}
+thrisby = {
+	name = "dynn_thrisby"
+	culture = "arbundian"
+}
+erroling = {
+	name = "dynn_erroling"
+	culture = "arbundian"
+}
+souby = {
+	name = "dynn_souby"
+	culture = "arbundian"
+}
+penloran = {
+	name = "dynn_penloran"
+	culture = "arbundian"
+}
+eclair = {
+	name = "dynn_eclair"
+	culture = "arbundian"
+}
+abens = {
+	name = "dynn_abens"
+	culture = "arbundian"
+}
+erevaire = {
+	name = "dynn_erevaire"
+	culture = "arbundian"
+}
+euryde = {
+	name = "dynn_euryde"
+	culture = "arbundian"
+}
+lorel = {
+	name = "dynn_lorel"
+	culture = "arbundian"
+}
+wilde = {
+	name = "dynn_wilde"
+	culture = "arbundian"
+}
+loxtris = {
+	name = "dynn_loxtris"
+	culture = "arbundian"
+}
+heurwald = {
+	name = "dynn_heurwald"
+	culture = "arbundian"
+}
+AZ_1 = { #NewDyn1
+    name = "dynn_NewDyn1"
+    culture = "sarnithek"
+}
+
+AZ_2 = { #NewDyn2
+    name = "dynn_NewDyn2"
+    culture = "sarnithek"
+}
+
+AZ_3 = { #NewDyn3
+    name = "dynn_NewDyn3"
+    culture = "sarnithek"
+}
+
+AZ_4 = { #NewDyn4
+    name = "dynn_NewDyn4"
+    culture = "sarnithek"
+}
+
+AR_Barley = { #Barley
+    name = "dynn_Barley"
+    culture = "scarletian"
+}
+
+AR_Lucerne = { #Lucerne
+    name = "dynn_Lucerne"
+    culture = "scarletian"
+}
+
+AR_Oat = { #Oat
+    name = "dynn_Oat"
+    culture = "scarletian"
+}
+
+AR_Wheat = { #Wheat
+    name = "dynn_Wheat"
+    culture = "scarletian"
+}
+
+STRM_Bearkarl = { #Bearkarl
+    name = "dynn_Bearkarl"
+    culture = "stormward"
+}
+
+STRM_Darnhul = { #Darnhul
+    name = "dynn_Darnhul"
+    culture = "stormward"
+}
+
+STRM_Drovenmark = { #Drovenmark
+    name = "dynn_Drovenmark"
+    culture = "targoth"
+}
+
+STRM_Eldskar = { #Eldskar
+    name = "dynn_Eldskar"
+    culture = "thurn"
+}
+
+STRM_Haskarn = { #Haskarn
+    name = "dynn_Haskarn"
+    culture = "thurn"
+}
+
+STRM_Hroldvyr = { #Hroldvyr
+    name = "dynn_Hroldvyr"
+    culture = "stormward"
+}
+
+STRM_Kurnsgald = { #Kurnsgald
+    name = "dynn_Kurnsgald"
+    culture = "targoth"
+}
+
+STRM_Skallvek = { #Skallvek
+    name = "dynn_Skallvek"
+    culture = "stormward"
+}
+
+STRM_Targund = { #Targund
+    name = "dynn_Targund"
+    culture = "targoth"
+}
+
+STRM_Thurnvold = { #Thurnvold
+    name = "dynn_Thurnvold"
+    culture = "thurn"
+}
+
+STRM_Varkhuld = { #Varkhuld
+    name = "dynn_Varkhuld"
+    culture = "thurn"
+}
+
+STRM_Veidral = { #Veidral
+    name = "dynn_Veidral"
+    culture = "targoth"
+}
+
+STRM_Ylgrid = { #Ylgrid
+    name = "dynn_Ylgrid"
+    culture = "thurn"
+}
+
+LYRD1 = { #Dyn1
+    name = "dynn_Dyn1"
+    culture = "lyrathian"
+}
+
+LYRD2 = { #Dyn2
+    name = "dynn_Dyn2"
+    culture = "lyrathian"
+}
+
+LYRD3 = { #Dyn3
+    name = "dynn_Dyn3"
+    culture = "lyrathian"
+}
+
+LYRD4 = { #Dyn4
+    name = "dynn_Dyn4"
+    culture = "lyrathian"
+}
+
+LYRD5 = { #Dyn5
+    name = "dynn_Dyn5"
+    culture = "lyrathian"
+}
+
+LYRD6 = { #Dyn6
+    name = "dynn_Dyn6"
+    culture = "lyrathian"
+}
+
+LYRD7 = { #Dyn7
+    name = "dynn_Dyn7"
+    culture = "lyrathian"
+}
+
+LYRD8 = { #Dyn8
+    name = "dynn_Dyn8"
+    culture = "lyrathian"
+}
+
+LYRD9 = { #Dyn9
+    name = "dynn_Dyn9"
+    culture = "lyrathian"
+}
+
+FERD1 = { #FerDyn1
+    name = "dynn_FerDyn1"
+    culture = "ferran"
+}
+
+FERD2 = { #FerDyn2
+    name = "dynn_FerDyn2"
+    culture = "ferran"
+}
+
+FERD3 = { #FerDyn3
+    name = "dynn_FerDyn3"
+    culture = "ferran"
+}
+
+FERD4 = { #FerDyn4
+    name = "dynn_FerDyn4"
+    culture = "ferran"
+}
+
+FERD5 = { #FerDyn5
+    name = "dynn_FerDyn5"
+    culture = "ferran"
+}
+
+FERD6 = { #FerDyn6
+    name = "dynn_FerDyn6"
+    culture = "ferran"
+}
+
+FERD7 = { #FerDyn7
+    name = "dynn_FerDyn7"
+    culture = "ferran"
+}
+
+FERD8 = { #FerDyn8
+    name = "dynn_FerDyn8"
+    culture = "ferran"
+}
+
+FERD9 = { #FerDyn9
+    name = "dynn_FerDyn9"
+    culture = "ferran"
+}
+
+ELRD1 = { #ElrDyn1
+    name = "dynn_ElrDyn1"
+    culture = "elruan"
+}
+
+ELRD2 = { #ElrDyn2
+    name = "dynn_ElrDyn2"
+    culture = "elruan"
+}
+
+ELRD3 = { #ElrDyn3
+    name = "dynn_ElrDyn3"
+    culture = "elruan"
+}
+
+ELRD4 = { #ElrDyn4
+    name = "dynn_ElrDyn4"
+    culture = "elruan"
+}
+
+ELRD5 = { #ElrDyn5
+    name = "dynn_ElrDyn5"
+    culture = "elruan"
+}
+
+ELRD6 = { #ElrDyn6
+    name = "dynn_ElrDyn6"
+    culture = "elruan"
+}
+
+ELRD7 = { #ElrDyn7
+    name = "dynn_ElrDyn7"
+    culture = "elruan"
+}
+
+ELRD8 = { #ElrDyn8
+    name = "dynn_ElrDyn8"
+    culture = "elruan"
+}
+
+ELRD9 = { #ElrDyn9
+    name = "dynn_ElrDyn9"
+    culture = "elruan"
+}
+
+ORTHD1 = { #OrthDyn1
+    name = "dynn_OrthDyn1"
+    culture = "orthanian"
+}
+
+ORTHD2 = { #OrthDyn2
+    name = "dynn_OrthDyn2"
+    culture = "orthanian"
+}
+
+ORTHD3 = { #OrthDyn3
+    name = "dynn_OrthDyn3"
+    culture = "orthanian"
+}
+
+ORTHD4 = { #OrthDyn4
+    name = "dynn_OrthDyn4"
+    culture = "orthanian"
+}
+
+ORTHD5 = { #OrthDyn5
+    name = "dynn_OrthDyn5"
+    culture = "orthanian"
+}
+
+ORTHD6 = { #OrthDyn6
+    name = "dynn_OrthDyn6"
+    culture = "orthanian"
+}
+
+ORTHD7 = { #OrthDyn7
+    name = "dynn_OrthDyn7"
+    culture = "orthanian"
+}
+
+ORTHD8 = { #OrthDyn8
+    name = "dynn_OrthDyn8"
+    culture = "orthanian"
+}
+
+ORTHD9 = { #OrthDyn9
+    name = "dynn_OrthDyn9"
+    culture = "orthanian"
+}
+
+HULRD1 = { #HulrDyn1
+    name = "dynn_HulrDyn1"
+    culture = "hulrethan"
+}
+
+HULRD10 = { #HulrDyn10
+    name = "dynn_HulrDyn10"
+    culture = "hulrethan"
+}
+
+HULRD11 = { #HulrDyn11
+    name = "dynn_HulrDyn11"
+    culture = "hulrethan"
+}
+
+HULRD12 = { #HulrDyn12
+    name = "dynn_HulrDyn12"
+    culture = "hulrethan"
+}
+
+HULRD13 = { #HulrDyn13
+    name = "dynn_HulrDyn13"
+    culture = "hulrethan"
+}
+
+HULRD2 = { #HulrDyn2
+    name = "dynn_HulrDyn2"
+    culture = "hulrethan"
+}
+
+HULRD3 = { #HulrDyn3
+    name = "dynn_HulrDyn3"
+    culture = "hulrethan"
+}
+
+HULRD4 = { #HulrDyn4
+    name = "dynn_HulrDyn4"
+    culture = "hulrethan"
+}
+
+HULRD5 = { #HulrDyn5
+    name = "dynn_HulrDyn5"
+    culture = "hulrethan"
+}
+
+HULRD6 = { #HulrDyn6
+    name = "dynn_HulrDyn6"
+    culture = "hulrethan"
+}
+
+HULRD7 = { #HulrDyn7
+    name = "dynn_HulrDyn7"
+    culture = "hulrethan"
+}
+
+HULRD8 = { #HulrDyn8
+    name = "dynn_HulrDyn8"
+    culture = "hulrethan"
+}
+
+HULRD9 = { #HulrDyn9
+    name = "dynn_HulrDyn9"
+    culture = "hulrethan"
+}
+
+MonGD1 = { #MonGDyn1
+    name = "dynn_MonGDyn1"
+    culture = "mon_grellan"
+}
+
+MonGD2 = { #MonGDyn2
+    name = "dynn_MonGDyn2"
+    culture = "mon_grellan"
+}
+
+MonGD3 = { #MonGDyn3
+    name = "dynn_MonGDyn3"
+    culture = "mon_grellan"
+}
+
+MonGD4 = { #MonGDyn4
+    name = "dynn_MonGDyn4"
+    culture = "mon_grellan"
+}
+
+MonGD5 = { #MonGDyn5
+    name = "dynn_MonGDyn5"
+    culture = "mon_grellan"
+}
+
+MonGD6 = { #MonGDyn6
+    name = "dynn_MonGDyn6"
+    culture = "mon_grellan"
+}
+
+MonGD7 = { #MonGDyn7
+    name = "dynn_MonGDyn7"
+    culture = "mon_grellan"
+}
+
+MonGD8 = { #MonGDyn8
+    name = "dynn_MonGDyn8"
+    culture = "mon_grellan"
+}
+
+MonGD9 = { #MonGDyn9
+    name = "dynn_MonGDyn9"
+    culture = "mon_grellan"
+}
+
+THALMD1 = { #ThalMDyn1
+    name = "dynn_ThalMDyn1"
+    culture = "thalleromon"
+}
+
+THALMD2 = { #ThalMDyn2
+    name = "dynn_ThalMDyn2"
+    culture = "thalleromon"
+}
+
+THALMD3 = { #ThalMDyn3
+    name = "dynn_ThalMDyn3"
+    culture = "thalleromon"
+}
+
+THALMD4 = { #ThalMDyn4
+    name = "dynn_ThalMDyn4"
+    culture = "thalleromon"
+}
+
+THALMD5 = { #ThalMDyn5
+    name = "dynn_ThalMDyn5"
+    culture = "thalleromon"
+}
+
+KISTD1 = { #KistDyn1
+    name = "dynn_KistDyn1"
+    culture = "kistry"
+}
+
+KISTD10 = { #KistDyn10
+    name = "dynn_KistDyn10"
+    culture = "kistry"
+}
+
+KISTD11 = { #KistDyn11
+    name = "dynn_KistDyn11"
+    culture = "kistry"
+}
+
+KISTD12 = { #KistDyn12
+    name = "dynn_KistDyn12"
+    culture = "kistry"
+}
+
+KISTD13 = { #KistDyn13
+    name = "dynn_KistDyn13"
+    culture = "kistry"
+}
+
+KISTD14 = { #KistDyn14
+    name = "dynn_KistDyn14"
+    culture = "kistry"
+}
+
+KISTD2 = { #KistDyn2
+    name = "dynn_KistDyn2"
+    culture = "kistry"
+}
+
+KISTD3 = { #KistDyn3
+    name = "dynn_KistDyn3"
+    culture = "kistry"
+}
+
+KISTD4 = { #KistDyn4
+    name = "dynn_KistDyn4"
+    culture = "kistry"
+}
+
+KISTD5 = { #KistDyn5
+    name = "dynn_KistDyn5"
+    culture = "kistry"
+}
+
+KISTD6 = { #KistDyn6
+    name = "dynn_KistDyn6"
+    culture = "kistry"
+}
+
+KISTD7 = { #KistDyn7
+    name = "dynn_KistDyn7"
+    culture = "kistry"
+}
+
+KISTD8 = { #KistDyn8
+    name = "dynn_KistDyn8"
+    culture = "kistry"
+}
+
+KISTD9 = { #KistDyn9
+    name = "dynn_KistDyn9"
+    culture = "kistry"
+}
+
+CALRD1 = { #CalrDyn1
+    name = "dynn_CalrDyn1"
+    culture = "calraian"
+}
+
+CALRD10 = { #CalrDyn10
+    name = "dynn_CalrDyn10"
+    culture = "calraian"
+}
+
+CALRD11 = { #CalrDyn11
+    name = "dynn_CalrDyn11"
+    culture = "calraian"
+}
+
+CALRD12 = { #CalrDyn12
+    name = "dynn_CalrDyn12"
+    culture = "calraian"
+}
+
+CALRD13 = { #CalrDyn13
+    name = "dynn_CalrDyn13"
+    culture = "calraian"
+}
+
+CALRD14 = { #CalrDyn14
+    name = "dynn_CalrDyn14"
+    culture = "calraian"
+}
+
+CALRD15 = { #CalrDyn15
+    name = "dynn_CalrDyn15"
+    culture = "calraian"
+}
+
+CALRD16 = { #CalrDyn16
+    name = "dynn_CalrDyn16"
+    culture = "calraian"
+}
+
+CALRD17 = { #CalrDyn17
+    name = "dynn_CalrDyn17"
+    culture = "calraian"
+}
+
+CALRD18 = { #CalrDyn18
+    name = "dynn_CalrDyn18"
+    culture = "calraian"
+}
+
+CALRD19 = { #CalrDyn19
+    name = "dynn_CalrDyn19"
+    culture = "calraian"
+}
+
+CALRD2 = { #CalrDyn2
+    name = "dynn_CalrDyn2"
+    culture = "calraian"
+}
+
+CALRD20 = { #CalrDyn20
+    name = "dynn_CalrDyn20"
+    culture = "calraian"
+}
+
+CALRD21 = { #CalrDyn21
+    name = "dynn_CalrDyn21"
+    culture = "calraian"
+}
+
+CALRD3 = { #CalrDyn3
+    name = "dynn_CalrDyn3"
+    culture = "calraian"
+}
+
+CALRD4 = { #CalrDyn4
+    name = "dynn_CalrDyn4"
+    culture = "calraian"
+}
+
+CALRD5 = { #CalrDyn5
+    name = "dynn_CalrDyn5"
+    culture = "calraian"
+}
+
+CALRD6 = { #CalrDyn6
+    name = "dynn_CalrDyn6"
+    culture = "calraian"
+}
+
+CALRD7 = { #CalrDyn7
+    name = "dynn_CalrDyn7"
+    culture = "calraian"
+}
+
+CALRD8 = { #CalrDyn8
+    name = "dynn_CalrDyn8"
+    culture = "calraian"
+}
+
+CALRD9 = { #CalrDyn9
+    name = "dynn_CalrDyn9"
+    culture = "calraian"
+}
+
+NORCD1 = { #NorcDyn1
+    name = "dynn_NorcDyn1"
+    culture = "norcerian"
+}
+
+NORCD2 = { #NorcDyn2
+    name = "dynn_NorcDyn2"
+    culture = "norcerian"
+}
+
+NORCD3 = { #NorcDyn3
+    name = "dynn_NorcDyn3"
+    culture = "norcerian"
+}
+
+NORCD4 = { #NorcDyn4
+    name = "dynn_NorcDyn4"
+    culture = "norcerian"
+}
+
+NORCD5 = { #NorcDyn5
+    name = "dynn_NorcDyn5"
+    culture = "norcerian"
+}
+
+CERID1 = { #CeriDyn1
+    name = "dynn_CeriDyn1"
+    culture = "cerian"
+}
+
+CERID10 = { #CeriDyn10
+    name = "dynn_CeriDyn10"
+    culture = "cerian"
+}
+
+CERID11 = { #CeriDyn11
+    name = "dynn_CeriDyn11"
+    culture = "cerian"
+}
+
+CERID12 = { #CeriDyn12
+    name = "dynn_CeriDyn12"
+    culture = "cerian"
+}
+
+CERID13 = { #CeriDyn13
+    name = "dynn_CeriDyn13"
+    culture = "cerian"
+}
+
+CERID14 = { #CeriDyn14
+    name = "dynn_CeriDyn14"
+    culture = "cerian"
+}
+
+CERID15 = { #CeriDyn15
+    name = "dynn_CeriDyn15"
+    culture = "cerian"
+}
+
+CERID16 = { #CeriDyn16
+    name = "dynn_CeriDyn16"
+    culture = "cerian"
+}
+
+CERID17 = { #CeriDyn17
+    name = "dynn_CeriDyn17"
+    culture = "cerian"
+}
+
+CERID18 = { #CeriDyn18
+    name = "dynn_CeriDyn18"
+    culture = "cerian"
+}
+
+CERID19 = { #CeriDyn19
+    name = "dynn_CeriDyn19"
+    culture = "cerian"
+}
+
+CERID2 = { #CeriDyn2
+    name = "dynn_CeriDyn2"
+    culture = "cerian"
+}
+
+CERID20 = { #CeriDyn20
+    name = "dynn_CeriDyn20"
+    culture = "cerian"
+}
+
+CERID21 = { #CeriDyn21
+    name = "dynn_CeriDyn21"
+    culture = "cerian"
+}
+
+CERID22 = { #CeriDyn22
+    name = "dynn_CeriDyn22"
+    culture = "cerian"
+}
+
+CERID23 = { #CeriDyn23
+    name = "dynn_CeriDyn23"
+    culture = "cerian"
+}
+
+CERID24 = { #CeriDyn24
+    name = "dynn_CeriDyn24"
+    culture = "cerian"
+}
+
+CERID25 = { #CeriDyn25
+    name = "dynn_CeriDyn25"
+    culture = "cerian"
+}
+
+CERID3 = { #CeriDyn3
+    name = "dynn_CeriDyn3"
+    culture = "cerian"
+}
+
+CERID4 = { #CeriDyn4
+    name = "dynn_CeriDyn4"
+    culture = "cerian"
+}
+
+CERID5 = { #CeriDyn5
+    name = "dynn_CeriDyn5"
+    culture = "cerian"
+}
+
+CERID6 = { #CeriDyn6
+    name = "dynn_CeriDyn6"
+    culture = "cerian"
+}
+
+CERID7 = { #CeriDyn7
+    name = "dynn_CeriDyn7"
+    culture = "cerian"
+}
+
+CERID8 = { #CeriDyn8
+    name = "dynn_CeriDyn8"
+    culture = "cerian"
+}
+
+CERID9 = { #CeriDyn9
+    name = "dynn_CeriDyn9"
+    culture = "cerian"
+}
+
+KELBD1 = { #KelbDyn1
+    name = "dynn_KelbDyn1"
+    culture = "kelberican"
+}
+
+KELBD10 = { #KelbDyn10
+    name = "dynn_KelbDyn10"
+    culture = "kelberican"
+}
+
+KELBD11 = { #KelbDyn11
+    name = "dynn_KelbDyn11"
+    culture = "kelberican"
+}
+
+KELBD12 = { #KelbDyn12
+    name = "dynn_KelbDyn12"
+    culture = "kelberican"
+}
+
+KELBD13 = { #KelbDyn13
+    name = "dynn_KelbDyn13"
+    culture = "kelberican"
+}
+
+KELBD14 = { #KelbDyn14
+    name = "dynn_KelbDyn14"
+    culture = "kelberican"
+}
+
+KELBD15 = { #KelbDyn15
+    name = "dynn_KelbDyn15"
+    culture = "kelberican"
+}
+
+KELBD16 = { #KelbDyn16
+    name = "dynn_KelbDyn16"
+    culture = "kelberican"
+}
+
+KELBD17 = { #KelbDyn17
+    name = "dynn_KelbDyn17"
+    culture = "kelberican"
+}
+
+KELBD18 = { #KelbDyn18
+    name = "dynn_KelbDyn18"
+    culture = "kelberican"
+}
+
+KELBD19 = { #KelbDyn19
+    name = "dynn_KelbDyn19"
+    culture = "kelberican"
+}
+
+KELBD2 = { #KelbDyn2
+    name = "dynn_KelbDyn2"
+    culture = "kelberican"
+}
+
+KELBD20 = { #KelbDyn20
+    name = "dynn_KelbDyn20"
+    culture = "kelberican"
+}
+
+KELBD3 = { #KelbDyn3
+    name = "dynn_KelbDyn3"
+    culture = "kelberican"
+}
+
+KELBD4 = { #KelbDyn4
+    name = "dynn_KelbDyn4"
+    culture = "kelberican"
+}
+
+KELBD5 = { #KelbDyn5
+    name = "dynn_KelbDyn5"
+    culture = "kelberican"
+}
+
+KELBD6 = { #KelbDyn6
+    name = "dynn_KelbDyn6"
+    culture = "kelberican"
+}
+
+KELBD7 = { #KelbDyn7
+    name = "dynn_KelbDyn7"
+    culture = "kelberican"
+}
+
+KELBD8 = { #KelbDyn8
+    name = "dynn_KelbDyn8"
+    culture = "kelberican"
+}
+
+KELBD9 = { #KelbDyn9
+    name = "dynn_KelbDyn9"
+    culture = "kelberican"
+}
+
+BENED1 = { #BeneDyn1
+    name = "dynn_BeneDyn1"
+    culture = "benerec"
+}
+
+BENED10 = { #BeneDyn10
+    name = "dynn_BeneDyn10"
+    culture = "benerec"
+}
+
+BENED11 = { #BeneDyn11
+    name = "dynn_BeneDyn11"
+    culture = "benerec"
+}
+
+BENED12 = { #BeneDyn12
+    name = "dynn_BeneDyn12"
+    culture = "benerec"
+}
+
+BENED13 = { #BeneDyn13
+    name = "dynn_BeneDyn13"
+    culture = "benerec"
+}
+
+BENED14 = { #BeneDyn14
+    name = "dynn_BeneDyn14"
+    culture = "benerec"
+}
+
+BENED15 = { #BeneDyn15
+    name = "dynn_BeneDyn15"
+    culture = "benerec"
+}
+
+BENED16 = { #BeneDyn16
+    name = "dynn_BeneDyn16"
+    culture = "benerec"
+}
+
+BENED17 = { #BeneDyn17
+    name = "dynn_BeneDyn17"
+    culture = "benerec"
+}
+
+BENED18 = { #BeneDyn18
+    name = "dynn_BeneDyn18"
+    culture = "benerec"
+}
+
+BENED19 = { #BeneDyn19
+    name = "dynn_BeneDyn19"
+    culture = "benerec"
+}
+
+BENED2 = { #BeneDyn2
+    name = "dynn_BeneDyn2"
+    culture = "benerec"
+}
+
+BENED20 = { #BeneDyn20
+    name = "dynn_BeneDyn20"
+    culture = "benerec"
+}
+
+BENED21 = { #BeneDyn21
+    name = "dynn_BeneDyn21"
+    culture = "benerec"
+}
+
+BENED3 = { #BeneDyn3
+    name = "dynn_BeneDyn3"
+    culture = "benerec"
+}
+
+BENED4 = { #BeneDyn4
+    name = "dynn_BeneDyn4"
+    culture = "benerec"
+}
+
+BENED5 = { #BeneDyn5
+    name = "dynn_BeneDyn5"
+    culture = "benerec"
+}
+
+BENED6 = { #BeneDyn6
+    name = "dynn_BeneDyn6"
+    culture = "benerec"
+}
+
+BENED7 = { #BeneDyn7
+    name = "dynn_BeneDyn7"
+    culture = "benerec"
+}
+
+BENED8 = { #BeneDyn8
+    name = "dynn_BeneDyn8"
+    culture = "benerec"
+}
+
+BENED9 = { #BeneDyn9
+    name = "dynn_BeneDyn9"
+    culture = "benerec"
+}
+
+WELGD1 = { #WelgDyn1
+    name = "dynn_WelgDyn1"
+    culture = "wel_gravan"
+}
+
+WELGD10 = { #WelgDyn10
+    name = "dynn_WelgDyn10"
+    culture = "wel_gravan"
+}
+
+WELGD11 = { #WelgDyn11
+    name = "dynn_WelgDyn11"
+    culture = "wel_gravan"
+}
+
+WELGD12 = { #WelgDyn12
+    name = "dynn_WelgDyn12"
+    culture = "wel_gravan"
+}
+
+WELGD13 = { #WelgDyn13
+    name = "dynn_WelgDyn13"
+    culture = "wel_gravan"
+}
+
+WELGD14 = { #WelgDyn14
+    name = "dynn_WelgDyn14"
+    culture = "wel_gravan"
+}
+
+WELGD15 = { #WelgDyn15
+    name = "dynn_WelgDyn15"
+    culture = "wel_gravan"
+}
+
+WELGD16 = { #WelgDyn16
+    name = "dynn_WelgDyn16"
+    culture = "wel_gravan"
+}
+
+WELGD2 = { #WelgDyn2
+    name = "dynn_WelgDyn2"
+    culture = "wel_gravan"
+}
+
+WELGD3 = { #WelgDyn3
+    name = "dynn_WelgDyn3"
+    culture = "wel_gravan"
+}
+
+WELGD4 = { #WelgDyn4
+    name = "dynn_WelgDyn4"
+    culture = "wel_gravan"
+}
+
+WELGD5 = { #WelgDyn5
+    name = "dynn_WelgDyn5"
+    culture = "wel_gravan"
+}
+
+WELGD6 = { #WelgDyn6
+    name = "dynn_WelgDyn6"
+    culture = "wel_gravan"
+}
+
+WELGD7 = { #WelgDyn7
+    name = "dynn_WelgDyn7"
+    culture = "wel_gravan"
+}
+
+WELGD8 = { #WelgDyn8
+    name = "dynn_WelgDyn8"
+    culture = "wel_gravan"
+}
+
+WELGD9 = { #WelgDyn9
+    name = "dynn_WelgDyn9"
+    culture = "wel_gravan"
+}
+
+THALLD1 = { #ThallDyn1
+    name = "dynn_ThallDyn1"
+    culture = "thalleran"
+}
+
+THALLD10 = { #ThallDyn10
+    name = "dynn_ThallDyn10"
+    culture = "thalleran"
+}
+
+THALLD11 = { #ThallDyn11
+    name = "dynn_ThallDyn11"
+    culture = "thalleran"
+}
+
+THALLD12 = { #ThallDyn12
+    name = "dynn_ThallDyn12"
+    culture = "thalleran"
+}
+
+THALLD13 = { #ThallDyn13
+    name = "dynn_ThallDyn13"
+    culture = "thalleran"
+}
+
+THALLD14 = { #ThallDyn14
+    name = "dynn_ThallDyn14"
+    culture = "thalleran"
+}
+
+THALLD15 = { #ThallDyn15
+    name = "dynn_ThallDyn15"
+    culture = "thalleran"
+}
+
+THALLD16 = { #ThallDyn16
+    name = "dynn_ThallDyn16"
+    culture = "thalleran"
+}
+
+THALLD17 = { #ThallDyn17
+    name = "dynn_ThallDyn17"
+    culture = "thalleran"
+}
+
+THALLD18 = { #ThallDyn18
+    name = "dynn_ThallDyn18"
+    culture = "thalleran"
+}
+
+THALLD19 = { #ThallDyn19
+    name = "dynn_ThallDyn19"
+    culture = "thalleran"
+}
+
+THALLD2 = { #ThallDyn2
+    name = "dynn_ThallDyn2"
+    culture = "thalleran"
+}
+
+THALLD20 = { #ThallDyn20
+    name = "dynn_ThallDyn20"
+    culture = "thalleran"
+}
+
+THALLD3 = { #ThallDyn3
+    name = "dynn_ThallDyn3"
+    culture = "thalleran"
+}
+
+THALLD4 = { #ThallDyn4
+    name = "dynn_ThallDyn4"
+    culture = "thalleran"
+}
+
+THALLD5 = { #ThallDyn5
+    name = "dynn_ThallDyn5"
+    culture = "thalleran"
+}
+
+THALLD6 = { #ThallDyn6
+    name = "dynn_ThallDyn6"
+    culture = "thalleran"
+}
+
+THALLD7 = { #ThallDyn7
+    name = "dynn_ThallDyn7"
+    culture = "thalleran"
+}
+
+THALLD8 = { #ThallDyn8
+    name = "dynn_ThallDyn8"
+    culture = "thalleran"
+}
+
+THALLD9 = { #ThallDyn9
+    name = "dynn_ThallDyn9"
+    culture = "thalleran"
+}
+
+FLORD1 = { #FlorDyn1
+    name = "dynn_FlorDyn1"
+    culture = "florisan"
+}
+
+FLORD10 = { #FlorDyn10
+    name = "dynn_FlorDyn10"
+    culture = "florisan"
+}
+
+FLORD11 = { #FlorDyn11
+    name = "dynn_FlorDyn11"
+    culture = "florisan"
+}
+
+FLORD12 = { #FlorDyn12
+    name = "dynn_FlorDyn12"
+    culture = "florisan"
+}
+
+FLORD13 = { #FlorDyn13
+    name = "dynn_FlorDyn13"
+    culture = "florisan"
+}
+
+FLORD14 = { #FlorDyn14
+    name = "dynn_FlorDyn14"
+    culture = "florisan"
+}
+
+FLORD15 = { #FlorDyn15
+    name = "dynn_FlorDyn15"
+    culture = "florisan"
+}
+
+FLORD16 = { #FlorDyn16
+    name = "dynn_FlorDyn16"
+    culture = "florisan"
+}
+
+FLORD17 = { #FlorDyn17
+    name = "dynn_FlorDyn17"
+    culture = "florisan"
+}
+
+FLORD18 = { #FlorDyn18
+    name = "dynn_FlorDyn18"
+    culture = "florisan"
+}
+
+FLORD19 = { #FlorDyn19
+    name = "dynn_FlorDyn19"
+    culture = "florisan"
+}
+
+FLORD2 = { #FlorDyn2
+    name = "dynn_FlorDyn2"
+    culture = "florisan"
+}
+
+FLORD20 = { #FlorDyn20
+    name = "dynn_FlorDyn20"
+    culture = "florisan"
+}
+
+FLORD3 = { #FlorDyn3
+    name = "dynn_FlorDyn3"
+    culture = "florisan"
+}
+
+FLORD4 = { #FlorDyn4
+    name = "dynn_FlorDyn4"
+    culture = "florisan"
+}
+
+FLORD5 = { #FlorDyn5
+    name = "dynn_FlorDyn5"
+    culture = "florisan"
+}
+
+FLORD6 = { #FlorDyn6
+    name = "dynn_FlorDyn6"
+    culture = "florisan"
+}
+
+FLORD7 = { #FlorDyn7
+    name = "dynn_FlorDyn7"
+    culture = "florisan"
+}
+
+FLORD8 = { #FlorDyn8
+    name = "dynn_FlorDyn8"
+    culture = "florisan"
+}
+
+FLORD9 = { #FlorDyn9
+    name = "dynn_FlorDyn9"
+    culture = "florisan"
+}
+
+LUTHD1 = { #LuthDyn1
+    name = "dynn_LuthDyn1"
+    culture = "luthani"
+}
+
+# Keeping Prydain to dodge a stubborn error.
+1029001 = {
+	name = "dynn_Prydain"
+	culture = "welsh"
+}

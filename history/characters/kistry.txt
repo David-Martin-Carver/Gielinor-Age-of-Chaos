@@ -1,0 +1,7444 @@
+KIST_1 = {
+    name = "Asta224"
+    culture = "kistry"
+    faith = "sylvan_heart"
+    female = yes
+    dynasty = KISTD1 #KistDyn1
+    father = KIST_13 #Halsten78
+    mother = KIST_84 #Yngvild82
+    576.1.1 = {
+        birth = yes
+    }
+}
+
+KIST_10 = {
+    name = "Hakan220"
+    culture = "kistry"
+    faith = "sylvan_heart"
+    dynasty = KISTD1 #KistDyn1
+    father = KIST_41 #Sigurd76
+    mother = KIST_78 #Runa86
+    569.1.1 = {
+        birth = yes
+    }
+    586.1.1 = {
+        add_spouse = KIST_58 #Gunhild257
+    }
+}
+
+KIST_100 = {
+    name = "Karl93"
+    culture = "kistry"
+    faith = "sylvan_heart"
+    dynasty = KISTD11 #KistDyn11
+    father = KIST_107 #Nils52
+    mother = KIST_166 #Freydis65
+    555.1.1 = {
+        birth = yes
+    }
+    578.1.1 = {
+        add_spouse = KIST_269 #Torhild128
+    }
+}
+
+KIST_101 = {
+    name = "Kettil91"
+    culture = "kistry"
+    faith = "sylvan_heart"
+    dynasty = KISTD11 #KistDyn11
+    father = KIST_107 #Nils52
+    mother = KIST_166 #Freydis65
+    552.1.1 = {
+        birth = yes
+    }
+    573.1.1 = {
+        add_spouse = KIST_233 #Tora123
+    }
+}
+
+KIST_102 = {
+    name = "Leif92"
+    culture = "kistry"
+    faith = "sylvan_heart"
+    dynasty = KISTD11 #KistDyn11
+    father = KIST_107 #Nils52
+    mother = KIST_166 #Freydis65
+    554.1.1 = {
+        birth = yes
+    }
+    566.1.1 = {
+        add_spouse = KIST_256 #Karin204
+    }
+}
+
+KIST_103 = {
+    name = "Malin98"
+    culture = "kistry"
+    faith = "sylvan_heart"
+    female = yes
+    dynasty = KISTD11 #KistDyn11
+    father = KIST_124 #Tore53
+    mother = KIST_198 #Astrid70
+    555.1.1 = {
+        birth = yes
+    }
+    567.1.1 = {
+        add_spouse = KIST_21 #Karl81
+    }
+}
+
+KIST_104 = {
+    name = "Margareta273"
+    culture = "kistry"
+    faith = "sylvan_heart"
+    female = yes
+    dynasty = KISTD11 #KistDyn11
+    father = KIST_126 #Torgils94
+    mother = KIST_167 #Frida114
+    576.1.1 = {
+        birth = yes
+    }
+}
+
+KIST_105 = {
+    name = "Margareta286"
+    culture = "kistry"
+    faith = "sylvan_heart"
+    female = yes
+    dynasty = KISTD11 #KistDyn11
+    father = KIST_120 #Sverker97
+    mother = KIST_205 #Frida121
+    575.1.1 = {
+        birth = yes
+    }
+}
+
+KIST_106 = {
+    name = "Margareta55"
+    culture = "kistry"
+    faith = "sylvan_heart"
+    female = yes
+    dynasty = KISTD11 #KistDyn11
+    father = KIST_127 #Torsten51
+    527.1.1 = {
+        birth = yes
+    }
+    550.1.1 = {
+        add_spouse = KIST_66 #Jon47
+    }
+    576.1.1 = {
+        death = yes
+    }
+}
+
+KIST_107 = {
+    name = "Nils52"
+    culture = "kistry"
+    faith = "sylvan_heart"
+    dynasty = KISTD11 #KistDyn11
+    father = KIST_127 #Torsten51
+    518.1.1 = {
+        birth = yes
+    }
+    542.1.1 = {
+        add_spouse = KIST_166 #Freydis65
+    }
+    569.1.1 = {
+        death = yes
+    }
+}
+
+KIST_108 = {
+    name = "Olof277"
+    culture = "kistry"
+    faith = "sylvan_heart"
+    dynasty = KISTD11 #KistDyn11
+    father = KIST_126 #Torgils94
+    mother = KIST_167 #Frida114
+    584.1.1 = {
+        birth = yes
+    }
+}
+
+KIST_109 = {
+    name = "Per284"
+    culture = "kistry"
+    faith = "sylvan_heart"
+    dynasty = KISTD11 #KistDyn11
+    father = KIST_101 #Kettil91
+    mother = KIST_233 #Tora123
+    578.1.1 = {
+        birth = yes
+    }
+}
+
+KIST_11 = {
+    name = "Hakan242"
+    culture = "kistry"
+    faith = "sylvan_heart"
+    dynasty = KISTD1 #KistDyn1
+    father = KIST_21 #Karl81
+    mother = KIST_103 #Malin98
+    568.1.1 = {
+        birth = yes
+    }
+    586.1.1 = {
+        add_spouse = KIST_63 #Ingeborg256
+    }
+}
+
+KIST_110 = {
+    name = "Rikard290"
+    culture = "kistry"
+    faith = "sylvan_heart"
+    dynasty = KISTD11 #KistDyn11
+    father = KIST_102 #Leif92
+    mother = KIST_256 #Karin204
+    567.1.1 = {
+        birth = yes
+    }
+    586.1.1 = {
+        add_spouse = KIST_56 #Elin259
+    }
+}
+
+KIST_111 = {
+    name = "Rikissa267"
+    culture = "kistry"
+    faith = "sylvan_heart"
+    female = yes
+    dynasty = KISTD11 #KistDyn11
+    father = KIST_129 #Ulf90
+    mother = KIST_191 #Sunniva113
+    576.1.1 = {
+        birth = yes
+    }
+}
+
+KIST_112 = {
+    name = "Rolf287"
+    culture = "kistry"
+    faith = "sylvan_heart"
+    dynasty = KISTD11 #KistDyn11
+    father = KIST_120 #Sverker97
+    mother = KIST_205 #Frida121
+    577.1.1 = {
+        birth = yes
+    }
+}
+
+KIST_113 = {
+    name = "Runa280"
+    culture = "kistry"
+    faith = "sylvan_heart"
+    female = yes
+    dynasty = KISTD11 #KistDyn11
+    father = KIST_125 #Tore95
+    mother = KIST_223 #Margareta211
+    577.1.1 = {
+        birth = yes
+    }
+}
+
+KIST_114 = {
+    name = "Runa295"
+    culture = "kistry"
+    faith = "sylvan_heart"
+    female = yes
+    dynasty = KISTD11 #KistDyn11
+    father = KIST_100 #Karl93
+    mother = KIST_269 #Torhild128
+    580.1.1 = {
+        birth = yes
+    }
+}
+
+KIST_115 = {
+    name = "Saga293"
+    culture = "kistry"
+    faith = "sylvan_heart"
+    female = yes
+    dynasty = KISTD11 #KistDyn11
+    father = KIST_102 #Leif92
+    mother = KIST_256 #Karin204
+    573.1.1 = {
+        birth = yes
+    }
+}
+
+KIST_116 = {
+    name = "Saga54"
+    culture = "kistry"
+    faith = "sylvan_heart"
+    female = yes
+    dynasty = KISTD11 #KistDyn11
+    father = KIST_127 #Torsten51
+    524.1.1 = {
+        birth = yes
+    }
+    544.1.1 = {
+        add_spouse = KIST_295 #Olof13
+    }
+    577.1.1 = {
+        death = yes
+    }
+}
+
+KIST_117 = {
+    name = "Sigurd272"
+    culture = "kistry"
+    faith = "sylvan_heart"
+    dynasty = KISTD11 #KistDyn11
+    father = KIST_126 #Torgils94
+    mother = KIST_167 #Frida114
+    574.1.1 = {
+        birth = yes
+    }
+}
+
+KIST_118 = {
+    name = "Styrbjorn276"
+    culture = "kistry"
+    faith = "sylvan_heart"
+    dynasty = KISTD11 #KistDyn11
+    father = KIST_126 #Torgils94
+    mother = KIST_167 #Frida114
+    582.1.1 = {
+        birth = yes
+    }
+}
+
+KIST_119 = {
+    name = "Sune296"
+    culture = "kistry"
+    faith = "sylvan_heart"
+    dynasty = KISTD11 #KistDyn11
+    father = KIST_100 #Karl93
+    mother = KIST_269 #Torhild128
+    582.1.1 = {
+        birth = yes
+    }
+}
+
+KIST_12 = {
+    name = "Halsten239"
+    culture = "kistry"
+    faith = "sylvan_heart"
+    dynasty = KISTD1 #KistDyn1
+    father = KIST_39 #Rolf75
+    mother = KIST_88 #Estrid205
+    579.1.1 = {
+        birth = yes
+    }
+}
+
+KIST_120 = {
+    name = "Sverker97"
+    culture = "kistry"
+    faith = "sylvan_heart"
+    dynasty = KISTD11 #KistDyn11
+    father = KIST_124 #Tore53
+    mother = KIST_198 #Astrid70
+    553.1.1 = {
+        birth = yes
+    }
+    573.1.1 = {
+        add_spouse = KIST_205 #Frida121
+    }
+}
+
+KIST_121 = {
+    name = "Thyra297"
+    culture = "kistry"
+    faith = "sylvan_heart"
+    female = yes
+    dynasty = KISTD11 #KistDyn11
+    father = KIST_100 #Karl93
+    mother = KIST_269 #Torhild128
+    584.1.1 = {
+        birth = yes
+    }
+}
+
+KIST_122 = {
+    name = "Tora289"
+    culture = "kistry"
+    faith = "sylvan_heart"
+    female = yes
+    dynasty = KISTD11 #KistDyn11
+    father = KIST_120 #Sverker97
+    mother = KIST_205 #Frida121
+    579.1.1 = {
+        birth = yes
+    }
+}
+
+KIST_123 = {
+    name = "Tora291"
+    culture = "kistry"
+    faith = "sylvan_heart"
+    female = yes
+    dynasty = KISTD11 #KistDyn11
+    father = KIST_102 #Leif92
+    mother = KIST_256 #Karin204
+    569.1.1 = {
+        birth = yes
+    }
+    586.1.1 = {
+        add_spouse = KIST_65 #Ingvar262
+    }
+}
+
+KIST_124 = {
+    name = "Tore53"
+    culture = "kistry"
+    faith = "sylvan_heart"
+    dynasty = KISTD11 #KistDyn11
+    father = KIST_127 #Torsten51
+    521.1.1 = {
+        birth = yes
+    }
+    540.1.1 = {
+        add_spouse = KIST_198 #Astrid70
+    }
+    574.1.1 = {
+        death = yes
+    }
+}
+
+KIST_125 = {
+    name = "Tore95"
+    culture = "kistry"
+    faith = "sylvan_heart"
+    dynasty = KISTD11 #KistDyn11
+    father = KIST_124 #Tore53
+    mother = KIST_198 #Astrid70
+    551.1.1 = {
+        birth = yes
+    }
+    572.1.1 = {
+        add_spouse = KIST_223 #Margareta211
+    }
+}
+
+KIST_126 = {
+    name = "Torgils94"
+    culture = "kistry"
+    faith = "sylvan_heart"
+    dynasty = KISTD11 #KistDyn11
+    father = KIST_124 #Tore53
+    mother = KIST_198 #Astrid70
+    550.1.1 = {
+        birth = yes
+    }
+    573.1.1 = {
+        add_spouse = KIST_167 #Frida114
+    }
+}
+
+KIST_127 = {
+    name = "Torsten51"
+    culture = "kistry"
+    faith = "sylvan_heart"
+    dynasty = KISTD11 #KistDyn11
+    480.1.1 = {
+        birth = yes
+    }
+    545.1.1 = {
+        death = yes
+    }
+}
+
+KIST_128 = {
+    name = "Ulf281"
+    culture = "kistry"
+    faith = "sylvan_heart"
+    dynasty = KISTD11 #KistDyn11
+    father = KIST_101 #Kettil91
+    mother = KIST_233 #Tora123
+    574.1.1 = {
+        birth = yes
+    }
+}
+
+KIST_129 = {
+    name = "Ulf90"
+    culture = "kistry"
+    faith = "sylvan_heart"
+    dynasty = KISTD11 #KistDyn11
+    father = KIST_107 #Nils52
+    mother = KIST_166 #Freydis65
+    550.1.1 = {
+        birth = yes
+    }
+    575.1.1 = {
+        add_spouse = KIST_191 #Sunniva113
+    }
+}
+
+KIST_13 = {
+    name = "Halsten78"
+    culture = "kistry"
+    faith = "sylvan_heart"
+    dynasty = KISTD1 #KistDyn1
+    father = KIST_23 #Lars3
+    mother = KIST_60 #Hedvig50
+    553.1.1 = {
+        birth = yes
+    }
+    575.1.1 = {
+        add_spouse = KIST_84 #Yngvild82
+    }
+}
+
+KIST_130 = {
+    name = "Ulla274"
+    culture = "kistry"
+    faith = "sylvan_heart"
+    female = yes
+    dynasty = KISTD11 #KistDyn11
+    father = KIST_126 #Torgils94
+    mother = KIST_167 #Frida114
+    578.1.1 = {
+        birth = yes
+    }
+}
+
+KIST_131 = {
+    name = "Arvid101"
+    culture = "kistry"
+    faith = "sylvan_heart"
+    dynasty = KISTD12 #KistDyn12
+    father = KIST_159 #Valdemar57
+    mother = KIST_245 #Gunhild10
+    553.1.1 = {
+        birth = yes
+    }
+    573.1.1 = {
+        add_spouse = KIST_255 #Karin136
+    }
+}
+
+KIST_132 = {
+    name = "Arvid58"
+    culture = "kistry"
+    faith = "sylvan_heart"
+    dynasty = KISTD12 #KistDyn12
+    father = KIST_151 #Rikard56
+    522.1.1 = {
+        birth = yes
+    }
+    540.1.1 = {
+        add_spouse = KIST_303 #Thyra15
+    }
+}
+
+KIST_133 = {
+    name = "Astrid306"
+    culture = "kistry"
+    faith = "sylvan_heart"
+    female = yes
+    dynasty = KISTD12 #KistDyn12
+    father = KIST_131 #Arvid101
+    mother = KIST_255 #Karin136
+    582.1.1 = {
+        birth = yes
+    }
+}
+
+KIST_134 = {
+    name = "Birgitta103"
+    culture = "kistry"
+    faith = "sylvan_heart"
+    female = yes
+    dynasty = KISTD12 #KistDyn12
+    father = KIST_159 #Valdemar57
+    mother = KIST_245 #Gunhild10
+    557.1.1 = {
+        birth = yes
+    }
+    578.1.1 = {
+        add_spouse = KIST_312 #Gustav149
+    }
+}
+
+KIST_135 = {
+    name = "Estrid60"
+    culture = "kistry"
+    faith = "sylvan_heart"
+    female = yes
+    dynasty = KISTD12 #KistDyn12
+    father = KIST_151 #Rikard56
+    528.1.1 = {
+        birth = yes
+    }
+    547.1.1 = {
+        add_spouse = KIST_79 #Sigurd48
+    }
+    569.1.1 = {
+        death = yes
+    }
+}
+
+KIST_136 = {
+    name = "Gerd106"
+    culture = "kistry"
+    faith = "sylvan_heart"
+    female = yes
+    dynasty = KISTD12 #KistDyn12
+    father = KIST_132 #Arvid58
+    mother = KIST_303 #Thyra15
+    552.1.1 = {
+        birth = yes
+    }
+    566.1.1 = {
+        add_spouse = KIST_328 #Ragnar146
+    }
+}
+
+KIST_137 = {
+    name = "Gerd99"
+    culture = "kistry"
+    faith = "sylvan_heart"
+    female = yes
+    dynasty = KISTD12 #KistDyn12
+    father = KIST_159 #Valdemar57
+    mother = KIST_245 #Gunhild10
+    550.1.1 = {
+        birth = yes
+    }
+    570.1.1 = {
+        add_spouse = KIST_308 #Egil145
+    }
+}
+
+KIST_138 = {
+    name = "Gunhild300"
+    culture = "kistry"
+    faith = "sylvan_heart"
+    female = yes
+    dynasty = KISTD12 #KistDyn12
+    father = KIST_143 #Knut105
+    mother = KIST_241 #Estrid134
+    570.1.1 = {
+        birth = yes
+    }
+    586.1.1 = {
+        add_spouse = KIST_371 #Styrbjorn426
+    }
+}
+
+KIST_139 = {
+    name = "Gunhild301"
+    culture = "kistry"
+    faith = "sylvan_heart"
+    female = yes
+    dynasty = KISTD12 #KistDyn12
+    father = KIST_131 #Arvid101
+    mother = KIST_255 #Karin136
+    574.1.1 = {
+        birth = yes
+    }
+}
+
+KIST_14 = {
+    name = "Helga77"
+    culture = "kistry"
+    faith = "sylvan_heart"
+    female = yes
+    dynasty = KISTD1 #KistDyn1
+    father = KIST_23 #Lars3
+    mother = KIST_60 #Hedvig50
+    552.1.1 = {
+        birth = yes
+    }
+    575.1.1 = {
+        add_spouse = KIST_299 #Rolf141
+    }
+}
+
+KIST_140 = {
+    name = "Helga102"
+    culture = "kistry"
+    faith = "sylvan_heart"
+    female = yes
+    dynasty = KISTD12 #KistDyn12
+    father = KIST_159 #Valdemar57
+    mother = KIST_245 #Gunhild10
+    555.1.1 = {
+        birth = yes
+    }
+    567.1.1 = {
+        add_spouse = KIST_59 #Hakan88
+    }
+}
+
+KIST_141 = {
+    name = "Isak311"
+    culture = "kistry"
+    faith = "sylvan_heart"
+    dynasty = KISTD12 #KistDyn12
+    father = KIST_160 #Yngve104
+    mother = KIST_342 #Ylva201
+    574.1.1 = {
+        birth = yes
+    }
+}
+
+KIST_142 = {
+    name = "Ivar310"
+    culture = "kistry"
+    faith = "sylvan_heart"
+    dynasty = KISTD12 #KistDyn12
+    father = KIST_160 #Yngve104
+    mother = KIST_342 #Ylva201
+    572.1.1 = {
+        birth = yes
+    }
+}
+
+KIST_143 = {
+    name = "Knut105"
+    culture = "kistry"
+    faith = "sylvan_heart"
+    dynasty = KISTD12 #KistDyn12
+    father = KIST_132 #Arvid58
+    mother = KIST_303 #Thyra15
+    550.1.1 = {
+        birth = yes
+    }
+    567.1.1 = {
+        add_spouse = KIST_241 #Estrid134
+    }
+}
+
+KIST_144 = {
+    name = "Kristina312"
+    culture = "kistry"
+    faith = "sylvan_heart"
+    female = yes
+    dynasty = KISTD12 #KistDyn12
+    father = KIST_160 #Yngve104
+    mother = KIST_342 #Ylva201
+    575.1.1 = {
+        birth = yes
+    }
+}
+
+KIST_145 = {
+    name = "Malin213"
+    culture = "kistry"
+    faith = "sylvan_heart"
+    female = yes
+    dynasty = KISTD12 #KistDyn12
+    539.1.1 = {
+        birth = yes
+    }
+    577.1.1 = {
+        add_spouse = KIST_280 #Gunnar143
+    }
+}
+
+KIST_146 = {
+    name = "Nils107"
+    culture = "kistry"
+    faith = "sylvan_heart"
+    dynasty = KISTD12 #KistDyn12
+    father = KIST_132 #Arvid58
+    mother = KIST_303 #Thyra15
+    554.1.1 = {
+        birth = yes
+    }
+    568.1.1 = {
+        add_spouse = KIST_297 #Rikissa142
+    }
+}
+
+KIST_147 = {
+    name = "Nils308"
+    culture = "kistry"
+    faith = "sylvan_heart"
+    dynasty = KISTD12 #KistDyn12
+    father = KIST_146 #Nils107
+    mother = KIST_297 #Rikissa142
+    570.1.1 = {
+        birth = yes
+    }
+    586.1.1 = {
+        add_spouse = KIST_213 #Ingrid331
+    }
+}
+
+KIST_148 = {
+    name = "Olof299"
+    culture = "kistry"
+    faith = "sylvan_heart"
+    dynasty = KISTD12 #KistDyn12
+    father = KIST_143 #Knut105
+    mother = KIST_241 #Estrid134
+    569.1.1 = {
+        birth = yes
+    }
+    586.1.1 = {
+        add_spouse = KIST_91 #Frida292
+    }
+}
+
+KIST_149 = {
+    name = "Ragnhild59"
+    culture = "kistry"
+    faith = "sylvan_heart"
+    female = yes
+    dynasty = KISTD12 #KistDyn12
+    father = KIST_151 #Rikard56
+    525.1.1 = {
+        birth = yes
+    }
+    541.1.1 = {
+        add_spouse = KIST_315 #Halsten17
+    }
+    574.1.1 = {
+        death = yes
+    }
+}
+
+KIST_15 = {
+    name = "Hilde229"
+    culture = "kistry"
+    faith = "sylvan_heart"
+    female = yes
+    dynasty = KISTD1 #KistDyn1
+    father = KIST_3 #Birger74
+    mother = KIST_64 #Ingrid84
+    577.1.1 = {
+        birth = yes
+    }
+}
+
+KIST_150 = {
+    name = "Rikard307"
+    culture = "kistry"
+    faith = "sylvan_heart"
+    dynasty = KISTD12 #KistDyn12
+    father = KIST_146 #Nils107
+    mother = KIST_297 #Rikissa142
+    569.1.1 = {
+        birth = yes
+    }
+    586.1.1 = {
+        add_spouse = KIST_163 #Bodil318
+    }
+}
+
+KIST_151 = {
+    name = "Rikard56"
+    culture = "kistry"
+    faith = "sylvan_heart"
+    dynasty = KISTD12 #KistDyn12
+    481.1.1 = {
+        birth = yes
+    }
+    541.1.1 = {
+        death = yes
+    }
+}
+
+KIST_152 = {
+    name = "Rikissa214"
+    culture = "kistry"
+    faith = "sylvan_heart"
+    female = yes
+    dynasty = KISTD12 #KistDyn12
+    539.1.1 = {
+        birth = yes
+    }
+    571.1.1 = {
+        add_spouse = KIST_80 #Sigurd87
+    }
+}
+
+KIST_153 = {
+    name = "Sigrun304"
+    culture = "kistry"
+    faith = "sylvan_heart"
+    female = yes
+    dynasty = KISTD12 #KistDyn12
+    father = KIST_131 #Arvid101
+    mother = KIST_255 #Karin136
+    578.1.1 = {
+        birth = yes
+    }
+}
+
+KIST_154 = {
+    name = "Sune309"
+    culture = "kistry"
+    faith = "sylvan_heart"
+    dynasty = KISTD12 #KistDyn12
+    father = KIST_146 #Nils107
+    mother = KIST_297 #Rikissa142
+    572.1.1 = {
+        birth = yes
+    }
+}
+
+KIST_155 = {
+    name = "Thyra100"
+    culture = "kistry"
+    faith = "sylvan_heart"
+    female = yes
+    dynasty = KISTD12 #KistDyn12
+    father = KIST_159 #Valdemar57
+    mother = KIST_245 #Gunhild10
+    551.1.1 = {
+        birth = yes
+    }
+    571.1.1 = {
+        add_spouse = KIST_52 #Birger83
+    }
+}
+
+KIST_156 = {
+    name = "Thyra302"
+    culture = "kistry"
+    faith = "sylvan_heart"
+    female = yes
+    dynasty = KISTD12 #KistDyn12
+    father = KIST_131 #Arvid101
+    mother = KIST_255 #Karin136
+    575.1.1 = {
+        birth = yes
+    }
+}
+
+KIST_157 = {
+    name = "Tora305"
+    culture = "kistry"
+    faith = "sylvan_heart"
+    female = yes
+    dynasty = KISTD12 #KistDyn12
+    father = KIST_131 #Arvid101
+    mother = KIST_255 #Karin136
+    580.1.1 = {
+        birth = yes
+    }
+}
+
+KIST_158 = {
+    name = "Ulla298"
+    culture = "kistry"
+    faith = "sylvan_heart"
+    female = yes
+    dynasty = KISTD12 #KistDyn12
+    father = KIST_143 #Knut105
+    mother = KIST_241 #Estrid134
+    568.1.1 = {
+        birth = yes
+    }
+    586.1.1 = {
+        add_spouse = KIST_321 #Karl414
+    }
+}
+
+KIST_159 = {
+    name = "Valdemar57"
+    culture = "kistry"
+    faith = "sylvan_heart"
+    dynasty = KISTD12 #KistDyn12
+    father = KIST_151 #Rikard56
+    519.1.1 = {
+        birth = yes
+    }
+    548.1.1 = {
+        add_spouse = KIST_245 #Gunhild10
+    }
+    583.1.1 = {
+        death = yes
+    }
+}
+
+KIST_16 = {
+    name = "Hilde79"
+    culture = "kistry"
+    faith = "sylvan_heart"
+    female = yes
+    dynasty = KISTD1 #KistDyn1
+    father = KIST_23 #Lars3
+    mother = KIST_60 #Hedvig50
+    555.1.1 = {
+        birth = yes
+    }
+    575.1.1 = {
+        add_spouse = KIST_298 #Rolf139
+    }
+}
+
+KIST_160 = {
+    name = "Yngve104"
+    culture = "kistry"
+    faith = "sylvan_heart"
+    dynasty = KISTD12 #KistDyn12
+    father = KIST_159 #Valdemar57
+    mother = KIST_245 #Gunhild10
+    559.1.1 = {
+        birth = yes
+    }
+    571.1.1 = {
+        add_spouse = KIST_342 #Ylva201
+    }
+}
+
+KIST_161 = {
+    name = "Yngve303"
+    culture = "kistry"
+    faith = "sylvan_heart"
+    dynasty = KISTD12 #KistDyn12
+    father = KIST_131 #Arvid101
+    mother = KIST_255 #Karin136
+    577.1.1 = {
+        birth = yes
+    }
+}
+
+KIST_162 = {
+    name = "Bo112"
+    culture = "kistry"
+    faith = "sylvan_heart"
+    dynasty = KISTD13 #KistDyn13
+    father = KIST_175 #Kettil62
+    mother = KIST_331 #Sigrid20
+    555.1.1 = {
+        birth = yes
+    }
+    578.1.1 = {
+        add_spouse = KIST_355 #Helga158
+    }
+}
+
+KIST_163 = {
+    name = "Bodil318"
+    culture = "kistry"
+    faith = "sylvan_heart"
+    female = yes
+    dynasty = KISTD13 #KistDyn13
+    father = KIST_194 #Valdemar110
+    mother = KIST_343 #Yngvild152
+    571.1.1 = {
+        birth = yes
+    }
+    586.1.1 = {
+        add_spouse = KIST_150 #Rikard307
+    }
+}
+
+KIST_164 = {
+    name = "Erik315"
+    culture = "kistry"
+    faith = "sylvan_heart"
+    dynasty = KISTD13 #KistDyn13
+    father = KIST_172 #Jon115
+    mother = KIST_327 #Margareta147
+    575.1.1 = {
+        birth = yes
+    }
+}
+
+KIST_165 = {
+    name = "Erik329"
+    culture = "kistry"
+    faith = "sylvan_heart"
+    dynasty = KISTD13 #KistDyn13
+    father = KIST_162 #Bo112
+    mother = KIST_355 #Helga158
+    581.1.1 = {
+        birth = yes
+    }
+}
+
+KIST_166 = {
+    name = "Freydis65"
+    culture = "kistry"
+    faith = "sylvan_heart"
+    female = yes
+    dynasty = KISTD13 #KistDyn13
+    father = KIST_170 #Hakan61
+    529.1.1 = {
+        birth = yes
+    }
+    542.1.1 = {
+        add_spouse = KIST_107 #Nils52
+    }
+    578.1.1 = {
+        death = yes
+    }
+}
+
+KIST_167 = {
+    name = "Frida114"
+    culture = "kistry"
+    faith = "sylvan_heart"
+    female = yes
+    dynasty = KISTD13 #KistDyn13
+    father = KIST_179 #Magnus63
+    mother = KIST_356 #Ingeborg25
+    551.1.1 = {
+        birth = yes
+    }
+    573.1.1 = {
+        add_spouse = KIST_126 #Torgils94
+    }
+}
+
+KIST_168 = {
+    name = "Gunborg320"
+    culture = "kistry"
+    faith = "sylvan_heart"
+    female = yes
+    dynasty = KISTD13 #KistDyn13
+    father = KIST_194 #Valdemar110
+    mother = KIST_343 #Yngvild152
+    574.1.1 = {
+        birth = yes
+    }
+}
+
+KIST_169 = {
+    name = "Gunhild328"
+    culture = "kistry"
+    faith = "sylvan_heart"
+    female = yes
+    dynasty = KISTD13 #KistDyn13
+    father = KIST_162 #Bo112
+    mother = KIST_355 #Helga158
+    579.1.1 = {
+        birth = yes
+    }
+}
+
+KIST_17 = {
+    name = "Ingvar230"
+    culture = "kistry"
+    faith = "sylvan_heart"
+    dynasty = KISTD1 #KistDyn1
+    father = KIST_3 #Birger74
+    mother = KIST_64 #Ingrid84
+    579.1.1 = {
+        birth = yes
+    }
+}
+
+KIST_170 = {
+    name = "Hakan61"
+    culture = "kistry"
+    faith = "sylvan_heart"
+    dynasty = KISTD13 #KistDyn13
+    482.1.1 = {
+        birth = yes
+    }
+    549.1.1 = {
+        death = yes
+    }
+}
+
+KIST_171 = {
+    name = "Jarl317"
+    culture = "kistry"
+    faith = "sylvan_heart"
+    dynasty = KISTD13 #KistDyn13
+    father = KIST_194 #Valdemar110
+    mother = KIST_343 #Yngvild152
+    569.1.1 = {
+        birth = yes
+    }
+    586.1.1 = {
+        add_spouse = KIST_215 #Karin332
+    }
+}
+
+KIST_172 = {
+    name = "Jon115"
+    culture = "kistry"
+    faith = "sylvan_heart"
+    dynasty = KISTD13 #KistDyn13
+    father = KIST_179 #Magnus63
+    mother = KIST_356 #Ingeborg25
+    552.1.1 = {
+        birth = yes
+    }
+    572.1.1 = {
+        add_spouse = KIST_327 #Margareta147
+    }
+}
+
+KIST_173 = {
+    name = "Jon330"
+    culture = "kistry"
+    faith = "sylvan_heart"
+    dynasty = KISTD13 #KistDyn13
+    father = KIST_162 #Bo112
+    mother = KIST_355 #Helga158
+    583.1.1 = {
+        birth = yes
+    }
+}
+
+KIST_174 = {
+    name = "Kettil116"
+    culture = "kistry"
+    faith = "sylvan_heart"
+    dynasty = KISTD13 #KistDyn13
+    father = KIST_179 #Magnus63
+    mother = KIST_356 #Ingeborg25
+    553.1.1 = {
+        birth = yes
+    }
+    568.1.1 = {
+        add_spouse = KIST_369 #Signe212
+    }
+}
+
+KIST_175 = {
+    name = "Kettil62"
+    culture = "kistry"
+    faith = "sylvan_heart"
+    dynasty = KISTD13 #KistDyn13
+    father = KIST_170 #Hakan61
+    520.1.1 = {
+        birth = yes
+    }
+    544.1.1 = {
+        add_spouse = KIST_331 #Sigrid20
+    }
+    575.1.1 = {
+        death = yes
+    }
+}
+
+KIST_176 = {
+    name = "Kristina109"
+    culture = "kistry"
+    faith = "sylvan_heart"
+    female = yes
+    dynasty = KISTD13 #KistDyn13
+    father = KIST_175 #Kettil62
+    mother = KIST_331 #Sigrid20
+    551.1.1 = {
+        birth = yes
+    }
+    569.1.1 = {
+        add_spouse = KIST_335 #Sune153
+    }
+}
+
+KIST_177 = {
+    name = "Lagertha313"
+    culture = "kistry"
+    faith = "sylvan_heart"
+    female = yes
+    dynasty = KISTD13 #KistDyn13
+    father = KIST_172 #Jon115
+    mother = KIST_327 #Margareta147
+    573.1.1 = {
+        birth = yes
+    }
+}
+
+KIST_178 = {
+    name = "Leif324"
+    culture = "kistry"
+    faith = "sylvan_heart"
+    dynasty = KISTD13 #KistDyn13
+    father = KIST_174 #Kettil116
+    mother = KIST_369 #Signe212
+    570.1.1 = {
+        birth = yes
+    }
+    586.1.1 = {
+        add_spouse = KIST_377 #Ulvhild425
+    }
+}
+
+KIST_179 = {
+    name = "Magnus63"
+    culture = "kistry"
+    faith = "sylvan_heart"
+    dynasty = KISTD13 #KistDyn13
+    father = KIST_170 #Hakan61
+    523.1.1 = {
+        birth = yes
+    }
+    536.1.1 = {
+        add_spouse = KIST_356 #Ingeborg25
+    }
+    575.1.1 = {
+        death = yes
+    }
+}
+
+KIST_18 = {
+    name = "Karin231"
+    culture = "kistry"
+    faith = "sylvan_heart"
+    female = yes
+    dynasty = KISTD1 #KistDyn1
+    father = KIST_3 #Birger74
+    mother = KIST_64 #Ingrid84
+    581.1.1 = {
+        birth = yes
+    }
+}
+
+KIST_180 = {
+    name = "Malin108"
+    culture = "kistry"
+    faith = "sylvan_heart"
+    female = yes
+    dynasty = KISTD13 #KistDyn13
+    father = KIST_175 #Kettil62
+    mother = KIST_331 #Sigrid20
+    550.1.1 = {
+        birth = yes
+    }
+    572.1.1 = {
+        add_spouse = KIST_319 #Ivar151
+    }
+}
+
+KIST_181 = {
+    name = "Marta327"
+    culture = "kistry"
+    faith = "sylvan_heart"
+    female = yes
+    dynasty = KISTD13 #KistDyn13
+    father = KIST_174 #Kettil116
+    mother = KIST_369 #Signe212
+    574.1.1 = {
+        birth = yes
+    }
+}
+
+KIST_182 = {
+    name = "Olof319"
+    culture = "kistry"
+    faith = "sylvan_heart"
+    dynasty = KISTD13 #KistDyn13
+    father = KIST_194 #Valdemar110
+    mother = KIST_343 #Yngvild152
+    572.1.1 = {
+        birth = yes
+    }
+}
+
+KIST_183 = {
+    name = "Ragnhild111"
+    culture = "kistry"
+    faith = "sylvan_heart"
+    female = yes
+    dynasty = KISTD13 #KistDyn13
+    father = KIST_175 #Kettil62
+    mother = KIST_331 #Sigrid20
+    554.1.1 = {
+        birth = yes
+    }
+    575.1.1 = {
+        add_spouse = KIST_359 #Jon157
+    }
+}
+
+KIST_184 = {
+    name = "Runa210"
+    culture = "kistry"
+    faith = "sylvan_heart"
+    female = yes
+    dynasty = KISTD13 #KistDyn13
+    536.1.1 = {
+        birth = yes
+    }
+    570.1.1 = {
+        add_spouse = KIST_54 #Bo89
+    }
+}
+
+KIST_185 = {
+    name = "Sigrid316"
+    culture = "kistry"
+    faith = "sylvan_heart"
+    female = yes
+    dynasty = KISTD13 #KistDyn13
+    father = KIST_172 #Jon115
+    mother = KIST_327 #Margareta147
+    577.1.1 = {
+        birth = yes
+    }
+}
+
+KIST_186 = {
+    name = "Sigrun326"
+    culture = "kistry"
+    faith = "sylvan_heart"
+    female = yes
+    dynasty = KISTD13 #KistDyn13
+    father = KIST_174 #Kettil116
+    mother = KIST_369 #Signe212
+    573.1.1 = {
+        birth = yes
+    }
+}
+
+KIST_187 = {
+    name = "Sigrun64"
+    culture = "kistry"
+    faith = "sylvan_heart"
+    female = yes
+    dynasty = KISTD13 #KistDyn13
+    father = KIST_170 #Hakan61
+    526.1.1 = {
+        birth = yes
+    }
+    548.1.1 = {
+        add_spouse = KIST_314 #Hakan18
+    }
+    576.1.1 = {
+        death = yes
+    }
+}
+
+KIST_188 = {
+    name = "Sigurd314"
+    culture = "kistry"
+    faith = "sylvan_heart"
+    dynasty = KISTD13 #KistDyn13
+    father = KIST_172 #Jon115
+    mother = KIST_327 #Margareta147
+    574.1.1 = {
+        birth = yes
+    }
+}
+
+KIST_189 = {
+    name = "Sigurd322"
+    culture = "kistry"
+    faith = "sylvan_heart"
+    dynasty = KISTD13 #KistDyn13
+    father = KIST_194 #Valdemar110
+    mother = KIST_343 #Yngvild152
+    577.1.1 = {
+        birth = yes
+    }
+}
+
+KIST_19 = {
+    name = "Karin243"
+    culture = "kistry"
+    faith = "sylvan_heart"
+    female = yes
+    dynasty = KISTD1 #KistDyn1
+    father = KIST_21 #Karl81
+    mother = KIST_103 #Malin98
+    570.1.1 = {
+        birth = yes
+    }
+    586.1.1 = {
+        add_spouse = KIST_530 #Torsten513
+    }
+}
+
+KIST_190 = {
+    name = "Styrbjorn325"
+    culture = "kistry"
+    faith = "sylvan_heart"
+    dynasty = KISTD13 #KistDyn13
+    father = KIST_174 #Kettil116
+    mother = KIST_369 #Signe212
+    571.1.1 = {
+        birth = yes
+    }
+    586.1.1 = {
+        add_spouse = KIST_382 #Estrid437
+    }
+}
+
+KIST_191 = {
+    name = "Sunniva113"
+    culture = "kistry"
+    faith = "sylvan_heart"
+    female = yes
+    dynasty = KISTD13 #KistDyn13
+    father = KIST_179 #Magnus63
+    mother = KIST_356 #Ingeborg25
+    550.1.1 = {
+        birth = yes
+    }
+    575.1.1 = {
+        add_spouse = KIST_129 #Ulf90
+    }
+}
+
+KIST_192 = {
+    name = "Torsten323"
+    culture = "kistry"
+    faith = "sylvan_heart"
+    dynasty = KISTD13 #KistDyn13
+    father = KIST_174 #Kettil116
+    mother = KIST_369 #Signe212
+    569.1.1 = {
+        birth = yes
+    }
+    586.1.1 = {
+        add_spouse = KIST_261 #Marta366
+    }
+}
+
+KIST_193 = {
+    name = "Ulvhild321"
+    culture = "kistry"
+    faith = "sylvan_heart"
+    female = yes
+    dynasty = KISTD13 #KistDyn13
+    father = KIST_194 #Valdemar110
+    mother = KIST_343 #Yngvild152
+    576.1.1 = {
+        birth = yes
+    }
+}
+
+KIST_194 = {
+    name = "Valdemar110"
+    culture = "kistry"
+    faith = "sylvan_heart"
+    dynasty = KISTD13 #KistDyn13
+    father = KIST_175 #Kettil62
+    mother = KIST_331 #Sigrid20
+    553.1.1 = {
+        birth = yes
+    }
+    568.1.1 = {
+        add_spouse = KIST_343 #Yngvild152
+    }
+}
+
+KIST_195 = {
+    name = "Alfhild351"
+    culture = "kistry"
+    faith = "sylvan_heart"
+    female = yes
+    dynasty = KISTD14 #KistDyn14
+    father = KIST_236 #Torsten122
+    mother = KIST_418 #Bodil170
+    582.1.1 = {
+        birth = yes
+    }
+}
+
+KIST_196 = {
+    name = "Alfhild352"
+    culture = "kistry"
+    faith = "sylvan_heart"
+    female = yes
+    dynasty = KISTD14 #KistDyn14
+    father = KIST_231 #Sigurd126
+    mother = KIST_428 #Linnea177
+    571.1.1 = {
+        birth = yes
+    }
+    586.1.1 = {
+        add_spouse = KIST_493 #Yngve482
+    }
+}
+
+KIST_197 = {
+    name = "Arvid341"
+    culture = "kistry"
+    faith = "sylvan_heart"
+    dynasty = KISTD14 #KistDyn14
+    father = KIST_224 #Nils119
+    mother = KIST_384 #Hilde163
+    583.1.1 = {
+        birth = yes
+    }
+}
+
+KIST_198 = {
+    name = "Astrid70"
+    culture = "kistry"
+    faith = "sylvan_heart"
+    female = yes
+    dynasty = KISTD14 #KistDyn14
+    father = KIST_216 #Knut66
+    530.1.1 = {
+        birth = yes
+    }
+    540.1.1 = {
+        add_spouse = KIST_124 #Tore53
+    }
+    569.1.1 = {
+        death = yes
+    }
+}
+
+KIST_199 = {
+    name = "Bo127"
+    culture = "kistry"
+    faith = "sylvan_heart"
+    dynasty = KISTD14 #KistDyn14
+    father = KIST_232 #Sten68
+    mother = KIST_415 #Alfhild35
+    556.1.1 = {
+        birth = yes
+    }
+    569.1.1 = {
+        add_spouse = KIST_439 #Sunniva174
+    }
+}
+
+KIST_2 = {
+    name = "Asta228"
+    culture = "kistry"
+    faith = "sylvan_heart"
+    female = yes
+    dynasty = KISTD1 #KistDyn1
+    father = KIST_13 #Halsten78
+    mother = KIST_84 #Yngvild82
+    581.1.1 = {
+        birth = yes
+    }
+}
+
+KIST_20 = {
+    name = "Karl236"
+    culture = "kistry"
+    faith = "sylvan_heart"
+    dynasty = KISTD1 #KistDyn1
+    father = KIST_33 #Per80
+    mother = KIST_82 #Tora85
+    580.1.1 = {
+        birth = yes
+    }
+}
+
+KIST_200 = {
+    name = "Estrid344"
+    culture = "kistry"
+    faith = "sylvan_heart"
+    female = yes
+    dynasty = KISTD14 #KistDyn14
+    father = KIST_218 #Lars120
+    mother = KIST_433 #Ragnhild202
+    579.1.1 = {
+        birth = yes
+    }
+}
+
+KIST_201 = {
+    name = "Estrid350"
+    culture = "kistry"
+    faith = "sylvan_heart"
+    female = yes
+    dynasty = KISTD14 #KistDyn14
+    father = KIST_236 #Torsten122
+    mother = KIST_418 #Bodil170
+    581.1.1 = {
+        birth = yes
+    }
+}
+
+KIST_202 = {
+    name = "Freydis125"
+    culture = "kistry"
+    faith = "sylvan_heart"
+    female = yes
+    dynasty = KISTD14 #KistDyn14
+    father = KIST_232 #Sten68
+    mother = KIST_415 #Alfhild35
+    554.1.1 = {
+        birth = yes
+    }
+    572.1.1 = {
+        add_spouse = KIST_346 #Bjorn160
+    }
+}
+
+KIST_203 = {
+    name = "Freydis333"
+    culture = "kistry"
+    faith = "sylvan_heart"
+    female = yes
+    dynasty = KISTD14 #KistDyn14
+    father = KIST_225 #Ragnar118
+    mother = KIST_370 #Sigrun161
+    572.1.1 = {
+        birth = yes
+    }
+}
+
+KIST_204 = {
+    name = "Freydis336"
+    culture = "kistry"
+    faith = "sylvan_heart"
+    female = yes
+    dynasty = KISTD14 #KistDyn14
+    father = KIST_225 #Ragnar118
+    mother = KIST_370 #Sigrun161
+    575.1.1 = {
+        birth = yes
+    }
+}
+
+KIST_205 = {
+    name = "Frida121"
+    culture = "kistry"
+    faith = "sylvan_heart"
+    female = yes
+    dynasty = KISTD14 #KistDyn14
+    father = KIST_237 #Torsten67
+    mother = KIST_410 #Ulvhild30
+    554.1.1 = {
+        birth = yes
+    }
+    573.1.1 = {
+        add_spouse = KIST_120 #Sverker97
+    }
+}
+
+KIST_206 = {
+    name = "Gunborg124"
+    culture = "kistry"
+    faith = "sylvan_heart"
+    female = yes
+    dynasty = KISTD14 #KistDyn14
+    father = KIST_232 #Sten68
+    mother = KIST_415 #Alfhild35
+    552.1.1 = {
+        birth = yes
+    }
+    574.1.1 = {
+        add_spouse = KIST_357 #Ivar159
+    }
+}
+
+KIST_207 = {
+    name = "Gunborg339"
+    culture = "kistry"
+    faith = "sylvan_heart"
+    female = yes
+    dynasty = KISTD14 #KistDyn14
+    father = KIST_224 #Nils119
+    mother = KIST_384 #Hilde163
+    580.1.1 = {
+        birth = yes
+    }
+}
+
+KIST_208 = {
+    name = "Gunhild69"
+    culture = "kistry"
+    faith = "sylvan_heart"
+    female = yes
+    dynasty = KISTD14 #KistDyn14
+    father = KIST_216 #Knut66
+    527.1.1 = {
+        birth = yes
+    }
+    550.1.1 = {
+        add_spouse = KIST_362 #Leif22
+    }
+    581.1.1 = {
+        death = yes
+    }
+}
+
+KIST_209 = {
+    name = "Gustav335"
+    culture = "kistry"
+    faith = "sylvan_heart"
+    dynasty = KISTD14 #KistDyn14
+    father = KIST_225 #Ragnar118
+    mother = KIST_370 #Sigrun161
+    574.1.1 = {
+        birth = yes
+    }
+}
+
+KIST_21 = {
+    name = "Karl81"
+    culture = "kistry"
+    faith = "sylvan_heart"
+    dynasty = KISTD1 #KistDyn1
+    father = KIST_23 #Lars3
+    mother = KIST_60 #Hedvig50
+    557.1.1 = {
+        birth = yes
+    }
+    567.1.1 = {
+        add_spouse = KIST_103 #Malin98
+    }
+}
+
+KIST_210 = {
+    name = "Hakan337"
+    culture = "kistry"
+    faith = "sylvan_heart"
+    dynasty = KISTD14 #KistDyn14
+    father = KIST_224 #Nils119
+    mother = KIST_384 #Hilde163
+    578.1.1 = {
+        birth = yes
+    }
+}
+
+KIST_211 = {
+    name = "Hakan349"
+    culture = "kistry"
+    faith = "sylvan_heart"
+    dynasty = KISTD14 #KistDyn14
+    father = KIST_236 #Torsten122
+    mother = KIST_418 #Bodil170
+    579.1.1 = {
+        birth = yes
+    }
+}
+
+KIST_212 = {
+    name = "Hedvig338"
+    culture = "kistry"
+    faith = "sylvan_heart"
+    female = yes
+    dynasty = KISTD14 #KistDyn14
+    father = KIST_224 #Nils119
+    mother = KIST_384 #Hilde163
+    579.1.1 = {
+        birth = yes
+    }
+}
+
+KIST_213 = {
+    name = "Ingrid331"
+    culture = "kistry"
+    faith = "sylvan_heart"
+    female = yes
+    dynasty = KISTD14 #KistDyn14
+    father = KIST_225 #Ragnar118
+    mother = KIST_370 #Sigrun161
+    569.1.1 = {
+        birth = yes
+    }
+    586.1.1 = {
+        add_spouse = KIST_147 #Nils308
+    }
+}
+
+KIST_214 = {
+    name = "Ingrid357"
+    culture = "kistry"
+    faith = "sylvan_heart"
+    female = yes
+    dynasty = KISTD14 #KistDyn14
+    father = KIST_199 #Bo127
+    mother = KIST_439 #Sunniva174
+    573.1.1 = {
+        birth = yes
+    }
+}
+
+KIST_215 = {
+    name = "Karin332"
+    culture = "kistry"
+    faith = "sylvan_heart"
+    female = yes
+    dynasty = KISTD14 #KistDyn14
+    father = KIST_225 #Ragnar118
+    mother = KIST_370 #Sigrun161
+    571.1.1 = {
+        birth = yes
+    }
+    586.1.1 = {
+        add_spouse = KIST_171 #Jarl317
+    }
+}
+
+KIST_216 = {
+    name = "Knut66"
+    culture = "kistry"
+    faith = "sylvan_heart"
+    dynasty = KISTD14 #KistDyn14
+    483.1.1 = {
+        birth = yes
+    }
+    564.1.1 = {
+        death = yes
+    }
+}
+
+KIST_217 = {
+    name = "Kristina348"
+    culture = "kistry"
+    faith = "sylvan_heart"
+    female = yes
+    dynasty = KISTD14 #KistDyn14
+    father = KIST_236 #Torsten122
+    mother = KIST_418 #Bodil170
+    577.1.1 = {
+        birth = yes
+    }
+}
+
+KIST_218 = {
+    name = "Lars120"
+    culture = "kistry"
+    faith = "sylvan_heart"
+    dynasty = KISTD14 #KistDyn14
+    father = KIST_237 #Torsten67
+    mother = KIST_410 #Ulvhild30
+    553.1.1 = {
+        birth = yes
+    }
+    575.1.1 = {
+        add_spouse = KIST_433 #Ragnhild202
+    }
+}
+
+KIST_219 = {
+    name = "Leif342"
+    culture = "kistry"
+    faith = "sylvan_heart"
+    dynasty = KISTD14 #KistDyn14
+    father = KIST_218 #Lars120
+    mother = KIST_433 #Ragnhild202
+    576.1.1 = {
+        birth = yes
+    }
+}
+
+KIST_22 = {
+    name = "Lagertha219"
+    culture = "kistry"
+    faith = "sylvan_heart"
+    female = yes
+    dynasty = KISTD1 #KistDyn1
+    father = KIST_41 #Sigurd76
+    mother = KIST_78 #Runa86
+    567.1.1 = {
+        birth = yes
+    }
+    586.1.1 = {
+        add_spouse = KIST_336 #Sune401
+    }
+}
+
+KIST_220 = {
+    name = "Leif345"
+    culture = "kistry"
+    faith = "sylvan_heart"
+    dynasty = KISTD14 #KistDyn14
+    father = KIST_218 #Lars120
+    mother = KIST_433 #Ragnhild202
+    580.1.1 = {
+        birth = yes
+    }
+}
+
+KIST_221 = {
+    name = "Leif354"
+    culture = "kistry"
+    faith = "sylvan_heart"
+    dynasty = KISTD14 #KistDyn14
+    father = KIST_231 #Sigurd126
+    mother = KIST_428 #Linnea177
+    575.1.1 = {
+        birth = yes
+    }
+}
+
+KIST_222 = {
+    name = "Linnea355"
+    culture = "kistry"
+    faith = "sylvan_heart"
+    female = yes
+    dynasty = KISTD14 #KistDyn14
+    father = KIST_199 #Bo127
+    mother = KIST_439 #Sunniva174
+    570.1.1 = {
+        birth = yes
+    }
+    586.1.1 = {
+        add_spouse = KIST_388 #Lars438
+    }
+}
+
+KIST_223 = {
+    name = "Margareta211"
+    culture = "kistry"
+    faith = "sylvan_heart"
+    female = yes
+    dynasty = KISTD14 #KistDyn14
+    545.1.1 = {
+        birth = yes
+    }
+    572.1.1 = {
+        add_spouse = KIST_125 #Tore95
+    }
+}
+
+KIST_224 = {
+    name = "Nils119"
+    culture = "kistry"
+    faith = "sylvan_heart"
+    dynasty = KISTD14 #KistDyn14
+    father = KIST_237 #Torsten67
+    mother = KIST_410 #Ulvhild30
+    552.1.1 = {
+        birth = yes
+    }
+    577.1.1 = {
+        add_spouse = KIST_384 #Hilde163
+    }
+}
+
+KIST_225 = {
+    name = "Ragnar118"
+    culture = "kistry"
+    faith = "sylvan_heart"
+    dynasty = KISTD14 #KistDyn14
+    father = KIST_237 #Torsten67
+    mother = KIST_410 #Ulvhild30
+    551.1.1 = {
+        birth = yes
+    }
+    568.1.1 = {
+        add_spouse = KIST_370 #Sigrun161
+    }
+}
+
+KIST_226 = {
+    name = "Ragnhild340"
+    culture = "kistry"
+    faith = "sylvan_heart"
+    female = yes
+    dynasty = KISTD14 #KistDyn14
+    father = KIST_224 #Nils119
+    mother = KIST_384 #Hilde163
+    582.1.1 = {
+        birth = yes
+    }
+}
+
+KIST_227 = {
+    name = "Rikard356"
+    culture = "kistry"
+    faith = "sylvan_heart"
+    dynasty = KISTD14 #KistDyn14
+    father = KIST_199 #Bo127
+    mother = KIST_439 #Sunniva174
+    572.1.1 = {
+        birth = yes
+    }
+}
+
+KIST_228 = {
+    name = "Rolf334"
+    culture = "kistry"
+    faith = "sylvan_heart"
+    dynasty = KISTD14 #KistDyn14
+    father = KIST_225 #Ragnar118
+    mother = KIST_370 #Sigrun161
+    573.1.1 = {
+        birth = yes
+    }
+}
+
+KIST_229 = {
+    name = "Saga117"
+    culture = "kistry"
+    faith = "sylvan_heart"
+    female = yes
+    dynasty = KISTD14 #KistDyn14
+    father = KIST_237 #Torsten67
+    mother = KIST_410 #Ulvhild30
+    550.1.1 = {
+        birth = yes
+    }
+    566.1.1 = {
+        add_spouse = KIST_352 #Gustav156
+    }
+}
+
+KIST_23 = {
+    name = "Lars3"
+    culture = "kistry"
+    faith = "sylvan_heart"
+    dynasty = KISTD1 #KistDyn1
+    father = KIST_43 #Sten1
+    518.1.1 = {
+        birth = yes
+    }
+    548.1.1 = {
+        add_spouse = KIST_60 #Hedvig50
+    }
+}
+
+KIST_230 = {
+    name = "Sigrun347"
+    culture = "kistry"
+    faith = "sylvan_heart"
+    female = yes
+    dynasty = KISTD14 #KistDyn14
+    father = KIST_236 #Torsten122
+    mother = KIST_418 #Bodil170
+    575.1.1 = {
+        birth = yes
+    }
+}
+
+KIST_231 = {
+    name = "Sigurd126"
+    culture = "kistry"
+    faith = "sylvan_heart"
+    dynasty = KISTD14 #KistDyn14
+    father = KIST_232 #Sten68
+    mother = KIST_415 #Alfhild35
+    555.1.1 = {
+        birth = yes
+    }
+    570.1.1 = {
+        add_spouse = KIST_428 #Linnea177
+    }
+}
+
+KIST_232 = {
+    name = "Sten68"
+    culture = "kistry"
+    faith = "sylvan_heart"
+    dynasty = KISTD14 #KistDyn14
+    father = KIST_216 #Knut66
+    524.1.1 = {
+        birth = yes
+    }
+    540.1.1 = {
+        add_spouse = KIST_415 #Alfhild35
+    }
+    578.1.1 = {
+        death = yes
+    }
+}
+
+KIST_233 = {
+    name = "Tora123"
+    culture = "kistry"
+    faith = "sylvan_heart"
+    female = yes
+    dynasty = KISTD14 #KistDyn14
+    father = KIST_232 #Sten68
+    mother = KIST_415 #Alfhild35
+    550.1.1 = {
+        birth = yes
+    }
+    573.1.1 = {
+        add_spouse = KIST_101 #Kettil91
+    }
+}
+
+KIST_234 = {
+    name = "Tora353"
+    culture = "kistry"
+    faith = "sylvan_heart"
+    female = yes
+    dynasty = KISTD14 #KistDyn14
+    father = KIST_231 #Sigurd126
+    mother = KIST_428 #Linnea177
+    573.1.1 = {
+        birth = yes
+    }
+}
+
+KIST_235 = {
+    name = "Tore346"
+    culture = "kistry"
+    faith = "sylvan_heart"
+    dynasty = KISTD14 #KistDyn14
+    father = KIST_218 #Lars120
+    mother = KIST_433 #Ragnhild202
+    582.1.1 = {
+        birth = yes
+    }
+}
+
+KIST_236 = {
+    name = "Torsten122"
+    culture = "kistry"
+    faith = "sylvan_heart"
+    dynasty = KISTD14 #KistDyn14
+    father = KIST_237 #Torsten67
+    mother = KIST_410 #Ulvhild30
+    555.1.1 = {
+        birth = yes
+    }
+    574.1.1 = {
+        add_spouse = KIST_418 #Bodil170
+    }
+}
+
+KIST_237 = {
+    name = "Torsten67"
+    culture = "kistry"
+    faith = "sylvan_heart"
+    dynasty = KISTD14 #KistDyn14
+    father = KIST_216 #Knut66
+    521.1.1 = {
+        birth = yes
+    }
+    542.1.1 = {
+        add_spouse = KIST_410 #Ulvhild30
+    }
+}
+
+KIST_238 = {
+    name = "Valdemar343"
+    culture = "kistry"
+    faith = "sylvan_heart"
+    dynasty = KISTD14 #KistDyn14
+    father = KIST_218 #Lars120
+    mother = KIST_433 #Ragnhild202
+    578.1.1 = {
+        birth = yes
+    }
+}
+
+KIST_239 = {
+    name = "Estrid131"
+    culture = "kistry"
+    faith = "sylvan_heart"
+    female = yes
+    dynasty = KISTD2 #KistDyn2
+    father = KIST_254 #Jon7
+    mother = KIST_491 #Torhild40
+    555.1.1 = {
+        birth = yes
+    }
+    578.1.1 = {
+        add_spouse = KIST_378 #Birger169
+    }
+}
+
+KIST_24 = {
+    name = "Leif2"
+    culture = "kistry"
+    faith = "sylvan_heart"
+    dynasty = KISTD1 #KistDyn1
+    father = KIST_43 #Sten1
+    515.1.1 = {
+        birth = yes
+    }
+    538.1.1 = {
+        add_spouse = KIST_73 #Malin49
+    }
+    576.1.1 = {
+        death = yes
+    }
+}
+
+KIST_240 = {
+    name = "Estrid132"
+    culture = "kistry"
+    faith = "sylvan_heart"
+    female = yes
+    dynasty = KISTD2 #KistDyn2
+    father = KIST_250 #Isak8
+    mother = KIST_501 #Gunhild45
+    550.1.1 = {
+        birth = yes
+    }
+    575.1.1 = {
+        add_spouse = KIST_381 #Bo164
+    }
+}
+
+KIST_241 = {
+    name = "Estrid134"
+    culture = "kistry"
+    faith = "sylvan_heart"
+    female = yes
+    dynasty = KISTD2 #KistDyn2
+    father = KIST_250 #Isak8
+    mother = KIST_501 #Gunhild45
+    553.1.1 = {
+        birth = yes
+    }
+    567.1.1 = {
+        add_spouse = KIST_143 #Knut105
+    }
+}
+
+KIST_242 = {
+    name = "Folke359"
+    culture = "kistry"
+    faith = "sylvan_heart"
+    dynasty = KISTD2 #KistDyn2
+    father = KIST_258 #Lars133
+    mother = KIST_489 #Tora187
+    578.1.1 = {
+        birth = yes
+    }
+}
+
+KIST_243 = {
+    name = "Folke6"
+    culture = "kistry"
+    faith = "sylvan_heart"
+    dynasty = KISTD2 #KistDyn2
+    481.1.1 = {
+        birth = yes
+    }
+    559.1.1 = {
+        death = yes
+    }
+}
+
+KIST_244 = {
+    name = "Frida370"
+    culture = "kistry"
+    faith = "sylvan_heart"
+    female = yes
+    dynasty = KISTD2 #KistDyn2
+    father = KIST_271 #Ulf130
+    mother = KIST_528 #Torhild191
+    579.1.1 = {
+        birth = yes
+    }
+}
+
+KIST_245 = {
+    name = "Gunhild10"
+    culture = "kistry"
+    faith = "sylvan_heart"
+    female = yes
+    dynasty = KISTD2 #KistDyn2
+    father = KIST_243 #Folke6
+    525.1.1 = {
+        birth = yes
+    }
+    548.1.1 = {
+        add_spouse = KIST_159 #Valdemar57
+    }
+    573.1.1 = {
+        death = yes
+    }
+}
+
+KIST_246 = {
+    name = "Gunhild371"
+    culture = "kistry"
+    faith = "sylvan_heart"
+    female = yes
+    dynasty = KISTD2 #KistDyn2
+    father = KIST_271 #Ulf130
+    mother = KIST_528 #Torhild191
+    580.1.1 = {
+        birth = yes
+    }
+}
+
+KIST_247 = {
+    name = "Gunnar365"
+    culture = "kistry"
+    faith = "sylvan_heart"
+    dynasty = KISTD2 #KistDyn2
+    father = KIST_251 #Jarl129
+    mother = KIST_500 #Freydis194
+    569.1.1 = {
+        birth = yes
+    }
+    586.1.1 = {
+        add_spouse = KIST_452 #Freydis510
+    }
+}
+
+KIST_248 = {
+    name = "Helga206"
+    culture = "kistry"
+    faith = "sylvan_heart"
+    female = yes
+    dynasty = KISTD2 #KistDyn2
+    547.1.1 = {
+        birth = yes
+    }
+    568.1.1 = {
+        add_spouse = KIST_408 #Ulf167
+    }
+}
+
+KIST_249 = {
+    name = "Ingvar368"
+    culture = "kistry"
+    faith = "sylvan_heart"
+    dynasty = KISTD2 #KistDyn2
+    father = KIST_271 #Ulf130
+    mother = KIST_528 #Torhild191
+    577.1.1 = {
+        birth = yes
+    }
+}
+
+KIST_25 = {
+    name = "Leif225"
+    culture = "kistry"
+    faith = "sylvan_heart"
+    dynasty = KISTD1 #KistDyn1
+    father = KIST_13 #Halsten78
+    mother = KIST_84 #Yngvild82
+    577.1.1 = {
+        birth = yes
+    }
+}
+
+KIST_250 = {
+    name = "Isak8"
+    culture = "kistry"
+    faith = "sylvan_heart"
+    dynasty = KISTD2 #KistDyn2
+    father = KIST_243 #Folke6
+    519.1.1 = {
+        birth = yes
+    }
+    549.1.1 = {
+        add_spouse = KIST_501 #Gunhild45
+    }
+}
+
+KIST_251 = {
+    name = "Jarl129"
+    culture = "kistry"
+    faith = "sylvan_heart"
+    dynasty = KISTD2 #KistDyn2
+    father = KIST_254 #Jon7
+    mother = KIST_491 #Torhild40
+    552.1.1 = {
+        birth = yes
+    }
+    567.1.1 = {
+        add_spouse = KIST_500 #Freydis194
+    }
+}
+
+KIST_252 = {
+    name = "Jon135"
+    culture = "kistry"
+    faith = "sylvan_heart"
+    dynasty = KISTD2 #KistDyn2
+    father = KIST_250 #Isak8
+    mother = KIST_501 #Gunhild45
+    554.1.1 = {
+        birth = yes
+    }
+    578.1.1 = {
+        add_spouse = KIST_495 #Birgitta197
+    }
+}
+
+KIST_253 = {
+    name = "Jon361"
+    culture = "kistry"
+    faith = "sylvan_heart"
+    dynasty = KISTD2 #KistDyn2
+    father = KIST_258 #Lars133
+    mother = KIST_489 #Tora187
+    580.1.1 = {
+        birth = yes
+    }
+}
+
+KIST_254 = {
+    name = "Jon7"
+    culture = "kistry"
+    faith = "sylvan_heart"
+    dynasty = KISTD2 #KistDyn2
+    father = KIST_243 #Folke6
+    516.1.1 = {
+        birth = yes
+    }
+    542.1.1 = {
+        add_spouse = KIST_491 #Torhild40
+    }
+    577.1.1 = {
+        death = yes
+    }
+}
+
+KIST_255 = {
+    name = "Karin136"
+    culture = "kistry"
+    faith = "sylvan_heart"
+    female = yes
+    dynasty = KISTD2 #KistDyn2
+    father = KIST_250 #Isak8
+    mother = KIST_501 #Gunhild45
+    556.1.1 = {
+        birth = yes
+    }
+    573.1.1 = {
+        add_spouse = KIST_131 #Arvid101
+    }
+}
+
+KIST_256 = {
+    name = "Karin204"
+    culture = "kistry"
+    faith = "sylvan_heart"
+    female = yes
+    dynasty = KISTD2 #KistDyn2
+    541.1.1 = {
+        birth = yes
+    }
+    566.1.1 = {
+        add_spouse = KIST_102 #Leif92
+    }
+}
+
+KIST_257 = {
+    name = "Karin360"
+    culture = "kistry"
+    faith = "sylvan_heart"
+    female = yes
+    dynasty = KISTD2 #KistDyn2
+    father = KIST_258 #Lars133
+    mother = KIST_489 #Tora187
+    579.1.1 = {
+        birth = yes
+    }
+}
+
+KIST_258 = {
+    name = "Lars133"
+    culture = "kistry"
+    faith = "sylvan_heart"
+    dynasty = KISTD2 #KistDyn2
+    father = KIST_250 #Isak8
+    mother = KIST_501 #Gunhild45
+    551.1.1 = {
+        birth = yes
+    }
+    576.1.1 = {
+        add_spouse = KIST_489 #Tora187
+    }
+}
+
+KIST_259 = {
+    name = "Leif367"
+    culture = "kistry"
+    faith = "sylvan_heart"
+    dynasty = KISTD2 #KistDyn2
+    father = KIST_271 #Ulf130
+    mother = KIST_528 #Torhild191
+    575.1.1 = {
+        birth = yes
+    }
+}
+
+KIST_26 = {
+    name = "Leif232"
+    culture = "kistry"
+    faith = "sylvan_heart"
+    dynasty = KISTD1 #KistDyn1
+    father = KIST_3 #Birger74
+    mother = KIST_64 #Ingrid84
+    582.1.1 = {
+        birth = yes
+    }
+}
+
+KIST_260 = {
+    name = "Malin137"
+    culture = "kistry"
+    faith = "sylvan_heart"
+    female = yes
+    dynasty = KISTD2 #KistDyn2
+    father = KIST_250 #Isak8
+    mother = KIST_501 #Gunhild45
+    558.1.1 = {
+        birth = yes
+    }
+    572.1.1 = {
+        add_spouse = KIST_411 #Yngve165
+    }
+}
+
+KIST_261 = {
+    name = "Marta366"
+    culture = "kistry"
+    faith = "sylvan_heart"
+    female = yes
+    dynasty = KISTD2 #KistDyn2
+    father = KIST_251 #Jarl129
+    mother = KIST_500 #Freydis194
+    571.1.1 = {
+        birth = yes
+    }
+    586.1.1 = {
+        add_spouse = KIST_192 #Torsten323
+    }
+}
+
+KIST_262 = {
+    name = "Ragnhild372"
+    culture = "kistry"
+    faith = "sylvan_heart"
+    female = yes
+    dynasty = KISTD2 #KistDyn2
+    father = KIST_271 #Ulf130
+    mother = KIST_528 #Torhild191
+    582.1.1 = {
+        birth = yes
+    }
+}
+
+KIST_263 = {
+    name = "Ragnhild374"
+    culture = "kistry"
+    faith = "sylvan_heart"
+    female = yes
+    dynasty = KISTD2 #KistDyn2
+    father = KIST_252 #Jon135
+    mother = KIST_495 #Birgitta197
+    581.1.1 = {
+        birth = yes
+    }
+}
+
+KIST_264 = {
+    name = "Solveig9"
+    culture = "kistry"
+    faith = "sylvan_heart"
+    female = yes
+    dynasty = KISTD2 #KistDyn2
+    father = KIST_243 #Folke6
+    522.1.1 = {
+        birth = yes
+    }
+    547.1.1 = {
+        add_spouse = KIST_365 #Per23
+    }
+    580.1.1 = {
+        death = yes
+    }
+}
+
+KIST_265 = {
+    name = "Sunniva373"
+    culture = "kistry"
+    faith = "sylvan_heart"
+    female = yes
+    dynasty = KISTD2 #KistDyn2
+    father = KIST_252 #Jon135
+    mother = KIST_495 #Birgitta197
+    579.1.1 = {
+        birth = yes
+    }
+}
+
+KIST_266 = {
+    name = "Tore358"
+    culture = "kistry"
+    faith = "sylvan_heart"
+    dynasty = KISTD2 #KistDyn2
+    father = KIST_258 #Lars133
+    mother = KIST_489 #Tora187
+    577.1.1 = {
+        birth = yes
+    }
+}
+
+KIST_267 = {
+    name = "Torgils364"
+    culture = "kistry"
+    faith = "sylvan_heart"
+    dynasty = KISTD2 #KistDyn2
+    father = KIST_251 #Jarl129
+    mother = KIST_500 #Freydis194
+    568.1.1 = {
+        birth = yes
+    }
+    586.1.1 = {
+        add_spouse = KIST_447 #Alfhild508
+    }
+}
+
+KIST_268 = {
+    name = "Torgils369"
+    culture = "kistry"
+    faith = "sylvan_heart"
+    dynasty = KISTD2 #KistDyn2
+    father = KIST_271 #Ulf130
+    mother = KIST_528 #Torhild191
+    578.1.1 = {
+        birth = yes
+    }
+}
+
+KIST_269 = {
+    name = "Torhild128"
+    culture = "kistry"
+    faith = "sylvan_heart"
+    female = yes
+    dynasty = KISTD2 #KistDyn2
+    father = KIST_254 #Jon7
+    mother = KIST_491 #Torhild40
+    550.1.1 = {
+        birth = yes
+    }
+    578.1.1 = {
+        add_spouse = KIST_100 #Karl93
+    }
+}
+
+KIST_27 = {
+    name = "Linnea215"
+    culture = "kistry"
+    faith = "sylvan_heart"
+    female = yes
+    dynasty = KISTD1 #KistDyn1
+    father = KIST_50 #Yngve71
+    mother = KIST_75 #Ragnhild207
+    573.1.1 = {
+        birth = yes
+    }
+}
+
+KIST_270 = {
+    name = "Torhild363"
+    culture = "kistry"
+    faith = "sylvan_heart"
+    female = yes
+    dynasty = KISTD2 #KistDyn2
+    father = KIST_258 #Lars133
+    mother = KIST_489 #Tora187
+    582.1.1 = {
+        birth = yes
+    }
+}
+
+KIST_271 = {
+    name = "Ulf130"
+    culture = "kistry"
+    faith = "sylvan_heart"
+    dynasty = KISTD2 #KistDyn2
+    father = KIST_254 #Jon7
+    mother = KIST_491 #Torhild40
+    554.1.1 = {
+        birth = yes
+    }
+    574.1.1 = {
+        add_spouse = KIST_528 #Torhild191
+    }
+}
+
+KIST_272 = {
+    name = "Ulf362"
+    culture = "kistry"
+    faith = "sylvan_heart"
+    dynasty = KISTD2 #KistDyn2
+    father = KIST_258 #Lars133
+    mother = KIST_489 #Tora187
+    581.1.1 = {
+        birth = yes
+    }
+}
+
+KIST_273 = {
+    name = "Ylva375"
+    culture = "kistry"
+    faith = "sylvan_heart"
+    female = yes
+    dynasty = KISTD2 #KistDyn2
+    father = KIST_252 #Jon135
+    mother = KIST_495 #Birgitta197
+    582.1.1 = {
+        birth = yes
+    }
+}
+
+KIST_274 = {
+    name = "Arvid381"
+    culture = "kistry"
+    faith = "sylvan_heart"
+    dynasty = KISTD3 #KistDyn3
+    father = KIST_299 #Rolf141
+    mother = KIST_14 #Helga77
+    579.1.1 = {
+        birth = yes
+    }
+}
+
+KIST_275 = {
+    name = "Asta393"
+    culture = "kistry"
+    faith = "sylvan_heart"
+    female = yes
+    dynasty = KISTD3 #KistDyn3
+    father = KIST_280 #Gunnar143
+    mother = KIST_145 #Malin213
+    578.1.1 = {
+        birth = yes
+    }
+}
+
+KIST_276 = {
+    name = "Birgitta389"
+    culture = "kistry"
+    faith = "sylvan_heart"
+    female = yes
+    dynasty = KISTD3 #KistDyn3
+    father = KIST_281 #Gustav140
+    mother = KIST_89 #Estrid96
+    582.1.1 = {
+        birth = yes
+    }
+}
+
+KIST_277 = {
+    name = "Bo12"
+    culture = "kistry"
+    faith = "sylvan_heart"
+    dynasty = KISTD3 #KistDyn3
+    father = KIST_296 #Per11
+    517.1.1 = {
+        birth = yes
+    }
+    548.1.1 = {
+        add_spouse = KIST_40 #Sigrun5
+    }
+    578.1.1 = {
+        death = yes
+    }
+}
+
+KIST_278 = {
+    name = "Gunborg392"
+    culture = "kistry"
+    faith = "sylvan_heart"
+    female = yes
+    dynasty = KISTD3 #KistDyn3
+    father = KIST_281 #Gustav140
+    mother = KIST_89 #Estrid96
+    587.1.1 = {
+        birth = yes
+    }
+}
+
+KIST_279 = {
+    name = "Gunhild144"
+    culture = "kistry"
+    faith = "sylvan_heart"
+    female = yes
+    dynasty = KISTD3 #KistDyn3
+    father = KIST_295 #Olof13
+    mother = KIST_116 #Saga54
+    556.1.1 = {
+        birth = yes
+    }
+    577.1.1 = {
+        add_spouse = KIST_400 #Sten166
+    }
+}
+
+KIST_28 = {
+    name = "Marta209"
+    culture = "kistry"
+    faith = "sylvan_heart"
+    female = yes
+    dynasty = KISTD1 #KistDyn1
+    537.1.1 = {
+        birth = yes
+    }
+    572.1.1 = {
+        add_spouse = KIST_502 #Hakan189
+    }
+}
+
+KIST_280 = {
+    name = "Gunnar143"
+    culture = "kistry"
+    faith = "sylvan_heart"
+    dynasty = KISTD3 #KistDyn3
+    father = KIST_295 #Olof13
+    mother = KIST_116 #Saga54
+    554.1.1 = {
+        birth = yes
+    }
+    577.1.1 = {
+        add_spouse = KIST_145 #Malin213
+    }
+}
+
+KIST_281 = {
+    name = "Gustav140"
+    culture = "kistry"
+    faith = "sylvan_heart"
+    dynasty = KISTD3 #KistDyn3
+    father = KIST_277 #Bo12
+    mother = KIST_40 #Sigrun5
+    552.1.1 = {
+        birth = yes
+    }
+    578.1.1 = {
+        add_spouse = KIST_89 #Estrid96
+    }
+}
+
+KIST_282 = {
+    name = "Helga390"
+    culture = "kistry"
+    faith = "sylvan_heart"
+    female = yes
+    dynasty = KISTD3 #KistDyn3
+    father = KIST_281 #Gustav140
+    mother = KIST_89 #Estrid96
+    583.1.1 = {
+        birth = yes
+    }
+}
+
+KIST_283 = {
+    name = "Ingeborg376"
+    culture = "kistry"
+    faith = "sylvan_heart"
+    female = yes
+    dynasty = KISTD3 #KistDyn3
+    father = KIST_285 #Jarl138
+    mother = KIST_5 #Estrid203
+    579.1.1 = {
+        birth = yes
+    }
+}
+
+KIST_284 = {
+    name = "Ingvar391"
+    culture = "kistry"
+    faith = "sylvan_heart"
+    dynasty = KISTD3 #KistDyn3
+    father = KIST_281 #Gustav140
+    mother = KIST_89 #Estrid96
+    585.1.1 = {
+        birth = yes
+    }
+}
+
+KIST_285 = {
+    name = "Jarl138"
+    culture = "kistry"
+    faith = "sylvan_heart"
+    dynasty = KISTD3 #KistDyn3
+    father = KIST_277 #Bo12
+    mother = KIST_40 #Sigrun5
+    550.1.1 = {
+        birth = yes
+    }
+    578.1.1 = {
+        add_spouse = KIST_5 #Estrid203
+    }
+}
+
+KIST_286 = {
+    name = "Jarl388"
+    culture = "kistry"
+    faith = "sylvan_heart"
+    dynasty = KISTD3 #KistDyn3
+    father = KIST_281 #Gustav140
+    mother = KIST_89 #Estrid96
+    580.1.1 = {
+        birth = yes
+    }
+}
+
+KIST_287 = {
+    name = "Jon379"
+    culture = "kistry"
+    faith = "sylvan_heart"
+    dynasty = KISTD3 #KistDyn3
+    father = KIST_299 #Rolf141
+    mother = KIST_14 #Helga77
+    576.1.1 = {
+        birth = yes
+    }
+}
+
+KIST_288 = {
+    name = "Kettil385"
+    culture = "kistry"
+    faith = "sylvan_heart"
+    dynasty = KISTD3 #KistDyn3
+    father = KIST_298 #Rolf139
+    mother = KIST_16 #Hilde79
+    578.1.1 = {
+        birth = yes
+    }
+}
+
+KIST_289 = {
+    name = "Kettil394"
+    culture = "kistry"
+    faith = "sylvan_heart"
+    dynasty = KISTD3 #KistDyn3
+    father = KIST_280 #Gunnar143
+    mother = KIST_145 #Malin213
+    580.1.1 = {
+        birth = yes
+    }
+}
+
+KIST_29 = {
+    name = "Marta235"
+    culture = "kistry"
+    faith = "sylvan_heart"
+    female = yes
+    dynasty = KISTD1 #KistDyn1
+    father = KIST_33 #Per80
+    mother = KIST_82 #Tora85
+    579.1.1 = {
+        birth = yes
+    }
+}
+
+KIST_290 = {
+    name = "Knut382"
+    culture = "kistry"
+    faith = "sylvan_heart"
+    dynasty = KISTD3 #KistDyn3
+    father = KIST_299 #Rolf141
+    mother = KIST_14 #Helga77
+    581.1.1 = {
+        birth = yes
+    }
+}
+
+KIST_291 = {
+    name = "Kristina14"
+    culture = "kistry"
+    faith = "sylvan_heart"
+    female = yes
+    dynasty = KISTD3 #KistDyn3
+    father = KIST_296 #Per11
+    523.1.1 = {
+        birth = yes
+    }
+    542.1.1 = {
+        add_spouse = KIST_386 #Isak27
+    }
+}
+
+KIST_292 = {
+    name = "Lagertha380"
+    culture = "kistry"
+    faith = "sylvan_heart"
+    female = yes
+    dynasty = KISTD3 #KistDyn3
+    father = KIST_299 #Rolf141
+    mother = KIST_14 #Helga77
+    578.1.1 = {
+        birth = yes
+    }
+}
+
+KIST_293 = {
+    name = "Leif383"
+    culture = "kistry"
+    faith = "sylvan_heart"
+    dynasty = KISTD3 #KistDyn3
+    father = KIST_299 #Rolf141
+    mother = KIST_14 #Helga77
+    583.1.1 = {
+        birth = yes
+    }
+}
+
+KIST_294 = {
+    name = "Mats395"
+    culture = "kistry"
+    faith = "sylvan_heart"
+    dynasty = KISTD3 #KistDyn3
+    father = KIST_280 #Gunnar143
+    mother = KIST_145 #Malin213
+    581.1.1 = {
+        birth = yes
+    }
+}
+
+KIST_295 = {
+    name = "Olof13"
+    culture = "kistry"
+    faith = "sylvan_heart"
+    dynasty = KISTD3 #KistDyn3
+    father = KIST_296 #Per11
+    520.1.1 = {
+        birth = yes
+    }
+    544.1.1 = {
+        add_spouse = KIST_116 #Saga54
+    }
+    583.1.1 = {
+        death = yes
+    }
+}
+
+KIST_296 = {
+    name = "Per11"
+    culture = "kistry"
+    faith = "sylvan_heart"
+    dynasty = KISTD3 #KistDyn3
+    482.1.1 = {
+        birth = yes
+    }
+    552.1.1 = {
+        death = yes
+    }
+}
+
+KIST_297 = {
+    name = "Rikissa142"
+    culture = "kistry"
+    faith = "sylvan_heart"
+    female = yes
+    dynasty = KISTD3 #KistDyn3
+    father = KIST_295 #Olof13
+    mother = KIST_116 #Saga54
+    552.1.1 = {
+        birth = yes
+    }
+    568.1.1 = {
+        add_spouse = KIST_146 #Nils107
+    }
+}
+
+KIST_298 = {
+    name = "Rolf139"
+    culture = "kistry"
+    faith = "sylvan_heart"
+    dynasty = KISTD3 #KistDyn3
+    father = KIST_277 #Bo12
+    mother = KIST_40 #Sigrun5
+    551.1.1 = {
+        birth = yes
+    }
+    575.1.1 = {
+        add_spouse = KIST_16 #Hilde79
+    }
+}
+
+KIST_299 = {
+    name = "Rolf141"
+    culture = "kistry"
+    faith = "sylvan_heart"
+    dynasty = KISTD3 #KistDyn3
+    father = KIST_295 #Olof13
+    mother = KIST_116 #Saga54
+    550.1.1 = {
+        birth = yes
+    }
+    575.1.1 = {
+        add_spouse = KIST_14 #Helga77
+    }
+}
+
+KIST_3 = {
+    name = "Birger74"
+    culture = "kistry"
+    faith = "sylvan_heart"
+    dynasty = KISTD1 #KistDyn1
+    father = KIST_24 #Leif2
+    mother = KIST_73 #Malin49
+    555.1.1 = {
+        birth = yes
+    }
+    576.1.1 = {
+        add_spouse = KIST_64 #Ingrid84
+    }
+}
+
+KIST_30 = {
+    name = "Nils218"
+    culture = "kistry"
+    faith = "sylvan_heart"
+    dynasty = KISTD1 #KistDyn1
+    father = KIST_50 #Yngve71
+    mother = KIST_75 #Ragnhild207
+    576.1.1 = {
+        birth = yes
+    }
+}
+
+KIST_300 = {
+    name = "Sigrun378"
+    culture = "kistry"
+    faith = "sylvan_heart"
+    female = yes
+    dynasty = KISTD3 #KistDyn3
+    father = KIST_285 #Jarl138
+    mother = KIST_5 #Estrid203
+    582.1.1 = {
+        birth = yes
+    }
+}
+
+KIST_301 = {
+    name = "Sigurd384"
+    culture = "kistry"
+    faith = "sylvan_heart"
+    dynasty = KISTD3 #KistDyn3
+    father = KIST_298 #Rolf139
+    mother = KIST_16 #Hilde79
+    576.1.1 = {
+        birth = yes
+    }
+}
+
+KIST_302 = {
+    name = "Sunniva377"
+    culture = "kistry"
+    faith = "sylvan_heart"
+    female = yes
+    dynasty = KISTD3 #KistDyn3
+    father = KIST_285 #Jarl138
+    mother = KIST_5 #Estrid203
+    581.1.1 = {
+        birth = yes
+    }
+}
+
+KIST_303 = {
+    name = "Thyra15"
+    culture = "kistry"
+    faith = "sylvan_heart"
+    female = yes
+    dynasty = KISTD3 #KistDyn3
+    father = KIST_296 #Per11
+    526.1.1 = {
+        birth = yes
+    }
+    540.1.1 = {
+        add_spouse = KIST_132 #Arvid58
+    }
+    572.1.1 = {
+        death = yes
+    }
+}
+
+KIST_304 = {
+    name = "Torhild387"
+    culture = "kistry"
+    faith = "sylvan_heart"
+    female = yes
+    dynasty = KISTD3 #KistDyn3
+    father = KIST_281 #Gustav140
+    mother = KIST_89 #Estrid96
+    579.1.1 = {
+        birth = yes
+    }
+}
+
+KIST_305 = {
+    name = "Ulf386"
+    culture = "kistry"
+    faith = "sylvan_heart"
+    dynasty = KISTD3 #KistDyn3
+    father = KIST_298 #Rolf139
+    mother = KIST_16 #Hilde79
+    580.1.1 = {
+        birth = yes
+    }
+}
+
+KIST_306 = {
+    name = "Alfhild150"
+    culture = "kistry"
+    faith = "sylvan_heart"
+    female = yes
+    dynasty = KISTD4 #KistDyn4
+    father = KIST_314 #Hakan18
+    mother = KIST_187 #Sigrun64
+    553.1.1 = {
+        birth = yes
+    }
+    572.1.1 = {
+        add_spouse = KIST_431 #Olof178
+    }
+}
+
+KIST_307 = {
+    name = "Bodil148"
+    culture = "kistry"
+    faith = "sylvan_heart"
+    female = yes
+    dynasty = KISTD4 #KistDyn4
+    father = KIST_314 #Hakan18
+    mother = KIST_187 #Sigrun64
+    550.1.1 = {
+        birth = yes
+    }
+    578.1.1 = {
+        add_spouse = KIST_430 #Olof176
+    }
+}
+
+KIST_308 = {
+    name = "Egil145"
+    culture = "kistry"
+    faith = "sylvan_heart"
+    dynasty = KISTD4 #KistDyn4
+    father = KIST_315 #Halsten17
+    mother = KIST_149 #Ragnhild59
+    550.1.1 = {
+        birth = yes
+    }
+    570.1.1 = {
+        add_spouse = KIST_137 #Gerd99
+    }
+}
+
+KIST_309 = {
+    name = "Erik416"
+    culture = "kistry"
+    faith = "sylvan_heart"
+    dynasty = KISTD4 #KistDyn4
+    father = KIST_335 #Sune153
+    mother = KIST_176 #Kristina109
+    574.1.1 = {
+        birth = yes
+    }
+}
+
+KIST_31 = {
+    name = "Nils245"
+    culture = "kistry"
+    faith = "sylvan_heart"
+    dynasty = KISTD1 #KistDyn1
+    father = KIST_21 #Karl81
+    mother = KIST_103 #Malin98
+    572.1.1 = {
+        birth = yes
+    }
+}
+
+KIST_310 = {
+    name = "Gerd407"
+    culture = "kistry"
+    faith = "sylvan_heart"
+    female = yes
+    dynasty = KISTD4 #KistDyn4
+    father = KIST_312 #Gustav149
+    mother = KIST_134 #Birgitta103
+    584.1.1 = {
+        birth = yes
+    }
+}
+
+KIST_311 = {
+    name = "Gunnar412"
+    culture = "kistry"
+    faith = "sylvan_heart"
+    dynasty = KISTD4 #KistDyn4
+    father = KIST_319 #Ivar151
+    mother = KIST_180 #Malin108
+    578.1.1 = {
+        birth = yes
+    }
+}
+
+KIST_312 = {
+    name = "Gustav149"
+    culture = "kistry"
+    faith = "sylvan_heart"
+    dynasty = KISTD4 #KistDyn4
+    father = KIST_314 #Hakan18
+    mother = KIST_187 #Sigrun64
+    552.1.1 = {
+        birth = yes
+    }
+    578.1.1 = {
+        add_spouse = KIST_134 #Birgitta103
+    }
+}
+
+KIST_313 = {
+    name = "Hakan16"
+    culture = "kistry"
+    faith = "sylvan_heart"
+    dynasty = KISTD4 #KistDyn4
+    483.1.1 = {
+        birth = yes
+    }
+    554.1.1 = {
+        death = yes
+    }
+}
+
+KIST_314 = {
+    name = "Hakan18"
+    culture = "kistry"
+    faith = "sylvan_heart"
+    dynasty = KISTD4 #KistDyn4
+    father = KIST_313 #Hakan16
+    521.1.1 = {
+        birth = yes
+    }
+    548.1.1 = {
+        add_spouse = KIST_187 #Sigrun64
+    }
+    574.1.1 = {
+        death = yes
+    }
+}
+
+KIST_315 = {
+    name = "Halsten17"
+    culture = "kistry"
+    faith = "sylvan_heart"
+    dynasty = KISTD4 #KistDyn4
+    father = KIST_313 #Hakan16
+    518.1.1 = {
+        birth = yes
+    }
+    541.1.1 = {
+        add_spouse = KIST_149 #Ragnhild59
+    }
+    571.1.1 = {
+        death = yes
+    }
+}
+
+KIST_316 = {
+    name = "Hedvig400"
+    culture = "kistry"
+    faith = "sylvan_heart"
+    female = yes
+    dynasty = KISTD4 #KistDyn4
+    father = KIST_308 #Egil145
+    mother = KIST_137 #Gerd99
+    577.1.1 = {
+        birth = yes
+    }
+}
+
+KIST_317 = {
+    name = "Ingvar402"
+    culture = "kistry"
+    faith = "sylvan_heart"
+    dynasty = KISTD4 #KistDyn4
+    father = KIST_328 #Ragnar146
+    mother = KIST_136 #Gerd106
+    569.1.1 = {
+        birth = yes
+    }
+    586.1.1 = {
+        add_spouse = KIST_7 #Frida221
+    }
+}
+
+KIST_318 = {
+    name = "Ingvar409"
+    culture = "kistry"
+    faith = "sylvan_heart"
+    dynasty = KISTD4 #KistDyn4
+    father = KIST_319 #Ivar151
+    mother = KIST_180 #Malin108
+    573.1.1 = {
+        birth = yes
+    }
+}
+
+KIST_319 = {
+    name = "Ivar151"
+    culture = "kistry"
+    faith = "sylvan_heart"
+    dynasty = KISTD4 #KistDyn4
+    father = KIST_314 #Hakan18
+    mother = KIST_187 #Sigrun64
+    555.1.1 = {
+        birth = yes
+    }
+    572.1.1 = {
+        add_spouse = KIST_180 #Malin108
+    }
+}
+
+KIST_32 = {
+    name = "Per226"
+    culture = "kistry"
+    faith = "sylvan_heart"
+    dynasty = KISTD1 #KistDyn1
+    father = KIST_13 #Halsten78
+    mother = KIST_84 #Yngvild82
+    578.1.1 = {
+        birth = yes
+    }
+}
+
+KIST_320 = {
+    name = "Jarl404"
+    culture = "kistry"
+    faith = "sylvan_heart"
+    dynasty = KISTD4 #KistDyn4
+    father = KIST_312 #Gustav149
+    mother = KIST_134 #Birgitta103
+    579.1.1 = {
+        birth = yes
+    }
+}
+
+KIST_321 = {
+    name = "Karl414"
+    culture = "kistry"
+    faith = "sylvan_heart"
+    dynasty = KISTD4 #KistDyn4
+    father = KIST_335 #Sune153
+    mother = KIST_176 #Kristina109
+    570.1.1 = {
+        birth = yes
+    }
+    586.1.1 = {
+        add_spouse = KIST_158 #Ulla298
+    }
+}
+
+KIST_322 = {
+    name = "Kristina410"
+    culture = "kistry"
+    faith = "sylvan_heart"
+    female = yes
+    dynasty = KISTD4 #KistDyn4
+    father = KIST_319 #Ivar151
+    mother = KIST_180 #Malin108
+    574.1.1 = {
+        birth = yes
+    }
+}
+
+KIST_323 = {
+    name = "Lagertha399"
+    culture = "kistry"
+    faith = "sylvan_heart"
+    female = yes
+    dynasty = KISTD4 #KistDyn4
+    father = KIST_308 #Egil145
+    mother = KIST_137 #Gerd99
+    576.1.1 = {
+        birth = yes
+    }
+}
+
+KIST_324 = {
+    name = "Lars403"
+    culture = "kistry"
+    faith = "sylvan_heart"
+    dynasty = KISTD4 #KistDyn4
+    father = KIST_328 #Ragnar146
+    mother = KIST_136 #Gerd106
+    570.1.1 = {
+        birth = yes
+    }
+    586.1.1 = {
+        add_spouse = KIST_71 #Kristina258
+    }
+}
+
+KIST_325 = {
+    name = "Magnus397"
+    culture = "kistry"
+    faith = "sylvan_heart"
+    dynasty = KISTD4 #KistDyn4
+    father = KIST_308 #Egil145
+    mother = KIST_137 #Gerd99
+    573.1.1 = {
+        birth = yes
+    }
+}
+
+KIST_326 = {
+    name = "Malin398"
+    culture = "kistry"
+    faith = "sylvan_heart"
+    female = yes
+    dynasty = KISTD4 #KistDyn4
+    father = KIST_308 #Egil145
+    mother = KIST_137 #Gerd99
+    575.1.1 = {
+        birth = yes
+    }
+}
+
+KIST_327 = {
+    name = "Margareta147"
+    culture = "kistry"
+    faith = "sylvan_heart"
+    female = yes
+    dynasty = KISTD4 #KistDyn4
+    father = KIST_315 #Halsten17
+    mother = KIST_149 #Ragnhild59
+    552.1.1 = {
+        birth = yes
+    }
+    572.1.1 = {
+        add_spouse = KIST_172 #Jon115
+    }
+}
+
+KIST_328 = {
+    name = "Ragnar146"
+    culture = "kistry"
+    faith = "sylvan_heart"
+    dynasty = KISTD4 #KistDyn4
+    father = KIST_315 #Halsten17
+    mother = KIST_149 #Ragnhild59
+    551.1.1 = {
+        birth = yes
+    }
+    566.1.1 = {
+        add_spouse = KIST_136 #Gerd106
+    }
+}
+
+KIST_329 = {
+    name = "Rikard408"
+    culture = "kistry"
+    faith = "sylvan_heart"
+    dynasty = KISTD4 #KistDyn4
+    father = KIST_312 #Gustav149
+    mother = KIST_134 #Birgitta103
+    585.1.1 = {
+        birth = yes
+    }
+}
+
+KIST_33 = {
+    name = "Per80"
+    culture = "kistry"
+    faith = "sylvan_heart"
+    dynasty = KISTD1 #KistDyn1
+    father = KIST_23 #Lars3
+    mother = KIST_60 #Hedvig50
+    556.1.1 = {
+        birth = yes
+    }
+    576.1.1 = {
+        add_spouse = KIST_82 #Tora85
+    }
+}
+
+KIST_330 = {
+    name = "Rikard418"
+    culture = "kistry"
+    faith = "sylvan_heart"
+    dynasty = KISTD4 #KistDyn4
+    father = KIST_335 #Sune153
+    mother = KIST_176 #Kristina109
+    578.1.1 = {
+        birth = yes
+    }
+}
+
+KIST_331 = {
+    name = "Sigrid20"
+    culture = "kistry"
+    faith = "sylvan_heart"
+    female = yes
+    dynasty = KISTD4 #KistDyn4
+    father = KIST_313 #Hakan16
+    527.1.1 = {
+        birth = yes
+    }
+    544.1.1 = {
+        add_spouse = KIST_175 #Kettil62
+    }
+    574.1.1 = {
+        death = yes
+    }
+}
+
+KIST_332 = {
+    name = "Sigrid396"
+    culture = "kistry"
+    faith = "sylvan_heart"
+    female = yes
+    dynasty = KISTD4 #KistDyn4
+    father = KIST_308 #Egil145
+    mother = KIST_137 #Gerd99
+    571.1.1 = {
+        birth = yes
+    }
+    586.1.1 = {
+        add_spouse = KIST_459 #Hakan511
+    }
+}
+
+KIST_333 = {
+    name = "Sigurd406"
+    culture = "kistry"
+    faith = "sylvan_heart"
+    dynasty = KISTD4 #KistDyn4
+    father = KIST_312 #Gustav149
+    mother = KIST_134 #Birgitta103
+    582.1.1 = {
+        birth = yes
+    }
+}
+
+KIST_334 = {
+    name = "Sten411"
+    culture = "kistry"
+    faith = "sylvan_heart"
+    dynasty = KISTD4 #KistDyn4
+    father = KIST_319 #Ivar151
+    mother = KIST_180 #Malin108
+    576.1.1 = {
+        birth = yes
+    }
+}
+
+KIST_335 = {
+    name = "Sune153"
+    culture = "kistry"
+    faith = "sylvan_heart"
+    dynasty = KISTD4 #KistDyn4
+    father = KIST_314 #Hakan18
+    mother = KIST_187 #Sigrun64
+    558.1.1 = {
+        birth = yes
+    }
+    569.1.1 = {
+        add_spouse = KIST_176 #Kristina109
+    }
+}
+
+KIST_336 = {
+    name = "Sune401"
+    culture = "kistry"
+    faith = "sylvan_heart"
+    dynasty = KISTD4 #KistDyn4
+    father = KIST_328 #Ragnar146
+    mother = KIST_136 #Gerd106
+    567.1.1 = {
+        birth = yes
+    }
+    586.1.1 = {
+        add_spouse = KIST_22 #Lagertha219
+    }
+}
+
+KIST_337 = {
+    name = "Sverker405"
+    culture = "kistry"
+    faith = "sylvan_heart"
+    dynasty = KISTD4 #KistDyn4
+    father = KIST_312 #Gustav149
+    mother = KIST_134 #Birgitta103
+    580.1.1 = {
+        birth = yes
+    }
+}
+
+KIST_338 = {
+    name = "Tora415"
+    culture = "kistry"
+    faith = "sylvan_heart"
+    female = yes
+    dynasty = KISTD4 #KistDyn4
+    father = KIST_335 #Sune153
+    mother = KIST_176 #Kristina109
+    572.1.1 = {
+        birth = yes
+    }
+}
+
+KIST_339 = {
+    name = "Ulla19"
+    culture = "kistry"
+    faith = "sylvan_heart"
+    female = yes
+    dynasty = KISTD4 #KistDyn4
+    father = KIST_313 #Hakan16
+    524.1.1 = {
+        birth = yes
+    }
+    549.1.1 = {
+        add_spouse = KIST_401 #Sten28
+    }
+    568.1.1 = {
+        death = yes
+    }
+}
+
+KIST_34 = {
+    name = "Ragnar223"
+    culture = "kistry"
+    faith = "sylvan_heart"
+    dynasty = KISTD1 #KistDyn1
+    father = KIST_41 #Sigurd76
+    mother = KIST_78 #Runa86
+    573.1.1 = {
+        birth = yes
+    }
+}
+
+KIST_340 = {
+    name = "Ulla417"
+    culture = "kistry"
+    faith = "sylvan_heart"
+    female = yes
+    dynasty = KISTD4 #KistDyn4
+    father = KIST_335 #Sune153
+    mother = KIST_176 #Kristina109
+    576.1.1 = {
+        birth = yes
+    }
+}
+
+KIST_341 = {
+    name = "Valdemar413"
+    culture = "kistry"
+    faith = "sylvan_heart"
+    dynasty = KISTD4 #KistDyn4
+    father = KIST_319 #Ivar151
+    mother = KIST_180 #Malin108
+    580.1.1 = {
+        birth = yes
+    }
+}
+
+KIST_342 = {
+    name = "Ylva201"
+    culture = "kistry"
+    faith = "sylvan_heart"
+    female = yes
+    dynasty = KISTD4 #KistDyn4
+    547.1.1 = {
+        birth = yes
+    }
+    571.1.1 = {
+        add_spouse = KIST_160 #Yngve104
+    }
+}
+
+KIST_343 = {
+    name = "Yngvild152"
+    culture = "kistry"
+    faith = "sylvan_heart"
+    female = yes
+    dynasty = KISTD4 #KistDyn4
+    father = KIST_314 #Hakan18
+    mother = KIST_187 #Sigrun64
+    556.1.1 = {
+        birth = yes
+    }
+    568.1.1 = {
+        add_spouse = KIST_194 #Valdemar110
+    }
+}
+
+KIST_344 = {
+    name = "Birgitta419"
+    culture = "kistry"
+    faith = "sylvan_heart"
+    female = yes
+    dynasty = KISTD5 #KistDyn5
+    father = KIST_359 #Jon157
+    mother = KIST_183 #Ragnhild111
+    576.1.1 = {
+        birth = yes
+    }
+}
+
+KIST_345 = {
+    name = "Birgitta423"
+    culture = "kistry"
+    faith = "sylvan_heart"
+    female = yes
+    dynasty = KISTD5 #KistDyn5
+    father = KIST_359 #Jon157
+    mother = KIST_183 #Ragnhild111
+    580.1.1 = {
+        birth = yes
+    }
+}
+
+KIST_346 = {
+    name = "Bjorn160"
+    culture = "kistry"
+    faith = "sylvan_heart"
+    dynasty = KISTD5 #KistDyn5
+    father = KIST_365 #Per23
+    mother = KIST_264 #Solveig9
+    554.1.1 = {
+        birth = yes
+    }
+    572.1.1 = {
+        add_spouse = KIST_202 #Freydis125
+    }
+}
+
+KIST_347 = {
+    name = "Bo421"
+    culture = "kistry"
+    faith = "sylvan_heart"
+    dynasty = KISTD5 #KistDyn5
+    father = KIST_359 #Jon157
+    mother = KIST_183 #Ragnhild111
+    578.1.1 = {
+        birth = yes
+    }
+}
+
+KIST_348 = {
+    name = "Frida162"
+    culture = "kistry"
+    faith = "sylvan_heart"
+    female = yes
+    dynasty = KISTD5 #KistDyn5
+    father = KIST_365 #Per23
+    mother = KIST_264 #Solveig9
+    558.1.1 = {
+        birth = yes
+    }
+    569.1.1 = {
+        add_spouse = KIST_492 #Ulf184
+    }
+}
+
+KIST_349 = {
+    name = "Gerd24"
+    culture = "kistry"
+    faith = "sylvan_heart"
+    female = yes
+    dynasty = KISTD5 #KistDyn5
+    father = KIST_351 #Gunnar21
+    525.1.1 = {
+        birth = yes
+    }
+    538.1.1 = {
+        add_spouse = KIST_423 #Halsten32
+    }
+    580.1.1 = {
+        death = yes
+    }
+}
+
+KIST_35 = {
+    name = "Ragnar241"
+    culture = "kistry"
+    faith = "sylvan_heart"
+    dynasty = KISTD1 #KistDyn1
+    father = KIST_39 #Rolf75
+    mother = KIST_88 #Estrid205
+    582.1.1 = {
+        birth = yes
+    }
+}
+
+KIST_350 = {
+    name = "Gunhild430"
+    culture = "kistry"
+    faith = "sylvan_heart"
+    female = yes
+    dynasty = KISTD5 #KistDyn5
+    father = KIST_352 #Gustav156
+    mother = KIST_229 #Saga117
+    575.1.1 = {
+        birth = yes
+    }
+}
+
+KIST_351 = {
+    name = "Gunnar21"
+    culture = "kistry"
+    faith = "sylvan_heart"
+    dynasty = KISTD5 #KistDyn5
+    484.1.1 = {
+        birth = yes
+    }
+    546.1.1 = {
+        death = yes
+    }
+}
+
+KIST_352 = {
+    name = "Gustav156"
+    culture = "kistry"
+    faith = "sylvan_heart"
+    dynasty = KISTD5 #KistDyn5
+    father = KIST_362 #Leif22
+    mother = KIST_208 #Gunhild69
+    553.1.1 = {
+        birth = yes
+    }
+    566.1.1 = {
+        add_spouse = KIST_229 #Saga117
+    }
+}
+
+KIST_353 = {
+    name = "Gustav434"
+    culture = "kistry"
+    faith = "sylvan_heart"
+    dynasty = KISTD5 #KistDyn5
+    father = KIST_346 #Bjorn160
+    mother = KIST_202 #Freydis125
+    573.1.1 = {
+        birth = yes
+    }
+}
+
+KIST_354 = {
+    name = "Halsten428"
+    culture = "kistry"
+    faith = "sylvan_heart"
+    dynasty = KISTD5 #KistDyn5
+    father = KIST_352 #Gustav156
+    mother = KIST_229 #Saga117
+    572.1.1 = {
+        birth = yes
+    }
+}
+
+KIST_355 = {
+    name = "Helga158"
+    culture = "kistry"
+    faith = "sylvan_heart"
+    female = yes
+    dynasty = KISTD5 #KistDyn5
+    father = KIST_365 #Per23
+    mother = KIST_264 #Solveig9
+    551.1.1 = {
+        birth = yes
+    }
+    578.1.1 = {
+        add_spouse = KIST_162 #Bo112
+    }
+}
+
+KIST_356 = {
+    name = "Ingeborg25"
+    culture = "kistry"
+    faith = "sylvan_heart"
+    female = yes
+    dynasty = KISTD5 #KistDyn5
+    father = KIST_351 #Gunnar21
+    528.1.1 = {
+        birth = yes
+    }
+    536.1.1 = {
+        add_spouse = KIST_179 #Magnus63
+    }
+    579.1.1 = {
+        death = yes
+    }
+}
+
+KIST_357 = {
+    name = "Ivar159"
+    culture = "kistry"
+    faith = "sylvan_heart"
+    dynasty = KISTD5 #KistDyn5
+    father = KIST_365 #Per23
+    mother = KIST_264 #Solveig9
+    553.1.1 = {
+        birth = yes
+    }
+    574.1.1 = {
+        add_spouse = KIST_206 #Gunborg124
+    }
+}
+
+KIST_358 = {
+    name = "Ivar420"
+    culture = "kistry"
+    faith = "sylvan_heart"
+    dynasty = KISTD5 #KistDyn5
+    father = KIST_359 #Jon157
+    mother = KIST_183 #Ragnhild111
+    577.1.1 = {
+        birth = yes
+    }
+}
+
+KIST_359 = {
+    name = "Jon157"
+    culture = "kistry"
+    faith = "sylvan_heart"
+    dynasty = KISTD5 #KistDyn5
+    father = KIST_365 #Per23
+    mother = KIST_264 #Solveig9
+    550.1.1 = {
+        birth = yes
+    }
+    575.1.1 = {
+        add_spouse = KIST_183 #Ragnhild111
+    }
+}
+
+KIST_36 = {
+    name = "Ragnhild237"
+    culture = "kistry"
+    faith = "sylvan_heart"
+    female = yes
+    dynasty = KISTD1 #KistDyn1
+    father = KIST_33 #Per80
+    mother = KIST_82 #Tora85
+    582.1.1 = {
+        birth = yes
+    }
+}
+
+KIST_360 = {
+    name = "Jon435"
+    culture = "kistry"
+    faith = "sylvan_heart"
+    dynasty = KISTD5 #KistDyn5
+    father = KIST_346 #Bjorn160
+    mother = KIST_202 #Freydis125
+    575.1.1 = {
+        birth = yes
+    }
+}
+
+KIST_361 = {
+    name = "Kristina433"
+    culture = "kistry"
+    faith = "sylvan_heart"
+    female = yes
+    dynasty = KISTD5 #KistDyn5
+    father = KIST_357 #Ivar159
+    mother = KIST_206 #Gunborg124
+    578.1.1 = {
+        birth = yes
+    }
+}
+
+KIST_362 = {
+    name = "Leif22"
+    culture = "kistry"
+    faith = "sylvan_heart"
+    dynasty = KISTD5 #KistDyn5
+    father = KIST_351 #Gunnar21
+    519.1.1 = {
+        birth = yes
+    }
+    550.1.1 = {
+        add_spouse = KIST_208 #Gunhild69
+    }
+    575.1.1 = {
+        death = yes
+    }
+}
+
+KIST_363 = {
+    name = "Linnea424"
+    culture = "kistry"
+    faith = "sylvan_heart"
+    female = yes
+    dynasty = KISTD5 #KistDyn5
+    father = KIST_359 #Jon157
+    mother = KIST_183 #Ragnhild111
+    582.1.1 = {
+        birth = yes
+    }
+}
+
+KIST_364 = {
+    name = "Olof436"
+    culture = "kistry"
+    faith = "sylvan_heart"
+    dynasty = KISTD5 #KistDyn5
+    father = KIST_346 #Bjorn160
+    mother = KIST_202 #Freydis125
+    577.1.1 = {
+        birth = yes
+    }
+}
+
+KIST_365 = {
+    name = "Per23"
+    culture = "kistry"
+    faith = "sylvan_heart"
+    dynasty = KISTD5 #KistDyn5
+    father = KIST_351 #Gunnar21
+    522.1.1 = {
+        birth = yes
+    }
+    547.1.1 = {
+        add_spouse = KIST_264 #Solveig9
+    }
+    582.1.1 = {
+        death = yes
+    }
+}
+
+KIST_366 = {
+    name = "Rolf422"
+    culture = "kistry"
+    faith = "sylvan_heart"
+    dynasty = KISTD5 #KistDyn5
+    father = KIST_359 #Jon157
+    mother = KIST_183 #Ragnhild111
+    579.1.1 = {
+        birth = yes
+    }
+}
+
+KIST_367 = {
+    name = "Runa208"
+    culture = "kistry"
+    faith = "sylvan_heart"
+    female = yes
+    dynasty = KISTD5 #KistDyn5
+    539.1.1 = {
+        birth = yes
+    }
+    572.1.1 = {
+        add_spouse = KIST_434 #Rolf173
+    }
+}
+
+KIST_368 = {
+    name = "Signe155"
+    culture = "kistry"
+    faith = "sylvan_heart"
+    female = yes
+    dynasty = KISTD5 #KistDyn5
+    father = KIST_362 #Leif22
+    mother = KIST_208 #Gunhild69
+    552.1.1 = {
+        birth = yes
+    }
+    571.1.1 = {
+        add_spouse = KIST_470 #Lars179
+    }
+}
+
+KIST_369 = {
+    name = "Signe212"
+    culture = "kistry"
+    faith = "sylvan_heart"
+    female = yes
+    dynasty = KISTD5 #KistDyn5
+    542.1.1 = {
+        birth = yes
+    }
+    568.1.1 = {
+        add_spouse = KIST_174 #Kettil116
+    }
+}
+
+KIST_37 = {
+    name = "Rikard216"
+    culture = "kistry"
+    faith = "sylvan_heart"
+    dynasty = KISTD1 #KistDyn1
+    father = KIST_50 #Yngve71
+    mother = KIST_75 #Ragnhild207
+    574.1.1 = {
+        birth = yes
+    }
+}
+
+KIST_370 = {
+    name = "Sigrun161"
+    culture = "kistry"
+    faith = "sylvan_heart"
+    female = yes
+    dynasty = KISTD5 #KistDyn5
+    father = KIST_365 #Per23
+    mother = KIST_264 #Solveig9
+    556.1.1 = {
+        birth = yes
+    }
+    568.1.1 = {
+        add_spouse = KIST_225 #Ragnar118
+    }
+}
+
+KIST_371 = {
+    name = "Styrbjorn426"
+    culture = "kistry"
+    faith = "sylvan_heart"
+    dynasty = KISTD5 #KistDyn5
+    father = KIST_352 #Gustav156
+    mother = KIST_229 #Saga117
+    569.1.1 = {
+        birth = yes
+    }
+    586.1.1 = {
+        add_spouse = KIST_138 #Gunhild300
+    }
+}
+
+KIST_372 = {
+    name = "Styrbjorn432"
+    culture = "kistry"
+    faith = "sylvan_heart"
+    dynasty = KISTD5 #KistDyn5
+    father = KIST_357 #Ivar159
+    mother = KIST_206 #Gunborg124
+    576.1.1 = {
+        birth = yes
+    }
+}
+
+KIST_373 = {
+    name = "Sunniva427"
+    culture = "kistry"
+    faith = "sylvan_heart"
+    female = yes
+    dynasty = KISTD5 #KistDyn5
+    father = KIST_352 #Gustav156
+    mother = KIST_229 #Saga117
+    570.1.1 = {
+        birth = yes
+    }
+    586.1.1 = {
+        add_spouse = KIST_514 #Mats523
+    }
+}
+
+KIST_374 = {
+    name = "Tora431"
+    culture = "kistry"
+    faith = "sylvan_heart"
+    female = yes
+    dynasty = KISTD5 #KistDyn5
+    father = KIST_357 #Ivar159
+    mother = KIST_206 #Gunborg124
+    575.1.1 = {
+        birth = yes
+    }
+}
+
+KIST_375 = {
+    name = "Ulf429"
+    culture = "kistry"
+    faith = "sylvan_heart"
+    dynasty = KISTD5 #KistDyn5
+    father = KIST_352 #Gustav156
+    mother = KIST_229 #Saga117
+    574.1.1 = {
+        birth = yes
+    }
+}
+
+KIST_376 = {
+    name = "Ulvhild154"
+    culture = "kistry"
+    faith = "sylvan_heart"
+    female = yes
+    dynasty = KISTD5 #KistDyn5
+    father = KIST_362 #Leif22
+    mother = KIST_208 #Gunhild69
+    551.1.1 = {
+        birth = yes
+    }
+    577.1.1 = {
+        add_spouse = KIST_426 #Leif175
+    }
+}
+
+KIST_377 = {
+    name = "Ulvhild425"
+    culture = "kistry"
+    faith = "sylvan_heart"
+    female = yes
+    dynasty = KISTD5 #KistDyn5
+    father = KIST_352 #Gustav156
+    mother = KIST_229 #Saga117
+    567.1.1 = {
+        birth = yes
+    }
+    586.1.1 = {
+        add_spouse = KIST_178 #Leif324
+    }
+}
+
+KIST_378 = {
+    name = "Birger169"
+    culture = "kistry"
+    faith = "sylvan_heart"
+    dynasty = KISTD6 #KistDyn6
+    father = KIST_401 #Sten28
+    mother = KIST_339 #Ulla19
+    553.1.1 = {
+        birth = yes
+    }
+    578.1.1 = {
+        add_spouse = KIST_239 #Estrid131
+    }
+}
+
+KIST_379 = {
+    name = "Birger457"
+    culture = "kistry"
+    faith = "sylvan_heart"
+    dynasty = KISTD6 #KistDyn6
+    father = KIST_400 #Sten166
+    mother = KIST_279 #Gunhild144
+    580.1.1 = {
+        birth = yes
+    }
+}
+
+KIST_38 = {
+    name = "Rikard222"
+    culture = "kistry"
+    faith = "sylvan_heart"
+    dynasty = KISTD1 #KistDyn1
+    father = KIST_41 #Sigurd76
+    mother = KIST_78 #Runa86
+    572.1.1 = {
+        birth = yes
+    }
+}
+
+KIST_380 = {
+    name = "Bjorn450"
+    culture = "kistry"
+    faith = "sylvan_heart"
+    dynasty = KISTD6 #KistDyn6
+    father = KIST_378 #Birger169
+    mother = KIST_239 #Estrid131
+    586.1.1 = {
+        birth = yes
+    }
+}
+
+KIST_381 = {
+    name = "Bo164"
+    culture = "kistry"
+    faith = "sylvan_heart"
+    dynasty = KISTD6 #KistDyn6
+    father = KIST_386 #Isak27
+    mother = KIST_291 #Kristina14
+    552.1.1 = {
+        birth = yes
+    }
+    575.1.1 = {
+        add_spouse = KIST_240 #Estrid132
+    }
+}
+
+KIST_382 = {
+    name = "Estrid437"
+    culture = "kistry"
+    faith = "sylvan_heart"
+    female = yes
+    dynasty = KISTD6 #KistDyn6
+    father = KIST_408 #Ulf167
+    mother = KIST_248 #Helga206
+    569.1.1 = {
+        birth = yes
+    }
+    586.1.1 = {
+        add_spouse = KIST_190 #Styrbjorn325
+    }
+}
+
+KIST_383 = {
+    name = "Gustav460"
+    culture = "kistry"
+    faith = "sylvan_heart"
+    dynasty = KISTD6 #KistDyn6
+    father = KIST_400 #Sten166
+    mother = KIST_279 #Gunhild144
+    584.1.1 = {
+        birth = yes
+    }
+}
+
+KIST_384 = {
+    name = "Hilde163"
+    culture = "kistry"
+    faith = "sylvan_heart"
+    female = yes
+    dynasty = KISTD6 #KistDyn6
+    father = KIST_386 #Isak27
+    mother = KIST_291 #Kristina14
+    550.1.1 = {
+        birth = yes
+    }
+    577.1.1 = {
+        add_spouse = KIST_224 #Nils119
+    }
+}
+
+KIST_385 = {
+    name = "Ingrid458"
+    culture = "kistry"
+    faith = "sylvan_heart"
+    female = yes
+    dynasty = KISTD6 #KistDyn6
+    father = KIST_400 #Sten166
+    mother = KIST_279 #Gunhild144
+    582.1.1 = {
+        birth = yes
+    }
+}
+
+KIST_386 = {
+    name = "Isak27"
+    culture = "kistry"
+    faith = "sylvan_heart"
+    dynasty = KISTD6 #KistDyn6
+    father = KIST_409 #Ulf26
+    520.1.1 = {
+        birth = yes
+    }
+    542.1.1 = {
+        add_spouse = KIST_291 #Kristina14
+    }
+    568.1.1 = {
+        death = yes
+    }
+}
+
+KIST_387 = {
+    name = "Isak452"
+    culture = "kistry"
+    faith = "sylvan_heart"
+    dynasty = KISTD6 #KistDyn6
+    father = KIST_411 #Yngve165
+    mother = KIST_260 #Malin137
+    575.1.1 = {
+        birth = yes
+    }
+}
+
+KIST_388 = {
+    name = "Lars438"
+    culture = "kistry"
+    faith = "sylvan_heart"
+    dynasty = KISTD6 #KistDyn6
+    father = KIST_408 #Ulf167
+    mother = KIST_248 #Helga206
+    570.1.1 = {
+        birth = yes
+    }
+    586.1.1 = {
+        add_spouse = KIST_222 #Linnea355
+    }
+}
+
+KIST_389 = {
+    name = "Lars447"
+    culture = "kistry"
+    faith = "sylvan_heart"
+    dynasty = KISTD6 #KistDyn6
+    father = KIST_378 #Birger169
+    mother = KIST_239 #Estrid131
+    581.1.1 = {
+        birth = yes
+    }
+}
+
+KIST_39 = {
+    name = "Rolf75"
+    culture = "kistry"
+    faith = "sylvan_heart"
+    dynasty = KISTD1 #KistDyn1
+    father = KIST_24 #Leif2
+    mother = KIST_73 #Malin49
+    557.1.1 = {
+        birth = yes
+    }
+    577.1.1 = {
+        add_spouse = KIST_88 #Estrid205
+    }
+}
+
+KIST_390 = {
+    name = "Margareta439"
+    culture = "kistry"
+    faith = "sylvan_heart"
+    female = yes
+    dynasty = KISTD6 #KistDyn6
+    father = KIST_408 #Ulf167
+    mother = KIST_248 #Helga206
+    571.1.1 = {
+        birth = yes
+    }
+    586.1.1 = {
+        add_spouse = KIST_504 #Hakan512
+    }
+}
+
+KIST_391 = {
+    name = "Margareta453"
+    culture = "kistry"
+    faith = "sylvan_heart"
+    female = yes
+    dynasty = KISTD6 #KistDyn6
+    father = KIST_411 #Yngve165
+    mother = KIST_260 #Malin137
+    577.1.1 = {
+        birth = yes
+    }
+}
+
+KIST_392 = {
+    name = "Nils443"
+    culture = "kistry"
+    faith = "sylvan_heart"
+    dynasty = KISTD6 #KistDyn6
+    father = KIST_381 #Bo164
+    mother = KIST_240 #Estrid132
+    580.1.1 = {
+        birth = yes
+    }
+}
+
+KIST_393 = {
+    name = "Nils448"
+    culture = "kistry"
+    faith = "sylvan_heart"
+    dynasty = KISTD6 #KistDyn6
+    father = KIST_378 #Birger169
+    mother = KIST_239 #Estrid131
+    583.1.1 = {
+        birth = yes
+    }
+}
+
+KIST_394 = {
+    name = "Rikard455"
+    culture = "kistry"
+    faith = "sylvan_heart"
+    dynasty = KISTD6 #KistDyn6
+    father = KIST_400 #Sten166
+    mother = KIST_279 #Gunhild144
+    578.1.1 = {
+        birth = yes
+    }
+}
+
+KIST_395 = {
+    name = "Rikissa445"
+    culture = "kistry"
+    faith = "sylvan_heart"
+    female = yes
+    dynasty = KISTD6 #KistDyn6
+    father = KIST_378 #Birger169
+    mother = KIST_239 #Estrid131
+    579.1.1 = {
+        birth = yes
+    }
+}
+
+KIST_396 = {
+    name = "Signe454"
+    culture = "kistry"
+    faith = "sylvan_heart"
+    female = yes
+    dynasty = KISTD6 #KistDyn6
+    father = KIST_411 #Yngve165
+    mother = KIST_260 #Malin137
+    579.1.1 = {
+        birth = yes
+    }
+}
+
+KIST_397 = {
+    name = "Sigrid449"
+    culture = "kistry"
+    faith = "sylvan_heart"
+    female = yes
+    dynasty = KISTD6 #KistDyn6
+    father = KIST_378 #Birger169
+    mother = KIST_239 #Estrid131
+    584.1.1 = {
+        birth = yes
+    }
+}
+
+KIST_398 = {
+    name = "Sigrun446"
+    culture = "kistry"
+    faith = "sylvan_heart"
+    female = yes
+    dynasty = KISTD6 #KistDyn6
+    father = KIST_378 #Birger169
+    mother = KIST_239 #Estrid131
+    580.1.1 = {
+        birth = yes
+    }
+}
+
+KIST_399 = {
+    name = "Solveig168"
+    culture = "kistry"
+    faith = "sylvan_heart"
+    female = yes
+    dynasty = KISTD6 #KistDyn6
+    father = KIST_401 #Sten28
+    mother = KIST_339 #Ulla19
+    551.1.1 = {
+        birth = yes
+    }
+    575.1.1 = {
+        add_spouse = KIST_466 #Karl180
+    }
+}
+
+KIST_4 = {
+    name = "Elin246"
+    culture = "kistry"
+    faith = "sylvan_heart"
+    female = yes
+    dynasty = KISTD1 #KistDyn1
+    father = KIST_21 #Karl81
+    mother = KIST_103 #Malin98
+    573.1.1 = {
+        birth = yes
+    }
+}
+
+KIST_40 = {
+    name = "Sigrun5"
+    culture = "kistry"
+    faith = "sylvan_heart"
+    female = yes
+    dynasty = KISTD1 #KistDyn1
+    father = KIST_43 #Sten1
+    524.1.1 = {
+        birth = yes
+    }
+    548.1.1 = {
+        add_spouse = KIST_277 #Bo12
+    }
+    583.1.1 = {
+        death = yes
+    }
+}
+
+KIST_400 = {
+    name = "Sten166"
+    culture = "kistry"
+    faith = "sylvan_heart"
+    dynasty = KISTD6 #KistDyn6
+    father = KIST_386 #Isak27
+    mother = KIST_291 #Kristina14
+    555.1.1 = {
+        birth = yes
+    }
+    577.1.1 = {
+        add_spouse = KIST_279 #Gunhild144
+    }
+}
+
+KIST_401 = {
+    name = "Sten28"
+    culture = "kistry"
+    faith = "sylvan_heart"
+    dynasty = KISTD6 #KistDyn6
+    father = KIST_409 #Ulf26
+    523.1.1 = {
+        birth = yes
+    }
+    549.1.1 = {
+        add_spouse = KIST_339 #Ulla19
+    }
+    580.1.1 = {
+        death = yes
+    }
+}
+
+KIST_402 = {
+    name = "Styrbjorn440"
+    culture = "kistry"
+    faith = "sylvan_heart"
+    dynasty = KISTD6 #KistDyn6
+    father = KIST_408 #Ulf167
+    mother = KIST_248 #Helga206
+    573.1.1 = {
+        birth = yes
+    }
+}
+
+KIST_403 = {
+    name = "Sunniva456"
+    culture = "kistry"
+    faith = "sylvan_heart"
+    female = yes
+    dynasty = KISTD6 #KistDyn6
+    father = KIST_400 #Sten166
+    mother = KIST_279 #Gunhild144
+    579.1.1 = {
+        birth = yes
+    }
+}
+
+KIST_404 = {
+    name = "Thyra444"
+    culture = "kistry"
+    faith = "sylvan_heart"
+    female = yes
+    dynasty = KISTD6 #KistDyn6
+    father = KIST_381 #Bo164
+    mother = KIST_240 #Estrid132
+    582.1.1 = {
+        birth = yes
+    }
+}
+
+KIST_405 = {
+    name = "Tore451"
+    culture = "kistry"
+    faith = "sylvan_heart"
+    dynasty = KISTD6 #KistDyn6
+    father = KIST_411 #Yngve165
+    mother = KIST_260 #Malin137
+    573.1.1 = {
+        birth = yes
+    }
+}
+
+KIST_406 = {
+    name = "Torhild29"
+    culture = "kistry"
+    faith = "sylvan_heart"
+    female = yes
+    dynasty = KISTD6 #KistDyn6
+    father = KIST_409 #Ulf26
+    526.1.1 = {
+        birth = yes
+    }
+    537.1.1 = {
+        add_spouse = KIST_424 #Jarl33
+    }
+    579.1.1 = {
+        death = yes
+    }
+}
+
+KIST_407 = {
+    name = "Torsten441"
+    culture = "kistry"
+    faith = "sylvan_heart"
+    dynasty = KISTD6 #KistDyn6
+    father = KIST_381 #Bo164
+    mother = KIST_240 #Estrid132
+    576.1.1 = {
+        birth = yes
+    }
+}
+
+KIST_408 = {
+    name = "Ulf167"
+    culture = "kistry"
+    faith = "sylvan_heart"
+    dynasty = KISTD6 #KistDyn6
+    father = KIST_401 #Sten28
+    mother = KIST_339 #Ulla19
+    550.1.1 = {
+        birth = yes
+    }
+    568.1.1 = {
+        add_spouse = KIST_248 #Helga206
+    }
+}
+
+KIST_409 = {
+    name = "Ulf26"
+    culture = "kistry"
+    faith = "sylvan_heart"
+    dynasty = KISTD6 #KistDyn6
+    485.1.1 = {
+        birth = yes
+    }
+    544.1.1 = {
+        death = yes
+    }
+}
+
+KIST_41 = {
+    name = "Sigurd76"
+    culture = "kistry"
+    faith = "sylvan_heart"
+    dynasty = KISTD1 #KistDyn1
+    father = KIST_23 #Lars3
+    mother = KIST_60 #Hedvig50
+    550.1.1 = {
+        birth = yes
+    }
+    566.1.1 = {
+        add_spouse = KIST_78 #Runa86
+    }
+}
+
+KIST_410 = {
+    name = "Ulvhild30"
+    culture = "kistry"
+    faith = "sylvan_heart"
+    female = yes
+    dynasty = KISTD6 #KistDyn6
+    father = KIST_409 #Ulf26
+    529.1.1 = {
+        birth = yes
+    }
+    542.1.1 = {
+        add_spouse = KIST_237 #Torsten67
+    }
+    572.1.1 = {
+        death = yes
+    }
+}
+
+KIST_411 = {
+    name = "Yngve165"
+    culture = "kistry"
+    faith = "sylvan_heart"
+    dynasty = KISTD6 #KistDyn6
+    father = KIST_386 #Isak27
+    mother = KIST_291 #Kristina14
+    554.1.1 = {
+        birth = yes
+    }
+    572.1.1 = {
+        add_spouse = KIST_260 #Malin137
+    }
+}
+
+KIST_412 = {
+    name = "Yngve459"
+    culture = "kistry"
+    faith = "sylvan_heart"
+    dynasty = KISTD6 #KistDyn6
+    father = KIST_400 #Sten166
+    mother = KIST_279 #Gunhild144
+    583.1.1 = {
+        birth = yes
+    }
+}
+
+KIST_413 = {
+    name = "Yngvild442"
+    culture = "kistry"
+    faith = "sylvan_heart"
+    female = yes
+    dynasty = KISTD6 #KistDyn6
+    father = KIST_381 #Bo164
+    mother = KIST_240 #Estrid132
+    578.1.1 = {
+        birth = yes
+    }
+}
+
+KIST_414 = {
+    name = "Alfhild199"
+    culture = "kistry"
+    faith = "sylvan_heart"
+    female = yes
+    dynasty = KISTD7 #KistDyn7
+    548.1.1 = {
+        birth = yes
+    }
+    578.1.1 = {
+        add_spouse = KIST_468 #Kettil185
+    }
+}
+
+KIST_415 = {
+    name = "Alfhild35"
+    culture = "kistry"
+    faith = "sylvan_heart"
+    female = yes
+    dynasty = KISTD7 #KistDyn7
+    father = KIST_416 #Bjorn31
+    530.1.1 = {
+        birth = yes
+    }
+    540.1.1 = {
+        add_spouse = KIST_232 #Sten68
+    }
+    575.1.1 = {
+        death = yes
+    }
+}
+
+KIST_416 = {
+    name = "Bjorn31"
+    culture = "kistry"
+    faith = "sylvan_heart"
+    dynasty = KISTD7 #KistDyn7
+    486.1.1 = {
+        birth = yes
+    }
+    554.1.1 = {
+        death = yes
+    }
+}
+
+KIST_417 = {
+    name = "Bjorn468"
+    culture = "kistry"
+    faith = "sylvan_heart"
+    dynasty = KISTD7 #KistDyn7
+    father = KIST_431 #Olof178
+    mother = KIST_306 #Alfhild150
+    575.1.1 = {
+        birth = yes
+    }
+}
+
+KIST_418 = {
+    name = "Bodil170"
+    culture = "kistry"
+    faith = "sylvan_heart"
+    female = yes
+    dynasty = KISTD7 #KistDyn7
+    father = KIST_423 #Halsten32
+    mother = KIST_349 #Gerd24
+    550.1.1 = {
+        birth = yes
+    }
+    574.1.1 = {
+        add_spouse = KIST_236 #Torsten122
+    }
+}
+
+KIST_419 = {
+    name = "Egil466"
+    culture = "kistry"
+    faith = "sylvan_heart"
+    dynasty = KISTD7 #KistDyn7
+    father = KIST_430 #Olof176
+    mother = KIST_307 #Bodil148
+    587.1.1 = {
+        birth = yes
+    }
+}
+
+KIST_42 = {
+    name = "Solveig72"
+    culture = "kistry"
+    faith = "sylvan_heart"
+    female = yes
+    dynasty = KISTD1 #KistDyn1
+    father = KIST_24 #Leif2
+    mother = KIST_73 #Malin49
+    552.1.1 = {
+        birth = yes
+    }
+    566.1.1 = {
+        add_spouse = KIST_510 #Ivar195
+    }
+}
+
+KIST_420 = {
+    name = "Egil476"
+    culture = "kistry"
+    faith = "sylvan_heart"
+    dynasty = KISTD7 #KistDyn7
+    father = KIST_426 #Leif175
+    mother = KIST_376 #Ulvhild154
+    580.1.1 = {
+        birth = yes
+    }
+}
+
+KIST_421 = {
+    name = "Frida172"
+    culture = "kistry"
+    faith = "sylvan_heart"
+    female = yes
+    dynasty = KISTD7 #KistDyn7
+    father = KIST_423 #Halsten32
+    mother = KIST_349 #Gerd24
+    553.1.1 = {
+        birth = yes
+    }
+    574.1.1 = {
+        add_spouse = KIST_490 #Tore182
+    }
+}
+
+KIST_422 = {
+    name = "Gunborg464"
+    culture = "kistry"
+    faith = "sylvan_heart"
+    female = yes
+    dynasty = KISTD7 #KistDyn7
+    father = KIST_430 #Olof176
+    mother = KIST_307 #Bodil148
+    584.1.1 = {
+        birth = yes
+    }
+}
+
+KIST_423 = {
+    name = "Halsten32"
+    culture = "kistry"
+    faith = "sylvan_heart"
+    dynasty = KISTD7 #KistDyn7
+    father = KIST_416 #Bjorn31
+    521.1.1 = {
+        birth = yes
+    }
+    538.1.1 = {
+        add_spouse = KIST_349 #Gerd24
+    }
+    575.1.1 = {
+        death = yes
+    }
+}
+
+KIST_424 = {
+    name = "Jarl33"
+    culture = "kistry"
+    faith = "sylvan_heart"
+    dynasty = KISTD7 #KistDyn7
+    father = KIST_416 #Bjorn31
+    524.1.1 = {
+        birth = yes
+    }
+    537.1.1 = {
+        add_spouse = KIST_406 #Torhild29
+    }
+    568.1.1 = {
+        death = yes
+    }
+}
+
+KIST_425 = {
+    name = "Karl465"
+    culture = "kistry"
+    faith = "sylvan_heart"
+    dynasty = KISTD7 #KistDyn7
+    father = KIST_430 #Olof176
+    mother = KIST_307 #Bodil148
+    586.1.1 = {
+        birth = yes
+    }
+}
+
+KIST_426 = {
+    name = "Leif175"
+    culture = "kistry"
+    faith = "sylvan_heart"
+    dynasty = KISTD7 #KistDyn7
+    father = KIST_423 #Halsten32
+    mother = KIST_349 #Gerd24
+    557.1.1 = {
+        birth = yes
+    }
+    577.1.1 = {
+        add_spouse = KIST_376 #Ulvhild154
+    }
+}
+
+KIST_427 = {
+    name = "Leif473"
+    culture = "kistry"
+    faith = "sylvan_heart"
+    dynasty = KISTD7 #KistDyn7
+    father = KIST_434 #Rolf173
+    mother = KIST_367 #Runa208
+    575.1.1 = {
+        birth = yes
+    }
+}
+
+KIST_428 = {
+    name = "Linnea177"
+    culture = "kistry"
+    faith = "sylvan_heart"
+    female = yes
+    dynasty = KISTD7 #KistDyn7
+    father = KIST_424 #Jarl33
+    mother = KIST_406 #Torhild29
+    551.1.1 = {
+        birth = yes
+    }
+    570.1.1 = {
+        add_spouse = KIST_231 #Sigurd126
+    }
+}
+
+KIST_429 = {
+    name = "Mats463"
+    culture = "kistry"
+    faith = "sylvan_heart"
+    dynasty = KISTD7 #KistDyn7
+    father = KIST_430 #Olof176
+    mother = KIST_307 #Bodil148
+    582.1.1 = {
+        birth = yes
+    }
+}
+
+KIST_43 = {
+    name = "Sten1"
+    culture = "kistry"
+    faith = "sylvan_heart"
+    dynasty = KISTD1 #KistDyn1
+    480.1.1 = {
+        birth = yes
+    }
+    561.1.1 = {
+        death = yes
+    }
+}
+
+KIST_430 = {
+    name = "Olof176"
+    culture = "kistry"
+    faith = "sylvan_heart"
+    dynasty = KISTD7 #KistDyn7
+    father = KIST_424 #Jarl33
+    mother = KIST_406 #Torhild29
+    550.1.1 = {
+        birth = yes
+    }
+    578.1.1 = {
+        add_spouse = KIST_307 #Bodil148
+    }
+}
+
+KIST_431 = {
+    name = "Olof178"
+    culture = "kistry"
+    faith = "sylvan_heart"
+    dynasty = KISTD7 #KistDyn7
+    father = KIST_424 #Jarl33
+    mother = KIST_406 #Torhild29
+    552.1.1 = {
+        birth = yes
+    }
+    572.1.1 = {
+        add_spouse = KIST_306 #Alfhild150
+    }
+}
+
+KIST_432 = {
+    name = "Olof461"
+    culture = "kistry"
+    faith = "sylvan_heart"
+    dynasty = KISTD7 #KistDyn7
+    father = KIST_430 #Olof176
+    mother = KIST_307 #Bodil148
+    579.1.1 = {
+        birth = yes
+    }
+}
+
+KIST_433 = {
+    name = "Ragnhild202"
+    culture = "kistry"
+    faith = "sylvan_heart"
+    female = yes
+    dynasty = KISTD7 #KistDyn7
+    540.1.1 = {
+        birth = yes
+    }
+    575.1.1 = {
+        add_spouse = KIST_218 #Lars120
+    }
+}
+
+KIST_434 = {
+    name = "Rolf173"
+    culture = "kistry"
+    faith = "sylvan_heart"
+    dynasty = KISTD7 #KistDyn7
+    father = KIST_423 #Halsten32
+    mother = KIST_349 #Gerd24
+    554.1.1 = {
+        birth = yes
+    }
+    572.1.1 = {
+        add_spouse = KIST_367 #Runa208
+    }
+}
+
+KIST_435 = {
+    name = "Sigrun477"
+    culture = "kistry"
+    faith = "sylvan_heart"
+    female = yes
+    dynasty = KISTD7 #KistDyn7
+    father = KIST_426 #Leif175
+    mother = KIST_376 #Ulvhild154
+    582.1.1 = {
+        birth = yes
+    }
+}
+
+KIST_436 = {
+    name = "Solveig462"
+    culture = "kistry"
+    faith = "sylvan_heart"
+    female = yes
+    dynasty = KISTD7 #KistDyn7
+    father = KIST_430 #Olof176
+    mother = KIST_307 #Bodil148
+    581.1.1 = {
+        birth = yes
+    }
+}
+
+KIST_437 = {
+    name = "Styrbjorn471"
+    culture = "kistry"
+    faith = "sylvan_heart"
+    dynasty = KISTD7 #KistDyn7
+    father = KIST_431 #Olof178
+    mother = KIST_306 #Alfhild150
+    580.1.1 = {
+        birth = yes
+    }
+}
+
+KIST_438 = {
+    name = "Sune469"
+    culture = "kistry"
+    faith = "sylvan_heart"
+    dynasty = KISTD7 #KistDyn7
+    father = KIST_431 #Olof178
+    mother = KIST_306 #Alfhild150
+    577.1.1 = {
+        birth = yes
+    }
+}
+
+KIST_439 = {
+    name = "Sunniva174"
+    culture = "kistry"
+    faith = "sylvan_heart"
+    female = yes
+    dynasty = KISTD7 #KistDyn7
+    father = KIST_423 #Halsten32
+    mother = KIST_349 #Gerd24
+    556.1.1 = {
+        birth = yes
+    }
+    569.1.1 = {
+        add_spouse = KIST_199 #Bo127
+    }
+}
+
+KIST_44 = {
+    name = "Tora4"
+    culture = "kistry"
+    faith = "sylvan_heart"
+    female = yes
+    dynasty = KISTD1 #KistDyn1
+    father = KIST_43 #Sten1
+    521.1.1 = {
+        birth = yes
+    }
+    548.1.1 = {
+        add_spouse = KIST_521 #Styrbjorn42
+    }
+    573.1.1 = {
+        death = yes
+    }
+}
+
+KIST_440 = {
+    name = "Thyra467"
+    culture = "kistry"
+    faith = "sylvan_heart"
+    female = yes
+    dynasty = KISTD7 #KistDyn7
+    father = KIST_431 #Olof178
+    mother = KIST_306 #Alfhild150
+    573.1.1 = {
+        birth = yes
+    }
+}
+
+KIST_441 = {
+    name = "Thyra472"
+    culture = "kistry"
+    faith = "sylvan_heart"
+    female = yes
+    dynasty = KISTD7 #KistDyn7
+    father = KIST_434 #Rolf173
+    mother = KIST_367 #Runa208
+    573.1.1 = {
+        birth = yes
+    }
+}
+
+KIST_442 = {
+    name = "Thyra474"
+    culture = "kistry"
+    faith = "sylvan_heart"
+    female = yes
+    dynasty = KISTD7 #KistDyn7
+    father = KIST_434 #Rolf173
+    mother = KIST_367 #Runa208
+    577.1.1 = {
+        birth = yes
+    }
+}
+
+KIST_443 = {
+    name = "Tora171"
+    culture = "kistry"
+    faith = "sylvan_heart"
+    female = yes
+    dynasty = KISTD7 #KistDyn7
+    father = KIST_423 #Halsten32
+    mother = KIST_349 #Gerd24
+    551.1.1 = {
+        birth = yes
+    }
+    573.1.1 = {
+        add_spouse = KIST_457 #Gustav186
+    }
+}
+
+KIST_444 = {
+    name = "Torsten475"
+    culture = "kistry"
+    faith = "sylvan_heart"
+    dynasty = KISTD7 #KistDyn7
+    father = KIST_426 #Leif175
+    mother = KIST_376 #Ulvhild154
+    578.1.1 = {
+        birth = yes
+    }
+}
+
+KIST_445 = {
+    name = "Ulla470"
+    culture = "kistry"
+    faith = "sylvan_heart"
+    female = yes
+    dynasty = KISTD7 #KistDyn7
+    father = KIST_431 #Olof178
+    mother = KIST_306 #Alfhild150
+    579.1.1 = {
+        birth = yes
+    }
+}
+
+KIST_446 = {
+    name = "Yngvild34"
+    culture = "kistry"
+    faith = "sylvan_heart"
+    female = yes
+    dynasty = KISTD7 #KistDyn7
+    father = KIST_416 #Bjorn31
+    527.1.1 = {
+        birth = yes
+    }
+    547.1.1 = {
+        add_spouse = KIST_464 #Ivar37
+    }
+    569.1.1 = {
+        death = yes
+    }
+}
+
+KIST_447 = {
+    name = "Alfhild508"
+    culture = "kistry"
+    faith = "sylvan_heart"
+    female = yes
+    dynasty = KISTD8 #KistDyn8
+    father = KIST_480 #Rolf183
+    mother = KIST_527 #Thyra200
+    567.1.1 = {
+        birth = yes
+    }
+    586.1.1 = {
+        add_spouse = KIST_267 #Torgils364
+    }
+}
+
+KIST_448 = {
+    name = "Asta509"
+    culture = "kistry"
+    faith = "sylvan_heart"
+    female = yes
+    dynasty = KISTD8 #KistDyn8
+    father = KIST_480 #Rolf183
+    mother = KIST_527 #Thyra200
+    568.1.1 = {
+        birth = yes
+    }
+    586.1.1 = {
+        add_spouse = KIST_524 #Sune524
+    }
+}
+
+KIST_449 = {
+    name = "Bodil181"
+    culture = "kistry"
+    faith = "sylvan_heart"
+    female = yes
+    dynasty = KISTD8 #KistDyn8
+    father = KIST_464 #Ivar37
+    mother = KIST_446 #Yngvild34
+    553.1.1 = {
+        birth = yes
+    }
+    568.1.1 = {
+        add_spouse = KIST_498 #Egil188
+    }
+}
+
+KIST_45 = {
+    name = "Torhild73"
+    culture = "kistry"
+    faith = "sylvan_heart"
+    female = yes
+    dynasty = KISTD1 #KistDyn1
+    father = KIST_24 #Leif2
+    mother = KIST_73 #Malin49
+    554.1.1 = {
+        birth = yes
+    }
+    574.1.1 = {
+        add_spouse = KIST_523 #Sune196
+    }
+}
+
+KIST_450 = {
+    name = "Elin484"
+    culture = "kistry"
+    faith = "sylvan_heart"
+    female = yes
+    dynasty = KISTD8 #KistDyn8
+    father = KIST_492 #Ulf184
+    mother = KIST_348 #Frida162
+    573.1.1 = {
+        birth = yes
+    }
+}
+
+KIST_451 = {
+    name = "Folke503"
+    culture = "kistry"
+    faith = "sylvan_heart"
+    dynasty = KISTD8 #KistDyn8
+    father = KIST_490 #Tore182
+    mother = KIST_421 #Frida172
+    576.1.1 = {
+        birth = yes
+    }
+}
+
+KIST_452 = {
+    name = "Freydis510"
+    culture = "kistry"
+    faith = "sylvan_heart"
+    female = yes
+    dynasty = KISTD8 #KistDyn8
+    father = KIST_480 #Rolf183
+    mother = KIST_527 #Thyra200
+    570.1.1 = {
+        birth = yes
+    }
+    586.1.1 = {
+        add_spouse = KIST_247 #Gunnar365
+    }
+}
+
+KIST_453 = {
+    name = "Frida497"
+    culture = "kistry"
+    faith = "sylvan_heart"
+    female = yes
+    dynasty = KISTD8 #KistDyn8
+    father = KIST_457 #Gustav186
+    mother = KIST_443 #Tora171
+    574.1.1 = {
+        birth = yes
+    }
+}
+
+KIST_454 = {
+    name = "Gerd488"
+    culture = "kistry"
+    faith = "sylvan_heart"
+    female = yes
+    dynasty = KISTD8 #KistDyn8
+    father = KIST_466 #Karl180
+    mother = KIST_399 #Solveig168
+    576.1.1 = {
+        birth = yes
+    }
+}
+
+KIST_455 = {
+    name = "Gunhild39"
+    culture = "kistry"
+    faith = "sylvan_heart"
+    female = yes
+    dynasty = KISTD8 #KistDyn8
+    father = KIST_484 #Sigurd36
+    521.1.1 = {
+        birth = yes
+    }
+    547.1.1 = {
+        add_spouse = KIST_511 #Karl43
+    }
+    581.1.1 = {
+        death = yes
+    }
+}
+
+KIST_456 = {
+    name = "Gunhild493"
+    culture = "kistry"
+    faith = "sylvan_heart"
+    female = yes
+    dynasty = KISTD8 #KistDyn8
+    father = KIST_468 #Kettil185
+    mother = KIST_414 #Alfhild199
+    579.1.1 = {
+        birth = yes
+    }
+}
+
+KIST_457 = {
+    name = "Gustav186"
+    culture = "kistry"
+    faith = "sylvan_heart"
+    dynasty = KISTD8 #KistDyn8
+    father = KIST_485 #Sigurd38
+    mother = KIST_496 #Birgitta44
+    554.1.1 = {
+        birth = yes
+    }
+    573.1.1 = {
+        add_spouse = KIST_443 #Tora171
+    }
+}
+
+KIST_458 = {
+    name = "Hakan506"
+    culture = "kistry"
+    faith = "sylvan_heart"
+    dynasty = KISTD8 #KistDyn8
+    father = KIST_490 #Tore182
+    mother = KIST_421 #Frida172
+    580.1.1 = {
+        birth = yes
+    }
+}
+
+KIST_459 = {
+    name = "Hakan511"
+    culture = "kistry"
+    faith = "sylvan_heart"
+    dynasty = KISTD8 #KistDyn8
+    father = KIST_480 #Rolf183
+    mother = KIST_527 #Thyra200
+    571.1.1 = {
+        birth = yes
+    }
+    586.1.1 = {
+        add_spouse = KIST_332 #Sigrid396
+    }
+}
+
+KIST_46 = {
+    name = "Torsten234"
+    culture = "kistry"
+    faith = "sylvan_heart"
+    dynasty = KISTD1 #KistDyn1
+    father = KIST_33 #Per80
+    mother = KIST_82 #Tora85
+    577.1.1 = {
+        birth = yes
+    }
+}
+
+KIST_460 = {
+    name = "Hedvig487"
+    culture = "kistry"
+    faith = "sylvan_heart"
+    female = yes
+    dynasty = KISTD8 #KistDyn8
+    father = KIST_492 #Ulf184
+    mother = KIST_348 #Frida162
+    576.1.1 = {
+        birth = yes
+    }
+}
+
+KIST_461 = {
+    name = "Helga492"
+    culture = "kistry"
+    faith = "sylvan_heart"
+    female = yes
+    dynasty = KISTD8 #KistDyn8
+    father = KIST_466 #Karl180
+    mother = KIST_399 #Solveig168
+    582.1.1 = {
+        birth = yes
+    }
+}
+
+KIST_462 = {
+    name = "Ingrid501"
+    culture = "kistry"
+    faith = "sylvan_heart"
+    female = yes
+    dynasty = KISTD8 #KistDyn8
+    father = KIST_457 #Gustav186
+    mother = KIST_443 #Tora171
+    581.1.1 = {
+        birth = yes
+    }
+}
+
+KIST_463 = {
+    name = "Ingvar504"
+    culture = "kistry"
+    faith = "sylvan_heart"
+    dynasty = KISTD8 #KistDyn8
+    father = KIST_490 #Tore182
+    mother = KIST_421 #Frida172
+    577.1.1 = {
+        birth = yes
+    }
+}
+
+KIST_464 = {
+    name = "Ivar37"
+    culture = "kistry"
+    faith = "sylvan_heart"
+    dynasty = KISTD8 #KistDyn8
+    father = KIST_484 #Sigurd36
+    515.1.1 = {
+        birth = yes
+    }
+    547.1.1 = {
+        add_spouse = KIST_446 #Yngvild34
+    }
+    570.1.1 = {
+        death = yes
+    }
+}
+
+KIST_465 = {
+    name = "Karin496"
+    culture = "kistry"
+    faith = "sylvan_heart"
+    female = yes
+    dynasty = KISTD8 #KistDyn8
+    father = KIST_468 #Kettil185
+    mother = KIST_414 #Alfhild199
+    584.1.1 = {
+        birth = yes
+    }
+}
+
+KIST_466 = {
+    name = "Karl180"
+    culture = "kistry"
+    faith = "sylvan_heart"
+    dynasty = KISTD8 #KistDyn8
+    father = KIST_464 #Ivar37
+    mother = KIST_446 #Yngvild34
+    551.1.1 = {
+        birth = yes
+    }
+    575.1.1 = {
+        add_spouse = KIST_399 #Solveig168
+    }
+}
+
+KIST_467 = {
+    name = "Karl486"
+    culture = "kistry"
+    faith = "sylvan_heart"
+    dynasty = KISTD8 #KistDyn8
+    father = KIST_492 #Ulf184
+    mother = KIST_348 #Frida162
+    575.1.1 = {
+        birth = yes
+    }
+}
+
+KIST_468 = {
+    name = "Kettil185"
+    culture = "kistry"
+    faith = "sylvan_heart"
+    dynasty = KISTD8 #KistDyn8
+    father = KIST_485 #Sigurd38
+    mother = KIST_496 #Birgitta44
+    552.1.1 = {
+        birth = yes
+    }
+    578.1.1 = {
+        add_spouse = KIST_414 #Alfhild199
+    }
+}
+
+KIST_469 = {
+    name = "Knut478"
+    culture = "kistry"
+    faith = "sylvan_heart"
+    dynasty = KISTD8 #KistDyn8
+    father = KIST_470 #Lars179
+    mother = KIST_368 #Signe155
+    572.1.1 = {
+        birth = yes
+    }
+}
+
+KIST_47 = {
+    name = "Ulla227"
+    culture = "kistry"
+    faith = "sylvan_heart"
+    female = yes
+    dynasty = KISTD1 #KistDyn1
+    father = KIST_13 #Halsten78
+    mother = KIST_84 #Yngvild82
+    579.1.1 = {
+        birth = yes
+    }
+}
+
+KIST_470 = {
+    name = "Lars179"
+    culture = "kistry"
+    faith = "sylvan_heart"
+    dynasty = KISTD8 #KistDyn8
+    father = KIST_464 #Ivar37
+    mother = KIST_446 #Yngvild34
+    550.1.1 = {
+        birth = yes
+    }
+    571.1.1 = {
+        add_spouse = KIST_368 #Signe155
+    }
+}
+
+KIST_471 = {
+    name = "Magnus498"
+    culture = "kistry"
+    faith = "sylvan_heart"
+    dynasty = KISTD8 #KistDyn8
+    father = KIST_457 #Gustav186
+    mother = KIST_443 #Tora171
+    575.1.1 = {
+        birth = yes
+    }
+}
+
+KIST_472 = {
+    name = "Malin491"
+    culture = "kistry"
+    faith = "sylvan_heart"
+    female = yes
+    dynasty = KISTD8 #KistDyn8
+    father = KIST_466 #Karl180
+    mother = KIST_399 #Solveig168
+    581.1.1 = {
+        birth = yes
+    }
+}
+
+KIST_473 = {
+    name = "Margareta502"
+    culture = "kistry"
+    faith = "sylvan_heart"
+    female = yes
+    dynasty = KISTD8 #KistDyn8
+    father = KIST_490 #Tore182
+    mother = KIST_421 #Frida172
+    575.1.1 = {
+        birth = yes
+    }
+}
+
+KIST_474 = {
+    name = "Mats479"
+    culture = "kistry"
+    faith = "sylvan_heart"
+    dynasty = KISTD8 #KistDyn8
+    father = KIST_470 #Lars179
+    mother = KIST_368 #Signe155
+    573.1.1 = {
+        birth = yes
+    }
+}
+
+KIST_475 = {
+    name = "Mats499"
+    culture = "kistry"
+    faith = "sylvan_heart"
+    dynasty = KISTD8 #KistDyn8
+    father = KIST_457 #Gustav186
+    mother = KIST_443 #Tora171
+    577.1.1 = {
+        birth = yes
+    }
+}
+
+KIST_476 = {
+    name = "Nils480"
+    culture = "kistry"
+    faith = "sylvan_heart"
+    dynasty = KISTD8 #KistDyn8
+    father = KIST_470 #Lars179
+    mother = KIST_368 #Signe155
+    575.1.1 = {
+        birth = yes
+    }
+}
+
+KIST_477 = {
+    name = "Per490"
+    culture = "kistry"
+    faith = "sylvan_heart"
+    dynasty = KISTD8 #KistDyn8
+    father = KIST_466 #Karl180
+    mother = KIST_399 #Solveig168
+    579.1.1 = {
+        birth = yes
+    }
+}
+
+KIST_478 = {
+    name = "Ragnhild500"
+    culture = "kistry"
+    faith = "sylvan_heart"
+    female = yes
+    dynasty = KISTD8 #KistDyn8
+    father = KIST_457 #Gustav186
+    mother = KIST_443 #Tora171
+    579.1.1 = {
+        birth = yes
+    }
+}
+
+KIST_479 = {
+    name = "Rikard505"
+    culture = "kistry"
+    faith = "sylvan_heart"
+    dynasty = KISTD8 #KistDyn8
+    father = KIST_490 #Tore182
+    mother = KIST_421 #Frida172
+    578.1.1 = {
+        birth = yes
+    }
+}
+
+KIST_48 = {
+    name = "Valdemar238"
+    culture = "kistry"
+    faith = "sylvan_heart"
+    dynasty = KISTD1 #KistDyn1
+    father = KIST_39 #Rolf75
+    mother = KIST_88 #Estrid205
+    578.1.1 = {
+        birth = yes
+    }
+}
+
+KIST_480 = {
+    name = "Rolf183"
+    culture = "kistry"
+    faith = "sylvan_heart"
+    dynasty = KISTD8 #KistDyn8
+    father = KIST_464 #Ivar37
+    mother = KIST_446 #Yngvild34
+    557.1.1 = {
+        birth = yes
+    }
+    566.1.1 = {
+        add_spouse = KIST_527 #Thyra200
+    }
+}
+
+KIST_481 = {
+    name = "Runa483"
+    culture = "kistry"
+    faith = "sylvan_heart"
+    female = yes
+    dynasty = KISTD8 #KistDyn8
+    father = KIST_492 #Ulf184
+    mother = KIST_348 #Frida162
+    572.1.1 = {
+        birth = yes
+    }
+}
+
+KIST_482 = {
+    name = "Runa494"
+    culture = "kistry"
+    faith = "sylvan_heart"
+    female = yes
+    dynasty = KISTD8 #KistDyn8
+    father = KIST_468 #Kettil185
+    mother = KIST_414 #Alfhild199
+    581.1.1 = {
+        birth = yes
+    }
+}
+
+KIST_483 = {
+    name = "Sigrid507"
+    culture = "kistry"
+    faith = "sylvan_heart"
+    female = yes
+    dynasty = KISTD8 #KistDyn8
+    father = KIST_490 #Tore182
+    mother = KIST_421 #Frida172
+    582.1.1 = {
+        birth = yes
+    }
+}
+
+KIST_484 = {
+    name = "Sigurd36"
+    culture = "kistry"
+    faith = "sylvan_heart"
+    dynasty = KISTD8 #KistDyn8
+    487.1.1 = {
+        birth = yes
+    }
+    542.1.1 = {
+        death = yes
+    }
+}
+
+KIST_485 = {
+    name = "Sigurd38"
+    culture = "kistry"
+    faith = "sylvan_heart"
+    dynasty = KISTD8 #KistDyn8
+    father = KIST_484 #Sigurd36
+    518.1.1 = {
+        birth = yes
+    }
+    537.1.1 = {
+        add_spouse = KIST_496 #Birgitta44
+    }
+    571.1.1 = {
+        death = yes
+    }
+}
+
+KIST_486 = {
+    name = "Sten481"
+    culture = "kistry"
+    faith = "sylvan_heart"
+    dynasty = KISTD8 #KistDyn8
+    father = KIST_470 #Lars179
+    mother = KIST_368 #Signe155
+    576.1.1 = {
+        birth = yes
+    }
+}
+
+KIST_487 = {
+    name = "Sunniva485"
+    culture = "kistry"
+    faith = "sylvan_heart"
+    female = yes
+    dynasty = KISTD8 #KistDyn8
+    father = KIST_492 #Ulf184
+    mother = KIST_348 #Frida162
+    574.1.1 = {
+        birth = yes
+    }
+}
+
+KIST_488 = {
+    name = "Sverker495"
+    culture = "kistry"
+    faith = "sylvan_heart"
+    dynasty = KISTD8 #KistDyn8
+    father = KIST_468 #Kettil185
+    mother = KIST_414 #Alfhild199
+    583.1.1 = {
+        birth = yes
+    }
+}
+
+KIST_489 = {
+    name = "Tora187"
+    culture = "kistry"
+    faith = "sylvan_heart"
+    female = yes
+    dynasty = KISTD8 #KistDyn8
+    father = KIST_485 #Sigurd38
+    mother = KIST_496 #Birgitta44
+    556.1.1 = {
+        birth = yes
+    }
+    576.1.1 = {
+        add_spouse = KIST_258 #Lars133
+    }
+}
+
+KIST_49 = {
+    name = "Ylva233"
+    culture = "kistry"
+    faith = "sylvan_heart"
+    female = yes
+    dynasty = KISTD1 #KistDyn1
+    father = KIST_3 #Birger74
+    mother = KIST_64 #Ingrid84
+    584.1.1 = {
+        birth = yes
+    }
+}
+
+KIST_490 = {
+    name = "Tore182"
+    culture = "kistry"
+    faith = "sylvan_heart"
+    dynasty = KISTD8 #KistDyn8
+    father = KIST_464 #Ivar37
+    mother = KIST_446 #Yngvild34
+    555.1.1 = {
+        birth = yes
+    }
+    574.1.1 = {
+        add_spouse = KIST_421 #Frida172
+    }
+}
+
+KIST_491 = {
+    name = "Torhild40"
+    culture = "kistry"
+    faith = "sylvan_heart"
+    female = yes
+    dynasty = KISTD8 #KistDyn8
+    father = KIST_484 #Sigurd36
+    524.1.1 = {
+        birth = yes
+    }
+    542.1.1 = {
+        add_spouse = KIST_254 #Jon7
+    }
+    579.1.1 = {
+        death = yes
+    }
+}
+
+KIST_492 = {
+    name = "Ulf184"
+    culture = "kistry"
+    faith = "sylvan_heart"
+    dynasty = KISTD8 #KistDyn8
+    father = KIST_485 #Sigurd38
+    mother = KIST_496 #Birgitta44
+    550.1.1 = {
+        birth = yes
+    }
+    569.1.1 = {
+        add_spouse = KIST_348 #Frida162
+    }
+}
+
+KIST_493 = {
+    name = "Yngve482"
+    culture = "kistry"
+    faith = "sylvan_heart"
+    dynasty = KISTD8 #KistDyn8
+    father = KIST_492 #Ulf184
+    mother = KIST_348 #Frida162
+    570.1.1 = {
+        birth = yes
+    }
+    586.1.1 = {
+        add_spouse = KIST_196 #Alfhild352
+    }
+}
+
+KIST_494 = {
+    name = "Yngve489"
+    culture = "kistry"
+    faith = "sylvan_heart"
+    dynasty = KISTD8 #KistDyn8
+    father = KIST_466 #Karl180
+    mother = KIST_399 #Solveig168
+    578.1.1 = {
+        birth = yes
+    }
+}
+
+KIST_495 = {
+    name = "Birgitta197"
+    culture = "kistry"
+    faith = "sylvan_heart"
+    female = yes
+    dynasty = KISTD9 #KistDyn9
+    father = KIST_511 #Karl43
+    mother = KIST_455 #Gunhild39
+    556.1.1 = {
+        birth = yes
+    }
+    578.1.1 = {
+        add_spouse = KIST_252 #Jon135
+    }
+}
+
+KIST_496 = {
+    name = "Birgitta44"
+    culture = "kistry"
+    faith = "sylvan_heart"
+    female = yes
+    dynasty = KISTD9 #KistDyn9
+    father = KIST_529 #Torsten41
+    522.1.1 = {
+        birth = yes
+    }
+    537.1.1 = {
+        add_spouse = KIST_485 #Sigurd38
+    }
+    568.1.1 = {
+        death = yes
+    }
+}
+
+KIST_497 = {
+    name = "Birgitta515"
+    culture = "kistry"
+    faith = "sylvan_heart"
+    female = yes
+    dynasty = KISTD9 #KistDyn9
+    father = KIST_498 #Egil188
+    mother = KIST_449 #Bodil181
+    575.1.1 = {
+        birth = yes
+    }
+}
+
+KIST_498 = {
+    name = "Egil188"
+    culture = "kistry"
+    faith = "sylvan_heart"
+    dynasty = KISTD9 #KistDyn9
+    father = KIST_521 #Styrbjorn42
+    mother = KIST_44 #Tora4
+    550.1.1 = {
+        birth = yes
+    }
+    568.1.1 = {
+        add_spouse = KIST_449 #Bodil181
+    }
+}
+
+KIST_499 = {
+    name = "Folke193"
+    culture = "kistry"
+    faith = "sylvan_heart"
+    dynasty = KISTD9 #KistDyn9
+    father = KIST_521 #Styrbjorn42
+    mother = KIST_44 #Tora4
+    556.1.1 = {
+        birth = yes
+    }
+}
+
+KIST_5 = {
+    name = "Estrid203"
+    culture = "kistry"
+    faith = "sylvan_heart"
+    female = yes
+    dynasty = KISTD1 #KistDyn1
+    546.1.1 = {
+        birth = yes
+    }
+    578.1.1 = {
+        add_spouse = KIST_285 #Jarl138
+    }
+}
+
+KIST_50 = {
+    name = "Yngve71"
+    culture = "kistry"
+    faith = "sylvan_heart"
+    dynasty = KISTD1 #KistDyn1
+    father = KIST_24 #Leif2
+    mother = KIST_73 #Malin49
+    550.1.1 = {
+        birth = yes
+    }
+    572.1.1 = {
+        add_spouse = KIST_75 #Ragnhild207
+    }
+}
+
+KIST_500 = {
+    name = "Freydis194"
+    culture = "kistry"
+    faith = "sylvan_heart"
+    female = yes
+    dynasty = KISTD9 #KistDyn9
+    father = KIST_511 #Karl43
+    mother = KIST_455 #Gunhild39
+    550.1.1 = {
+        birth = yes
+    }
+    567.1.1 = {
+        add_spouse = KIST_251 #Jarl129
+    }
+}
+
+KIST_501 = {
+    name = "Gunhild45"
+    culture = "kistry"
+    faith = "sylvan_heart"
+    female = yes
+    dynasty = KISTD9 #KistDyn9
+    father = KIST_529 #Torsten41
+    525.1.1 = {
+        birth = yes
+    }
+    549.1.1 = {
+        add_spouse = KIST_250 #Isak8
+    }
+    583.1.1 = {
+        death = yes
+    }
+}
+
+KIST_502 = {
+    name = "Hakan189"
+    culture = "kistry"
+    faith = "sylvan_heart"
+    dynasty = KISTD9 #KistDyn9
+    father = KIST_521 #Styrbjorn42
+    mother = KIST_44 #Tora4
+    551.1.1 = {
+        birth = yes
+    }
+    572.1.1 = {
+        add_spouse = KIST_28 #Marta209
+    }
+}
+
+KIST_503 = {
+    name = "Hakan198"
+    culture = "kistry"
+    faith = "sylvan_heart"
+    dynasty = KISTD9 #KistDyn9
+    father = KIST_511 #Karl43
+    mother = KIST_455 #Gunhild39
+    557.1.1 = {
+        birth = yes
+    }
+}
+
+KIST_504 = {
+    name = "Hakan512"
+    culture = "kistry"
+    faith = "sylvan_heart"
+    dynasty = KISTD9 #KistDyn9
+    father = KIST_498 #Egil188
+    mother = KIST_449 #Bodil181
+    569.1.1 = {
+        birth = yes
+    }
+    586.1.1 = {
+        add_spouse = KIST_390 #Margareta439
+    }
+}
+
+KIST_505 = {
+    name = "Hakan530"
+    culture = "kistry"
+    faith = "sylvan_heart"
+    dynasty = KISTD9 #KistDyn9
+    father = KIST_523 #Sune196
+    mother = KIST_45 #Torhild73
+    578.1.1 = {
+        birth = yes
+    }
+}
+
+KIST_506 = {
+    name = "Helga519"
+    culture = "kistry"
+    faith = "sylvan_heart"
+    female = yes
+    dynasty = KISTD9 #KistDyn9
+    father = KIST_502 #Hakan189
+    mother = KIST_28 #Marta209
+    576.1.1 = {
+        birth = yes
+    }
+}
+
+KIST_507 = {
+    name = "Helga525"
+    culture = "kistry"
+    faith = "sylvan_heart"
+    female = yes
+    dynasty = KISTD9 #KistDyn9
+    father = KIST_510 #Ivar195
+    mother = KIST_42 #Solveig72
+    571.1.1 = {
+        birth = yes
+    }
+}
+
+KIST_508 = {
+    name = "Ingeborg517"
+    culture = "kistry"
+    faith = "sylvan_heart"
+    female = yes
+    dynasty = KISTD9 #KistDyn9
+    father = KIST_502 #Hakan189
+    mother = KIST_28 #Marta209
+    573.1.1 = {
+        birth = yes
+    }
+}
+
+KIST_509 = {
+    name = "Isak531"
+    culture = "kistry"
+    faith = "sylvan_heart"
+    dynasty = KISTD9 #KistDyn9
+    father = KIST_523 #Sune196
+    mother = KIST_45 #Torhild73
+    579.1.1 = {
+        birth = yes
+    }
+}
+
+KIST_51 = {
+    name = "Birger266"
+    culture = "kistry"
+    faith = "sylvan_heart"
+    dynasty = KISTD10 #KistDyn10
+    father = KIST_54 #Bo89
+    mother = KIST_184 #Runa210
+    577.1.1 = {
+        birth = yes
+    }
+}
+
+KIST_510 = {
+    name = "Ivar195"
+    culture = "kistry"
+    faith = "sylvan_heart"
+    dynasty = KISTD9 #KistDyn9
+    father = KIST_511 #Karl43
+    mother = KIST_455 #Gunhild39
+    552.1.1 = {
+        birth = yes
+    }
+    566.1.1 = {
+        add_spouse = KIST_42 #Solveig72
+    }
+}
+
+KIST_511 = {
+    name = "Karl43"
+    culture = "kistry"
+    faith = "sylvan_heart"
+    dynasty = KISTD9 #KistDyn9
+    father = KIST_529 #Torsten41
+    519.1.1 = {
+        birth = yes
+    }
+    547.1.1 = {
+        add_spouse = KIST_455 #Gunhild39
+    }
+    569.1.1 = {
+        death = yes
+    }
+}
+
+KIST_512 = {
+    name = "Kristina522"
+    culture = "kistry"
+    faith = "sylvan_heart"
+    female = yes
+    dynasty = KISTD9 #KistDyn9
+    father = KIST_502 #Hakan189
+    mother = KIST_28 #Marta209
+    581.1.1 = {
+        birth = yes
+    }
+}
+
+KIST_513 = {
+    name = "Magnus528"
+    culture = "kistry"
+    faith = "sylvan_heart"
+    dynasty = KISTD9 #KistDyn9
+    father = KIST_523 #Sune196
+    mother = KIST_45 #Torhild73
+    575.1.1 = {
+        birth = yes
+    }
+}
+
+KIST_514 = {
+    name = "Mats523"
+    culture = "kistry"
+    faith = "sylvan_heart"
+    dynasty = KISTD9 #KistDyn9
+    father = KIST_510 #Ivar195
+    mother = KIST_42 #Solveig72
+    567.1.1 = {
+        birth = yes
+    }
+    586.1.1 = {
+        add_spouse = KIST_373 #Sunniva427
+    }
+}
+
+KIST_515 = {
+    name = "Per514"
+    culture = "kistry"
+    faith = "sylvan_heart"
+    dynasty = KISTD9 #KistDyn9
+    father = KIST_498 #Egil188
+    mother = KIST_449 #Bodil181
+    573.1.1 = {
+        birth = yes
+    }
+}
+
+KIST_516 = {
+    name = "Rolf520"
+    culture = "kistry"
+    faith = "sylvan_heart"
+    dynasty = KISTD9 #KistDyn9
+    father = KIST_502 #Hakan189
+    mother = KIST_28 #Marta209
+    577.1.1 = {
+        birth = yes
+    }
+}
+
+KIST_517 = {
+    name = "Saga521"
+    culture = "kistry"
+    faith = "sylvan_heart"
+    female = yes
+    dynasty = KISTD9 #KistDyn9
+    father = KIST_502 #Hakan189
+    mother = KIST_28 #Marta209
+    579.1.1 = {
+        birth = yes
+    }
+}
+
+KIST_518 = {
+    name = "Sigrid192"
+    culture = "kistry"
+    faith = "sylvan_heart"
+    female = yes
+    dynasty = KISTD9 #KistDyn9
+    father = KIST_521 #Styrbjorn42
+    mother = KIST_44 #Tora4
+    554.1.1 = {
+        birth = yes
+    }
+}
+
+KIST_519 = {
+    name = "Sigrid529"
+    culture = "kistry"
+    faith = "sylvan_heart"
+    female = yes
+    dynasty = KISTD9 #KistDyn9
+    father = KIST_523 #Sune196
+    mother = KIST_45 #Torhild73
+    576.1.1 = {
+        birth = yes
+    }
+}
+
+KIST_52 = {
+    name = "Birger83"
+    culture = "kistry"
+    faith = "sylvan_heart"
+    dynasty = KISTD10 #KistDyn10
+    father = KIST_66 #Jon47
+    mother = KIST_106 #Margareta55
+    553.1.1 = {
+        birth = yes
+    }
+    571.1.1 = {
+        add_spouse = KIST_155 #Thyra100
+    }
+}
+
+KIST_520 = {
+    name = "Sigurd516"
+    culture = "kistry"
+    faith = "sylvan_heart"
+    dynasty = KISTD9 #KistDyn9
+    father = KIST_498 #Egil188
+    mother = KIST_449 #Bodil181
+    577.1.1 = {
+        birth = yes
+    }
+}
+
+KIST_521 = {
+    name = "Styrbjorn42"
+    culture = "kistry"
+    faith = "sylvan_heart"
+    dynasty = KISTD9 #KistDyn9
+    father = KIST_529 #Torsten41
+    516.1.1 = {
+        birth = yes
+    }
+    548.1.1 = {
+        add_spouse = KIST_44 #Tora4
+    }
+    581.1.1 = {
+        death = yes
+    }
+}
+
+KIST_522 = {
+    name = "Styrbjorn526"
+    culture = "kistry"
+    faith = "sylvan_heart"
+    dynasty = KISTD9 #KistDyn9
+    father = KIST_510 #Ivar195
+    mother = KIST_42 #Solveig72
+    573.1.1 = {
+        birth = yes
+    }
+}
+
+KIST_523 = {
+    name = "Sune196"
+    culture = "kistry"
+    faith = "sylvan_heart"
+    dynasty = KISTD9 #KistDyn9
+    father = KIST_511 #Karl43
+    mother = KIST_455 #Gunhild39
+    554.1.1 = {
+        birth = yes
+    }
+    574.1.1 = {
+        add_spouse = KIST_45 #Torhild73
+    }
+}
+
+KIST_524 = {
+    name = "Sune524"
+    culture = "kistry"
+    faith = "sylvan_heart"
+    dynasty = KISTD9 #KistDyn9
+    father = KIST_510 #Ivar195
+    mother = KIST_42 #Solveig72
+    569.1.1 = {
+        birth = yes
+    }
+    586.1.1 = {
+        add_spouse = KIST_448 #Asta509
+    }
+}
+
+KIST_525 = {
+    name = "Sverker527"
+    culture = "kistry"
+    faith = "sylvan_heart"
+    dynasty = KISTD9 #KistDyn9
+    father = KIST_510 #Ivar195
+    mother = KIST_42 #Solveig72
+    575.1.1 = {
+        birth = yes
+    }
+}
+
+KIST_526 = {
+    name = "Thyra190"
+    culture = "kistry"
+    faith = "sylvan_heart"
+    female = yes
+    dynasty = KISTD9 #KistDyn9
+    father = KIST_521 #Styrbjorn42
+    mother = KIST_44 #Tora4
+    552.1.1 = {
+        birth = yes
+    }
+}
+
+KIST_527 = {
+    name = "Thyra200"
+    culture = "kistry"
+    faith = "sylvan_heart"
+    female = yes
+    dynasty = KISTD9 #KistDyn9
+    546.1.1 = {
+        birth = yes
+    }
+    566.1.1 = {
+        add_spouse = KIST_480 #Rolf183
+    }
+}
+
+KIST_528 = {
+    name = "Torhild191"
+    culture = "kistry"
+    faith = "sylvan_heart"
+    female = yes
+    dynasty = KISTD9 #KistDyn9
+    father = KIST_521 #Styrbjorn42
+    mother = KIST_44 #Tora4
+    553.1.1 = {
+        birth = yes
+    }
+    574.1.1 = {
+        add_spouse = KIST_271 #Ulf130
+    }
+}
+
+KIST_529 = {
+    name = "Torsten41"
+    culture = "kistry"
+    faith = "sylvan_heart"
+    dynasty = KISTD9 #KistDyn9
+    488.1.1 = {
+        birth = yes
+    }
+    565.1.1 = {
+        death = yes
+    }
+}
+
+KIST_53 = {
+    name = "Birgitta265"
+    culture = "kistry"
+    faith = "sylvan_heart"
+    female = yes
+    dynasty = KISTD10 #KistDyn10
+    father = KIST_54 #Bo89
+    mother = KIST_184 #Runa210
+    575.1.1 = {
+        birth = yes
+    }
+}
+
+KIST_530 = {
+    name = "Torsten513"
+    culture = "kistry"
+    faith = "sylvan_heart"
+    dynasty = KISTD9 #KistDyn9
+    father = KIST_498 #Egil188
+    mother = KIST_449 #Bodil181
+    571.1.1 = {
+        birth = yes
+    }
+    586.1.1 = {
+        add_spouse = KIST_19 #Karin243
+    }
+}
+
+KIST_531 = {
+    name = "Yngvild518"
+    culture = "kistry"
+    faith = "sylvan_heart"
+    female = yes
+    dynasty = KISTD9 #KistDyn9
+    father = KIST_502 #Hakan189
+    mother = KIST_28 #Marta209
+    575.1.1 = {
+        birth = yes
+    }
+}
+
+KIST_54 = {
+    name = "Bo89"
+    culture = "kistry"
+    faith = "sylvan_heart"
+    dynasty = KISTD10 #KistDyn10
+    father = KIST_79 #Sigurd48
+    mother = KIST_135 #Estrid60
+    556.1.1 = {
+        birth = yes
+    }
+    570.1.1 = {
+        add_spouse = KIST_184 #Runa210
+    }
+}
+
+KIST_55 = {
+    name = "Bodil253"
+    culture = "kistry"
+    faith = "sylvan_heart"
+    female = yes
+    dynasty = KISTD10 #KistDyn10
+    father = KIST_52 #Birger83
+    mother = KIST_155 #Thyra100
+    572.1.1 = {
+        birth = yes
+    }
+}
+
+KIST_56 = {
+    name = "Elin259"
+    culture = "kistry"
+    faith = "sylvan_heart"
+    female = yes
+    dynasty = KISTD10 #KistDyn10
+    father = KIST_59 #Hakan88
+    mother = KIST_140 #Helga102
+    571.1.1 = {
+        birth = yes
+    }
+    586.1.1 = {
+        add_spouse = KIST_110 #Rikard290
+    }
+}
+
+KIST_57 = {
+    name = "Folke247"
+    culture = "kistry"
+    faith = "sylvan_heart"
+    dynasty = KISTD10 #KistDyn10
+    father = KIST_80 #Sigurd87
+    mother = KIST_152 #Rikissa214
+    572.1.1 = {
+        birth = yes
+    }
+}
+
+KIST_58 = {
+    name = "Gunhild257"
+    culture = "kistry"
+    faith = "sylvan_heart"
+    female = yes
+    dynasty = KISTD10 #KistDyn10
+    father = KIST_59 #Hakan88
+    mother = KIST_140 #Helga102
+    569.1.1 = {
+        birth = yes
+    }
+    586.1.1 = {
+        add_spouse = KIST_10 #Hakan220
+    }
+}
+
+KIST_59 = {
+    name = "Hakan88"
+    culture = "kistry"
+    faith = "sylvan_heart"
+    dynasty = KISTD10 #KistDyn10
+    father = KIST_79 #Sigurd48
+    mother = KIST_135 #Estrid60
+    554.1.1 = {
+        birth = yes
+    }
+    567.1.1 = {
+        add_spouse = KIST_140 #Helga102
+    }
+}
+
+KIST_6 = {
+    name = "Frida217"
+    culture = "kistry"
+    faith = "sylvan_heart"
+    female = yes
+    dynasty = KISTD1 #KistDyn1
+    father = KIST_50 #Yngve71
+    mother = KIST_75 #Ragnhild207
+    575.1.1 = {
+        birth = yes
+    }
+}
+
+KIST_60 = {
+    name = "Hedvig50"
+    culture = "kistry"
+    faith = "sylvan_heart"
+    female = yes
+    dynasty = KISTD10 #KistDyn10
+    father = KIST_83 #Valdemar46
+    526.1.1 = {
+        birth = yes
+    }
+    548.1.1 = {
+        add_spouse = KIST_23 #Lars3
+    }
+}
+
+KIST_61 = {
+    name = "Hilde260"
+    culture = "kistry"
+    faith = "sylvan_heart"
+    female = yes
+    dynasty = KISTD10 #KistDyn10
+    father = KIST_59 #Hakan88
+    mother = KIST_140 #Helga102
+    572.1.1 = {
+        birth = yes
+    }
+}
+
+KIST_62 = {
+    name = "Ingeborg249"
+    culture = "kistry"
+    faith = "sylvan_heart"
+    female = yes
+    dynasty = KISTD10 #KistDyn10
+    father = KIST_80 #Sigurd87
+    mother = KIST_152 #Rikissa214
+    576.1.1 = {
+        birth = yes
+    }
+}
+
+KIST_63 = {
+    name = "Ingeborg256"
+    culture = "kistry"
+    faith = "sylvan_heart"
+    female = yes
+    dynasty = KISTD10 #KistDyn10
+    father = KIST_59 #Hakan88
+    mother = KIST_140 #Helga102
+    568.1.1 = {
+        birth = yes
+    }
+    586.1.1 = {
+        add_spouse = KIST_11 #Hakan242
+    }
+}
+
+KIST_64 = {
+    name = "Ingrid84"
+    culture = "kistry"
+    faith = "sylvan_heart"
+    female = yes
+    dynasty = KISTD10 #KistDyn10
+    father = KIST_66 #Jon47
+    mother = KIST_106 #Margareta55
+    555.1.1 = {
+        birth = yes
+    }
+    576.1.1 = {
+        add_spouse = KIST_3 #Birger74
+    }
+}
+
+KIST_65 = {
+    name = "Ingvar262"
+    culture = "kistry"
+    faith = "sylvan_heart"
+    dynasty = KISTD10 #KistDyn10
+    father = KIST_54 #Bo89
+    mother = KIST_184 #Runa210
+    571.1.1 = {
+        birth = yes
+    }
+    586.1.1 = {
+        add_spouse = KIST_123 #Tora291
+    }
+}
+
+KIST_66 = {
+    name = "Jon47"
+    culture = "kistry"
+    faith = "sylvan_heart"
+    dynasty = KISTD10 #KistDyn10
+    father = KIST_83 #Valdemar46
+    517.1.1 = {
+        birth = yes
+    }
+    550.1.1 = {
+        add_spouse = KIST_106 #Margareta55
+    }
+    581.1.1 = {
+        death = yes
+    }
+}
+
+KIST_67 = {
+    name = "Karl254"
+    culture = "kistry"
+    faith = "sylvan_heart"
+    dynasty = KISTD10 #KistDyn10
+    father = KIST_52 #Birger83
+    mother = KIST_155 #Thyra100
+    573.1.1 = {
+        birth = yes
+    }
+}
+
+KIST_68 = {
+    name = "Kettil248"
+    culture = "kistry"
+    faith = "sylvan_heart"
+    dynasty = KISTD10 #KistDyn10
+    father = KIST_80 #Sigurd87
+    mother = KIST_152 #Rikissa214
+    574.1.1 = {
+        birth = yes
+    }
+}
+
+KIST_69 = {
+    name = "Knut263"
+    culture = "kistry"
+    faith = "sylvan_heart"
+    dynasty = KISTD10 #KistDyn10
+    father = KIST_54 #Bo89
+    mother = KIST_184 #Runa210
+    572.1.1 = {
+        birth = yes
+    }
+}
+
+KIST_7 = {
+    name = "Frida221"
+    culture = "kistry"
+    faith = "sylvan_heart"
+    female = yes
+    dynasty = KISTD1 #KistDyn1
+    father = KIST_41 #Sigurd76
+    mother = KIST_78 #Runa86
+    571.1.1 = {
+        birth = yes
+    }
+    586.1.1 = {
+        add_spouse = KIST_317 #Ingvar402
+    }
+}
+
+KIST_70 = {
+    name = "Kristina252"
+    culture = "kistry"
+    faith = "sylvan_heart"
+    female = yes
+    dynasty = KISTD10 #KistDyn10
+    father = KIST_80 #Sigurd87
+    mother = KIST_152 #Rikissa214
+    581.1.1 = {
+        birth = yes
+    }
+}
+
+KIST_71 = {
+    name = "Kristina258"
+    culture = "kistry"
+    faith = "sylvan_heart"
+    female = yes
+    dynasty = KISTD10 #KistDyn10
+    father = KIST_59 #Hakan88
+    mother = KIST_140 #Helga102
+    570.1.1 = {
+        birth = yes
+    }
+    586.1.1 = {
+        add_spouse = KIST_324 #Lars403
+    }
+}
+
+KIST_72 = {
+    name = "Malin264"
+    culture = "kistry"
+    faith = "sylvan_heart"
+    female = yes
+    dynasty = KISTD10 #KistDyn10
+    father = KIST_54 #Bo89
+    mother = KIST_184 #Runa210
+    573.1.1 = {
+        birth = yes
+    }
+}
+
+KIST_73 = {
+    name = "Malin49"
+    culture = "kistry"
+    faith = "sylvan_heart"
+    female = yes
+    dynasty = KISTD10 #KistDyn10
+    father = KIST_83 #Valdemar46
+    523.1.1 = {
+        birth = yes
+    }
+    538.1.1 = {
+        add_spouse = KIST_24 #Leif2
+    }
+    583.1.1 = {
+        death = yes
+    }
+}
+
+KIST_74 = {
+    name = "Nils255"
+    culture = "kistry"
+    faith = "sylvan_heart"
+    dynasty = KISTD10 #KistDyn10
+    father = KIST_52 #Birger83
+    mother = KIST_155 #Thyra100
+    574.1.1 = {
+        birth = yes
+    }
+}
+
+KIST_75 = {
+    name = "Ragnhild207"
+    culture = "kistry"
+    faith = "sylvan_heart"
+    female = yes
+    dynasty = KISTD10 #KistDyn10
+    538.1.1 = {
+        birth = yes
+    }
+    572.1.1 = {
+        add_spouse = KIST_50 #Yngve71
+    }
+}
+
+KIST_76 = {
+    name = "Rikard250"
+    culture = "kistry"
+    faith = "sylvan_heart"
+    dynasty = KISTD10 #KistDyn10
+    father = KIST_80 #Sigurd87
+    mother = KIST_152 #Rikissa214
+    577.1.1 = {
+        birth = yes
+    }
+}
+
+KIST_77 = {
+    name = "Rikissa261"
+    culture = "kistry"
+    faith = "sylvan_heart"
+    female = yes
+    dynasty = KISTD10 #KistDyn10
+    father = KIST_59 #Hakan88
+    mother = KIST_140 #Helga102
+    573.1.1 = {
+        birth = yes
+    }
+}
+
+KIST_78 = {
+    name = "Runa86"
+    culture = "kistry"
+    faith = "sylvan_heart"
+    female = yes
+    dynasty = KISTD10 #KistDyn10
+    father = KIST_79 #Sigurd48
+    mother = KIST_135 #Estrid60
+    550.1.1 = {
+        birth = yes
+    }
+    566.1.1 = {
+        add_spouse = KIST_41 #Sigurd76
+    }
+}
+
+KIST_79 = {
+    name = "Sigurd48"
+    culture = "kistry"
+    faith = "sylvan_heart"
+    dynasty = KISTD10 #KistDyn10
+    father = KIST_83 #Valdemar46
+    520.1.1 = {
+        birth = yes
+    }
+    547.1.1 = {
+        add_spouse = KIST_135 #Estrid60
+    }
+    571.1.1 = {
+        death = yes
+    }
+}
+
+KIST_8 = {
+    name = "Frida244"
+    culture = "kistry"
+    faith = "sylvan_heart"
+    female = yes
+    dynasty = KISTD1 #KistDyn1
+    father = KIST_21 #Karl81
+    mother = KIST_103 #Malin98
+    571.1.1 = {
+        birth = yes
+    }
+}
+
+KIST_80 = {
+    name = "Sigurd87"
+    culture = "kistry"
+    faith = "sylvan_heart"
+    dynasty = KISTD10 #KistDyn10
+    father = KIST_79 #Sigurd48
+    mother = KIST_135 #Estrid60
+    552.1.1 = {
+        birth = yes
+    }
+    571.1.1 = {
+        add_spouse = KIST_152 #Rikissa214
+    }
+}
+
+KIST_81 = {
+    name = "Sune251"
+    culture = "kistry"
+    faith = "sylvan_heart"
+    dynasty = KISTD10 #KistDyn10
+    father = KIST_80 #Sigurd87
+    mother = KIST_152 #Rikissa214
+    579.1.1 = {
+        birth = yes
+    }
+}
+
+KIST_82 = {
+    name = "Tora85"
+    culture = "kistry"
+    faith = "sylvan_heart"
+    female = yes
+    dynasty = KISTD10 #KistDyn10
+    father = KIST_66 #Jon47
+    mother = KIST_106 #Margareta55
+    556.1.1 = {
+        birth = yes
+    }
+    576.1.1 = {
+        add_spouse = KIST_33 #Per80
+    }
+}
+
+KIST_83 = {
+    name = "Valdemar46"
+    culture = "kistry"
+    faith = "sylvan_heart"
+    dynasty = KISTD10 #KistDyn10
+    489.1.1 = {
+        birth = yes
+    }
+    551.1.1 = {
+        death = yes
+    }
+}
+
+KIST_84 = {
+    name = "Yngvild82"
+    culture = "kistry"
+    faith = "sylvan_heart"
+    female = yes
+    dynasty = KISTD10 #KistDyn10
+    father = KIST_66 #Jon47
+    mother = KIST_106 #Margareta55
+    551.1.1 = {
+        birth = yes
+    }
+    575.1.1 = {
+        add_spouse = KIST_13 #Halsten78
+    }
+}
+
+KIST_85 = {
+    name = "Bodil285"
+    culture = "kistry"
+    faith = "sylvan_heart"
+    female = yes
+    dynasty = KISTD11 #KistDyn11
+    father = KIST_120 #Sverker97
+    mother = KIST_205 #Frida121
+    574.1.1 = {
+        birth = yes
+    }
+}
+
+KIST_86 = {
+    name = "Elin269"
+    culture = "kistry"
+    faith = "sylvan_heart"
+    female = yes
+    dynasty = KISTD11 #KistDyn11
+    father = KIST_129 #Ulf90
+    mother = KIST_191 #Sunniva113
+    579.1.1 = {
+        birth = yes
+    }
+}
+
+KIST_87 = {
+    name = "Erik270"
+    culture = "kistry"
+    faith = "sylvan_heart"
+    dynasty = KISTD11 #KistDyn11
+    father = KIST_129 #Ulf90
+    mother = KIST_191 #Sunniva113
+    581.1.1 = {
+        birth = yes
+    }
+}
+
+KIST_88 = {
+    name = "Estrid205"
+    culture = "kistry"
+    faith = "sylvan_heart"
+    female = yes
+    dynasty = KISTD11 #KistDyn11
+    543.1.1 = {
+        birth = yes
+    }
+    577.1.1 = {
+        add_spouse = KIST_39 #Rolf75
+    }
+}
+
+KIST_89 = {
+    name = "Estrid96"
+    culture = "kistry"
+    faith = "sylvan_heart"
+    female = yes
+    dynasty = KISTD11 #KistDyn11
+    father = KIST_124 #Tore53
+    mother = KIST_198 #Astrid70
+    552.1.1 = {
+        birth = yes
+    }
+    578.1.1 = {
+        add_spouse = KIST_281 #Gustav140
+    }
+}
+
+KIST_9 = {
+    name = "Gerd240"
+    culture = "kistry"
+    faith = "sylvan_heart"
+    female = yes
+    dynasty = KISTD1 #KistDyn1
+    father = KIST_39 #Rolf75
+    mother = KIST_88 #Estrid205
+    580.1.1 = {
+        birth = yes
+    }
+}
+
+KIST_90 = {
+    name = "Freydis271"
+    culture = "kistry"
+    faith = "sylvan_heart"
+    female = yes
+    dynasty = KISTD11 #KistDyn11
+    father = KIST_129 #Ulf90
+    mother = KIST_191 #Sunniva113
+    582.1.1 = {
+        birth = yes
+    }
+}
+
+KIST_91 = {
+    name = "Frida292"
+    culture = "kistry"
+    faith = "sylvan_heart"
+    female = yes
+    dynasty = KISTD11 #KistDyn11
+    father = KIST_102 #Leif92
+    mother = KIST_256 #Karin204
+    571.1.1 = {
+        birth = yes
+    }
+    586.1.1 = {
+        add_spouse = KIST_148 #Olof299
+    }
+}
+
+KIST_92 = {
+    name = "Gerd268"
+    culture = "kistry"
+    faith = "sylvan_heart"
+    female = yes
+    dynasty = KISTD11 #KistDyn11
+    father = KIST_129 #Ulf90
+    mother = KIST_191 #Sunniva113
+    577.1.1 = {
+        birth = yes
+    }
+}
+
+KIST_93 = {
+    name = "Gerd282"
+    culture = "kistry"
+    faith = "sylvan_heart"
+    female = yes
+    dynasty = KISTD11 #KistDyn11
+    father = KIST_101 #Kettil91
+    mother = KIST_233 #Tora123
+    575.1.1 = {
+        birth = yes
+    }
+}
+
+KIST_94 = {
+    name = "Gerd283"
+    culture = "kistry"
+    faith = "sylvan_heart"
+    female = yes
+    dynasty = KISTD11 #KistDyn11
+    father = KIST_101 #Kettil91
+    mother = KIST_233 #Tora123
+    576.1.1 = {
+        birth = yes
+    }
+}
+
+KIST_95 = {
+    name = "Helga278"
+    culture = "kistry"
+    faith = "sylvan_heart"
+    female = yes
+    dynasty = KISTD11 #KistDyn11
+    father = KIST_125 #Tore95
+    mother = KIST_223 #Margareta211
+    573.1.1 = {
+        birth = yes
+    }
+}
+
+KIST_96 = {
+    name = "Hilde279"
+    culture = "kistry"
+    faith = "sylvan_heart"
+    female = yes
+    dynasty = KISTD11 #KistDyn11
+    father = KIST_125 #Tore95
+    mother = KIST_223 #Margareta211
+    575.1.1 = {
+        birth = yes
+    }
+}
+
+KIST_97 = {
+    name = "Ingrid288"
+    culture = "kistry"
+    faith = "sylvan_heart"
+    female = yes
+    dynasty = KISTD11 #KistDyn11
+    father = KIST_120 #Sverker97
+    mother = KIST_205 #Frida121
+    578.1.1 = {
+        birth = yes
+    }
+}
+
+KIST_98 = {
+    name = "Jon294"
+    culture = "kistry"
+    faith = "sylvan_heart"
+    dynasty = KISTD11 #KistDyn11
+    father = KIST_100 #Karl93
+    mother = KIST_269 #Torhild128
+    579.1.1 = {
+        birth = yes
+    }
+}
+
+KIST_99 = {
+    name = "Karin275"
+    culture = "kistry"
+    faith = "sylvan_heart"
+    female = yes
+    dynasty = KISTD11 #KistDyn11
+    father = KIST_126 #Torgils94
+    mother = KIST_167 #Frida114
+    580.1.1 = {
+        birth = yes
+    }
+}
+

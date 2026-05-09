@@ -1,0 +1,9236 @@
+KELB_1 = {
+    name = "Adelina275"
+    culture = "kelberican"
+    faith = "stonegods"
+    female = yes
+    dynasty = KELBD1 #KelbDyn1
+    father = KELB_30 #Stefano101
+    mother = KELB_53 #Maddalena110
+    575.1.1 = {
+        birth = yes
+    }
+}
+
+KELB_10 = {
+    name = "Emilia5"
+    culture = "kelberican"
+    faith = "stonegods"
+    female = yes
+    dynasty = KELBD1 #KelbDyn1
+    father = KELB_2 #Alessandro1
+    524.1.1 = {
+        birth = yes
+    }
+    545.1.1 = {
+        add_spouse = KELB_331 #Vincenzo92
+    }
+    576.1.1 = {
+        death = yes
+    }
+}
+
+KELB_100 = {
+    name = "Niccolo325"
+    culture = "kelberican"
+    faith = "colocist"
+    dynasty = KELBD11 #KelbDyn11
+    father = KELB_97 #Matteo121
+    mother = KELB_158 #Donatella141
+    584.1.1 = {
+        birth = yes
+    }
+}
+
+KELB_101 = {
+    name = "Pietro334"
+    culture = "kelberican"
+    faith = "colocist"
+    dynasty = KELBD11 #KelbDyn11
+    father = KELB_91 #Leonardo127
+    mother = KELB_163 #Letizia146
+    579.1.1 = {
+        birth = yes
+    }
+}
+
+KELB_102 = {
+    name = "Raffaele52"
+    culture = "kelberican"
+    faith = "colocist"
+    dynasty = KELBD11 #KelbDyn11
+    father = KELB_86 #Giacomo51
+    518.1.1 = {
+        birth = yes
+    }
+    544.1.1 = {
+        add_spouse = KELB_167 #Silvana65
+    }
+    578.1.1 = {
+        death = yes
+    }
+}
+
+KELB_103 = {
+    name = "Renata333"
+    culture = "kelberican"
+    faith = "colocist"
+    female = yes
+    dynasty = KELBD11 #KelbDyn11
+    father = KELB_111 #Vincenzo123
+    mother = KELB_168 #Valentina145
+    573.1.1 = {
+        birth = yes
+    }
+}
+
+KELB_104 = {
+    name = "Renata342"
+    culture = "kelberican"
+    faith = "colocist"
+    female = yes
+    dynasty = KELBD11 #KelbDyn11
+    father = KELB_73 #Antonio129
+    mother = KELB_174 #Carlotta151
+    578.1.1 = {
+        birth = yes
+    }
+}
+
+KELB_105 = {
+    name = "Rosa315"
+    culture = "kelberican"
+    faith = "colocist"
+    female = yes
+    dynasty = KELBD11 #KelbDyn11
+    father = KELB_107 #Salvatore273
+    mother = KELB_131 #Maria134
+    578.1.1 = {
+        birth = yes
+    }
+}
+
+KELB_106 = {
+    name = "Rosa327"
+    culture = "kelberican"
+    faith = "colocist"
+    female = yes
+    dynasty = KELBD11 #KelbDyn11
+    father = KELB_97 #Matteo121
+    mother = KELB_158 #Donatella141
+    587.1.1 = {
+        birth = yes
+    }
+}
+
+KELB_107 = {
+    name = "Salvatore273"
+    culture = "kelberican"
+    faith = "colocist"
+    dynasty = KELBD11 #KelbDyn11
+    546.1.1 = {
+        birth = yes
+    }
+    575.1.1 = {
+        add_spouse = KELB_131 #Maria134
+    }
+}
+
+KELB_108 = {
+    name = "Sofia126"
+    culture = "kelberican"
+    faith = "colocist"
+    female = yes
+    dynasty = KELBD11 #KelbDyn11
+    father = KELB_77 #Bernardo53
+    mother = KELB_177 #Claudia70
+    552.1.1 = {
+        birth = yes
+    }
+    574.1.1 = {
+        add_spouse = KELB_393 #Vittorio211
+    }
+}
+
+KELB_109 = {
+    name = "Sofia320"
+    culture = "kelberican"
+    faith = "colocist"
+    female = yes
+    dynasty = KELBD11 #KelbDyn11
+    father = KELB_95 #Lorenzo120
+    mother = KELB_151 #Agnese143
+    577.1.1 = {
+        birth = yes
+    }
+}
+
+KELB_11 = {
+    name = "Enrico102"
+    culture = "kelberican"
+    faith = "stonegods"
+    dynasty = KELBD1 #KelbDyn1
+    father = KELB_19 #Marco2
+    mother = KELB_50 #Isabella49
+    551.1.1 = {
+        birth = yes
+    }
+    568.1.1 = {
+        add_spouse = KELB_41 #Carlotta111
+    }
+}
+
+KELB_110 = {
+    name = "Ugo341"
+    culture = "kelberican"
+    faith = "colocist"
+    dynasty = KELBD11 #KelbDyn11
+    father = KELB_73 #Antonio129
+    mother = KELB_174 #Carlotta151
+    577.1.1 = {
+        birth = yes
+    }
+}
+
+KELB_111 = {
+    name = "Vincenzo123"
+    culture = "kelberican"
+    faith = "colocist"
+    dynasty = KELBD11 #KelbDyn11
+    father = KELB_102 #Raffaele52
+    mother = KELB_167 #Silvana65
+    554.1.1 = {
+        birth = yes
+    }
+    566.1.1 = {
+        add_spouse = KELB_168 #Valentina145
+    }
+}
+
+KELB_112 = {
+    name = "Vincenzo337"
+    culture = "kelberican"
+    faith = "colocist"
+    dynasty = KELBD11 #KelbDyn11
+    father = KELB_91 #Leonardo127
+    mother = KELB_163 #Letizia146
+    583.1.1 = {
+        birth = yes
+    }
+}
+
+KELB_113 = {
+    name = "Vittoria324"
+    culture = "kelberican"
+    faith = "colocist"
+    female = yes
+    dynasty = KELBD11 #KelbDyn11
+    father = KELB_97 #Matteo121
+    mother = KELB_158 #Donatella141
+    582.1.1 = {
+        birth = yes
+    }
+}
+
+KELB_114 = {
+    name = "Vittoria54"
+    culture = "kelberican"
+    faith = "colocist"
+    female = yes
+    dynasty = KELBD11 #KelbDyn11
+    father = KELB_86 #Giacomo51
+    524.1.1 = {
+        birth = yes
+    }
+    536.1.1 = {
+        add_spouse = KELB_325 #Paolo93
+    }
+    578.1.1 = {
+        death = yes
+    }
+}
+
+KELB_115 = {
+    name = "Adelina132"
+    culture = "kelberican"
+    faith = "colocist"
+    female = yes
+    dynasty = KELBD12 #KelbDyn12
+    father = KELB_146 #Roberto57
+    mother = KELB_202 #Ginevra75
+    554.1.1 = {
+        birth = yes
+    }
+    567.1.1 = {
+        add_spouse = KELB_411 #Giorgio215
+    }
+}
+
+KELB_116 = {
+    name = "Adelina345"
+    culture = "kelberican"
+    faith = "colocist"
+    female = yes
+    dynasty = KELBD12 #KelbDyn12
+    father = KELB_141 #Raffaele135
+    mother = KELB_183 #Giulia150
+    574.1.1 = {
+        birth = yes
+    }
+}
+
+KELB_117 = {
+    name = "Agnese344"
+    culture = "kelberican"
+    faith = "colocist"
+    female = yes
+    dynasty = KELBD12 #KelbDyn12
+    father = KELB_141 #Raffaele135
+    mother = KELB_183 #Giulia150
+    573.1.1 = {
+        birth = yes
+    }
+}
+
+KELB_118 = {
+    name = "Alessandro348"
+    culture = "kelberican"
+    faith = "colocist"
+    dynasty = KELBD12 #KelbDyn12
+    father = KELB_128 #Guglielmo131
+    mother = KELB_191 #Anna157
+    577.1.1 = {
+        birth = yes
+    }
+}
+
+KELB_119 = {
+    name = "Amadeo56"
+    culture = "kelberican"
+    faith = "colocist"
+    dynasty = KELBD12 #KelbDyn12
+    481.1.1 = {
+        birth = yes
+    }
+    546.1.1 = {
+        death = yes
+    }
+}
+
+KELB_12 = {
+    name = "Filippo3"
+    culture = "kelberican"
+    faith = "stonegods"
+    dynasty = KELBD1 #KelbDyn1
+    father = KELB_2 #Alessandro1
+    518.1.1 = {
+        birth = yes
+    }
+    541.1.1 = {
+        add_spouse = KELB_49 #Ginevra50
+    }
+    575.1.1 = {
+        death = yes
+    }
+}
+
+KELB_120 = {
+    name = "Anna59"
+    culture = "kelberican"
+    faith = "colocist"
+    female = yes
+    dynasty = KELBD12 #KelbDyn12
+    father = KELB_119 #Amadeo56
+    525.1.1 = {
+        birth = yes
+    }
+    546.1.1 = {
+        add_spouse = KELB_355 #Raffaele7
+    }
+    583.1.1 = {
+        death = yes
+    }
+}
+
+KELB_121 = {
+    name = "Bernardo352"
+    culture = "kelberican"
+    faith = "colocist"
+    dynasty = KELBD12 #KelbDyn12
+    father = KELB_138 #Pietro137
+    mother = KELB_196 #Elettra160
+    581.1.1 = {
+        birth = yes
+    }
+}
+
+KELB_122 = {
+    name = "Bianca349"
+    culture = "kelberican"
+    faith = "colocist"
+    female = yes
+    dynasty = KELBD12 #KelbDyn12
+    father = KELB_128 #Guglielmo131
+    mother = KELB_191 #Anna157
+    579.1.1 = {
+        birth = yes
+    }
+}
+
+KELB_123 = {
+    name = "Carlo354"
+    culture = "kelberican"
+    faith = "colocist"
+    dynasty = KELBD12 #KelbDyn12
+    father = KELB_138 #Pietro137
+    mother = KELB_196 #Elettra160
+    584.1.1 = {
+        birth = yes
+    }
+}
+
+KELB_124 = {
+    name = "Chiara60"
+    culture = "kelberican"
+    faith = "colocist"
+    female = yes
+    dynasty = KELBD12 #KelbDyn12
+    father = KELB_119 #Amadeo56
+    528.1.1 = {
+        birth = yes
+    }
+    535.1.1 = {
+        add_spouse = KELB_36 #Alberto48
+    }
+    569.1.1 = {
+        death = yes
+    }
+}
+
+KELB_125 = {
+    name = "Federico360"
+    culture = "kelberican"
+    faith = "colocist"
+    dynasty = KELBD12 #KelbDyn12
+    father = KELB_148 #Vincenzo133
+    mother = KELB_220 #Elettra163
+    583.1.1 = {
+        birth = yes
+    }
+}
+
+KELB_126 = {
+    name = "Filippo356"
+    culture = "kelberican"
+    faith = "colocist"
+    dynasty = KELBD12 #KelbDyn12
+    father = KELB_133 #Matteo138
+    mother = KELB_227 #Maria162
+    577.1.1 = {
+        birth = yes
+    }
+}
+
+KELB_127 = {
+    name = "Giulia361"
+    culture = "kelberican"
+    faith = "colocist"
+    female = yes
+    dynasty = KELBD12 #KelbDyn12
+    father = KELB_148 #Vincenzo133
+    mother = KELB_220 #Elettra163
+    584.1.1 = {
+        birth = yes
+    }
+}
+
+KELB_128 = {
+    name = "Guglielmo131"
+    culture = "kelberican"
+    faith = "colocist"
+    dynasty = KELBD12 #KelbDyn12
+    father = KELB_146 #Roberto57
+    mother = KELB_202 #Ginevra75
+    552.1.1 = {
+        birth = yes
+    }
+    573.1.1 = {
+        add_spouse = KELB_191 #Anna157
+    }
+}
+
+KELB_129 = {
+    name = "Laura343"
+    culture = "kelberican"
+    faith = "colocist"
+    female = yes
+    dynasty = KELBD12 #KelbDyn12
+    father = KELB_141 #Raffaele135
+    mother = KELB_183 #Giulia150
+    571.1.1 = {
+        birth = yes
+    }
+    586.1.1 = {
+        add_spouse = KELB_17 #Guido280
+    }
+}
+
+KELB_13 = {
+    name = "Giacomo281"
+    culture = "kelberican"
+    faith = "stonegods"
+    dynasty = KELBD1 #KelbDyn1
+    father = KELB_11 #Enrico102
+    mother = KELB_41 #Carlotta111
+    569.1.1 = {
+        birth = yes
+    }
+    586.1.1 = {
+        add_spouse = KELB_94 #Letizia329
+    }
+}
+
+KELB_130 = {
+    name = "Leonardo351"
+    culture = "kelberican"
+    faith = "colocist"
+    dynasty = KELBD12 #KelbDyn12
+    father = KELB_138 #Pietro137
+    mother = KELB_196 #Elettra160
+    579.1.1 = {
+        birth = yes
+    }
+}
+
+KELB_131 = {
+    name = "Maria134"
+    culture = "kelberican"
+    faith = "colocist"
+    female = yes
+    dynasty = KELBD12 #KelbDyn12
+    father = KELB_146 #Roberto57
+    mother = KELB_202 #Ginevra75
+    557.1.1 = {
+        birth = yes
+    }
+    575.1.1 = {
+        add_spouse = KELB_107 #Salvatore273
+    }
+}
+
+KELB_132 = {
+    name = "Matilda130"
+    culture = "kelberican"
+    faith = "colocist"
+    female = yes
+    dynasty = KELBD12 #KelbDyn12
+    father = KELB_146 #Roberto57
+    mother = KELB_202 #Ginevra75
+    550.1.1 = {
+        birth = yes
+    }
+    572.1.1 = {
+        add_spouse = KELB_417 #Massimo214
+    }
+}
+
+KELB_133 = {
+    name = "Matteo138"
+    culture = "kelberican"
+    faith = "colocist"
+    dynasty = KELBD12 #KelbDyn12
+    father = KELB_140 #Pietro58
+    mother = KELB_219 #Costanza80
+    554.1.1 = {
+        birth = yes
+    }
+    574.1.1 = {
+        add_spouse = KELB_227 #Maria162
+    }
+}
+
+KELB_134 = {
+    name = "Michele347"
+    culture = "kelberican"
+    faith = "colocist"
+    dynasty = KELBD12 #KelbDyn12
+    father = KELB_128 #Guglielmo131
+    mother = KELB_191 #Anna157
+    575.1.1 = {
+        birth = yes
+    }
+}
+
+KELB_135 = {
+    name = "Nadia363"
+    culture = "kelberican"
+    faith = "colocist"
+    female = yes
+    dynasty = KELBD12 #KelbDyn12
+    father = KELB_148 #Vincenzo133
+    mother = KELB_220 #Elettra163
+    587.1.1 = {
+        birth = yes
+    }
+}
+
+KELB_136 = {
+    name = "Paola346"
+    culture = "kelberican"
+    faith = "colocist"
+    female = yes
+    dynasty = KELBD12 #KelbDyn12
+    father = KELB_128 #Guglielmo131
+    mother = KELB_191 #Anna157
+    574.1.1 = {
+        birth = yes
+    }
+}
+
+KELB_137 = {
+    name = "Paolo350"
+    culture = "kelberican"
+    faith = "colocist"
+    dynasty = KELBD12 #KelbDyn12
+    father = KELB_128 #Guglielmo131
+    mother = KELB_191 #Anna157
+    580.1.1 = {
+        birth = yes
+    }
+}
+
+KELB_138 = {
+    name = "Pietro137"
+    culture = "kelberican"
+    faith = "colocist"
+    dynasty = KELBD12 #KelbDyn12
+    father = KELB_140 #Pietro58
+    mother = KELB_219 #Costanza80
+    553.1.1 = {
+        birth = yes
+    }
+    578.1.1 = {
+        add_spouse = KELB_196 #Elettra160
+    }
+}
+
+KELB_139 = {
+    name = "Pietro359"
+    culture = "kelberican"
+    faith = "colocist"
+    dynasty = KELBD12 #KelbDyn12
+    father = KELB_148 #Vincenzo133
+    mother = KELB_220 #Elettra163
+    581.1.1 = {
+        birth = yes
+    }
+}
+
+KELB_14 = {
+    name = "Giorgio109"
+    culture = "kelberican"
+    faith = "stonegods"
+    dynasty = KELBD1 #KelbDyn1
+    father = KELB_12 #Filippo3
+    mother = KELB_49 #Ginevra50
+    556.1.1 = {
+        birth = yes
+    }
+    574.1.1 = {
+        add_spouse = KELB_54 #Margherita116
+    }
+}
+
+KELB_140 = {
+    name = "Pietro58"
+    culture = "kelberican"
+    faith = "colocist"
+    dynasty = KELBD12 #KelbDyn12
+    father = KELB_119 #Amadeo56
+    522.1.1 = {
+        birth = yes
+    }
+    541.1.1 = {
+        add_spouse = KELB_219 #Costanza80
+    }
+    572.1.1 = {
+        death = yes
+    }
+}
+
+KELB_141 = {
+    name = "Raffaele135"
+    culture = "kelberican"
+    faith = "colocist"
+    dynasty = KELBD12 #KelbDyn12
+    father = KELB_140 #Pietro58
+    mother = KELB_219 #Costanza80
+    550.1.1 = {
+        birth = yes
+    }
+    570.1.1 = {
+        add_spouse = KELB_183 #Giulia150
+    }
+}
+
+KELB_142 = {
+    name = "Renata362"
+    culture = "kelberican"
+    faith = "colocist"
+    female = yes
+    dynasty = KELBD12 #KelbDyn12
+    father = KELB_148 #Vincenzo133
+    mother = KELB_220 #Elettra163
+    586.1.1 = {
+        birth = yes
+    }
+}
+
+KELB_143 = {
+    name = "Riccardo355"
+    culture = "kelberican"
+    faith = "colocist"
+    dynasty = KELBD12 #KelbDyn12
+    father = KELB_133 #Matteo138
+    mother = KELB_227 #Maria162
+    575.1.1 = {
+        birth = yes
+    }
+}
+
+KELB_144 = {
+    name = "Riccardo358"
+    culture = "kelberican"
+    faith = "colocist"
+    dynasty = KELBD12 #KelbDyn12
+    father = KELB_148 #Vincenzo133
+    mother = KELB_220 #Elettra163
+    579.1.1 = {
+        birth = yes
+    }
+}
+
+KELB_145 = {
+    name = "Rinaldo353"
+    culture = "kelberican"
+    faith = "colocist"
+    dynasty = KELBD12 #KelbDyn12
+    father = KELB_138 #Pietro137
+    mother = KELB_196 #Elettra160
+    582.1.1 = {
+        birth = yes
+    }
+}
+
+KELB_146 = {
+    name = "Roberto57"
+    culture = "kelberican"
+    faith = "colocist"
+    dynasty = KELBD12 #KelbDyn12
+    father = KELB_119 #Amadeo56
+    519.1.1 = {
+        birth = yes
+    }
+    547.1.1 = {
+        add_spouse = KELB_202 #Ginevra75
+    }
+    575.1.1 = {
+        death = yes
+    }
+}
+
+KELB_147 = {
+    name = "Sofia136"
+    culture = "kelberican"
+    faith = "colocist"
+    female = yes
+    dynasty = KELBD12 #KelbDyn12
+    father = KELB_140 #Pietro58
+    mother = KELB_219 #Costanza80
+    551.1.1 = {
+        birth = yes
+    }
+    575.1.1 = {
+        add_spouse = KELB_58 #Rinaldo119
+    }
+}
+
+KELB_148 = {
+    name = "Vincenzo133"
+    culture = "kelberican"
+    faith = "colocist"
+    dynasty = KELBD12 #KelbDyn12
+    father = KELB_146 #Roberto57
+    mother = KELB_202 #Ginevra75
+    555.1.1 = {
+        birth = yes
+    }
+    578.1.1 = {
+        add_spouse = KELB_220 #Elettra163
+    }
+}
+
+KELB_149 = {
+    name = "Vittoria357"
+    culture = "kelberican"
+    faith = "colocist"
+    female = yes
+    dynasty = KELBD12 #KelbDyn12
+    father = KELB_133 #Matteo138
+    mother = KELB_227 #Maria162
+    579.1.1 = {
+        birth = yes
+    }
+}
+
+KELB_15 = {
+    name = "Giorgio291"
+    culture = "kelberican"
+    faith = "stonegods"
+    dynasty = KELBD1 #KelbDyn1
+    father = KELB_14 #Giorgio109
+    mother = KELB_54 #Margherita116
+    581.1.1 = {
+        birth = yes
+    }
+}
+
+KELB_150 = {
+    name = "Adelina140"
+    culture = "kelberican"
+    faith = "colocist"
+    female = yes
+    dynasty = KELBD13 #KelbDyn13
+    father = KELB_152 #Alessandro62
+    mother = KELB_245 #Claudia85
+    552.1.1 = {
+        birth = yes
+    }
+    571.1.1 = {
+        add_spouse = KELB_420 #Pietro222
+    }
+}
+
+KELB_151 = {
+    name = "Agnese143"
+    culture = "kelberican"
+    faith = "colocist"
+    female = yes
+    dynasty = KELBD13 #KelbDyn13
+    father = KELB_161 #Francesco63
+    mother = KELB_287 #Elettra90
+    551.1.1 = {
+        birth = yes
+    }
+    573.1.1 = {
+        add_spouse = KELB_95 #Lorenzo120
+    }
+}
+
+KELB_152 = {
+    name = "Alessandro62"
+    culture = "kelberican"
+    faith = "colocist"
+    dynasty = KELBD13 #KelbDyn13
+    father = KELB_157 #Benito61
+    520.1.1 = {
+        birth = yes
+    }
+    535.1.1 = {
+        add_spouse = KELB_245 #Claudia85
+    }
+    580.1.1 = {
+        death = yes
+    }
+}
+
+KELB_153 = {
+    name = "Angelica144"
+    culture = "kelberican"
+    faith = "colocist"
+    female = yes
+    dynasty = KELBD13 #KelbDyn13
+    father = KELB_161 #Francesco63
+    mother = KELB_287 #Elettra90
+    553.1.1 = {
+        birth = yes
+    }
+    569.1.1 = {
+        add_spouse = KELB_441 #Giovanni223
+    }
+}
+
+KELB_154 = {
+    name = "Angelica364"
+    culture = "kelberican"
+    faith = "colocist"
+    female = yes
+    dynasty = KELBD13 #KelbDyn13
+    father = KELB_166 #Salvatore147
+    mother = KELB_225 #Livia167
+    572.1.1 = {
+        birth = yes
+    }
+}
+
+KELB_155 = {
+    name = "Beatrice367"
+    culture = "kelberican"
+    faith = "colocist"
+    female = yes
+    dynasty = KELBD13 #KelbDyn13
+    father = KELB_166 #Salvatore147
+    mother = KELB_225 #Livia167
+    576.1.1 = {
+        birth = yes
+    }
+}
+
+KELB_156 = {
+    name = "Beatrice64"
+    culture = "kelberican"
+    faith = "colocist"
+    female = yes
+    dynasty = KELBD13 #KelbDyn13
+    father = KELB_157 #Benito61
+    526.1.1 = {
+        birth = yes
+    }
+    545.1.1 = {
+        add_spouse = KELB_343 #Francesco8
+    }
+    581.1.1 = {
+        death = yes
+    }
+}
+
+KELB_157 = {
+    name = "Benito61"
+    culture = "kelberican"
+    faith = "colocist"
+    dynasty = KELBD13 #KelbDyn13
+    482.1.1 = {
+        birth = yes
+    }
+    543.1.1 = {
+        death = yes
+    }
+}
+
+KELB_158 = {
+    name = "Donatella141"
+    culture = "kelberican"
+    faith = "colocist"
+    female = yes
+    dynasty = KELBD13 #KelbDyn13
+    father = KELB_152 #Alessandro62
+    mother = KELB_245 #Claudia85
+    553.1.1 = {
+        birth = yes
+    }
+    578.1.1 = {
+        add_spouse = KELB_97 #Matteo121
+    }
+}
+
+KELB_159 = {
+    name = "Emilia142"
+    culture = "kelberican"
+    faith = "colocist"
+    female = yes
+    dynasty = KELBD13 #KelbDyn13
+    father = KELB_152 #Alessandro62
+    mother = KELB_245 #Claudia85
+    555.1.1 = {
+        birth = yes
+    }
+    567.1.1 = {
+        add_spouse = KELB_442 #Giovanni226
+    }
+}
+
+KELB_16 = {
+    name = "Giorgio292"
+    culture = "kelberican"
+    faith = "stonegods"
+    dynasty = KELBD1 #KelbDyn1
+    father = KELB_14 #Giorgio109
+    mother = KELB_54 #Margherita116
+    582.1.1 = {
+        birth = yes
+    }
+}
+
+KELB_160 = {
+    name = "Emilia366"
+    culture = "kelberican"
+    faith = "colocist"
+    female = yes
+    dynasty = KELBD13 #KelbDyn13
+    father = KELB_166 #Salvatore147
+    mother = KELB_225 #Livia167
+    575.1.1 = {
+        birth = yes
+    }
+}
+
+KELB_161 = {
+    name = "Francesco63"
+    culture = "kelberican"
+    faith = "colocist"
+    dynasty = KELBD13 #KelbDyn13
+    father = KELB_157 #Benito61
+    523.1.1 = {
+        birth = yes
+    }
+    550.1.1 = {
+        add_spouse = KELB_287 #Elettra90
+    }
+}
+
+KELB_162 = {
+    name = "Ginevra139"
+    culture = "kelberican"
+    faith = "colocist"
+    female = yes
+    dynasty = KELBD13 #KelbDyn13
+    father = KELB_152 #Alessandro62
+    mother = KELB_245 #Claudia85
+    550.1.1 = {
+        birth = yes
+    }
+    576.1.1 = {
+        add_spouse = KELB_412 #Gregorio216
+    }
+}
+
+KELB_163 = {
+    name = "Letizia146"
+    culture = "kelberican"
+    faith = "colocist"
+    female = yes
+    dynasty = KELBD13 #KelbDyn13
+    father = KELB_161 #Francesco63
+    mother = KELB_287 #Elettra90
+    556.1.1 = {
+        birth = yes
+    }
+    578.1.1 = {
+        add_spouse = KELB_91 #Leonardo127
+    }
+}
+
+KELB_164 = {
+    name = "Michele365"
+    culture = "kelberican"
+    faith = "colocist"
+    dynasty = KELBD13 #KelbDyn13
+    father = KELB_166 #Salvatore147
+    mother = KELB_225 #Livia167
+    573.1.1 = {
+        birth = yes
+    }
+}
+
+KELB_165 = {
+    name = "Rosa368"
+    culture = "kelberican"
+    faith = "colocist"
+    female = yes
+    dynasty = KELBD13 #KelbDyn13
+    father = KELB_166 #Salvatore147
+    mother = KELB_225 #Livia167
+    577.1.1 = {
+        birth = yes
+    }
+}
+
+KELB_166 = {
+    name = "Salvatore147"
+    culture = "kelberican"
+    faith = "colocist"
+    dynasty = KELBD13 #KelbDyn13
+    father = KELB_161 #Francesco63
+    mother = KELB_287 #Elettra90
+    558.1.1 = {
+        birth = yes
+    }
+    571.1.1 = {
+        add_spouse = KELB_225 #Livia167
+    }
+}
+
+KELB_167 = {
+    name = "Silvana65"
+    culture = "kelberican"
+    faith = "colocist"
+    female = yes
+    dynasty = KELBD13 #KelbDyn13
+    father = KELB_157 #Benito61
+    529.1.1 = {
+        birth = yes
+    }
+    544.1.1 = {
+        add_spouse = KELB_102 #Raffaele52
+    }
+    579.1.1 = {
+        death = yes
+    }
+}
+
+KELB_168 = {
+    name = "Valentina145"
+    culture = "kelberican"
+    faith = "colocist"
+    female = yes
+    dynasty = KELBD13 #KelbDyn13
+    father = KELB_161 #Francesco63
+    mother = KELB_287 #Elettra90
+    554.1.1 = {
+        birth = yes
+    }
+    566.1.1 = {
+        add_spouse = KELB_111 #Vincenzo123
+    }
+}
+
+KELB_169 = {
+    name = "Alberto375"
+    culture = "kelberican"
+    faith = "colocist"
+    dynasty = KELBD14 #KelbDyn14
+    father = KELB_172 #Bartolomeo153
+    mother = KELB_286 #Claudia180
+    577.1.1 = {
+        birth = yes
+    }
+}
+
+KELB_17 = {
+    name = "Guido280"
+    culture = "kelberican"
+    faith = "stonegods"
+    dynasty = KELBD1 #KelbDyn1
+    father = KELB_32 #Vincenzo105
+    mother = KELB_44 #Elettra114
+    571.1.1 = {
+        birth = yes
+    }
+    586.1.1 = {
+        add_spouse = KELB_129 #Laura343
+    }
+}
+
+KELB_170 = {
+    name = "Alessandro369"
+    culture = "kelberican"
+    faith = "colocist"
+    dynasty = KELBD14 #KelbDyn14
+    father = KELB_184 #Gregorio149
+    mother = KELB_242 #Beatrice171
+    573.1.1 = {
+        birth = yes
+    }
+}
+
+KELB_171 = {
+    name = "Amadeo376"
+    culture = "kelberican"
+    faith = "colocist"
+    dynasty = KELBD14 #KelbDyn14
+    father = KELB_172 #Bartolomeo153
+    mother = KELB_286 #Claudia180
+    579.1.1 = {
+        birth = yes
+    }
+}
+
+KELB_172 = {
+    name = "Bartolomeo153"
+    culture = "kelberican"
+    faith = "colocist"
+    dynasty = KELBD14 #KelbDyn14
+    father = KELB_188 #Vittorio68
+    mother = KELB_340 #Elettra10
+    554.1.1 = {
+        birth = yes
+    }
+    575.1.1 = {
+        add_spouse = KELB_286 #Claudia180
+    }
+}
+
+KELB_173 = {
+    name = "Camilla373"
+    culture = "kelberican"
+    faith = "colocist"
+    female = yes
+    dynasty = KELBD14 #KelbDyn14
+    father = KELB_184 #Gregorio149
+    mother = KELB_242 #Beatrice171
+    577.1.1 = {
+        birth = yes
+    }
+}
+
+KELB_174 = {
+    name = "Carlotta151"
+    culture = "kelberican"
+    faith = "colocist"
+    female = yes
+    dynasty = KELBD14 #KelbDyn14
+    father = KELB_188 #Vittorio68
+    mother = KELB_340 #Elettra10
+    550.1.1 = {
+        birth = yes
+    }
+    574.1.1 = {
+        add_spouse = KELB_73 #Antonio129
+    }
+}
+
+KELB_175 = {
+    name = "Carlotta152"
+    culture = "kelberican"
+    faith = "colocist"
+    female = yes
+    dynasty = KELBD14 #KelbDyn14
+    father = KELB_188 #Vittorio68
+    mother = KELB_340 #Elettra10
+    552.1.1 = {
+        birth = yes
+    }
+    569.1.1 = {
+        add_spouse = KELB_462 #Salvatore227
+    }
+}
+
+KELB_176 = {
+    name = "Carlotta374"
+    culture = "kelberican"
+    faith = "colocist"
+    female = yes
+    dynasty = KELBD14 #KelbDyn14
+    father = KELB_172 #Bartolomeo153
+    mother = KELB_286 #Claudia180
+    576.1.1 = {
+        birth = yes
+    }
+}
+
+KELB_177 = {
+    name = "Claudia70"
+    culture = "kelberican"
+    faith = "colocist"
+    female = yes
+    dynasty = KELBD14 #KelbDyn14
+    father = KELB_186 #Paolo66
+    530.1.1 = {
+        birth = yes
+    }
+    536.1.1 = {
+        add_spouse = KELB_77 #Bernardo53
+    }
+    568.1.1 = {
+        death = yes
+    }
+}
+
+KELB_178 = {
+    name = "Costanza371"
+    culture = "kelberican"
+    faith = "colocist"
+    female = yes
+    dynasty = KELBD14 #KelbDyn14
+    father = KELB_184 #Gregorio149
+    mother = KELB_242 #Beatrice171
+    575.1.1 = {
+        birth = yes
+    }
+}
+
+KELB_179 = {
+    name = "Domenico67"
+    culture = "kelberican"
+    faith = "colocist"
+    dynasty = KELBD14 #KelbDyn14
+    father = KELB_186 #Paolo66
+    521.1.1 = {
+        birth = yes
+    }
+    540.1.1 = {
+        add_spouse = KELB_329 #Serafina95
+    }
+}
+
+KELB_18 = {
+    name = "Livia276"
+    culture = "kelberican"
+    faith = "stonegods"
+    female = yes
+    dynasty = KELBD1 #KelbDyn1
+    father = KELB_30 #Stefano101
+    mother = KELB_53 #Maddalena110
+    577.1.1 = {
+        birth = yes
+    }
+}
+
+KELB_180 = {
+    name = "Donatella148"
+    culture = "kelberican"
+    faith = "colocist"
+    female = yes
+    dynasty = KELBD14 #KelbDyn14
+    father = KELB_179 #Domenico67
+    mother = KELB_329 #Serafina95
+    550.1.1 = {
+        birth = yes
+    }
+    577.1.1 = {
+        add_spouse = KELB_461 #Roberto224
+    }
+}
+
+KELB_181 = {
+    name = "Federica69"
+    culture = "kelberican"
+    faith = "colocist"
+    female = yes
+    dynasty = KELBD14 #KelbDyn14
+    father = KELB_186 #Paolo66
+    527.1.1 = {
+        birth = yes
+    }
+    540.1.1 = {
+        add_spouse = KELB_386 #Pietro97
+    }
+    578.1.1 = {
+        death = yes
+    }
+}
+
+KELB_182 = {
+    name = "Filippo372"
+    culture = "kelberican"
+    faith = "colocist"
+    dynasty = KELBD14 #KelbDyn14
+    father = KELB_184 #Gregorio149
+    mother = KELB_242 #Beatrice171
+    576.1.1 = {
+        birth = yes
+    }
+}
+
+KELB_183 = {
+    name = "Giulia150"
+    culture = "kelberican"
+    faith = "colocist"
+    female = yes
+    dynasty = KELBD14 #KelbDyn14
+    father = KELB_179 #Domenico67
+    mother = KELB_329 #Serafina95
+    553.1.1 = {
+        birth = yes
+    }
+    570.1.1 = {
+        add_spouse = KELB_141 #Raffaele135
+    }
+}
+
+KELB_184 = {
+    name = "Gregorio149"
+    culture = "kelberican"
+    faith = "colocist"
+    dynasty = KELBD14 #KelbDyn14
+    father = KELB_179 #Domenico67
+    mother = KELB_329 #Serafina95
+    552.1.1 = {
+        birth = yes
+    }
+    572.1.1 = {
+        add_spouse = KELB_242 #Beatrice171
+    }
+}
+
+KELB_185 = {
+    name = "Laura377"
+    culture = "kelberican"
+    faith = "colocist"
+    female = yes
+    dynasty = KELBD14 #KelbDyn14
+    father = KELB_172 #Bartolomeo153
+    mother = KELB_286 #Claudia180
+    581.1.1 = {
+        birth = yes
+    }
+}
+
+KELB_186 = {
+    name = "Paolo66"
+    culture = "kelberican"
+    faith = "colocist"
+    dynasty = KELBD14 #KelbDyn14
+    483.1.1 = {
+        birth = yes
+    }
+    558.1.1 = {
+        death = yes
+    }
+}
+
+KELB_187 = {
+    name = "Stefano370"
+    culture = "kelberican"
+    faith = "colocist"
+    dynasty = KELBD14 #KelbDyn14
+    father = KELB_184 #Gregorio149
+    mother = KELB_242 #Beatrice171
+    574.1.1 = {
+        birth = yes
+    }
+}
+
+KELB_188 = {
+    name = "Vittorio68"
+    culture = "kelberican"
+    faith = "colocist"
+    dynasty = KELBD14 #KelbDyn14
+    father = KELB_186 #Paolo66
+    524.1.1 = {
+        birth = yes
+    }
+    539.1.1 = {
+        add_spouse = KELB_340 #Elettra10
+    }
+    577.1.1 = {
+        death = yes
+    }
+}
+
+KELB_189 = {
+    name = "Amadeo390"
+    culture = "kelberican"
+    faith = "colocist"
+    dynasty = KELBD15 #KelbDyn15
+    father = KELB_213 #Vittorio159
+    mother = KELB_328 #Serafina186
+    575.1.1 = {
+        birth = yes
+    }
+}
+
+KELB_19 = {
+    name = "Marco2"
+    culture = "kelberican"
+    faith = "stonegods"
+    dynasty = KELBD1 #KelbDyn1
+    father = KELB_2 #Alessandro1
+    515.1.1 = {
+        birth = yes
+    }
+    542.1.1 = {
+        add_spouse = KELB_50 #Isabella49
+    }
+    579.1.1 = {
+        death = yes
+    }
+}
+
+KELB_190 = {
+    name = "Angelica380"
+    culture = "kelberican"
+    faith = "colocist"
+    female = yes
+    dynasty = KELBD15 #KelbDyn15
+    father = KELB_200 #Giacomo155
+    mother = KELB_292 #Lucia181
+    575.1.1 = {
+        birth = yes
+    }
+}
+
+KELB_191 = {
+    name = "Anna157"
+    culture = "kelberican"
+    faith = "colocist"
+    female = yes
+    dynasty = KELBD15 #KelbDyn15
+    father = KELB_204 #Guglielmo73
+    mother = KELB_419 #Paola15
+    550.1.1 = {
+        birth = yes
+    }
+    573.1.1 = {
+        add_spouse = KELB_128 #Guglielmo131
+    }
+}
+
+KELB_192 = {
+    name = "Anna382"
+    culture = "kelberican"
+    faith = "colocist"
+    female = yes
+    dynasty = KELBD15 #KelbDyn15
+    father = KELB_200 #Giacomo155
+    mother = KELB_292 #Lucia181
+    578.1.1 = {
+        birth = yes
+    }
+}
+
+KELB_193 = {
+    name = "Antonio385"
+    culture = "kelberican"
+    faith = "colocist"
+    dynasty = KELBD15 #KelbDyn15
+    father = KELB_199 #Francesco158
+    mother = KELB_300 #Rosa184
+    574.1.1 = {
+        birth = yes
+    }
+}
+
+KELB_194 = {
+    name = "Bianca389"
+    culture = "kelberican"
+    faith = "colocist"
+    female = yes
+    dynasty = KELBD15 #KelbDyn15
+    father = KELB_213 #Vittorio159
+    mother = KELB_328 #Serafina186
+    573.1.1 = {
+        birth = yes
+    }
+}
+
+KELB_195 = {
+    name = "Chiara388"
+    culture = "kelberican"
+    faith = "colocist"
+    female = yes
+    dynasty = KELBD15 #KelbDyn15
+    father = KELB_213 #Vittorio159
+    mother = KELB_328 #Serafina186
+    571.1.1 = {
+        birth = yes
+    }
+    586.1.1 = {
+        add_spouse = KELB_56 #Niccolo302
+    }
+}
+
+KELB_196 = {
+    name = "Elettra160"
+    culture = "kelberican"
+    faith = "colocist"
+    female = yes
+    dynasty = KELBD15 #KelbDyn15
+    father = KELB_204 #Guglielmo73
+    mother = KELB_419 #Paola15
+    554.1.1 = {
+        birth = yes
+    }
+    578.1.1 = {
+        add_spouse = KELB_138 #Pietro137
+    }
+}
+
+KELB_197 = {
+    name = "Elettra383"
+    culture = "kelberican"
+    faith = "colocist"
+    female = yes
+    dynasty = KELBD15 #KelbDyn15
+    father = KELB_199 #Francesco158
+    mother = KELB_300 #Rosa184
+    571.1.1 = {
+        birth = yes
+    }
+    586.1.1 = {
+        add_spouse = KELB_594 #Guglielmo613
+    }
+}
+
+KELB_198 = {
+    name = "Federico71"
+    culture = "kelberican"
+    faith = "colocist"
+    dynasty = KELBD15 #KelbDyn15
+    484.1.1 = {
+        birth = yes
+    }
+    555.1.1 = {
+        death = yes
+    }
+}
+
+KELB_199 = {
+    name = "Francesco158"
+    culture = "kelberican"
+    faith = "colocist"
+    dynasty = KELBD15 #KelbDyn15
+    father = KELB_204 #Guglielmo73
+    mother = KELB_419 #Paola15
+    551.1.1 = {
+        birth = yes
+    }
+    570.1.1 = {
+        add_spouse = KELB_300 #Rosa184
+    }
+}
+
+KELB_2 = {
+    name = "Alessandro1"
+    culture = "kelberican"
+    faith = "stonegods"
+    dynasty = KELBD1 #KelbDyn1
+    480.1.1 = {
+        birth = yes
+    }
+    546.1.1 = {
+        death = yes
+    }
+}
+
+KELB_20 = {
+    name = "Michele279"
+    culture = "kelberican"
+    faith = "stonegods"
+    dynasty = KELBD1 #KelbDyn1
+    father = KELB_32 #Vincenzo105
+    mother = KELB_44 #Elettra114
+    569.1.1 = {
+        birth = yes
+    }
+    586.1.1 = {
+        add_spouse = KELB_43 #Claudia303
+    }
+}
+
+KELB_200 = {
+    name = "Giacomo155"
+    culture = "kelberican"
+    faith = "colocist"
+    dynasty = KELBD15 #KelbDyn15
+    father = KELB_212 #Stefano72
+    mother = KELB_380 #Matilda100
+    551.1.1 = {
+        birth = yes
+    }
+    571.1.1 = {
+        add_spouse = KELB_292 #Lucia181
+    }
+}
+
+KELB_201 = {
+    name = "Giacomo378"
+    culture = "kelberican"
+    faith = "colocist"
+    dynasty = KELBD15 #KelbDyn15
+    father = KELB_200 #Giacomo155
+    mother = KELB_292 #Lucia181
+    572.1.1 = {
+        birth = yes
+    }
+}
+
+KELB_202 = {
+    name = "Ginevra75"
+    culture = "kelberican"
+    faith = "colocist"
+    female = yes
+    dynasty = KELBD15 #KelbDyn15
+    father = KELB_198 #Federico71
+    524.1.1 = {
+        birth = yes
+    }
+    547.1.1 = {
+        add_spouse = KELB_146 #Roberto57
+    }
+    578.1.1 = {
+        death = yes
+    }
+}
+
+KELB_203 = {
+    name = "Giorgio379"
+    culture = "kelberican"
+    faith = "colocist"
+    dynasty = KELBD15 #KelbDyn15
+    father = KELB_200 #Giacomo155
+    mother = KELB_292 #Lucia181
+    573.1.1 = {
+        birth = yes
+    }
+}
+
+KELB_204 = {
+    name = "Guglielmo73"
+    culture = "kelberican"
+    faith = "colocist"
+    dynasty = KELBD15 #KelbDyn15
+    father = KELB_198 #Federico71
+    518.1.1 = {
+        birth = yes
+    }
+    543.1.1 = {
+        add_spouse = KELB_419 #Paola15
+    }
+    574.1.1 = {
+        death = yes
+    }
+}
+
+KELB_205 = {
+    name = "Isabella156"
+    culture = "kelberican"
+    faith = "colocist"
+    female = yes
+    dynasty = KELBD15 #KelbDyn15
+    father = KELB_212 #Stefano72
+    mother = KELB_380 #Matilda100
+    553.1.1 = {
+        birth = yes
+    }
+    570.1.1 = {
+        add_spouse = KELB_440 #Giorgio228
+    }
+}
+
+KELB_206 = {
+    name = "Isabella74"
+    culture = "kelberican"
+    faith = "colocist"
+    female = yes
+    dynasty = KELBD15 #KelbDyn15
+    father = KELB_198 #Federico71
+    521.1.1 = {
+        birth = yes
+    }
+    539.1.1 = {
+        add_spouse = KELB_385 #Paolo98
+    }
+    582.1.1 = {
+        death = yes
+    }
+}
+
+KELB_207 = {
+    name = "Maddalena384"
+    culture = "kelberican"
+    faith = "colocist"
+    female = yes
+    dynasty = KELBD15 #KelbDyn15
+    father = KELB_199 #Francesco158
+    mother = KELB_300 #Rosa184
+    573.1.1 = {
+        birth = yes
+    }
+}
+
+KELB_208 = {
+    name = "Niccolo387"
+    culture = "kelberican"
+    faith = "colocist"
+    dynasty = KELBD15 #KelbDyn15
+    father = KELB_199 #Francesco158
+    mother = KELB_300 #Rosa184
+    577.1.1 = {
+        birth = yes
+    }
+}
+
+KELB_209 = {
+    name = "Paolo381"
+    culture = "kelberican"
+    faith = "colocist"
+    dynasty = KELBD15 #KelbDyn15
+    father = KELB_200 #Giacomo155
+    mother = KELB_292 #Lucia181
+    577.1.1 = {
+        birth = yes
+    }
+}
+
+KELB_21 = {
+    name = "Paola104"
+    culture = "kelberican"
+    faith = "stonegods"
+    female = yes
+    dynasty = KELBD1 #KelbDyn1
+    father = KELB_19 #Marco2
+    mother = KELB_50 #Isabella49
+    555.1.1 = {
+        birth = yes
+    }
+    573.1.1 = {
+        add_spouse = KELB_634 #Leonardo269
+    }
+}
+
+KELB_210 = {
+    name = "Rosa154"
+    culture = "kelberican"
+    faith = "colocist"
+    female = yes
+    dynasty = KELBD15 #KelbDyn15
+    father = KELB_212 #Stefano72
+    mother = KELB_380 #Matilda100
+    550.1.1 = {
+        birth = yes
+    }
+    571.1.1 = {
+        add_spouse = KELB_460 #Riccardo225
+    }
+}
+
+KELB_211 = {
+    name = "Rosa386"
+    culture = "kelberican"
+    faith = "colocist"
+    female = yes
+    dynasty = KELBD15 #KelbDyn15
+    father = KELB_199 #Francesco158
+    mother = KELB_300 #Rosa184
+    576.1.1 = {
+        birth = yes
+    }
+}
+
+KELB_212 = {
+    name = "Stefano72"
+    culture = "kelberican"
+    faith = "colocist"
+    dynasty = KELBD15 #KelbDyn15
+    father = KELB_198 #Federico71
+    515.1.1 = {
+        birth = yes
+    }
+    542.1.1 = {
+        add_spouse = KELB_380 #Matilda100
+    }
+    578.1.1 = {
+        death = yes
+    }
+}
+
+KELB_213 = {
+    name = "Vittorio159"
+    culture = "kelberican"
+    faith = "colocist"
+    dynasty = KELBD15 #KelbDyn15
+    father = KELB_204 #Guglielmo73
+    mother = KELB_419 #Paola15
+    552.1.1 = {
+        birth = yes
+    }
+    570.1.1 = {
+        add_spouse = KELB_328 #Serafina186
+    }
+}
+
+KELB_214 = {
+    name = "Camilla401"
+    culture = "kelberican"
+    faith = "colocist"
+    female = yes
+    dynasty = KELBD16 #KelbDyn16
+    father = KELB_232 #Tommaso168
+    mother = KELB_345 #Ginevra196
+    575.1.1 = {
+        birth = yes
+    }
+}
+
+KELB_215 = {
+    name = "Carlotta166"
+    culture = "kelberican"
+    faith = "colocist"
+    female = yes
+    dynasty = KELBD16 #KelbDyn16
+    father = KELB_235 #Tommaso78
+    mother = KELB_486 #Emilia25
+    554.1.1 = {
+        birth = yes
+    }
+    575.1.1 = {
+        add_spouse = KELB_496 #Marco235
+    }
+}
+
+KELB_216 = {
+    name = "Caterina79"
+    culture = "kelberican"
+    faith = "colocist"
+    female = yes
+    dynasty = KELBD16 #KelbDyn16
+    father = KELB_230 #Niccolo76
+    522.1.1 = {
+        birth = yes
+    }
+    541.1.1 = {
+        add_spouse = KELB_401 #Carlo12
+    }
+    573.1.1 = {
+        death = yes
+    }
+}
+
+KELB_217 = {
+    name = "Cesare399"
+    culture = "kelberican"
+    faith = "colocist"
+    dynasty = KELBD16 #KelbDyn16
+    father = KELB_232 #Tommaso168
+    mother = KELB_345 #Ginevra196
+    571.1.1 = {
+        birth = yes
+    }
+    586.1.1 = {
+        add_spouse = KELB_311 #Costanza453
+    }
+}
+
+KELB_218 = {
+    name = "Costanza165"
+    culture = "kelberican"
+    faith = "colocist"
+    female = yes
+    dynasty = KELBD16 #KelbDyn16
+    father = KELB_235 #Tommaso78
+    mother = KELB_486 #Emilia25
+    552.1.1 = {
+        birth = yes
+    }
+    567.1.1 = {
+        add_spouse = KELB_478 #Antonio231
+    }
+}
+
+KELB_219 = {
+    name = "Costanza80"
+    culture = "kelberican"
+    faith = "colocist"
+    female = yes
+    dynasty = KELBD16 #KelbDyn16
+    father = KELB_230 #Niccolo76
+    525.1.1 = {
+        birth = yes
+    }
+    541.1.1 = {
+        add_spouse = KELB_140 #Pietro58
+    }
+    568.1.1 = {
+        death = yes
+    }
+}
+
+KELB_22 = {
+    name = "Riccardo283"
+    culture = "kelberican"
+    faith = "stonegods"
+    dynasty = KELBD1 #KelbDyn1
+    father = KELB_11 #Enrico102
+    mother = KELB_41 #Carlotta111
+    573.1.1 = {
+        birth = yes
+    }
+}
+
+KELB_220 = {
+    name = "Elettra163"
+    culture = "kelberican"
+    faith = "colocist"
+    female = yes
+    dynasty = KELBD16 #KelbDyn16
+    father = KELB_231 #Riccardo77
+    mother = KELB_430 #Angelica20
+    553.1.1 = {
+        birth = yes
+    }
+    578.1.1 = {
+        add_spouse = KELB_148 #Vincenzo133
+    }
+}
+
+KELB_221 = {
+    name = "Emilia400"
+    culture = "kelberican"
+    faith = "colocist"
+    female = yes
+    dynasty = KELBD16 #KelbDyn16
+    father = KELB_232 #Tommaso168
+    mother = KELB_345 #Ginevra196
+    573.1.1 = {
+        birth = yes
+    }
+}
+
+KELB_222 = {
+    name = "Federica391"
+    culture = "kelberican"
+    faith = "colocist"
+    female = yes
+    dynasty = KELBD16 #KelbDyn16
+    father = KELB_233 #Tommaso274
+    mother = KELB_321 #Maddalena188
+    569.1.1 = {
+        birth = yes
+    }
+    586.1.1 = {
+        add_spouse = KELB_92 #Leonardo330
+    }
+}
+
+KELB_223 = {
+    name = "Ginevra392"
+    culture = "kelberican"
+    faith = "colocist"
+    female = yes
+    dynasty = KELBD16 #KelbDyn16
+    father = KELB_233 #Tommaso274
+    mother = KELB_321 #Maddalena188
+    570.1.1 = {
+        birth = yes
+    }
+}
+
+KELB_224 = {
+    name = "Guido161"
+    culture = "kelberican"
+    faith = "colocist"
+    dynasty = KELBD16 #KelbDyn16
+    father = KELB_231 #Riccardo77
+    mother = KELB_430 #Angelica20
+    550.1.1 = {
+        birth = yes
+    }
+    566.1.1 = {
+        add_spouse = KELB_352 #Nadia199
+    }
+}
+
+KELB_225 = {
+    name = "Livia167"
+    culture = "kelberican"
+    faith = "colocist"
+    female = yes
+    dynasty = KELBD16 #KelbDyn16
+    father = KELB_235 #Tommaso78
+    mother = KELB_486 #Emilia25
+    556.1.1 = {
+        birth = yes
+    }
+    571.1.1 = {
+        add_spouse = KELB_166 #Salvatore147
+    }
+}
+
+KELB_226 = {
+    name = "Margherita393"
+    culture = "kelberican"
+    faith = "colocist"
+    female = yes
+    dynasty = KELBD16 #KelbDyn16
+    father = KELB_233 #Tommaso274
+    mother = KELB_321 #Maddalena188
+    571.1.1 = {
+        birth = yes
+    }
+}
+
+KELB_227 = {
+    name = "Maria162"
+    culture = "kelberican"
+    faith = "colocist"
+    female = yes
+    dynasty = KELBD16 #KelbDyn16
+    father = KELB_231 #Riccardo77
+    mother = KELB_430 #Angelica20
+    552.1.1 = {
+        birth = yes
+    }
+    574.1.1 = {
+        add_spouse = KELB_133 #Matteo138
+    }
+}
+
+KELB_228 = {
+    name = "Matteo398"
+    culture = "kelberican"
+    faith = "colocist"
+    dynasty = KELBD16 #KelbDyn16
+    father = KELB_232 #Tommaso168
+    mother = KELB_345 #Ginevra196
+    569.1.1 = {
+        birth = yes
+    }
+    586.1.1 = {
+        add_spouse = KELB_318 #Laura451
+    }
+}
+
+KELB_229 = {
+    name = "Nadia396"
+    culture = "kelberican"
+    faith = "colocist"
+    female = yes
+    dynasty = KELBD16 #KelbDyn16
+    father = KELB_224 #Guido161
+    mother = KELB_352 #Nadia199
+    570.1.1 = {
+        birth = yes
+    }
+    586.1.1 = {
+        add_spouse = KELB_98 #Matteo332
+    }
+}
+
+KELB_23 = {
+    name = "Riccardo289"
+    culture = "kelberican"
+    faith = "stonegods"
+    dynasty = KELBD1 #KelbDyn1
+    father = KELB_14 #Giorgio109
+    mother = KELB_54 #Margherita116
+    577.1.1 = {
+        birth = yes
+    }
+}
+
+KELB_230 = {
+    name = "Niccolo76"
+    culture = "kelberican"
+    faith = "colocist"
+    dynasty = KELBD16 #KelbDyn16
+    485.1.1 = {
+        birth = yes
+    }
+    549.1.1 = {
+        death = yes
+    }
+}
+
+KELB_231 = {
+    name = "Riccardo77"
+    culture = "kelberican"
+    faith = "colocist"
+    dynasty = KELBD16 #KelbDyn16
+    father = KELB_230 #Niccolo76
+    516.1.1 = {
+        birth = yes
+    }
+    540.1.1 = {
+        add_spouse = KELB_430 #Angelica20
+    }
+    575.1.1 = {
+        death = yes
+    }
+}
+
+KELB_232 = {
+    name = "Tommaso168"
+    culture = "kelberican"
+    faith = "colocist"
+    dynasty = KELBD16 #KelbDyn16
+    father = KELB_235 #Tommaso78
+    mother = KELB_486 #Emilia25
+    557.1.1 = {
+        birth = yes
+    }
+    566.1.1 = {
+        add_spouse = KELB_345 #Ginevra196
+    }
+}
+
+KELB_233 = {
+    name = "Tommaso274"
+    culture = "kelberican"
+    faith = "colocist"
+    dynasty = KELBD16 #KelbDyn16
+    541.1.1 = {
+        birth = yes
+    }
+    568.1.1 = {
+        add_spouse = KELB_321 #Maddalena188
+    }
+}
+
+KELB_234 = {
+    name = "Tommaso395"
+    culture = "kelberican"
+    faith = "colocist"
+    dynasty = KELBD16 #KelbDyn16
+    father = KELB_224 #Guido161
+    mother = KELB_352 #Nadia199
+    568.1.1 = {
+        birth = yes
+    }
+    586.1.1 = {
+        add_spouse = KELB_277 #Agnese439
+    }
+}
+
+KELB_235 = {
+    name = "Tommaso78"
+    culture = "kelberican"
+    faith = "colocist"
+    dynasty = KELBD16 #KelbDyn16
+    father = KELB_230 #Niccolo76
+    519.1.1 = {
+        birth = yes
+    }
+    550.1.1 = {
+        add_spouse = KELB_486 #Emilia25
+    }
+    575.1.1 = {
+        death = yes
+    }
+}
+
+KELB_236 = {
+    name = "Vincenzo397"
+    culture = "kelberican"
+    faith = "colocist"
+    dynasty = KELBD16 #KelbDyn16
+    father = KELB_232 #Tommaso168
+    mother = KELB_345 #Ginevra196
+    567.1.1 = {
+        birth = yes
+    }
+    586.1.1 = {
+        add_spouse = KELB_266 #Paola406
+    }
+}
+
+KELB_237 = {
+    name = "Vittoria164"
+    culture = "kelberican"
+    faith = "colocist"
+    female = yes
+    dynasty = KELBD16 #KelbDyn16
+    father = KELB_235 #Tommaso78
+    mother = KELB_486 #Emilia25
+    551.1.1 = {
+        birth = yes
+    }
+    567.1.1 = {
+        add_spouse = KELB_470 #Vittorio230
+    }
+}
+
+KELB_238 = {
+    name = "Vittoria394"
+    culture = "kelberican"
+    faith = "colocist"
+    female = yes
+    dynasty = KELBD16 #KelbDyn16
+    father = KELB_224 #Guido161
+    mother = KELB_352 #Nadia199
+    567.1.1 = {
+        birth = yes
+    }
+}
+
+KELB_239 = {
+    name = "Alberto82"
+    culture = "florisan"
+    faith = "colocist"
+    dynasty = KELBD17 #KelbDyn17
+    father = KELB_272 #Salvatore81
+    517.1.1 = {
+        birth = yes
+    }
+    548.1.1 = {
+        add_spouse = KELB_526 #Elettra30
+    }
+    575.1.1 = {
+        death = yes
+    }
+}
+
+KELB_24 = {
+    name = "Rinaldo277"
+    culture = "kelberican"
+    faith = "stonegods"
+    dynasty = KELBD1 #KelbDyn1
+    father = KELB_30 #Stefano101
+    mother = KELB_53 #Maddalena110
+    578.1.1 = {
+        birth = yes
+    }
+}
+
+KELB_240 = {
+    name = "Alessandro175"
+    culture = "florisan"
+    faith = "colocist"
+    dynasty = KELBD17 #KelbDyn17
+    father = KELB_269 #Pietro83
+    mother = KELB_566 #Matilda35
+    553.1.1 = {
+        birth = yes
+    }
+    577.1.1 = {
+        add_spouse = KELB_381 #Matilda212
+    }
+}
+
+KELB_241 = {
+    name = "Anna412"
+    culture = "florisan"
+    faith = "colocist"
+    female = yes
+    dynasty = KELBD17 #KelbDyn17
+    father = KELB_254 #Gregorio173
+    mother = KELB_372 #Emilia205
+    572.1.1 = {
+        birth = yes
+    }
+}
+
+KELB_242 = {
+    name = "Beatrice171"
+    culture = "florisan"
+    faith = "colocist"
+    female = yes
+    dynasty = KELBD17 #KelbDyn17
+    father = KELB_239 #Alberto82
+    mother = KELB_526 #Elettra30
+    554.1.1 = {
+        birth = yes
+    }
+    572.1.1 = {
+        add_spouse = KELB_184 #Gregorio149
+    }
+}
+
+KELB_243 = {
+    name = "Carlo169"
+    culture = "florisan"
+    faith = "colocist"
+    dynasty = KELBD17 #KelbDyn17
+    father = KELB_239 #Alberto82
+    mother = KELB_526 #Elettra30
+    550.1.1 = {
+        birth = yes
+    }
+    578.1.1 = {
+        add_spouse = KELB_350 #Lucia198
+    }
+}
+
+KELB_244 = {
+    name = "Caterina170"
+    culture = "florisan"
+    faith = "colocist"
+    female = yes
+    dynasty = KELBD17 #KelbDyn17
+    father = KELB_239 #Alberto82
+    mother = KELB_526 #Elettra30
+    552.1.1 = {
+        birth = yes
+    }
+    577.1.1 = {
+        add_spouse = KELB_502 #Rinaldo232
+    }
+}
+
+KELB_245 = {
+    name = "Claudia85"
+    culture = "florisan"
+    faith = "colocist"
+    female = yes
+    dynasty = KELBD17 #KelbDyn17
+    father = KELB_272 #Salvatore81
+    526.1.1 = {
+        birth = yes
+    }
+    535.1.1 = {
+        add_spouse = KELB_152 #Alessandro62
+    }
+    582.1.1 = {
+        death = yes
+    }
+}
+
+KELB_246 = {
+    name = "Donatella413"
+    culture = "florisan"
+    faith = "colocist"
+    female = yes
+    dynasty = KELBD17 #KelbDyn17
+    father = KELB_254 #Gregorio173
+    mother = KELB_372 #Emilia205
+    573.1.1 = {
+        birth = yes
+    }
+}
+
+KELB_247 = {
+    name = "Elena176"
+    culture = "florisan"
+    faith = "colocist"
+    female = yes
+    dynasty = KELBD17 #KelbDyn17
+    father = KELB_269 #Pietro83
+    mother = KELB_566 #Matilda35
+    554.1.1 = {
+        birth = yes
+    }
+    569.1.1 = {
+        add_spouse = KELB_490 #Leonardo233
+    }
+}
+
+KELB_248 = {
+    name = "Elena84"
+    culture = "florisan"
+    faith = "colocist"
+    female = yes
+    dynasty = KELBD17 #KelbDyn17
+    father = KELB_272 #Salvatore81
+    523.1.1 = {
+        birth = yes
+    }
+    537.1.1 = {
+        add_spouse = KELB_409 #Francesco13
+    }
+    574.1.1 = {
+        death = yes
+    }
+}
+
+KELB_249 = {
+    name = "Elettra411"
+    culture = "florisan"
+    faith = "colocist"
+    female = yes
+    dynasty = KELBD17 #KelbDyn17
+    father = KELB_251 #Filippo172
+    mother = KELB_366 #Angelica207
+    577.1.1 = {
+        birth = yes
+    }
+}
+
+KELB_25 = {
+    name = "Roberto108"
+    culture = "kelberican"
+    faith = "stonegods"
+    dynasty = KELBD1 #KelbDyn1
+    father = KELB_12 #Filippo3
+    mother = KELB_49 #Ginevra50
+    554.1.1 = {
+        birth = yes
+    }
+    572.1.1 = {
+        add_spouse = KELB_45 #Elettra115
+    }
+}
+
+KELB_250 = {
+    name = "Emilia416"
+    culture = "florisan"
+    faith = "colocist"
+    female = yes
+    dynasty = KELBD17 #KelbDyn17
+    father = KELB_254 #Gregorio173
+    mother = KELB_372 #Emilia205
+    577.1.1 = {
+        birth = yes
+    }
+}
+
+KELB_251 = {
+    name = "Filippo172"
+    culture = "florisan"
+    faith = "colocist"
+    dynasty = KELBD17 #KelbDyn17
+    father = KELB_269 #Pietro83
+    mother = KELB_566 #Matilda35
+    550.1.1 = {
+        birth = yes
+    }
+    569.1.1 = {
+        add_spouse = KELB_366 #Angelica207
+    }
+}
+
+KELB_252 = {
+    name = "Giacomo414"
+    culture = "florisan"
+    faith = "colocist"
+    dynasty = KELBD17 #KelbDyn17
+    father = KELB_254 #Gregorio173
+    mother = KELB_372 #Emilia205
+    574.1.1 = {
+        birth = yes
+    }
+}
+
+KELB_253 = {
+    name = "Ginevra410"
+    culture = "florisan"
+    faith = "colocist"
+    female = yes
+    dynasty = KELBD17 #KelbDyn17
+    father = KELB_251 #Filippo172
+    mother = KELB_366 #Angelica207
+    576.1.1 = {
+        birth = yes
+    }
+}
+
+KELB_254 = {
+    name = "Gregorio173"
+    culture = "florisan"
+    faith = "colocist"
+    dynasty = KELBD17 #KelbDyn17
+    father = KELB_269 #Pietro83
+    mother = KELB_566 #Matilda35
+    551.1.1 = {
+        birth = yes
+    }
+    571.1.1 = {
+        add_spouse = KELB_372 #Emilia205
+    }
+}
+
+KELB_255 = {
+    name = "Gregorio421"
+    culture = "florisan"
+    faith = "colocist"
+    dynasty = KELBD17 #KelbDyn17
+    father = KELB_240 #Alessandro175
+    mother = KELB_381 #Matilda212
+    579.1.1 = {
+        birth = yes
+    }
+}
+
+KELB_256 = {
+    name = "Isabella408"
+    culture = "florisan"
+    faith = "colocist"
+    female = yes
+    dynasty = KELBD17 #KelbDyn17
+    father = KELB_251 #Filippo172
+    mother = KELB_366 #Angelica207
+    573.1.1 = {
+        birth = yes
+    }
+}
+
+KELB_257 = {
+    name = "Laura415"
+    culture = "florisan"
+    faith = "colocist"
+    female = yes
+    dynasty = KELBD17 #KelbDyn17
+    father = KELB_254 #Gregorio173
+    mother = KELB_372 #Emilia205
+    576.1.1 = {
+        birth = yes
+    }
+}
+
+KELB_258 = {
+    name = "Laura420"
+    culture = "florisan"
+    faith = "colocist"
+    female = yes
+    dynasty = KELBD17 #KelbDyn17
+    father = KELB_240 #Alessandro175
+    mother = KELB_381 #Matilda212
+    578.1.1 = {
+        birth = yes
+    }
+}
+
+KELB_259 = {
+    name = "Lorenzo404"
+    culture = "florisan"
+    faith = "colocist"
+    dynasty = KELBD17 #KelbDyn17
+    father = KELB_243 #Carlo169
+    mother = KELB_350 #Lucia198
+    581.1.1 = {
+        birth = yes
+    }
+}
+
+KELB_26 = {
+    name = "Roberto286"
+    culture = "kelberican"
+    faith = "stonegods"
+    dynasty = KELBD1 #KelbDyn1
+    father = KELB_25 #Roberto108
+    mother = KELB_45 #Elettra115
+    575.1.1 = {
+        birth = yes
+    }
+}
+
+KELB_260 = {
+    name = "Maddalena422"
+    culture = "florisan"
+    faith = "colocist"
+    female = yes
+    dynasty = KELBD17 #KelbDyn17
+    father = KELB_240 #Alessandro175
+    mother = KELB_381 #Matilda212
+    580.1.1 = {
+        birth = yes
+    }
+}
+
+KELB_261 = {
+    name = "Marco409"
+    culture = "florisan"
+    faith = "colocist"
+    dynasty = KELBD17 #KelbDyn17
+    father = KELB_251 #Filippo172
+    mother = KELB_366 #Angelica207
+    575.1.1 = {
+        birth = yes
+    }
+}
+
+KELB_262 = {
+    name = "Matteo407"
+    culture = "florisan"
+    faith = "colocist"
+    dynasty = KELBD17 #KelbDyn17
+    father = KELB_251 #Filippo172
+    mother = KELB_366 #Angelica207
+    571.1.1 = {
+        birth = yes
+    }
+    586.1.1 = {
+        add_spouse = KELB_464 #Silvana518
+    }
+}
+
+KELB_263 = {
+    name = "Michele403"
+    culture = "florisan"
+    faith = "colocist"
+    dynasty = KELBD17 #KelbDyn17
+    father = KELB_243 #Carlo169
+    mother = KELB_350 #Lucia198
+    580.1.1 = {
+        birth = yes
+    }
+}
+
+KELB_264 = {
+    name = "Michele418"
+    culture = "florisan"
+    faith = "colocist"
+    dynasty = KELBD17 #KelbDyn17
+    father = KELB_274 #Vincenzo174
+    mother = KELB_368 #Costanza206
+    569.1.1 = {
+        birth = yes
+    }
+    586.1.1 = {
+        add_spouse = KELB_407 #Federica497
+    }
+}
+
+KELB_265 = {
+    name = "Nadia402"
+    culture = "florisan"
+    faith = "colocist"
+    female = yes
+    dynasty = KELBD17 #KelbDyn17
+    father = KELB_243 #Carlo169
+    mother = KELB_350 #Lucia198
+    579.1.1 = {
+        birth = yes
+    }
+}
+
+KELB_266 = {
+    name = "Paola406"
+    culture = "florisan"
+    faith = "colocist"
+    female = yes
+    dynasty = KELBD17 #KelbDyn17
+    father = KELB_251 #Filippo172
+    mother = KELB_366 #Angelica207
+    570.1.1 = {
+        birth = yes
+    }
+    586.1.1 = {
+        add_spouse = KELB_236 #Vincenzo397
+    }
+}
+
+KELB_267 = {
+    name = "Pietro417"
+    culture = "florisan"
+    faith = "colocist"
+    dynasty = KELBD17 #KelbDyn17
+    father = KELB_274 #Vincenzo174
+    mother = KELB_368 #Costanza206
+    567.1.1 = {
+        birth = yes
+    }
+    586.1.1 = {
+        add_spouse = KELB_373 #Francesca475
+    }
+}
+
+KELB_268 = {
+    name = "Pietro419"
+    culture = "florisan"
+    faith = "colocist"
+    dynasty = KELBD17 #KelbDyn17
+    father = KELB_274 #Vincenzo174
+    mother = KELB_368 #Costanza206
+    570.1.1 = {
+        birth = yes
+    }
+    586.1.1 = {
+        add_spouse = KELB_432 #Carlotta534
+    }
+}
+
+KELB_269 = {
+    name = "Pietro83"
+    culture = "florisan"
+    faith = "colocist"
+    dynasty = KELBD17 #KelbDyn17
+    father = KELB_272 #Salvatore81
+    520.1.1 = {
+        birth = yes
+    }
+    543.1.1 = {
+        add_spouse = KELB_566 #Matilda35
+    }
+    576.1.1 = {
+        death = yes
+    }
+}
+
+KELB_27 = {
+    name = "Serafina287"
+    culture = "kelberican"
+    faith = "stonegods"
+    female = yes
+    dynasty = KELBD1 #KelbDyn1
+    father = KELB_25 #Roberto108
+    mother = KELB_45 #Elettra115
+    577.1.1 = {
+        birth = yes
+    }
+}
+
+KELB_270 = {
+    name = "Raffaele424"
+    culture = "florisan"
+    faith = "colocist"
+    dynasty = KELBD17 #KelbDyn17
+    father = KELB_240 #Alessandro175
+    mother = KELB_381 #Matilda212
+    583.1.1 = {
+        birth = yes
+    }
+}
+
+KELB_271 = {
+    name = "Rosa423"
+    culture = "florisan"
+    faith = "colocist"
+    female = yes
+    dynasty = KELBD17 #KelbDyn17
+    father = KELB_240 #Alessandro175
+    mother = KELB_381 #Matilda212
+    581.1.1 = {
+        birth = yes
+    }
+}
+
+KELB_272 = {
+    name = "Salvatore81"
+    culture = "florisan"
+    faith = "colocist"
+    dynasty = KELBD17 #KelbDyn17
+    486.1.1 = {
+        birth = yes
+    }
+    543.1.1 = {
+        death = yes
+    }
+}
+
+KELB_273 = {
+    name = "Serafina405"
+    culture = "florisan"
+    faith = "colocist"
+    female = yes
+    dynasty = KELBD17 #KelbDyn17
+    father = KELB_243 #Carlo169
+    mother = KELB_350 #Lucia198
+    582.1.1 = {
+        birth = yes
+    }
+}
+
+KELB_274 = {
+    name = "Vincenzo174"
+    culture = "florisan"
+    faith = "colocist"
+    dynasty = KELBD17 #KelbDyn17
+    father = KELB_269 #Pietro83
+    mother = KELB_566 #Matilda35
+    552.1.1 = {
+        birth = yes
+    }
+    566.1.1 = {
+        add_spouse = KELB_368 #Costanza206
+    }
+}
+
+KELB_275 = {
+    name = "Adelina427"
+    culture = "florisan"
+    faith = "colocist"
+    female = yes
+    dynasty = KELBD18 #KelbDyn18
+    father = KELB_293 #Marco272
+    mother = KELB_414 #Lucia219
+    572.1.1 = {
+        birth = yes
+    }
+}
+
+KELB_276 = {
+    name = "Agnese430"
+    culture = "florisan"
+    faith = "colocist"
+    female = yes
+    dynasty = KELBD18 #KelbDyn18
+    father = KELB_293 #Marco272
+    mother = KELB_414 #Lucia219
+    575.1.1 = {
+        birth = yes
+    }
+}
+
+KELB_277 = {
+    name = "Agnese439"
+    culture = "florisan"
+    faith = "colocist"
+    female = yes
+    dynasty = KELBD18 #KelbDyn18
+    father = KELB_282 #Bernardo182
+    mother = KELB_471 #Adelina237
+    571.1.1 = {
+        birth = yes
+    }
+    586.1.1 = {
+        add_spouse = KELB_234 #Tommaso395
+    }
+}
+
+KELB_278 = {
+    name = "Bartolomeo431"
+    culture = "florisan"
+    faith = "colocist"
+    dynasty = KELBD18 #KelbDyn18
+    father = KELB_305 #Vittorio177
+    mother = KELB_398 #Anna221
+    572.1.1 = {
+        birth = yes
+    }
+}
+
+KELB_279 = {
+    name = "Bartolomeo438"
+    culture = "florisan"
+    faith = "colocist"
+    dynasty = KELBD18 #KelbDyn18
+    father = KELB_289 #Giacomo179
+    mother = KELB_455 #Paola229
+    584.1.1 = {
+        birth = yes
+    }
+}
+
+KELB_28 = {
+    name = "Silvana4"
+    culture = "kelberican"
+    faith = "stonegods"
+    female = yes
+    dynasty = KELBD1 #KelbDyn1
+    father = KELB_2 #Alessandro1
+    521.1.1 = {
+        birth = yes
+    }
+    550.1.1 = {
+        add_spouse = KELB_638 #Matteo42
+    }
+    575.1.1 = {
+        death = yes
+    }
+}
+
+KELB_280 = {
+    name = "Beatrice436"
+    culture = "florisan"
+    faith = "colocist"
+    female = yes
+    dynasty = KELBD18 #KelbDyn18
+    father = KELB_289 #Giacomo179
+    mother = KELB_455 #Paola229
+    580.1.1 = {
+        birth = yes
+    }
+}
+
+KELB_281 = {
+    name = "Beatrice89"
+    culture = "florisan"
+    faith = "colocist"
+    female = yes
+    dynasty = KELBD18 #KelbDyn18
+    father = KELB_302 #Salvatore86
+    524.1.1 = {
+        birth = yes
+    }
+    540.1.1 = {
+        add_spouse = KELB_448 #Leonardo17
+    }
+    570.1.1 = {
+        death = yes
+    }
+}
+
+KELB_282 = {
+    name = "Bernardo182"
+    culture = "florisan"
+    faith = "colocist"
+    dynasty = KELBD18 #KelbDyn18
+    father = KELB_303 #Tommaso88
+    mother = KELB_615 #Chiara45
+    553.1.1 = {
+        birth = yes
+    }
+    570.1.1 = {
+        add_spouse = KELB_471 #Adelina237
+    }
+}
+
+KELB_283 = {
+    name = "Bianca441"
+    culture = "florisan"
+    faith = "colocist"
+    female = yes
+    dynasty = KELBD18 #KelbDyn18
+    father = KELB_282 #Bernardo182
+    mother = KELB_471 #Adelina237
+    575.1.1 = {
+        birth = yes
+    }
+}
+
+KELB_284 = {
+    name = "Caterina183"
+    culture = "florisan"
+    faith = "colocist"
+    female = yes
+    dynasty = KELBD18 #KelbDyn18
+    father = KELB_303 #Tommaso88
+    mother = KELB_615 #Chiara45
+    554.1.1 = {
+        birth = yes
+    }
+    566.1.1 = {
+        add_spouse = KELB_532 #Francesco271
+    }
+}
+
+KELB_285 = {
+    name = "Cesare432"
+    culture = "florisan"
+    faith = "colocist"
+    dynasty = KELBD18 #KelbDyn18
+    father = KELB_305 #Vittorio177
+    mother = KELB_398 #Anna221
+    574.1.1 = {
+        birth = yes
+    }
+}
+
+KELB_286 = {
+    name = "Claudia180"
+    culture = "florisan"
+    faith = "colocist"
+    female = yes
+    dynasty = KELBD18 #KelbDyn18
+    father = KELB_303 #Tommaso88
+    mother = KELB_615 #Chiara45
+    550.1.1 = {
+        birth = yes
+    }
+    575.1.1 = {
+        add_spouse = KELB_172 #Bartolomeo153
+    }
+}
+
+KELB_287 = {
+    name = "Elettra90"
+    culture = "florisan"
+    faith = "colocist"
+    female = yes
+    dynasty = KELBD18 #KelbDyn18
+    father = KELB_302 #Salvatore86
+    527.1.1 = {
+        birth = yes
+    }
+    550.1.1 = {
+        add_spouse = KELB_161 #Francesco63
+    }
+    583.1.1 = {
+        death = yes
+    }
+}
+
+KELB_288 = {
+    name = "Filippo429"
+    culture = "florisan"
+    faith = "colocist"
+    dynasty = KELBD18 #KelbDyn18
+    father = KELB_293 #Marco272
+    mother = KELB_414 #Lucia219
+    574.1.1 = {
+        birth = yes
+    }
+}
+
+KELB_289 = {
+    name = "Giacomo179"
+    culture = "florisan"
+    faith = "colocist"
+    dynasty = KELBD18 #KelbDyn18
+    father = KELB_304 #Ugo87
+    mother = KELB_599 #Letizia40
+    553.1.1 = {
+        birth = yes
+    }
+    578.1.1 = {
+        add_spouse = KELB_455 #Paola229
+    }
+}
+
+KELB_29 = {
+    name = "Sofia106"
+    culture = "kelberican"
+    faith = "stonegods"
+    female = yes
+    dynasty = KELBD1 #KelbDyn1
+    father = KELB_12 #Filippo3
+    mother = KELB_49 #Ginevra50
+    552.1.1 = {
+        birth = yes
+    }
+    572.1.1 = {
+        add_spouse = KELB_334 #Bartolomeo200
+    }
+}
+
+KELB_290 = {
+    name = "Giovanni433"
+    culture = "florisan"
+    faith = "colocist"
+    dynasty = KELBD18 #KelbDyn18
+    father = KELB_305 #Vittorio177
+    mother = KELB_398 #Anna221
+    576.1.1 = {
+        birth = yes
+    }
+}
+
+KELB_291 = {
+    name = "Leonardo425"
+    culture = "florisan"
+    faith = "colocist"
+    dynasty = KELBD18 #KelbDyn18
+    father = KELB_293 #Marco272
+    mother = KELB_414 #Lucia219
+    569.1.1 = {
+        birth = yes
+    }
+    586.1.1 = {
+        add_spouse = KELB_429 #Agnese528
+    }
+}
+
+KELB_292 = {
+    name = "Lucia181"
+    culture = "florisan"
+    faith = "colocist"
+    female = yes
+    dynasty = KELBD18 #KelbDyn18
+    father = KELB_303 #Tommaso88
+    mother = KELB_615 #Chiara45
+    551.1.1 = {
+        birth = yes
+    }
+    571.1.1 = {
+        add_spouse = KELB_200 #Giacomo155
+    }
+}
+
+KELB_293 = {
+    name = "Marco272"
+    culture = "florisan"
+    faith = "colocist"
+    dynasty = KELBD18 #KelbDyn18
+    544.1.1 = {
+        birth = yes
+    }
+    568.1.1 = {
+        add_spouse = KELB_414 #Lucia219
+    }
+}
+
+KELB_294 = {
+    name = "Margherita428"
+    culture = "florisan"
+    faith = "colocist"
+    female = yes
+    dynasty = KELBD18 #KelbDyn18
+    father = KELB_293 #Marco272
+    mother = KELB_414 #Lucia219
+    573.1.1 = {
+        birth = yes
+    }
+}
+
+KELB_295 = {
+    name = "Maria434"
+    culture = "florisan"
+    faith = "colocist"
+    female = yes
+    dynasty = KELBD18 #KelbDyn18
+    father = KELB_305 #Vittorio177
+    mother = KELB_398 #Anna221
+    577.1.1 = {
+        birth = yes
+    }
+}
+
+KELB_296 = {
+    name = "Massimo437"
+    culture = "florisan"
+    faith = "colocist"
+    dynasty = KELBD18 #KelbDyn18
+    father = KELB_289 #Giacomo179
+    mother = KELB_455 #Paola229
+    582.1.1 = {
+        birth = yes
+    }
+}
+
+KELB_297 = {
+    name = "Matilda426"
+    culture = "florisan"
+    faith = "colocist"
+    female = yes
+    dynasty = KELBD18 #KelbDyn18
+    father = KELB_293 #Marco272
+    mother = KELB_414 #Lucia219
+    570.1.1 = {
+        birth = yes
+    }
+}
+
+KELB_298 = {
+    name = "Nadia178"
+    culture = "florisan"
+    faith = "colocist"
+    female = yes
+    dynasty = KELBD18 #KelbDyn18
+    father = KELB_304 #Ugo87
+    mother = KELB_599 #Letizia40
+    551.1.1 = {
+        birth = yes
+    }
+    574.1.1 = {
+        add_spouse = KELB_505 #Sergio236
+    }
+}
+
+KELB_299 = {
+    name = "Rinaldo435"
+    culture = "florisan"
+    faith = "colocist"
+    dynasty = KELBD18 #KelbDyn18
+    father = KELB_289 #Giacomo179
+    mother = KELB_455 #Paola229
+    579.1.1 = {
+        birth = yes
+    }
+}
+
+KELB_3 = {
+    name = "Alessandro293"
+    culture = "kelberican"
+    faith = "stonegods"
+    dynasty = KELBD1 #KelbDyn1
+    father = KELB_14 #Giorgio109
+    mother = KELB_54 #Margherita116
+    584.1.1 = {
+        birth = yes
+    }
+}
+
+KELB_30 = {
+    name = "Stefano101"
+    culture = "kelberican"
+    faith = "stonegods"
+    dynasty = KELBD1 #KelbDyn1
+    father = KELB_19 #Marco2
+    mother = KELB_50 #Isabella49
+    550.1.1 = {
+        birth = yes
+    }
+    574.1.1 = {
+        add_spouse = KELB_53 #Maddalena110
+    }
+}
+
+KELB_300 = {
+    name = "Rosa184"
+    culture = "florisan"
+    faith = "colocist"
+    female = yes
+    dynasty = KELBD18 #KelbDyn18
+    father = KELB_303 #Tommaso88
+    mother = KELB_615 #Chiara45
+    556.1.1 = {
+        birth = yes
+    }
+    570.1.1 = {
+        add_spouse = KELB_199 #Francesco158
+    }
+}
+
+KELB_301 = {
+    name = "Salvatore440"
+    culture = "florisan"
+    faith = "colocist"
+    dynasty = KELBD18 #KelbDyn18
+    father = KELB_282 #Bernardo182
+    mother = KELB_471 #Adelina237
+    573.1.1 = {
+        birth = yes
+    }
+}
+
+KELB_302 = {
+    name = "Salvatore86"
+    culture = "florisan"
+    faith = "colocist"
+    dynasty = KELBD18 #KelbDyn18
+    487.1.1 = {
+        birth = yes
+    }
+    563.1.1 = {
+        death = yes
+    }
+}
+
+KELB_303 = {
+    name = "Tommaso88"
+    culture = "florisan"
+    faith = "colocist"
+    dynasty = KELBD18 #KelbDyn18
+    father = KELB_302 #Salvatore86
+    521.1.1 = {
+        birth = yes
+    }
+    535.1.1 = {
+        add_spouse = KELB_615 #Chiara45
+    }
+    582.1.1 = {
+        death = yes
+    }
+}
+
+KELB_304 = {
+    name = "Ugo87"
+    culture = "florisan"
+    faith = "colocist"
+    dynasty = KELBD18 #KelbDyn18
+    father = KELB_302 #Salvatore86
+    518.1.1 = {
+        birth = yes
+    }
+    541.1.1 = {
+        add_spouse = KELB_599 #Letizia40
+    }
+    569.1.1 = {
+        death = yes
+    }
+}
+
+KELB_305 = {
+    name = "Vittorio177"
+    culture = "florisan"
+    faith = "colocist"
+    dynasty = KELBD18 #KelbDyn18
+    father = KELB_304 #Ugo87
+    mother = KELB_599 #Letizia40
+    550.1.1 = {
+        birth = yes
+    }
+    571.1.1 = {
+        add_spouse = KELB_398 #Anna221
+    }
+}
+
+KELB_306 = {
+    name = "Adelina94"
+    culture = "florisan"
+    faith = "colocist"
+    female = yes
+    dynasty = KELBD19 #KelbDyn19
+    father = KELB_316 #Giorgio91
+    525.1.1 = {
+        birth = yes
+    }
+    538.1.1 = {
+        add_spouse = KELB_451 #Marco18
+    }
+    569.1.1 = {
+        death = yes
+    }
+}
+
+KELB_307 = {
+    name = "Amadeo191"
+    culture = "florisan"
+    faith = "colocist"
+    dynasty = KELBD19 #KelbDyn19
+    father = KELB_325 #Paolo93
+    mother = KELB_114 #Vittoria54
+    554.1.1 = {
+        birth = yes
+    }
+    566.1.1 = {
+        add_spouse = KELB_562 #Giulia249
+    }
+}
+
+KELB_308 = {
+    name = "Antonio448"
+    culture = "florisan"
+    faith = "colocist"
+    dynasty = KELBD19 #KelbDyn19
+    father = KELB_314 #Federico190
+    mother = KELB_552 #Angelica250
+    581.1.1 = {
+        birth = yes
+    }
+}
+
+KELB_309 = {
+    name = "Claudia442"
+    culture = "florisan"
+    faith = "colocist"
+    female = yes
+    dynasty = KELBD19 #KelbDyn19
+    father = KELB_330 #Stefano185
+    mother = KELB_512 #Anna240
+    577.1.1 = {
+        birth = yes
+    }
+}
+
+KELB_31 = {
+    name = "Stefano290"
+    culture = "kelberican"
+    faith = "stonegods"
+    dynasty = KELBD1 #KelbDyn1
+    father = KELB_14 #Giorgio109
+    mother = KELB_54 #Margherita116
+    579.1.1 = {
+        birth = yes
+    }
+}
+
+KELB_310 = {
+    name = "Costanza187"
+    culture = "florisan"
+    faith = "colocist"
+    female = yes
+    dynasty = KELBD19 #KelbDyn19
+    father = KELB_331 #Vincenzo92
+    mother = KELB_10 #Emilia5
+    553.1.1 = {
+        birth = yes
+    }
+    574.1.1 = {
+        add_spouse = KELB_544 #Riccardo242
+    }
+}
+
+KELB_311 = {
+    name = "Costanza453"
+    culture = "florisan"
+    faith = "colocist"
+    female = yes
+    dynasty = KELBD19 #KelbDyn19
+    father = KELB_307 #Amadeo191
+    mother = KELB_562 #Giulia249
+    571.1.1 = {
+        birth = yes
+    }
+    586.1.1 = {
+        add_spouse = KELB_217 #Cesare399
+    }
+}
+
+KELB_312 = {
+    name = "Elena446"
+    culture = "florisan"
+    faith = "colocist"
+    female = yes
+    dynasty = KELBD19 #KelbDyn19
+    father = KELB_314 #Federico190
+    mother = KELB_552 #Angelica250
+    579.1.1 = {
+        birth = yes
+    }
+}
+
+KELB_313 = {
+    name = "Elena452"
+    culture = "florisan"
+    faith = "colocist"
+    female = yes
+    dynasty = KELBD19 #KelbDyn19
+    father = KELB_307 #Amadeo191
+    mother = KELB_562 #Giulia249
+    570.1.1 = {
+        birth = yes
+    }
+}
+
+KELB_314 = {
+    name = "Federico190"
+    culture = "florisan"
+    faith = "colocist"
+    dynasty = KELBD19 #KelbDyn19
+    father = KELB_325 #Paolo93
+    mother = KELB_114 #Vittoria54
+    552.1.1 = {
+        birth = yes
+    }
+    577.1.1 = {
+        add_spouse = KELB_552 #Angelica250
+    }
+}
+
+KELB_315 = {
+    name = "Ginevra454"
+    culture = "florisan"
+    faith = "colocist"
+    female = yes
+    dynasty = KELBD19 #KelbDyn19
+    father = KELB_307 #Amadeo191
+    mother = KELB_562 #Giulia249
+    573.1.1 = {
+        birth = yes
+    }
+}
+
+KELB_316 = {
+    name = "Giorgio91"
+    culture = "florisan"
+    faith = "colocist"
+    dynasty = KELBD19 #KelbDyn19
+    488.1.1 = {
+        birth = yes
+    }
+    542.1.1 = {
+        death = yes
+    }
+}
+
+KELB_317 = {
+    name = "Isabella189"
+    culture = "florisan"
+    faith = "colocist"
+    female = yes
+    dynasty = KELBD19 #KelbDyn19
+    father = KELB_325 #Paolo93
+    mother = KELB_114 #Vittoria54
+    550.1.1 = {
+        birth = yes
+    }
+    566.1.1 = {
+        add_spouse = KELB_525 #Domenico238
+    }
+}
+
+KELB_318 = {
+    name = "Laura451"
+    culture = "florisan"
+    faith = "colocist"
+    female = yes
+    dynasty = KELBD19 #KelbDyn19
+    father = KELB_307 #Amadeo191
+    mother = KELB_562 #Giulia249
+    568.1.1 = {
+        birth = yes
+    }
+    586.1.1 = {
+        add_spouse = KELB_228 #Matteo398
+    }
+}
+
+KELB_319 = {
+    name = "Letizia192"
+    culture = "florisan"
+    faith = "colocist"
+    female = yes
+    dynasty = KELBD19 #KelbDyn19
+    father = KELB_325 #Paolo93
+    mother = KELB_114 #Vittoria54
+    555.1.1 = {
+        birth = yes
+    }
+    573.1.1 = {
+        add_spouse = KELB_531 #Francesco239
+    }
+}
+
+KELB_32 = {
+    name = "Vincenzo105"
+    culture = "kelberican"
+    faith = "stonegods"
+    dynasty = KELBD1 #KelbDyn1
+    father = KELB_12 #Filippo3
+    mother = KELB_49 #Ginevra50
+    550.1.1 = {
+        birth = yes
+    }
+    567.1.1 = {
+        add_spouse = KELB_44 #Elettra114
+    }
+}
+
+KELB_320 = {
+    name = "Livia447"
+    culture = "florisan"
+    faith = "colocist"
+    female = yes
+    dynasty = KELBD19 #KelbDyn19
+    father = KELB_314 #Federico190
+    mother = KELB_552 #Angelica250
+    580.1.1 = {
+        birth = yes
+    }
+}
+
+KELB_321 = {
+    name = "Maddalena188"
+    culture = "florisan"
+    faith = "colocist"
+    female = yes
+    dynasty = KELBD19 #KelbDyn19
+    father = KELB_331 #Vincenzo92
+    mother = KELB_10 #Emilia5
+    555.1.1 = {
+        birth = yes
+    }
+    568.1.1 = {
+        add_spouse = KELB_233 #Tommaso274
+    }
+}
+
+KELB_322 = {
+    name = "Marco444"
+    culture = "florisan"
+    faith = "colocist"
+    dynasty = KELBD19 #KelbDyn19
+    father = KELB_330 #Stefano185
+    mother = KELB_512 #Anna240
+    581.1.1 = {
+        birth = yes
+    }
+}
+
+KELB_323 = {
+    name = "Massimo445"
+    culture = "florisan"
+    faith = "colocist"
+    dynasty = KELBD19 #KelbDyn19
+    father = KELB_314 #Federico190
+    mother = KELB_552 #Angelica250
+    578.1.1 = {
+        birth = yes
+    }
+}
+
+KELB_324 = {
+    name = "Massimo449"
+    culture = "florisan"
+    faith = "colocist"
+    dynasty = KELBD19 #KelbDyn19
+    father = KELB_314 #Federico190
+    mother = KELB_552 #Angelica250
+    583.1.1 = {
+        birth = yes
+    }
+}
+
+KELB_325 = {
+    name = "Paolo93"
+    culture = "florisan"
+    faith = "colocist"
+    dynasty = KELBD19 #KelbDyn19
+    father = KELB_316 #Giorgio91
+    522.1.1 = {
+        birth = yes
+    }
+    536.1.1 = {
+        add_spouse = KELB_114 #Vittoria54
+    }
+    570.1.1 = {
+        death = yes
+    }
+}
+
+KELB_326 = {
+    name = "Renata450"
+    culture = "florisan"
+    faith = "colocist"
+    female = yes
+    dynasty = KELBD19 #KelbDyn19
+    father = KELB_307 #Amadeo191
+    mother = KELB_562 #Giulia249
+    567.1.1 = {
+        birth = yes
+    }
+}
+
+KELB_327 = {
+    name = "Roberto443"
+    culture = "florisan"
+    faith = "colocist"
+    dynasty = KELBD19 #KelbDyn19
+    father = KELB_330 #Stefano185
+    mother = KELB_512 #Anna240
+    579.1.1 = {
+        birth = yes
+    }
+}
+
+KELB_328 = {
+    name = "Serafina186"
+    culture = "florisan"
+    faith = "colocist"
+    female = yes
+    dynasty = KELBD19 #KelbDyn19
+    father = KELB_331 #Vincenzo92
+    mother = KELB_10 #Emilia5
+    552.1.1 = {
+        birth = yes
+    }
+    570.1.1 = {
+        add_spouse = KELB_213 #Vittorio159
+    }
+}
+
+KELB_329 = {
+    name = "Serafina95"
+    culture = "florisan"
+    faith = "colocist"
+    female = yes
+    dynasty = KELBD19 #KelbDyn19
+    father = KELB_316 #Giorgio91
+    528.1.1 = {
+        birth = yes
+    }
+    540.1.1 = {
+        add_spouse = KELB_179 #Domenico67
+    }
+    577.1.1 = {
+        death = yes
+    }
+}
+
+KELB_33 = {
+    name = "Vittorio278"
+    culture = "kelberican"
+    faith = "stonegods"
+    dynasty = KELBD1 #KelbDyn1
+    father = KELB_32 #Vincenzo105
+    mother = KELB_44 #Elettra114
+    568.1.1 = {
+        birth = yes
+    }
+    586.1.1 = {
+        add_spouse = KELB_60 #Serafina300
+    }
+}
+
+KELB_330 = {
+    name = "Stefano185"
+    culture = "florisan"
+    faith = "colocist"
+    dynasty = KELBD19 #KelbDyn19
+    father = KELB_331 #Vincenzo92
+    mother = KELB_10 #Emilia5
+    550.1.1 = {
+        birth = yes
+    }
+    576.1.1 = {
+        add_spouse = KELB_512 #Anna240
+    }
+}
+
+KELB_331 = {
+    name = "Vincenzo92"
+    culture = "florisan"
+    faith = "colocist"
+    dynasty = KELBD19 #KelbDyn19
+    father = KELB_316 #Giorgio91
+    519.1.1 = {
+        birth = yes
+    }
+    545.1.1 = {
+        add_spouse = KELB_10 #Emilia5
+    }
+}
+
+KELB_332 = {
+    name = "Adelina9"
+    culture = "kelberican"
+    faith = "stonegods"
+    female = yes
+    dynasty = KELBD2 #KelbDyn2
+    father = KELB_362 #Stefano6
+    522.1.1 = {
+        birth = yes
+    }
+    545.1.1 = {
+        add_spouse = KELB_498 #Massimo22
+    }
+    581.1.1 = {
+        death = yes
+    }
+}
+
+KELB_333 = {
+    name = "Agnese457"
+    culture = "kelberican"
+    faith = "stonegods"
+    female = yes
+    dynasty = KELBD2 #KelbDyn2
+    father = KELB_351 #Massimo193
+    mother = KELB_597 #Laura255
+    577.1.1 = {
+        birth = yes
+    }
+}
+
+KELB_334 = {
+    name = "Bartolomeo200"
+    culture = "kelberican"
+    faith = "stonegods"
+    dynasty = KELBD2 #KelbDyn2
+    father = KELB_343 #Francesco8
+    mother = KELB_156 #Beatrice64
+    552.1.1 = {
+        birth = yes
+    }
+    572.1.1 = {
+        add_spouse = KELB_29 #Sofia106
+    }
+}
+
+KELB_335 = {
+    name = "Bianca456"
+    culture = "kelberican"
+    faith = "stonegods"
+    female = yes
+    dynasty = KELBD2 #KelbDyn2
+    father = KELB_351 #Massimo193
+    mother = KELB_597 #Laura255
+    575.1.1 = {
+        birth = yes
+    }
+}
+
+KELB_336 = {
+    name = "Caterina460"
+    culture = "kelberican"
+    faith = "stonegods"
+    female = yes
+    dynasty = KELBD2 #KelbDyn2
+    father = KELB_342 #Filippo194
+    mother = KELB_609 #Angelica259
+    579.1.1 = {
+        birth = yes
+    }
+}
+
+KELB_337 = {
+    name = "Caterina463"
+    culture = "kelberican"
+    faith = "stonegods"
+    female = yes
+    dynasty = KELBD2 #KelbDyn2
+    father = KELB_342 #Filippo194
+    mother = KELB_609 #Angelica259
+    584.1.1 = {
+        birth = yes
+    }
+}
+
+KELB_338 = {
+    name = "Donatella471"
+    culture = "kelberican"
+    faith = "stonegods"
+    female = yes
+    dynasty = KELBD2 #KelbDyn2
+    father = KELB_360 #Sergio201
+    mother = KELB_7 #Claudia107
+    574.1.1 = {
+        birth = yes
+    }
+}
+
+KELB_339 = {
+    name = "Elena462"
+    culture = "kelberican"
+    faith = "stonegods"
+    female = yes
+    dynasty = KELBD2 #KelbDyn2
+    father = KELB_342 #Filippo194
+    mother = KELB_609 #Angelica259
+    582.1.1 = {
+        birth = yes
+    }
+}
+
+KELB_34 = {
+    name = "Adelina308"
+    culture = "kelberican"
+    faith = "colocist"
+    female = yes
+    dynasty = KELBD10 #KelbDyn10
+    father = KELB_55 #Niccolo118
+    mother = KELB_81 #Elettra124
+    582.1.1 = {
+        birth = yes
+    }
+}
+
+KELB_340 = {
+    name = "Elettra10"
+    culture = "kelberican"
+    faith = "stonegods"
+    female = yes
+    dynasty = KELBD2 #KelbDyn2
+    father = KELB_362 #Stefano6
+    525.1.1 = {
+        birth = yes
+    }
+    539.1.1 = {
+        add_spouse = KELB_188 #Vittorio68
+    }
+    573.1.1 = {
+        death = yes
+    }
+}
+
+KELB_341 = {
+    name = "Federica472"
+    culture = "kelberican"
+    faith = "stonegods"
+    female = yes
+    dynasty = KELBD2 #KelbDyn2
+    father = KELB_360 #Sergio201
+    mother = KELB_7 #Claudia107
+    575.1.1 = {
+        birth = yes
+    }
+}
+
+KELB_342 = {
+    name = "Filippo194"
+    culture = "kelberican"
+    faith = "stonegods"
+    dynasty = KELBD2 #KelbDyn2
+    father = KELB_355 #Raffaele7
+    mother = KELB_120 #Anna59
+    552.1.1 = {
+        birth = yes
+    }
+    576.1.1 = {
+        add_spouse = KELB_609 #Angelica259
+    }
+}
+
+KELB_343 = {
+    name = "Francesco8"
+    culture = "kelberican"
+    faith = "stonegods"
+    dynasty = KELBD2 #KelbDyn2
+    father = KELB_362 #Stefano6
+    519.1.1 = {
+        birth = yes
+    }
+    545.1.1 = {
+        add_spouse = KELB_156 #Beatrice64
+    }
+}
+
+KELB_344 = {
+    name = "Giacomo464"
+    culture = "kelberican"
+    faith = "stonegods"
+    dynasty = KELBD2 #KelbDyn2
+    father = KELB_334 #Bartolomeo200
+    mother = KELB_29 #Sofia106
+    573.1.1 = {
+        birth = yes
+    }
+}
+
+KELB_345 = {
+    name = "Ginevra196"
+    culture = "kelberican"
+    faith = "stonegods"
+    female = yes
+    dynasty = KELBD2 #KelbDyn2
+    father = KELB_355 #Raffaele7
+    mother = KELB_120 #Anna59
+    555.1.1 = {
+        birth = yes
+    }
+    566.1.1 = {
+        add_spouse = KELB_232 #Tommaso168
+    }
+}
+
+KELB_346 = {
+    name = "Giulia467"
+    culture = "kelberican"
+    faith = "stonegods"
+    female = yes
+    dynasty = KELBD2 #KelbDyn2
+    father = KELB_334 #Bartolomeo200
+    mother = KELB_29 #Sofia106
+    577.1.1 = {
+        birth = yes
+    }
+}
+
+KELB_347 = {
+    name = "Isabella195"
+    culture = "kelberican"
+    faith = "stonegods"
+    female = yes
+    dynasty = KELBD2 #KelbDyn2
+    father = KELB_355 #Raffaele7
+    mother = KELB_120 #Anna59
+    554.1.1 = {
+        birth = yes
+    }
+    567.1.1 = {
+        add_spouse = KELB_536 #Leonardo243
+    }
+}
+
+KELB_348 = {
+    name = "Isabella470"
+    culture = "kelberican"
+    faith = "stonegods"
+    female = yes
+    dynasty = KELBD2 #KelbDyn2
+    father = KELB_360 #Sergio201
+    mother = KELB_7 #Claudia107
+    572.1.1 = {
+        birth = yes
+    }
+}
+
+KELB_349 = {
+    name = "Letizia466"
+    culture = "kelberican"
+    faith = "stonegods"
+    female = yes
+    dynasty = KELBD2 #KelbDyn2
+    father = KELB_334 #Bartolomeo200
+    mother = KELB_29 #Sofia106
+    576.1.1 = {
+        birth = yes
+    }
+}
+
+KELB_35 = {
+    name = "Adelina313"
+    culture = "kelberican"
+    faith = "colocist"
+    female = yes
+    dynasty = KELBD10 #KelbDyn10
+    father = KELB_58 #Rinaldo119
+    mother = KELB_147 #Sofia136
+    579.1.1 = {
+        birth = yes
+    }
+}
+
+KELB_350 = {
+    name = "Lucia198"
+    culture = "kelberican"
+    faith = "stonegods"
+    female = yes
+    dynasty = KELBD2 #KelbDyn2
+    father = KELB_355 #Raffaele7
+    mother = KELB_120 #Anna59
+    557.1.1 = {
+        birth = yes
+    }
+    578.1.1 = {
+        add_spouse = KELB_243 #Carlo169
+    }
+}
+
+KELB_351 = {
+    name = "Massimo193"
+    culture = "kelberican"
+    faith = "stonegods"
+    dynasty = KELBD2 #KelbDyn2
+    father = KELB_355 #Raffaele7
+    mother = KELB_120 #Anna59
+    550.1.1 = {
+        birth = yes
+    }
+    573.1.1 = {
+        add_spouse = KELB_597 #Laura255
+    }
+}
+
+KELB_352 = {
+    name = "Nadia199"
+    culture = "kelberican"
+    faith = "stonegods"
+    female = yes
+    dynasty = KELBD2 #KelbDyn2
+    father = KELB_343 #Francesco8
+    mother = KELB_156 #Beatrice64
+    550.1.1 = {
+        birth = yes
+    }
+    566.1.1 = {
+        add_spouse = KELB_224 #Guido161
+    }
+}
+
+KELB_353 = {
+    name = "Paola197"
+    culture = "kelberican"
+    faith = "stonegods"
+    female = yes
+    dynasty = KELBD2 #KelbDyn2
+    father = KELB_355 #Raffaele7
+    mother = KELB_120 #Anna59
+    556.1.1 = {
+        birth = yes
+    }
+    572.1.1 = {
+        add_spouse = KELB_548 #Stefano244
+    }
+}
+
+KELB_354 = {
+    name = "Paolo465"
+    culture = "kelberican"
+    faith = "stonegods"
+    dynasty = KELBD2 #KelbDyn2
+    father = KELB_334 #Bartolomeo200
+    mother = KELB_29 #Sofia106
+    575.1.1 = {
+        birth = yes
+    }
+}
+
+KELB_355 = {
+    name = "Raffaele7"
+    culture = "kelberican"
+    faith = "stonegods"
+    dynasty = KELBD2 #KelbDyn2
+    father = KELB_362 #Stefano6
+    516.1.1 = {
+        birth = yes
+    }
+    546.1.1 = {
+        add_spouse = KELB_120 #Anna59
+    }
+    577.1.1 = {
+        death = yes
+    }
+}
+
+KELB_356 = {
+    name = "Riccardo458"
+    culture = "kelberican"
+    faith = "stonegods"
+    dynasty = KELBD2 #KelbDyn2
+    father = KELB_351 #Massimo193
+    mother = KELB_597 #Laura255
+    579.1.1 = {
+        birth = yes
+    }
+}
+
+KELB_357 = {
+    name = "Rosa469"
+    culture = "kelberican"
+    faith = "stonegods"
+    female = yes
+    dynasty = KELBD2 #KelbDyn2
+    father = KELB_334 #Bartolomeo200
+    mother = KELB_29 #Sofia106
+    580.1.1 = {
+        birth = yes
+    }
+}
+
+KELB_358 = {
+    name = "Rosa473"
+    culture = "kelberican"
+    faith = "stonegods"
+    female = yes
+    dynasty = KELBD2 #KelbDyn2
+    father = KELB_360 #Sergio201
+    mother = KELB_7 #Claudia107
+    577.1.1 = {
+        birth = yes
+    }
+}
+
+KELB_359 = {
+    name = "Salvatore455"
+    culture = "kelberican"
+    faith = "stonegods"
+    dynasty = KELBD2 #KelbDyn2
+    father = KELB_351 #Massimo193
+    mother = KELB_597 #Laura255
+    574.1.1 = {
+        birth = yes
+    }
+}
+
+KELB_36 = {
+    name = "Alberto48"
+    culture = "kelberican"
+    faith = "colocist"
+    dynasty = KELBD10 #KelbDyn10
+    father = KELB_37 #Bartolomeo46
+    520.1.1 = {
+        birth = yes
+    }
+    535.1.1 = {
+        add_spouse = KELB_124 #Chiara60
+    }
+    582.1.1 = {
+        death = yes
+    }
+}
+
+KELB_360 = {
+    name = "Sergio201"
+    culture = "kelberican"
+    faith = "stonegods"
+    dynasty = KELBD2 #KelbDyn2
+    father = KELB_343 #Francesco8
+    mother = KELB_156 #Beatrice64
+    554.1.1 = {
+        birth = yes
+    }
+    571.1.1 = {
+        add_spouse = KELB_7 #Claudia107
+    }
+}
+
+KELB_361 = {
+    name = "Stefano459"
+    culture = "kelberican"
+    faith = "stonegods"
+    dynasty = KELBD2 #KelbDyn2
+    father = KELB_342 #Filippo194
+    mother = KELB_609 #Angelica259
+    577.1.1 = {
+        birth = yes
+    }
+}
+
+KELB_362 = {
+    name = "Stefano6"
+    culture = "kelberican"
+    faith = "stonegods"
+    dynasty = KELBD2 #KelbDyn2
+    481.1.1 = {
+        birth = yes
+    }
+    547.1.1 = {
+        death = yes
+    }
+}
+
+KELB_363 = {
+    name = "Teresa461"
+    culture = "kelberican"
+    faith = "stonegods"
+    female = yes
+    dynasty = KELBD2 #KelbDyn2
+    father = KELB_342 #Filippo194
+    mother = KELB_609 #Angelica259
+    581.1.1 = {
+        birth = yes
+    }
+}
+
+KELB_364 = {
+    name = "Teresa468"
+    culture = "kelberican"
+    faith = "stonegods"
+    female = yes
+    dynasty = KELBD2 #KelbDyn2
+    father = KELB_334 #Bartolomeo200
+    mother = KELB_29 #Sofia106
+    579.1.1 = {
+        birth = yes
+    }
+}
+
+KELB_365 = {
+    name = "Amadeo481"
+    culture = "florisan"
+    faith = "colocist"
+    dynasty = KELBD20 #KelbDyn20
+    father = KELB_384 #Paolo208
+    mother = KELB_38 #Beatrice117
+    577.1.1 = {
+        birth = yes
+    }
+}
+
+KELB_366 = {
+    name = "Angelica207"
+    culture = "florisan"
+    faith = "colocist"
+    female = yes
+    dynasty = KELBD20 #KelbDyn20
+    father = KELB_385 #Paolo98
+    mother = KELB_206 #Isabella74
+    550.1.1 = {
+        birth = yes
+    }
+    569.1.1 = {
+        add_spouse = KELB_251 #Filippo172
+    }
+}
+
+KELB_367 = {
+    name = "Carlo484"
+    culture = "florisan"
+    faith = "colocist"
+    dynasty = KELBD20 #KelbDyn20
+    father = KELB_393 #Vittorio211
+    mother = KELB_108 #Sofia126
+    576.1.1 = {
+        birth = yes
+    }
+}
+
+KELB_368 = {
+    name = "Costanza206"
+    culture = "florisan"
+    faith = "colocist"
+    female = yes
+    dynasty = KELBD20 #KelbDyn20
+    father = KELB_386 #Pietro97
+    mother = KELB_181 #Federica69
+    556.1.1 = {
+        birth = yes
+    }
+    566.1.1 = {
+        add_spouse = KELB_274 #Vincenzo174
+    }
+}
+
+KELB_369 = {
+    name = "Elena480"
+    culture = "florisan"
+    faith = "colocist"
+    female = yes
+    dynasty = KELBD20 #KelbDyn20
+    father = KELB_384 #Paolo208
+    mother = KELB_38 #Beatrice117
+    575.1.1 = {
+        birth = yes
+    }
+}
+
+KELB_37 = {
+    name = "Bartolomeo46"
+    culture = "kelberican"
+    faith = "colocist"
+    dynasty = KELBD10 #KelbDyn10
+    489.1.1 = {
+        birth = yes
+    }
+    547.1.1 = {
+        death = yes
+    }
+}
+
+KELB_370 = {
+    name = "Elettra204"
+    culture = "florisan"
+    faith = "colocist"
+    female = yes
+    dynasty = KELBD20 #KelbDyn20
+    father = KELB_386 #Pietro97
+    mother = KELB_181 #Federica69
+    553.1.1 = {
+        birth = yes
+    }
+    569.1.1 = {
+        add_spouse = KELB_579 #Vittorio247
+    }
+}
+
+KELB_371 = {
+    name = "Elettra474"
+    culture = "florisan"
+    faith = "colocist"
+    female = yes
+    dynasty = KELBD20 #KelbDyn20
+    father = KELB_387 #Riccardo203
+    mother = KELB_59 #Serafina112
+    569.1.1 = {
+        birth = yes
+    }
+}
+
+KELB_372 = {
+    name = "Emilia205"
+    culture = "florisan"
+    faith = "colocist"
+    female = yes
+    dynasty = KELBD20 #KelbDyn20
+    father = KELB_386 #Pietro97
+    mother = KELB_181 #Federica69
+    554.1.1 = {
+        birth = yes
+    }
+    571.1.1 = {
+        add_spouse = KELB_254 #Gregorio173
+    }
+}
+
+KELB_373 = {
+    name = "Francesca475"
+    culture = "florisan"
+    faith = "colocist"
+    female = yes
+    dynasty = KELBD20 #KelbDyn20
+    father = KELB_387 #Riccardo203
+    mother = KELB_59 #Serafina112
+    570.1.1 = {
+        birth = yes
+    }
+    586.1.1 = {
+        add_spouse = KELB_267 #Pietro417
+    }
+}
+
+KELB_374 = {
+    name = "Giulia483"
+    culture = "florisan"
+    faith = "colocist"
+    female = yes
+    dynasty = KELBD20 #KelbDyn20
+    father = KELB_393 #Vittorio211
+    mother = KELB_108 #Sofia126
+    575.1.1 = {
+        birth = yes
+    }
+}
+
+KELB_375 = {
+    name = "Isabella479"
+    culture = "florisan"
+    faith = "colocist"
+    female = yes
+    dynasty = KELBD20 #KelbDyn20
+    father = KELB_384 #Paolo208
+    mother = KELB_38 #Beatrice117
+    574.1.1 = {
+        birth = yes
+    }
+}
+
+KELB_376 = {
+    name = "Leonardo482"
+    culture = "florisan"
+    faith = "colocist"
+    dynasty = KELBD20 #KelbDyn20
+    father = KELB_384 #Paolo208
+    mother = KELB_38 #Beatrice117
+    579.1.1 = {
+        birth = yes
+    }
+}
+
+KELB_377 = {
+    name = "Lorenzo96"
+    culture = "florisan"
+    faith = "colocist"
+    dynasty = KELBD20 #KelbDyn20
+    489.1.1 = {
+        birth = yes
+    }
+    549.1.1 = {
+        death = yes
+    }
+}
+
+KELB_378 = {
+    name = "Marco477"
+    culture = "florisan"
+    faith = "colocist"
+    dynasty = KELBD20 #KelbDyn20
+    father = KELB_387 #Riccardo203
+    mother = KELB_59 #Serafina112
+    573.1.1 = {
+        birth = yes
+    }
+}
+
+KELB_379 = {
+    name = "Maria486"
+    culture = "florisan"
+    faith = "colocist"
+    female = yes
+    dynasty = KELBD20 #KelbDyn20
+    father = KELB_393 #Vittorio211
+    mother = KELB_108 #Sofia126
+    578.1.1 = {
+        birth = yes
+    }
+}
+
+KELB_38 = {
+    name = "Beatrice117"
+    culture = "kelberican"
+    faith = "colocist"
+    female = yes
+    dynasty = KELBD10 #KelbDyn10
+    father = KELB_36 #Alberto48
+    mother = KELB_124 #Chiara60
+    555.1.1 = {
+        birth = yes
+    }
+    573.1.1 = {
+        add_spouse = KELB_384 #Paolo208
+    }
+}
+
+KELB_380 = {
+    name = "Matilda100"
+    culture = "florisan"
+    faith = "colocist"
+    female = yes
+    dynasty = KELBD20 #KelbDyn20
+    father = KELB_377 #Lorenzo96
+    529.1.1 = {
+        birth = yes
+    }
+    542.1.1 = {
+        add_spouse = KELB_212 #Stefano72
+    }
+    582.1.1 = {
+        death = yes
+    }
+}
+
+KELB_381 = {
+    name = "Matilda212"
+    culture = "florisan"
+    faith = "colocist"
+    female = yes
+    dynasty = KELBD20 #KelbDyn20
+    father = KELB_385 #Paolo98
+    mother = KELB_206 #Isabella74
+    559.1.1 = {
+        birth = yes
+    }
+    577.1.1 = {
+        add_spouse = KELB_240 #Alessandro175
+    }
+}
+
+KELB_382 = {
+    name = "Nadia209"
+    culture = "florisan"
+    faith = "colocist"
+    female = yes
+    dynasty = KELBD20 #KelbDyn20
+    father = KELB_385 #Paolo98
+    mother = KELB_206 #Isabella74
+    554.1.1 = {
+        birth = yes
+    }
+    569.1.1 = {
+        add_spouse = KELB_571 #Rinaldo252
+    }
+}
+
+KELB_383 = {
+    name = "Paola485"
+    culture = "florisan"
+    faith = "colocist"
+    female = yes
+    dynasty = KELBD20 #KelbDyn20
+    father = KELB_393 #Vittorio211
+    mother = KELB_108 #Sofia126
+    577.1.1 = {
+        birth = yes
+    }
+}
+
+KELB_384 = {
+    name = "Paolo208"
+    culture = "florisan"
+    faith = "colocist"
+    dynasty = KELBD20 #KelbDyn20
+    father = KELB_385 #Paolo98
+    mother = KELB_206 #Isabella74
+    552.1.1 = {
+        birth = yes
+    }
+    573.1.1 = {
+        add_spouse = KELB_38 #Beatrice117
+    }
+}
+
+KELB_385 = {
+    name = "Paolo98"
+    culture = "florisan"
+    faith = "colocist"
+    dynasty = KELBD20 #KelbDyn20
+    father = KELB_377 #Lorenzo96
+    523.1.1 = {
+        birth = yes
+    }
+    539.1.1 = {
+        add_spouse = KELB_206 #Isabella74
+    }
+    571.1.1 = {
+        death = yes
+    }
+}
+
+KELB_386 = {
+    name = "Pietro97"
+    culture = "florisan"
+    faith = "colocist"
+    dynasty = KELBD20 #KelbDyn20
+    father = KELB_377 #Lorenzo96
+    520.1.1 = {
+        birth = yes
+    }
+    540.1.1 = {
+        add_spouse = KELB_181 #Federica69
+    }
+    577.1.1 = {
+        death = yes
+    }
+}
+
+KELB_387 = {
+    name = "Riccardo203"
+    culture = "florisan"
+    faith = "colocist"
+    dynasty = KELBD20 #KelbDyn20
+    father = KELB_386 #Pietro97
+    mother = KELB_181 #Federica69
+    552.1.1 = {
+        birth = yes
+    }
+    568.1.1 = {
+        add_spouse = KELB_59 #Serafina112
+    }
+}
+
+KELB_388 = {
+    name = "Serafina202"
+    culture = "florisan"
+    faith = "colocist"
+    female = yes
+    dynasty = KELBD20 #KelbDyn20
+    father = KELB_386 #Pietro97
+    mother = KELB_181 #Federica69
+    550.1.1 = {
+        birth = yes
+    }
+    572.1.1 = {
+        add_spouse = KELB_574 #Salvatore251
+    }
+}
+
+KELB_389 = {
+    name = "Serafina476"
+    culture = "florisan"
+    faith = "colocist"
+    female = yes
+    dynasty = KELBD20 #KelbDyn20
+    father = KELB_387 #Riccardo203
+    mother = KELB_59 #Serafina112
+    571.1.1 = {
+        birth = yes
+    }
+}
+
+KELB_39 = {
+    name = "Bianca304"
+    culture = "kelberican"
+    faith = "colocist"
+    female = yes
+    dynasty = KELBD10 #KelbDyn10
+    father = KELB_46 #Enrico113
+    mother = KELB_87 #Ginevra122
+    572.1.1 = {
+        birth = yes
+    }
+}
+
+KELB_390 = {
+    name = "Serafina99"
+    culture = "florisan"
+    faith = "colocist"
+    female = yes
+    dynasty = KELBD20 #KelbDyn20
+    father = KELB_377 #Lorenzo96
+    526.1.1 = {
+        birth = yes
+    }
+    536.1.1 = {
+        add_spouse = KELB_503 #Roberto23
+    }
+    574.1.1 = {
+        death = yes
+    }
+}
+
+KELB_391 = {
+    name = "Teresa210"
+    culture = "florisan"
+    faith = "colocist"
+    female = yes
+    dynasty = KELBD20 #KelbDyn20
+    father = KELB_385 #Paolo98
+    mother = KELB_206 #Isabella74
+    556.1.1 = {
+        birth = yes
+    }
+    577.1.1 = {
+        add_spouse = KELB_557 #Federico248
+    }
+}
+
+KELB_392 = {
+    name = "Vittoria478"
+    culture = "florisan"
+    faith = "colocist"
+    female = yes
+    dynasty = KELBD20 #KelbDyn20
+    father = KELB_387 #Riccardo203
+    mother = KELB_59 #Serafina112
+    574.1.1 = {
+        birth = yes
+    }
+}
+
+KELB_393 = {
+    name = "Vittorio211"
+    culture = "florisan"
+    faith = "colocist"
+    dynasty = KELBD20 #KelbDyn20
+    father = KELB_385 #Paolo98
+    mother = KELB_206 #Isabella74
+    557.1.1 = {
+        birth = yes
+    }
+    574.1.1 = {
+        add_spouse = KELB_108 #Sofia126
+    }
+}
+
+KELB_394 = {
+    name = "Adelina490"
+    culture = "kelberican"
+    faith = "stonegods"
+    female = yes
+    dynasty = KELBD3 #KelbDyn3
+    father = KELB_417 #Massimo214
+    mother = KELB_132 #Matilda130
+    573.1.1 = {
+        birth = yes
+    }
+}
+
+KELB_395 = {
+    name = "Agnese499"
+    culture = "kelberican"
+    faith = "stonegods"
+    female = yes
+    dynasty = KELBD3 #KelbDyn3
+    father = KELB_412 #Gregorio216
+    mother = KELB_162 #Ginevra139
+    579.1.1 = {
+        birth = yes
+    }
+}
+
+KELB_396 = {
+    name = "Alberto487"
+    culture = "kelberican"
+    faith = "stonegods"
+    dynasty = KELBD3 #KelbDyn3
+    father = KELB_400 #Benito213
+    mother = KELB_88 #Ginevra128
+    579.1.1 = {
+        birth = yes
+    }
+}
+
+KELB_397 = {
+    name = "Alessia502"
+    culture = "kelberican"
+    faith = "stonegods"
+    female = yes
+    dynasty = KELBD3 #KelbDyn3
+    father = KELB_420 #Pietro222
+    mother = KELB_150 #Adelina140
+    572.1.1 = {
+        birth = yes
+    }
+}
+
+KELB_398 = {
+    name = "Anna221"
+    culture = "kelberican"
+    faith = "stonegods"
+    female = yes
+    dynasty = KELBD3 #KelbDyn3
+    father = KELB_409 #Francesco13
+    mother = KELB_248 #Elena84
+    555.1.1 = {
+        birth = yes
+    }
+    571.1.1 = {
+        add_spouse = KELB_305 #Vittorio177
+    }
+}
+
+KELB_399 = {
+    name = "Beatrice14"
+    culture = "kelberican"
+    faith = "stonegods"
+    female = yes
+    dynasty = KELBD3 #KelbDyn3
+    father = KELB_425 #Vincenzo11
+    523.1.1 = {
+        birth = yes
+    }
+    550.1.1 = {
+        add_spouse = KELB_509 #Alberto27
+    }
+    573.1.1 = {
+        death = yes
+    }
+}
+
+KELB_4 = {
+    name = "Alessia103"
+    culture = "kelberican"
+    faith = "stonegods"
+    female = yes
+    dynasty = KELBD1 #KelbDyn1
+    father = KELB_19 #Marco2
+    mother = KELB_50 #Isabella49
+    553.1.1 = {
+        birth = yes
+    }
+    578.1.1 = {
+        add_spouse = KELB_633 #Leonardo268
+    }
+}
+
+KELB_40 = {
+    name = "Carlo310"
+    culture = "kelberican"
+    faith = "colocist"
+    dynasty = KELBD10 #KelbDyn10
+    father = KELB_55 #Niccolo118
+    mother = KELB_81 #Elettra124
+    585.1.1 = {
+        birth = yes
+    }
+}
+
+KELB_400 = {
+    name = "Benito213"
+    culture = "kelberican"
+    faith = "stonegods"
+    dynasty = KELBD3 #KelbDyn3
+    father = KELB_401 #Carlo12
+    mother = KELB_216 #Caterina79
+    550.1.1 = {
+        birth = yes
+    }
+    578.1.1 = {
+        add_spouse = KELB_88 #Ginevra128
+    }
+}
+
+KELB_401 = {
+    name = "Carlo12"
+    culture = "kelberican"
+    faith = "stonegods"
+    dynasty = KELBD3 #KelbDyn3
+    father = KELB_425 #Vincenzo11
+    517.1.1 = {
+        birth = yes
+    }
+    541.1.1 = {
+        add_spouse = KELB_216 #Caterina79
+    }
+    577.1.1 = {
+        death = yes
+    }
+}
+
+KELB_402 = {
+    name = "Caterina217"
+    culture = "kelberican"
+    faith = "stonegods"
+    female = yes
+    dynasty = KELBD3 #KelbDyn3
+    father = KELB_401 #Carlo12
+    mother = KELB_216 #Caterina79
+    556.1.1 = {
+        birth = yes
+    }
+    568.1.1 = {
+        add_spouse = KELB_605 #Rinaldo254
+    }
+}
+
+KELB_403 = {
+    name = "Caterina501"
+    culture = "kelberican"
+    faith = "stonegods"
+    female = yes
+    dynasty = KELBD3 #KelbDyn3
+    father = KELB_412 #Gregorio216
+    mother = KELB_162 #Ginevra139
+    582.1.1 = {
+        birth = yes
+    }
+}
+
+KELB_404 = {
+    name = "Chiara500"
+    culture = "kelberican"
+    faith = "stonegods"
+    female = yes
+    dynasty = KELBD3 #KelbDyn3
+    father = KELB_412 #Gregorio216
+    mother = KELB_162 #Ginevra139
+    581.1.1 = {
+        birth = yes
+    }
+}
+
+KELB_405 = {
+    name = "Emilia493"
+    culture = "kelberican"
+    faith = "stonegods"
+    female = yes
+    dynasty = KELBD3 #KelbDyn3
+    father = KELB_417 #Massimo214
+    mother = KELB_132 #Matilda130
+    578.1.1 = {
+        birth = yes
+    }
+}
+
+KELB_406 = {
+    name = "Emilia504"
+    culture = "kelberican"
+    faith = "stonegods"
+    female = yes
+    dynasty = KELBD3 #KelbDyn3
+    father = KELB_420 #Pietro222
+    mother = KELB_150 #Adelina140
+    575.1.1 = {
+        birth = yes
+    }
+}
+
+KELB_407 = {
+    name = "Federica497"
+    culture = "kelberican"
+    faith = "stonegods"
+    female = yes
+    dynasty = KELBD3 #KelbDyn3
+    father = KELB_411 #Giorgio215
+    mother = KELB_115 #Adelina132
+    571.1.1 = {
+        birth = yes
+    }
+    586.1.1 = {
+        add_spouse = KELB_264 #Michele418
+    }
+}
+
+KELB_408 = {
+    name = "Federico492"
+    culture = "kelberican"
+    faith = "stonegods"
+    dynasty = KELBD3 #KelbDyn3
+    father = KELB_417 #Massimo214
+    mother = KELB_132 #Matilda130
+    577.1.1 = {
+        birth = yes
+    }
+}
+
+KELB_409 = {
+    name = "Francesco13"
+    culture = "kelberican"
+    faith = "stonegods"
+    dynasty = KELBD3 #KelbDyn3
+    father = KELB_425 #Vincenzo11
+    520.1.1 = {
+        birth = yes
+    }
+    537.1.1 = {
+        add_spouse = KELB_248 #Elena84
+    }
+    569.1.1 = {
+        death = yes
+    }
+}
+
+KELB_41 = {
+    name = "Carlotta111"
+    culture = "kelberican"
+    faith = "colocist"
+    female = yes
+    dynasty = KELBD10 #KelbDyn10
+    father = KELB_67 #Vincenzo47
+    mother = KELB_96 #Margherita55
+    552.1.1 = {
+        birth = yes
+    }
+    568.1.1 = {
+        add_spouse = KELB_11 #Enrico102
+    }
+}
+
+KELB_410 = {
+    name = "Ginevra494"
+    culture = "kelberican"
+    faith = "stonegods"
+    female = yes
+    dynasty = KELBD3 #KelbDyn3
+    father = KELB_417 #Massimo214
+    mother = KELB_132 #Matilda130
+    580.1.1 = {
+        birth = yes
+    }
+}
+
+KELB_411 = {
+    name = "Giorgio215"
+    culture = "kelberican"
+    faith = "stonegods"
+    dynasty = KELBD3 #KelbDyn3
+    father = KELB_401 #Carlo12
+    mother = KELB_216 #Caterina79
+    552.1.1 = {
+        birth = yes
+    }
+    567.1.1 = {
+        add_spouse = KELB_115 #Adelina132
+    }
+}
+
+KELB_412 = {
+    name = "Gregorio216"
+    culture = "kelberican"
+    faith = "stonegods"
+    dynasty = KELBD3 #KelbDyn3
+    father = KELB_401 #Carlo12
+    mother = KELB_216 #Caterina79
+    554.1.1 = {
+        birth = yes
+    }
+    576.1.1 = {
+        add_spouse = KELB_162 #Ginevra139
+    }
+}
+
+KELB_413 = {
+    name = "Leonardo488"
+    culture = "kelberican"
+    faith = "stonegods"
+    dynasty = KELBD3 #KelbDyn3
+    father = KELB_400 #Benito213
+    mother = KELB_88 #Ginevra128
+    580.1.1 = {
+        birth = yes
+    }
+}
+
+KELB_414 = {
+    name = "Lucia219"
+    culture = "kelberican"
+    faith = "stonegods"
+    female = yes
+    dynasty = KELBD3 #KelbDyn3
+    father = KELB_409 #Francesco13
+    mother = KELB_248 #Elena84
+    551.1.1 = {
+        birth = yes
+    }
+    568.1.1 = {
+        add_spouse = KELB_293 #Marco272
+    }
+}
+
+KELB_415 = {
+    name = "Marco503"
+    culture = "kelberican"
+    faith = "stonegods"
+    dynasty = KELBD3 #KelbDyn3
+    father = KELB_420 #Pietro222
+    mother = KELB_150 #Adelina140
+    574.1.1 = {
+        birth = yes
+    }
+}
+
+KELB_416 = {
+    name = "Margherita218"
+    culture = "kelberican"
+    faith = "stonegods"
+    female = yes
+    dynasty = KELBD3 #KelbDyn3
+    father = KELB_409 #Francesco13
+    mother = KELB_248 #Elena84
+    550.1.1 = {
+        birth = yes
+    }
+    571.1.1 = {
+        add_spouse = KELB_588 #Francesco253
+    }
+}
+
+KELB_417 = {
+    name = "Massimo214"
+    culture = "kelberican"
+    faith = "stonegods"
+    dynasty = KELBD3 #KelbDyn3
+    father = KELB_401 #Carlo12
+    mother = KELB_216 #Caterina79
+    551.1.1 = {
+        birth = yes
+    }
+    572.1.1 = {
+        add_spouse = KELB_132 #Matilda130
+    }
+}
+
+KELB_418 = {
+    name = "Michele489"
+    culture = "kelberican"
+    faith = "stonegods"
+    dynasty = KELBD3 #KelbDyn3
+    father = KELB_400 #Benito213
+    mother = KELB_88 #Ginevra128
+    582.1.1 = {
+        birth = yes
+    }
+}
+
+KELB_419 = {
+    name = "Paola15"
+    culture = "kelberican"
+    faith = "stonegods"
+    female = yes
+    dynasty = KELBD3 #KelbDyn3
+    father = KELB_425 #Vincenzo11
+    526.1.1 = {
+        birth = yes
+    }
+    543.1.1 = {
+        add_spouse = KELB_204 #Guglielmo73
+    }
+    580.1.1 = {
+        death = yes
+    }
+}
+
+KELB_42 = {
+    name = "Chiara305"
+    culture = "kelberican"
+    faith = "colocist"
+    female = yes
+    dynasty = KELBD10 #KelbDyn10
+    father = KELB_55 #Niccolo118
+    mother = KELB_81 #Elettra124
+    579.1.1 = {
+        birth = yes
+    }
+}
+
+KELB_420 = {
+    name = "Pietro222"
+    culture = "kelberican"
+    faith = "stonegods"
+    dynasty = KELBD3 #KelbDyn3
+    father = KELB_409 #Francesco13
+    mother = KELB_248 #Elena84
+    556.1.1 = {
+        birth = yes
+    }
+    571.1.1 = {
+        add_spouse = KELB_150 #Adelina140
+    }
+}
+
+KELB_421 = {
+    name = "Sofia220"
+    culture = "kelberican"
+    faith = "stonegods"
+    female = yes
+    dynasty = KELBD3 #KelbDyn3
+    father = KELB_409 #Francesco13
+    mother = KELB_248 #Elena84
+    553.1.1 = {
+        birth = yes
+    }
+    570.1.1 = {
+        add_spouse = KELB_586 #Federico256
+    }
+}
+
+KELB_422 = {
+    name = "Stefano491"
+    culture = "kelberican"
+    faith = "stonegods"
+    dynasty = KELBD3 #KelbDyn3
+    father = KELB_417 #Massimo214
+    mother = KELB_132 #Matilda130
+    575.1.1 = {
+        birth = yes
+    }
+}
+
+KELB_423 = {
+    name = "Stefano498"
+    culture = "kelberican"
+    faith = "stonegods"
+    dynasty = KELBD3 #KelbDyn3
+    father = KELB_412 #Gregorio216
+    mother = KELB_162 #Ginevra139
+    577.1.1 = {
+        birth = yes
+    }
+}
+
+KELB_424 = {
+    name = "Ugo495"
+    culture = "kelberican"
+    faith = "stonegods"
+    dynasty = KELBD3 #KelbDyn3
+    father = KELB_411 #Giorgio215
+    mother = KELB_115 #Adelina132
+    568.1.1 = {
+        birth = yes
+    }
+    586.1.1 = {
+        add_spouse = KELB_499 #Nadia537
+    }
+}
+
+KELB_425 = {
+    name = "Vincenzo11"
+    culture = "kelberican"
+    faith = "stonegods"
+    dynasty = KELBD3 #KelbDyn3
+    482.1.1 = {
+        birth = yes
+    }
+    565.1.1 = {
+        death = yes
+    }
+}
+
+KELB_426 = {
+    name = "Vittorio496"
+    culture = "kelberican"
+    faith = "stonegods"
+    dynasty = KELBD3 #KelbDyn3
+    father = KELB_411 #Giorgio215
+    mother = KELB_115 #Adelina132
+    570.1.1 = {
+        birth = yes
+    }
+    586.1.1 = {
+        add_spouse = KELB_480 #Beatrice538
+    }
+}
+
+KELB_427 = {
+    name = "Adelina523"
+    culture = "kelberican"
+    faith = "stonegods"
+    female = yes
+    dynasty = KELBD4 #KelbDyn4
+    father = KELB_462 #Salvatore227
+    mother = KELB_175 #Carlotta152
+    579.1.1 = {
+        birth = yes
+    }
+}
+
+KELB_428 = {
+    name = "Agnese526"
+    culture = "kelberican"
+    faith = "stonegods"
+    female = yes
+    dynasty = KELBD4 #KelbDyn4
+    father = KELB_460 #Riccardo225
+    mother = KELB_210 #Rosa154
+    575.1.1 = {
+        birth = yes
+    }
+}
+
+KELB_429 = {
+    name = "Agnese528"
+    culture = "kelberican"
+    faith = "stonegods"
+    female = yes
+    dynasty = KELBD4 #KelbDyn4
+    father = KELB_440 #Giorgio228
+    mother = KELB_205 #Isabella156
+    571.1.1 = {
+        birth = yes
+    }
+    586.1.1 = {
+        add_spouse = KELB_291 #Leonardo425
+    }
+}
+
+KELB_43 = {
+    name = "Claudia303"
+    culture = "kelberican"
+    faith = "colocist"
+    female = yes
+    dynasty = KELBD10 #KelbDyn10
+    father = KELB_46 #Enrico113
+    mother = KELB_87 #Ginevra122
+    571.1.1 = {
+        birth = yes
+    }
+    586.1.1 = {
+        add_spouse = KELB_20 #Michele279
+    }
+}
+
+KELB_430 = {
+    name = "Angelica20"
+    culture = "kelberican"
+    faith = "stonegods"
+    female = yes
+    dynasty = KELBD4 #KelbDyn4
+    father = KELB_469 #Vittorio16
+    527.1.1 = {
+        birth = yes
+    }
+    540.1.1 = {
+        add_spouse = KELB_231 #Riccardo77
+    }
+    575.1.1 = {
+        death = yes
+    }
+}
+
+KELB_431 = {
+    name = "Bianca535"
+    culture = "kelberican"
+    faith = "stonegods"
+    female = yes
+    dynasty = KELBD4 #KelbDyn4
+    father = KELB_470 #Vittorio230
+    mother = KELB_237 #Vittoria164
+    571.1.1 = {
+        birth = yes
+    }
+}
+
+KELB_432 = {
+    name = "Carlotta534"
+    culture = "kelberican"
+    faith = "stonegods"
+    female = yes
+    dynasty = KELBD4 #KelbDyn4
+    father = KELB_470 #Vittorio230
+    mother = KELB_237 #Vittoria164
+    569.1.1 = {
+        birth = yes
+    }
+    586.1.1 = {
+        add_spouse = KELB_268 #Pietro419
+    }
+}
+
+KELB_433 = {
+    name = "Donatella527"
+    culture = "kelberican"
+    faith = "stonegods"
+    female = yes
+    dynasty = KELBD4 #KelbDyn4
+    father = KELB_460 #Riccardo225
+    mother = KELB_210 #Rosa154
+    576.1.1 = {
+        birth = yes
+    }
+}
+
+KELB_434 = {
+    name = "Elettra522"
+    culture = "kelberican"
+    faith = "stonegods"
+    female = yes
+    dynasty = KELBD4 #KelbDyn4
+    father = KELB_462 #Salvatore227
+    mother = KELB_175 #Carlotta152
+    577.1.1 = {
+        birth = yes
+    }
+}
+
+KELB_435 = {
+    name = "Emilia533"
+    culture = "kelberican"
+    faith = "stonegods"
+    female = yes
+    dynasty = KELBD4 #KelbDyn4
+    father = KELB_470 #Vittorio230
+    mother = KELB_237 #Vittoria164
+    568.1.1 = {
+        birth = yes
+    }
+}
+
+KELB_436 = {
+    name = "Enrico529"
+    culture = "kelberican"
+    faith = "stonegods"
+    dynasty = KELBD4 #KelbDyn4
+    father = KELB_440 #Giorgio228
+    mother = KELB_205 #Isabella156
+    572.1.1 = {
+        birth = yes
+    }
+}
+
+KELB_437 = {
+    name = "Filippo515"
+    culture = "kelberican"
+    faith = "stonegods"
+    dynasty = KELBD4 #KelbDyn4
+    father = KELB_461 #Roberto224
+    mother = KELB_180 #Donatella148
+    581.1.1 = {
+        birth = yes
+    }
+}
+
+KELB_438 = {
+    name = "Filippo525"
+    culture = "kelberican"
+    faith = "stonegods"
+    dynasty = KELBD4 #KelbDyn4
+    father = KELB_460 #Riccardo225
+    mother = KELB_210 #Rosa154
+    573.1.1 = {
+        birth = yes
+    }
+}
+
+KELB_439 = {
+    name = "Francesca513"
+    culture = "kelberican"
+    faith = "stonegods"
+    female = yes
+    dynasty = KELBD4 #KelbDyn4
+    father = KELB_461 #Roberto224
+    mother = KELB_180 #Donatella148
+    578.1.1 = {
+        birth = yes
+    }
+}
+
+KELB_44 = {
+    name = "Elettra114"
+    culture = "kelberican"
+    faith = "colocist"
+    female = yes
+    dynasty = KELBD10 #KelbDyn10
+    father = KELB_36 #Alberto48
+    mother = KELB_124 #Chiara60
+    550.1.1 = {
+        birth = yes
+    }
+    567.1.1 = {
+        add_spouse = KELB_32 #Vincenzo105
+    }
+}
+
+KELB_440 = {
+    name = "Giorgio228"
+    culture = "kelberican"
+    faith = "stonegods"
+    dynasty = KELBD4 #KelbDyn4
+    father = KELB_451 #Marco18
+    mother = KELB_306 #Adelina94
+    554.1.1 = {
+        birth = yes
+    }
+    570.1.1 = {
+        add_spouse = KELB_205 #Isabella156
+    }
+}
+
+KELB_441 = {
+    name = "Giovanni223"
+    culture = "kelberican"
+    faith = "stonegods"
+    dynasty = KELBD4 #KelbDyn4
+    father = KELB_448 #Leonardo17
+    mother = KELB_281 #Beatrice89
+    550.1.1 = {
+        birth = yes
+    }
+    569.1.1 = {
+        add_spouse = KELB_153 #Angelica144
+    }
+}
+
+KELB_442 = {
+    name = "Giovanni226"
+    culture = "kelberican"
+    faith = "stonegods"
+    dynasty = KELBD4 #KelbDyn4
+    father = KELB_451 #Marco18
+    mother = KELB_306 #Adelina94
+    550.1.1 = {
+        birth = yes
+    }
+    567.1.1 = {
+        add_spouse = KELB_159 #Emilia142
+    }
+}
+
+KELB_443 = {
+    name = "Gregorio514"
+    culture = "kelberican"
+    faith = "stonegods"
+    dynasty = KELBD4 #KelbDyn4
+    father = KELB_461 #Roberto224
+    mother = KELB_180 #Donatella148
+    579.1.1 = {
+        birth = yes
+    }
+}
+
+KELB_444 = {
+    name = "Guido519"
+    culture = "kelberican"
+    faith = "stonegods"
+    dynasty = KELBD4 #KelbDyn4
+    father = KELB_462 #Salvatore227
+    mother = KELB_175 #Carlotta152
+    572.1.1 = {
+        birth = yes
+    }
+}
+
+KELB_445 = {
+    name = "Guido520"
+    culture = "kelberican"
+    faith = "stonegods"
+    dynasty = KELBD4 #KelbDyn4
+    father = KELB_462 #Salvatore227
+    mother = KELB_175 #Carlotta152
+    574.1.1 = {
+        birth = yes
+    }
+}
+
+KELB_446 = {
+    name = "Guido530"
+    culture = "kelberican"
+    faith = "stonegods"
+    dynasty = KELBD4 #KelbDyn4
+    father = KELB_440 #Giorgio228
+    mother = KELB_205 #Isabella156
+    573.1.1 = {
+        birth = yes
+    }
+}
+
+KELB_447 = {
+    name = "Laura511"
+    culture = "kelberican"
+    faith = "stonegods"
+    female = yes
+    dynasty = KELBD4 #KelbDyn4
+    father = KELB_442 #Giovanni226
+    mother = KELB_159 #Emilia142
+    570.1.1 = {
+        birth = yes
+    }
+}
+
+KELB_448 = {
+    name = "Leonardo17"
+    culture = "kelberican"
+    faith = "stonegods"
+    dynasty = KELBD4 #KelbDyn4
+    father = KELB_469 #Vittorio16
+    518.1.1 = {
+        birth = yes
+    }
+    540.1.1 = {
+        add_spouse = KELB_281 #Beatrice89
+    }
+}
+
+KELB_449 = {
+    name = "Lorenzo507"
+    culture = "kelberican"
+    faith = "stonegods"
+    dynasty = KELBD4 #KelbDyn4
+    father = KELB_441 #Giovanni223
+    mother = KELB_153 #Angelica144
+    572.1.1 = {
+        birth = yes
+    }
+}
+
+KELB_45 = {
+    name = "Elettra115"
+    culture = "kelberican"
+    faith = "colocist"
+    female = yes
+    dynasty = KELBD10 #KelbDyn10
+    father = KELB_36 #Alberto48
+    mother = KELB_124 #Chiara60
+    552.1.1 = {
+        birth = yes
+    }
+    572.1.1 = {
+        add_spouse = KELB_25 #Roberto108
+    }
+}
+
+KELB_450 = {
+    name = "Maddalena19"
+    culture = "kelberican"
+    faith = "stonegods"
+    female = yes
+    dynasty = KELBD4 #KelbDyn4
+    father = KELB_469 #Vittorio16
+    524.1.1 = {
+        birth = yes
+    }
+    535.1.1 = {
+        add_spouse = KELB_513 #Bartolomeo28
+    }
+    580.1.1 = {
+        death = yes
+    }
+}
+
+KELB_451 = {
+    name = "Marco18"
+    culture = "kelberican"
+    faith = "stonegods"
+    dynasty = KELBD4 #KelbDyn4
+    father = KELB_469 #Vittorio16
+    521.1.1 = {
+        birth = yes
+    }
+    538.1.1 = {
+        add_spouse = KELB_306 #Adelina94
+    }
+    581.1.1 = {
+        death = yes
+    }
+}
+
+KELB_452 = {
+    name = "Margherita516"
+    culture = "kelberican"
+    faith = "stonegods"
+    female = yes
+    dynasty = KELBD4 #KelbDyn4
+    father = KELB_461 #Roberto224
+    mother = KELB_180 #Donatella148
+    582.1.1 = {
+        birth = yes
+    }
+}
+
+KELB_453 = {
+    name = "Michele505"
+    culture = "kelberican"
+    faith = "stonegods"
+    dynasty = KELBD4 #KelbDyn4
+    father = KELB_441 #Giovanni223
+    mother = KELB_153 #Angelica144
+    570.1.1 = {
+        birth = yes
+    }
+    586.1.1 = {
+        add_spouse = KELB_514 #Bianca567
+    }
+}
+
+KELB_454 = {
+    name = "Nadia521"
+    culture = "kelberican"
+    faith = "stonegods"
+    female = yes
+    dynasty = KELBD4 #KelbDyn4
+    father = KELB_462 #Salvatore227
+    mother = KELB_175 #Carlotta152
+    576.1.1 = {
+        birth = yes
+    }
+}
+
+KELB_455 = {
+    name = "Paola229"
+    culture = "kelberican"
+    faith = "stonegods"
+    female = yes
+    dynasty = KELBD4 #KelbDyn4
+    father = KELB_451 #Marco18
+    mother = KELB_306 #Adelina94
+    556.1.1 = {
+        birth = yes
+    }
+    578.1.1 = {
+        add_spouse = KELB_289 #Giacomo179
+    }
+}
+
+KELB_456 = {
+    name = "Paola508"
+    culture = "kelberican"
+    faith = "stonegods"
+    female = yes
+    dynasty = KELBD4 #KelbDyn4
+    father = KELB_441 #Giovanni223
+    mother = KELB_153 #Angelica144
+    573.1.1 = {
+        birth = yes
+    }
+}
+
+KELB_457 = {
+    name = "Pietro510"
+    culture = "kelberican"
+    faith = "stonegods"
+    dynasty = KELBD4 #KelbDyn4
+    father = KELB_442 #Giovanni226
+    mother = KELB_159 #Emilia142
+    568.1.1 = {
+        birth = yes
+    }
+    586.1.1 = {
+        add_spouse = KELB_546 #Serafina566
+    }
+}
+
+KELB_458 = {
+    name = "Pietro524"
+    culture = "kelberican"
+    faith = "stonegods"
+    dynasty = KELBD4 #KelbDyn4
+    father = KELB_460 #Riccardo225
+    mother = KELB_210 #Rosa154
+    572.1.1 = {
+        birth = yes
+    }
+}
+
+KELB_459 = {
+    name = "Raffaele509"
+    culture = "kelberican"
+    faith = "stonegods"
+    dynasty = KELBD4 #KelbDyn4
+    father = KELB_441 #Giovanni223
+    mother = KELB_153 #Angelica144
+    574.1.1 = {
+        birth = yes
+    }
+}
+
+KELB_46 = {
+    name = "Enrico113"
+    culture = "kelberican"
+    faith = "colocist"
+    dynasty = KELBD10 #KelbDyn10
+    father = KELB_67 #Vincenzo47
+    mother = KELB_96 #Margherita55
+    554.1.1 = {
+        birth = yes
+    }
+    566.1.1 = {
+        add_spouse = KELB_87 #Ginevra122
+    }
+}
+
+KELB_460 = {
+    name = "Riccardo225"
+    culture = "kelberican"
+    faith = "stonegods"
+    dynasty = KELBD4 #KelbDyn4
+    father = KELB_448 #Leonardo17
+    mother = KELB_281 #Beatrice89
+    554.1.1 = {
+        birth = yes
+    }
+    571.1.1 = {
+        add_spouse = KELB_210 #Rosa154
+    }
+}
+
+KELB_461 = {
+    name = "Roberto224"
+    culture = "kelberican"
+    faith = "stonegods"
+    dynasty = KELBD4 #KelbDyn4
+    father = KELB_448 #Leonardo17
+    mother = KELB_281 #Beatrice89
+    552.1.1 = {
+        birth = yes
+    }
+    577.1.1 = {
+        add_spouse = KELB_180 #Donatella148
+    }
+}
+
+KELB_462 = {
+    name = "Salvatore227"
+    culture = "kelberican"
+    faith = "stonegods"
+    dynasty = KELBD4 #KelbDyn4
+    father = KELB_451 #Marco18
+    mother = KELB_306 #Adelina94
+    552.1.1 = {
+        birth = yes
+    }
+    569.1.1 = {
+        add_spouse = KELB_175 #Carlotta152
+    }
+}
+
+KELB_463 = {
+    name = "Silvana506"
+    culture = "kelberican"
+    faith = "stonegods"
+    female = yes
+    dynasty = KELBD4 #KelbDyn4
+    father = KELB_441 #Giovanni223
+    mother = KELB_153 #Angelica144
+    571.1.1 = {
+        birth = yes
+    }
+}
+
+KELB_464 = {
+    name = "Silvana518"
+    culture = "kelberican"
+    faith = "stonegods"
+    female = yes
+    dynasty = KELBD4 #KelbDyn4
+    father = KELB_462 #Salvatore227
+    mother = KELB_175 #Carlotta152
+    570.1.1 = {
+        birth = yes
+    }
+    586.1.1 = {
+        add_spouse = KELB_262 #Matteo407
+    }
+}
+
+KELB_465 = {
+    name = "Stefano532"
+    culture = "kelberican"
+    faith = "stonegods"
+    dynasty = KELBD4 #KelbDyn4
+    father = KELB_440 #Giorgio228
+    mother = KELB_205 #Isabella156
+    576.1.1 = {
+        birth = yes
+    }
+}
+
+KELB_466 = {
+    name = "Tommaso512"
+    culture = "kelberican"
+    faith = "stonegods"
+    dynasty = KELBD4 #KelbDyn4
+    father = KELB_442 #Giovanni226
+    mother = KELB_159 #Emilia142
+    571.1.1 = {
+        birth = yes
+    }
+    586.1.1 = {
+        add_spouse = KELB_521 #Caterina568
+    }
+}
+
+KELB_467 = {
+    name = "Valentina517"
+    culture = "kelberican"
+    faith = "stonegods"
+    female = yes
+    dynasty = KELBD4 #KelbDyn4
+    father = KELB_461 #Roberto224
+    mother = KELB_180 #Donatella148
+    583.1.1 = {
+        birth = yes
+    }
+}
+
+KELB_468 = {
+    name = "Valentina531"
+    culture = "kelberican"
+    faith = "stonegods"
+    female = yes
+    dynasty = KELBD4 #KelbDyn4
+    father = KELB_440 #Giorgio228
+    mother = KELB_205 #Isabella156
+    574.1.1 = {
+        birth = yes
+    }
+}
+
+KELB_469 = {
+    name = "Vittorio16"
+    culture = "kelberican"
+    faith = "stonegods"
+    dynasty = KELBD4 #KelbDyn4
+    483.1.1 = {
+        birth = yes
+    }
+    559.1.1 = {
+        death = yes
+    }
+}
+
+KELB_47 = {
+    name = "Federico270"
+    culture = "kelberican"
+    faith = "colocist"
+    dynasty = KELBD10 #KelbDyn10
+    540.1.1 = {
+        birth = yes
+    }
+    576.1.1 = {
+        add_spouse = KELB_99 #Nadia125
+    }
+}
+
+KELB_470 = {
+    name = "Vittorio230"
+    culture = "kelberican"
+    faith = "stonegods"
+    dynasty = KELBD4 #KelbDyn4
+    father = KELB_451 #Marco18
+    mother = KELB_306 #Adelina94
+    557.1.1 = {
+        birth = yes
+    }
+    567.1.1 = {
+        add_spouse = KELB_237 #Vittoria164
+    }
+}
+
+KELB_471 = {
+    name = "Adelina237"
+    culture = "kelberican"
+    faith = "colocist"
+    female = yes
+    dynasty = KELBD5 #KelbDyn5
+    father = KELB_503 #Roberto23
+    mother = KELB_390 #Serafina99
+    554.1.1 = {
+        birth = yes
+    }
+    570.1.1 = {
+        add_spouse = KELB_282 #Bernardo182
+    }
+}
+
+KELB_472 = {
+    name = "Alessandro544"
+    culture = "kelberican"
+    faith = "colocist"
+    dynasty = KELBD5 #KelbDyn5
+    father = KELB_496 #Marco235
+    mother = KELB_215 #Carlotta166
+    581.1.1 = {
+        birth = yes
+    }
+}
+
+KELB_473 = {
+    name = "Alessia545"
+    culture = "kelberican"
+    faith = "colocist"
+    female = yes
+    dynasty = KELBD5 #KelbDyn5
+    father = KELB_496 #Marco235
+    mother = KELB_215 #Carlotta166
+    582.1.1 = {
+        birth = yes
+    }
+}
+
+KELB_474 = {
+    name = "Alessia556"
+    culture = "kelberican"
+    faith = "colocist"
+    female = yes
+    dynasty = KELBD5 #KelbDyn5
+    father = KELB_490 #Leonardo233
+    mother = KELB_247 #Elena176
+    577.1.1 = {
+        birth = yes
+    }
+}
+
+KELB_475 = {
+    name = "Amadeo558"
+    culture = "kelberican"
+    faith = "colocist"
+    dynasty = KELBD5 #KelbDyn5
+    father = KELB_505 #Sergio236
+    mother = KELB_298 #Nadia178
+    577.1.1 = {
+        birth = yes
+    }
+}
+
+KELB_476 = {
+    name = "Anna234"
+    culture = "kelberican"
+    faith = "colocist"
+    female = yes
+    dynasty = KELBD5 #KelbDyn5
+    father = KELB_498 #Massimo22
+    mother = KELB_332 #Adelina9
+    553.1.1 = {
+        birth = yes
+    }
+    571.1.1 = {
+        add_spouse = KELB_581 #Amadeo257
+    }
+}
+
+KELB_477 = {
+    name = "Anna543"
+    culture = "kelberican"
+    faith = "colocist"
+    female = yes
+    dynasty = KELBD5 #KelbDyn5
+    father = KELB_496 #Marco235
+    mother = KELB_215 #Carlotta166
+    580.1.1 = {
+        birth = yes
+    }
+}
+
+KELB_478 = {
+    name = "Antonio231"
+    culture = "kelberican"
+    faith = "colocist"
+    dynasty = KELBD5 #KelbDyn5
+    father = KELB_498 #Massimo22
+    mother = KELB_332 #Adelina9
+    550.1.1 = {
+        birth = yes
+    }
+    567.1.1 = {
+        add_spouse = KELB_218 #Costanza165
+    }
+}
+
+KELB_479 = {
+    name = "Bartolomeo554"
+    culture = "kelberican"
+    faith = "colocist"
+    dynasty = KELBD5 #KelbDyn5
+    father = KELB_490 #Leonardo233
+    mother = KELB_247 #Elena176
+    573.1.1 = {
+        birth = yes
+    }
+}
+
+KELB_48 = {
+    name = "Ginevra312"
+    culture = "kelberican"
+    faith = "colocist"
+    female = yes
+    dynasty = KELBD10 #KelbDyn10
+    father = KELB_58 #Rinaldo119
+    mother = KELB_147 #Sofia136
+    578.1.1 = {
+        birth = yes
+    }
+}
+
+KELB_480 = {
+    name = "Beatrice538"
+    culture = "kelberican"
+    faith = "colocist"
+    female = yes
+    dynasty = KELBD5 #KelbDyn5
+    father = KELB_478 #Antonio231
+    mother = KELB_218 #Costanza165
+    571.1.1 = {
+        birth = yes
+    }
+    586.1.1 = {
+        add_spouse = KELB_426 #Vittorio496
+    }
+}
+
+KELB_481 = {
+    name = "Benito540"
+    culture = "kelberican"
+    faith = "colocist"
+    dynasty = KELBD5 #KelbDyn5
+    father = KELB_478 #Antonio231
+    mother = KELB_218 #Costanza165
+    573.1.1 = {
+        birth = yes
+    }
+}
+
+KELB_482 = {
+    name = "Cesare546"
+    culture = "kelberican"
+    faith = "colocist"
+    dynasty = KELBD5 #KelbDyn5
+    father = KELB_496 #Marco235
+    mother = KELB_215 #Carlotta166
+    584.1.1 = {
+        birth = yes
+    }
+}
+
+KELB_483 = {
+    name = "Claudia552"
+    culture = "kelberican"
+    faith = "colocist"
+    female = yes
+    dynasty = KELBD5 #KelbDyn5
+    father = KELB_490 #Leonardo233
+    mother = KELB_247 #Elena176
+    570.1.1 = {
+        birth = yes
+    }
+}
+
+KELB_484 = {
+    name = "Costanza553"
+    culture = "kelberican"
+    faith = "colocist"
+    female = yes
+    dynasty = KELBD5 #KelbDyn5
+    father = KELB_490 #Leonardo233
+    mother = KELB_247 #Elena176
+    572.1.1 = {
+        birth = yes
+    }
+}
+
+KELB_485 = {
+    name = "Donatella560"
+    culture = "kelberican"
+    faith = "colocist"
+    female = yes
+    dynasty = KELBD5 #KelbDyn5
+    father = KELB_505 #Sergio236
+    mother = KELB_298 #Nadia178
+    581.1.1 = {
+        birth = yes
+    }
+}
+
+KELB_486 = {
+    name = "Emilia25"
+    culture = "kelberican"
+    faith = "colocist"
+    female = yes
+    dynasty = KELBD5 #KelbDyn5
+    father = KELB_489 #Giovanni21
+    528.1.1 = {
+        birth = yes
+    }
+    550.1.1 = {
+        add_spouse = KELB_235 #Tommaso78
+    }
+    583.1.1 = {
+        death = yes
+    }
+}
+
+KELB_487 = {
+    name = "Federica24"
+    culture = "kelberican"
+    faith = "colocist"
+    female = yes
+    dynasty = KELBD5 #KelbDyn5
+    father = KELB_489 #Giovanni21
+    525.1.1 = {
+        birth = yes
+    }
+    544.1.1 = {
+        add_spouse = KELB_561 #Giorgio32
+    }
+    573.1.1 = {
+        death = yes
+    }
+}
+
+KELB_488 = {
+    name = "Giorgio550"
+    culture = "kelberican"
+    faith = "colocist"
+    dynasty = KELBD5 #KelbDyn5
+    father = KELB_502 #Rinaldo232
+    mother = KELB_244 #Caterina170
+    583.1.1 = {
+        birth = yes
+    }
+}
+
+KELB_489 = {
+    name = "Giovanni21"
+    culture = "kelberican"
+    faith = "colocist"
+    dynasty = KELBD5 #KelbDyn5
+    484.1.1 = {
+        birth = yes
+    }
+    541.1.1 = {
+        death = yes
+    }
+}
+
+KELB_49 = {
+    name = "Ginevra50"
+    culture = "kelberican"
+    faith = "colocist"
+    female = yes
+    dynasty = KELBD10 #KelbDyn10
+    father = KELB_37 #Bartolomeo46
+    526.1.1 = {
+        birth = yes
+    }
+    541.1.1 = {
+        add_spouse = KELB_12 #Filippo3
+    }
+    568.1.1 = {
+        death = yes
+    }
+}
+
+KELB_490 = {
+    name = "Leonardo233"
+    culture = "kelberican"
+    faith = "colocist"
+    dynasty = KELBD5 #KelbDyn5
+    father = KELB_498 #Massimo22
+    mother = KELB_332 #Adelina9
+    552.1.1 = {
+        birth = yes
+    }
+    569.1.1 = {
+        add_spouse = KELB_247 #Elena176
+    }
+}
+
+KELB_491 = {
+    name = "Letizia548"
+    culture = "kelberican"
+    faith = "colocist"
+    female = yes
+    dynasty = KELBD5 #KelbDyn5
+    father = KELB_502 #Rinaldo232
+    mother = KELB_244 #Caterina170
+    579.1.1 = {
+        birth = yes
+    }
+}
+
+KELB_492 = {
+    name = "Livia539"
+    culture = "kelberican"
+    faith = "colocist"
+    female = yes
+    dynasty = KELBD5 #KelbDyn5
+    father = KELB_478 #Antonio231
+    mother = KELB_218 #Costanza165
+    572.1.1 = {
+        birth = yes
+    }
+}
+
+KELB_493 = {
+    name = "Lorenzo536"
+    culture = "kelberican"
+    faith = "colocist"
+    dynasty = KELBD5 #KelbDyn5
+    father = KELB_478 #Antonio231
+    mother = KELB_218 #Costanza165
+    568.1.1 = {
+        birth = yes
+    }
+    586.1.1 = {
+        add_spouse = KELB_534 #Giulia564
+    }
+}
+
+KELB_494 = {
+    name = "Lorenzo542"
+    culture = "kelberican"
+    faith = "colocist"
+    dynasty = KELBD5 #KelbDyn5
+    father = KELB_496 #Marco235
+    mother = KELB_215 #Carlotta166
+    578.1.1 = {
+        birth = yes
+    }
+}
+
+KELB_495 = {
+    name = "Maddalena541"
+    culture = "kelberican"
+    faith = "colocist"
+    female = yes
+    dynasty = KELBD5 #KelbDyn5
+    father = KELB_496 #Marco235
+    mother = KELB_215 #Carlotta166
+    576.1.1 = {
+        birth = yes
+    }
+}
+
+KELB_496 = {
+    name = "Marco235"
+    culture = "kelberican"
+    faith = "colocist"
+    dynasty = KELBD5 #KelbDyn5
+    father = KELB_503 #Roberto23
+    mother = KELB_390 #Serafina99
+    550.1.1 = {
+        birth = yes
+    }
+    575.1.1 = {
+        add_spouse = KELB_215 #Carlotta166
+    }
+}
+
+KELB_497 = {
+    name = "Margherita551"
+    culture = "kelberican"
+    faith = "colocist"
+    female = yes
+    dynasty = KELBD5 #KelbDyn5
+    father = KELB_502 #Rinaldo232
+    mother = KELB_244 #Caterina170
+    584.1.1 = {
+        birth = yes
+    }
+}
+
+KELB_498 = {
+    name = "Massimo22"
+    culture = "kelberican"
+    faith = "colocist"
+    dynasty = KELBD5 #KelbDyn5
+    father = KELB_489 #Giovanni21
+    519.1.1 = {
+        birth = yes
+    }
+    545.1.1 = {
+        add_spouse = KELB_332 #Adelina9
+    }
+    568.1.1 = {
+        death = yes
+    }
+}
+
+KELB_499 = {
+    name = "Nadia537"
+    culture = "kelberican"
+    faith = "colocist"
+    female = yes
+    dynasty = KELBD5 #KelbDyn5
+    father = KELB_478 #Antonio231
+    mother = KELB_218 #Costanza165
+    570.1.1 = {
+        birth = yes
+    }
+    586.1.1 = {
+        add_spouse = KELB_424 #Ugo495
+    }
+}
+
+KELB_5 = {
+    name = "Angelica284"
+    culture = "kelberican"
+    faith = "stonegods"
+    female = yes
+    dynasty = KELBD1 #KelbDyn1
+    father = KELB_11 #Enrico102
+    mother = KELB_41 #Carlotta111
+    575.1.1 = {
+        birth = yes
+    }
+}
+
+KELB_50 = {
+    name = "Isabella49"
+    culture = "kelberican"
+    faith = "colocist"
+    female = yes
+    dynasty = KELBD10 #KelbDyn10
+    father = KELB_37 #Bartolomeo46
+    523.1.1 = {
+        birth = yes
+    }
+    542.1.1 = {
+        add_spouse = KELB_19 #Marco2
+    }
+    583.1.1 = {
+        death = yes
+    }
+}
+
+KELB_500 = {
+    name = "Renata557"
+    culture = "kelberican"
+    faith = "colocist"
+    female = yes
+    dynasty = KELBD5 #KelbDyn5
+    father = KELB_505 #Sergio236
+    mother = KELB_298 #Nadia178
+    575.1.1 = {
+        birth = yes
+    }
+}
+
+KELB_501 = {
+    name = "Riccardo559"
+    culture = "kelberican"
+    faith = "colocist"
+    dynasty = KELBD5 #KelbDyn5
+    father = KELB_505 #Sergio236
+    mother = KELB_298 #Nadia178
+    579.1.1 = {
+        birth = yes
+    }
+}
+
+KELB_502 = {
+    name = "Rinaldo232"
+    culture = "kelberican"
+    faith = "colocist"
+    dynasty = KELBD5 #KelbDyn5
+    father = KELB_498 #Massimo22
+    mother = KELB_332 #Adelina9
+    551.1.1 = {
+        birth = yes
+    }
+    577.1.1 = {
+        add_spouse = KELB_244 #Caterina170
+    }
+}
+
+KELB_503 = {
+    name = "Roberto23"
+    culture = "kelberican"
+    faith = "colocist"
+    dynasty = KELBD5 #KelbDyn5
+    father = KELB_489 #Giovanni21
+    522.1.1 = {
+        birth = yes
+    }
+    536.1.1 = {
+        add_spouse = KELB_390 #Serafina99
+    }
+    572.1.1 = {
+        death = yes
+    }
+}
+
+KELB_504 = {
+    name = "Roberto555"
+    culture = "kelberican"
+    faith = "colocist"
+    dynasty = KELBD5 #KelbDyn5
+    father = KELB_490 #Leonardo233
+    mother = KELB_247 #Elena176
+    575.1.1 = {
+        birth = yes
+    }
+}
+
+KELB_505 = {
+    name = "Sergio236"
+    culture = "kelberican"
+    faith = "colocist"
+    dynasty = KELBD5 #KelbDyn5
+    father = KELB_503 #Roberto23
+    mother = KELB_390 #Serafina99
+    552.1.1 = {
+        birth = yes
+    }
+    574.1.1 = {
+        add_spouse = KELB_298 #Nadia178
+    }
+}
+
+KELB_506 = {
+    name = "Silvana547"
+    culture = "kelberican"
+    faith = "colocist"
+    female = yes
+    dynasty = KELBD5 #KelbDyn5
+    father = KELB_502 #Rinaldo232
+    mother = KELB_244 #Caterina170
+    578.1.1 = {
+        birth = yes
+    }
+}
+
+KELB_507 = {
+    name = "Valentina549"
+    culture = "kelberican"
+    faith = "colocist"
+    female = yes
+    dynasty = KELBD5 #KelbDyn5
+    father = KELB_502 #Rinaldo232
+    mother = KELB_244 #Caterina170
+    581.1.1 = {
+        birth = yes
+    }
+}
+
+KELB_508 = {
+    name = "Agnese563"
+    culture = "kelberican"
+    faith = "stonegods"
+    female = yes
+    dynasty = KELBD6 #KelbDyn6
+    father = KELB_532 #Francesco271
+    mother = KELB_284 #Caterina183
+    569.1.1 = {
+        birth = yes
+    }
+}
+
+KELB_509 = {
+    name = "Alberto27"
+    culture = "kelberican"
+    faith = "stonegods"
+    dynasty = KELBD6 #KelbDyn6
+    father = KELB_522 #Cesare26
+    520.1.1 = {
+        birth = yes
+    }
+    550.1.1 = {
+        add_spouse = KELB_399 #Beatrice14
+    }
+    577.1.1 = {
+        death = yes
+    }
+}
+
+KELB_51 = {
+    name = "Leonardo297"
+    culture = "kelberican"
+    faith = "colocist"
+    dynasty = KELBD10 #KelbDyn10
+    father = KELB_47 #Federico270
+    mother = KELB_99 #Nadia125
+    582.1.1 = {
+        birth = yes
+    }
+}
+
+KELB_510 = {
+    name = "Alessia241"
+    culture = "kelberican"
+    faith = "stonegods"
+    female = yes
+    dynasty = KELBD6 #KelbDyn6
+    father = KELB_513 #Bartolomeo28
+    mother = KELB_450 #Maddalena19
+    550.1.1 = {
+        birth = yes
+    }
+    571.1.1 = {
+        add_spouse = KELB_642 #Pietro260
+    }
+}
+
+KELB_511 = {
+    name = "Alessia565"
+    culture = "kelberican"
+    faith = "stonegods"
+    female = yes
+    dynasty = KELBD6 #KelbDyn6
+    father = KELB_525 #Domenico238
+    mother = KELB_317 #Isabella189
+    567.1.1 = {
+        birth = yes
+    }
+}
+
+KELB_512 = {
+    name = "Anna240"
+    culture = "kelberican"
+    faith = "stonegods"
+    female = yes
+    dynasty = KELBD6 #KelbDyn6
+    father = KELB_509 #Alberto27
+    mother = KELB_399 #Beatrice14
+    553.1.1 = {
+        birth = yes
+    }
+    576.1.1 = {
+        add_spouse = KELB_330 #Stefano185
+    }
+}
+
+KELB_513 = {
+    name = "Bartolomeo28"
+    culture = "kelberican"
+    faith = "stonegods"
+    dynasty = KELBD6 #KelbDyn6
+    father = KELB_522 #Cesare26
+    523.1.1 = {
+        birth = yes
+    }
+    535.1.1 = {
+        add_spouse = KELB_450 #Maddalena19
+    }
+}
+
+KELB_514 = {
+    name = "Bianca567"
+    culture = "kelberican"
+    faith = "stonegods"
+    female = yes
+    dynasty = KELBD6 #KelbDyn6
+    father = KELB_525 #Domenico238
+    mother = KELB_317 #Isabella189
+    569.1.1 = {
+        birth = yes
+    }
+    586.1.1 = {
+        add_spouse = KELB_453 #Michele505
+    }
+}
+
+KELB_515 = {
+    name = "Bianca582"
+    culture = "kelberican"
+    faith = "stonegods"
+    female = yes
+    dynasty = KELBD6 #KelbDyn6
+    father = KELB_536 #Leonardo243
+    mother = KELB_347 #Isabella195
+    570.1.1 = {
+        birth = yes
+    }
+}
+
+KELB_516 = {
+    name = "Bianca585"
+    culture = "kelberican"
+    faith = "stonegods"
+    female = yes
+    dynasty = KELBD6 #KelbDyn6
+    father = KELB_548 #Stefano244
+    mother = KELB_353 #Paola197
+    573.1.1 = {
+        birth = yes
+    }
+}
+
+KELB_517 = {
+    name = "Bianca587"
+    culture = "kelberican"
+    faith = "stonegods"
+    female = yes
+    dynasty = KELBD6 #KelbDyn6
+    father = KELB_548 #Stefano244
+    mother = KELB_353 #Paola197
+    576.1.1 = {
+        birth = yes
+    }
+}
+
+KELB_518 = {
+    name = "Camilla29"
+    culture = "kelberican"
+    faith = "stonegods"
+    female = yes
+    dynasty = KELBD6 #KelbDyn6
+    father = KELB_522 #Cesare26
+    526.1.1 = {
+        birth = yes
+    }
+    545.1.1 = {
+        add_spouse = KELB_554 #Bernardo33
+    }
+    580.1.1 = {
+        death = yes
+    }
+}
+
+KELB_519 = {
+    name = "Camilla584"
+    culture = "kelberican"
+    faith = "stonegods"
+    female = yes
+    dynasty = KELBD6 #KelbDyn6
+    father = KELB_536 #Leonardo243
+    mother = KELB_347 #Isabella195
+    573.1.1 = {
+        birth = yes
+    }
+}
+
+KELB_52 = {
+    name = "Lorenzo306"
+    culture = "kelberican"
+    faith = "colocist"
+    dynasty = KELBD10 #KelbDyn10
+    father = KELB_55 #Niccolo118
+    mother = KELB_81 #Elettra124
+    580.1.1 = {
+        birth = yes
+    }
+}
+
+KELB_520 = {
+    name = "Carlotta576"
+    culture = "kelberican"
+    faith = "stonegods"
+    female = yes
+    dynasty = KELBD6 #KelbDyn6
+    father = KELB_531 #Francesco239
+    mother = KELB_319 #Letizia192
+    578.1.1 = {
+        birth = yes
+    }
+}
+
+KELB_521 = {
+    name = "Caterina568"
+    culture = "kelberican"
+    faith = "stonegods"
+    female = yes
+    dynasty = KELBD6 #KelbDyn6
+    father = KELB_525 #Domenico238
+    mother = KELB_317 #Isabella189
+    570.1.1 = {
+        birth = yes
+    }
+    586.1.1 = {
+        add_spouse = KELB_466 #Tommaso512
+    }
+}
+
+KELB_522 = {
+    name = "Cesare26"
+    culture = "kelberican"
+    faith = "stonegods"
+    dynasty = KELBD6 #KelbDyn6
+    485.1.1 = {
+        birth = yes
+    }
+    557.1.1 = {
+        death = yes
+    }
+}
+
+KELB_523 = {
+    name = "Cesare580"
+    culture = "kelberican"
+    faith = "stonegods"
+    dynasty = KELBD6 #KelbDyn6
+    father = KELB_536 #Leonardo243
+    mother = KELB_347 #Isabella195
+    568.1.1 = {
+        birth = yes
+    }
+    586.1.1 = {
+        add_spouse = KELB_6 #Caterina282
+    }
+}
+
+KELB_524 = {
+    name = "Costanza583"
+    culture = "kelberican"
+    faith = "stonegods"
+    female = yes
+    dynasty = KELBD6 #KelbDyn6
+    father = KELB_536 #Leonardo243
+    mother = KELB_347 #Isabella195
+    572.1.1 = {
+        birth = yes
+    }
+}
+
+KELB_525 = {
+    name = "Domenico238"
+    culture = "kelberican"
+    faith = "stonegods"
+    dynasty = KELBD6 #KelbDyn6
+    father = KELB_509 #Alberto27
+    mother = KELB_399 #Beatrice14
+    551.1.1 = {
+        birth = yes
+    }
+    566.1.1 = {
+        add_spouse = KELB_317 #Isabella189
+    }
+}
+
+KELB_526 = {
+    name = "Elettra30"
+    culture = "kelberican"
+    faith = "stonegods"
+    female = yes
+    dynasty = KELBD6 #KelbDyn6
+    father = KELB_522 #Cesare26
+    529.1.1 = {
+        birth = yes
+    }
+    548.1.1 = {
+        add_spouse = KELB_239 #Alberto82
+    }
+}
+
+KELB_527 = {
+    name = "Elettra574"
+    culture = "kelberican"
+    faith = "stonegods"
+    female = yes
+    dynasty = KELBD6 #KelbDyn6
+    father = KELB_531 #Francesco239
+    mother = KELB_319 #Letizia192
+    574.1.1 = {
+        birth = yes
+    }
+}
+
+KELB_528 = {
+    name = "Federica578"
+    culture = "kelberican"
+    faith = "stonegods"
+    female = yes
+    dynasty = KELBD6 #KelbDyn6
+    father = KELB_531 #Francesco239
+    mother = KELB_319 #Letizia192
+    581.1.1 = {
+        birth = yes
+    }
+}
+
+KELB_529 = {
+    name = "Federica581"
+    culture = "kelberican"
+    faith = "stonegods"
+    female = yes
+    dynasty = KELBD6 #KelbDyn6
+    father = KELB_536 #Leonardo243
+    mother = KELB_347 #Isabella195
+    569.1.1 = {
+        birth = yes
+    }
+}
+
+KELB_53 = {
+    name = "Maddalena110"
+    culture = "kelberican"
+    faith = "colocist"
+    female = yes
+    dynasty = KELBD10 #KelbDyn10
+    father = KELB_67 #Vincenzo47
+    mother = KELB_96 #Margherita55
+    550.1.1 = {
+        birth = yes
+    }
+    574.1.1 = {
+        add_spouse = KELB_30 #Stefano101
+    }
+}
+
+KELB_530 = {
+    name = "Filippo572"
+    culture = "kelberican"
+    faith = "stonegods"
+    dynasty = KELBD6 #KelbDyn6
+    father = KELB_544 #Riccardo242
+    mother = KELB_310 #Costanza187
+    576.1.1 = {
+        birth = yes
+    }
+}
+
+KELB_531 = {
+    name = "Francesco239"
+    culture = "kelberican"
+    faith = "stonegods"
+    dynasty = KELBD6 #KelbDyn6
+    father = KELB_509 #Alberto27
+    mother = KELB_399 #Beatrice14
+    552.1.1 = {
+        birth = yes
+    }
+    573.1.1 = {
+        add_spouse = KELB_319 #Letizia192
+    }
+}
+
+KELB_532 = {
+    name = "Francesco271"
+    culture = "kelberican"
+    faith = "stonegods"
+    dynasty = KELBD6 #KelbDyn6
+    547.1.1 = {
+        birth = yes
+    }
+    566.1.1 = {
+        add_spouse = KELB_284 #Caterina183
+    }
+}
+
+KELB_533 = {
+    name = "Giovanni571"
+    culture = "kelberican"
+    faith = "stonegods"
+    dynasty = KELBD6 #KelbDyn6
+    father = KELB_544 #Riccardo242
+    mother = KELB_310 #Costanza187
+    575.1.1 = {
+        birth = yes
+    }
+}
+
+KELB_534 = {
+    name = "Giulia564"
+    culture = "kelberican"
+    faith = "stonegods"
+    female = yes
+    dynasty = KELBD6 #KelbDyn6
+    father = KELB_532 #Francesco271
+    mother = KELB_284 #Caterina183
+    571.1.1 = {
+        birth = yes
+    }
+    586.1.1 = {
+        add_spouse = KELB_493 #Lorenzo536
+    }
+}
+
+KELB_535 = {
+    name = "Giulia586"
+    culture = "kelberican"
+    faith = "stonegods"
+    female = yes
+    dynasty = KELBD6 #KelbDyn6
+    father = KELB_548 #Stefano244
+    mother = KELB_353 #Paola197
+    575.1.1 = {
+        birth = yes
+    }
+}
+
+KELB_536 = {
+    name = "Leonardo243"
+    culture = "kelberican"
+    faith = "stonegods"
+    dynasty = KELBD6 #KelbDyn6
+    father = KELB_513 #Bartolomeo28
+    mother = KELB_450 #Maddalena19
+    552.1.1 = {
+        birth = yes
+    }
+    567.1.1 = {
+        add_spouse = KELB_347 #Isabella195
+    }
+}
+
+KELB_537 = {
+    name = "Leonardo575"
+    culture = "kelberican"
+    faith = "stonegods"
+    dynasty = KELBD6 #KelbDyn6
+    father = KELB_531 #Francesco239
+    mother = KELB_319 #Letizia192
+    576.1.1 = {
+        birth = yes
+    }
+}
+
+KELB_538 = {
+    name = "Marco577"
+    culture = "kelberican"
+    faith = "stonegods"
+    dynasty = KELBD6 #KelbDyn6
+    father = KELB_531 #Francesco239
+    mother = KELB_319 #Letizia192
+    579.1.1 = {
+        birth = yes
+    }
+}
+
+KELB_539 = {
+    name = "Maria588"
+    culture = "kelberican"
+    faith = "stonegods"
+    female = yes
+    dynasty = KELBD6 #KelbDyn6
+    father = KELB_548 #Stefano244
+    mother = KELB_353 #Paola197
+    578.1.1 = {
+        birth = yes
+    }
+}
+
+KELB_54 = {
+    name = "Margherita116"
+    culture = "kelberican"
+    faith = "colocist"
+    female = yes
+    dynasty = KELBD10 #KelbDyn10
+    father = KELB_36 #Alberto48
+    mother = KELB_124 #Chiara60
+    553.1.1 = {
+        birth = yes
+    }
+    574.1.1 = {
+        add_spouse = KELB_14 #Giorgio109
+    }
+}
+
+KELB_540 = {
+    name = "Niccolo569"
+    culture = "kelberican"
+    faith = "stonegods"
+    dynasty = KELBD6 #KelbDyn6
+    father = KELB_525 #Domenico238
+    mother = KELB_317 #Isabella189
+    571.1.1 = {
+        birth = yes
+    }
+    586.1.1 = {
+        add_spouse = KELB_62 #Sofia301
+    }
+}
+
+KELB_541 = {
+    name = "Paolo561"
+    culture = "kelberican"
+    faith = "stonegods"
+    dynasty = KELBD6 #KelbDyn6
+    father = KELB_532 #Francesco271
+    mother = KELB_284 #Caterina183
+    567.1.1 = {
+        birth = yes
+    }
+    586.1.1 = {
+        add_spouse = KELB_590 #Giulia610
+    }
+}
+
+KELB_542 = {
+    name = "Pietro562"
+    culture = "kelberican"
+    faith = "stonegods"
+    dynasty = KELBD6 #KelbDyn6
+    father = KELB_532 #Francesco271
+    mother = KELB_284 #Caterina183
+    568.1.1 = {
+        birth = yes
+    }
+    586.1.1 = {
+        add_spouse = KELB_619 #Emilia629
+    }
+}
+
+KELB_543 = {
+    name = "Renata579"
+    culture = "kelberican"
+    faith = "stonegods"
+    female = yes
+    dynasty = KELBD6 #KelbDyn6
+    father = KELB_531 #Francesco239
+    mother = KELB_319 #Letizia192
+    583.1.1 = {
+        birth = yes
+    }
+}
+
+KELB_544 = {
+    name = "Riccardo242"
+    culture = "kelberican"
+    faith = "stonegods"
+    dynasty = KELBD6 #KelbDyn6
+    father = KELB_513 #Bartolomeo28
+    mother = KELB_450 #Maddalena19
+    551.1.1 = {
+        birth = yes
+    }
+    574.1.1 = {
+        add_spouse = KELB_310 #Costanza187
+    }
+}
+
+KELB_545 = {
+    name = "Riccardo589"
+    culture = "kelberican"
+    faith = "stonegods"
+    dynasty = KELBD6 #KelbDyn6
+    father = KELB_548 #Stefano244
+    mother = KELB_353 #Paola197
+    579.1.1 = {
+        birth = yes
+    }
+}
+
+KELB_546 = {
+    name = "Serafina566"
+    culture = "kelberican"
+    faith = "stonegods"
+    female = yes
+    dynasty = KELBD6 #KelbDyn6
+    father = KELB_525 #Domenico238
+    mother = KELB_317 #Isabella189
+    568.1.1 = {
+        birth = yes
+    }
+    586.1.1 = {
+        add_spouse = KELB_457 #Pietro510
+    }
+}
+
+KELB_547 = {
+    name = "Silvana573"
+    culture = "kelberican"
+    faith = "stonegods"
+    female = yes
+    dynasty = KELBD6 #KelbDyn6
+    father = KELB_544 #Riccardo242
+    mother = KELB_310 #Costanza187
+    577.1.1 = {
+        birth = yes
+    }
+}
+
+KELB_548 = {
+    name = "Stefano244"
+    culture = "kelberican"
+    faith = "stonegods"
+    dynasty = KELBD6 #KelbDyn6
+    father = KELB_513 #Bartolomeo28
+    mother = KELB_450 #Maddalena19
+    553.1.1 = {
+        birth = yes
+    }
+    572.1.1 = {
+        add_spouse = KELB_353 #Paola197
+    }
+}
+
+KELB_549 = {
+    name = "Vincenzo570"
+    culture = "kelberican"
+    faith = "stonegods"
+    dynasty = KELBD6 #KelbDyn6
+    father = KELB_525 #Domenico238
+    mother = KELB_317 #Isabella189
+    572.1.1 = {
+        birth = yes
+    }
+}
+
+KELB_55 = {
+    name = "Niccolo118"
+    culture = "kelberican"
+    faith = "colocist"
+    dynasty = KELBD10 #KelbDyn10
+    father = KELB_36 #Alberto48
+    mother = KELB_124 #Chiara60
+    557.1.1 = {
+        birth = yes
+    }
+    578.1.1 = {
+        add_spouse = KELB_81 #Elettra124
+    }
+}
+
+KELB_550 = {
+    name = "Adelina606"
+    culture = "kelberican"
+    faith = "stonegods"
+    female = yes
+    dynasty = KELBD7 #KelbDyn7
+    father = KELB_557 #Federico248
+    mother = KELB_391 #Teresa210
+    584.1.1 = {
+        birth = yes
+    }
+}
+
+KELB_551 = {
+    name = "Angelica246"
+    culture = "kelberican"
+    faith = "stonegods"
+    female = yes
+    dynasty = KELBD7 #KelbDyn7
+    father = KELB_561 #Giorgio32
+    mother = KELB_487 #Federica24
+    551.1.1 = {
+        birth = yes
+    }
+    571.1.1 = {
+        add_spouse = KELB_624 #Filippo261
+    }
+}
+
+KELB_552 = {
+    name = "Angelica250"
+    culture = "kelberican"
+    faith = "stonegods"
+    female = yes
+    dynasty = KELBD7 #KelbDyn7
+    father = KELB_554 #Bernardo33
+    mother = KELB_518 #Camilla29
+    550.1.1 = {
+        birth = yes
+    }
+    577.1.1 = {
+        add_spouse = KELB_314 #Federico190
+    }
+}
+
+KELB_553 = {
+    name = "Beatrice34"
+    culture = "kelberican"
+    faith = "stonegods"
+    female = yes
+    dynasty = KELBD7 #KelbDyn7
+    father = KELB_572 #Rinaldo31
+    527.1.1 = {
+        birth = yes
+    }
+    549.1.1 = {
+        add_spouse = KELB_601 #Michele37
+    }
+    578.1.1 = {
+        death = yes
+    }
+}
+
+KELB_554 = {
+    name = "Bernardo33"
+    culture = "kelberican"
+    faith = "stonegods"
+    dynasty = KELBD7 #KelbDyn7
+    father = KELB_572 #Rinaldo31
+    524.1.1 = {
+        birth = yes
+    }
+    545.1.1 = {
+        add_spouse = KELB_518 #Camilla29
+    }
+    577.1.1 = {
+        death = yes
+    }
+}
+
+KELB_555 = {
+    name = "Caterina245"
+    culture = "kelberican"
+    faith = "stonegods"
+    female = yes
+    dynasty = KELBD7 #KelbDyn7
+    father = KELB_561 #Giorgio32
+    mother = KELB_487 #Federica24
+    550.1.1 = {
+        birth = yes
+    }
+    568.1.1 = {
+        add_spouse = KELB_628 #Giovanni266
+    }
+}
+
+KELB_556 = {
+    name = "Federica605"
+    culture = "kelberican"
+    faith = "stonegods"
+    female = yes
+    dynasty = KELBD7 #KelbDyn7
+    father = KELB_557 #Federico248
+    mother = KELB_391 #Teresa210
+    582.1.1 = {
+        birth = yes
+    }
+}
+
+KELB_557 = {
+    name = "Federico248"
+    culture = "kelberican"
+    faith = "stonegods"
+    dynasty = KELBD7 #KelbDyn7
+    father = KELB_561 #Giorgio32
+    mother = KELB_487 #Federica24
+    555.1.1 = {
+        birth = yes
+    }
+    577.1.1 = {
+        add_spouse = KELB_391 #Teresa210
+    }
+}
+
+KELB_558 = {
+    name = "Filippo599"
+    culture = "kelberican"
+    faith = "stonegods"
+    dynasty = KELBD7 #KelbDyn7
+    father = KELB_571 #Rinaldo252
+    mother = KELB_382 #Nadia209
+    572.1.1 = {
+        birth = yes
+    }
+}
+
+KELB_559 = {
+    name = "Francesco591"
+    culture = "kelberican"
+    faith = "stonegods"
+    dynasty = KELBD7 #KelbDyn7
+    father = KELB_574 #Salvatore251
+    mother = KELB_388 #Serafina202
+    575.1.1 = {
+        birth = yes
+    }
+}
+
+KELB_56 = {
+    name = "Niccolo302"
+    culture = "kelberican"
+    faith = "colocist"
+    dynasty = KELBD10 #KelbDyn10
+    father = KELB_46 #Enrico113
+    mother = KELB_87 #Ginevra122
+    570.1.1 = {
+        birth = yes
+    }
+    586.1.1 = {
+        add_spouse = KELB_195 #Chiara388
+    }
+}
+
+KELB_560 = {
+    name = "Francesco596"
+    culture = "kelberican"
+    faith = "stonegods"
+    dynasty = KELBD7 #KelbDyn7
+    father = KELB_579 #Vittorio247
+    mother = KELB_370 #Elettra204
+    574.1.1 = {
+        birth = yes
+    }
+}
+
+KELB_561 = {
+    name = "Giorgio32"
+    culture = "kelberican"
+    faith = "stonegods"
+    dynasty = KELBD7 #KelbDyn7
+    father = KELB_572 #Rinaldo31
+    521.1.1 = {
+        birth = yes
+    }
+    544.1.1 = {
+        add_spouse = KELB_487 #Federica24
+    }
+    577.1.1 = {
+        death = yes
+    }
+}
+
+KELB_562 = {
+    name = "Giulia249"
+    culture = "kelberican"
+    faith = "stonegods"
+    female = yes
+    dynasty = KELBD7 #KelbDyn7
+    father = KELB_561 #Giorgio32
+    mother = KELB_487 #Federica24
+    556.1.1 = {
+        birth = yes
+    }
+    566.1.1 = {
+        add_spouse = KELB_307 #Amadeo191
+    }
+}
+
+KELB_563 = {
+    name = "Letizia595"
+    culture = "kelberican"
+    faith = "stonegods"
+    female = yes
+    dynasty = KELBD7 #KelbDyn7
+    father = KELB_579 #Vittorio247
+    mother = KELB_370 #Elettra204
+    573.1.1 = {
+        birth = yes
+    }
+}
+
+KELB_564 = {
+    name = "Lucia590"
+    culture = "kelberican"
+    faith = "stonegods"
+    female = yes
+    dynasty = KELBD7 #KelbDyn7
+    father = KELB_574 #Salvatore251
+    mother = KELB_388 #Serafina202
+    573.1.1 = {
+        birth = yes
+    }
+}
+
+KELB_565 = {
+    name = "Marco600"
+    culture = "kelberican"
+    faith = "stonegods"
+    dynasty = KELBD7 #KelbDyn7
+    father = KELB_571 #Rinaldo252
+    mother = KELB_382 #Nadia209
+    574.1.1 = {
+        birth = yes
+    }
+}
+
+KELB_566 = {
+    name = "Matilda35"
+    culture = "kelberican"
+    faith = "stonegods"
+    female = yes
+    dynasty = KELBD7 #KelbDyn7
+    father = KELB_572 #Rinaldo31
+    530.1.1 = {
+        birth = yes
+    }
+    543.1.1 = {
+        add_spouse = KELB_269 #Pietro83
+    }
+    581.1.1 = {
+        death = yes
+    }
+}
+
+KELB_567 = {
+    name = "Michele601"
+    culture = "kelberican"
+    faith = "stonegods"
+    dynasty = KELBD7 #KelbDyn7
+    father = KELB_557 #Federico248
+    mother = KELB_391 #Teresa210
+    578.1.1 = {
+        birth = yes
+    }
+}
+
+KELB_568 = {
+    name = "Niccolo598"
+    culture = "kelberican"
+    faith = "stonegods"
+    dynasty = KELBD7 #KelbDyn7
+    father = KELB_571 #Rinaldo252
+    mother = KELB_382 #Nadia209
+    570.1.1 = {
+        birth = yes
+    }
+    586.1.1 = {
+        add_spouse = KELB_89 #Ginevra328
+    }
+}
+
+KELB_569 = {
+    name = "Riccardo594"
+    culture = "kelberican"
+    faith = "stonegods"
+    dynasty = KELBD7 #KelbDyn7
+    father = KELB_579 #Vittorio247
+    mother = KELB_370 #Elettra204
+    571.1.1 = {
+        birth = yes
+    }
+    586.1.1 = {
+        add_spouse = KELB_76 #Beatrice331
+    }
+}
+
+KELB_57 = {
+    name = "Paolo307"
+    culture = "kelberican"
+    faith = "colocist"
+    dynasty = KELBD10 #KelbDyn10
+    father = KELB_55 #Niccolo118
+    mother = KELB_81 #Elettra124
+    581.1.1 = {
+        birth = yes
+    }
+}
+
+KELB_570 = {
+    name = "Riccardo604"
+    culture = "kelberican"
+    faith = "stonegods"
+    dynasty = KELBD7 #KelbDyn7
+    father = KELB_557 #Federico248
+    mother = KELB_391 #Teresa210
+    581.1.1 = {
+        birth = yes
+    }
+}
+
+KELB_571 = {
+    name = "Rinaldo252"
+    culture = "kelberican"
+    faith = "stonegods"
+    dynasty = KELBD7 #KelbDyn7
+    father = KELB_554 #Bernardo33
+    mother = KELB_518 #Camilla29
+    554.1.1 = {
+        birth = yes
+    }
+    569.1.1 = {
+        add_spouse = KELB_382 #Nadia209
+    }
+}
+
+KELB_572 = {
+    name = "Rinaldo31"
+    culture = "kelberican"
+    faith = "stonegods"
+    dynasty = KELBD7 #KelbDyn7
+    486.1.1 = {
+        birth = yes
+    }
+    544.1.1 = {
+        death = yes
+    }
+}
+
+KELB_573 = {
+    name = "Rinaldo602"
+    culture = "kelberican"
+    faith = "stonegods"
+    dynasty = KELBD7 #KelbDyn7
+    father = KELB_557 #Federico248
+    mother = KELB_391 #Teresa210
+    579.1.1 = {
+        birth = yes
+    }
+}
+
+KELB_574 = {
+    name = "Salvatore251"
+    culture = "kelberican"
+    faith = "stonegods"
+    dynasty = KELBD7 #KelbDyn7
+    father = KELB_554 #Bernardo33
+    mother = KELB_518 #Camilla29
+    552.1.1 = {
+        birth = yes
+    }
+    572.1.1 = {
+        add_spouse = KELB_388 #Serafina202
+    }
+}
+
+KELB_575 = {
+    name = "Sergio597"
+    culture = "kelberican"
+    faith = "stonegods"
+    dynasty = KELBD7 #KelbDyn7
+    father = KELB_579 #Vittorio247
+    mother = KELB_370 #Elettra204
+    576.1.1 = {
+        birth = yes
+    }
+}
+
+KELB_576 = {
+    name = "Sofia593"
+    culture = "kelberican"
+    faith = "stonegods"
+    female = yes
+    dynasty = KELBD7 #KelbDyn7
+    father = KELB_579 #Vittorio247
+    mother = KELB_370 #Elettra204
+    570.1.1 = {
+        birth = yes
+    }
+}
+
+KELB_577 = {
+    name = "Teresa603"
+    culture = "kelberican"
+    faith = "stonegods"
+    female = yes
+    dynasty = KELBD7 #KelbDyn7
+    father = KELB_557 #Federico248
+    mother = KELB_391 #Teresa210
+    580.1.1 = {
+        birth = yes
+    }
+}
+
+KELB_578 = {
+    name = "Ugo592"
+    culture = "kelberican"
+    faith = "stonegods"
+    dynasty = KELBD7 #KelbDyn7
+    father = KELB_574 #Salvatore251
+    mother = KELB_388 #Serafina202
+    577.1.1 = {
+        birth = yes
+    }
+}
+
+KELB_579 = {
+    name = "Vittorio247"
+    culture = "kelberican"
+    faith = "stonegods"
+    dynasty = KELBD7 #KelbDyn7
+    father = KELB_561 #Giorgio32
+    mother = KELB_487 #Federica24
+    553.1.1 = {
+        birth = yes
+    }
+    569.1.1 = {
+        add_spouse = KELB_370 #Elettra204
+    }
+}
+
+KELB_58 = {
+    name = "Rinaldo119"
+    culture = "kelberican"
+    faith = "colocist"
+    dynasty = KELBD10 #KelbDyn10
+    father = KELB_36 #Alberto48
+    mother = KELB_124 #Chiara60
+    558.1.1 = {
+        birth = yes
+    }
+    575.1.1 = {
+        add_spouse = KELB_147 #Sofia136
+    }
+}
+
+KELB_580 = {
+    name = "Alessia609"
+    culture = "kelberican"
+    faith = "stonegods"
+    female = yes
+    dynasty = KELBD8 #KelbDyn8
+    father = KELB_588 #Francesco253
+    mother = KELB_416 #Margherita218
+    575.1.1 = {
+        birth = yes
+    }
+}
+
+KELB_581 = {
+    name = "Amadeo257"
+    culture = "kelberican"
+    faith = "stonegods"
+    dynasty = KELBD8 #KelbDyn8
+    father = KELB_600 #Lorenzo38
+    mother = KELB_637 #Maria44
+    551.1.1 = {
+        birth = yes
+    }
+    571.1.1 = {
+        add_spouse = KELB_476 #Anna234
+    }
+}
+
+KELB_582 = {
+    name = "Amadeo608"
+    culture = "kelberican"
+    faith = "stonegods"
+    dynasty = KELBD8 #KelbDyn8
+    father = KELB_588 #Francesco253
+    mother = KELB_416 #Margherita218
+    574.1.1 = {
+        birth = yes
+    }
+}
+
+KELB_583 = {
+    name = "Caterina258"
+    culture = "kelberican"
+    faith = "stonegods"
+    female = yes
+    dynasty = KELBD8 #KelbDyn8
+    father = KELB_600 #Lorenzo38
+    mother = KELB_637 #Maria44
+    552.1.1 = {
+        birth = yes
+    }
+    574.1.1 = {
+        add_spouse = KELB_643 #Raffaele262
+    }
+}
+
+KELB_584 = {
+    name = "Chiara39"
+    culture = "kelberican"
+    faith = "stonegods"
+    female = yes
+    dynasty = KELBD8 #KelbDyn8
+    father = KELB_592 #Gregorio36
+    521.1.1 = {
+        birth = yes
+    }
+    541.1.1 = {
+        add_spouse = KELB_611 #Carlo43
+    }
+    581.1.1 = {
+        death = yes
+    }
+}
+
+KELB_585 = {
+    name = "Federica623"
+    culture = "kelberican"
+    faith = "stonegods"
+    female = yes
+    dynasty = KELBD8 #KelbDyn8
+    father = KELB_581 #Amadeo257
+    mother = KELB_476 #Anna234
+    578.1.1 = {
+        birth = yes
+    }
+}
+
+KELB_586 = {
+    name = "Federico256"
+    culture = "kelberican"
+    faith = "stonegods"
+    dynasty = KELBD8 #KelbDyn8
+    father = KELB_600 #Lorenzo38
+    mother = KELB_637 #Maria44
+    550.1.1 = {
+        birth = yes
+    }
+    570.1.1 = {
+        add_spouse = KELB_421 #Sofia220
+    }
+}
+
+KELB_587 = {
+    name = "Federico621"
+    culture = "kelberican"
+    faith = "stonegods"
+    dynasty = KELBD8 #KelbDyn8
+    father = KELB_581 #Amadeo257
+    mother = KELB_476 #Anna234
+    575.1.1 = {
+        birth = yes
+    }
+}
+
+KELB_588 = {
+    name = "Francesco253"
+    culture = "kelberican"
+    faith = "stonegods"
+    dynasty = KELBD8 #KelbDyn8
+    father = KELB_601 #Michele37
+    mother = KELB_553 #Beatrice34
+    550.1.1 = {
+        birth = yes
+    }
+    571.1.1 = {
+        add_spouse = KELB_416 #Margherita218
+    }
+}
+
+KELB_589 = {
+    name = "Giovanni620"
+    culture = "kelberican"
+    faith = "stonegods"
+    dynasty = KELBD8 #KelbDyn8
+    father = KELB_581 #Amadeo257
+    mother = KELB_476 #Anna234
+    573.1.1 = {
+        birth = yes
+    }
+}
+
+KELB_59 = {
+    name = "Serafina112"
+    culture = "kelberican"
+    faith = "colocist"
+    female = yes
+    dynasty = KELBD10 #KelbDyn10
+    father = KELB_67 #Vincenzo47
+    mother = KELB_96 #Margherita55
+    553.1.1 = {
+        birth = yes
+    }
+    568.1.1 = {
+        add_spouse = KELB_387 #Riccardo203
+    }
+}
+
+KELB_590 = {
+    name = "Giulia610"
+    culture = "kelberican"
+    faith = "stonegods"
+    female = yes
+    dynasty = KELBD8 #KelbDyn8
+    father = KELB_586 #Federico256
+    mother = KELB_421 #Sofia220
+    571.1.1 = {
+        birth = yes
+    }
+    586.1.1 = {
+        add_spouse = KELB_541 #Paolo561
+    }
+}
+
+KELB_591 = {
+    name = "Giulia615"
+    culture = "kelberican"
+    faith = "stonegods"
+    female = yes
+    dynasty = KELBD8 #KelbDyn8
+    father = KELB_605 #Rinaldo254
+    mother = KELB_402 #Caterina217
+    573.1.1 = {
+        birth = yes
+    }
+}
+
+KELB_592 = {
+    name = "Gregorio36"
+    culture = "kelberican"
+    faith = "stonegods"
+    dynasty = KELBD8 #KelbDyn8
+    487.1.1 = {
+        birth = yes
+    }
+    547.1.1 = {
+        death = yes
+    }
+}
+
+KELB_593 = {
+    name = "Gregorio617"
+    culture = "kelberican"
+    faith = "stonegods"
+    dynasty = KELBD8 #KelbDyn8
+    father = KELB_605 #Rinaldo254
+    mother = KELB_402 #Caterina217
+    576.1.1 = {
+        birth = yes
+    }
+}
+
+KELB_594 = {
+    name = "Guglielmo613"
+    culture = "kelberican"
+    faith = "stonegods"
+    dynasty = KELBD8 #KelbDyn8
+    father = KELB_605 #Rinaldo254
+    mother = KELB_402 #Caterina217
+    569.1.1 = {
+        birth = yes
+    }
+    586.1.1 = {
+        add_spouse = KELB_197 #Elettra383
+    }
+}
+
+KELB_595 = {
+    name = "Guido622"
+    culture = "kelberican"
+    faith = "stonegods"
+    dynasty = KELBD8 #KelbDyn8
+    father = KELB_581 #Amadeo257
+    mother = KELB_476 #Anna234
+    577.1.1 = {
+        birth = yes
+    }
+}
+
+KELB_596 = {
+    name = "Isabella616"
+    culture = "kelberican"
+    faith = "stonegods"
+    female = yes
+    dynasty = KELBD8 #KelbDyn8
+    father = KELB_605 #Rinaldo254
+    mother = KELB_402 #Caterina217
+    575.1.1 = {
+        birth = yes
+    }
+}
+
+KELB_597 = {
+    name = "Laura255"
+    culture = "kelberican"
+    faith = "stonegods"
+    female = yes
+    dynasty = KELBD8 #KelbDyn8
+    father = KELB_601 #Michele37
+    mother = KELB_553 #Beatrice34
+    553.1.1 = {
+        birth = yes
+    }
+    573.1.1 = {
+        add_spouse = KELB_351 #Massimo193
+    }
+}
+
+KELB_598 = {
+    name = "Laura614"
+    culture = "kelberican"
+    faith = "stonegods"
+    female = yes
+    dynasty = KELBD8 #KelbDyn8
+    father = KELB_605 #Rinaldo254
+    mother = KELB_402 #Caterina217
+    571.1.1 = {
+        birth = yes
+    }
+}
+
+KELB_599 = {
+    name = "Letizia40"
+    culture = "kelberican"
+    faith = "stonegods"
+    female = yes
+    dynasty = KELBD8 #KelbDyn8
+    father = KELB_592 #Gregorio36
+    524.1.1 = {
+        birth = yes
+    }
+    541.1.1 = {
+        add_spouse = KELB_304 #Ugo87
+    }
+    577.1.1 = {
+        death = yes
+    }
+}
+
+KELB_6 = {
+    name = "Caterina282"
+    culture = "kelberican"
+    faith = "stonegods"
+    female = yes
+    dynasty = KELBD1 #KelbDyn1
+    father = KELB_11 #Enrico102
+    mother = KELB_41 #Carlotta111
+    571.1.1 = {
+        birth = yes
+    }
+    586.1.1 = {
+        add_spouse = KELB_523 #Cesare580
+    }
+}
+
+KELB_60 = {
+    name = "Serafina300"
+    culture = "kelberican"
+    faith = "colocist"
+    female = yes
+    dynasty = KELBD10 #KelbDyn10
+    father = KELB_46 #Enrico113
+    mother = KELB_87 #Ginevra122
+    567.1.1 = {
+        birth = yes
+    }
+    586.1.1 = {
+        add_spouse = KELB_33 #Vittorio278
+    }
+}
+
+KELB_600 = {
+    name = "Lorenzo38"
+    culture = "kelberican"
+    faith = "stonegods"
+    dynasty = KELBD8 #KelbDyn8
+    father = KELB_592 #Gregorio36
+    518.1.1 = {
+        birth = yes
+    }
+    540.1.1 = {
+        add_spouse = KELB_637 #Maria44
+    }
+    572.1.1 = {
+        death = yes
+    }
+}
+
+KELB_601 = {
+    name = "Michele37"
+    culture = "kelberican"
+    faith = "stonegods"
+    dynasty = KELBD8 #KelbDyn8
+    father = KELB_592 #Gregorio36
+    515.1.1 = {
+        birth = yes
+    }
+    549.1.1 = {
+        add_spouse = KELB_553 #Beatrice34
+    }
+    581.1.1 = {
+        death = yes
+    }
+}
+
+KELB_602 = {
+    name = "Michele619"
+    culture = "kelberican"
+    faith = "stonegods"
+    dynasty = KELBD8 #KelbDyn8
+    father = KELB_581 #Amadeo257
+    mother = KELB_476 #Anna234
+    572.1.1 = {
+        birth = yes
+    }
+}
+
+KELB_603 = {
+    name = "Paolo618"
+    culture = "kelberican"
+    faith = "stonegods"
+    dynasty = KELBD8 #KelbDyn8
+    father = KELB_605 #Rinaldo254
+    mother = KELB_402 #Caterina217
+    578.1.1 = {
+        birth = yes
+    }
+}
+
+KELB_604 = {
+    name = "Pietro612"
+    culture = "kelberican"
+    faith = "stonegods"
+    dynasty = KELBD8 #KelbDyn8
+    father = KELB_586 #Federico256
+    mother = KELB_421 #Sofia220
+    574.1.1 = {
+        birth = yes
+    }
+}
+
+KELB_605 = {
+    name = "Rinaldo254"
+    culture = "kelberican"
+    faith = "stonegods"
+    dynasty = KELBD8 #KelbDyn8
+    father = KELB_601 #Michele37
+    mother = KELB_553 #Beatrice34
+    551.1.1 = {
+        birth = yes
+    }
+    568.1.1 = {
+        add_spouse = KELB_402 #Caterina217
+    }
+}
+
+KELB_606 = {
+    name = "Stefano607"
+    culture = "kelberican"
+    faith = "stonegods"
+    dynasty = KELBD8 #KelbDyn8
+    father = KELB_588 #Francesco253
+    mother = KELB_416 #Margherita218
+    572.1.1 = {
+        birth = yes
+    }
+}
+
+KELB_607 = {
+    name = "Teresa611"
+    culture = "kelberican"
+    faith = "stonegods"
+    female = yes
+    dynasty = KELBD8 #KelbDyn8
+    father = KELB_586 #Federico256
+    mother = KELB_421 #Sofia220
+    573.1.1 = {
+        birth = yes
+    }
+}
+
+KELB_608 = {
+    name = "Alessia638"
+    culture = "kelberican"
+    faith = "stonegods"
+    female = yes
+    dynasty = KELBD9 #KelbDyn9
+    father = KELB_643 #Raffaele262
+    mother = KELB_583 #Caterina258
+    577.1.1 = {
+        birth = yes
+    }
+}
+
+KELB_609 = {
+    name = "Angelica259"
+    culture = "kelberican"
+    faith = "stonegods"
+    female = yes
+    dynasty = KELBD9 #KelbDyn9
+    father = KELB_638 #Matteo42
+    mother = KELB_28 #Silvana4
+    551.1.1 = {
+        birth = yes
+    }
+    576.1.1 = {
+        add_spouse = KELB_342 #Filippo194
+    }
+}
+
+KELB_61 = {
+    name = "Silvana298"
+    culture = "kelberican"
+    faith = "colocist"
+    female = yes
+    dynasty = KELBD10 #KelbDyn10
+    father = KELB_47 #Federico270
+    mother = KELB_99 #Nadia125
+    583.1.1 = {
+        birth = yes
+    }
+}
+
+KELB_610 = {
+    name = "Bernardo650"
+    culture = "kelberican"
+    faith = "stonegods"
+    dynasty = KELBD9 #KelbDyn9
+    father = KELB_634 #Leonardo269
+    mother = KELB_21 #Paola104
+    577.1.1 = {
+        birth = yes
+    }
+}
+
+KELB_611 = {
+    name = "Carlo43"
+    culture = "kelberican"
+    faith = "stonegods"
+    dynasty = KELBD9 #KelbDyn9
+    father = KELB_644 #Riccardo41
+    519.1.1 = {
+        birth = yes
+    }
+    541.1.1 = {
+        add_spouse = KELB_584 #Chiara39
+    }
+    571.1.1 = {
+        death = yes
+    }
+}
+
+KELB_612 = {
+    name = "Carlo628"
+    culture = "kelberican"
+    faith = "stonegods"
+    dynasty = KELBD9 #KelbDyn9
+    father = KELB_642 #Pietro260
+    mother = KELB_510 #Alessia241
+    578.1.1 = {
+        birth = yes
+    }
+}
+
+KELB_613 = {
+    name = "Cesare626"
+    culture = "kelberican"
+    faith = "stonegods"
+    dynasty = KELBD9 #KelbDyn9
+    father = KELB_642 #Pietro260
+    mother = KELB_510 #Alessia241
+    575.1.1 = {
+        birth = yes
+    }
+}
+
+KELB_614 = {
+    name = "Cesare645"
+    culture = "kelberican"
+    faith = "stonegods"
+    dynasty = KELBD9 #KelbDyn9
+    father = KELB_633 #Leonardo268
+    mother = KELB_4 #Alessia103
+    581.1.1 = {
+        birth = yes
+    }
+}
+
+KELB_615 = {
+    name = "Chiara45"
+    culture = "kelberican"
+    faith = "stonegods"
+    female = yes
+    dynasty = KELBD9 #KelbDyn9
+    father = KELB_644 #Riccardo41
+    525.1.1 = {
+        birth = yes
+    }
+    535.1.1 = {
+        add_spouse = KELB_303 #Tommaso88
+    }
+    574.1.1 = {
+        death = yes
+    }
+}
+
+KELB_616 = {
+    name = "Elena634"
+    culture = "kelberican"
+    faith = "stonegods"
+    female = yes
+    dynasty = KELBD9 #KelbDyn9
+    father = KELB_624 #Filippo261
+    mother = KELB_551 #Angelica246
+    574.1.1 = {
+        birth = yes
+    }
+}
+
+KELB_617 = {
+    name = "Elena648"
+    culture = "kelberican"
+    faith = "stonegods"
+    female = yes
+    dynasty = KELBD9 #KelbDyn9
+    father = KELB_634 #Leonardo269
+    mother = KELB_21 #Paola104
+    574.1.1 = {
+        birth = yes
+    }
+}
+
+KELB_618 = {
+    name = "Emilia625"
+    culture = "kelberican"
+    faith = "stonegods"
+    female = yes
+    dynasty = KELBD9 #KelbDyn9
+    father = KELB_642 #Pietro260
+    mother = KELB_510 #Alessia241
+    573.1.1 = {
+        birth = yes
+    }
+}
+
+KELB_619 = {
+    name = "Emilia629"
+    culture = "kelberican"
+    faith = "stonegods"
+    female = yes
+    dynasty = KELBD9 #KelbDyn9
+    father = KELB_628 #Giovanni266
+    mother = KELB_555 #Caterina245
+    569.1.1 = {
+        birth = yes
+    }
+    586.1.1 = {
+        add_spouse = KELB_542 #Pietro562
+    }
+}
+
+KELB_62 = {
+    name = "Sofia301"
+    culture = "kelberican"
+    faith = "colocist"
+    female = yes
+    dynasty = KELBD10 #KelbDyn10
+    father = KELB_46 #Enrico113
+    mother = KELB_87 #Ginevra122
+    569.1.1 = {
+        birth = yes
+    }
+    586.1.1 = {
+        add_spouse = KELB_540 #Niccolo569
+    }
+}
+
+KELB_620 = {
+    name = "Emilia630"
+    culture = "kelberican"
+    faith = "stonegods"
+    female = yes
+    dynasty = KELBD9 #KelbDyn9
+    father = KELB_628 #Giovanni266
+    mother = KELB_555 #Caterina245
+    570.1.1 = {
+        birth = yes
+    }
+}
+
+KELB_621 = {
+    name = "Enrico637"
+    culture = "kelberican"
+    faith = "stonegods"
+    dynasty = KELBD9 #KelbDyn9
+    father = KELB_643 #Raffaele262
+    mother = KELB_583 #Caterina258
+    575.1.1 = {
+        birth = yes
+    }
+}
+
+KELB_622 = {
+    name = "Enrico643"
+    culture = "kelberican"
+    faith = "stonegods"
+    dynasty = KELBD9 #KelbDyn9
+    father = KELB_633 #Leonardo268
+    mother = KELB_4 #Alessia103
+    579.1.1 = {
+        birth = yes
+    }
+}
+
+KELB_623 = {
+    name = "Federico627"
+    culture = "kelberican"
+    faith = "stonegods"
+    dynasty = KELBD9 #KelbDyn9
+    father = KELB_642 #Pietro260
+    mother = KELB_510 #Alessia241
+    576.1.1 = {
+        birth = yes
+    }
+}
+
+KELB_624 = {
+    name = "Filippo261"
+    culture = "kelberican"
+    faith = "stonegods"
+    dynasty = KELBD9 #KelbDyn9
+    father = KELB_638 #Matteo42
+    mother = KELB_28 #Silvana4
+    554.1.1 = {
+        birth = yes
+    }
+    571.1.1 = {
+        add_spouse = KELB_551 #Angelica246
+    }
+}
+
+KELB_625 = {
+    name = "Filippo647"
+    culture = "kelberican"
+    faith = "stonegods"
+    dynasty = KELBD9 #KelbDyn9
+    father = KELB_633 #Leonardo268
+    mother = KELB_4 #Alessia103
+    585.1.1 = {
+        birth = yes
+    }
+}
+
+KELB_626 = {
+    name = "Giacomo644"
+    culture = "kelberican"
+    faith = "stonegods"
+    dynasty = KELBD9 #KelbDyn9
+    father = KELB_633 #Leonardo268
+    mother = KELB_4 #Alessia103
+    580.1.1 = {
+        birth = yes
+    }
+}
+
+KELB_627 = {
+    name = "Giorgio635"
+    culture = "kelberican"
+    faith = "stonegods"
+    dynasty = KELBD9 #KelbDyn9
+    father = KELB_624 #Filippo261
+    mother = KELB_551 #Angelica246
+    576.1.1 = {
+        birth = yes
+    }
+}
+
+KELB_628 = {
+    name = "Giovanni266"
+    culture = "kelberican"
+    faith = "stonegods"
+    dynasty = KELBD9 #KelbDyn9
+    father = KELB_611 #Carlo43
+    mother = KELB_584 #Chiara39
+    552.1.1 = {
+        birth = yes
+    }
+    568.1.1 = {
+        add_spouse = KELB_555 #Caterina245
+    }
+}
+
+KELB_629 = {
+    name = "Gregorio263"
+    culture = "kelberican"
+    faith = "stonegods"
+    dynasty = KELBD9 #KelbDyn9
+    father = KELB_638 #Matteo42
+    mother = KELB_28 #Silvana4
+    557.1.1 = {
+        birth = yes
+    }
+}
+
+KELB_63 = {
+    name = "Ugo299"
+    culture = "kelberican"
+    faith = "colocist"
+    dynasty = KELBD10 #KelbDyn10
+    father = KELB_47 #Federico270
+    mother = KELB_99 #Nadia125
+    584.1.1 = {
+        birth = yes
+    }
+}
+
+KELB_630 = {
+    name = "Gregorio653"
+    culture = "kelberican"
+    faith = "stonegods"
+    dynasty = KELBD9 #KelbDyn9
+    father = KELB_634 #Leonardo269
+    mother = KELB_21 #Paola104
+    582.1.1 = {
+        birth = yes
+    }
+}
+
+KELB_631 = {
+    name = "Guglielmo624"
+    culture = "kelberican"
+    faith = "stonegods"
+    dynasty = KELBD9 #KelbDyn9
+    father = KELB_642 #Pietro260
+    mother = KELB_510 #Alessia241
+    572.1.1 = {
+        birth = yes
+    }
+}
+
+KELB_632 = {
+    name = "Laura632"
+    culture = "kelberican"
+    faith = "stonegods"
+    female = yes
+    dynasty = KELBD9 #KelbDyn9
+    father = KELB_628 #Giovanni266
+    mother = KELB_555 #Caterina245
+    574.1.1 = {
+        birth = yes
+    }
+}
+
+KELB_633 = {
+    name = "Leonardo268"
+    culture = "kelberican"
+    faith = "stonegods"
+    dynasty = KELBD9 #KelbDyn9
+    father = KELB_611 #Carlo43
+    mother = KELB_584 #Chiara39
+    555.1.1 = {
+        birth = yes
+    }
+    578.1.1 = {
+        add_spouse = KELB_4 #Alessia103
+    }
+}
+
+KELB_634 = {
+    name = "Leonardo269"
+    culture = "kelberican"
+    faith = "stonegods"
+    dynasty = KELBD9 #KelbDyn9
+    father = KELB_611 #Carlo43
+    mother = KELB_584 #Chiara39
+    556.1.1 = {
+        birth = yes
+    }
+    573.1.1 = {
+        add_spouse = KELB_21 #Paola104
+    }
+}
+
+KELB_635 = {
+    name = "Lucia267"
+    culture = "kelberican"
+    faith = "stonegods"
+    female = yes
+    dynasty = KELBD9 #KelbDyn9
+    father = KELB_611 #Carlo43
+    mother = KELB_584 #Chiara39
+    553.1.1 = {
+        birth = yes
+    }
+}
+
+KELB_636 = {
+    name = "Maddalena652"
+    culture = "kelberican"
+    faith = "stonegods"
+    female = yes
+    dynasty = KELBD9 #KelbDyn9
+    father = KELB_634 #Leonardo269
+    mother = KELB_21 #Paola104
+    580.1.1 = {
+        birth = yes
+    }
+}
+
+KELB_637 = {
+    name = "Maria44"
+    culture = "kelberican"
+    faith = "stonegods"
+    female = yes
+    dynasty = KELBD9 #KelbDyn9
+    father = KELB_644 #Riccardo41
+    522.1.1 = {
+        birth = yes
+    }
+    540.1.1 = {
+        add_spouse = KELB_600 #Lorenzo38
+    }
+    578.1.1 = {
+        death = yes
+    }
+}
+
+KELB_638 = {
+    name = "Matteo42"
+    culture = "kelberican"
+    faith = "stonegods"
+    dynasty = KELBD9 #KelbDyn9
+    father = KELB_644 #Riccardo41
+    516.1.1 = {
+        birth = yes
+    }
+    550.1.1 = {
+        add_spouse = KELB_28 #Silvana4
+    }
+    575.1.1 = {
+        death = yes
+    }
+}
+
+KELB_639 = {
+    name = "Michele646"
+    culture = "kelberican"
+    faith = "stonegods"
+    dynasty = KELBD9 #KelbDyn9
+    father = KELB_633 #Leonardo268
+    mother = KELB_4 #Alessia103
+    583.1.1 = {
+        birth = yes
+    }
+}
+
+KELB_64 = {
+    name = "Valentina294"
+    culture = "kelberican"
+    faith = "colocist"
+    female = yes
+    dynasty = KELBD10 #KelbDyn10
+    father = KELB_47 #Federico270
+    mother = KELB_99 #Nadia125
+    577.1.1 = {
+        birth = yes
+    }
+}
+
+KELB_640 = {
+    name = "Niccolo639"
+    culture = "kelberican"
+    faith = "stonegods"
+    dynasty = KELBD9 #KelbDyn9
+    father = KELB_643 #Raffaele262
+    mother = KELB_583 #Caterina258
+    579.1.1 = {
+        birth = yes
+    }
+}
+
+KELB_641 = {
+    name = "Paolo264"
+    culture = "kelberican"
+    faith = "stonegods"
+    dynasty = KELBD9 #KelbDyn9
+    father = KELB_638 #Matteo42
+    mother = KELB_28 #Silvana4
+    559.1.1 = {
+        birth = yes
+    }
+}
+
+KELB_642 = {
+    name = "Pietro260"
+    culture = "kelberican"
+    faith = "stonegods"
+    dynasty = KELBD9 #KelbDyn9
+    father = KELB_638 #Matteo42
+    mother = KELB_28 #Silvana4
+    552.1.1 = {
+        birth = yes
+    }
+    571.1.1 = {
+        add_spouse = KELB_510 #Alessia241
+    }
+}
+
+KELB_643 = {
+    name = "Raffaele262"
+    culture = "kelberican"
+    faith = "stonegods"
+    dynasty = KELBD9 #KelbDyn9
+    father = KELB_638 #Matteo42
+    mother = KELB_28 #Silvana4
+    555.1.1 = {
+        birth = yes
+    }
+    574.1.1 = {
+        add_spouse = KELB_583 #Caterina258
+    }
+}
+
+KELB_644 = {
+    name = "Riccardo41"
+    culture = "kelberican"
+    faith = "stonegods"
+    dynasty = KELBD9 #KelbDyn9
+    488.1.1 = {
+        birth = yes
+    }
+    555.1.1 = {
+        death = yes
+    }
+}
+
+KELB_645 = {
+    name = "Roberto631"
+    culture = "kelberican"
+    faith = "stonegods"
+    dynasty = KELBD9 #KelbDyn9
+    father = KELB_628 #Giovanni266
+    mother = KELB_555 #Caterina245
+    572.1.1 = {
+        birth = yes
+    }
+}
+
+KELB_646 = {
+    name = "Salvatore640"
+    culture = "kelberican"
+    faith = "stonegods"
+    dynasty = KELBD9 #KelbDyn9
+    father = KELB_643 #Raffaele262
+    mother = KELB_583 #Caterina258
+    581.1.1 = {
+        birth = yes
+    }
+}
+
+KELB_647 = {
+    name = "Serafina641"
+    culture = "kelberican"
+    faith = "stonegods"
+    female = yes
+    dynasty = KELBD9 #KelbDyn9
+    father = KELB_643 #Raffaele262
+    mother = KELB_583 #Caterina258
+    582.1.1 = {
+        birth = yes
+    }
+}
+
+KELB_648 = {
+    name = "Serafina649"
+    culture = "kelberican"
+    faith = "stonegods"
+    female = yes
+    dynasty = KELBD9 #KelbDyn9
+    father = KELB_634 #Leonardo269
+    mother = KELB_21 #Paola104
+    576.1.1 = {
+        birth = yes
+    }
+}
+
+KELB_649 = {
+    name = "Silvana265"
+    culture = "kelberican"
+    faith = "stonegods"
+    female = yes
+    dynasty = KELBD9 #KelbDyn9
+    father = KELB_611 #Carlo43
+    mother = KELB_584 #Chiara39
+    550.1.1 = {
+        birth = yes
+    }
+}
+
+KELB_65 = {
+    name = "Valentina295"
+    culture = "kelberican"
+    faith = "colocist"
+    female = yes
+    dynasty = KELBD10 #KelbDyn10
+    father = KELB_47 #Federico270
+    mother = KELB_99 #Nadia125
+    579.1.1 = {
+        birth = yes
+    }
+}
+
+KELB_650 = {
+    name = "Stefano636"
+    culture = "kelberican"
+    faith = "stonegods"
+    dynasty = KELBD9 #KelbDyn9
+    father = KELB_624 #Filippo261
+    mother = KELB_551 #Angelica246
+    577.1.1 = {
+        birth = yes
+    }
+}
+
+KELB_651 = {
+    name = "Stefano651"
+    culture = "kelberican"
+    faith = "stonegods"
+    dynasty = KELBD9 #KelbDyn9
+    father = KELB_634 #Leonardo269
+    mother = KELB_21 #Paola104
+    578.1.1 = {
+        birth = yes
+    }
+}
+
+KELB_652 = {
+    name = "Valentina633"
+    culture = "kelberican"
+    faith = "stonegods"
+    female = yes
+    dynasty = KELBD9 #KelbDyn9
+    father = KELB_624 #Filippo261
+    mother = KELB_551 #Angelica246
+    572.1.1 = {
+        birth = yes
+    }
+}
+
+KELB_653 = {
+    name = "Vittorio642"
+    culture = "kelberican"
+    faith = "stonegods"
+    dynasty = KELBD9 #KelbDyn9
+    father = KELB_643 #Raffaele262
+    mother = KELB_583 #Caterina258
+    583.1.1 = {
+        birth = yes
+    }
+}
+
+KELB_66 = {
+    name = "Valentina311"
+    culture = "kelberican"
+    faith = "colocist"
+    female = yes
+    dynasty = KELBD10 #KelbDyn10
+    father = KELB_58 #Rinaldo119
+    mother = KELB_147 #Sofia136
+    576.1.1 = {
+        birth = yes
+    }
+}
+
+KELB_67 = {
+    name = "Vincenzo47"
+    culture = "kelberican"
+    faith = "colocist"
+    dynasty = KELBD10 #KelbDyn10
+    father = KELB_37 #Bartolomeo46
+    517.1.1 = {
+        birth = yes
+    }
+    549.1.1 = {
+        add_spouse = KELB_96 #Margherita55
+    }
+    572.1.1 = {
+        death = yes
+    }
+}
+
+KELB_68 = {
+    name = "Vittoria296"
+    culture = "kelberican"
+    faith = "colocist"
+    female = yes
+    dynasty = KELBD10 #KelbDyn10
+    father = KELB_47 #Federico270
+    mother = KELB_99 #Nadia125
+    581.1.1 = {
+        birth = yes
+    }
+}
+
+KELB_69 = {
+    name = "Vittoria309"
+    culture = "kelberican"
+    faith = "colocist"
+    female = yes
+    dynasty = KELBD10 #KelbDyn10
+    father = KELB_55 #Niccolo118
+    mother = KELB_81 #Elettra124
+    584.1.1 = {
+        birth = yes
+    }
+}
+
+KELB_7 = {
+    name = "Claudia107"
+    culture = "kelberican"
+    faith = "stonegods"
+    female = yes
+    dynasty = KELBD1 #KelbDyn1
+    father = KELB_12 #Filippo3
+    mother = KELB_49 #Ginevra50
+    553.1.1 = {
+        birth = yes
+    }
+    571.1.1 = {
+        add_spouse = KELB_360 #Sergio201
+    }
+}
+
+KELB_70 = {
+    name = "Alberto314"
+    culture = "kelberican"
+    faith = "colocist"
+    dynasty = KELBD11 #KelbDyn11
+    father = KELB_107 #Salvatore273
+    mother = KELB_131 #Maria134
+    576.1.1 = {
+        birth = yes
+    }
+}
+
+KELB_71 = {
+    name = "Alessia335"
+    culture = "kelberican"
+    faith = "colocist"
+    female = yes
+    dynasty = KELBD11 #KelbDyn11
+    father = KELB_91 #Leonardo127
+    mother = KELB_163 #Letizia146
+    581.1.1 = {
+        birth = yes
+    }
+}
+
+KELB_72 = {
+    name = "Anna319"
+    culture = "kelberican"
+    faith = "colocist"
+    female = yes
+    dynasty = KELBD11 #KelbDyn11
+    father = KELB_95 #Lorenzo120
+    mother = KELB_151 #Agnese143
+    576.1.1 = {
+        birth = yes
+    }
+}
+
+KELB_73 = {
+    name = "Antonio129"
+    culture = "kelberican"
+    faith = "colocist"
+    dynasty = KELBD11 #KelbDyn11
+    father = KELB_77 #Bernardo53
+    mother = KELB_177 #Claudia70
+    557.1.1 = {
+        birth = yes
+    }
+    574.1.1 = {
+        add_spouse = KELB_174 #Carlotta151
+    }
+}
+
+KELB_74 = {
+    name = "Antonio322"
+    culture = "kelberican"
+    faith = "colocist"
+    dynasty = KELBD11 #KelbDyn11
+    father = KELB_97 #Matteo121
+    mother = KELB_158 #Donatella141
+    579.1.1 = {
+        birth = yes
+    }
+}
+
+KELB_75 = {
+    name = "Antonio336"
+    culture = "kelberican"
+    faith = "colocist"
+    dynasty = KELBD11 #KelbDyn11
+    father = KELB_91 #Leonardo127
+    mother = KELB_163 #Letizia146
+    582.1.1 = {
+        birth = yes
+    }
+}
+
+KELB_76 = {
+    name = "Beatrice331"
+    culture = "kelberican"
+    faith = "colocist"
+    female = yes
+    dynasty = KELBD11 #KelbDyn11
+    father = KELB_111 #Vincenzo123
+    mother = KELB_168 #Valentina145
+    570.1.1 = {
+        birth = yes
+    }
+    586.1.1 = {
+        add_spouse = KELB_569 #Riccardo594
+    }
+}
+
+KELB_77 = {
+    name = "Bernardo53"
+    culture = "kelberican"
+    faith = "colocist"
+    dynasty = KELBD11 #KelbDyn11
+    father = KELB_86 #Giacomo51
+    521.1.1 = {
+        birth = yes
+    }
+    536.1.1 = {
+        add_spouse = KELB_177 #Claudia70
+    }
+}
+
+KELB_78 = {
+    name = "Caterina316"
+    culture = "kelberican"
+    faith = "colocist"
+    female = yes
+    dynasty = KELBD11 #KelbDyn11
+    father = KELB_107 #Salvatore273
+    mother = KELB_131 #Maria134
+    579.1.1 = {
+        birth = yes
+    }
+}
+
+KELB_79 = {
+    name = "Cesare317"
+    culture = "kelberican"
+    faith = "colocist"
+    dynasty = KELBD11 #KelbDyn11
+    father = KELB_107 #Salvatore273
+    mother = KELB_131 #Maria134
+    581.1.1 = {
+        birth = yes
+    }
+}
+
+KELB_8 = {
+    name = "Domenico288"
+    culture = "kelberican"
+    faith = "stonegods"
+    dynasty = KELBD1 #KelbDyn1
+    father = KELB_14 #Giorgio109
+    mother = KELB_54 #Margherita116
+    575.1.1 = {
+        birth = yes
+    }
+}
+
+KELB_80 = {
+    name = "Domenico326"
+    culture = "kelberican"
+    faith = "colocist"
+    dynasty = KELBD11 #KelbDyn11
+    father = KELB_97 #Matteo121
+    mother = KELB_158 #Donatella141
+    586.1.1 = {
+        birth = yes
+    }
+}
+
+KELB_81 = {
+    name = "Elettra124"
+    culture = "kelberican"
+    faith = "colocist"
+    female = yes
+    dynasty = KELBD11 #KelbDyn11
+    father = KELB_102 #Raffaele52
+    mother = KELB_167 #Silvana65
+    556.1.1 = {
+        birth = yes
+    }
+    578.1.1 = {
+        add_spouse = KELB_55 #Niccolo118
+    }
+}
+
+KELB_82 = {
+    name = "Elettra338"
+    culture = "kelberican"
+    faith = "colocist"
+    female = yes
+    dynasty = KELBD11 #KelbDyn11
+    father = KELB_91 #Leonardo127
+    mother = KELB_163 #Letizia146
+    585.1.1 = {
+        birth = yes
+    }
+}
+
+KELB_83 = {
+    name = "Federico321"
+    culture = "kelberican"
+    faith = "colocist"
+    dynasty = KELBD11 #KelbDyn11
+    father = KELB_95 #Lorenzo120
+    mother = KELB_151 #Agnese143
+    579.1.1 = {
+        birth = yes
+    }
+}
+
+KELB_84 = {
+    name = "Francesca340"
+    culture = "kelberican"
+    faith = "colocist"
+    female = yes
+    dynasty = KELBD11 #KelbDyn11
+    father = KELB_73 #Antonio129
+    mother = KELB_174 #Carlotta151
+    575.1.1 = {
+        birth = yes
+    }
+}
+
+KELB_85 = {
+    name = "Francesco323"
+    culture = "kelberican"
+    faith = "colocist"
+    dynasty = KELBD11 #KelbDyn11
+    father = KELB_97 #Matteo121
+    mother = KELB_158 #Donatella141
+    581.1.1 = {
+        birth = yes
+    }
+}
+
+KELB_86 = {
+    name = "Giacomo51"
+    culture = "kelberican"
+    faith = "colocist"
+    dynasty = KELBD11 #KelbDyn11
+    480.1.1 = {
+        birth = yes
+    }
+    557.1.1 = {
+        death = yes
+    }
+}
+
+KELB_87 = {
+    name = "Ginevra122"
+    culture = "kelberican"
+    faith = "colocist"
+    female = yes
+    dynasty = KELBD11 #KelbDyn11
+    father = KELB_102 #Raffaele52
+    mother = KELB_167 #Silvana65
+    553.1.1 = {
+        birth = yes
+    }
+    566.1.1 = {
+        add_spouse = KELB_46 #Enrico113
+    }
+}
+
+KELB_88 = {
+    name = "Ginevra128"
+    culture = "kelberican"
+    faith = "colocist"
+    female = yes
+    dynasty = KELBD11 #KelbDyn11
+    father = KELB_77 #Bernardo53
+    mother = KELB_177 #Claudia70
+    555.1.1 = {
+        birth = yes
+    }
+    578.1.1 = {
+        add_spouse = KELB_400 #Benito213
+    }
+}
+
+KELB_89 = {
+    name = "Ginevra328"
+    culture = "kelberican"
+    faith = "colocist"
+    female = yes
+    dynasty = KELBD11 #KelbDyn11
+    father = KELB_111 #Vincenzo123
+    mother = KELB_168 #Valentina145
+    567.1.1 = {
+        birth = yes
+    }
+    586.1.1 = {
+        add_spouse = KELB_568 #Niccolo598
+    }
+}
+
+KELB_9 = {
+    name = "Emilia285"
+    culture = "kelberican"
+    faith = "stonegods"
+    female = yes
+    dynasty = KELBD1 #KelbDyn1
+    father = KELB_25 #Roberto108
+    mother = KELB_45 #Elettra115
+    573.1.1 = {
+        birth = yes
+    }
+}
+
+KELB_90 = {
+    name = "Isabella339"
+    culture = "kelberican"
+    faith = "colocist"
+    female = yes
+    dynasty = KELBD11 #KelbDyn11
+    father = KELB_91 #Leonardo127
+    mother = KELB_163 #Letizia146
+    587.1.1 = {
+        birth = yes
+    }
+}
+
+KELB_91 = {
+    name = "Leonardo127"
+    culture = "kelberican"
+    faith = "colocist"
+    dynasty = KELBD11 #KelbDyn11
+    father = KELB_77 #Bernardo53
+    mother = KELB_177 #Claudia70
+    554.1.1 = {
+        birth = yes
+    }
+    578.1.1 = {
+        add_spouse = KELB_163 #Letizia146
+    }
+}
+
+KELB_92 = {
+    name = "Leonardo330"
+    culture = "kelberican"
+    faith = "colocist"
+    dynasty = KELBD11 #KelbDyn11
+    father = KELB_111 #Vincenzo123
+    mother = KELB_168 #Valentina145
+    569.1.1 = {
+        birth = yes
+    }
+    586.1.1 = {
+        add_spouse = KELB_222 #Federica391
+    }
+}
+
+KELB_93 = {
+    name = "Letizia318"
+    culture = "kelberican"
+    faith = "colocist"
+    female = yes
+    dynasty = KELBD11 #KelbDyn11
+    father = KELB_95 #Lorenzo120
+    mother = KELB_151 #Agnese143
+    574.1.1 = {
+        birth = yes
+    }
+}
+
+KELB_94 = {
+    name = "Letizia329"
+    culture = "kelberican"
+    faith = "colocist"
+    female = yes
+    dynasty = KELBD11 #KelbDyn11
+    father = KELB_111 #Vincenzo123
+    mother = KELB_168 #Valentina145
+    568.1.1 = {
+        birth = yes
+    }
+    586.1.1 = {
+        add_spouse = KELB_13 #Giacomo281
+    }
+}
+
+KELB_95 = {
+    name = "Lorenzo120"
+    culture = "kelberican"
+    faith = "colocist"
+    dynasty = KELBD11 #KelbDyn11
+    father = KELB_102 #Raffaele52
+    mother = KELB_167 #Silvana65
+    550.1.1 = {
+        birth = yes
+    }
+    573.1.1 = {
+        add_spouse = KELB_151 #Agnese143
+    }
+}
+
+KELB_96 = {
+    name = "Margherita55"
+    culture = "kelberican"
+    faith = "colocist"
+    female = yes
+    dynasty = KELBD11 #KelbDyn11
+    father = KELB_86 #Giacomo51
+    527.1.1 = {
+        birth = yes
+    }
+    549.1.1 = {
+        add_spouse = KELB_67 #Vincenzo47
+    }
+    581.1.1 = {
+        death = yes
+    }
+}
+
+KELB_97 = {
+    name = "Matteo121"
+    culture = "kelberican"
+    faith = "colocist"
+    dynasty = KELBD11 #KelbDyn11
+    father = KELB_102 #Raffaele52
+    mother = KELB_167 #Silvana65
+    552.1.1 = {
+        birth = yes
+    }
+    578.1.1 = {
+        add_spouse = KELB_158 #Donatella141
+    }
+}
+
+KELB_98 = {
+    name = "Matteo332"
+    culture = "kelberican"
+    faith = "colocist"
+    dynasty = KELBD11 #KelbDyn11
+    father = KELB_111 #Vincenzo123
+    mother = KELB_168 #Valentina145
+    571.1.1 = {
+        birth = yes
+    }
+    586.1.1 = {
+        add_spouse = KELB_229 #Nadia396
+    }
+}
+
+KELB_99 = {
+    name = "Nadia125"
+    culture = "kelberican"
+    faith = "colocist"
+    female = yes
+    dynasty = KELBD11 #KelbDyn11
+    father = KELB_77 #Bernardo53
+    mother = KELB_177 #Claudia70
+    550.1.1 = {
+        birth = yes
+    }
+    576.1.1 = {
+        add_spouse = KELB_47 #Federico270
+    }
+}
+

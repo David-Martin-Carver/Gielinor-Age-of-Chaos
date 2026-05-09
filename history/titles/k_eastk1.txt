@@ -1,0 +1,458 @@
+k_eastk1 = {
+	587.1.1 = { change_development_level = 8 }
+}
+
+d_fond_ferry = {
+	587.1.1 = { change_development_level = 8 }
+	587.1.1 = { government = feudal_government }
+	587.1.1 = {
+		holder = HULR_32
+	}
+}
+
+c_263 = {
+	587.1.1 = { change_development_level = 8 }
+	587.1.1 = { government = feudal_government }
+	587.1.1 = {
+		holder = HULR_32
+	}
+}
+
+c_262 = {
+	587.1.1 = { change_development_level = 8 }
+	587.1.1 = { government = feudal_government }
+	587.1.1 = {
+		holder = HULR_32
+	}
+}
+
+c_278 = {
+	587.1.1 = { change_development_level = 8 }
+	587.1.1 = { government = feudal_government }
+	587.1.1 = {
+		liege = d_fond_ferry
+	}
+	587.1.1 = {
+		holder = KIST_352
+	}
+}
+
+c_276 = {
+	587.1.1 = { change_development_level = 8 }
+	587.1.1 = { government = feudal_government }
+	587.1.1 = {
+		liege = d_fond_ferry
+	}
+	587.1.1 = {
+		holder = KIST_359
+	}
+}
+
+c_277 = {
+	587.1.1 = { change_development_level = 8 }
+	587.1.1 = { government = feudal_government }
+	587.1.1 = {
+		liege = d_fond_ferry
+	}
+	587.1.1 = {
+		holder = KIST_359
+	}
+}
+
+d_duchy44 = {
+	587.1.1 = { change_development_level = 8 }
+	587.1.1 = { government = feudal_government }
+	587.1.1 = {
+		holder = HULR_39
+	}
+}
+
+c_264 = {
+	587.1.1 = { change_development_level = 8 }
+	587.1.1 = { government = feudal_government }
+	587.1.1 = {
+		holder = HULR_39
+	}
+}
+
+c_265 = {
+	587.1.1 = { change_development_level = 8 }
+	587.1.1 = { government = feudal_government }
+	587.1.1 = {
+		holder = HULR_39
+	}
+}
+
+c_262a = {
+	587.1.1 = { change_development_level = 8 }
+	587.1.1 = { government = feudal_government }
+	587.1.1 = {
+		liege = d_duchy44
+	}
+	587.1.1 = {
+		holder = HULR_17
+	}
+}
+
+c_270 = {
+	587.1.1 = { change_development_level = 8 }
+	587.1.1 = { government = feudal_government }
+	587.1.1 = {
+		holder = HULR_188
+	}
+}
+
+c_269 = {
+	587.1.1 = { change_development_level = 8 }
+	587.1.1 = { government = feudal_government }
+	587.1.1 = {
+		holder = HULR_188
+	}
+}
+
+c_267 = {
+	587.1.1 = { change_development_level = 8 }
+	587.1.1 = { government = feudal_government }
+	587.1.1 = {
+		holder = HULR_183
+	}
+}
+
+c_268 = {
+	587.1.1 = { change_development_level = 8 }
+	587.1.1 = { government = feudal_government }
+	587.1.1 = {
+		holder = HULR_183
+	}
+}
+
+c_266 = {
+	587.1.1 = { change_development_level = 8 }
+	587.1.1 = { government = feudal_government }
+	587.1.1 = {
+		holder = HULR_446
+	}
+}
+
+d_duchyeastk1 = {
+	587.1.1 = { change_development_level = 8 }
+	587.1.1 = { government = feudal_government }
+	587.1.1 = {
+		holder = HULR_230
+	}
+}
+
+c_240 = {
+	587.1.1 = { change_development_level = 8 }
+	587.1.1 = { government = feudal_government }
+	587.1.1 = {
+		holder = HULR_230
+	}
+}
+
+c_242 = {
+	587.1.1 = { change_development_level = 8 }
+	587.1.1 = { government = feudal_government }
+	587.1.1 = {
+		holder = HULR_230
+	}
+}
+
+c_241 = {
+	587.1.1 = { change_development_level = 8 }
+	587.1.1 = { government = feudal_government }
+	587.1.1 = {
+		liege = d_duchyeastk1
+	}
+	587.1.1 = {
+		holder = HULR_217
+	}
+}
+
+c_243 = {
+	587.1.1 = { change_development_level = 8 }
+	587.1.1 = { government = feudal_government }
+	587.1.1 = {
+		liege = d_duchyeastk1
+	}
+	587.1.1 = {
+		holder = HULR_217
+	}
+}
+
+c_258 = {
+	587.1.1 = { change_development_level = 8 }
+	587.1.1 = { government = feudal_government }
+	587.1.1 = {
+		liege = d_duchyeastk1
+	}
+	587.1.1 = {
+		holder = HULR_217
+	}
+}
+
+c_257 = {
+	587.1.1 = { change_development_level = 8 }
+	587.1.1 = { government = feudal_government }
+	587.1.1 = {
+		liege = d_duchyeastk1
+	}
+	587.1.1 = {
+		holder = HULR_217
+	}
+}
+
+c_260 = {
+	587.1.1 = { change_development_level = 8 }
+	587.1.1 = { government = feudal_government }
+	587.1.1 = {
+		liege = d_duchyeastk1
+	}
+	587.1.1 = {
+		holder = HULR_236
+	}
+}
+
+c_259 = {
+	587.1.1 = { change_development_level = 8 }
+	587.1.1 = { government = feudal_government }
+	587.1.1 = {
+		liege = d_duchyeastk1
+	}
+	587.1.1 = {
+		holder = HULR_236
+	}
+}
+
+c_261 = {
+	587.1.1 = { change_development_level = 8 }
+	587.1.1 = { government = feudal_government }
+	587.1.1 = {
+		liege = d_duchyeastk1
+	}
+	587.1.1 = {
+		holder = HULR_236
+	}
+}
+
+c_256 = {
+	587.1.1 = { change_development_level = 8 }
+	587.1.1 = { government = feudal_government }
+	587.1.1 = {
+		liege = d_duchyeastk1
+	}
+	587.1.1 = {
+		holder = HULR_245
+	}
+}
+
+c_252 = {
+	587.1.1 = { change_development_level = 8 }
+	587.1.1 = { government = feudal_government }
+	587.1.1 = {
+		liege = d_duchyeastk1
+	}
+	587.1.1 = {
+		holder = HULR_256
+	}
+}
+
+c_255 = {
+	587.1.1 = { change_development_level = 8 }
+	587.1.1 = { government = feudal_government }
+	587.1.1 = {
+		holder = HULR_276
+	}
+}
+
+c_254 = {
+	587.1.1 = { change_development_level = 8 }
+	587.1.1 = { government = feudal_government }
+	587.1.1 = {
+		holder = HULR_276
+	}
+}
+
+c_253 = {
+	587.1.1 = { change_development_level = 8 }
+	587.1.1 = { government = feudal_government }
+	587.1.1 = {
+		holder = HULR_261
+	}
+}
+
+c_244 = {
+	587.1.1 = { change_development_level = 8 }
+	587.1.1 = { government = feudal_government }
+	587.1.1 = {
+		holder = HULR_309
+	}
+}
+
+c_247 = {
+	587.1.1 = { change_development_level = 8 }
+	587.1.1 = { government = feudal_government }
+	587.1.1 = {
+		holder = HULR_309
+	}
+}
+
+c_249 = {
+	587.1.1 = { change_development_level = 8 }
+	587.1.1 = { government = feudal_government }
+	587.1.1 = {
+		holder = HULR_354
+	}
+}
+
+c_248 = {
+	587.1.1 = { change_development_level = 8 }
+	587.1.1 = { government = feudal_government }
+	587.1.1 = {
+		holder = HULR_354
+	}
+}
+
+c_251 = {
+	587.1.1 = { change_development_level = 8 }
+	587.1.1 = { government = feudal_government }
+	587.1.1 = {
+		holder = HULR_354
+	}
+}
+
+c_250 = {
+	587.1.1 = { change_development_level = 8 }
+	587.1.1 = { government = feudal_government }
+	587.1.1 = {
+		holder = HULR_384
+	}
+}
+
+c_ = {
+	587.1.1 = { change_development_level = 8 }
+	587.1.1 = { government = feudal_government }
+	587.1.1 = {
+		holder = HULR_
+	}
+}
+
+c_ = {
+	587.1.1 = { change_development_level = 8 }
+	587.1.1 = { government = feudal_government }
+	587.1.1 = {
+		holder = HULR_
+	}
+}
+
+c_ = {
+	587.1.1 = { change_development_level = 8 }
+	587.1.1 = { government = feudal_government }
+	587.1.1 = {
+		holder = HULR_
+	}
+}
+
+c_ = {
+	587.1.1 = { change_development_level = 8 }
+	587.1.1 = { government = feudal_government }
+	587.1.1 = {
+		holder = HULR_
+	}
+}
+
+c_ = {
+	587.1.1 = { change_development_level = 8 }
+	587.1.1 = { government = feudal_government }
+	587.1.1 = {
+		holder = HULR_
+	}
+}
+
+c_ = {
+	587.1.1 = { change_development_level = 8 }
+	587.1.1 = { government = feudal_government }
+	587.1.1 = {
+		holder = HULR_
+	}
+}
+
+c_ = {
+	587.1.1 = { change_development_level = 8 }
+	587.1.1 = { government = feudal_government }
+	587.1.1 = {
+		holder = HULR_
+	}
+}
+
+c_ = {
+	587.1.1 = { change_development_level = 8 }
+	587.1.1 = { government = feudal_government }
+	587.1.1 = {
+		holder = HULR_
+	}
+}
+
+c_ = {
+	587.1.1 = { change_development_level = 8 }
+	587.1.1 = { government = feudal_government }
+	587.1.1 = {
+		holder = HULR_
+	}
+}
+
+c_ = {
+	587.1.1 = { change_development_level = 8 }
+	587.1.1 = { government = feudal_government }
+	587.1.1 = {
+		holder = HULR_
+	}
+}
+
+c_ = {
+	587.1.1 = { change_development_level = 8 }
+	587.1.1 = { government = feudal_government }
+	587.1.1 = {
+		holder = HULR_
+	}
+}
+
+c_ = {
+	587.1.1 = { change_development_level = 8 }
+	587.1.1 = { government = feudal_government }
+	587.1.1 = {
+		holder = HULR_
+	}
+}
+
+c_ = {
+	587.1.1 = { change_development_level = 8 }
+	587.1.1 = { government = feudal_government }
+	587.1.1 = {
+		holder = HULR_
+	}
+}
+
+c_ = {
+	587.1.1 = { change_development_level = 8 }
+	587.1.1 = { government = feudal_government }
+	587.1.1 = {
+		holder = HULR_
+	}
+}
+
+c_ = {
+	587.1.1 = { change_development_level = 8 }
+	587.1.1 = { government = feudal_government }
+	587.1.1 = {
+		holder = HULR_
+	}
+}
+
+c_ = {
+	587.1.1 = { change_development_level = 8 }
+	587.1.1 = { government = feudal_government }
+	587.1.1 = {
+		holder = HULR_
+	}
+}

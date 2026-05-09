@@ -1,0 +1,172 @@
+﻿### River Tower
+
+zalkot_harvesting_ = {
+	construction_time = standard_construction_time
+
+	can_construct_potential = {
+		custom_description = {
+			text = "needs_to_border_river"
+			building_river_tower_requirement_terrain = yes
+		}
+	}
+
+
+	can_construct = {
+		building_requirement_castle_city_church = { LEVEL = 01 }
+	}
+
+	can_construct_showing_failures_only = {
+		building_requirement_tribal = no
+	}
+
+	cost_gold = 500
+
+	character_modifier = {
+		monthly_prestige = 0.5
+	}
+	province_modifier = {
+		development_growth = 0.25
+		monthly_income = 2
+	}
+
+	effect_desc =  building_flood_effect_desc
+	
+	next_building = river_tower_02
+
+	type_icon = "icon_river_tower.dds"
+
+	ai_value = {
+		base = 35
+		ai_tier_1_building_modifier = yes
+		ai_tier_1_economical_building_preference_modifier = yes
+		ai_general_building_modifier = yes
+		directive_to_build_economy_modifier = yes
+		modifier = {
+			add = 1
+			county.development_level >= 10
+		}
+		modifier = {
+			add = 1
+			county.development_level >= 15
+		}
+		modifier = {
+			add = 1
+			county.development_level >= 20
+		}
+		modifier = {
+			add = 1
+			county.development_level >= 25
+		}
+
+		modifier = {
+			factor = 0
+			building_farm_estates_requirement_terrain = yes
+			NOT = {
+				has_building_or_higher = farm_estates_01
+			}
+		}
+		modifier = {
+			factor = 0
+			building_cereal_fields_requirement_terrain = yes
+			NOT = {
+				has_building_or_higher = cereal_fields_01
+			}
+		}
+	}
+}
+
+##Generic City buildings
+city_walls_01 = {
+	construction_time = standard_construction_time
+
+	can_construct_potential = {
+		building_requirement_city = { LEVEL = 01 }
+	}
+
+	can_construct_showing_failures_only = {
+		building_requirement_tribal = no
+	}
+
+	cost_gold = normal_building_tier_2_cost
+
+	province_modifier = {
+		fort_level = 2
+		garrison_size = 450
+		defender_holding_advantage = 3
+	}
+	county_modifier = {
+		development_growth_factor = 0.05
+	}
+
+	next_building = city_walls_02
+
+	type_icon = "icon_building_guild_halls.dds"
+
+	ai_value = {
+		base = 500
+		ai_tier_1_building_modifier = yes
+		modifier = {
+			add = 500
+		}
+	}
+}
+
+city_walls_02 = {
+	construction_time = standard_construction_time
+
+	can_construct_potential = {
+		building_requirement_city = { LEVEL = 01 }
+	}
+
+	can_construct_showing_failures_only = {
+		building_requirement_tribal = no
+	}
+
+	cost_gold = normal_building_tier_1_cost
+
+	province_modifier = {
+		fort_level = 4
+		garrison_size = 450
+		defender_holding_advantage = 5
+	}
+	county_modifier = {
+		development_growth_factor = 0.05
+	}
+
+	next_building = city_walls_03
+
+	type_icon = "icon_building_guild_halls.dds"
+
+	ai_value = {
+		base = 500
+	}
+}
+
+city_walls_03 = {
+	construction_time = standard_construction_time
+
+	can_construct_potential = {
+		building_requirement_city = { LEVEL = 01 }
+	}
+
+	can_construct_showing_failures_only = {
+		building_requirement_tribal = no
+	}
+
+	cost_gold = normal_building_tier_3_cost
+
+	province_modifier = {
+		fort_level = 7
+		garrison_size = 450
+		defender_holding_advantage = 7
+	}
+	county_modifier = {
+		
+	}
+
+	type_icon = "icon_building_guild_halls.dds"
+
+	ai_value = {
+		base = 500
+	}
+}

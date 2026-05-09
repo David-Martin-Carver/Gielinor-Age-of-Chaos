@@ -1,0 +1,4495 @@
+ORTH_1 = {
+    name = "Aelfred143"
+    culture = "orthanian"
+    faith = "halvran"
+    dynasty = ORTHD1 #OrthDyn1
+    father = ORTH_2 #Aelfwine48
+    mother = ORTH_48 #Aethelflaed63
+    571.1.1 = {
+        birth = yes
+    }
+    586.1.1 = {
+        add_spouse = ORTH_101 #Saethryth188
+    }
+}
+
+ORTH_10 = {
+    name = "Burgflæd147"
+    culture = "orthanian"
+    faith = "halvran"
+    female = yes
+    dynasty = ORTHD1 #OrthDyn1
+    father = ORTH_2 #Aelfwine48
+    mother = ORTH_48 #Aethelflaed63
+    578.1.1 = {
+        birth = yes
+    }
+}
+
+ORTH_100 = {
+    name = "Saethryth178"
+    culture = "orthanian"
+    faith = "halvran"
+    female = yes
+    dynasty = ORTHD3 #OrthDyn3
+    father = ORTH_114 #Wynstan65
+    mother = ORTH_193 #Aethelgifu96
+    571.1.1 = {
+        birth = yes
+    }
+    586.1.1 = {
+        add_spouse = ORTH_155 #Cuthbert238
+    }
+}
+
+ORTH_101 = {
+    name = "Saethryth188"
+    culture = "orthanian"
+    faith = "halvran"
+    female = yes
+    dynasty = ORTHD3 #OrthDyn3
+    father = ORTH_109 #Wilfrid67
+    mother = ORTH_229 #Cuthburg101
+    569.1.1 = {
+        birth = yes
+    }
+    586.1.1 = {
+        add_spouse = ORTH_1 #Aelfred143
+    }
+}
+
+ORTH_102 = {
+    name = "Siflaed194"
+    culture = "orthanian"
+    faith = "halvran"
+    female = yes
+    dynasty = ORTHD3 #OrthDyn3
+    father = ORTH_80 #Aethelwulf68
+    mother = ORTH_261 #Cuthburg108
+    570.1.1 = {
+        birth = yes
+    }
+    586.1.1 = {
+        add_spouse = ORTH_51 #Cynewulf165
+    }
+}
+
+ORTH_103 = {
+    name = "Sigeric12"
+    culture = "orthanian"
+    faith = "halvran"
+    dynasty = ORTHD3 #OrthDyn3
+    father = ORTH_96 #Osric11
+    517.1.1 = {
+        birth = yes
+    }
+    541.1.1 = {
+        add_spouse = ORTH_149 #Aethelflaed25
+    }
+    570.1.1 = {
+        death = yes
+    }
+}
+
+ORTH_104 = {
+    name = "Sigeric174"
+    culture = "orthanian"
+    faith = "halvran"
+    dynasty = ORTHD3 #OrthDyn3
+    father = ORTH_99 #Oswine64
+    mother = ORTH_214 #Sigrid90
+    579.1.1 = {
+        birth = yes
+    }
+}
+
+ORTH_105 = {
+    name = "Sigrid72"
+    culture = "orthanian"
+    faith = "halvran"
+    female = yes
+    dynasty = ORTHD3 #OrthDyn3
+    father = ORTH_84 #Cynewulf13
+    mother = ORTH_203 #Eormenhild30
+    555.1.1 = {
+        birth = yes
+    }
+    567.1.1 = {
+        add_spouse = ORTH_184 #Wihtræd85
+    }
+}
+
+ORTH_106 = {
+    name = "Theodred196"
+    culture = "orthanian"
+    faith = "halvran"
+    dynasty = ORTHD3 #OrthDyn3
+    father = ORTH_80 #Aethelwulf68
+    mother = ORTH_261 #Cuthburg108
+    572.1.1 = {
+        birth = yes
+    }
+}
+
+ORTH_107 = {
+    name = "Theodred70"
+    culture = "orthanian"
+    faith = "halvran"
+    dynasty = ORTHD3 #OrthDyn3
+    father = ORTH_84 #Cynewulf13
+    mother = ORTH_203 #Eormenhild30
+    551.1.1 = {
+        birth = yes
+    }
+    576.1.1 = {
+        add_spouse = ORTH_226 #Beorhtgifu98
+    }
+}
+
+ORTH_108 = {
+    name = "Wiglaf197"
+    culture = "orthanian"
+    faith = "halvran"
+    dynasty = ORTHD3 #OrthDyn3
+    father = ORTH_80 #Aethelwulf68
+    mother = ORTH_261 #Cuthburg108
+    574.1.1 = {
+        birth = yes
+    }
+}
+
+ORTH_109 = {
+    name = "Wilfrid67"
+    culture = "orthanian"
+    faith = "halvran"
+    dynasty = ORTHD3 #OrthDyn3
+    father = ORTH_103 #Sigeric12
+    mother = ORTH_149 #Aethelflaed25
+    554.1.1 = {
+        birth = yes
+    }
+    568.1.1 = {
+        add_spouse = ORTH_229 #Cuthburg101
+    }
+}
+
+ORTH_11 = {
+    name = "Cuthbert139"
+    culture = "orthanian"
+    faith = "halvran"
+    dynasty = ORTHD1 #OrthDyn1
+    father = ORTH_24 #Leofric52
+    mother = ORTH_63 #Osgyth60
+    583.1.1 = {
+        birth = yes
+    }
+}
+
+ORTH_110 = {
+    name = "Wulfgar177"
+    culture = "orthanian"
+    faith = "halvran"
+    dynasty = ORTHD3 #OrthDyn3
+    father = ORTH_114 #Wynstan65
+    mother = ORTH_193 #Aethelgifu96
+    569.1.1 = {
+        birth = yes
+    }
+    586.1.1 = {
+        add_spouse = ORTH_157 #Eadgyth231
+    }
+}
+
+ORTH_111 = {
+    name = "Wulfhild175"
+    culture = "orthanian"
+    faith = "halvran"
+    female = yes
+    dynasty = ORTHD3 #OrthDyn3
+    father = ORTH_99 #Oswine64
+    mother = ORTH_214 #Sigrid90
+    580.1.1 = {
+        birth = yes
+    }
+}
+
+ORTH_112 = {
+    name = "Wulfhild179"
+    culture = "orthanian"
+    faith = "halvran"
+    female = yes
+    dynasty = ORTHD3 #OrthDyn3
+    father = ORTH_114 #Wynstan65
+    mother = ORTH_193 #Aethelgifu96
+    573.1.1 = {
+        birth = yes
+    }
+}
+
+ORTH_113 = {
+    name = "Wulfric66"
+    culture = "orthanian"
+    faith = "halvran"
+    dynasty = ORTHD3 #OrthDyn3
+    father = ORTH_103 #Sigeric12
+    mother = ORTH_149 #Aethelflaed25
+    552.1.1 = {
+        birth = yes
+    }
+    573.1.1 = {
+        add_spouse = ORTH_230 #Cwenhild104
+    }
+}
+
+ORTH_114 = {
+    name = "Wynstan65"
+    culture = "orthanian"
+    faith = "halvran"
+    dynasty = ORTHD3 #OrthDyn3
+    father = ORTH_103 #Sigeric12
+    mother = ORTH_149 #Aethelflaed25
+    551.1.1 = {
+        birth = yes
+    }
+    568.1.1 = {
+        add_spouse = ORTH_193 #Aethelgifu96
+    }
+}
+
+ORTH_115 = {
+    name = "Aelfgifu204"
+    culture = "orthanian"
+    faith = "halvran"
+    female = yes
+    dynasty = ORTHD4 #OrthDyn4
+    father = ORTH_129 #Ecgberht79
+    mother = ORTH_291 #Aethelflaed117
+    568.1.1 = {
+        birth = yes
+    }
+    586.1.1 = {
+        add_spouse = ORTH_67 #Styrbjorn167
+    }
+}
+
+ORTH_116 = {
+    name = "Aelfwyn208"
+    culture = "orthanian"
+    faith = "halvran"
+    female = yes
+    dynasty = ORTHD4 #OrthDyn4
+    father = ORTH_129 #Ecgberht79
+    mother = ORTH_291 #Aethelflaed117
+    575.1.1 = {
+        birth = yes
+    }
+}
+
+ORTH_117 = {
+    name = "Aelfwyn73"
+    culture = "orthanian"
+    faith = "halvran"
+    female = yes
+    dynasty = ORTHD4 #OrthDyn4
+    father = ORTH_125 #Cynewulf17
+    mother = ORTH_248 #Wulfflaed35
+    550.1.1 = {
+        birth = yes
+    }
+    575.1.1 = {
+        add_spouse = ORTH_188 #Wulfstan86
+    }
+}
+
+ORTH_118 = {
+    name = "Aelfwyn77"
+    culture = "orthanian"
+    faith = "halvran"
+    female = yes
+    dynasty = ORTHD4 #OrthDyn4
+    father = ORTH_141 #Wulfgar18
+    mother = ORTH_262 #Eadgifu40
+    551.1.1 = {
+        birth = yes
+    }
+    578.1.1 = {
+        add_spouse = ORTH_213 #Sigeric94
+    }
+}
+
+ORTH_119 = {
+    name = "Beorhtflaed209"
+    culture = "orthanian"
+    faith = "halvran"
+    female = yes
+    dynasty = ORTHD4 #OrthDyn4
+    father = ORTH_129 #Ecgberht79
+    mother = ORTH_291 #Aethelflaed117
+    576.1.1 = {
+        birth = yes
+    }
+}
+
+ORTH_12 = {
+    name = "Cuthbert53"
+    culture = "orthanian"
+    faith = "halvran"
+    dynasty = ORTHD1 #OrthDyn1
+    father = ORTH_6 #Aethelwulf3
+    mother = ORTH_72 #Wynflaed10
+    551.1.1 = {
+        birth = yes
+    }
+    575.1.1 = {
+        add_spouse = ORTH_68 #Swanhild57
+    }
+}
+
+ORTH_120 = {
+    name = "Brihtwyn201"
+    culture = "orthanian"
+    faith = "halvran"
+    female = yes
+    dynasty = ORTHD4 #OrthDyn4
+    father = ORTH_144 #Wynstan78
+    mother = ORTH_257 #Aethelthryth109
+    572.1.1 = {
+        birth = yes
+    }
+}
+
+ORTH_121 = {
+    name = "Brihtwyn81"
+    culture = "orthanian"
+    faith = "halvran"
+    female = yes
+    dynasty = ORTHD4 #OrthDyn4
+    father = ORTH_141 #Wulfgar18
+    mother = ORTH_262 #Eadgifu40
+    555.1.1 = {
+        birth = yes
+    }
+    567.1.1 = {
+        add_spouse = ORTH_61 #Guthlac62
+    }
+}
+
+ORTH_122 = {
+    name = "Burgflæd75"
+    culture = "orthanian"
+    faith = "halvran"
+    female = yes
+    dynasty = ORTHD4 #OrthDyn4
+    father = ORTH_125 #Cynewulf17
+    mother = ORTH_248 #Wulfflaed35
+    553.1.1 = {
+        birth = yes
+    }
+    577.1.1 = {
+        add_spouse = ORTH_220 #Wulfric91
+    }
+}
+
+ORTH_123 = {
+    name = "Cuthburg202"
+    culture = "orthanian"
+    faith = "halvran"
+    female = yes
+    dynasty = ORTHD4 #OrthDyn4
+    father = ORTH_144 #Wynstan78
+    mother = ORTH_257 #Aethelthryth109
+    573.1.1 = {
+        birth = yes
+    }
+}
+
+ORTH_124 = {
+    name = "Cynewulf16"
+    culture = "orthanian"
+    faith = "halvran"
+    dynasty = ORTHD4 #OrthDyn4
+    483.1.1 = {
+        birth = yes
+    }
+    544.1.1 = {
+        death = yes
+    }
+}
+
+ORTH_125 = {
+    name = "Cynewulf17"
+    culture = "orthanian"
+    faith = "halvran"
+    dynasty = ORTHD4 #OrthDyn4
+    father = ORTH_124 #Cynewulf16
+    518.1.1 = {
+        birth = yes
+    }
+    540.1.1 = {
+        add_spouse = ORTH_248 #Wulfflaed35
+    }
+    573.1.1 = {
+        death = yes
+    }
+}
+
+ORTH_126 = {
+    name = "Ealhswith211"
+    culture = "orthanian"
+    faith = "halvran"
+    female = yes
+    dynasty = ORTHD4 #OrthDyn4
+    father = ORTH_136 #Hrothgar80
+    mother = ORTH_293 #Beorhtflaed118
+    579.1.1 = {
+        birth = yes
+    }
+}
+
+ORTH_127 = {
+    name = "Eanflaed19"
+    culture = "orthanian"
+    faith = "halvran"
+    female = yes
+    dynasty = ORTHD4 #OrthDyn4
+    father = ORTH_124 #Cynewulf16
+    524.1.1 = {
+        birth = yes
+    }
+    540.1.1 = {
+        add_spouse = ORTH_201 #Edward28
+    }
+}
+
+ORTH_128 = {
+    name = "Eanflaed205"
+    culture = "orthanian"
+    faith = "halvran"
+    female = yes
+    dynasty = ORTHD4 #OrthDyn4
+    father = ORTH_129 #Ecgberht79
+    mother = ORTH_291 #Aethelflaed117
+    570.1.1 = {
+        birth = yes
+    }
+    586.1.1 = {
+        add_spouse = ORTH_251 #Wulfric278
+    }
+}
+
+ORTH_129 = {
+    name = "Ecgberht79"
+    culture = "orthanian"
+    faith = "halvran"
+    dynasty = ORTHD4 #OrthDyn4
+    father = ORTH_141 #Wulfgar18
+    mother = ORTH_262 #Eadgifu40
+    553.1.1 = {
+        birth = yes
+    }
+    567.1.1 = {
+        add_spouse = ORTH_291 #Aethelflaed117
+    }
+}
+
+ORTH_13 = {
+    name = "Cuthburg47"
+    culture = "orthanian"
+    faith = "halvran"
+    female = yes
+    dynasty = ORTHD1 #OrthDyn1
+    father = ORTH_25 #Leofwine2
+    mother = ORTH_60 #Ethelwyn9
+    551.1.1 = {
+        birth = yes
+    }
+    576.1.1 = {
+        add_spouse = ORTH_152 #Brihtnoth88
+    }
+}
+
+ORTH_130 = {
+    name = "Edith20"
+    culture = "orthanian"
+    faith = "halvran"
+    female = yes
+    dynasty = ORTHD4 #OrthDyn4
+    father = ORTH_124 #Cynewulf16
+    527.1.1 = {
+        birth = yes
+    }
+    539.1.1 = {
+        add_spouse = ORTH_69 #Wiglaf8
+    }
+    571.1.1 = {
+        death = yes
+    }
+}
+
+ORTH_131 = {
+    name = "Ethelwyn203"
+    culture = "orthanian"
+    faith = "halvran"
+    female = yes
+    dynasty = ORTHD4 #OrthDyn4
+    father = ORTH_144 #Wynstan78
+    mother = ORTH_257 #Aethelthryth109
+    575.1.1 = {
+        birth = yes
+    }
+}
+
+ORTH_132 = {
+    name = "Ethelwyn76"
+    culture = "orthanian"
+    faith = "halvran"
+    female = yes
+    dynasty = ORTHD4 #OrthDyn4
+    father = ORTH_141 #Wulfgar18
+    mother = ORTH_262 #Eadgifu40
+    550.1.1 = {
+        birth = yes
+    }
+    570.1.1 = {
+        add_spouse = ORTH_58 #Edmund61
+    }
+}
+
+ORTH_133 = {
+    name = "Frithuswith210"
+    culture = "orthanian"
+    faith = "halvran"
+    female = yes
+    dynasty = ORTHD4 #OrthDyn4
+    father = ORTH_136 #Hrothgar80
+    mother = ORTH_293 #Beorhtflaed118
+    577.1.1 = {
+        birth = yes
+    }
+}
+
+ORTH_134 = {
+    name = "Frithuswith214"
+    culture = "orthanian"
+    faith = "halvran"
+    female = yes
+    dynasty = ORTHD4 #OrthDyn4
+    father = ORTH_136 #Hrothgar80
+    mother = ORTH_293 #Beorhtflaed118
+    584.1.1 = {
+        birth = yes
+    }
+}
+
+ORTH_135 = {
+    name = "Hrothgar206"
+    culture = "orthanian"
+    faith = "halvran"
+    dynasty = ORTHD4 #OrthDyn4
+    father = ORTH_129 #Ecgberht79
+    mother = ORTH_291 #Aethelflaed117
+    572.1.1 = {
+        birth = yes
+    }
+}
+
+ORTH_136 = {
+    name = "Hrothgar80"
+    culture = "orthanian"
+    faith = "halvran"
+    dynasty = ORTHD4 #OrthDyn4
+    father = ORTH_141 #Wulfgar18
+    mother = ORTH_262 #Eadgifu40
+    554.1.1 = {
+        birth = yes
+    }
+    576.1.1 = {
+        add_spouse = ORTH_293 #Beorhtflaed118
+    }
+}
+
+ORTH_137 = {
+    name = "Osgyth74"
+    culture = "orthanian"
+    faith = "halvran"
+    female = yes
+    dynasty = ORTHD4 #OrthDyn4
+    father = ORTH_125 #Cynewulf17
+    mother = ORTH_248 #Wulfflaed35
+    552.1.1 = {
+        birth = yes
+    }
+    577.1.1 = {
+        add_spouse = ORTH_70 #Wulfric58
+    }
+}
+
+ORTH_138 = {
+    name = "Osric200"
+    culture = "orthanian"
+    faith = "halvran"
+    dynasty = ORTHD4 #OrthDyn4
+    father = ORTH_144 #Wynstan78
+    mother = ORTH_257 #Aethelthryth109
+    571.1.1 = {
+        birth = yes
+    }
+    586.1.1 = {
+        add_spouse = ORTH_267 #Ealhswith300
+    }
+}
+
+ORTH_139 = {
+    name = "Sigrid207"
+    culture = "orthanian"
+    faith = "halvran"
+    female = yes
+    dynasty = ORTHD4 #OrthDyn4
+    father = ORTH_129 #Ecgberht79
+    mother = ORTH_291 #Aethelflaed117
+    574.1.1 = {
+        birth = yes
+    }
+}
+
+ORTH_14 = {
+    name = "Eadgyth145"
+    culture = "orthanian"
+    faith = "halvran"
+    female = yes
+    dynasty = ORTHD1 #OrthDyn1
+    father = ORTH_2 #Aelfwine48
+    mother = ORTH_48 #Aethelflaed63
+    575.1.1 = {
+        birth = yes
+    }
+}
+
+ORTH_140 = {
+    name = "Sigrun127"
+    culture = "orthanian"
+    faith = "halvran"
+    female = yes
+    dynasty = ORTHD4 #OrthDyn4
+    540.1.1 = {
+        birth = yes
+    }
+    569.1.1 = {
+        add_spouse = ORTH_40 #Wulfsige51
+    }
+}
+
+ORTH_141 = {
+    name = "Wulfgar18"
+    culture = "orthanian"
+    faith = "halvran"
+    dynasty = ORTHD4 #OrthDyn4
+    father = ORTH_124 #Cynewulf16
+    521.1.1 = {
+        birth = yes
+    }
+    535.1.1 = {
+        add_spouse = ORTH_262 #Eadgifu40
+    }
+    581.1.1 = {
+        death = yes
+    }
+}
+
+ORTH_142 = {
+    name = "Wulfhild213"
+    culture = "orthanian"
+    faith = "halvran"
+    female = yes
+    dynasty = ORTHD4 #OrthDyn4
+    father = ORTH_136 #Hrothgar80
+    mother = ORTH_293 #Beorhtflaed118
+    583.1.1 = {
+        birth = yes
+    }
+}
+
+ORTH_143 = {
+    name = "Wulfric212"
+    culture = "orthanian"
+    faith = "halvran"
+    dynasty = ORTHD4 #OrthDyn4
+    father = ORTH_136 #Hrothgar80
+    mother = ORTH_293 #Beorhtflaed118
+    581.1.1 = {
+        birth = yes
+    }
+}
+
+ORTH_144 = {
+    name = "Wynstan78"
+    culture = "orthanian"
+    faith = "halvran"
+    dynasty = ORTHD4 #OrthDyn4
+    father = ORTH_141 #Wulfgar18
+    mother = ORTH_262 #Eadgifu40
+    552.1.1 = {
+        birth = yes
+    }
+    570.1.1 = {
+        add_spouse = ORTH_257 #Aethelthryth109
+    }
+}
+
+ORTH_145 = {
+    name = "Aelfgifu229"
+    culture = "orthanian"
+    faith = "halvran"
+    female = yes
+    dynasty = ORTHD5 #OrthDyn5
+    father = ORTH_189 #Wulfstan89
+    mother = ORTH_28 #Osburh49
+    582.1.1 = {
+        birth = yes
+    }
+}
+
+ORTH_146 = {
+    name = "Aelfred84"
+    culture = "orthanian"
+    faith = "halvran"
+    dynasty = ORTHD5 #OrthDyn5
+    father = ORTH_165 #Eormenric22
+    mother = ORTH_315 #Wulfhild45
+    554.1.1 = {
+        birth = yes
+    }
+    566.1.1 = {
+        add_spouse = ORTH_82 #Cwenhild69
+    }
+}
+
+ORTH_147 = {
+    name = "Aelfwyn219"
+    culture = "orthanian"
+    faith = "halvran"
+    female = yes
+    dynasty = ORTHD5 #OrthDyn5
+    father = ORTH_152 #Brihtnoth88
+    mother = ORTH_13 #Cuthburg47
+    577.1.1 = {
+        birth = yes
+    }
+}
+
+ORTH_148 = {
+    name = "Aelfwyn82"
+    culture = "orthanian"
+    faith = "halvran"
+    female = yes
+    dynasty = ORTHD5 #OrthDyn5
+    father = ORTH_165 #Eormenric22
+    mother = ORTH_315 #Wulfhild45
+    550.1.1 = {
+        birth = yes
+    }
+    575.1.1 = {
+        add_spouse = ORTH_66 #Oswine59
+    }
+}
+
+ORTH_149 = {
+    name = "Aethelflaed25"
+    culture = "orthanian"
+    faith = "halvran"
+    female = yes
+    dynasty = ORTHD5 #OrthDyn5
+    father = ORTH_187 #Wulfsige21
+    528.1.1 = {
+        birth = yes
+    }
+    541.1.1 = {
+        add_spouse = ORTH_103 #Sigeric12
+    }
+    572.1.1 = {
+        death = yes
+    }
+}
+
+ORTH_15 = {
+    name = "Eadgyth154"
+    culture = "orthanian"
+    faith = "halvran"
+    female = yes
+    dynasty = ORTHD1 #OrthDyn1
+    father = ORTH_40 #Wulfsige51
+    mother = ORTH_140 #Sigrun127
+    574.1.1 = {
+        birth = yes
+    }
+}
+
+ORTH_150 = {
+    name = "Aethelgifu126"
+    culture = "orthanian"
+    faith = "halvran"
+    female = yes
+    dynasty = ORTHD5 #OrthDyn5
+    547.1.1 = {
+        birth = yes
+    }
+    573.1.1 = {
+        add_spouse = ORTH_221 #Wulfsige92
+    }
+}
+
+ORTH_151 = {
+    name = "Aethelred218"
+    culture = "orthanian"
+    faith = "halvran"
+    dynasty = ORTHD5 #OrthDyn5
+    father = ORTH_185 #Wulfgar83
+    mother = ORTH_317 #Wynflæd123
+    580.1.1 = {
+        birth = yes
+    }
+}
+
+ORTH_152 = {
+    name = "Brihtnoth88"
+    culture = "orthanian"
+    faith = "halvran"
+    dynasty = ORTHD5 #OrthDyn5
+    father = ORTH_181 #Styrbjorn23
+    mother = ORTH_27 #Mildrith5
+    552.1.1 = {
+        birth = yes
+    }
+    576.1.1 = {
+        add_spouse = ORTH_13 #Cuthburg47
+    }
+}
+
+ORTH_153 = {
+    name = "Cenric220"
+    culture = "orthanian"
+    faith = "halvran"
+    dynasty = ORTHD5 #OrthDyn5
+    father = ORTH_152 #Brihtnoth88
+    mother = ORTH_13 #Cuthburg47
+    578.1.1 = {
+        birth = yes
+    }
+}
+
+ORTH_154 = {
+    name = "Cenric241"
+    culture = "orthanian"
+    faith = "halvran"
+    dynasty = ORTHD5 #OrthDyn5
+    father = ORTH_188 #Wulfstan86
+    mother = ORTH_117 #Aelfwyn73
+    576.1.1 = {
+        birth = yes
+    }
+}
+
+ORTH_155 = {
+    name = "Cuthbert238"
+    culture = "orthanian"
+    faith = "halvran"
+    dynasty = ORTHD5 #OrthDyn5
+    father = ORTH_184 #Wihtræd85
+    mother = ORTH_105 #Sigrid72
+    571.1.1 = {
+        birth = yes
+    }
+    586.1.1 = {
+        add_spouse = ORTH_100 #Saethryth178
+    }
+}
+
+ORTH_156 = {
+    name = "Cynewulf245"
+    culture = "orthanian"
+    faith = "halvran"
+    dynasty = ORTHD5 #OrthDyn5
+    father = ORTH_188 #Wulfstan86
+    mother = ORTH_117 #Aelfwyn73
+    582.1.1 = {
+        birth = yes
+    }
+}
+
+ORTH_157 = {
+    name = "Eadgyth231"
+    culture = "orthanian"
+    faith = "halvran"
+    female = yes
+    dynasty = ORTHD5 #OrthDyn5
+    father = ORTH_146 #Aelfred84
+    mother = ORTH_82 #Cwenhild69
+    567.1.1 = {
+        birth = yes
+    }
+    586.1.1 = {
+        add_spouse = ORTH_110 #Wulfgar177
+    }
+}
+
+ORTH_158 = {
+    name = "Eadric246"
+    culture = "orthanian"
+    faith = "halvran"
+    dynasty = ORTHD5 #OrthDyn5
+    father = ORTH_188 #Wulfstan86
+    mother = ORTH_117 #Aelfwyn73
+    584.1.1 = {
+        birth = yes
+    }
+}
+
+ORTH_159 = {
+    name = "Eanswith227"
+    culture = "orthanian"
+    faith = "halvran"
+    female = yes
+    dynasty = ORTHD5 #OrthDyn5
+    father = ORTH_189 #Wulfstan89
+    mother = ORTH_28 #Osburh49
+    579.1.1 = {
+        birth = yes
+    }
+}
+
+ORTH_16 = {
+    name = "Eadric138"
+    culture = "orthanian"
+    faith = "halvran"
+    dynasty = ORTHD1 #OrthDyn1
+    father = ORTH_24 #Leofric52
+    mother = ORTH_63 #Osgyth60
+    581.1.1 = {
+        birth = yes
+    }
+}
+
+ORTH_160 = {
+    name = "Ecgberht225"
+    culture = "orthanian"
+    faith = "halvran"
+    dynasty = ORTHD5 #OrthDyn5
+    father = ORTH_189 #Wulfstan89
+    mother = ORTH_28 #Osburh49
+    576.1.1 = {
+        birth = yes
+    }
+}
+
+ORTH_161 = {
+    name = "Edith223"
+    culture = "orthanian"
+    faith = "halvran"
+    female = yes
+    dynasty = ORTHD5 #OrthDyn5
+    father = ORTH_152 #Brihtnoth88
+    mother = ORTH_13 #Cuthburg47
+    583.1.1 = {
+        birth = yes
+    }
+}
+
+ORTH_162 = {
+    name = "Edith239"
+    culture = "orthanian"
+    faith = "halvran"
+    female = yes
+    dynasty = ORTHD5 #OrthDyn5
+    father = ORTH_184 #Wihtræd85
+    mother = ORTH_105 #Sigrid72
+    573.1.1 = {
+        birth = yes
+    }
+}
+
+ORTH_163 = {
+    name = "Edmund242"
+    culture = "orthanian"
+    faith = "halvran"
+    dynasty = ORTHD5 #OrthDyn5
+    father = ORTH_188 #Wulfstan86
+    mother = ORTH_117 #Aelfwyn73
+    577.1.1 = {
+        birth = yes
+    }
+}
+
+ORTH_164 = {
+    name = "Eoforwine215"
+    culture = "orthanian"
+    faith = "halvran"
+    dynasty = ORTHD5 #OrthDyn5
+    father = ORTH_185 #Wulfgar83
+    mother = ORTH_317 #Wynflæd123
+    577.1.1 = {
+        birth = yes
+    }
+}
+
+ORTH_165 = {
+    name = "Eormenric22"
+    culture = "orthanian"
+    faith = "halvran"
+    dynasty = ORTHD5 #OrthDyn5
+    father = ORTH_187 #Wulfsige21
+    519.1.1 = {
+        birth = yes
+    }
+    539.1.1 = {
+        add_spouse = ORTH_315 #Wulfhild45
+    }
+    570.1.1 = {
+        death = yes
+    }
+}
+
+ORTH_166 = {
+    name = "Guthlac228"
+    culture = "orthanian"
+    faith = "halvran"
+    dynasty = ORTHD5 #OrthDyn5
+    father = ORTH_189 #Wulfstan89
+    mother = ORTH_28 #Osburh49
+    581.1.1 = {
+        birth = yes
+    }
+}
+
+ORTH_167 = {
+    name = "Hild24"
+    culture = "orthanian"
+    faith = "halvran"
+    female = yes
+    dynasty = ORTHD5 #OrthDyn5
+    father = ORTH_187 #Wulfsige21
+    525.1.1 = {
+        birth = yes
+    }
+    542.1.1 = {
+        add_spouse = ORTH_245 #Oswald32
+    }
+}
+
+ORTH_168 = {
+    name = "Leofgifu244"
+    culture = "orthanian"
+    faith = "halvran"
+    female = yes
+    dynasty = ORTHD5 #OrthDyn5
+    father = ORTH_188 #Wulfstan86
+    mother = ORTH_117 #Aelfwyn73
+    580.1.1 = {
+        birth = yes
+    }
+}
+
+ORTH_169 = {
+    name = "Mildrith221"
+    culture = "orthanian"
+    faith = "halvran"
+    female = yes
+    dynasty = ORTHD5 #OrthDyn5
+    father = ORTH_152 #Brihtnoth88
+    mother = ORTH_13 #Cuthburg47
+    580.1.1 = {
+        birth = yes
+    }
+}
+
+ORTH_17 = {
+    name = "Eadwig144"
+    culture = "orthanian"
+    faith = "halvran"
+    dynasty = ORTHD1 #OrthDyn1
+    father = ORTH_2 #Aelfwine48
+    mother = ORTH_48 #Aethelflaed63
+    573.1.1 = {
+        birth = yes
+    }
+}
+
+ORTH_170 = {
+    name = "Mildrith243"
+    culture = "orthanian"
+    faith = "halvran"
+    female = yes
+    dynasty = ORTHD5 #OrthDyn5
+    father = ORTH_188 #Wulfstan86
+    mother = ORTH_117 #Aelfwyn73
+    578.1.1 = {
+        birth = yes
+    }
+}
+
+ORTH_171 = {
+    name = "Mildrith87"
+    culture = "orthanian"
+    faith = "halvran"
+    female = yes
+    dynasty = ORTHD5 #OrthDyn5
+    father = ORTH_181 #Styrbjorn23
+    mother = ORTH_27 #Mildrith5
+    550.1.1 = {
+        birth = yes
+    }
+    572.1.1 = {
+        add_spouse = ORTH_202 #Edward93
+    }
+}
+
+ORTH_172 = {
+    name = "Osburh222"
+    culture = "orthanian"
+    faith = "halvran"
+    female = yes
+    dynasty = ORTHD5 #OrthDyn5
+    father = ORTH_152 #Brihtnoth88
+    mother = ORTH_13 #Cuthburg47
+    582.1.1 = {
+        birth = yes
+    }
+}
+
+ORTH_173 = {
+    name = "Osgyth230"
+    culture = "orthanian"
+    faith = "halvran"
+    female = yes
+    dynasty = ORTHD5 #OrthDyn5
+    father = ORTH_189 #Wulfstan89
+    mother = ORTH_28 #Osburh49
+    584.1.1 = {
+        birth = yes
+    }
+}
+
+ORTH_174 = {
+    name = "Osric234"
+    culture = "orthanian"
+    faith = "halvran"
+    dynasty = ORTHD5 #OrthDyn5
+    father = ORTH_146 #Aelfred84
+    mother = ORTH_82 #Cwenhild69
+    570.1.1 = {
+        birth = yes
+    }
+    586.1.1 = {
+        add_spouse = ORTH_46 #Aethelflaed156
+    }
+}
+
+ORTH_175 = {
+    name = "Oswald224"
+    culture = "orthanian"
+    faith = "halvran"
+    dynasty = ORTHD5 #OrthDyn5
+    father = ORTH_152 #Brihtnoth88
+    mother = ORTH_13 #Cuthburg47
+    585.1.1 = {
+        birth = yes
+    }
+}
+
+ORTH_176 = {
+    name = "Oswine237"
+    culture = "orthanian"
+    faith = "halvran"
+    dynasty = ORTHD5 #OrthDyn5
+    father = ORTH_184 #Wihtræd85
+    mother = ORTH_105 #Sigrid72
+    569.1.1 = {
+        birth = yes
+    }
+    586.1.1 = {
+        add_spouse = ORTH_311 #Thryth314
+    }
+}
+
+ORTH_177 = {
+    name = "Saethryth240"
+    culture = "orthanian"
+    faith = "halvran"
+    female = yes
+    dynasty = ORTHD5 #OrthDyn5
+    father = ORTH_184 #Wihtræd85
+    mother = ORTH_105 #Sigrid72
+    575.1.1 = {
+        birth = yes
+    }
+}
+
+ORTH_178 = {
+    name = "Siflaed216"
+    culture = "orthanian"
+    faith = "halvran"
+    female = yes
+    dynasty = ORTHD5 #OrthDyn5
+    father = ORTH_185 #Wulfgar83
+    mother = ORTH_317 #Wynflæd123
+    578.1.1 = {
+        birth = yes
+    }
+}
+
+ORTH_179 = {
+    name = "Sigrid233"
+    culture = "orthanian"
+    faith = "halvran"
+    female = yes
+    dynasty = ORTHD5 #OrthDyn5
+    father = ORTH_146 #Aelfred84
+    mother = ORTH_82 #Cwenhild69
+    569.1.1 = {
+        birth = yes
+    }
+    586.1.1 = {
+        add_spouse = ORTH_75 #Aelfwine195
+    }
+}
+
+ORTH_18 = {
+    name = "Ealdred142"
+    culture = "orthanian"
+    faith = "halvran"
+    dynasty = ORTHD1 #OrthDyn1
+    father = ORTH_12 #Cuthbert53
+    mother = ORTH_68 #Swanhild57
+    580.1.1 = {
+        birth = yes
+    }
+}
+
+ORTH_180 = {
+    name = "Styrbjorn217"
+    culture = "orthanian"
+    faith = "halvran"
+    dynasty = ORTHD5 #OrthDyn5
+    father = ORTH_185 #Wulfgar83
+    mother = ORTH_317 #Wynflæd123
+    579.1.1 = {
+        birth = yes
+    }
+}
+
+ORTH_181 = {
+    name = "Styrbjorn23"
+    culture = "orthanian"
+    faith = "halvran"
+    dynasty = ORTHD5 #OrthDyn5
+    father = ORTH_187 #Wulfsige21
+    522.1.1 = {
+        birth = yes
+    }
+    546.1.1 = {
+        add_spouse = ORTH_27 #Mildrith5
+    }
+    570.1.1 = {
+        death = yes
+    }
+}
+
+ORTH_182 = {
+    name = "Styrbjorn235"
+    culture = "orthanian"
+    faith = "halvran"
+    dynasty = ORTHD5 #OrthDyn5
+    father = ORTH_146 #Aelfred84
+    mother = ORTH_82 #Cwenhild69
+    571.1.1 = {
+        birth = yes
+    }
+    586.1.1 = {
+        add_spouse = ORTH_74 #Aelfgifu189
+    }
+}
+
+ORTH_183 = {
+    name = "Styrbjorn236"
+    culture = "orthanian"
+    faith = "halvran"
+    dynasty = ORTHD5 #OrthDyn5
+    father = ORTH_184 #Wihtræd85
+    mother = ORTH_105 #Sigrid72
+    568.1.1 = {
+        birth = yes
+    }
+    586.1.1 = {
+        add_spouse = ORTH_310 #Thryth305
+    }
+}
+
+ORTH_184 = {
+    name = "Wihtræd85"
+    culture = "orthanian"
+    faith = "halvran"
+    dynasty = ORTHD5 #OrthDyn5
+    father = ORTH_165 #Eormenric22
+    mother = ORTH_315 #Wulfhild45
+    555.1.1 = {
+        birth = yes
+    }
+    567.1.1 = {
+        add_spouse = ORTH_105 #Sigrid72
+    }
+}
+
+ORTH_185 = {
+    name = "Wulfgar83"
+    culture = "orthanian"
+    faith = "halvran"
+    dynasty = ORTHD5 #OrthDyn5
+    father = ORTH_165 #Eormenric22
+    mother = ORTH_315 #Wulfhild45
+    552.1.1 = {
+        birth = yes
+    }
+    576.1.1 = {
+        add_spouse = ORTH_317 #Wynflæd123
+    }
+}
+
+ORTH_186 = {
+    name = "Wulfric226"
+    culture = "orthanian"
+    faith = "halvran"
+    dynasty = ORTHD5 #OrthDyn5
+    father = ORTH_189 #Wulfstan89
+    mother = ORTH_28 #Osburh49
+    577.1.1 = {
+        birth = yes
+    }
+}
+
+ORTH_187 = {
+    name = "Wulfsige21"
+    culture = "orthanian"
+    faith = "halvran"
+    dynasty = ORTHD5 #OrthDyn5
+    484.1.1 = {
+        birth = yes
+    }
+    564.1.1 = {
+        death = yes
+    }
+}
+
+ORTH_188 = {
+    name = "Wulfstan86"
+    culture = "orthanian"
+    faith = "halvran"
+    dynasty = ORTHD5 #OrthDyn5
+    father = ORTH_165 #Eormenric22
+    mother = ORTH_315 #Wulfhild45
+    556.1.1 = {
+        birth = yes
+    }
+    575.1.1 = {
+        add_spouse = ORTH_117 #Aelfwyn73
+    }
+}
+
+ORTH_189 = {
+    name = "Wulfstan89"
+    culture = "orthanian"
+    faith = "halvran"
+    dynasty = ORTHD5 #OrthDyn5
+    father = ORTH_181 #Styrbjorn23
+    mother = ORTH_27 #Mildrith5
+    553.1.1 = {
+        birth = yes
+    }
+    575.1.1 = {
+        add_spouse = ORTH_28 #Osburh49
+    }
+}
+
+ORTH_19 = {
+    name = "Ealdred148"
+    culture = "orthanian"
+    faith = "halvran"
+    dynasty = ORTHD1 #OrthDyn1
+    father = ORTH_2 #Aelfwine48
+    mother = ORTH_48 #Aethelflaed63
+    579.1.1 = {
+        birth = yes
+    }
+}
+
+ORTH_190 = {
+    name = "Wynflæd232"
+    culture = "orthanian"
+    faith = "halvran"
+    female = yes
+    dynasty = ORTHD5 #OrthDyn5
+    father = ORTH_146 #Aelfred84
+    mother = ORTH_82 #Cwenhild69
+    568.1.1 = {
+        birth = yes
+    }
+    586.1.1 = {
+        add_spouse = ORTH_272 #Eoforwine286
+    }
+}
+
+ORTH_191 = {
+    name = "Aelfgifu248"
+    culture = "orthanian"
+    faith = "halvran"
+    female = yes
+    dynasty = ORTHD6 #OrthDyn6
+    father = ORTH_213 #Sigeric94
+    mother = ORTH_118 #Aelfwyn77
+    580.1.1 = {
+        birth = yes
+    }
+}
+
+ORTH_192 = {
+    name = "Aelfgifu29"
+    culture = "orthanian"
+    faith = "halvran"
+    female = yes
+    dynasty = ORTHD6 #OrthDyn6
+    father = ORTH_218 #Wihtræd26
+    526.1.1 = {
+        birth = yes
+    }
+    543.1.1 = {
+        add_spouse = ORTH_242 #Guthlac33
+    }
+    582.1.1 = {
+        death = yes
+    }
+}
+
+ORTH_193 = {
+    name = "Aethelgifu96"
+    culture = "orthanian"
+    faith = "halvran"
+    female = yes
+    dynasty = ORTHD6 #OrthDyn6
+    father = ORTH_201 #Edward28
+    mother = ORTH_127 #Eanflaed19
+    553.1.1 = {
+        birth = yes
+    }
+    568.1.1 = {
+        add_spouse = ORTH_114 #Wynstan65
+    }
+}
+
+ORTH_194 = {
+    name = "Aethelred252"
+    culture = "orthanian"
+    faith = "halvran"
+    dynasty = ORTHD6 #OrthDyn6
+    father = ORTH_220 #Wulfric91
+    mother = ORTH_122 #Burgflæd75
+    579.1.1 = {
+        birth = yes
+    }
+}
+
+ORTH_195 = {
+    name = "Aethelred262"
+    culture = "orthanian"
+    faith = "halvran"
+    dynasty = ORTHD6 #OrthDyn6
+    father = ORTH_202 #Edward93
+    mother = ORTH_171 #Mildrith87
+    575.1.1 = {
+        birth = yes
+    }
+}
+
+ORTH_196 = {
+    name = "Beorhtflaed259"
+    culture = "orthanian"
+    faith = "halvran"
+    female = yes
+    dynasty = ORTHD6 #OrthDyn6
+    father = ORTH_221 #Wulfsige92
+    mother = ORTH_150 #Aethelgifu126
+    581.1.1 = {
+        birth = yes
+    }
+}
+
+ORTH_197 = {
+    name = "Beorhtgifu250"
+    culture = "orthanian"
+    faith = "halvran"
+    female = yes
+    dynasty = ORTHD6 #OrthDyn6
+    father = ORTH_213 #Sigeric94
+    mother = ORTH_118 #Aelfwyn77
+    583.1.1 = {
+        birth = yes
+    }
+}
+
+ORTH_198 = {
+    name = "Burgflæd256"
+    culture = "orthanian"
+    faith = "halvran"
+    female = yes
+    dynasty = ORTHD6 #OrthDyn6
+    father = ORTH_221 #Wulfsige92
+    mother = ORTH_150 #Aethelgifu126
+    576.1.1 = {
+        birth = yes
+    }
+}
+
+ORTH_199 = {
+    name = "Eadwig258"
+    culture = "orthanian"
+    faith = "halvran"
+    dynasty = ORTHD6 #OrthDyn6
+    father = ORTH_221 #Wulfsige92
+    mother = ORTH_150 #Aethelgifu126
+    579.1.1 = {
+        birth = yes
+    }
+}
+
+ORTH_2 = {
+    name = "Aelfwine48"
+    culture = "orthanian"
+    faith = "halvran"
+    dynasty = ORTHD1 #OrthDyn1
+    father = ORTH_25 #Leofwine2
+    mother = ORTH_60 #Ethelwyn9
+    552.1.1 = {
+        birth = yes
+    }
+    570.1.1 = {
+        add_spouse = ORTH_48 #Aethelflaed63
+    }
+}
+
+ORTH_20 = {
+    name = "Eanflaed4"
+    culture = "orthanian"
+    faith = "halvran"
+    female = yes
+    dynasty = ORTHD1 #OrthDyn1
+    father = ORTH_39 #Wulfsige1
+    521.1.1 = {
+        birth = yes
+    }
+    548.1.1 = {
+        add_spouse = ORTH_307 #Sigeweard42
+    }
+    580.1.1 = {
+        death = yes
+    }
+}
+
+ORTH_200 = {
+    name = "Eanswith97"
+    culture = "orthanian"
+    faith = "halvran"
+    female = yes
+    dynasty = ORTHD6 #OrthDyn6
+    father = ORTH_201 #Edward28
+    mother = ORTH_127 #Eanflaed19
+    555.1.1 = {
+        birth = yes
+    }
+    575.1.1 = {
+        add_spouse = ORTH_241 #Guthlac100
+    }
+}
+
+ORTH_201 = {
+    name = "Edward28"
+    culture = "orthanian"
+    faith = "halvran"
+    dynasty = ORTHD6 #OrthDyn6
+    father = ORTH_218 #Wihtræd26
+    523.1.1 = {
+        birth = yes
+    }
+    540.1.1 = {
+        add_spouse = ORTH_127 #Eanflaed19
+    }
+    583.1.1 = {
+        death = yes
+    }
+}
+
+ORTH_202 = {
+    name = "Edward93"
+    culture = "orthanian"
+    faith = "halvran"
+    dynasty = ORTHD6 #OrthDyn6
+    father = ORTH_215 #Styrbjorn27
+    mother = ORTH_86 #Eadgifu14
+    554.1.1 = {
+        birth = yes
+    }
+    572.1.1 = {
+        add_spouse = ORTH_171 #Mildrith87
+    }
+}
+
+ORTH_203 = {
+    name = "Eormenhild30"
+    culture = "orthanian"
+    faith = "halvran"
+    female = yes
+    dynasty = ORTHD6 #OrthDyn6
+    father = ORTH_218 #Wihtræd26
+    529.1.1 = {
+        birth = yes
+    }
+    547.1.1 = {
+        add_spouse = ORTH_84 #Cynewulf13
+    }
+    571.1.1 = {
+        death = yes
+    }
+}
+
+ORTH_204 = {
+    name = "Ethelwyn255"
+    culture = "orthanian"
+    faith = "halvran"
+    female = yes
+    dynasty = ORTHD6 #OrthDyn6
+    father = ORTH_221 #Wulfsige92
+    mother = ORTH_150 #Aethelgifu126
+    574.1.1 = {
+        birth = yes
+    }
+}
+
+ORTH_205 = {
+    name = "Frithuswith263"
+    culture = "orthanian"
+    faith = "halvran"
+    female = yes
+    dynasty = ORTHD6 #OrthDyn6
+    father = ORTH_202 #Edward93
+    mother = ORTH_171 #Mildrith87
+    577.1.1 = {
+        birth = yes
+    }
+}
+
+ORTH_206 = {
+    name = "Hilda95"
+    culture = "orthanian"
+    faith = "halvran"
+    female = yes
+    dynasty = ORTHD6 #OrthDyn6
+    father = ORTH_201 #Edward28
+    mother = ORTH_127 #Eanflaed19
+    551.1.1 = {
+        birth = yes
+    }
+    571.1.1 = {
+        add_spouse = ORTH_223 #Aelfric99
+    }
+}
+
+ORTH_207 = {
+    name = "Leofric254"
+    culture = "orthanian"
+    faith = "halvran"
+    dynasty = ORTHD6 #OrthDyn6
+    father = ORTH_220 #Wulfric91
+    mother = ORTH_122 #Burgflæd75
+    582.1.1 = {
+        birth = yes
+    }
+}
+
+ORTH_208 = {
+    name = "Leofwine257"
+    culture = "orthanian"
+    faith = "halvran"
+    dynasty = ORTHD6 #OrthDyn6
+    father = ORTH_221 #Wulfsige92
+    mother = ORTH_150 #Aethelgifu126
+    577.1.1 = {
+        birth = yes
+    }
+}
+
+ORTH_209 = {
+    name = "Osgyth260"
+    culture = "orthanian"
+    faith = "halvran"
+    female = yes
+    dynasty = ORTHD6 #OrthDyn6
+    father = ORTH_221 #Wulfsige92
+    mother = ORTH_150 #Aethelgifu126
+    582.1.1 = {
+        birth = yes
+    }
+}
+
+ORTH_21 = {
+    name = "Eldgyth128"
+    culture = "orthanian"
+    faith = "halvran"
+    female = yes
+    dynasty = ORTHD1 #OrthDyn1
+    father = ORTH_38 #Wulfgar46
+    mother = ORTH_50 #Cuthburg56
+    570.1.1 = {
+        birth = yes
+    }
+    586.1.1 = {
+        add_spouse = ORTH_316 #Wulfsige306
+    }
+}
+
+ORTH_210 = {
+    name = "Osgyth264"
+    culture = "orthanian"
+    faith = "halvran"
+    female = yes
+    dynasty = ORTHD6 #OrthDyn6
+    father = ORTH_202 #Edward93
+    mother = ORTH_171 #Mildrith87
+    579.1.1 = {
+        birth = yes
+    }
+}
+
+ORTH_211 = {
+    name = "Osric261"
+    culture = "orthanian"
+    faith = "halvran"
+    dynasty = ORTHD6 #OrthDyn6
+    father = ORTH_202 #Edward93
+    mother = ORTH_171 #Mildrith87
+    573.1.1 = {
+        birth = yes
+    }
+}
+
+ORTH_212 = {
+    name = "Sigeric249"
+    culture = "orthanian"
+    faith = "halvran"
+    dynasty = ORTHD6 #OrthDyn6
+    father = ORTH_213 #Sigeric94
+    mother = ORTH_118 #Aelfwyn77
+    582.1.1 = {
+        birth = yes
+    }
+}
+
+ORTH_213 = {
+    name = "Sigeric94"
+    culture = "orthanian"
+    faith = "halvran"
+    dynasty = ORTHD6 #OrthDyn6
+    father = ORTH_201 #Edward28
+    mother = ORTH_127 #Eanflaed19
+    550.1.1 = {
+        birth = yes
+    }
+    578.1.1 = {
+        add_spouse = ORTH_118 #Aelfwyn77
+    }
+}
+
+ORTH_214 = {
+    name = "Sigrid90"
+    culture = "orthanian"
+    faith = "halvran"
+    female = yes
+    dynasty = ORTHD6 #OrthDyn6
+    father = ORTH_215 #Styrbjorn27
+    mother = ORTH_86 #Eadgifu14
+    550.1.1 = {
+        birth = yes
+    }
+    576.1.1 = {
+        add_spouse = ORTH_99 #Oswine64
+    }
+}
+
+ORTH_215 = {
+    name = "Styrbjorn27"
+    culture = "orthanian"
+    faith = "halvran"
+    dynasty = ORTHD6 #OrthDyn6
+    father = ORTH_218 #Wihtræd26
+    520.1.1 = {
+        birth = yes
+    }
+    540.1.1 = {
+        add_spouse = ORTH_86 #Eadgifu14
+    }
+    577.1.1 = {
+        death = yes
+    }
+}
+
+ORTH_216 = {
+    name = "Swanhild251"
+    culture = "orthanian"
+    faith = "halvran"
+    female = yes
+    dynasty = ORTHD6 #OrthDyn6
+    father = ORTH_220 #Wulfric91
+    mother = ORTH_122 #Burgflæd75
+    578.1.1 = {
+        birth = yes
+    }
+}
+
+ORTH_217 = {
+    name = "Wihtræd253"
+    culture = "orthanian"
+    faith = "halvran"
+    dynasty = ORTHD6 #OrthDyn6
+    father = ORTH_220 #Wulfric91
+    mother = ORTH_122 #Burgflæd75
+    580.1.1 = {
+        birth = yes
+    }
+}
+
+ORTH_218 = {
+    name = "Wihtræd26"
+    culture = "orthanian"
+    faith = "halvran"
+    dynasty = ORTHD6 #OrthDyn6
+    485.1.1 = {
+        birth = yes
+    }
+    555.1.1 = {
+        death = yes
+    }
+}
+
+ORTH_219 = {
+    name = "Wulfflaed247"
+    culture = "orthanian"
+    faith = "halvran"
+    female = yes
+    dynasty = ORTHD6 #OrthDyn6
+    father = ORTH_213 #Sigeric94
+    mother = ORTH_118 #Aelfwyn77
+    579.1.1 = {
+        birth = yes
+    }
+}
+
+ORTH_22 = {
+    name = "Guthlac130"
+    culture = "orthanian"
+    faith = "halvran"
+    dynasty = ORTHD1 #OrthDyn1
+    father = ORTH_38 #Wulfgar46
+    mother = ORTH_50 #Cuthburg56
+    573.1.1 = {
+        birth = yes
+    }
+}
+
+ORTH_220 = {
+    name = "Wulfric91"
+    culture = "orthanian"
+    faith = "halvran"
+    dynasty = ORTHD6 #OrthDyn6
+    father = ORTH_215 #Styrbjorn27
+    mother = ORTH_86 #Eadgifu14
+    551.1.1 = {
+        birth = yes
+    }
+    577.1.1 = {
+        add_spouse = ORTH_122 #Burgflæd75
+    }
+}
+
+ORTH_221 = {
+    name = "Wulfsige92"
+    culture = "orthanian"
+    faith = "halvran"
+    dynasty = ORTHD6 #OrthDyn6
+    father = ORTH_215 #Styrbjorn27
+    mother = ORTH_86 #Eadgifu14
+    552.1.1 = {
+        birth = yes
+    }
+    573.1.1 = {
+        add_spouse = ORTH_150 #Aethelgifu126
+    }
+}
+
+ORTH_222 = {
+    name = "Aelfgifu103"
+    culture = "orthanian"
+    faith = "halvran"
+    female = yes
+    dynasty = ORTHD7 #OrthDyn7
+    father = ORTH_242 #Guthlac33
+    mother = ORTH_192 #Aelfgifu29
+    550.1.1 = {
+        birth = yes
+    }
+    577.1.1 = {
+        add_spouse = ORTH_289 #Wulfgar112
+    }
+}
+
+ORTH_223 = {
+    name = "Aelfric99"
+    culture = "orthanian"
+    faith = "halvran"
+    dynasty = ORTHD7 #OrthDyn7
+    father = ORTH_245 #Oswald32
+    mother = ORTH_167 #Hild24
+    552.1.1 = {
+        birth = yes
+    }
+    571.1.1 = {
+        add_spouse = ORTH_206 #Hilda95
+    }
+}
+
+ORTH_224 = {
+    name = "Aelswith105"
+    culture = "orthanian"
+    faith = "halvran"
+    female = yes
+    dynasty = ORTHD7 #OrthDyn7
+    father = ORTH_242 #Guthlac33
+    mother = ORTH_192 #Aelfgifu29
+    552.1.1 = {
+        birth = yes
+    }
+    569.1.1 = {
+        add_spouse = ORTH_271 #Edward114
+    }
+}
+
+ORTH_225 = {
+    name = "Aelswith34"
+    culture = "orthanian"
+    faith = "halvran"
+    female = yes
+    dynasty = ORTHD7 #OrthDyn7
+    father = ORTH_234 #Eadric31
+    527.1.1 = {
+        birth = yes
+    }
+    550.1.1 = {
+        add_spouse = ORTH_277 #Hrothgar37
+    }
+    583.1.1 = {
+        death = yes
+    }
+}
+
+ORTH_226 = {
+    name = "Beorhtgifu98"
+    culture = "orthanian"
+    faith = "halvran"
+    female = yes
+    dynasty = ORTHD7 #OrthDyn7
+    father = ORTH_245 #Oswald32
+    mother = ORTH_167 #Hild24
+    550.1.1 = {
+        birth = yes
+    }
+    576.1.1 = {
+        add_spouse = ORTH_107 #Theodred70
+    }
+}
+
+ORTH_227 = {
+    name = "Brihtwyn271"
+    culture = "orthanian"
+    faith = "halvran"
+    female = yes
+    dynasty = ORTHD7 #OrthDyn7
+    father = ORTH_241 #Guthlac100
+    mother = ORTH_200 #Eanswith97
+    578.1.1 = {
+        birth = yes
+    }
+}
+
+ORTH_228 = {
+    name = "Cuthbert106"
+    culture = "orthanian"
+    faith = "halvran"
+    dynasty = ORTHD7 #OrthDyn7
+    father = ORTH_242 #Guthlac33
+    mother = ORTH_192 #Aelfgifu29
+    554.1.1 = {
+        birth = yes
+    }
+    572.1.1 = {
+        add_spouse = ORTH_282 #Siflaed107
+    }
+}
+
+ORTH_229 = {
+    name = "Cuthburg101"
+    culture = "orthanian"
+    faith = "halvran"
+    female = yes
+    dynasty = ORTHD7 #OrthDyn7
+    father = ORTH_245 #Oswald32
+    mother = ORTH_167 #Hild24
+    555.1.1 = {
+        birth = yes
+    }
+    568.1.1 = {
+        add_spouse = ORTH_109 #Wilfrid67
+    }
+}
+
+ORTH_23 = {
+    name = "Guthlac140"
+    culture = "orthanian"
+    faith = "halvran"
+    dynasty = ORTHD1 #OrthDyn1
+    father = ORTH_12 #Cuthbert53
+    mother = ORTH_68 #Swanhild57
+    576.1.1 = {
+        birth = yes
+    }
+}
+
+ORTH_230 = {
+    name = "Cwenhild104"
+    culture = "orthanian"
+    faith = "halvran"
+    female = yes
+    dynasty = ORTHD7 #OrthDyn7
+    father = ORTH_242 #Guthlac33
+    mother = ORTH_192 #Aelfgifu29
+    551.1.1 = {
+        birth = yes
+    }
+    573.1.1 = {
+        add_spouse = ORTH_113 #Wulfric66
+    }
+}
+
+ORTH_231 = {
+    name = "Cwenhild266"
+    culture = "orthanian"
+    faith = "halvran"
+    female = yes
+    dynasty = ORTHD7 #OrthDyn7
+    father = ORTH_223 #Aelfric99
+    mother = ORTH_206 #Hilda95
+    574.1.1 = {
+        birth = yes
+    }
+}
+
+ORTH_232 = {
+    name = "Eadgifu279"
+    culture = "orthanian"
+    faith = "halvran"
+    female = yes
+    dynasty = ORTHD7 #OrthDyn7
+    father = ORTH_249 #Wulfgar102
+    mother = ORTH_253 #Aethelgifu113
+    572.1.1 = {
+        birth = yes
+    }
+}
+
+ORTH_233 = {
+    name = "Eadgyth267"
+    culture = "orthanian"
+    faith = "halvran"
+    female = yes
+    dynasty = ORTHD7 #OrthDyn7
+    father = ORTH_223 #Aelfric99
+    mother = ORTH_206 #Hilda95
+    575.1.1 = {
+        birth = yes
+    }
+}
+
+ORTH_234 = {
+    name = "Eadric31"
+    culture = "orthanian"
+    faith = "halvran"
+    dynasty = ORTHD7 #OrthDyn7
+    486.1.1 = {
+        birth = yes
+    }
+    561.1.1 = {
+        death = yes
+    }
+}
+
+ORTH_235 = {
+    name = "Eadwig274"
+    culture = "orthanian"
+    faith = "halvran"
+    dynasty = ORTHD7 #OrthDyn7
+    father = ORTH_241 #Guthlac100
+    mother = ORTH_200 #Eanswith97
+    581.1.1 = {
+        birth = yes
+    }
+}
+
+ORTH_236 = {
+    name = "Ealhswith270"
+    culture = "orthanian"
+    faith = "halvran"
+    female = yes
+    dynasty = ORTHD7 #OrthDyn7
+    father = ORTH_241 #Guthlac100
+    mother = ORTH_200 #Eanswith97
+    576.1.1 = {
+        birth = yes
+    }
+}
+
+ORTH_237 = {
+    name = "Eanflaed272"
+    culture = "orthanian"
+    faith = "halvran"
+    female = yes
+    dynasty = ORTHD7 #OrthDyn7
+    father = ORTH_241 #Guthlac100
+    mother = ORTH_200 #Eanswith97
+    579.1.1 = {
+        birth = yes
+    }
+}
+
+ORTH_238 = {
+    name = "Edith277"
+    culture = "orthanian"
+    faith = "halvran"
+    female = yes
+    dynasty = ORTHD7 #OrthDyn7
+    father = ORTH_228 #Cuthbert106
+    mother = ORTH_282 #Siflaed107
+    576.1.1 = {
+        birth = yes
+    }
+}
+
+ORTH_239 = {
+    name = "Eormenric273"
+    culture = "orthanian"
+    faith = "halvran"
+    dynasty = ORTHD7 #OrthDyn7
+    father = ORTH_241 #Guthlac100
+    mother = ORTH_200 #Eanswith97
+    580.1.1 = {
+        birth = yes
+    }
+}
+
+ORTH_24 = {
+    name = "Leofric52"
+    culture = "orthanian"
+    faith = "halvran"
+    dynasty = ORTHD1 #OrthDyn1
+    father = ORTH_6 #Aethelwulf3
+    mother = ORTH_72 #Wynflaed10
+    550.1.1 = {
+        birth = yes
+    }
+    574.1.1 = {
+        add_spouse = ORTH_63 #Osgyth60
+    }
+}
+
+ORTH_240 = {
+    name = "Godgifu281"
+    culture = "orthanian"
+    faith = "halvran"
+    female = yes
+    dynasty = ORTHD7 #OrthDyn7
+    father = ORTH_249 #Wulfgar102
+    mother = ORTH_253 #Aethelgifu113
+    575.1.1 = {
+        birth = yes
+    }
+}
+
+ORTH_241 = {
+    name = "Guthlac100"
+    culture = "orthanian"
+    faith = "halvran"
+    dynasty = ORTHD7 #OrthDyn7
+    father = ORTH_245 #Oswald32
+    mother = ORTH_167 #Hild24
+    554.1.1 = {
+        birth = yes
+    }
+    575.1.1 = {
+        add_spouse = ORTH_200 #Eanswith97
+    }
+}
+
+ORTH_242 = {
+    name = "Guthlac33"
+    culture = "orthanian"
+    faith = "halvran"
+    dynasty = ORTHD7 #OrthDyn7
+    father = ORTH_234 #Eadric31
+    524.1.1 = {
+        birth = yes
+    }
+    543.1.1 = {
+        add_spouse = ORTH_192 #Aelfgifu29
+    }
+    576.1.1 = {
+        death = yes
+    }
+}
+
+ORTH_243 = {
+    name = "Leofgifu269"
+    culture = "orthanian"
+    faith = "halvran"
+    female = yes
+    dynasty = ORTHD7 #OrthDyn7
+    father = ORTH_223 #Aelfric99
+    mother = ORTH_206 #Hilda95
+    579.1.1 = {
+        birth = yes
+    }
+}
+
+ORTH_244 = {
+    name = "Mildrith268"
+    culture = "orthanian"
+    faith = "halvran"
+    female = yes
+    dynasty = ORTHD7 #OrthDyn7
+    father = ORTH_223 #Aelfric99
+    mother = ORTH_206 #Hilda95
+    577.1.1 = {
+        birth = yes
+    }
+}
+
+ORTH_245 = {
+    name = "Oswald32"
+    culture = "orthanian"
+    faith = "halvran"
+    dynasty = ORTHD7 #OrthDyn7
+    father = ORTH_234 #Eadric31
+    521.1.1 = {
+        birth = yes
+    }
+    542.1.1 = {
+        add_spouse = ORTH_167 #Hild24
+    }
+}
+
+ORTH_246 = {
+    name = "Sigrun280"
+    culture = "orthanian"
+    faith = "halvran"
+    female = yes
+    dynasty = ORTHD7 #OrthDyn7
+    father = ORTH_249 #Wulfgar102
+    mother = ORTH_253 #Aethelgifu113
+    574.1.1 = {
+        birth = yes
+    }
+}
+
+ORTH_247 = {
+    name = "Styrbjorn265"
+    culture = "orthanian"
+    faith = "halvran"
+    dynasty = ORTHD7 #OrthDyn7
+    father = ORTH_223 #Aelfric99
+    mother = ORTH_206 #Hilda95
+    572.1.1 = {
+        birth = yes
+    }
+}
+
+ORTH_248 = {
+    name = "Wulfflaed35"
+    culture = "orthanian"
+    faith = "halvran"
+    female = yes
+    dynasty = ORTHD7 #OrthDyn7
+    father = ORTH_234 #Eadric31
+    530.1.1 = {
+        birth = yes
+    }
+    540.1.1 = {
+        add_spouse = ORTH_125 #Cynewulf17
+    }
+    568.1.1 = {
+        death = yes
+    }
+}
+
+ORTH_249 = {
+    name = "Wulfgar102"
+    culture = "orthanian"
+    faith = "halvran"
+    dynasty = ORTHD7 #OrthDyn7
+    father = ORTH_245 #Oswald32
+    mother = ORTH_167 #Hild24
+    557.1.1 = {
+        birth = yes
+    }
+    570.1.1 = {
+        add_spouse = ORTH_253 #Aethelgifu113
+    }
+}
+
+ORTH_25 = {
+    name = "Leofwine2"
+    culture = "orthanian"
+    faith = "halvran"
+    dynasty = ORTHD1 #OrthDyn1
+    father = ORTH_39 #Wulfsige1
+    515.1.1 = {
+        birth = yes
+    }
+    548.1.1 = {
+        add_spouse = ORTH_60 #Ethelwyn9
+    }
+    573.1.1 = {
+        death = yes
+    }
+}
+
+ORTH_250 = {
+    name = "Wulfgifu276"
+    culture = "orthanian"
+    faith = "halvran"
+    female = yes
+    dynasty = ORTHD7 #OrthDyn7
+    father = ORTH_228 #Cuthbert106
+    mother = ORTH_282 #Siflaed107
+    574.1.1 = {
+        birth = yes
+    }
+}
+
+ORTH_251 = {
+    name = "Wulfric278"
+    culture = "orthanian"
+    faith = "halvran"
+    dynasty = ORTHD7 #OrthDyn7
+    father = ORTH_249 #Wulfgar102
+    mother = ORTH_253 #Aethelgifu113
+    571.1.1 = {
+        birth = yes
+    }
+    586.1.1 = {
+        add_spouse = ORTH_128 #Eanflaed205
+    }
+}
+
+ORTH_252 = {
+    name = "Wulfsige275"
+    culture = "orthanian"
+    faith = "halvran"
+    dynasty = ORTHD7 #OrthDyn7
+    father = ORTH_228 #Cuthbert106
+    mother = ORTH_282 #Siflaed107
+    573.1.1 = {
+        birth = yes
+    }
+}
+
+ORTH_253 = {
+    name = "Aethelgifu113"
+    culture = "orthanian"
+    faith = "halvran"
+    female = yes
+    dynasty = ORTHD8 #OrthDyn8
+    father = ORTH_274 #Eormenric38
+    mother = ORTH_299 #Ethelwyn44
+    552.1.1 = {
+        birth = yes
+    }
+    570.1.1 = {
+        add_spouse = ORTH_249 #Wulfgar102
+    }
+}
+
+ORTH_254 = {
+    name = "Aethelgifu284"
+    culture = "orthanian"
+    faith = "halvran"
+    female = yes
+    dynasty = ORTHD8 #OrthDyn8
+    father = ORTH_289 #Wulfgar112
+    mother = ORTH_222 #Aelfgifu103
+    580.1.1 = {
+        birth = yes
+    }
+}
+
+ORTH_255 = {
+    name = "Aethelgifu296"
+    culture = "orthanian"
+    faith = "halvran"
+    female = yes
+    dynasty = ORTHD8 #OrthDyn8
+    father = ORTH_278 #Leofwine110
+    mother = ORTH_308 #Swanhild122
+    578.1.1 = {
+        birth = yes
+    }
+}
+
+ORTH_256 = {
+    name = "Aethelstan301"
+    culture = "orthanian"
+    faith = "halvran"
+    dynasty = ORTHD8 #OrthDyn8
+    father = ORTH_280 #Osric116
+    mother = ORTH_314 #Wulfhild125
+    572.1.1 = {
+        birth = yes
+    }
+}
+
+ORTH_257 = {
+    name = "Aethelthryth109"
+    culture = "orthanian"
+    faith = "halvran"
+    female = yes
+    dynasty = ORTHD8 #OrthDyn8
+    father = ORTH_277 #Hrothgar37
+    mother = ORTH_225 #Aelswith34
+    553.1.1 = {
+        birth = yes
+    }
+    570.1.1 = {
+        add_spouse = ORTH_144 #Wynstan78
+    }
+}
+
+ORTH_258 = {
+    name = "Aethelthryth302"
+    culture = "orthanian"
+    faith = "halvran"
+    female = yes
+    dynasty = ORTHD8 #OrthDyn8
+    father = ORTH_280 #Osric116
+    mother = ORTH_314 #Wulfhild125
+    574.1.1 = {
+        birth = yes
+    }
+}
+
+ORTH_259 = {
+    name = "Brihtnoth303"
+    culture = "orthanian"
+    faith = "halvran"
+    dynasty = ORTHD8 #OrthDyn8
+    father = ORTH_280 #Osric116
+    mother = ORTH_314 #Wulfhild125
+    575.1.1 = {
+        birth = yes
+    }
+}
+
+ORTH_26 = {
+    name = "Mildrith153"
+    culture = "orthanian"
+    faith = "halvran"
+    female = yes
+    dynasty = ORTHD1 #OrthDyn1
+    father = ORTH_40 #Wulfsige51
+    mother = ORTH_140 #Sigrun127
+    572.1.1 = {
+        birth = yes
+    }
+}
+
+ORTH_260 = {
+    name = "Cuthbert115"
+    culture = "orthanian"
+    faith = "halvran"
+    dynasty = ORTHD8 #OrthDyn8
+    father = ORTH_274 #Eormenric38
+    mother = ORTH_299 #Ethelwyn44
+    554.1.1 = {
+        birth = yes
+    }
+    574.1.1 = {
+        add_spouse = ORTH_296 #Edith120
+    }
+}
+
+ORTH_261 = {
+    name = "Cuthburg108"
+    culture = "orthanian"
+    faith = "halvran"
+    female = yes
+    dynasty = ORTHD8 #OrthDyn8
+    father = ORTH_277 #Hrothgar37
+    mother = ORTH_225 #Aelswith34
+    552.1.1 = {
+        birth = yes
+    }
+    569.1.1 = {
+        add_spouse = ORTH_80 #Aethelwulf68
+    }
+}
+
+ORTH_262 = {
+    name = "Eadgifu40"
+    culture = "orthanian"
+    faith = "halvran"
+    female = yes
+    dynasty = ORTHD8 #OrthDyn8
+    father = ORTH_281 #Osric36
+    524.1.1 = {
+        birth = yes
+    }
+    535.1.1 = {
+        add_spouse = ORTH_141 #Wulfgar18
+    }
+    580.1.1 = {
+        death = yes
+    }
+}
+
+ORTH_263 = {
+    name = "Eadric291"
+    culture = "orthanian"
+    faith = "halvran"
+    dynasty = ORTHD8 #OrthDyn8
+    father = ORTH_260 #Cuthbert115
+    mother = ORTH_296 #Edith120
+    576.1.1 = {
+        birth = yes
+    }
+}
+
+ORTH_264 = {
+    name = "Eadwig287"
+    culture = "orthanian"
+    faith = "halvran"
+    dynasty = ORTHD8 #OrthDyn8
+    father = ORTH_271 #Edward114
+    mother = ORTH_224 #Aelswith105
+    571.1.1 = {
+        birth = yes
+    }
+    586.1.1 = {
+        add_spouse = ORTH_300 #Hild304
+    }
+}
+
+ORTH_265 = {
+    name = "Eadwig293"
+    culture = "orthanian"
+    faith = "halvran"
+    dynasty = ORTHD8 #OrthDyn8
+    father = ORTH_260 #Cuthbert115
+    mother = ORTH_296 #Edith120
+    580.1.1 = {
+        birth = yes
+    }
+}
+
+ORTH_266 = {
+    name = "Ealdred298"
+    culture = "orthanian"
+    faith = "halvran"
+    dynasty = ORTHD8 #OrthDyn8
+    father = ORTH_278 #Leofwine110
+    mother = ORTH_308 #Swanhild122
+    580.1.1 = {
+        birth = yes
+    }
+}
+
+ORTH_267 = {
+    name = "Ealhswith300"
+    culture = "orthanian"
+    faith = "halvran"
+    female = yes
+    dynasty = ORTHD8 #OrthDyn8
+    father = ORTH_280 #Osric116
+    mother = ORTH_314 #Wulfhild125
+    571.1.1 = {
+        birth = yes
+    }
+    586.1.1 = {
+        add_spouse = ORTH_138 #Osric200
+    }
+}
+
+ORTH_268 = {
+    name = "Ecgberht285"
+    culture = "orthanian"
+    faith = "halvran"
+    dynasty = ORTHD8 #OrthDyn8
+    father = ORTH_289 #Wulfgar112
+    mother = ORTH_222 #Aelfgifu103
+    582.1.1 = {
+        birth = yes
+    }
+}
+
+ORTH_269 = {
+    name = "Edmund294"
+    culture = "orthanian"
+    faith = "halvran"
+    dynasty = ORTHD8 #OrthDyn8
+    father = ORTH_278 #Leofwine110
+    mother = ORTH_308 #Swanhild122
+    574.1.1 = {
+        birth = yes
+    }
+}
+
+ORTH_27 = {
+    name = "Mildrith5"
+    culture = "orthanian"
+    faith = "halvran"
+    female = yes
+    dynasty = ORTHD1 #OrthDyn1
+    father = ORTH_39 #Wulfsige1
+    524.1.1 = {
+        birth = yes
+    }
+    546.1.1 = {
+        add_spouse = ORTH_181 #Styrbjorn23
+    }
+    582.1.1 = {
+        death = yes
+    }
+}
+
+ORTH_270 = {
+    name = "Edmund297"
+    culture = "orthanian"
+    faith = "halvran"
+    dynasty = ORTHD8 #OrthDyn8
+    father = ORTH_278 #Leofwine110
+    mother = ORTH_308 #Swanhild122
+    579.1.1 = {
+        birth = yes
+    }
+}
+
+ORTH_271 = {
+    name = "Edward114"
+    culture = "orthanian"
+    faith = "halvran"
+    dynasty = ORTHD8 #OrthDyn8
+    father = ORTH_274 #Eormenric38
+    mother = ORTH_299 #Ethelwyn44
+    553.1.1 = {
+        birth = yes
+    }
+    569.1.1 = {
+        add_spouse = ORTH_224 #Aelswith105
+    }
+}
+
+ORTH_272 = {
+    name = "Eoforwine286"
+    culture = "orthanian"
+    faith = "halvran"
+    dynasty = ORTHD8 #OrthDyn8
+    father = ORTH_271 #Edward114
+    mother = ORTH_224 #Aelswith105
+    570.1.1 = {
+        birth = yes
+    }
+    586.1.1 = {
+        add_spouse = ORTH_190 #Wynflæd232
+    }
+}
+
+ORTH_273 = {
+    name = "Eormenhild289"
+    culture = "orthanian"
+    faith = "halvran"
+    female = yes
+    dynasty = ORTHD8 #OrthDyn8
+    father = ORTH_271 #Edward114
+    mother = ORTH_224 #Aelswith105
+    575.1.1 = {
+        birth = yes
+    }
+}
+
+ORTH_274 = {
+    name = "Eormenric38"
+    culture = "orthanian"
+    faith = "halvran"
+    dynasty = ORTHD8 #OrthDyn8
+    father = ORTH_281 #Osric36
+    518.1.1 = {
+        birth = yes
+    }
+    539.1.1 = {
+        add_spouse = ORTH_299 #Ethelwyn44
+    }
+    577.1.1 = {
+        death = yes
+    }
+}
+
+ORTH_275 = {
+    name = "Frithuswith111"
+    culture = "orthanian"
+    faith = "halvran"
+    female = yes
+    dynasty = ORTHD8 #OrthDyn8
+    father = ORTH_277 #Hrothgar37
+    mother = ORTH_225 #Aelswith34
+    556.1.1 = {
+        birth = yes
+    }
+    568.1.1 = {
+        add_spouse = ORTH_297 #Edward124
+    }
+}
+
+ORTH_276 = {
+    name = "Frithuswith290"
+    culture = "orthanian"
+    faith = "halvran"
+    female = yes
+    dynasty = ORTHD8 #OrthDyn8
+    father = ORTH_260 #Cuthbert115
+    mother = ORTH_296 #Edith120
+    575.1.1 = {
+        birth = yes
+    }
+}
+
+ORTH_277 = {
+    name = "Hrothgar37"
+    culture = "orthanian"
+    faith = "halvran"
+    dynasty = ORTHD8 #OrthDyn8
+    father = ORTH_281 #Osric36
+    515.1.1 = {
+        birth = yes
+    }
+    550.1.1 = {
+        add_spouse = ORTH_225 #Aelswith34
+    }
+    577.1.1 = {
+        death = yes
+    }
+}
+
+ORTH_278 = {
+    name = "Leofwine110"
+    culture = "orthanian"
+    faith = "halvran"
+    dynasty = ORTHD8 #OrthDyn8
+    diplomacy = 5
+    martial = 12
+    stewardship = 7
+    intrigue = 7
+    learning = 8
+    prowess = 12
+    trait = education_martial_4
+    trait = brave
+    trait = wrathful
+    trait = sadistic
+    trait = aggressive_attacker
+    father = ORTH_277 #Hrothgar37
+    mother = ORTH_225 #Aelswith34
+    555.1.1 = {
+        birth = yes
+    }
+    573.1.1 = {
+        add_spouse = ORTH_308 #Swanhild122
+    }
+}
+
+ORTH_279 = {
+    name = "Mildrith288"
+    culture = "orthanian"
+    faith = "halvran"
+    female = yes
+    dynasty = ORTHD8 #OrthDyn8
+    father = ORTH_271 #Edward114
+    mother = ORTH_224 #Aelswith105
+    573.1.1 = {
+        birth = yes
+    }
+}
+
+ORTH_28 = {
+    name = "Osburh49"
+    culture = "orthanian"
+    faith = "halvran"
+    female = yes
+    dynasty = ORTHD1 #OrthDyn1
+    father = ORTH_25 #Leofwine2
+    mother = ORTH_60 #Ethelwyn9
+    553.1.1 = {
+        birth = yes
+    }
+    575.1.1 = {
+        add_spouse = ORTH_189 #Wulfstan89
+    }
+}
+
+ORTH_280 = {
+    name = "Osric116"
+    culture = "orthanian"
+    faith = "halvran"
+    dynasty = ORTHD8 #OrthDyn8
+    father = ORTH_274 #Eormenric38
+    mother = ORTH_299 #Ethelwyn44
+    556.1.1 = {
+        birth = yes
+    }
+    568.1.1 = {
+        add_spouse = ORTH_314 #Wulfhild125
+    }
+}
+
+ORTH_281 = {
+    name = "Osric36"
+    culture = "orthanian"
+    faith = "halvran"
+    dynasty = ORTHD8 #OrthDyn8
+    487.1.1 = {
+        birth = yes
+    }
+    557.1.1 = {
+        death = yes
+    }
+}
+
+ORTH_282 = {
+    name = "Siflaed107"
+    culture = "orthanian"
+    faith = "halvran"
+    female = yes
+    dynasty = ORTHD8 #OrthDyn8
+    father = ORTH_277 #Hrothgar37
+    mother = ORTH_225 #Aelswith34
+    551.1.1 = {
+        birth = yes
+    }
+    572.1.1 = {
+        add_spouse = ORTH_228 #Cuthbert106
+    }
+}
+
+ORTH_283 = {
+    name = "Siflaed299"
+    culture = "orthanian"
+    faith = "halvran"
+    female = yes
+    dynasty = ORTHD8 #OrthDyn8
+    father = ORTH_280 #Osric116
+    mother = ORTH_314 #Wulfhild125
+    569.1.1 = {
+        birth = yes
+    }
+    586.1.1 = {
+        add_spouse = ORTH_294 #Beornwulf315
+    }
+}
+
+ORTH_284 = {
+    name = "Sigeweard282"
+    culture = "orthanian"
+    faith = "halvran"
+    dynasty = ORTHD8 #OrthDyn8
+    father = ORTH_289 #Wulfgar112
+    mother = ORTH_222 #Aelfgifu103
+    578.1.1 = {
+        birth = yes
+    }
+}
+
+ORTH_285 = {
+    name = "Sigrid283"
+    culture = "orthanian"
+    faith = "halvran"
+    female = yes
+    dynasty = ORTHD8 #OrthDyn8
+    father = ORTH_289 #Wulfgar112
+    mother = ORTH_222 #Aelfgifu103
+    579.1.1 = {
+        birth = yes
+    }
+}
+
+ORTH_286 = {
+    name = "Swanhild292"
+    culture = "orthanian"
+    faith = "halvran"
+    female = yes
+    dynasty = ORTHD8 #OrthDyn8
+    father = ORTH_260 #Cuthbert115
+    mother = ORTH_296 #Edith120
+    578.1.1 = {
+        birth = yes
+    }
+}
+
+ORTH_287 = {
+    name = "Thryth39"
+    culture = "orthanian"
+    faith = "halvran"
+    female = yes
+    dynasty = ORTHD8 #OrthDyn8
+    father = ORTH_281 #Osric36
+    521.1.1 = {
+        birth = yes
+    }
+    550.1.1 = {
+        add_spouse = ORTH_290 #Aelfred43
+    }
+    569.1.1 = {
+        death = yes
+    }
+}
+
+ORTH_288 = {
+    name = "Wiglaf295"
+    culture = "orthanian"
+    faith = "halvran"
+    dynasty = ORTHD8 #OrthDyn8
+    father = ORTH_278 #Leofwine110
+    mother = ORTH_308 #Swanhild122
+    576.1.1 = {
+        birth = yes
+    }
+}
+
+ORTH_289 = {
+    name = "Wulfgar112"
+    culture = "orthanian"
+    faith = "halvran"
+    dynasty = ORTHD8 #OrthDyn8
+    father = ORTH_274 #Eormenric38
+    mother = ORTH_299 #Ethelwyn44
+    550.1.1 = {
+        birth = yes
+    }
+    577.1.1 = {
+        add_spouse = ORTH_222 #Aelfgifu103
+    }
+}
+
+ORTH_29 = {
+    name = "Oswald55"
+    culture = "orthanian"
+    faith = "halvran"
+    dynasty = ORTHD1 #OrthDyn1
+    father = ORTH_6 #Aethelwulf3
+    mother = ORTH_72 #Wynflaed10
+    553.1.1 = {
+        birth = yes
+    }
+    574.1.1 = {
+        add_spouse = ORTH_83 #Cwenhild71
+    }
+}
+
+ORTH_290 = {
+    name = "Aelfred43"
+    culture = "orthanian"
+    faith = "halvran"
+    dynasty = ORTHD9 #OrthDyn9
+    father = ORTH_312 #Wihtræd41
+    519.1.1 = {
+        birth = yes
+    }
+    550.1.1 = {
+        add_spouse = ORTH_287 #Thryth39
+    }
+    569.1.1 = {
+        death = yes
+    }
+}
+
+ORTH_291 = {
+    name = "Aethelflaed117"
+    culture = "orthanian"
+    faith = "halvran"
+    female = yes
+    dynasty = ORTHD9 #OrthDyn9
+    father = ORTH_307 #Sigeweard42
+    mother = ORTH_20 #Eanflaed4
+    550.1.1 = {
+        birth = yes
+    }
+    567.1.1 = {
+        add_spouse = ORTH_129 #Ecgberht79
+    }
+}
+
+ORTH_292 = {
+    name = "Aethelstan309"
+    culture = "orthanian"
+    faith = "halvran"
+    dynasty = ORTHD9 #OrthDyn9
+    father = ORTH_303 #Leofwine121
+    mother = ORTH_34 #Sigrun50
+    580.1.1 = {
+        birth = yes
+    }
+}
+
+ORTH_293 = {
+    name = "Beorhtflaed118"
+    culture = "orthanian"
+    faith = "halvran"
+    female = yes
+    dynasty = ORTHD9 #OrthDyn9
+    father = ORTH_307 #Sigeweard42
+    mother = ORTH_20 #Eanflaed4
+    552.1.1 = {
+        birth = yes
+    }
+    576.1.1 = {
+        add_spouse = ORTH_136 #Hrothgar80
+    }
+}
+
+ORTH_294 = {
+    name = "Beornwulf315"
+    culture = "orthanian"
+    faith = "halvran"
+    dynasty = ORTHD9 #OrthDyn9
+    father = ORTH_297 #Edward124
+    mother = ORTH_275 #Frithuswith111
+    571.1.1 = {
+        birth = yes
+    }
+    586.1.1 = {
+        add_spouse = ORTH_283 #Siflaed299
+    }
+}
+
+ORTH_295 = {
+    name = "Burgflæd308"
+    culture = "orthanian"
+    faith = "halvran"
+    female = yes
+    dynasty = ORTHD9 #OrthDyn9
+    father = ORTH_303 #Leofwine121
+    mother = ORTH_34 #Sigrun50
+    578.1.1 = {
+        birth = yes
+    }
+}
+
+ORTH_296 = {
+    name = "Edith120"
+    culture = "orthanian"
+    faith = "halvran"
+    female = yes
+    dynasty = ORTHD9 #OrthDyn9
+    father = ORTH_290 #Aelfred43
+    mother = ORTH_287 #Thryth39
+    551.1.1 = {
+        birth = yes
+    }
+    574.1.1 = {
+        add_spouse = ORTH_260 #Cuthbert115
+    }
+}
+
+ORTH_297 = {
+    name = "Edward124"
+    culture = "orthanian"
+    faith = "halvran"
+    dynasty = ORTHD9 #OrthDyn9
+    father = ORTH_290 #Aelfred43
+    mother = ORTH_287 #Thryth39
+    557.1.1 = {
+        birth = yes
+    }
+    568.1.1 = {
+        add_spouse = ORTH_275 #Frithuswith111
+    }
+}
+
+ORTH_298 = {
+    name = "Edward311"
+    culture = "orthanian"
+    faith = "halvran"
+    dynasty = ORTHD9 #OrthDyn9
+    father = ORTH_303 #Leofwine121
+    mother = ORTH_34 #Sigrun50
+    583.1.1 = {
+        birth = yes
+    }
+}
+
+ORTH_299 = {
+    name = "Ethelwyn44"
+    culture = "orthanian"
+    faith = "halvran"
+    female = yes
+    dynasty = ORTHD9 #OrthDyn9
+    father = ORTH_312 #Wihtræd41
+    522.1.1 = {
+        birth = yes
+    }
+    539.1.1 = {
+        add_spouse = ORTH_274 #Eormenric38
+    }
+}
+
+ORTH_3 = {
+    name = "Aelfwyn146"
+    culture = "orthanian"
+    faith = "halvran"
+    female = yes
+    dynasty = ORTHD1 #OrthDyn1
+    father = ORTH_2 #Aelfwine48
+    mother = ORTH_48 #Aethelflaed63
+    576.1.1 = {
+        birth = yes
+    }
+}
+
+ORTH_30 = {
+    name = "Oswine137"
+    culture = "orthanian"
+    faith = "halvran"
+    dynasty = ORTHD1 #OrthDyn1
+    father = ORTH_24 #Leofric52
+    mother = ORTH_63 #Osgyth60
+    580.1.1 = {
+        birth = yes
+    }
+}
+
+ORTH_300 = {
+    name = "Hild304"
+    culture = "orthanian"
+    faith = "halvran"
+    female = yes
+    dynasty = ORTHD9 #OrthDyn9
+    father = ORTH_309 #Theodred119
+    mother = ORTH_7 #Beorhtflaed54
+    567.1.1 = {
+        birth = yes
+    }
+    586.1.1 = {
+        add_spouse = ORTH_264 #Eadwig287
+    }
+}
+
+ORTH_301 = {
+    name = "Hilda316"
+    culture = "orthanian"
+    faith = "halvran"
+    female = yes
+    dynasty = ORTHD9 #OrthDyn9
+    father = ORTH_297 #Edward124
+    mother = ORTH_275 #Frithuswith111
+    572.1.1 = {
+        birth = yes
+    }
+}
+
+ORTH_302 = {
+    name = "Leofric310"
+    culture = "orthanian"
+    faith = "halvran"
+    dynasty = ORTHD9 #OrthDyn9
+    father = ORTH_303 #Leofwine121
+    mother = ORTH_34 #Sigrun50
+    581.1.1 = {
+        birth = yes
+    }
+}
+
+ORTH_303 = {
+    name = "Leofwine121"
+    culture = "orthanian"
+    faith = "halvran"
+    dynasty = ORTHD9 #OrthDyn9
+    father = ORTH_290 #Aelfred43
+    mother = ORTH_287 #Thryth39
+    553.1.1 = {
+        birth = yes
+    }
+    577.1.1 = {
+        add_spouse = ORTH_34 #Sigrun50
+    }
+}
+
+ORTH_304 = {
+    name = "Osburh313"
+    culture = "orthanian"
+    faith = "halvran"
+    female = yes
+    dynasty = ORTHD9 #OrthDyn9
+    father = ORTH_297 #Edward124
+    mother = ORTH_275 #Frithuswith111
+    569.1.1 = {
+        birth = yes
+    }
+}
+
+ORTH_305 = {
+    name = "Osric307"
+    culture = "orthanian"
+    faith = "halvran"
+    dynasty = ORTHD9 #OrthDyn9
+    father = ORTH_309 #Theodred119
+    mother = ORTH_7 #Beorhtflaed54
+    572.1.1 = {
+        birth = yes
+    }
+}
+
+ORTH_306 = {
+    name = "Oswine312"
+    culture = "orthanian"
+    faith = "halvran"
+    dynasty = ORTHD9 #OrthDyn9
+    father = ORTH_303 #Leofwine121
+    mother = ORTH_34 #Sigrun50
+    584.1.1 = {
+        birth = yes
+    }
+}
+
+ORTH_307 = {
+    name = "Sigeweard42"
+    culture = "orthanian"
+    faith = "halvran"
+    dynasty = ORTHD9 #OrthDyn9
+    father = ORTH_312 #Wihtræd41
+    516.1.1 = {
+        birth = yes
+    }
+    548.1.1 = {
+        add_spouse = ORTH_20 #Eanflaed4
+    }
+    581.1.1 = {
+        death = yes
+    }
+}
+
+ORTH_308 = {
+    name = "Swanhild122"
+    culture = "orthanian"
+    faith = "halvran"
+    female = yes
+    dynasty = ORTHD9 #OrthDyn9
+    father = ORTH_290 #Aelfred43
+    mother = ORTH_287 #Thryth39
+    554.1.1 = {
+        birth = yes
+    }
+    573.1.1 = {
+        add_spouse = ORTH_278 #Leofwine110
+    }
+}
+
+ORTH_309 = {
+    name = "Theodred119"
+    culture = "orthanian"
+    faith = "halvran"
+    dynasty = ORTHD9 #OrthDyn9
+    father = ORTH_307 #Sigeweard42
+    mother = ORTH_20 #Eanflaed4
+    553.1.1 = {
+        birth = yes
+    }
+    566.1.1 = {
+        add_spouse = ORTH_7 #Beorhtflaed54
+    }
+}
+
+ORTH_31 = {
+    name = "Sigeweard129"
+    culture = "orthanian"
+    faith = "halvran"
+    dynasty = ORTHD1 #OrthDyn1
+    father = ORTH_38 #Wulfgar46
+    mother = ORTH_50 #Cuthburg56
+    572.1.1 = {
+        birth = yes
+    }
+}
+
+ORTH_310 = {
+    name = "Thryth305"
+    culture = "orthanian"
+    faith = "halvran"
+    female = yes
+    dynasty = ORTHD9 #OrthDyn9
+    father = ORTH_309 #Theodred119
+    mother = ORTH_7 #Beorhtflaed54
+    569.1.1 = {
+        birth = yes
+    }
+    586.1.1 = {
+        add_spouse = ORTH_183 #Styrbjorn236
+    }
+}
+
+ORTH_311 = {
+    name = "Thryth314"
+    culture = "orthanian"
+    faith = "halvran"
+    female = yes
+    dynasty = ORTHD9 #OrthDyn9
+    father = ORTH_297 #Edward124
+    mother = ORTH_275 #Frithuswith111
+    570.1.1 = {
+        birth = yes
+    }
+    586.1.1 = {
+        add_spouse = ORTH_176 #Oswine237
+    }
+}
+
+ORTH_312 = {
+    name = "Wihtræd41"
+    culture = "orthanian"
+    faith = "halvran"
+    dynasty = ORTHD9 #OrthDyn9
+    488.1.1 = {
+        birth = yes
+    }
+    550.1.1 = {
+        death = yes
+    }
+}
+
+ORTH_313 = {
+    name = "Wulfgar317"
+    culture = "orthanian"
+    faith = "halvran"
+    dynasty = ORTHD9 #OrthDyn9
+    father = ORTH_297 #Edward124
+    mother = ORTH_275 #Frithuswith111
+    574.1.1 = {
+        birth = yes
+    }
+}
+
+ORTH_314 = {
+    name = "Wulfhild125"
+    culture = "orthanian"
+    faith = "halvran"
+    female = yes
+    dynasty = ORTHD9 #OrthDyn9
+    father = ORTH_290 #Aelfred43
+    mother = ORTH_287 #Thryth39
+    558.1.1 = {
+        birth = yes
+    }
+    568.1.1 = {
+        add_spouse = ORTH_280 #Osric116
+    }
+}
+
+ORTH_315 = {
+    name = "Wulfhild45"
+    culture = "orthanian"
+    faith = "halvran"
+    female = yes
+    dynasty = ORTHD9 #OrthDyn9
+    father = ORTH_312 #Wihtræd41
+    525.1.1 = {
+        birth = yes
+    }
+    539.1.1 = {
+        add_spouse = ORTH_165 #Eormenric22
+    }
+    569.1.1 = {
+        death = yes
+    }
+}
+
+ORTH_316 = {
+    name = "Wulfsige306"
+    culture = "orthanian"
+    faith = "halvran"
+    dynasty = ORTHD9 #OrthDyn9
+    father = ORTH_309 #Theodred119
+    mother = ORTH_7 #Beorhtflaed54
+    571.1.1 = {
+        birth = yes
+    }
+    586.1.1 = {
+        add_spouse = ORTH_21 #Eldgyth128
+    }
+}
+
+ORTH_317 = {
+    name = "Wynflæd123"
+    culture = "orthanian"
+    faith = "halvran"
+    female = yes
+    dynasty = ORTHD9 #OrthDyn9
+    father = ORTH_290 #Aelfred43
+    mother = ORTH_287 #Thryth39
+    556.1.1 = {
+        birth = yes
+    }
+    576.1.1 = {
+        add_spouse = ORTH_185 #Wulfgar83
+    }
+}
+
+ORTH_32 = {
+    name = "Sigrid136"
+    culture = "orthanian"
+    faith = "halvran"
+    female = yes
+    dynasty = ORTHD1 #OrthDyn1
+    father = ORTH_24 #Leofric52
+    mother = ORTH_63 #Osgyth60
+    579.1.1 = {
+        birth = yes
+    }
+}
+
+ORTH_33 = {
+    name = "Sigrun131"
+    culture = "orthanian"
+    faith = "halvran"
+    female = yes
+    dynasty = ORTHD1 #OrthDyn1
+    father = ORTH_38 #Wulfgar46
+    mother = ORTH_50 #Cuthburg56
+    574.1.1 = {
+        birth = yes
+    }
+}
+
+ORTH_34 = {
+    name = "Sigrun50"
+    culture = "orthanian"
+    faith = "halvran"
+    female = yes
+    dynasty = ORTHD1 #OrthDyn1
+    father = ORTH_25 #Leofwine2
+    mother = ORTH_60 #Ethelwyn9
+    555.1.1 = {
+        birth = yes
+    }
+    577.1.1 = {
+        add_spouse = ORTH_303 #Leofwine121
+    }
+}
+
+ORTH_35 = {
+    name = "Swanhild150"
+    culture = "orthanian"
+    faith = "halvran"
+    female = yes
+    dynasty = ORTHD1 #OrthDyn1
+    father = ORTH_29 #Oswald55
+    mother = ORTH_83 #Cwenhild71
+    576.1.1 = {
+        birth = yes
+    }
+}
+
+ORTH_36 = {
+    name = "Wiglaf134"
+    culture = "orthanian"
+    faith = "halvran"
+    dynasty = ORTHD1 #OrthDyn1
+    father = ORTH_24 #Leofric52
+    mother = ORTH_63 #Osgyth60
+    575.1.1 = {
+        birth = yes
+    }
+}
+
+ORTH_37 = {
+    name = "Wihtræd133"
+    culture = "orthanian"
+    faith = "halvran"
+    dynasty = ORTHD1 #OrthDyn1
+    father = ORTH_38 #Wulfgar46
+    mother = ORTH_50 #Cuthburg56
+    577.1.1 = {
+        birth = yes
+    }
+}
+
+ORTH_38 = {
+    name = "Wulfgar46"
+    culture = "orthanian"
+    faith = "halvran"
+    dynasty = ORTHD1 #OrthDyn1
+    father = ORTH_25 #Leofwine2
+    mother = ORTH_60 #Ethelwyn9
+    550.1.1 = {
+        birth = yes
+    }
+    569.1.1 = {
+        add_spouse = ORTH_50 #Cuthburg56
+    }
+}
+
+ORTH_39 = {
+    name = "Wulfsige1"
+    culture = "orthanian"
+    faith = "halvran"
+    dynasty = ORTHD1 #OrthDyn1
+    480.1.1 = {
+        birth = yes
+    }
+    547.1.1 = {
+        death = yes
+    }
+}
+
+ORTH_4 = {
+    name = "Aelswith151"
+    culture = "orthanian"
+    faith = "halvran"
+    female = yes
+    dynasty = ORTHD1 #OrthDyn1
+    father = ORTH_29 #Oswald55
+    mother = ORTH_83 #Cwenhild71
+    578.1.1 = {
+        birth = yes
+    }
+}
+
+ORTH_40 = {
+    name = "Wulfsige51"
+    culture = "orthanian"
+    faith = "halvran"
+    dynasty = ORTHD1 #OrthDyn1
+    father = ORTH_25 #Leofwine2
+    mother = ORTH_60 #Ethelwyn9
+    557.1.1 = {
+        birth = yes
+    }
+    569.1.1 = {
+        add_spouse = ORTH_140 #Sigrun127
+    }
+}
+
+ORTH_41 = {
+    name = "Wulfstan152"
+    culture = "orthanian"
+    faith = "halvran"
+    dynasty = ORTHD1 #OrthDyn1
+    father = ORTH_40 #Wulfsige51
+    mother = ORTH_140 #Sigrun127
+    570.1.1 = {
+        birth = yes
+    }
+    586.1.1 = {
+        add_spouse = ORTH_57 #Edith166
+    }
+}
+
+ORTH_42 = {
+    name = "Wynflæd155"
+    culture = "orthanian"
+    faith = "halvran"
+    female = yes
+    dynasty = ORTHD1 #OrthDyn1
+    father = ORTH_40 #Wulfsige51
+    mother = ORTH_140 #Sigrun127
+    575.1.1 = {
+        birth = yes
+    }
+}
+
+ORTH_43 = {
+    name = "Wynstan149"
+    culture = "orthanian"
+    faith = "halvran"
+    dynasty = ORTHD1 #OrthDyn1
+    father = ORTH_29 #Oswald55
+    mother = ORTH_83 #Cwenhild71
+    575.1.1 = {
+        birth = yes
+    }
+}
+
+ORTH_44 = {
+    name = "Aelfgifu160"
+    culture = "orthanian"
+    faith = "halvran"
+    female = yes
+    dynasty = ORTHD2 #OrthDyn2
+    father = ORTH_70 #Wulfric58
+    mother = ORTH_137 #Osgyth74
+    578.1.1 = {
+        birth = yes
+    }
+}
+
+ORTH_45 = {
+    name = "Aelfgifu171"
+    culture = "orthanian"
+    faith = "halvran"
+    female = yes
+    dynasty = ORTHD2 #OrthDyn2
+    father = ORTH_66 #Oswine59
+    mother = ORTH_148 #Aelfwyn82
+    581.1.1 = {
+        birth = yes
+    }
+}
+
+ORTH_46 = {
+    name = "Aethelflaed156"
+    culture = "orthanian"
+    faith = "halvran"
+    female = yes
+    dynasty = ORTHD2 #OrthDyn2
+    father = ORTH_58 #Edmund61
+    mother = ORTH_132 #Ethelwyn76
+    571.1.1 = {
+        birth = yes
+    }
+    586.1.1 = {
+        add_spouse = ORTH_174 #Osric234
+    }
+}
+
+ORTH_47 = {
+    name = "Aethelflaed158"
+    culture = "orthanian"
+    faith = "halvran"
+    female = yes
+    dynasty = ORTHD2 #OrthDyn2
+    father = ORTH_58 #Edmund61
+    mother = ORTH_132 #Ethelwyn76
+    574.1.1 = {
+        birth = yes
+    }
+}
+
+ORTH_48 = {
+    name = "Aethelflaed63"
+    culture = "orthanian"
+    faith = "halvran"
+    female = yes
+    dynasty = ORTHD2 #OrthDyn2
+    father = ORTH_69 #Wiglaf8
+    mother = ORTH_130 #Edith20
+    554.1.1 = {
+        birth = yes
+    }
+    570.1.1 = {
+        add_spouse = ORTH_2 #Aelfwine48
+    }
+}
+
+ORTH_49 = {
+    name = "Cuthbert157"
+    culture = "orthanian"
+    faith = "halvran"
+    dynasty = ORTHD2 #OrthDyn2
+    father = ORTH_58 #Edmund61
+    mother = ORTH_132 #Ethelwyn76
+    572.1.1 = {
+        birth = yes
+    }
+}
+
+ORTH_5 = {
+    name = "Aethelstan132"
+    culture = "orthanian"
+    faith = "halvran"
+    dynasty = ORTHD1 #OrthDyn1
+    father = ORTH_38 #Wulfgar46
+    mother = ORTH_50 #Cuthburg56
+    575.1.1 = {
+        birth = yes
+    }
+}
+
+ORTH_50 = {
+    name = "Cuthburg56"
+    culture = "orthanian"
+    faith = "halvran"
+    female = yes
+    dynasty = ORTHD2 #OrthDyn2
+    father = ORTH_53 #Cynewulf7
+    mother = ORTH_93 #Leofgifu15
+    550.1.1 = {
+        birth = yes
+    }
+    569.1.1 = {
+        add_spouse = ORTH_38 #Wulfgar46
+    }
+}
+
+ORTH_51 = {
+    name = "Cynewulf165"
+    culture = "orthanian"
+    faith = "halvran"
+    dynasty = ORTHD2 #OrthDyn2
+    father = ORTH_61 #Guthlac62
+    mother = ORTH_121 #Brihtwyn81
+    568.1.1 = {
+        birth = yes
+    }
+    586.1.1 = {
+        add_spouse = ORTH_102 #Siflaed194
+    }
+}
+
+ORTH_52 = {
+    name = "Cynewulf169"
+    culture = "orthanian"
+    faith = "halvran"
+    dynasty = ORTHD2 #OrthDyn2
+    father = ORTH_66 #Oswine59
+    mother = ORTH_148 #Aelfwyn82
+    578.1.1 = {
+        birth = yes
+    }
+}
+
+ORTH_53 = {
+    name = "Cynewulf7"
+    culture = "orthanian"
+    faith = "halvran"
+    dynasty = ORTHD2 #OrthDyn2
+    father = ORTH_71 #Wulfric6
+    516.1.1 = {
+        birth = yes
+    }
+    546.1.1 = {
+        add_spouse = ORTH_93 #Leofgifu15
+    }
+    570.1.1 = {
+        death = yes
+    }
+}
+
+ORTH_54 = {
+    name = "Eadgyth172"
+    culture = "orthanian"
+    faith = "halvran"
+    female = yes
+    dynasty = ORTHD2 #OrthDyn2
+    father = ORTH_66 #Oswine59
+    mother = ORTH_148 #Aelfwyn82
+    582.1.1 = {
+        birth = yes
+    }
+}
+
+ORTH_55 = {
+    name = "Eanswith164"
+    culture = "orthanian"
+    faith = "halvran"
+    female = yes
+    dynasty = ORTHD2 #OrthDyn2
+    father = ORTH_70 #Wulfric58
+    mother = ORTH_137 #Osgyth74
+    586.1.1 = {
+        birth = yes
+    }
+}
+
+ORTH_56 = {
+    name = "Edith162"
+    culture = "orthanian"
+    faith = "halvran"
+    female = yes
+    dynasty = ORTHD2 #OrthDyn2
+    father = ORTH_70 #Wulfric58
+    mother = ORTH_137 #Osgyth74
+    582.1.1 = {
+        birth = yes
+    }
+}
+
+ORTH_57 = {
+    name = "Edith166"
+    culture = "orthanian"
+    faith = "halvran"
+    female = yes
+    dynasty = ORTHD2 #OrthDyn2
+    father = ORTH_61 #Guthlac62
+    mother = ORTH_121 #Brihtwyn81
+    570.1.1 = {
+        birth = yes
+    }
+    586.1.1 = {
+        add_spouse = ORTH_41 #Wulfstan152
+    }
+}
+
+ORTH_58 = {
+    name = "Edmund61"
+    culture = "orthanian"
+    faith = "halvran"
+    dynasty = ORTHD2 #OrthDyn2
+    father = ORTH_69 #Wiglaf8
+    mother = ORTH_130 #Edith20
+    551.1.1 = {
+        birth = yes
+    }
+    570.1.1 = {
+        add_spouse = ORTH_132 #Ethelwyn76
+    }
+}
+
+ORTH_59 = {
+    name = "Eldgyth170"
+    culture = "orthanian"
+    faith = "halvran"
+    female = yes
+    dynasty = ORTHD2 #OrthDyn2
+    father = ORTH_66 #Oswine59
+    mother = ORTH_148 #Aelfwyn82
+    580.1.1 = {
+        birth = yes
+    }
+}
+
+ORTH_6 = {
+    name = "Aethelwulf3"
+    culture = "orthanian"
+    faith = "halvran"
+    dynasty = ORTHD1 #OrthDyn1
+    father = ORTH_39 #Wulfsige1
+    518.1.1 = {
+        birth = yes
+    }
+    546.1.1 = {
+        add_spouse = ORTH_72 #Wynflaed10
+    }
+    572.1.1 = {
+        death = yes
+    }
+}
+
+ORTH_60 = {
+    name = "Ethelwyn9"
+    culture = "orthanian"
+    faith = "halvran"
+    female = yes
+    dynasty = ORTHD2 #OrthDyn2
+    father = ORTH_71 #Wulfric6
+    522.1.1 = {
+        birth = yes
+    }
+    548.1.1 = {
+        add_spouse = ORTH_25 #Leofwine2
+    }
+    570.1.1 = {
+        death = yes
+    }
+}
+
+ORTH_61 = {
+    name = "Guthlac62"
+    culture = "orthanian"
+    faith = "halvran"
+    dynasty = ORTHD2 #OrthDyn2
+    father = ORTH_69 #Wiglaf8
+    mother = ORTH_130 #Edith20
+    552.1.1 = {
+        birth = yes
+    }
+    567.1.1 = {
+        add_spouse = ORTH_121 #Brihtwyn81
+    }
+}
+
+ORTH_62 = {
+    name = "Leofwine168"
+    culture = "orthanian"
+    faith = "halvran"
+    dynasty = ORTHD2 #OrthDyn2
+    father = ORTH_66 #Oswine59
+    mother = ORTH_148 #Aelfwyn82
+    576.1.1 = {
+        birth = yes
+    }
+}
+
+ORTH_63 = {
+    name = "Osgyth60"
+    culture = "orthanian"
+    faith = "halvran"
+    female = yes
+    dynasty = ORTHD2 #OrthDyn2
+    father = ORTH_69 #Wiglaf8
+    mother = ORTH_130 #Edith20
+    550.1.1 = {
+        birth = yes
+    }
+    574.1.1 = {
+        add_spouse = ORTH_24 #Leofric52
+    }
+}
+
+ORTH_64 = {
+    name = "Osric161"
+    culture = "orthanian"
+    faith = "halvran"
+    dynasty = ORTHD2 #OrthDyn2
+    father = ORTH_70 #Wulfric58
+    mother = ORTH_137 #Osgyth74
+    580.1.1 = {
+        birth = yes
+    }
+}
+
+ORTH_65 = {
+    name = "Oswald159"
+    culture = "orthanian"
+    faith = "halvran"
+    dynasty = ORTHD2 #OrthDyn2
+    father = ORTH_58 #Edmund61
+    mother = ORTH_132 #Ethelwyn76
+    575.1.1 = {
+        birth = yes
+    }
+}
+
+ORTH_66 = {
+    name = "Oswine59"
+    culture = "orthanian"
+    faith = "halvran"
+    dynasty = ORTHD2 #OrthDyn2
+    father = ORTH_53 #Cynewulf7
+    mother = ORTH_93 #Leofgifu15
+    554.1.1 = {
+        birth = yes
+    }
+    575.1.1 = {
+        add_spouse = ORTH_148 #Aelfwyn82
+    }
+}
+
+ORTH_67 = {
+    name = "Styrbjorn167"
+    culture = "orthanian"
+    faith = "halvran"
+    dynasty = ORTHD2 #OrthDyn2
+    father = ORTH_61 #Guthlac62
+    mother = ORTH_121 #Brihtwyn81
+    571.1.1 = {
+        birth = yes
+    }
+    586.1.1 = {
+        add_spouse = ORTH_115 #Aelfgifu204
+    }
+}
+
+ORTH_68 = {
+    name = "Swanhild57"
+    culture = "orthanian"
+    faith = "halvran"
+    female = yes
+    dynasty = ORTHD2 #OrthDyn2
+    father = ORTH_53 #Cynewulf7
+    mother = ORTH_93 #Leofgifu15
+    551.1.1 = {
+        birth = yes
+    }
+    575.1.1 = {
+        add_spouse = ORTH_12 #Cuthbert53
+    }
+}
+
+ORTH_69 = {
+    name = "Wiglaf8"
+    culture = "orthanian"
+    faith = "halvran"
+    dynasty = ORTHD2 #OrthDyn2
+    father = ORTH_71 #Wulfric6
+    519.1.1 = {
+        birth = yes
+    }
+    539.1.1 = {
+        add_spouse = ORTH_130 #Edith20
+    }
+    583.1.1 = {
+        death = yes
+    }
+}
+
+ORTH_7 = {
+    name = "Beorhtflaed54"
+    culture = "orthanian"
+    faith = "halvran"
+    female = yes
+    dynasty = ORTHD1 #OrthDyn1
+    father = ORTH_6 #Aethelwulf3
+    mother = ORTH_72 #Wynflaed10
+    552.1.1 = {
+        birth = yes
+    }
+    566.1.1 = {
+        add_spouse = ORTH_309 #Theodred119
+    }
+}
+
+ORTH_70 = {
+    name = "Wulfric58"
+    culture = "orthanian"
+    faith = "halvran"
+    dynasty = ORTHD2 #OrthDyn2
+    father = ORTH_53 #Cynewulf7
+    mother = ORTH_93 #Leofgifu15
+    552.1.1 = {
+        birth = yes
+    }
+    577.1.1 = {
+        add_spouse = ORTH_137 #Osgyth74
+    }
+}
+
+ORTH_71 = {
+    name = "Wulfric6"
+    culture = "orthanian"
+    faith = "halvran"
+    dynasty = ORTHD2 #OrthDyn2
+    481.1.1 = {
+        birth = yes
+    }
+    565.1.1 = {
+        death = yes
+    }
+}
+
+ORTH_72 = {
+    name = "Wynflaed10"
+    culture = "orthanian"
+    faith = "halvran"
+    female = yes
+    dynasty = ORTHD2 #OrthDyn2
+    father = ORTH_71 #Wulfric6
+    525.1.1 = {
+        birth = yes
+    }
+    546.1.1 = {
+        add_spouse = ORTH_6 #Aethelwulf3
+    }
+    570.1.1 = {
+        death = yes
+    }
+}
+
+ORTH_73 = {
+    name = "Wynflæd163"
+    culture = "orthanian"
+    faith = "halvran"
+    female = yes
+    dynasty = ORTHD2 #OrthDyn2
+    father = ORTH_70 #Wulfric58
+    mother = ORTH_137 #Osgyth74
+    584.1.1 = {
+        birth = yes
+    }
+}
+
+ORTH_74 = {
+    name = "Aelfgifu189"
+    culture = "orthanian"
+    faith = "halvran"
+    female = yes
+    dynasty = ORTHD3 #OrthDyn3
+    father = ORTH_109 #Wilfrid67
+    mother = ORTH_229 #Cuthburg101
+    570.1.1 = {
+        birth = yes
+    }
+    586.1.1 = {
+        add_spouse = ORTH_182 #Styrbjorn235
+    }
+}
+
+ORTH_75 = {
+    name = "Aelfwine195"
+    culture = "orthanian"
+    faith = "halvran"
+    dynasty = ORTHD3 #OrthDyn3
+    father = ORTH_80 #Aethelwulf68
+    mother = ORTH_261 #Cuthburg108
+    571.1.1 = {
+        birth = yes
+    }
+    586.1.1 = {
+        add_spouse = ORTH_179 #Sigrid233
+    }
+}
+
+ORTH_76 = {
+    name = "Aelfwyn198"
+    culture = "orthanian"
+    faith = "halvran"
+    female = yes
+    dynasty = ORTHD3 #OrthDyn3
+    father = ORTH_80 #Aethelwulf68
+    mother = ORTH_261 #Cuthburg108
+    576.1.1 = {
+        birth = yes
+    }
+}
+
+ORTH_77 = {
+    name = "Aethelwulf181"
+    culture = "orthanian"
+    faith = "halvran"
+    dynasty = ORTHD3 #OrthDyn3
+    father = ORTH_107 #Theodred70
+    mother = ORTH_226 #Beorhtgifu98
+    579.1.1 = {
+        birth = yes
+    }
+}
+
+ORTH_78 = {
+    name = "Aethelwulf192"
+    culture = "orthanian"
+    faith = "halvran"
+    dynasty = ORTHD3 #OrthDyn3
+    father = ORTH_109 #Wilfrid67
+    mother = ORTH_229 #Cuthburg101
+    576.1.1 = {
+        birth = yes
+    }
+}
+
+ORTH_79 = {
+    name = "Aethelwulf199"
+    culture = "orthanian"
+    faith = "halvran"
+    dynasty = ORTHD3 #OrthDyn3
+    father = ORTH_80 #Aethelwulf68
+    mother = ORTH_261 #Cuthburg108
+    577.1.1 = {
+        birth = yes
+    }
+}
+
+ORTH_8 = {
+    name = "Beornwulf135"
+    culture = "orthanian"
+    faith = "halvran"
+    dynasty = ORTHD1 #OrthDyn1
+    father = ORTH_24 #Leofric52
+    mother = ORTH_63 #Osgyth60
+    577.1.1 = {
+        birth = yes
+    }
+}
+
+ORTH_80 = {
+    name = "Aethelwulf68"
+    culture = "orthanian"
+    faith = "halvran"
+    dynasty = ORTHD3 #OrthDyn3
+    father = ORTH_103 #Sigeric12
+    mother = ORTH_149 #Aethelflaed25
+    556.1.1 = {
+        birth = yes
+    }
+    569.1.1 = {
+        add_spouse = ORTH_261 #Cuthburg108
+    }
+}
+
+ORTH_81 = {
+    name = "Beornwulf182"
+    culture = "orthanian"
+    faith = "halvran"
+    dynasty = ORTHD3 #OrthDyn3
+    father = ORTH_107 #Theodred70
+    mother = ORTH_226 #Beorhtgifu98
+    580.1.1 = {
+        birth = yes
+    }
+}
+
+ORTH_82 = {
+    name = "Cwenhild69"
+    culture = "orthanian"
+    faith = "halvran"
+    female = yes
+    dynasty = ORTHD3 #OrthDyn3
+    father = ORTH_84 #Cynewulf13
+    mother = ORTH_203 #Eormenhild30
+    550.1.1 = {
+        birth = yes
+    }
+    566.1.1 = {
+        add_spouse = ORTH_146 #Aelfred84
+    }
+}
+
+ORTH_83 = {
+    name = "Cwenhild71"
+    culture = "orthanian"
+    faith = "halvran"
+    female = yes
+    dynasty = ORTHD3 #OrthDyn3
+    father = ORTH_84 #Cynewulf13
+    mother = ORTH_203 #Eormenhild30
+    553.1.1 = {
+        birth = yes
+    }
+    574.1.1 = {
+        add_spouse = ORTH_29 #Oswald55
+    }
+}
+
+ORTH_84 = {
+    name = "Cynewulf13"
+    culture = "orthanian"
+    faith = "halvran"
+    dynasty = ORTHD3 #OrthDyn3
+    father = ORTH_96 #Osric11
+    520.1.1 = {
+        birth = yes
+    }
+    547.1.1 = {
+        add_spouse = ORTH_203 #Eormenhild30
+    }
+    571.1.1 = {
+        death = yes
+    }
+}
+
+ORTH_85 = {
+    name = "Cynewulf186"
+    culture = "orthanian"
+    faith = "halvran"
+    dynasty = ORTHD3 #OrthDyn3
+    father = ORTH_113 #Wulfric66
+    mother = ORTH_230 #Cwenhild104
+    575.1.1 = {
+        birth = yes
+    }
+}
+
+ORTH_86 = {
+    name = "Eadgifu14"
+    culture = "orthanian"
+    faith = "halvran"
+    female = yes
+    dynasty = ORTHD3 #OrthDyn3
+    father = ORTH_96 #Osric11
+    523.1.1 = {
+        birth = yes
+    }
+    540.1.1 = {
+        add_spouse = ORTH_215 #Styrbjorn27
+    }
+    574.1.1 = {
+        death = yes
+    }
+}
+
+ORTH_87 = {
+    name = "Eadgyth173"
+    culture = "orthanian"
+    faith = "halvran"
+    female = yes
+    dynasty = ORTHD3 #OrthDyn3
+    father = ORTH_99 #Oswine64
+    mother = ORTH_214 #Sigrid90
+    577.1.1 = {
+        birth = yes
+    }
+}
+
+ORTH_88 = {
+    name = "Eanswith190"
+    culture = "orthanian"
+    faith = "halvran"
+    female = yes
+    dynasty = ORTHD3 #OrthDyn3
+    father = ORTH_109 #Wilfrid67
+    mother = ORTH_229 #Cuthburg101
+    572.1.1 = {
+        birth = yes
+    }
+}
+
+ORTH_89 = {
+    name = "Eormenhild193"
+    culture = "orthanian"
+    faith = "halvran"
+    female = yes
+    dynasty = ORTHD3 #OrthDyn3
+    father = ORTH_109 #Wilfrid67
+    mother = ORTH_229 #Cuthburg101
+    578.1.1 = {
+        birth = yes
+    }
+}
+
+ORTH_9 = {
+    name = "Beornwulf141"
+    culture = "orthanian"
+    faith = "halvran"
+    dynasty = ORTHD1 #OrthDyn1
+    father = ORTH_12 #Cuthbert53
+    mother = ORTH_68 #Swanhild57
+    578.1.1 = {
+        birth = yes
+    }
+}
+
+ORTH_90 = {
+    name = "Ethelwyn176"
+    culture = "orthanian"
+    faith = "halvran"
+    female = yes
+    dynasty = ORTHD3 #OrthDyn3
+    father = ORTH_99 #Oswine64
+    mother = ORTH_214 #Sigrid90
+    581.1.1 = {
+        birth = yes
+    }
+}
+
+ORTH_91 = {
+    name = "Godgifu180"
+    culture = "orthanian"
+    faith = "halvran"
+    female = yes
+    dynasty = ORTHD3 #OrthDyn3
+    father = ORTH_107 #Theodred70
+    mother = ORTH_226 #Beorhtgifu98
+    577.1.1 = {
+        birth = yes
+    }
+}
+
+ORTH_92 = {
+    name = "Godric185"
+    culture = "orthanian"
+    faith = "halvran"
+    dynasty = ORTHD3 #OrthDyn3
+    father = ORTH_113 #Wulfric66
+    mother = ORTH_230 #Cwenhild104
+    574.1.1 = {
+        birth = yes
+    }
+}
+
+ORTH_93 = {
+    name = "Leofgifu15"
+    culture = "orthanian"
+    faith = "halvran"
+    female = yes
+    dynasty = ORTHD3 #OrthDyn3
+    father = ORTH_96 #Osric11
+    526.1.1 = {
+        birth = yes
+    }
+    546.1.1 = {
+        add_spouse = ORTH_53 #Cynewulf7
+    }
+    571.1.1 = {
+        death = yes
+    }
+}
+
+ORTH_94 = {
+    name = "Leofgifu184"
+    culture = "orthanian"
+    faith = "halvran"
+    female = yes
+    dynasty = ORTHD3 #OrthDyn3
+    father = ORTH_107 #Theodred70
+    mother = ORTH_226 #Beorhtgifu98
+    584.1.1 = {
+        birth = yes
+    }
+}
+
+ORTH_95 = {
+    name = "Osburh191"
+    culture = "orthanian"
+    faith = "halvran"
+    female = yes
+    dynasty = ORTHD3 #OrthDyn3
+    father = ORTH_109 #Wilfrid67
+    mother = ORTH_229 #Cuthburg101
+    574.1.1 = {
+        birth = yes
+    }
+}
+
+ORTH_96 = {
+    name = "Osric11"
+    culture = "orthanian"
+    faith = "halvran"
+    dynasty = ORTHD3 #OrthDyn3
+    482.1.1 = {
+        birth = yes
+    }
+    563.1.1 = {
+        death = yes
+    }
+}
+
+ORTH_97 = {
+    name = "Oswald183"
+    culture = "orthanian"
+    faith = "halvran"
+    dynasty = ORTHD3 #OrthDyn3
+    father = ORTH_107 #Theodred70
+    mother = ORTH_226 #Beorhtgifu98
+    582.1.1 = {
+        birth = yes
+    }
+}
+
+ORTH_98 = {
+    name = "Oswald187"
+    culture = "orthanian"
+    faith = "halvran"
+    dynasty = ORTHD3 #OrthDyn3
+    father = ORTH_113 #Wulfric66
+    mother = ORTH_230 #Cwenhild104
+    577.1.1 = {
+        birth = yes
+    }
+}
+
+ORTH_99 = {
+    name = "Oswine64"
+    culture = "orthanian"
+    faith = "halvran"
+    dynasty = ORTHD3 #OrthDyn3
+    father = ORTH_103 #Sigeric12
+    mother = ORTH_149 #Aethelflaed25
+    550.1.1 = {
+        birth = yes
+    }
+    576.1.1 = {
+        add_spouse = ORTH_214 #Sigrid90
+    }
+}
+

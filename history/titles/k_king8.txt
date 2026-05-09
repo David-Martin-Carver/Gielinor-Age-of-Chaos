@@ -1,0 +1,392 @@
+k_king8 = {
+	587.1.1 = { change_development_level = 8 }
+}
+
+d_duchy30 = {
+	587.1.1 = { change_development_level = 8 }
+	587.1.1 = { government = tribal_government }
+	587.1.1 = {
+		holder = ORTH_38
+	}
+}
+
+c_168 = {
+	587.1.1 = { change_development_level = 8 }
+	587.1.1 = { government = tribal_government }
+	587.1.1 = {
+		holder = ORTH_38
+	}
+}
+
+c_169 = {
+	587.1.1 = { change_development_level = 8 }
+	587.1.1 = { government = tribal_government }
+	587.1.1 = {
+		holder = ORTH_38
+	}
+}
+
+c_170 = {
+	587.1.1 = { change_development_level = 8 }
+	587.1.1 = { government = tribal_government }
+	587.1.1 = {
+		liege = d_duchy30
+	}
+	587.1.1 = {
+		holder = ORTH_24
+	}
+}
+
+c_171 = {
+	587.1.1 = { change_development_level = 8 }
+	587.1.1 = { government = tribal_government }
+	587.1.1 = {
+		liege = d_duchy30
+	}
+	587.1.1 = {
+		holder = ORTH_12
+	}
+}
+
+c_174 = {
+	587.1.1 = { change_development_level = 8 }
+	587.1.1 = { government = tribal_government }
+	587.1.1 = {
+		holder = ORTH_70
+	}
+}
+
+c_173 = {
+	587.1.1 = { change_development_level = 8 }
+	587.1.1 = { government = tribal_government }
+	587.1.1 = {
+		holder = ORTH_99
+	}
+}
+
+c_172 = {
+	587.1.1 = { change_development_level = 8 }
+	587.1.1 = { government = tribal_government }
+	587.1.1 = {
+		holder = ORTH_99
+	}
+}
+
+c_166 = {
+	587.1.1 = { change_development_level = 8 }
+	587.1.1 = { government = tribal_government }
+	587.1.1 = {
+		holder = ORTH_144
+	}
+}
+
+c_165 = {
+	587.1.1 = { change_development_level = 8 }
+	587.1.1 = { government = tribal_government }
+	587.1.1 = {
+		holder = ORTH_144
+	}
+}
+
+c_167 = {
+	587.1.1 = { change_development_level = 8 }
+	587.1.1 = { government = tribal_government }
+	587.1.1 = {
+		holder = ORTH_144
+	}
+}
+
+c_163 = {
+	587.1.1 = { change_development_level = 8 }
+	587.1.1 = { government = tribal_government }
+	587.1.1 = {
+		holder = ORTH_185
+	}
+}
+
+c_164 = {
+	587.1.1 = { change_development_level = 8 }
+	587.1.1 = { government = tribal_government }
+	587.1.1 = {
+		holder = ORTH_185
+	}
+}
+
+c_160 = {
+	587.1.1 = { change_development_level = 8 }
+	587.1.1 = { government = tribal_government }
+	587.1.1 = {
+		holder = ORTH_152
+	}
+}
+
+c_161 = {
+	587.1.1 = { change_development_level = 8 }
+	587.1.1 = { government = tribal_government }
+	587.1.1 = {
+		holder = ORTH_152
+	}
+}
+
+c_178 = {
+	587.1.1 = { change_development_level = 8 }
+	587.1.1 = { government = tribal_government }
+	587.1.1 = {
+		holder = ORTH_220
+	}
+}
+
+c_162 = {
+	587.1.1 = { change_development_level = 8 }
+	587.1.1 = { government = tribal_government }
+	587.1.1 = {
+		holder = ORTH_220
+	}
+}
+
+c_177 = {
+	587.1.1 = { change_development_level = 8 }
+	587.1.1 = { government = tribal_government }
+	587.1.1 = {
+		holder = ORTH_213
+	}
+}
+
+c_175 = {
+	587.1.1 = { change_development_level = 8 }
+	587.1.1 = { government = tribal_government }
+	587.1.1 = {
+		holder = ORTH_213
+	}
+}
+
+c_176 = {
+	587.1.1 = { change_development_level = 8 }
+	587.1.1 = { government = tribal_government }
+	587.1.1 = {
+		holder = ORTH_245
+	}
+}
+
+c_179 = {
+	587.1.1 = { change_development_level = 8 }
+	587.1.1 = { government = tribal_government }
+	587.1.1 = {
+		holder = ORTH_278
+	}
+}
+
+c_180 = {
+	587.1.1 = { change_development_level = 8 }
+	587.1.1 = { government = tribal_government }
+	587.1.1 = {
+		holder = ORTH_278
+	}
+}
+
+d_duchy32 = {
+	587.1.1 = { change_development_level = 8 }
+	587.1.1 = { government = tribal_government }
+	587.1.1 = {
+		holder = ELR_20
+	}
+}
+
+c_182 = {
+	587.1.1 = { change_development_level = 8 }
+	587.1.1 = { government = tribal_government }
+	587.1.1 = {
+		holder = ELR_20
+	}
+}
+
+c_183 = {
+	587.1.1 = { change_development_level = 8 }
+	587.1.1 = { government = tribal_government }
+	587.1.1 = {
+		holder = ELR_20
+	}
+}
+
+c_185 = {
+	587.1.1 = { change_development_level = 8 }
+	587.1.1 = { government = tribal_government }
+	587.1.1 = {
+		liege = d_duchy32
+	}
+	587.1.1 = {
+		holder = ELR_18
+	}
+}
+
+c_181 = {
+	587.1.1 = { change_development_level = 8 }
+	587.1.1 = { government = tribal_government }
+	587.1.1 = {
+		liege = d_duchy32
+	}
+	587.1.1 = {
+		holder = ORTH_309
+	}
+}
+
+c_184 = {
+	587.1.1 = { change_development_level = 8 }
+	587.1.1 = { government = tribal_government }
+	587.1.1 = {
+		liege = d_duchy32
+	}
+	587.1.1 = {
+		holder = ELR_30
+	}
+}
+
+c_186 = {
+	587.1.1 = { change_development_level = 8 }
+	587.1.1 = { government = tribal_government }
+	587.1.1 = {
+		holder = ELR_36
+	}
+}
+
+c_187 = {
+	587.1.1 = { change_development_level = 8 }
+	587.1.1 = { government = tribal_government }
+	587.1.1 = {
+		holder = ELR_36
+	}
+}
+
+c_188 = {
+	587.1.1 = { change_development_level = 8 }
+	587.1.1 = { government = tribal_government }
+	587.1.1 = {
+		holder = ELR_36
+	}
+}
+
+d_duchy33 = {
+	587.1.1 = { change_development_level = 8 }
+	587.1.1 = { government = tribal_government }
+	587.1.1 = {
+		holder = ELR_104
+	}
+}
+
+c_193 = {
+	587.1.1 = { change_development_level = 8 }
+	587.1.1 = { government = tribal_government }
+	587.1.1 = {
+		holder = ELR_104
+	}
+}
+
+c_192 = {
+	587.1.1 = { change_development_level = 8 }
+	587.1.1 = { government = tribal_government }
+	587.1.1 = {
+		holder = ELR_104
+	}
+}
+
+c_194 = {
+	587.1.1 = { change_development_level = 8 }
+	587.1.1 = { government = tribal_government }
+	587.1.1 = {
+		liege = d_duchy33
+	}
+	587.1.1 = {
+		holder = ELR_108
+	}
+}
+
+c_191 = {
+	587.1.1 = { change_development_level = 8 }
+	587.1.1 = { government = tribal_government }
+	587.1.1 = {
+		liege = d_duchy33
+	}
+	587.1.1 = {
+		holder = ELR_146
+	}
+}
+
+c_190 = {
+	587.1.1 = { change_development_level = 8 }
+	587.1.1 = { government = tribal_government }
+	587.1.1 = {
+		holder = ELR_119
+	}
+}
+
+c_189 = {
+	587.1.1 = { change_development_level = 8 }
+	587.1.1 = { government = tribal_government }
+	587.1.1 = {
+		holder = ELR_119
+	}
+}
+
+c_195 = {
+	587.1.1 = { change_development_level = 8 }
+	587.1.1 = { government = tribal_government }
+	587.1.1 = {
+		holder = ELR_119
+	}
+}
+
+c_197 = {
+	587.1.1 = { change_development_level = 8 }
+	587.1.1 = { government = tribal_government }
+	587.1.1 = {
+		holder = ELR_148
+	}
+}
+
+c_200 = {
+	587.1.1 = { change_development_level = 8 }
+	587.1.1 = { government = tribal_government }
+	587.1.1 = {
+		holder = ELR_148
+	}
+}
+
+c_196 = {
+	587.1.1 = { change_development_level = 8 }
+	587.1.1 = { government = tribal_government }
+	587.1.1 = {
+		holder = ELR_202
+	}
+}
+
+c_198 = {
+	587.1.1 = { change_development_level = 8 }
+	587.1.1 = { government = tribal_government }
+	587.1.1 = {
+		holder = ELR_202
+	}
+}
+
+c_199 = {
+	587.1.1 = { change_development_level = 8 }
+	587.1.1 = { government = tribal_government }
+	587.1.1 = {
+		holder = ELR_211
+	}
+}
+
+c_201 = {
+	587.1.1 = { change_development_level = 8 }
+	587.1.1 = { government = tribal_government }
+	587.1.1 = {
+		holder = ELR_244
+	}
+}
+
+c_202 = {
+	587.1.1 = { change_development_level = 8 }
+	587.1.1 = { government = tribal_government }
+	587.1.1 = {
+		holder = ELR_244
+	}
+}

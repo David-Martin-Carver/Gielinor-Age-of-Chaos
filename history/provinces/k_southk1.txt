@@ -1,0 +1,690 @@
+#k_southk1
+##d_duchy78 ###################################
+###c_528
+##d_duchy79 ###################################
+1994 = {	#placeholder
+	culture = thalleran
+	religion = colocist
+	holding = castle_holding
+}
+1995 = {	#placeholder
+	holding = city_holding
+}
+1996 = {	#placeholder
+	holding = none
+}
+###c_529
+1904 = {	#placeholder
+	culture = thalleran
+	religion = colocist
+	holding = castle_holding
+}
+1903 = {	#placeholder
+	holding = none
+}
+1906 = {	#placeholder
+	holding = church_holding
+}
+1905 = {	#placeholder
+	holding = none
+}
+###c_530
+1894 = {	#placeholder
+	culture = thalleran
+	religion = colocist
+	holding = castle_holding
+}
+1892 = {	#placeholder
+	holding = city_holding
+}
+1893 = {	#placeholder
+	holding = church_holding
+}
+1895 = {	#placeholder
+	holding = none
+}
+###c_531
+1902 = {	#placeholder
+	culture = thalleran
+	religion = colocist
+	holding = castle_holding
+}
+1901 = {	#placeholder
+	holding = city_holding
+}
+1900 = {	#placeholder
+	holding = none
+}
+###c_532
+1889 = {	#placeholder
+	culture = thalleran
+	religion = colocist
+	holding = castle_holding
+}
+1891 = {	#placeholder
+	holding = city_holding
+}
+1890 = {	#placeholder
+	holding = none
+}
+###c_533
+1899 = {	#placeholder
+	culture = thalleran
+	religion = colocist
+	holding = castle_holding
+}
+1897 = {	#placeholder
+	holding = city_holding
+}
+1898 = {	#placeholder
+	holding = none
+}
+1896 = {	#placeholder
+	holding = none
+}
+###c_534
+1908 = {	#placeholder
+	culture = thalleran
+	religion = colocist
+	holding = castle_holding
+}
+1909 = {	#placeholder
+	holding = city_holding
+}
+1907 = {	#placeholder
+	holding = church_holding
+}
+###c_535
+1911 = {	#placeholder
+	culture = thalleran
+	religion = colocist
+	holding = castle_holding
+}
+1913 = {	#placeholder
+	holding = city_holding
+}
+1912 = {	#placeholder
+	holding = church_holding
+}
+1910 = {	#placeholder
+	holding = none
+}
+###c_536
+1914 = {	#placeholder
+	culture = thalleran
+	religion = colocist
+	holding = castle_holding
+}
+1915 = {	#placeholder
+	holding = city_holding
+}
+1916 = {	#placeholder
+	holding = church_holding
+}
+###c_537
+1918 = {	#placeholder
+	culture = thalleran
+	religion = colocist
+	holding = castle_holding
+}
+1917 = {	#placeholder
+	holding = city_holding
+}
+1919 = {	#placeholder
+	holding = none
+}
+###c_538
+1920 = {	#placeholder
+	culture = thalleran
+	religion = colocist
+	holding = castle_holding
+}
+1923 = {	#placeholder
+	holding = city_holding
+}
+1921 = {	#placeholder
+	holding = church_holding
+}
+1925 = {	#placeholder
+	holding = none
+}
+###c_539
+1924 = {	#placeholder
+	culture = thalleran
+	religion = colocist
+	holding = castle_holding
+}
+1927 = {	#placeholder
+	holding = city_holding
+}
+1926 = {	#placeholder
+	holding = church_holding
+}
+###c_540
+1929 = {	#placeholder
+	culture = thalleran
+	religion = colocist
+	holding = castle_holding
+}
+1922 = {	#placeholder
+	holding = city_holding
+}
+1928 = {	#placeholder
+	holding = none
+}
+###c_541
+1931 = {	#placeholder
+	culture = thalleran
+	religion = colocist
+	holding = castle_holding
+}
+1932 = {	#placeholder
+	holding = city_holding
+}
+1930 = {	#placeholder
+	holding = church_holding
+}
+###c_542
+1935 = {	#placeholder
+	culture = thalleran
+	religion = colocist
+	holding = castle_holding
+}
+1933 = {	#placeholder
+	holding = city_holding
+}
+1934 = {	#placeholder
+	holding = none
+}
+###c_543
+1941 = {	#placeholder
+	culture = thalleran
+	religion = colocist
+	holding = castle_holding
+}
+1943 = {	#placeholder
+	holding = city_holding
+}
+1940 = {	#placeholder
+	holding = church_holding
+}
+1942 = {	#placeholder
+	holding = none
+}
+###c_544
+##d_duchy80 ###################################
+1939 = {	#placeholder
+	culture = thalleran
+	religion = colocist
+	holding = castle_holding
+}
+1936 = {	#placeholder
+	holding = city_holding
+}
+1938 = {	#placeholder
+	holding = none
+}
+1937 = {	#placeholder
+	holding = none
+}
+###c_545
+1980 = {	#placeholder
+	culture = thalleran
+	religion = colocist
+	holding = castle_holding
+}
+1981 = {	#placeholder
+	holding = city_holding
+}
+1982 = {	#placeholder
+	holding = church_holding
+}
+1979 = {	#placeholder
+	holding = none
+}
+###c_546
+1984 = {	#placeholder
+	culture = thalleran
+	religion = colocist
+	holding = castle_holding
+}
+1983 = {	#placeholder
+	holding = city_holding
+}
+1985 = {	#placeholder
+	holding = none
+}
+1986 = {	#placeholder
+	holding = none
+}
+###c_547
+1976 = {	#placeholder
+	culture = thalleran
+	religion = colocist
+	holding = castle_holding
+}
+1978 = {	#placeholder
+	holding = city_holding
+}
+1977 = {	#placeholder
+	holding = none
+}
+###c_548
+1992 = {	#placeholder
+	culture = thalleran
+	religion = colocist
+	holding = castle_holding
+}
+1991 = {	#placeholder
+	holding = city_holding
+}
+1993 = {	#placeholder
+	holding = church_holding
+}
+###c_549
+1988 = {	#placeholder
+	culture = thalleran
+	religion = colocist
+	holding = castle_holding
+}
+1987 = {	#placeholder
+	holding = none
+}
+1989 = {	#placeholder
+	holding = church_holding
+}
+1990 = {	#placeholder
+	holding = none
+}
+###c_550
+1956 = {	#placeholder
+	culture = thalleran
+	religion = colocist
+	holding = castle_holding
+}
+1957 = {	#placeholder
+	holding = city_holding
+}
+1955 = {	#placeholder
+	holding = church_holding
+}
+1954 = {	#placeholder
+	holding = none
+}
+###c_551
+1950 = {	#placeholder
+	culture = thalleran
+	religion = colocist
+	holding = castle_holding
+}
+1952 = {	#placeholder
+	holding = city_holding
+}
+1953 = {	#placeholder
+	holding = church_holding
+}
+1951 = {	#placeholder
+	holding = none
+}
+###c_552
+1959 = {	#placeholder
+	culture = thalleran
+	religion = colocist
+	holding = castle_holding
+}
+1960 = {	#placeholder
+	holding = city_holding
+}
+1958 = {	#placeholder
+	holding = none
+}
+###c_552b
+1975 = {	#placeholder
+	culture = thalleran
+	religion = colocist
+	holding = castle_holding
+}
+1972 = {	#placeholder
+	holding = none
+}
+1974 = {	#placeholder
+	holding = church_holding
+}
+1973 = {	#placeholder
+	holding = none
+}
+###c_553
+1965 = {	#placeholder
+	culture = thalleran
+	religion = colocist
+	holding = castle_holding
+}
+1966 = {	#placeholder
+	holding = city_holding
+}
+1967 = {	#placeholder
+	holding = church_holding
+}
+1968 = {	#placeholder
+	holding = none
+}
+###c_554
+1970 = {	#placeholder
+	culture = thalleran
+	religion = colocist
+	holding = castle_holding
+}
+1971 = {	#placeholder
+	holding = city_holding
+}
+1969 = {	#placeholder
+	holding = none
+}
+###c_555
+1961 = {	#placeholder
+	culture = thalleran
+	religion = colocist
+	holding = castle_holding
+}
+1963 = {	#placeholder
+	holding = city_holding
+}
+1962 = {	#placeholder
+	holding = none
+}
+1964 = {	#placeholder
+	holding = none
+}
+###c_556
+1948 = {	#placeholder
+	culture = thalleran
+	religion = colocist
+	holding = castle_holding
+}
+1949 = {	#placeholder
+	holding = city_holding
+}
+1947 = {	#placeholder
+	holding = church_holding
+}
+###c_557
+##d_duchy81 ###################################
+1944 = {	#placeholder
+	culture = thalleran
+	religion = colocist
+	holding = castle_holding
+}
+1946 = {	#placeholder
+	holding = city_holding
+}
+1945 = {	#placeholder
+	holding = none
+}
+###c_558
+2014 = {	#placeholder
+	culture = florisan
+	religion = colocist
+	holding = castle_holding
+}
+2011 = {	#placeholder
+	holding = city_holding
+}
+2012 = {	#placeholder
+	holding = none
+}
+2013 = {	#placeholder
+	holding = none
+}
+###c_559
+2009 = {	#placeholder
+	culture = florisan
+	religion = colocist
+	holding = castle_holding
+}
+2010 = {	#placeholder
+	holding = city_holding
+}
+###c_560
+2015 = {	#placeholder
+	culture = florisan
+	religion = colocist
+	holding = castle_holding
+}
+2016 = {	#placeholder
+	holding = city_holding
+}
+###c_561
+2018 = {	#placeholder
+	culture = florisan
+	religion = colocist
+	holding = castle_holding
+}
+2019 = {	#placeholder
+	holding = city_holding
+}
+2017 = {	#placeholder
+	holding = church_holding
+}
+###c_562
+2025 = {	#placeholder
+	culture = florisan
+	religion = colocist
+	holding = castle_holding
+}
+2023 = {	#placeholder
+	holding = city_holding
+}
+2024 = {	#placeholder
+	holding = none
+}
+###c_563
+2028 = {	#placeholder
+	culture = florisan
+	religion = colocist
+	holding = castle_holding
+}
+2027 = {	#placeholder
+	holding = city_holding
+}
+2026 = {	#placeholder
+	holding = none
+}
+###c_564
+2033 = {	#placeholder
+	culture = florisan
+	religion = colocist
+	holding = castle_holding
+}
+2034 = {	#placeholder
+	holding = city_holding
+}
+2032 = {	#placeholder
+	holding = none
+}
+###c_565
+2030 = {	#placeholder
+	culture = florisan
+	religion = colocist
+	holding = castle_holding
+}
+2031 = {	#placeholder
+	holding = city_holding
+}
+2029 = {	#placeholder
+	holding = none
+}
+###c_566
+2021 = {	#placeholder
+	culture = florisan
+	religion = colocist
+	holding = castle_holding
+}
+2022 = {	#placeholder
+	holding = city_holding
+}
+2020 = {	#placeholder
+	holding = none
+}
+###c_567
+2003 = {	#placeholder
+	culture = florisan
+	religion = colocist
+	holding = castle_holding
+}
+2002 = {	#placeholder
+	holding = city_holding
+}
+2004 = {	#placeholder
+	holding = none
+}
+###c_568
+1997 = {	#placeholder
+	culture = florisan
+	religion = colocist
+	holding = castle_holding
+}
+1998 = {	#placeholder
+	holding = city_holding
+}
+1999 = {	#placeholder
+	holding = none
+}
+###c_569
+2000 = {	#placeholder
+	culture = florisan
+	religion = colocist
+	holding = castle_holding
+}
+2001 = {	#placeholder
+	holding = city_holding
+}
+###c_570
+##d_duchy82 ###################################
+2006 = {	#placeholder
+	culture = florisan
+	religion = colocist
+	holding = castle_holding
+}
+2005 = {	#placeholder
+	holding = city_holding
+}
+2007 = {	#placeholder
+	holding = church_holding
+}
+2008 = {	#placeholder
+	holding = none
+}
+###c_571
+2060 = {	#placeholder
+	culture = florisan
+	religion = colocist
+	holding = castle_holding
+}
+2058 = {	#placeholder
+	holding = city_holding
+}
+2059 = {	#placeholder
+	holding = none
+}
+2057 = {	#placeholder
+	holding = none
+}
+###c_572
+2062 = {	#placeholder
+	culture = florisan
+	religion = colocist
+	holding = castle_holding
+}
+2052 = {	#placeholder
+	holding = city_holding
+}
+2061 = {	#placeholder
+	holding = church_holding
+}
+###c_573
+2051 = {	#placeholder
+	culture = florisan
+	religion = colocist
+	holding = castle_holding
+}
+2049 = {	#placeholder
+	holding = city_holding
+}
+2050 = {	#placeholder
+	holding = none
+}
+###c_574
+2046 = {	#placeholder
+	culture = florisan
+	religion = colocist
+	holding = castle_holding
+}
+2047 = {	#placeholder
+	holding = city_holding
+}
+2048 = {	#placeholder
+	holding = none
+}
+###c_575
+2040 = {	#placeholder
+	culture = florisan
+	religion = colocist
+	holding = castle_holding
+}
+2041 = {	#placeholder
+	holding = city_holding
+}
+2042 = {	#placeholder
+	holding = none
+}
+###c_576
+2056 = {	#placeholder
+	culture = florisan
+	religion = colocist
+	holding = castle_holding
+}
+2055 = {	#placeholder
+	holding = city_holding
+}
+###c_576
+2054 = {	#placeholder
+	culture = florisan
+	religion = colocist
+	holding = castle_holding
+}
+2053 = {	#placeholder
+	holding = city_holding
+}
+###c_577
+2043 = {	#placeholder
+	culture = florisan
+	religion = colocist
+	holding = castle_holding
+}
+2045 = {	#placeholder
+	holding = city_holding
+}
+2044 = {	#placeholder
+	holding = church_holding
+}
+###c_578
+2038 = {	#placeholder
+	culture = florisan
+	religion = colocist
+	holding = castle_holding
+}
+2039 = {	#placeholder
+	holding = city_holding
+}
+2037 = {	#placeholder
+	holding = none
+}
+###c_579
+2035 = {	#placeholder
+	culture = florisan
+	religion = colocist
+	holding = castle_holding
+}
+2036 = {	#placeholder
+	holding = city_holding
+}

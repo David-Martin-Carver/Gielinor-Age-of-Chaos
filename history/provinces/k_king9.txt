@@ -1,0 +1,532 @@
+#k_king9
+##d_duchy35 ###################################
+###c_203
+832 = {	#placeholder
+	culture = ferran
+	religion = jibai
+	holding = castle_holding
+}
+835 = {	#placeholder
+	holding = city_holding
+}
+833 = {	#placeholder
+	holding = church_holding
+}
+834 = {	#placeholder
+	holding = none
+}
+###c_204
+830 = {	#placeholder
+	culture = ferran
+	religion = jibai
+	holding = castle_holding
+}
+831 = {	#placeholder
+	holding = city_holding
+}
+829 = {	#placeholder
+	holding = church_holding
+}
+828 = {	#placeholder
+	holding = none
+}
+###c_205
+827 = {	#placeholder
+	culture = ferran
+	religion = jibai
+	holding = castle_holding
+}
+826 = {	#placeholder
+	holding = city_holding
+}
+825 = {	#placeholder
+	holding = church_holding
+}
+###c_206
+822 = {	#placeholder
+	culture = ferran
+	religion = jibai
+	holding = castle_holding
+}
+824 = {	#placeholder
+	holding = city_holding
+}
+823 = {	#placeholder
+	holding = church_holding
+}
+###c_207
+846 = {	#placeholder
+	culture = ferran
+	religion = jibai
+	holding = castle_holding
+}
+845 = {	#placeholder
+	holding = city_holding
+}
+847 = {	#placeholder
+	holding = none
+}
+844 = {	#placeholder
+	holding = none
+}
+###c_208
+837 = {	#placeholder
+	culture = ferran
+	religion = jibai
+	holding = castle_holding
+}
+836 = {	#placeholder
+	holding = city_holding
+}
+838 = {	#placeholder
+	holding = none
+}
+839 = {	#placeholder
+	holding = none
+}
+###c_209
+##d_duchy36 ###################################
+842 = {	#placeholder
+	culture = ferran
+	religion = jibai
+	holding = castle_holding
+}
+841 = {	#placeholder
+	holding = city_holding
+}
+843 = {	#placeholder
+	holding = church_holding
+}
+840 = {	#placeholder
+	holding = none
+}
+###c_210
+774 = {	#placeholder
+	culture = lyrathian
+	religion = jibai
+	holding = castle_holding
+}
+771 = {	#placeholder
+	holding = city_holding
+}
+772 = {	#placeholder
+	holding = church_holding
+}
+773 = {	#placeholder
+	holding = none
+}
+###c_211
+776 = {	#placeholder
+	culture = ferran
+	religion = jibai
+	holding = castle_holding
+}
+777 = {	#placeholder
+	holding = city_holding
+}
+778 = {	#placeholder
+	holding = none
+}
+775 = {	#placeholder
+	holding = none
+}
+###c_212
+779 = {	#placeholder
+	culture = ferran
+	religion = jibai
+	holding = castle_holding
+}
+780 = {	#placeholder
+	holding = city_holding
+}
+781 = {	#placeholder
+	holding = none
+}
+782 = {	#placeholder
+	holding = none
+}
+###c_213
+783 = {	#placeholder
+	culture = ferran
+	religion = jibai
+	holding = castle_holding
+}
+784 = {	#placeholder
+	holding = none
+}
+785 = {	#placeholder
+	holding = church_holding
+}
+###c_214
+787 = {	#placeholder
+	culture = lyrathian
+	religion = jibai
+	holding = castle_holding
+}
+788 = {	#placeholder
+	holding = city_holding
+}
+786 = {	#placeholder
+	holding = church_holding
+}
+###c_215
+789 = {	#placeholder
+	culture = lyrathian
+	religion = jibai
+	holding = castle_holding
+}
+790 = {	#placeholder
+	holding = city_holding
+}
+791 = {	#placeholder
+	holding = church_holding
+}
+792 = {	#placeholder
+	holding = none
+}
+###c_216
+794 = {	#placeholder
+	culture = lyrathian
+	religion = veyr_pagan
+	holding = castle_holding
+}
+796 = {	#placeholder
+	holding = city_holding
+}
+793 = {	#placeholder
+	holding = none
+}
+795 = {	#placeholder
+	holding = none
+}
+###c_217
+##d_duchy37 ###################################
+767 = {	#placeholder
+	culture = lyrathian
+	religion = veyr_pagan
+	holding = castle_holding
+}
+768 = {	#placeholder
+	holding = city_holding
+}
+769 = {	#placeholder
+	holding = church_holding
+}
+770 = {	#placeholder
+	holding = none
+}
+###c_218
+763 = {	#placeholder
+	culture = lyrathian
+	religion = veyr_pagan
+	holding = castle_holding
+}
+764 = {	#placeholder
+	holding = city_holding
+}
+765 = {	#placeholder
+	holding = none
+}
+766 = {	#placeholder
+	holding = none
+}
+###c_219
+##d_duchy38 ###################################
+760 = {	#placeholder
+	culture = lyrathian
+	religion = veyr_pagan
+	holding = castle_holding
+}
+762 = {	#placeholder
+	holding = city_holding
+}
+761 = {	#placeholder
+	holding = church_holding
+}
+###c_220
+797 = {	#placeholder
+	culture = lyrathian
+	religion = veyr_pagan
+	holding = castle_holding
+}
+799 = {	#placeholder
+	holding = none
+}
+798 = {	#placeholder
+	holding = church_holding
+}
+800 = {	#placeholder
+	holding = none
+}
+###c_221
+807 = {	#placeholder
+	culture = lyrathian
+	religion = jibai
+	holding = castle_holding
+}
+805 = {	#placeholder
+	holding = city_holding
+}
+806 = {	#placeholder
+	holding = none
+}
+###c_222
+809 = {	#placeholder
+	culture = lyrathian
+	religion = jibai
+	holding = castle_holding
+}
+808 = {	#placeholder
+	holding = city_holding
+}
+###c_223
+801 = {	#placeholder
+	culture = lyrathian
+	religion = jibai
+	holding = castle_holding
+}
+802 = {	#placeholder
+	holding = city_holding
+}
+804 = {	#placeholder
+	holding = none
+}
+803 = {	#placeholder
+	holding = none
+}
+###c_224
+816 = {	#placeholder
+	culture = lyrathian
+	religion = jibai
+	holding = castle_holding
+}
+815 = {	#placeholder
+	holding = city_holding
+}
+817 = {	#placeholder
+	holding = church_holding
+}
+814 = {	#placeholder
+	holding = none
+}
+###c_225
+811 = {	#placeholder
+	culture = lyrathian
+	religion = jibai
+	holding = castle_holding
+}
+812 = {	#placeholder
+	holding = none
+}
+813 = {	#placeholder
+	holding = church_holding
+}
+810 = {	#placeholder
+	holding = none
+}
+###c_226
+##d_duchy39 ###################################
+820 = {	#placeholder
+	culture = lyrathian
+	religion = jibai
+	holding = castle_holding
+}
+821 = {	#placeholder
+	holding = city_holding
+}
+819 = {	#placeholder
+	holding = none
+}
+818 = {	#placeholder
+	holding = none
+}
+###c_227
+866 = {	#placeholder
+	culture = ferran
+	religion = jibai
+	holding = castle_holding
+}
+868 = {	#placeholder
+	holding = city_holding
+}
+867 = {	#placeholder
+	holding = church_holding
+}
+869 = {	#placeholder
+	holding = none
+}
+###c_228
+873 = {	#placeholder
+	culture = ferran
+	religion = jibai
+	holding = castle_holding
+}
+872 = {	#placeholder
+	holding = city_holding
+}
+870 = {	#placeholder
+	holding = church_holding
+}
+871 = {	#placeholder
+	holding = none
+}
+###c_229
+864 = {	#placeholder
+	culture = ferran
+	religion = jibai
+	holding = castle_holding
+}
+865 = {	#placeholder
+	holding = city_holding
+}
+863 = {	#placeholder
+	holding = church_holding
+}
+###c_230
+859 = {	#placeholder
+	culture = ferran
+	religion = jibai
+	holding = castle_holding
+}
+861 = {	#placeholder
+	holding = city_holding
+}
+860 = {	#placeholder
+	holding = none
+}
+862 = {	#placeholder
+	holding = none
+}
+###c_231
+856 = {	#placeholder
+	culture = ferran
+	religion = jibai
+	holding = castle_holding
+}
+855 = {	#placeholder
+	holding = city_holding
+}
+857 = {	#placeholder
+	holding = church_holding
+}
+858 = {	#placeholder
+	holding = none
+}
+###c_232
+852 = {	#placeholder
+	culture = ferran
+	religion = jibai
+	holding = castle_holding
+}
+854 = {	#placeholder
+	holding = city_holding
+}
+853 = {	#placeholder
+	holding = church_holding
+}
+###c_233
+##d_duchy40 ###################################
+850 = {	#placeholder
+	culture = ferran
+	religion = jibai
+	holding = castle_holding
+}
+848 = {	#placeholder
+	holding = none
+}
+849 = {	#placeholder
+	holding = church_holding
+}
+851 = {	#placeholder
+	holding = none
+}
+###c_234
+874 = {	#placeholder
+	culture = lyrathian
+	religion = jibai
+	holding = castle_holding
+}
+877 = {	#placeholder
+	holding = city_holding
+}
+875 = {	#placeholder
+	holding = church_holding
+}
+878 = {	#placeholder
+	holding = none
+}
+876 = {	#placeholder
+	holding = none
+}
+###c_235
+881 = {	#placeholder
+	culture = lyrathian
+	religion = jibai
+	holding = castle_holding
+}
+883 = {	#placeholder
+	holding = city_holding
+}
+880 = {	#placeholder
+	holding = church_holding
+}
+879 = {	#placeholder
+	holding = none
+}
+###c_236
+885 = {	#placeholder
+	culture = lyrathian
+	religion = jibai
+	holding = castle_holding
+}
+882 = {	#placeholder
+	holding = city_holding
+}
+886 = {	#placeholder
+	holding = none
+}
+884 = {	#placeholder
+	holding = none
+}
+###c_237
+889 = {	#placeholder
+	culture = lyrathian
+	religion = jibai
+	holding = castle_holding
+}
+888 = {	#placeholder
+	holding = city_holding
+}
+890 = {	#placeholder
+	holding = none
+}
+887 = {	#placeholder
+	holding = none
+}
+###c_238
+892 = {	#placeholder
+	culture = lyrathian
+	religion = jibai
+	holding = castle_holding
+}
+891 = {	#placeholder
+	holding = city_holding
+}
+893 = {	#placeholder
+	holding = church_holding
+}
+###c_239
+894 = {	#placeholder
+	culture = lyrathian
+	religion = jibai
+	holding = castle_holding
+}
+896 = {	#placeholder
+	holding = city_holding
+}
+895 = {	#placeholder
+	holding = church_holding
+}
+897 = {	#placeholder
+	holding = none
+}

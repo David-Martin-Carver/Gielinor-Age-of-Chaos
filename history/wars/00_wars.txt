@@ -1,0 +1,12 @@
+war = {
+    name = "war_587_arbundian_vs_company_reconquest"
+    start_date = 586.10.14
+    end_date = 589.7.22
+    targeted_titles = {
+        c_30
+    }
+    casus_belli = de_jure_cb
+    attackers = { ARB_297 }
+    defenders = { calven_001 aiothek_001 }
+    claimant = ARB_297
+}

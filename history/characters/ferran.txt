@@ -1,0 +1,3569 @@
+FER_1 = {
+    name = "Ailill133"
+    culture = "ferran"
+    faith = "jibai"
+    dynasty = FERD1 #FerDyn1
+    father = FER_7 #Cadan42
+    mother = FER_100 #Aife57
+    570.1.1 = {
+        birth = yes
+    }
+    586.1.1 = {
+        add_spouse = FER_175 #Niamh218
+    }
+}
+
+FER_10 = {
+    name = "Conall112"
+    culture = "ferran"
+    faith = "jibai"
+    dynasty = FERD1 #FerDyn1
+    father = FER_33 #Oengus105
+    mother = FER_48 #Ceridwen44
+    571.1.1 = {
+        birth = yes
+    }
+    586.1.1 = {
+        add_spouse = FER_204 #Ffion226
+    }
+}
+
+FER_100 = {
+    name = "Aife57"
+    culture = "ferran"
+    faith = "jibai"
+    female = yes
+    dynasty = FERD4 #FerDyn4
+    father = FER_145 #Taranis17
+    mother = FER_237 #Eleri35
+    550.1.1 = {
+        birth = yes
+    }
+    569.1.1 = {
+        add_spouse = FER_7 #Cadan42
+    }
+}
+
+FER_101 = {
+    name = "Aislinn171"
+    culture = "ferran"
+    faith = "jibai"
+    female = yes
+    dynasty = FERD4 #FerDyn4
+    father = FER_129 #Gawain102
+    mother = FER_219 #Teleri88
+    572.1.1 = {
+        birth = yes
+    }
+}
+
+FER_102 = {
+    name = "Aislinn177"
+    culture = "ferran"
+    faith = "jibai"
+    female = yes
+    dynasty = FERD4 #FerDyn4
+    father = FER_128 #Gawain101
+    mother = FER_215 #Sinead83
+    574.1.1 = {
+        birth = yes
+    }
+}
+
+FER_103 = {
+    name = "Bran176"
+    culture = "ferran"
+    faith = "jibai"
+    dynasty = FERD4 #FerDyn4
+    father = FER_128 #Gawain101
+    mother = FER_215 #Sinead83
+    573.1.1 = {
+        birth = yes
+    }
+}
+
+FER_104 = {
+    name = "Brannoc58"
+    culture = "ferran"
+    faith = "jibai"
+    dynasty = FERD4 #FerDyn4
+    father = FER_145 #Taranis17
+    mother = FER_237 #Eleri35
+    552.1.1 = {
+        birth = yes
+    }
+    567.1.1 = {
+        add_spouse = FER_39 #Sinead37
+    }
+}
+
+FER_105 = {
+    name = "Branwen191"
+    culture = "ferran"
+    faith = "jibai"
+    female = yes
+    dynasty = FERD4 #FerDyn4
+    father = FER_134 #Mabon63
+    mother = FER_9 #Ceridwen41
+    573.1.1 = {
+        birth = yes
+    }
+}
+
+FER_106 = {
+    name = "Brennus169"
+    culture = "ferran"
+    faith = "jibai"
+    dynasty = FERD4 #FerDyn4
+    father = FER_129 #Gawain102
+    mother = FER_219 #Teleri88
+    569.1.1 = {
+        birth = yes
+    }
+    586.1.1 = {
+        add_spouse = FER_189 #Aislinn225
+    }
+}
+
+FER_107 = {
+    name = "Brigid188"
+    culture = "ferran"
+    faith = "jibai"
+    female = yes
+    dynasty = FERD4 #FerDyn4
+    father = FER_104 #Brannoc58
+    mother = FER_39 #Sinead37
+    568.1.1 = {
+        birth = yes
+    }
+    586.1.1 = {
+        add_spouse = FER_14 #Cynric110
+    }
+}
+
+FER_108 = {
+    name = "Cadan18"
+    culture = "ferran"
+    faith = "jibai"
+    dynasty = FERD4 #FerDyn4
+    father = FER_119 #Drustan16
+    521.1.1 = {
+        birth = yes
+    }
+    542.1.1 = {
+        add_spouse = FER_23 #Gwyneth5
+    }
+    570.1.1 = {
+        death = yes
+    }
+}
+
+FER_109 = {
+    name = "Ceredig108"
+    culture = "ferran"
+    faith = "jibai"
+    dynasty = FERD4 #FerDyn4
+    547.1.1 = {
+        birth = yes
+    }
+    573.1.1 = {
+        add_spouse = FER_228 #Cairenn97
+    }
+}
+
+FER_11 = {
+    name = "Conall117"
+    culture = "ferran"
+    faith = "jibai"
+    dynasty = FERD1 #FerDyn1
+    father = FER_21 #Geraint107
+    mother = FER_62 #Sinead45
+    579.1.1 = {
+        birth = yes
+    }
+}
+
+FER_110 = {
+    name = "Ceredig170"
+    culture = "ferran"
+    faith = "jibai"
+    dynasty = FERD4 #FerDyn4
+    father = FER_129 #Gawain102
+    mother = FER_219 #Teleri88
+    571.1.1 = {
+        birth = yes
+    }
+    586.1.1 = {
+        add_spouse = FER_226 #Arianwen244
+    }
+}
+
+FER_111 = {
+    name = "Ciaran193"
+    culture = "ferran"
+    faith = "jibai"
+    dynasty = FERD4 #FerDyn4
+    father = FER_134 #Mabon63
+    mother = FER_9 #Ceridwen41
+    577.1.1 = {
+        birth = yes
+    }
+}
+
+FER_112 = {
+    name = "Conall200"
+    culture = "ferran"
+    faith = "jibai"
+    dynasty = FERD4 #FerDyn4
+    father = FER_142 #Oengus61
+    mother = FER_59 #Orlaith49
+    579.1.1 = {
+        birth = yes
+    }
+}
+
+FER_113 = {
+    name = "Cynric172"
+    culture = "ferran"
+    faith = "jibai"
+    dynasty = FERD4 #FerDyn4
+    father = FER_129 #Gawain102
+    mother = FER_219 #Teleri88
+    574.1.1 = {
+        birth = yes
+    }
+}
+
+FER_114 = {
+    name = "Cynric185"
+    culture = "ferran"
+    faith = "jibai"
+    dynasty = FERD4 #FerDyn4
+    father = FER_120 #Drustan62
+    mother = FER_230 #Ceridwen93
+    579.1.1 = {
+        birth = yes
+    }
+}
+
+FER_115 = {
+    name = "Deirdre19"
+    culture = "ferran"
+    faith = "jibai"
+    female = yes
+    dynasty = FERD4 #FerDyn4
+    father = FER_119 #Drustan16
+    524.1.1 = {
+        birth = yes
+    }
+    537.1.1 = {
+        add_spouse = FER_160 #Fergus23
+    }
+    569.1.1 = {
+        death = yes
+    }
+}
+
+FER_116 = {
+    name = "Delyth20"
+    culture = "ferran"
+    faith = "jibai"
+    female = yes
+    dynasty = FERD4 #FerDyn4
+    father = FER_119 #Drustan16
+    527.1.1 = {
+        birth = yes
+    }
+    548.1.1 = {
+        add_spouse = FER_57 #Nemed8
+    }
+    575.1.1 = {
+        death = yes
+    }
+}
+
+FER_117 = {
+    name = "Diarmaid183"
+    culture = "ferran"
+    faith = "jibai"
+    dynasty = FERD4 #FerDyn4
+    father = FER_109 #Ceredig108
+    mother = FER_228 #Cairenn97
+    578.1.1 = {
+        birth = yes
+    }
+}
+
+FER_118 = {
+    name = "Domnall179"
+    culture = "ferran"
+    faith = "jibai"
+    dynasty = FERD4 #FerDyn4
+    father = FER_128 #Gawain101
+    mother = FER_215 #Sinead83
+    578.1.1 = {
+        birth = yes
+    }
+}
+
+FER_119 = {
+    name = "Drustan16"
+    culture = "ferran"
+    faith = "jibai"
+    dynasty = FERD4 #FerDyn4
+    483.1.1 = {
+        birth = yes
+    }
+    564.1.1 = {
+        death = yes
+    }
+}
+
+FER_12 = {
+    name = "Cormac129"
+    culture = "ferran"
+    faith = "jibai"
+    dynasty = FERD1 #FerDyn1
+    father = FER_13 #Cunobelin39
+    mother = FER_70 #Aine55
+    573.1.1 = {
+        birth = yes
+    }
+}
+
+FER_120 = {
+    name = "Drustan62"
+    culture = "ferran"
+    faith = "jibai"
+    dynasty = FERD4 #FerDyn4
+    father = FER_108 #Cadan18
+    mother = FER_23 #Gwyneth5
+    550.1.1 = {
+        birth = yes
+    }
+    577.1.1 = {
+        add_spouse = FER_230 #Ceridwen93
+    }
+}
+
+FER_121 = {
+    name = "Eleri174"
+    culture = "ferran"
+    faith = "jibai"
+    female = yes
+    dynasty = FERD4 #FerDyn4
+    father = FER_128 #Gawain101
+    mother = FER_215 #Sinead83
+    570.1.1 = {
+        birth = yes
+    }
+    586.1.1 = {
+        add_spouse = FER_157 #Cormac219
+    }
+}
+
+FER_122 = {
+    name = "Eleri175"
+    culture = "ferran"
+    faith = "jibai"
+    female = yes
+    dynasty = FERD4 #FerDyn4
+    father = FER_128 #Gawain101
+    mother = FER_215 #Sinead83
+    571.1.1 = {
+        birth = yes
+    }
+    586.1.1 = {
+        add_spouse = FER_244 #Mael239
+    }
+}
+
+FER_123 = {
+    name = "Eleri60"
+    culture = "ferran"
+    faith = "jibai"
+    female = yes
+    dynasty = FERD4 #FerDyn4
+    father = FER_145 #Taranis17
+    mother = FER_237 #Eleri35
+    554.1.1 = {
+        birth = yes
+    }
+    573.1.1 = {
+        add_spouse = FER_152 #Cadoc71
+    }
+}
+
+FER_124 = {
+    name = "Eogan196"
+    culture = "ferran"
+    faith = "jibai"
+    dynasty = FERD4 #FerDyn4
+    father = FER_134 #Mabon63
+    mother = FER_9 #Ceridwen41
+    581.1.1 = {
+        birth = yes
+    }
+}
+
+FER_125 = {
+    name = "Fergus195"
+    culture = "ferran"
+    faith = "jibai"
+    dynasty = FERD4 #FerDyn4
+    father = FER_134 #Mabon63
+    mother = FER_9 #Ceridwen41
+    580.1.1 = {
+        birth = yes
+    }
+}
+
+FER_126 = {
+    name = "Ffion65"
+    culture = "ferran"
+    faith = "jibai"
+    female = yes
+    dynasty = FERD4 #FerDyn4
+    father = FER_108 #Cadan18
+    mother = FER_23 #Gwyneth5
+    554.1.1 = {
+        birth = yes
+    }
+    572.1.1 = {
+        add_spouse = FER_51 #Fintan106
+    }
+}
+
+FER_127 = {
+    name = "Fintan187"
+    culture = "ferran"
+    faith = "jibai"
+    dynasty = FERD4 #FerDyn4
+    father = FER_120 #Drustan62
+    mother = FER_230 #Ceridwen93
+    582.1.1 = {
+        birth = yes
+    }
+}
+
+FER_128 = {
+    name = "Gawain101"
+    culture = "ferran"
+    faith = "jibai"
+    dynasty = FERD4 #FerDyn4
+    544.1.1 = {
+        birth = yes
+    }
+    569.1.1 = {
+        add_spouse = FER_215 #Sinead83
+    }
+}
+
+FER_129 = {
+    name = "Gawain102"
+    culture = "ferran"
+    faith = "jibai"
+    dynasty = FERD4 #FerDyn4
+    543.1.1 = {
+        birth = yes
+    }
+    568.1.1 = {
+        add_spouse = FER_219 #Teleri88
+    }
+}
+
+FER_13 = {
+    name = "Cunobelin39"
+    culture = "ferran"
+    faith = "jibai"
+    dynasty = FERD1 #FerDyn1
+    father = FER_35 #Oengus2
+    mother = FER_50 #Epona9
+    553.1.1 = {
+        birth = yes
+    }
+    570.1.1 = {
+        add_spouse = FER_70 #Aine55
+    }
+}
+
+FER_130 = {
+    name = "Gawain199"
+    culture = "ferran"
+    faith = "jibai"
+    dynasty = FERD4 #FerDyn4
+    father = FER_142 #Oengus61
+    mother = FER_59 #Orlaith49
+    578.1.1 = {
+        birth = yes
+    }
+}
+
+FER_131 = {
+    name = "Geraint194"
+    culture = "ferran"
+    faith = "jibai"
+    dynasty = FERD4 #FerDyn4
+    father = FER_134 #Mabon63
+    mother = FER_9 #Ceridwen41
+    578.1.1 = {
+        birth = yes
+    }
+}
+
+FER_132 = {
+    name = "Liadan189"
+    culture = "ferran"
+    faith = "jibai"
+    female = yes
+    dynasty = FERD4 #FerDyn4
+    father = FER_104 #Brannoc58
+    mother = FER_39 #Sinead37
+    570.1.1 = {
+        birth = yes
+    }
+    586.1.1 = {
+        add_spouse = FER_17 #Eogan111
+    }
+}
+
+FER_133 = {
+    name = "Liadan198"
+    culture = "ferran"
+    faith = "jibai"
+    female = yes
+    dynasty = FERD4 #FerDyn4
+    father = FER_142 #Oengus61
+    mother = FER_59 #Orlaith49
+    577.1.1 = {
+        birth = yes
+    }
+}
+
+FER_134 = {
+    name = "Mabon63"
+    culture = "ferran"
+    faith = "jibai"
+    dynasty = FERD4 #FerDyn4
+    father = FER_108 #Cadan18
+    mother = FER_23 #Gwyneth5
+    552.1.1 = {
+        birth = yes
+    }
+    572.1.1 = {
+        add_spouse = FER_9 #Ceridwen41
+    }
+}
+
+FER_135 = {
+    name = "Macha197"
+    culture = "ferran"
+    faith = "jibai"
+    female = yes
+    dynasty = FERD4 #FerDyn4
+    father = FER_142 #Oengus61
+    mother = FER_59 #Orlaith49
+    576.1.1 = {
+        birth = yes
+    }
+}
+
+FER_136 = {
+    name = "Maeve178"
+    culture = "ferran"
+    faith = "jibai"
+    female = yes
+    dynasty = FERD4 #FerDyn4
+    father = FER_128 #Gawain101
+    mother = FER_215 #Sinead83
+    576.1.1 = {
+        birth = yes
+    }
+}
+
+FER_137 = {
+    name = "Morrigan59"
+    culture = "ferran"
+    faith = "jibai"
+    female = yes
+    dynasty = FERD4 #FerDyn4
+    father = FER_145 #Taranis17
+    mother = FER_237 #Eleri35
+    553.1.1 = {
+        birth = yes
+    }
+    578.1.1 = {
+        add_spouse = FER_154 #Caratacus75
+    }
+}
+
+FER_138 = {
+    name = "Nemed180"
+    culture = "ferran"
+    faith = "jibai"
+    dynasty = FERD4 #FerDyn4
+    father = FER_109 #Ceredig108
+    mother = FER_228 #Cairenn97
+    574.1.1 = {
+        birth = yes
+    }
+}
+
+FER_139 = {
+    name = "Nemed182"
+    culture = "ferran"
+    faith = "jibai"
+    dynasty = FERD4 #FerDyn4
+    father = FER_109 #Ceredig108
+    mother = FER_228 #Cairenn97
+    577.1.1 = {
+        birth = yes
+    }
+}
+
+FER_14 = {
+    name = "Cynric110"
+    culture = "ferran"
+    faith = "jibai"
+    dynasty = FERD1 #FerDyn1
+    father = FER_33 #Oengus105
+    mother = FER_48 #Ceridwen44
+    567.1.1 = {
+        birth = yes
+    }
+    586.1.1 = {
+        add_spouse = FER_107 #Brigid188
+    }
+}
+
+FER_140 = {
+    name = "Oengus181"
+    culture = "ferran"
+    faith = "jibai"
+    dynasty = FERD4 #FerDyn4
+    father = FER_109 #Ceredig108
+    mother = FER_228 #Cairenn97
+    576.1.1 = {
+        birth = yes
+    }
+}
+
+FER_141 = {
+    name = "Oengus190"
+    culture = "ferran"
+    faith = "jibai"
+    dynasty = FERD4 #FerDyn4
+    father = FER_104 #Brannoc58
+    mother = FER_39 #Sinead37
+    571.1.1 = {
+        birth = yes
+    }
+    586.1.1 = {
+        add_spouse = FER_19 #Etain134
+    }
+}
+
+FER_142 = {
+    name = "Oengus61"
+    culture = "ferran"
+    faith = "jibai"
+    dynasty = FERD4 #FerDyn4
+    father = FER_145 #Taranis17
+    mother = FER_237 #Eleri35
+    556.1.1 = {
+        birth = yes
+    }
+    575.1.1 = {
+        add_spouse = FER_59 #Orlaith49
+    }
+}
+
+FER_143 = {
+    name = "Rhiannon64"
+    culture = "ferran"
+    faith = "jibai"
+    female = yes
+    dynasty = FERD4 #FerDyn4
+    father = FER_108 #Cadan18
+    mother = FER_23 #Gwyneth5
+    553.1.1 = {
+        birth = yes
+    }
+    571.1.1 = {
+        add_spouse = FER_31 #Nemed43
+    }
+}
+
+FER_144 = {
+    name = "Ronan173"
+    culture = "ferran"
+    faith = "jibai"
+    dynasty = FERD4 #FerDyn4
+    father = FER_129 #Gawain102
+    mother = FER_219 #Teleri88
+    575.1.1 = {
+        birth = yes
+    }
+}
+
+FER_145 = {
+    name = "Taranis17"
+    culture = "ferran"
+    faith = "jibai"
+    dynasty = FERD4 #FerDyn4
+    father = FER_119 #Drustan16
+    518.1.1 = {
+        birth = yes
+    }
+    539.1.1 = {
+        add_spouse = FER_237 #Eleri35
+    }
+    581.1.1 = {
+        death = yes
+    }
+}
+
+FER_146 = {
+    name = "Teleri184"
+    culture = "ferran"
+    faith = "jibai"
+    female = yes
+    dynasty = FERD4 #FerDyn4
+    father = FER_120 #Drustan62
+    mother = FER_230 #Ceridwen93
+    578.1.1 = {
+        birth = yes
+    }
+}
+
+FER_147 = {
+    name = "Tuathal186"
+    culture = "ferran"
+    faith = "jibai"
+    dynasty = FERD4 #FerDyn4
+    father = FER_120 #Drustan62
+    mother = FER_230 #Ceridwen93
+    580.1.1 = {
+        birth = yes
+    }
+}
+
+FER_148 = {
+    name = "Yseult192"
+    culture = "ferran"
+    faith = "jibai"
+    female = yes
+    dynasty = FERD4 #FerDyn4
+    father = FER_134 #Mabon63
+    mother = FER_9 #Ceridwen41
+    575.1.1 = {
+        birth = yes
+    }
+}
+
+FER_149 = {
+    name = "Aedan21"
+    culture = "ferran"
+    faith = "jibai"
+    dynasty = FERD5 #FerDyn5
+    484.1.1 = {
+        birth = yes
+    }
+    555.1.1 = {
+        death = yes
+    }
+}
+
+FER_15 = {
+    name = "Deirdre114"
+    culture = "ferran"
+    faith = "jibai"
+    female = yes
+    dynasty = FERD1 #FerDyn1
+    father = FER_21 #Geraint107
+    mother = FER_62 #Sinead45
+    576.1.1 = {
+        birth = yes
+    }
+}
+
+FER_150 = {
+    name = "Arianwen211"
+    culture = "ferran"
+    faith = "jibai"
+    female = yes
+    dynasty = FERD5 #FerDyn5
+    father = FER_154 #Caratacus75
+    mother = FER_137 #Morrigan59
+    579.1.1 = {
+        birth = yes
+    }
+}
+
+FER_151 = {
+    name = "Cadan221"
+    culture = "ferran"
+    faith = "jibai"
+    dynasty = FERD5 #FerDyn5
+    father = FER_161 #Fergus76
+    mother = FER_202 #Eleri78
+    573.1.1 = {
+        birth = yes
+    }
+}
+
+FER_152 = {
+    name = "Cadoc71"
+    culture = "ferran"
+    faith = "jibai"
+    dynasty = FERD5 #FerDyn5
+    father = FER_156 #Ceredig22
+    mother = FER_82 #Epona14
+    557.1.1 = {
+        birth = yes
+    }
+    573.1.1 = {
+        add_spouse = FER_123 #Eleri60
+    }
+}
+
+FER_153 = {
+    name = "Cairenn73"
+    culture = "ferran"
+    faith = "jibai"
+    female = yes
+    dynasty = FERD5 #FerDyn5
+    father = FER_160 #Fergus23
+    mother = FER_115 #Deirdre19
+    552.1.1 = {
+        birth = yes
+    }
+    578.1.1 = {
+        add_spouse = FER_212 #Mael84
+    }
+}
+
+FER_154 = {
+    name = "Caratacus75"
+    culture = "ferran"
+    faith = "jibai"
+    dynasty = FERD5 #FerDyn5
+    father = FER_160 #Fergus23
+    mother = FER_115 #Deirdre19
+    556.1.1 = {
+        birth = yes
+    }
+    578.1.1 = {
+        add_spouse = FER_137 #Morrigan59
+    }
+}
+
+FER_155 = {
+    name = "Carys202"
+    culture = "ferran"
+    faith = "jibai"
+    female = yes
+    dynasty = FERD5 #FerDyn5
+    father = FER_158 #Cynric99
+    mother = FER_65 #Yseult50
+    576.1.1 = {
+        birth = yes
+    }
+}
+
+FER_156 = {
+    name = "Ceredig22"
+    culture = "ferran"
+    faith = "jibai"
+    dynasty = FERD5 #FerDyn5
+    father = FER_149 #Aedan21
+    519.1.1 = {
+        birth = yes
+    }
+    545.1.1 = {
+        add_spouse = FER_82 #Epona14
+    }
+    569.1.1 = {
+        death = yes
+    }
+}
+
+FER_157 = {
+    name = "Cormac219"
+    culture = "ferran"
+    faith = "jibai"
+    dynasty = FERD5 #FerDyn5
+    father = FER_161 #Fergus76
+    mother = FER_202 #Eleri78
+    571.1.1 = {
+        birth = yes
+    }
+    586.1.1 = {
+        add_spouse = FER_121 #Eleri174
+    }
+}
+
+FER_158 = {
+    name = "Cynric99"
+    culture = "ferran"
+    faith = "jibai"
+    dynasty = FERD5 #FerDyn5
+    545.1.1 = {
+        birth = yes
+    }
+    573.1.1 = {
+        add_spouse = FER_65 #Yseult50
+    }
+}
+
+FER_159 = {
+    name = "Eleri72"
+    culture = "ferran"
+    faith = "jibai"
+    female = yes
+    dynasty = FERD5 #FerDyn5
+    father = FER_160 #Fergus23
+    mother = FER_115 #Deirdre19
+    550.1.1 = {
+        birth = yes
+    }
+    573.1.1 = {
+        add_spouse = FER_56 #Nemed48
+    }
+}
+
+FER_16 = {
+    name = "Domnall132"
+    culture = "ferran"
+    faith = "jibai"
+    dynasty = FERD1 #FerDyn1
+    father = FER_13 #Cunobelin39
+    mother = FER_70 #Aine55
+    577.1.1 = {
+        birth = yes
+    }
+}
+
+FER_160 = {
+    name = "Fergus23"
+    culture = "ferran"
+    faith = "jibai"
+    dynasty = FERD5 #FerDyn5
+    father = FER_149 #Aedan21
+    522.1.1 = {
+        birth = yes
+    }
+    537.1.1 = {
+        add_spouse = FER_115 #Deirdre19
+    }
+    582.1.1 = {
+        death = yes
+    }
+}
+
+FER_161 = {
+    name = "Fergus76"
+    culture = "ferran"
+    faith = "jibai"
+    dynasty = FERD5 #FerDyn5
+    father = FER_160 #Fergus23
+    mother = FER_115 #Deirdre19
+    558.1.1 = {
+        birth = yes
+    }
+    568.1.1 = {
+        add_spouse = FER_202 #Eleri78
+    }
+}
+
+FER_162 = {
+    name = "Ffion201"
+    culture = "ferran"
+    faith = "jibai"
+    female = yes
+    dynasty = FERD5 #FerDyn5
+    father = FER_158 #Cynric99
+    mother = FER_65 #Yseult50
+    574.1.1 = {
+        birth = yes
+    }
+}
+
+FER_163 = {
+    name = "Ffion206"
+    culture = "ferran"
+    faith = "jibai"
+    female = yes
+    dynasty = FERD5 #FerDyn5
+    father = FER_184 #Taranis70
+    mother = FER_96 #Tegwen56
+    580.1.1 = {
+        birth = yes
+    }
+}
+
+FER_164 = {
+    name = "Ffion77"
+    culture = "ferran"
+    faith = "jibai"
+    female = yes
+    dynasty = FERD5 #FerDyn5
+    father = FER_160 #Fergus23
+    mother = FER_115 #Deirdre19
+    560.1.1 = {
+        birth = yes
+    }
+    576.1.1 = {
+        add_spouse = FER_77 #Conall54
+    }
+}
+
+FER_165 = {
+    name = "Gawain204"
+    culture = "ferran"
+    faith = "jibai"
+    dynasty = FERD5 #FerDyn5
+    father = FER_158 #Cynric99
+    mother = FER_65 #Yseult50
+    579.1.1 = {
+        birth = yes
+    }
+}
+
+FER_166 = {
+    name = "Geraint215"
+    culture = "ferran"
+    faith = "jibai"
+    dynasty = FERD5 #FerDyn5
+    father = FER_152 #Cadoc71
+    mother = FER_123 #Eleri60
+    576.1.1 = {
+        birth = yes
+    }
+}
+
+FER_167 = {
+    name = "Gwydion210"
+    culture = "ferran"
+    faith = "jibai"
+    dynasty = FERD5 #FerDyn5
+    father = FER_184 #Taranis70
+    mother = FER_96 #Tegwen56
+    586.1.1 = {
+        birth = yes
+    }
+}
+
+FER_168 = {
+    name = "Gwyneth69"
+    culture = "ferran"
+    faith = "jibai"
+    female = yes
+    dynasty = FERD5 #FerDyn5
+    father = FER_156 #Ceredig22
+    mother = FER_82 #Epona14
+    554.1.1 = {
+        birth = yes
+    }
+    571.1.1 = {
+        add_spouse = FER_72 #Arawn51
+    }
+}
+
+FER_169 = {
+    name = "Macha25"
+    culture = "ferran"
+    faith = "jibai"
+    female = yes
+    dynasty = FERD5 #FerDyn5
+    father = FER_149 #Aedan21
+    528.1.1 = {
+        birth = yes
+    }
+    546.1.1 = {
+        add_spouse = FER_84 #Geraint12
+    }
+    580.1.1 = {
+        death = yes
+    }
+}
+
+FER_17 = {
+    name = "Eogan111"
+    culture = "ferran"
+    faith = "jibai"
+    dynasty = FERD1 #FerDyn1
+    father = FER_33 #Oengus105
+    mother = FER_48 #Ceridwen44
+    569.1.1 = {
+        birth = yes
+    }
+    586.1.1 = {
+        add_spouse = FER_132 #Liadan189
+    }
+}
+
+FER_170 = {
+    name = "Maeve67"
+    culture = "ferran"
+    faith = "jibai"
+    female = yes
+    dynasty = FERD5 #FerDyn5
+    father = FER_156 #Ceredig22
+    mother = FER_82 #Epona14
+    551.1.1 = {
+        birth = yes
+    }
+    568.1.1 = {
+        add_spouse = FER_199 #Ceredig109
+    }
+}
+
+FER_171 = {
+    name = "Maeve68"
+    culture = "ferran"
+    faith = "jibai"
+    female = yes
+    dynasty = FERD5 #FerDyn5
+    father = FER_156 #Ceredig22
+    mother = FER_82 #Epona14
+    552.1.1 = {
+        birth = yes
+    }
+    572.1.1 = {
+        add_spouse = FER_97 #Tristan104
+    }
+}
+
+FER_172 = {
+    name = "Mairenn220"
+    culture = "ferran"
+    faith = "jibai"
+    female = yes
+    dynasty = FERD5 #FerDyn5
+    father = FER_161 #Fergus76
+    mother = FER_202 #Eleri78
+    572.1.1 = {
+        birth = yes
+    }
+}
+
+FER_173 = {
+    name = "Morrigan212"
+    culture = "ferran"
+    faith = "jibai"
+    female = yes
+    dynasty = FERD5 #FerDyn5
+    father = FER_154 #Caratacus75
+    mother = FER_137 #Morrigan59
+    581.1.1 = {
+        birth = yes
+    }
+}
+
+FER_174 = {
+    name = "Morrigan66"
+    culture = "ferran"
+    faith = "jibai"
+    female = yes
+    dynasty = FERD5 #FerDyn5
+    father = FER_156 #Ceredig22
+    mother = FER_82 #Epona14
+    550.1.1 = {
+        birth = yes
+    }
+    573.1.1 = {
+        add_spouse = FER_208 #Lugos103
+    }
+}
+
+FER_175 = {
+    name = "Niamh218"
+    culture = "ferran"
+    faith = "jibai"
+    female = yes
+    dynasty = FERD5 #FerDyn5
+    father = FER_161 #Fergus76
+    mother = FER_202 #Eleri78
+    569.1.1 = {
+        birth = yes
+    }
+    586.1.1 = {
+        add_spouse = FER_1 #Ailill133
+    }
+}
+
+FER_176 = {
+    name = "Oengus213"
+    culture = "ferran"
+    faith = "jibai"
+    dynasty = FERD5 #FerDyn5
+    father = FER_154 #Caratacus75
+    mother = FER_137 #Morrigan59
+    583.1.1 = {
+        birth = yes
+    }
+}
+
+FER_177 = {
+    name = "Oisin214"
+    culture = "ferran"
+    faith = "jibai"
+    dynasty = FERD5 #FerDyn5
+    father = FER_152 #Cadoc71
+    mother = FER_123 #Eleri60
+    574.1.1 = {
+        birth = yes
+    }
+}
+
+FER_178 = {
+    name = "Orlaith209"
+    culture = "ferran"
+    faith = "jibai"
+    female = yes
+    dynasty = FERD5 #FerDyn5
+    father = FER_184 #Taranis70
+    mother = FER_96 #Tegwen56
+    584.1.1 = {
+        birth = yes
+    }
+}
+
+FER_179 = {
+    name = "Rhydderch203"
+    culture = "ferran"
+    faith = "jibai"
+    dynasty = FERD5 #FerDyn5
+    father = FER_158 #Cynric99
+    mother = FER_65 #Yseult50
+    578.1.1 = {
+        birth = yes
+    }
+}
+
+FER_18 = {
+    name = "Epona122"
+    culture = "ferran"
+    faith = "jibai"
+    female = yes
+    dynasty = FERD1 #FerDyn1
+    father = FER_22 #Geraint36
+    mother = FER_63 #Tegwen46
+    578.1.1 = {
+        birth = yes
+    }
+}
+
+FER_180 = {
+    name = "Saoirse205"
+    culture = "ferran"
+    faith = "jibai"
+    female = yes
+    dynasty = FERD5 #FerDyn5
+    father = FER_184 #Taranis70
+    mother = FER_96 #Tegwen56
+    579.1.1 = {
+        birth = yes
+    }
+}
+
+FER_181 = {
+    name = "Seren208"
+    culture = "ferran"
+    faith = "jibai"
+    female = yes
+    dynasty = FERD5 #FerDyn5
+    father = FER_184 #Taranis70
+    mother = FER_96 #Tegwen56
+    583.1.1 = {
+        birth = yes
+    }
+}
+
+FER_182 = {
+    name = "Sorcha216"
+    culture = "ferran"
+    faith = "jibai"
+    female = yes
+    dynasty = FERD5 #FerDyn5
+    father = FER_152 #Cadoc71
+    mother = FER_123 #Eleri60
+    577.1.1 = {
+        birth = yes
+    }
+}
+
+FER_183 = {
+    name = "Sorcha24"
+    culture = "ferran"
+    faith = "jibai"
+    female = yes
+    dynasty = FERD5 #FerDyn5
+    father = FER_149 #Aedan21
+    525.1.1 = {
+        birth = yes
+    }
+    545.1.1 = {
+        add_spouse = FER_221 #Tuathal27
+    }
+    575.1.1 = {
+        death = yes
+    }
+}
+
+FER_184 = {
+    name = "Taranis70"
+    culture = "ferran"
+    faith = "jibai"
+    dynasty = FERD5 #FerDyn5
+    father = FER_156 #Ceredig22
+    mother = FER_82 #Epona14
+    556.1.1 = {
+        birth = yes
+    }
+    578.1.1 = {
+        add_spouse = FER_96 #Tegwen56
+    }
+}
+
+FER_185 = {
+    name = "Tegwen207"
+    culture = "ferran"
+    faith = "jibai"
+    female = yes
+    dynasty = FERD5 #FerDyn5
+    father = FER_184 #Taranis70
+    mother = FER_96 #Tegwen56
+    581.1.1 = {
+        birth = yes
+    }
+}
+
+FER_186 = {
+    name = "Teleri74"
+    culture = "ferran"
+    faith = "jibai"
+    female = yes
+    dynasty = FERD5 #FerDyn5
+    father = FER_160 #Fergus23
+    mother = FER_115 #Deirdre19
+    554.1.1 = {
+        birth = yes
+    }
+    571.1.1 = {
+        add_spouse = FER_214 #Ronan80
+    }
+}
+
+FER_187 = {
+    name = "Tristan217"
+    culture = "ferran"
+    faith = "jibai"
+    dynasty = FERD5 #FerDyn5
+    father = FER_152 #Cadoc71
+    mother = FER_123 #Eleri60
+    578.1.1 = {
+        birth = yes
+    }
+}
+
+FER_188 = {
+    name = "Aife237"
+    culture = "ferran"
+    faith = "jibai"
+    female = yes
+    dynasty = FERD6 #FerDyn6
+    father = FER_203 #Eogan87
+    mother = FER_252 #Seren90
+    576.1.1 = {
+        birth = yes
+    }
+}
+
+FER_189 = {
+    name = "Aislinn225"
+    culture = "ferran"
+    faith = "jibai"
+    female = yes
+    dynasty = FERD6 #FerDyn6
+    father = FER_199 #Ceredig109
+    mother = FER_170 #Maeve67
+    569.1.1 = {
+        birth = yes
+    }
+    586.1.1 = {
+        add_spouse = FER_106 #Brennus169
+    }
+}
+
+FER_19 = {
+    name = "Etain134"
+    culture = "ferran"
+    faith = "jibai"
+    female = yes
+    dynasty = FERD1 #FerDyn1
+    father = FER_7 #Cadan42
+    mother = FER_100 #Aife57
+    571.1.1 = {
+        birth = yes
+    }
+    586.1.1 = {
+        add_spouse = FER_141 #Oengus190
+    }
+}
+
+FER_190 = {
+    name = "Arianwen238"
+    culture = "ferran"
+    faith = "jibai"
+    female = yes
+    dynasty = FERD6 #FerDyn6
+    father = FER_203 #Eogan87
+    mother = FER_252 #Seren90
+    577.1.1 = {
+        birth = yes
+    }
+}
+
+FER_191 = {
+    name = "Artair228"
+    culture = "ferran"
+    faith = "jibai"
+    dynasty = FERD6 #FerDyn6
+    father = FER_212 #Mael84
+    mother = FER_153 #Cairenn73
+    579.1.1 = {
+        birth = yes
+    }
+}
+
+FER_192 = {
+    name = "Brannoc28"
+    culture = "ferran"
+    faith = "jibai"
+    dynasty = FERD6 #FerDyn6
+    father = FER_211 #Mael26
+    523.1.1 = {
+        birth = yes
+    }
+    544.1.1 = {
+        add_spouse = FER_247 #Morrigan34
+    }
+    581.1.1 = {
+        death = yes
+    }
+}
+
+FER_193 = {
+    name = "Branwen85"
+    culture = "ferran"
+    faith = "jibai"
+    female = yes
+    dynasty = FERD6 #FerDyn6
+    father = FER_192 #Brannoc28
+    mother = FER_247 #Morrigan34
+    551.1.1 = {
+        birth = yes
+    }
+    578.1.1 = {
+        add_spouse = FER_98 #Tuathal52
+    }
+}
+
+FER_194 = {
+    name = "Brennus230"
+    culture = "ferran"
+    faith = "jibai"
+    dynasty = FERD6 #FerDyn6
+    father = FER_212 #Mael84
+    mother = FER_153 #Cairenn73
+    583.1.1 = {
+        birth = yes
+    }
+}
+
+FER_195 = {
+    name = "Brennus235"
+    culture = "ferran"
+    faith = "jibai"
+    dynasty = FERD6 #FerDyn6
+    father = FER_214 #Ronan80
+    mother = FER_186 #Teleri74
+    574.1.1 = {
+        birth = yes
+    }
+}
+
+FER_196 = {
+    name = "Brigid231"
+    culture = "ferran"
+    faith = "jibai"
+    female = yes
+    dynasty = FERD6 #FerDyn6
+    father = FER_212 #Mael84
+    mother = FER_153 #Cairenn73
+    584.1.1 = {
+        birth = yes
+    }
+}
+
+FER_197 = {
+    name = "Cairenn227"
+    culture = "ferran"
+    faith = "jibai"
+    female = yes
+    dynasty = FERD6 #FerDyn6
+    father = FER_199 #Ceredig109
+    mother = FER_170 #Maeve67
+    573.1.1 = {
+        birth = yes
+    }
+}
+
+FER_198 = {
+    name = "Carys29"
+    culture = "ferran"
+    faith = "jibai"
+    female = yes
+    dynasty = FERD6 #FerDyn6
+    father = FER_211 #Mael26
+    526.1.1 = {
+        birth = yes
+    }
+    541.1.1 = {
+        add_spouse = FER_242 #Gawain33
+    }
+}
+
+FER_199 = {
+    name = "Ceredig109"
+    culture = "ferran"
+    faith = "jibai"
+    dynasty = FERD6 #FerDyn6
+    543.1.1 = {
+        birth = yes
+    }
+    568.1.1 = {
+        add_spouse = FER_170 #Maeve67
+    }
+}
+
+FER_2 = {
+    name = "Aranrhod115"
+    culture = "ferran"
+    faith = "jibai"
+    female = yes
+    dynasty = FERD1 #FerDyn1
+    father = FER_21 #Geraint107
+    mother = FER_62 #Sinead45
+    577.1.1 = {
+        birth = yes
+    }
+}
+
+FER_20 = {
+    name = "Fergus127"
+    culture = "ferran"
+    faith = "jibai"
+    dynasty = FERD1 #FerDyn1
+    father = FER_13 #Cunobelin39
+    mother = FER_70 #Aine55
+    571.1.1 = {
+        birth = yes
+    }
+    586.1.1 = {
+        add_spouse = FER_254 #Teleri245
+    }
+}
+
+FER_200 = {
+    name = "Delyth236"
+    culture = "ferran"
+    faith = "jibai"
+    female = yes
+    dynasty = FERD6 #FerDyn6
+    father = FER_203 #Eogan87
+    mother = FER_252 #Seren90
+    575.1.1 = {
+        birth = yes
+    }
+}
+
+FER_201 = {
+    name = "Delyth30"
+    culture = "ferran"
+    faith = "jibai"
+    female = yes
+    dynasty = FERD6 #FerDyn6
+    father = FER_211 #Mael26
+    529.1.1 = {
+        birth = yes
+    }
+    538.1.1 = {
+        add_spouse = FER_95 #Taliesin13
+    }
+    575.1.1 = {
+        death = yes
+    }
+}
+
+FER_202 = {
+    name = "Eleri78"
+    culture = "ferran"
+    faith = "jibai"
+    female = yes
+    dynasty = FERD6 #FerDyn6
+    father = FER_221 #Tuathal27
+    mother = FER_183 #Sorcha24
+    550.1.1 = {
+        birth = yes
+    }
+    568.1.1 = {
+        add_spouse = FER_161 #Fergus76
+    }
+}
+
+FER_203 = {
+    name = "Eogan87"
+    culture = "ferran"
+    faith = "jibai"
+    dynasty = FERD6 #FerDyn6
+    father = FER_192 #Brannoc28
+    mother = FER_247 #Morrigan34
+    554.1.1 = {
+        birth = yes
+    }
+    574.1.1 = {
+        add_spouse = FER_252 #Seren90
+    }
+}
+
+FER_204 = {
+    name = "Ffion226"
+    culture = "ferran"
+    faith = "jibai"
+    female = yes
+    dynasty = FERD6 #FerDyn6
+    father = FER_199 #Ceredig109
+    mother = FER_170 #Maeve67
+    571.1.1 = {
+        birth = yes
+    }
+    586.1.1 = {
+        add_spouse = FER_10 #Conall112
+    }
+}
+
+FER_205 = {
+    name = "Gwydion223"
+    culture = "ferran"
+    faith = "jibai"
+    dynasty = FERD6 #FerDyn6
+    father = FER_208 #Lugos103
+    mother = FER_174 #Morrigan66
+    576.1.1 = {
+        birth = yes
+    }
+}
+
+FER_206 = {
+    name = "Gwyneth81"
+    culture = "ferran"
+    faith = "jibai"
+    female = yes
+    dynasty = FERD6 #FerDyn6
+    father = FER_221 #Tuathal27
+    mother = FER_183 #Sorcha24
+    556.1.1 = {
+        birth = yes
+    }
+    567.1.1 = {
+        add_spouse = FER_240 #Fintan89
+    }
+}
+
+FER_207 = {
+    name = "Llinos86"
+    culture = "ferran"
+    faith = "jibai"
+    female = yes
+    dynasty = FERD6 #FerDyn6
+    father = FER_192 #Brannoc28
+    mother = FER_247 #Morrigan34
+    552.1.1 = {
+        birth = yes
+    }
+    577.1.1 = {
+        add_spouse = FER_80 #Drustan53
+    }
+}
+
+FER_208 = {
+    name = "Lugos103"
+    culture = "ferran"
+    faith = "jibai"
+    dynasty = FERD6 #FerDyn6
+    536.1.1 = {
+        birth = yes
+    }
+    573.1.1 = {
+        add_spouse = FER_174 #Morrigan66
+    }
+}
+
+FER_209 = {
+    name = "Macha222"
+    culture = "ferran"
+    faith = "jibai"
+    female = yes
+    dynasty = FERD6 #FerDyn6
+    father = FER_208 #Lugos103
+    mother = FER_174 #Morrigan66
+    574.1.1 = {
+        birth = yes
+    }
+}
+
+FER_21 = {
+    name = "Geraint107"
+    culture = "ferran"
+    faith = "jibai"
+    dynasty = FERD1 #FerDyn1
+    547.1.1 = {
+        birth = yes
+    }
+    575.1.1 = {
+        add_spouse = FER_62 #Sinead45
+    }
+}
+
+FER_210 = {
+    name = "Macha82"
+    culture = "ferran"
+    faith = "jibai"
+    female = yes
+    dynasty = FERD6 #FerDyn6
+    father = FER_221 #Tuathal27
+    mother = FER_183 #Sorcha24
+    558.1.1 = {
+        birth = yes
+    }
+    571.1.1 = {
+        add_spouse = FER_234 #Cynric95
+    }
+}
+
+FER_211 = {
+    name = "Mael26"
+    culture = "ferran"
+    faith = "jibai"
+    dynasty = FERD6 #FerDyn6
+    485.1.1 = {
+        birth = yes
+    }
+    561.1.1 = {
+        death = yes
+    }
+}
+
+FER_212 = {
+    name = "Mael84"
+    culture = "ferran"
+    faith = "jibai"
+    dynasty = FERD6 #FerDyn6
+    father = FER_192 #Brannoc28
+    mother = FER_247 #Morrigan34
+    550.1.1 = {
+        birth = yes
+    }
+    578.1.1 = {
+        add_spouse = FER_153 #Cairenn73
+    }
+}
+
+FER_213 = {
+    name = "Maeve232"
+    culture = "ferran"
+    faith = "jibai"
+    female = yes
+    dynasty = FERD6 #FerDyn6
+    father = FER_212 #Mael84
+    mother = FER_153 #Cairenn73
+    586.1.1 = {
+        birth = yes
+    }
+}
+
+FER_214 = {
+    name = "Ronan80"
+    culture = "ferran"
+    faith = "jibai"
+    dynasty = FERD6 #FerDyn6
+    father = FER_221 #Tuathal27
+    mother = FER_183 #Sorcha24
+    554.1.1 = {
+        birth = yes
+    }
+    571.1.1 = {
+        add_spouse = FER_186 #Teleri74
+    }
+}
+
+FER_215 = {
+    name = "Sinead83"
+    culture = "ferran"
+    faith = "jibai"
+    female = yes
+    dynasty = FERD6 #FerDyn6
+    father = FER_221 #Tuathal27
+    mother = FER_183 #Sorcha24
+    560.1.1 = {
+        birth = yes
+    }
+    569.1.1 = {
+        add_spouse = FER_128 #Gawain101
+    }
+}
+
+FER_216 = {
+    name = "Sorcha234"
+    culture = "ferran"
+    faith = "jibai"
+    female = yes
+    dynasty = FERD6 #FerDyn6
+    father = FER_214 #Ronan80
+    mother = FER_186 #Teleri74
+    573.1.1 = {
+        birth = yes
+    }
+}
+
+FER_217 = {
+    name = "Taranis233"
+    culture = "ferran"
+    faith = "jibai"
+    dynasty = FERD6 #FerDyn6
+    father = FER_214 #Ronan80
+    mother = FER_186 #Teleri74
+    572.1.1 = {
+        birth = yes
+    }
+}
+
+FER_218 = {
+    name = "Tegwen79"
+    culture = "ferran"
+    faith = "jibai"
+    female = yes
+    dynasty = FERD6 #FerDyn6
+    father = FER_221 #Tuathal27
+    mother = FER_183 #Sorcha24
+    552.1.1 = {
+        birth = yes
+    }
+    570.1.1 = {
+        add_spouse = FER_250 #Rhydderch100
+    }
+}
+
+FER_219 = {
+    name = "Teleri88"
+    culture = "ferran"
+    faith = "jibai"
+    female = yes
+    dynasty = FERD6 #FerDyn6
+    father = FER_192 #Brannoc28
+    mother = FER_247 #Morrigan34
+    556.1.1 = {
+        birth = yes
+    }
+    568.1.1 = {
+        add_spouse = FER_129 #Gawain102
+    }
+}
+
+FER_22 = {
+    name = "Geraint36"
+    culture = "ferran"
+    faith = "jibai"
+    dynasty = FERD1 #FerDyn1
+    father = FER_35 #Oengus2
+    mother = FER_50 #Epona9
+    550.1.1 = {
+        birth = yes
+    }
+    574.1.1 = {
+        add_spouse = FER_63 #Tegwen46
+    }
+}
+
+FER_220 = {
+    name = "Tristan224"
+    culture = "ferran"
+    faith = "jibai"
+    dynasty = FERD6 #FerDyn6
+    father = FER_208 #Lugos103
+    mother = FER_174 #Morrigan66
+    577.1.1 = {
+        birth = yes
+    }
+}
+
+FER_221 = {
+    name = "Tuathal27"
+    culture = "ferran"
+    faith = "jibai"
+    dynasty = FERD6 #FerDyn6
+    father = FER_211 #Mael26
+    520.1.1 = {
+        birth = yes
+    }
+    545.1.1 = {
+        add_spouse = FER_183 #Sorcha24
+    }
+}
+
+FER_222 = {
+    name = "Una229"
+    culture = "ferran"
+    faith = "jibai"
+    female = yes
+    dynasty = FERD6 #FerDyn6
+    father = FER_212 #Mael84
+    mother = FER_153 #Cairenn73
+    581.1.1 = {
+        birth = yes
+    }
+}
+
+FER_223 = {
+    name = "Ailill31"
+    culture = "ferran"
+    faith = "jibai"
+    dynasty = FERD7 #FerDyn7
+    486.1.1 = {
+        birth = yes
+    }
+    563.1.1 = {
+        death = yes
+    }
+}
+
+FER_224 = {
+    name = "Aranrhod241"
+    culture = "ferran"
+    faith = "jibai"
+    female = yes
+    dynasty = FERD7 #FerDyn7
+    father = FER_250 #Rhydderch100
+    mother = FER_218 #Tegwen79
+    574.1.1 = {
+        birth = yes
+    }
+}
+
+FER_225 = {
+    name = "Arawn32"
+    culture = "ferran"
+    faith = "jibai"
+    dynasty = FERD7 #FerDyn7
+    father = FER_223 #Ailill31
+    521.1.1 = {
+        birth = yes
+    }
+    543.1.1 = {
+        add_spouse = FER_32 #Niamh4
+    }
+    569.1.1 = {
+        death = yes
+    }
+}
+
+FER_226 = {
+    name = "Arianwen244"
+    culture = "ferran"
+    faith = "jibai"
+    female = yes
+    dynasty = FERD7 #FerDyn7
+    father = FER_240 #Fintan89
+    mother = FER_206 #Gwyneth81
+    568.1.1 = {
+        birth = yes
+    }
+    586.1.1 = {
+        add_spouse = FER_110 #Ceredig170
+    }
+}
+
+FER_227 = {
+    name = "Branwen94"
+    culture = "ferran"
+    faith = "jibai"
+    female = yes
+    dynasty = FERD7 #FerDyn7
+    father = FER_225 #Arawn32
+    mother = FER_32 #Niamh4
+    558.1.1 = {
+        birth = yes
+    }
+}
+
+FER_228 = {
+    name = "Cairenn97"
+    culture = "ferran"
+    faith = "jibai"
+    female = yes
+    dynasty = FERD7 #FerDyn7
+    father = FER_242 #Gawain33
+    mother = FER_198 #Carys29
+    553.1.1 = {
+        birth = yes
+    }
+    573.1.1 = {
+        add_spouse = FER_109 #Ceredig108
+    }
+}
+
+FER_229 = {
+    name = "Carys246"
+    culture = "ferran"
+    faith = "jibai"
+    female = yes
+    dynasty = FERD7 #FerDyn7
+    father = FER_240 #Fintan89
+    mother = FER_206 #Gwyneth81
+    572.1.1 = {
+        birth = yes
+    }
+}
+
+FER_23 = {
+    name = "Gwyneth5"
+    culture = "ferran"
+    faith = "jibai"
+    female = yes
+    dynasty = FERD1 #FerDyn1
+    father = FER_6 #Cadan1
+    524.1.1 = {
+        birth = yes
+    }
+    542.1.1 = {
+        add_spouse = FER_108 #Cadan18
+    }
+}
+
+FER_230 = {
+    name = "Ceridwen93"
+    culture = "ferran"
+    faith = "jibai"
+    female = yes
+    dynasty = FERD7 #FerDyn7
+    father = FER_225 #Arawn32
+    mother = FER_32 #Niamh4
+    556.1.1 = {
+        birth = yes
+    }
+    577.1.1 = {
+        add_spouse = FER_120 #Drustan62
+    }
+}
+
+FER_231 = {
+    name = "Conall240"
+    culture = "ferran"
+    faith = "jibai"
+    dynasty = FERD7 #FerDyn7
+    father = FER_250 #Rhydderch100
+    mother = FER_218 #Tegwen79
+    572.1.1 = {
+        birth = yes
+    }
+}
+
+FER_232 = {
+    name = "Conall242"
+    culture = "ferran"
+    faith = "jibai"
+    dynasty = FERD7 #FerDyn7
+    father = FER_250 #Rhydderch100
+    mother = FER_218 #Tegwen79
+    575.1.1 = {
+        birth = yes
+    }
+}
+
+FER_233 = {
+    name = "Cunobelin252"
+    culture = "ferran"
+    faith = "jibai"
+    dynasty = FERD7 #FerDyn7
+    father = FER_234 #Cynric95
+    mother = FER_210 #Macha82
+    576.1.1 = {
+        birth = yes
+    }
+}
+
+FER_234 = {
+    name = "Cynric95"
+    culture = "ferran"
+    faith = "jibai"
+    dynasty = FERD7 #FerDyn7
+    father = FER_242 #Gawain33
+    mother = FER_198 #Carys29
+    550.1.1 = {
+        birth = yes
+    }
+    571.1.1 = {
+        add_spouse = FER_210 #Macha82
+    }
+}
+
+FER_235 = {
+    name = "Diarmaid255"
+    culture = "ferran"
+    faith = "jibai"
+    dynasty = FERD7 #FerDyn7
+    father = FER_241 #Fintan96
+    mother = FER_24 #Liadan38
+    577.1.1 = {
+        birth = yes
+    }
+}
+
+FER_236 = {
+    name = "Diarmaid92"
+    culture = "ferran"
+    faith = "jibai"
+    dynasty = FERD7 #FerDyn7
+    father = FER_225 #Arawn32
+    mother = FER_32 #Niamh4
+    554.1.1 = {
+        birth = yes
+    }
+}
+
+FER_237 = {
+    name = "Eleri35"
+    culture = "ferran"
+    faith = "jibai"
+    female = yes
+    dynasty = FERD7 #FerDyn7
+    father = FER_223 #Ailill31
+    530.1.1 = {
+        birth = yes
+    }
+    539.1.1 = {
+        add_spouse = FER_145 #Taranis17
+    }
+    571.1.1 = {
+        death = yes
+    }
+}
+
+FER_238 = {
+    name = "Eogan251"
+    culture = "ferran"
+    faith = "jibai"
+    dynasty = FERD7 #FerDyn7
+    father = FER_234 #Cynric95
+    mother = FER_210 #Macha82
+    575.1.1 = {
+        birth = yes
+    }
+}
+
+FER_239 = {
+    name = "Etain243"
+    culture = "ferran"
+    faith = "jibai"
+    female = yes
+    dynasty = FERD7 #FerDyn7
+    father = FER_250 #Rhydderch100
+    mother = FER_218 #Tegwen79
+    576.1.1 = {
+        birth = yes
+    }
+}
+
+FER_24 = {
+    name = "Liadan38"
+    culture = "ferran"
+    faith = "jibai"
+    female = yes
+    dynasty = FERD1 #FerDyn1
+    father = FER_35 #Oengus2
+    mother = FER_50 #Epona9
+    552.1.1 = {
+        birth = yes
+    }
+    573.1.1 = {
+        add_spouse = FER_241 #Fintan96
+    }
+}
+
+FER_240 = {
+    name = "Fintan89"
+    culture = "ferran"
+    faith = "jibai"
+    dynasty = FERD7 #FerDyn7
+    father = FER_225 #Arawn32
+    mother = FER_32 #Niamh4
+    550.1.1 = {
+        birth = yes
+    }
+    567.1.1 = {
+        add_spouse = FER_206 #Gwyneth81
+    }
+}
+
+FER_241 = {
+    name = "Fintan96"
+    culture = "ferran"
+    faith = "jibai"
+    dynasty = FERD7 #FerDyn7
+    father = FER_242 #Gawain33
+    mother = FER_198 #Carys29
+    551.1.1 = {
+        birth = yes
+    }
+    573.1.1 = {
+        add_spouse = FER_24 #Liadan38
+    }
+}
+
+FER_242 = {
+    name = "Gawain33"
+    culture = "ferran"
+    faith = "jibai"
+    dynasty = FERD7 #FerDyn7
+    father = FER_223 #Ailill31
+    524.1.1 = {
+        birth = yes
+    }
+    541.1.1 = {
+        add_spouse = FER_198 #Carys29
+    }
+    574.1.1 = {
+        death = yes
+    }
+}
+
+FER_243 = {
+    name = "Geraint250"
+    culture = "ferran"
+    faith = "jibai"
+    dynasty = FERD7 #FerDyn7
+    father = FER_234 #Cynric95
+    mother = FER_210 #Macha82
+    574.1.1 = {
+        birth = yes
+    }
+}
+
+FER_244 = {
+    name = "Mael239"
+    culture = "ferran"
+    faith = "jibai"
+    dynasty = FERD7 #FerDyn7
+    father = FER_250 #Rhydderch100
+    mother = FER_218 #Tegwen79
+    571.1.1 = {
+        birth = yes
+    }
+    586.1.1 = {
+        add_spouse = FER_122 #Eleri175
+    }
+}
+
+FER_245 = {
+    name = "Mael247"
+    culture = "ferran"
+    faith = "jibai"
+    dynasty = FERD7 #FerDyn7
+    father = FER_240 #Fintan89
+    mother = FER_206 #Gwyneth81
+    573.1.1 = {
+        birth = yes
+    }
+}
+
+FER_246 = {
+    name = "Mael253"
+    culture = "ferran"
+    faith = "jibai"
+    dynasty = FERD7 #FerDyn7
+    father = FER_241 #Fintan96
+    mother = FER_24 #Liadan38
+    574.1.1 = {
+        birth = yes
+    }
+}
+
+FER_247 = {
+    name = "Morrigan34"
+    culture = "ferran"
+    faith = "jibai"
+    female = yes
+    dynasty = FERD7 #FerDyn7
+    father = FER_223 #Ailill31
+    527.1.1 = {
+        birth = yes
+    }
+    544.1.1 = {
+        add_spouse = FER_192 #Brannoc28
+    }
+    572.1.1 = {
+        death = yes
+    }
+}
+
+FER_248 = {
+    name = "Oengus249"
+    culture = "ferran"
+    faith = "jibai"
+    dynasty = FERD7 #FerDyn7
+    father = FER_234 #Cynric95
+    mother = FER_210 #Macha82
+    573.1.1 = {
+        birth = yes
+    }
+}
+
+FER_249 = {
+    name = "Oisin91"
+    culture = "ferran"
+    faith = "jibai"
+    dynasty = FERD7 #FerDyn7
+    father = FER_225 #Arawn32
+    mother = FER_32 #Niamh4
+    553.1.1 = {
+        birth = yes
+    }
+}
+
+FER_25 = {
+    name = "Mael131"
+    culture = "ferran"
+    faith = "jibai"
+    dynasty = FERD1 #FerDyn1
+    father = FER_13 #Cunobelin39
+    mother = FER_70 #Aine55
+    576.1.1 = {
+        birth = yes
+    }
+}
+
+FER_250 = {
+    name = "Rhydderch100"
+    culture = "ferran"
+    faith = "jibai"
+    dynasty = FERD7 #FerDyn7
+    539.1.1 = {
+        birth = yes
+    }
+    570.1.1 = {
+        add_spouse = FER_218 #Tegwen79
+    }
+}
+
+FER_251 = {
+    name = "Saoirse254"
+    culture = "ferran"
+    faith = "jibai"
+    female = yes
+    dynasty = FERD7 #FerDyn7
+    father = FER_241 #Fintan96
+    mother = FER_24 #Liadan38
+    575.1.1 = {
+        birth = yes
+    }
+}
+
+FER_252 = {
+    name = "Seren90"
+    culture = "ferran"
+    faith = "jibai"
+    female = yes
+    dynasty = FERD7 #FerDyn7
+    father = FER_225 #Arawn32
+    mother = FER_32 #Niamh4
+    551.1.1 = {
+        birth = yes
+    }
+    574.1.1 = {
+        add_spouse = FER_203 #Eogan87
+    }
+}
+
+FER_253 = {
+    name = "Tegwen98"
+    culture = "ferran"
+    faith = "jibai"
+    female = yes
+    dynasty = FERD7 #FerDyn7
+    father = FER_242 #Gawain33
+    mother = FER_198 #Carys29
+    554.1.1 = {
+        birth = yes
+    }
+}
+
+FER_254 = {
+    name = "Teleri245"
+    culture = "ferran"
+    faith = "jibai"
+    female = yes
+    dynasty = FERD7 #FerDyn7
+    father = FER_240 #Fintan89
+    mother = FER_206 #Gwyneth81
+    570.1.1 = {
+        birth = yes
+    }
+    586.1.1 = {
+        add_spouse = FER_20 #Fergus127
+    }
+}
+
+FER_255 = {
+    name = "Urien248"
+    culture = "ferran"
+    faith = "jibai"
+    dynasty = FERD7 #FerDyn7
+    father = FER_234 #Cynric95
+    mother = FER_210 #Macha82
+    572.1.1 = {
+        birth = yes
+    }
+}
+
+FER_26 = {
+    name = "Maeve118"
+    culture = "ferran"
+    faith = "jibai"
+    female = yes
+    dynasty = FERD1 #FerDyn1
+    father = FER_21 #Geraint107
+    mother = FER_62 #Sinead45
+    581.1.1 = {
+        birth = yes
+    }
+}
+
+FER_27 = {
+    name = "Maeve124"
+    culture = "ferran"
+    faith = "jibai"
+    female = yes
+    dynasty = FERD1 #FerDyn1
+    father = FER_5 #Brannoc40
+    mother = FER_61 #Saoirse47
+    579.1.1 = {
+        birth = yes
+    }
+}
+
+FER_28 = {
+    name = "Mairenn135"
+    culture = "ferran"
+    faith = "jibai"
+    female = yes
+    dynasty = FERD1 #FerDyn1
+    father = FER_7 #Cadan42
+    mother = FER_100 #Aife57
+    573.1.1 = {
+        birth = yes
+    }
+}
+
+FER_29 = {
+    name = "Morrigan119"
+    culture = "ferran"
+    faith = "jibai"
+    female = yes
+    dynasty = FERD1 #FerDyn1
+    father = FER_22 #Geraint36
+    mother = FER_63 #Tegwen46
+    575.1.1 = {
+        birth = yes
+    }
+}
+
+FER_3 = {
+    name = "Belenos113"
+    culture = "ferran"
+    faith = "jibai"
+    dynasty = FERD1 #FerDyn1
+    father = FER_33 #Oengus105
+    mother = FER_48 #Ceridwen44
+    573.1.1 = {
+        birth = yes
+    }
+}
+
+FER_30 = {
+    name = "Nemed3"
+    culture = "ferran"
+    faith = "jibai"
+    dynasty = FERD1 #FerDyn1
+    father = FER_6 #Cadan1
+    518.1.1 = {
+        birth = yes
+    }
+    536.1.1 = {
+        add_spouse = FER_45 #Aife10
+    }
+    577.1.1 = {
+        death = yes
+    }
+}
+
+FER_31 = {
+    name = "Nemed43"
+    culture = "ferran"
+    faith = "jibai"
+    dynasty = FERD1 #FerDyn1
+    father = FER_30 #Nemed3
+    mother = FER_45 #Aife10
+    555.1.1 = {
+        birth = yes
+    }
+    571.1.1 = {
+        add_spouse = FER_143 #Rhiannon64
+    }
+}
+
+FER_32 = {
+    name = "Niamh4"
+    culture = "ferran"
+    faith = "jibai"
+    female = yes
+    dynasty = FERD1 #FerDyn1
+    father = FER_6 #Cadan1
+    521.1.1 = {
+        birth = yes
+    }
+    543.1.1 = {
+        add_spouse = FER_225 #Arawn32
+    }
+    582.1.1 = {
+        death = yes
+    }
+}
+
+FER_33 = {
+    name = "Oengus105"
+    culture = "ferran"
+    faith = "jibai"
+    dynasty = FERD1 #FerDyn1
+    536.1.1 = {
+        birth = yes
+    }
+    566.1.1 = {
+        add_spouse = FER_48 #Ceridwen44
+    }
+}
+
+FER_34 = {
+    name = "Oengus125"
+    culture = "ferran"
+    faith = "jibai"
+    dynasty = FERD1 #FerDyn1
+    father = FER_5 #Brannoc40
+    mother = FER_61 #Saoirse47
+    580.1.1 = {
+        birth = yes
+    }
+}
+
+FER_35 = {
+    name = "Oengus2"
+    culture = "ferran"
+    faith = "jibai"
+    dynasty = FERD1 #FerDyn1
+    father = FER_6 #Cadan1
+    515.1.1 = {
+        birth = yes
+    }
+    546.1.1 = {
+        add_spouse = FER_50 #Epona9
+    }
+    570.1.1 = {
+        death = yes
+    }
+}
+
+FER_36 = {
+    name = "Olwen128"
+    culture = "ferran"
+    faith = "jibai"
+    female = yes
+    dynasty = FERD1 #FerDyn1
+    father = FER_13 #Cunobelin39
+    mother = FER_70 #Aine55
+    572.1.1 = {
+        birth = yes
+    }
+}
+
+FER_37 = {
+    name = "Scathach126"
+    culture = "ferran"
+    faith = "jibai"
+    female = yes
+    dynasty = FERD1 #FerDyn1
+    father = FER_5 #Brannoc40
+    mother = FER_61 #Saoirse47
+    581.1.1 = {
+        birth = yes
+    }
+}
+
+FER_38 = {
+    name = "Scathach138"
+    culture = "ferran"
+    faith = "jibai"
+    female = yes
+    dynasty = FERD1 #FerDyn1
+    father = FER_31 #Nemed43
+    mother = FER_143 #Rhiannon64
+    575.1.1 = {
+        birth = yes
+    }
+}
+
+FER_39 = {
+    name = "Sinead37"
+    culture = "ferran"
+    faith = "jibai"
+    female = yes
+    dynasty = FERD1 #FerDyn1
+    father = FER_35 #Oengus2
+    mother = FER_50 #Epona9
+    551.1.1 = {
+        birth = yes
+    }
+    567.1.1 = {
+        add_spouse = FER_104 #Brannoc58
+    }
+}
+
+FER_4 = {
+    name = "Brannoc137"
+    culture = "ferran"
+    faith = "jibai"
+    dynasty = FERD1 #FerDyn1
+    father = FER_31 #Nemed43
+    mother = FER_143 #Rhiannon64
+    574.1.1 = {
+        birth = yes
+    }
+}
+
+FER_40 = {
+    name = "Tegwen116"
+    culture = "ferran"
+    faith = "jibai"
+    female = yes
+    dynasty = FERD1 #FerDyn1
+    father = FER_21 #Geraint107
+    mother = FER_62 #Sinead45
+    578.1.1 = {
+        birth = yes
+    }
+}
+
+FER_41 = {
+    name = "Tegwen123"
+    culture = "ferran"
+    faith = "jibai"
+    female = yes
+    dynasty = FERD1 #FerDyn1
+    father = FER_22 #Geraint36
+    mother = FER_63 #Tegwen46
+    580.1.1 = {
+        birth = yes
+    }
+}
+
+FER_42 = {
+    name = "Tuathal121"
+    culture = "ferran"
+    faith = "jibai"
+    dynasty = FERD1 #FerDyn1
+    father = FER_22 #Geraint36
+    mother = FER_63 #Tegwen46
+    577.1.1 = {
+        birth = yes
+    }
+}
+
+FER_43 = {
+    name = "Urien130"
+    culture = "ferran"
+    faith = "jibai"
+    dynasty = FERD1 #FerDyn1
+    father = FER_13 #Cunobelin39
+    mother = FER_70 #Aine55
+    574.1.1 = {
+        birth = yes
+    }
+}
+
+FER_44 = {
+    name = "Yseult136"
+    culture = "ferran"
+    faith = "jibai"
+    female = yes
+    dynasty = FERD1 #FerDyn1
+    father = FER_31 #Nemed43
+    mother = FER_143 #Rhiannon64
+    572.1.1 = {
+        birth = yes
+    }
+}
+
+FER_45 = {
+    name = "Aife10"
+    culture = "ferran"
+    faith = "jibai"
+    female = yes
+    dynasty = FERD2 #FerDyn2
+    father = FER_58 #Oengus6
+    525.1.1 = {
+        birth = yes
+    }
+    536.1.1 = {
+        add_spouse = FER_30 #Nemed3
+    }
+    571.1.1 = {
+        death = yes
+    }
+}
+
+FER_46 = {
+    name = "Arawn7"
+    culture = "ferran"
+    faith = "jibai"
+    dynasty = FERD2 #FerDyn2
+    father = FER_58 #Oengus6
+    516.1.1 = {
+        birth = yes
+    }
+    546.1.1 = {
+        add_spouse = FER_83 #Etain15
+    }
+    571.1.1 = {
+        death = yes
+    }
+}
+
+FER_47 = {
+    name = "Brennus141"
+    culture = "ferran"
+    faith = "jibai"
+    dynasty = FERD2 #FerDyn2
+    father = FER_51 #Fintan106
+    mother = FER_126 #Ffion65
+    576.1.1 = {
+        birth = yes
+    }
+}
+
+FER_48 = {
+    name = "Ceridwen44"
+    culture = "ferran"
+    faith = "jibai"
+    female = yes
+    dynasty = FERD2 #FerDyn2
+    father = FER_46 #Arawn7
+    mother = FER_83 #Etain15
+    550.1.1 = {
+        birth = yes
+    }
+    566.1.1 = {
+        add_spouse = FER_33 #Oengus105
+    }
+}
+
+FER_49 = {
+    name = "Eirlys146"
+    culture = "ferran"
+    faith = "jibai"
+    female = yes
+    dynasty = FERD2 #FerDyn2
+    father = FER_56 #Nemed48
+    mother = FER_159 #Eleri72
+    580.1.1 = {
+        birth = yes
+    }
+}
+
+FER_5 = {
+    name = "Brannoc40"
+    culture = "ferran"
+    faith = "jibai"
+    dynasty = FERD1 #FerDyn1
+    father = FER_30 #Nemed3
+    mother = FER_45 #Aife10
+    550.1.1 = {
+        birth = yes
+    }
+    578.1.1 = {
+        add_spouse = FER_61 #Saoirse47
+    }
+}
+
+FER_50 = {
+    name = "Epona9"
+    culture = "ferran"
+    faith = "jibai"
+    female = yes
+    dynasty = FERD2 #FerDyn2
+    father = FER_58 #Oengus6
+    522.1.1 = {
+        birth = yes
+    }
+    546.1.1 = {
+        add_spouse = FER_35 #Oengus2
+    }
+    570.1.1 = {
+        death = yes
+    }
+}
+
+FER_51 = {
+    name = "Fintan106"
+    culture = "ferran"
+    faith = "jibai"
+    dynasty = FERD2 #FerDyn2
+    548.1.1 = {
+        birth = yes
+    }
+    572.1.1 = {
+        add_spouse = FER_126 #Ffion65
+    }
+}
+
+FER_52 = {
+    name = "Gwenhwyfar140"
+    culture = "ferran"
+    faith = "jibai"
+    female = yes
+    dynasty = FERD2 #FerDyn2
+    father = FER_51 #Fintan106
+    mother = FER_126 #Ffion65
+    575.1.1 = {
+        birth = yes
+    }
+}
+
+FER_53 = {
+    name = "Gwyneth144"
+    culture = "ferran"
+    faith = "jibai"
+    female = yes
+    dynasty = FERD2 #FerDyn2
+    father = FER_56 #Nemed48
+    mother = FER_159 #Eleri72
+    576.1.1 = {
+        birth = yes
+    }
+}
+
+FER_54 = {
+    name = "Iseult139"
+    culture = "ferran"
+    faith = "jibai"
+    female = yes
+    dynasty = FERD2 #FerDyn2
+    father = FER_51 #Fintan106
+    mother = FER_126 #Ffion65
+    573.1.1 = {
+        birth = yes
+    }
+}
+
+FER_55 = {
+    name = "Nemed145"
+    culture = "ferran"
+    faith = "jibai"
+    dynasty = FERD2 #FerDyn2
+    father = FER_56 #Nemed48
+    mother = FER_159 #Eleri72
+    578.1.1 = {
+        birth = yes
+    }
+}
+
+FER_56 = {
+    name = "Nemed48"
+    culture = "ferran"
+    faith = "jibai"
+    dynasty = FERD2 #FerDyn2
+    father = FER_57 #Nemed8
+    mother = FER_116 #Delyth20
+    550.1.1 = {
+        birth = yes
+    }
+    573.1.1 = {
+        add_spouse = FER_159 #Eleri72
+    }
+}
+
+FER_57 = {
+    name = "Nemed8"
+    culture = "ferran"
+    faith = "jibai"
+    dynasty = FERD2 #FerDyn2
+    father = FER_58 #Oengus6
+    519.1.1 = {
+        birth = yes
+    }
+    548.1.1 = {
+        add_spouse = FER_116 #Delyth20
+    }
+    582.1.1 = {
+        death = yes
+    }
+}
+
+FER_58 = {
+    name = "Oengus6"
+    culture = "ferran"
+    faith = "jibai"
+    dynasty = FERD2 #FerDyn2
+    481.1.1 = {
+        birth = yes
+    }
+    554.1.1 = {
+        death = yes
+    }
+}
+
+FER_59 = {
+    name = "Orlaith49"
+    culture = "ferran"
+    faith = "jibai"
+    female = yes
+    dynasty = FERD2 #FerDyn2
+    father = FER_57 #Nemed8
+    mother = FER_116 #Delyth20
+    552.1.1 = {
+        birth = yes
+    }
+    575.1.1 = {
+        add_spouse = FER_142 #Oengus61
+    }
+}
+
+FER_6 = {
+    name = "Cadan1"
+    culture = "ferran"
+    faith = "jibai"
+    dynasty = FERD1 #FerDyn1
+    480.1.1 = {
+        birth = yes
+    }
+    555.1.1 = {
+        death = yes
+    }
+}
+
+FER_60 = {
+    name = "Rhydderch142"
+    culture = "ferran"
+    faith = "jibai"
+    dynasty = FERD2 #FerDyn2
+    father = FER_51 #Fintan106
+    mother = FER_126 #Ffion65
+    578.1.1 = {
+        birth = yes
+    }
+}
+
+FER_61 = {
+    name = "Saoirse47"
+    culture = "ferran"
+    faith = "jibai"
+    female = yes
+    dynasty = FERD2 #FerDyn2
+    father = FER_46 #Arawn7
+    mother = FER_83 #Etain15
+    553.1.1 = {
+        birth = yes
+    }
+    578.1.1 = {
+        add_spouse = FER_5 #Brannoc40
+    }
+}
+
+FER_62 = {
+    name = "Sinead45"
+    culture = "ferran"
+    faith = "jibai"
+    female = yes
+    dynasty = FERD2 #FerDyn2
+    father = FER_46 #Arawn7
+    mother = FER_83 #Etain15
+    551.1.1 = {
+        birth = yes
+    }
+    575.1.1 = {
+        add_spouse = FER_21 #Geraint107
+    }
+}
+
+FER_63 = {
+    name = "Tegwen46"
+    culture = "ferran"
+    faith = "jibai"
+    female = yes
+    dynasty = FERD2 #FerDyn2
+    father = FER_46 #Arawn7
+    mother = FER_83 #Etain15
+    552.1.1 = {
+        birth = yes
+    }
+    574.1.1 = {
+        add_spouse = FER_22 #Geraint36
+    }
+}
+
+FER_64 = {
+    name = "Urien143"
+    culture = "ferran"
+    faith = "jibai"
+    dynasty = FERD2 #FerDyn2
+    father = FER_56 #Nemed48
+    mother = FER_159 #Eleri72
+    574.1.1 = {
+        birth = yes
+    }
+}
+
+FER_65 = {
+    name = "Yseult50"
+    culture = "ferran"
+    faith = "jibai"
+    female = yes
+    dynasty = FERD2 #FerDyn2
+    father = FER_57 #Nemed8
+    mother = FER_116 #Delyth20
+    553.1.1 = {
+        birth = yes
+    }
+    573.1.1 = {
+        add_spouse = FER_158 #Cynric99
+    }
+}
+
+FER_66 = {
+    name = "Aedan150"
+    culture = "ferran"
+    faith = "jibai"
+    dynasty = FERD3 #FerDyn3
+    father = FER_97 #Tristan104
+    mother = FER_171 #Maeve68
+    578.1.1 = {
+        birth = yes
+    }
+}
+
+FER_67 = {
+    name = "Aedan155"
+    culture = "ferran"
+    faith = "jibai"
+    dynasty = FERD3 #FerDyn3
+    father = FER_72 #Arawn51
+    mother = FER_168 #Gwyneth69
+    576.1.1 = {
+        birth = yes
+    }
+}
+
+FER_68 = {
+    name = "Aedan162"
+    culture = "ferran"
+    faith = "jibai"
+    dynasty = FERD3 #FerDyn3
+    father = FER_98 #Tuathal52
+    mother = FER_193 #Branwen85
+    580.1.1 = {
+        birth = yes
+    }
+}
+
+FER_69 = {
+    name = "Ailill149"
+    culture = "ferran"
+    faith = "jibai"
+    dynasty = FERD3 #FerDyn3
+    father = FER_97 #Tristan104
+    mother = FER_171 #Maeve68
+    576.1.1 = {
+        birth = yes
+    }
+}
+
+FER_7 = {
+    name = "Cadan42"
+    culture = "ferran"
+    faith = "jibai"
+    dynasty = FERD1 #FerDyn1
+    father = FER_30 #Nemed3
+    mother = FER_45 #Aife10
+    554.1.1 = {
+        birth = yes
+    }
+    569.1.1 = {
+        add_spouse = FER_100 #Aife57
+    }
+}
+
+FER_70 = {
+    name = "Aine55"
+    culture = "ferran"
+    faith = "jibai"
+    female = yes
+    dynasty = FERD3 #FerDyn3
+    father = FER_95 #Taliesin13
+    mother = FER_201 #Delyth30
+    551.1.1 = {
+        birth = yes
+    }
+    570.1.1 = {
+        add_spouse = FER_13 #Cunobelin39
+    }
+}
+
+FER_71 = {
+    name = "Aislinn148"
+    culture = "ferran"
+    faith = "jibai"
+    female = yes
+    dynasty = FERD3 #FerDyn3
+    father = FER_97 #Tristan104
+    mother = FER_171 #Maeve68
+    574.1.1 = {
+        birth = yes
+    }
+}
+
+FER_72 = {
+    name = "Arawn51"
+    culture = "ferran"
+    faith = "jibai"
+    dynasty = FERD3 #FerDyn3
+    father = FER_84 #Geraint12
+    mother = FER_169 #Macha25
+    550.1.1 = {
+        birth = yes
+    }
+    571.1.1 = {
+        add_spouse = FER_168 #Gwyneth69
+    }
+}
+
+FER_73 = {
+    name = "Belenos156"
+    culture = "ferran"
+    faith = "jibai"
+    dynasty = FERD3 #FerDyn3
+    father = FER_72 #Arawn51
+    mother = FER_168 #Gwyneth69
+    578.1.1 = {
+        birth = yes
+    }
+}
+
+FER_74 = {
+    name = "Brannoc168"
+    culture = "ferran"
+    faith = "jibai"
+    dynasty = FERD3 #FerDyn3
+    father = FER_80 #Drustan53
+    mother = FER_207 #Llinos86
+    582.1.1 = {
+        birth = yes
+    }
+}
+
+FER_75 = {
+    name = "Brigid152"
+    culture = "ferran"
+    faith = "jibai"
+    female = yes
+    dynasty = FERD3 #FerDyn3
+    father = FER_97 #Tristan104
+    mother = FER_171 #Maeve68
+    581.1.1 = {
+        birth = yes
+    }
+}
+
+FER_76 = {
+    name = "Caratacus154"
+    culture = "ferran"
+    faith = "jibai"
+    dynasty = FERD3 #FerDyn3
+    father = FER_72 #Arawn51
+    mother = FER_168 #Gwyneth69
+    574.1.1 = {
+        birth = yes
+    }
+}
+
+FER_77 = {
+    name = "Conall54"
+    culture = "ferran"
+    faith = "jibai"
+    dynasty = FERD3 #FerDyn3
+    father = FER_95 #Taliesin13
+    mother = FER_201 #Delyth30
+    550.1.1 = {
+        birth = yes
+    }
+    576.1.1 = {
+        add_spouse = FER_164 #Ffion77
+    }
+}
+
+FER_78 = {
+    name = "Drustan151"
+    culture = "ferran"
+    faith = "jibai"
+    dynasty = FERD3 #FerDyn3
+    father = FER_97 #Tristan104
+    mother = FER_171 #Maeve68
+    580.1.1 = {
+        birth = yes
+    }
+}
+
+FER_79 = {
+    name = "Drustan160"
+    culture = "ferran"
+    faith = "jibai"
+    dynasty = FERD3 #FerDyn3
+    father = FER_77 #Conall54
+    mother = FER_164 #Ffion77
+    581.1.1 = {
+        birth = yes
+    }
+}
+
+FER_8 = {
+    name = "Cairenn120"
+    culture = "ferran"
+    faith = "jibai"
+    female = yes
+    dynasty = FERD1 #FerDyn1
+    father = FER_22 #Geraint36
+    mother = FER_63 #Tegwen46
+    576.1.1 = {
+        birth = yes
+    }
+}
+
+FER_80 = {
+    name = "Drustan53"
+    culture = "ferran"
+    faith = "jibai"
+    dynasty = FERD3 #FerDyn3
+    father = FER_84 #Geraint12
+    mother = FER_169 #Macha25
+    554.1.1 = {
+        birth = yes
+    }
+    577.1.1 = {
+        add_spouse = FER_207 #Llinos86
+    }
+}
+
+FER_81 = {
+    name = "Eirlys158"
+    culture = "ferran"
+    faith = "jibai"
+    female = yes
+    dynasty = FERD3 #FerDyn3
+    father = FER_77 #Conall54
+    mother = FER_164 #Ffion77
+    577.1.1 = {
+        birth = yes
+    }
+}
+
+FER_82 = {
+    name = "Epona14"
+    culture = "ferran"
+    faith = "jibai"
+    female = yes
+    dynasty = FERD3 #FerDyn3
+    father = FER_94 #Taliesin11
+    523.1.1 = {
+        birth = yes
+    }
+    545.1.1 = {
+        add_spouse = FER_156 #Ceredig22
+    }
+    570.1.1 = {
+        death = yes
+    }
+}
+
+FER_83 = {
+    name = "Etain15"
+    culture = "ferran"
+    faith = "jibai"
+    female = yes
+    dynasty = FERD3 #FerDyn3
+    father = FER_94 #Taliesin11
+    526.1.1 = {
+        birth = yes
+    }
+    546.1.1 = {
+        add_spouse = FER_46 #Arawn7
+    }
+    583.1.1 = {
+        death = yes
+    }
+}
+
+FER_84 = {
+    name = "Geraint12"
+    culture = "ferran"
+    faith = "jibai"
+    dynasty = FERD3 #FerDyn3
+    father = FER_94 #Taliesin11
+    517.1.1 = {
+        birth = yes
+    }
+    546.1.1 = {
+        add_spouse = FER_169 #Macha25
+    }
+    573.1.1 = {
+        death = yes
+    }
+}
+
+FER_85 = {
+    name = "Maeve159"
+    culture = "ferran"
+    faith = "jibai"
+    female = yes
+    dynasty = FERD3 #FerDyn3
+    father = FER_77 #Conall54
+    mother = FER_164 #Ffion77
+    579.1.1 = {
+        birth = yes
+    }
+}
+
+FER_86 = {
+    name = "Nemed165"
+    culture = "ferran"
+    faith = "jibai"
+    dynasty = FERD3 #FerDyn3
+    father = FER_80 #Drustan53
+    mother = FER_207 #Llinos86
+    578.1.1 = {
+        birth = yes
+    }
+}
+
+FER_87 = {
+    name = "Nessa166"
+    culture = "ferran"
+    faith = "jibai"
+    female = yes
+    dynasty = FERD3 #FerDyn3
+    father = FER_80 #Drustan53
+    mother = FER_207 #Llinos86
+    579.1.1 = {
+        birth = yes
+    }
+}
+
+FER_88 = {
+    name = "Niamh164"
+    culture = "ferran"
+    faith = "jibai"
+    female = yes
+    dynasty = FERD3 #FerDyn3
+    father = FER_98 #Tuathal52
+    mother = FER_193 #Branwen85
+    583.1.1 = {
+        birth = yes
+    }
+}
+
+FER_89 = {
+    name = "Olwen157"
+    culture = "ferran"
+    faith = "jibai"
+    female = yes
+    dynasty = FERD3 #FerDyn3
+    father = FER_72 #Arawn51
+    mother = FER_168 #Gwyneth69
+    580.1.1 = {
+        birth = yes
+    }
+}
+
+FER_9 = {
+    name = "Ceridwen41"
+    culture = "ferran"
+    faith = "jibai"
+    female = yes
+    dynasty = FERD1 #FerDyn1
+    father = FER_30 #Nemed3
+    mother = FER_45 #Aife10
+    552.1.1 = {
+        birth = yes
+    }
+    572.1.1 = {
+        add_spouse = FER_134 #Mabon63
+    }
+}
+
+FER_90 = {
+    name = "Olwen167"
+    culture = "ferran"
+    faith = "jibai"
+    female = yes
+    dynasty = FERD3 #FerDyn3
+    father = FER_80 #Drustan53
+    mother = FER_207 #Llinos86
+    580.1.1 = {
+        birth = yes
+    }
+}
+
+FER_91 = {
+    name = "Rhiannon147"
+    culture = "ferran"
+    faith = "jibai"
+    female = yes
+    dynasty = FERD3 #FerDyn3
+    father = FER_97 #Tristan104
+    mother = FER_171 #Maeve68
+    573.1.1 = {
+        birth = yes
+    }
+}
+
+FER_92 = {
+    name = "Rhiannon161"
+    culture = "ferran"
+    faith = "jibai"
+    female = yes
+    dynasty = FERD3 #FerDyn3
+    father = FER_98 #Tuathal52
+    mother = FER_193 #Branwen85
+    579.1.1 = {
+        birth = yes
+    }
+}
+
+FER_93 = {
+    name = "Scathach163"
+    culture = "ferran"
+    faith = "jibai"
+    female = yes
+    dynasty = FERD3 #FerDyn3
+    father = FER_98 #Tuathal52
+    mother = FER_193 #Branwen85
+    582.1.1 = {
+        birth = yes
+    }
+}
+
+FER_94 = {
+    name = "Taliesin11"
+    culture = "ferran"
+    faith = "jibai"
+    dynasty = FERD3 #FerDyn3
+    482.1.1 = {
+        birth = yes
+    }
+    564.1.1 = {
+        death = yes
+    }
+}
+
+FER_95 = {
+    name = "Taliesin13"
+    culture = "ferran"
+    faith = "jibai"
+    dynasty = FERD3 #FerDyn3
+    father = FER_94 #Taliesin11
+    520.1.1 = {
+        birth = yes
+    }
+    538.1.1 = {
+        add_spouse = FER_201 #Delyth30
+    }
+    579.1.1 = {
+        death = yes
+    }
+}
+
+FER_96 = {
+    name = "Tegwen56"
+    culture = "ferran"
+    faith = "jibai"
+    female = yes
+    dynasty = FERD3 #FerDyn3
+    father = FER_95 #Taliesin13
+    mother = FER_201 #Delyth30
+    553.1.1 = {
+        birth = yes
+    }
+    578.1.1 = {
+        add_spouse = FER_184 #Taranis70
+    }
+}
+
+FER_97 = {
+    name = "Tristan104"
+    culture = "ferran"
+    faith = "jibai"
+    dynasty = FERD3 #FerDyn3
+    547.1.1 = {
+        birth = yes
+    }
+    572.1.1 = {
+        add_spouse = FER_171 #Maeve68
+    }
+}
+
+FER_98 = {
+    name = "Tuathal52"
+    culture = "ferran"
+    faith = "jibai"
+    dynasty = FERD3 #FerDyn3
+    father = FER_84 #Geraint12
+    mother = FER_169 #Macha25
+    552.1.1 = {
+        birth = yes
+    }
+    578.1.1 = {
+        add_spouse = FER_193 #Branwen85
+    }
+}
+
+FER_99 = {
+    name = "Yseult153"
+    culture = "ferran"
+    faith = "jibai"
+    female = yes
+    dynasty = FERD3 #FerDyn3
+    father = FER_72 #Arawn51
+    mother = FER_168 #Gwyneth69
+    572.1.1 = {
+        birth = yes
+    }
+}
+

@@ -1,0 +1,1305 @@
+THA274 = {
+	name = "Eogandros"
+	dynasty = 7500075
+	religion = "colocist"
+	culture = thalleran
+	476.1.1 = {
+		birth = yes
+	}
+	524.1.1 = {
+		death = {
+			death_reason = death_horse_riding_accident
+		}
+	}
+}
+THA275 = {
+	name = "Aedion"
+	dynasty = 76
+	religion = "colocist"
+	culture = florisan
+	father = THA274
+	494.1.1 = {
+		birth = yes
+	}
+	529.1.1 = {
+		death = {
+			death_reason = death_battle
+			killer = THA277
+		}
+	}
+}
+THA276 = {
+	name = "Callanios"
+	dynasty = 77
+	religion = "colocist"
+	culture = thalleran
+	father = THA274
+	497.1.1 = {
+		birth = yes
+	}
+	540.1.1 = {
+		death = {
+			death_reason = death_battle
+		}
+	}
+}
+THA277 = {
+	name = "Rytheros"
+	dynasty = 78
+	religion = "colocist"
+	culture = thalleran
+	father = THA274
+	500.1.1 = {
+		birth = yes
+	}
+	529.1.1 = {
+		give_nickname = nick_the_savage
+	}
+	542.6.6 = {
+		death = {
+			death_reason = death_battle
+			killer = THA278
+		}
+	}
+}
+THA278 = {
+	name = "Phaedric"
+	dynasty = 76
+	religion = "colocist"
+	culture = florisan
+	father = THA275
+	515.1.1 = {
+		birth = yes
+	}
+	529.1.1 = {
+		give_nickname = nick_strongarm
+	}
+	564.1.1 = {
+		death = yes
+	}
+}
+THA279 = {
+	name = "Gaidion"
+	dynasty = 76
+	religion = "colocist"
+	culture = florisan
+	father = THA275
+	524.6.6 = {
+		birth = yes
+	}
+	542.6.6 = {
+		death = {
+			death_reason = death_battle
+			killer = THA277
+		}
+	}
+}
+THA280 = {
+	name = "Diomachus"
+	dynasty = 76
+	religion = "colocist"
+	culture = florisan
+	father = THA275
+	526.1.1 = {
+		birth = yes
+	}
+	581.1.1 = {
+		death = yes
+	}
+}
+THA281 = {
+	name = "Rhadocles"
+	dynasty = 77
+	religion = "colocist"
+	culture = thalleran
+	father = THA276
+	517.1.1 = {
+		birth = yes
+	}
+	578.1.1 = {
+		death = yes
+	}
+}
+THA282 = {
+	name = "Hestavos"
+	dynasty = 77
+	religion = "colocist"
+	culture = thalleran
+	father = THA276
+	521.1.1 = {
+		birth = yes
+	}
+	556.1.1 = {
+		death = {
+			death_reason = death_cancer
+		}
+	}
+}
+THA283 = {
+	name = "Altoran"
+	dynasty = 78
+	religion = "colocist"
+	culture = thalleran
+	father = THA277
+	517.1.1 = {
+		birth = yes
+	}
+	544.4.7 = {
+		death = {
+			death_reason = death_duel
+			killer = THA284
+		}
+	}
+}
+THA284 = {
+	name = "Saelthir"
+	dynasty = 78
+	religion = "colocist"
+	culture = thalleran
+	father = THA277
+	520.1.1 = {
+		birth = yes
+	}
+	569.1.1 = {
+		death = {
+			death_reason = death_assassinated_by_soldiers
+			killer = THA286
+		}
+	}
+}
+THA285 = {
+	name = "Daerion"
+	dynasty = 78
+	religion = "colocist"
+	culture = thalleran
+	father = THA277
+	521.1.1 = {
+		birth = yes
+	}
+	558.1.1 = {
+		death = {
+			death_reason = death_battle
+			killer = THA284
+		}
+	}
+}
+THA286 = {
+	name = "Iphandria"
+	female = yes
+	dynasty = 78
+	religion = "colocist"
+	culture = thalleran
+	father = THA277
+	526.1.1 = {
+		birth = yes
+	}
+	580.1.1 = {
+		death = {
+			death_reason = death_murder
+			killer = THA302
+		}
+	}
+}
+THA287 = {
+	name = "Ethainis"
+	dynasty = 78
+	religion = "colocist"
+	culture = thalleran
+	father = THA277
+	528.1.1 = {
+		birth = yes
+	}
+	556.1.1 = {
+		death = {
+			death_reason = death_battle
+			killer = THA285
+		}
+	}
+}
+THA288 = {
+	name = "Tyndor"
+	dynasty = 76
+	religion = "colocist"
+	culture = florisan
+	father = THA278
+	532.1.1 = {
+		birth = yes
+	}
+	579.6.15 = {
+		death = {
+			death_reason = death_battle
+		}
+	}
+}
+THA289 = {
+	name = "Phaedric"
+	dynasty = 76
+	religion = "colocist"
+	culture = florisan
+	father = THA278
+	538.1.1 = {
+		birth = yes
+	}
+	579.6.15 = {
+		death = {
+			death_reason = death_battle
+		}
+	}
+}
+THA290 = {
+	name = "Eogandros"
+	dynasty = 76
+	religion = "colocist"
+	culture = florisan
+	father = THA279
+	542.6.2 = {
+		birth = yes
+	}
+	579.6.15 = {
+		death = {
+			death_reason = death_battle
+		}
+	}
+}
+THA291 = {
+	name = "Taranthos"
+	dynasty = 76
+	religion = "colocist"
+	culture = florisan
+	father = THA280
+	549.1.1 = {
+		birth = yes
+	}
+	579.6.15 = {
+		death = {
+			death_reason = death_battle
+		}
+	}
+}
+THA292 = {
+	name = "Diomachus"
+	dynasty = 76
+	religion = "colocist"
+	culture = florisan
+	father = THA280
+	551.1.1 = {
+		birth = yes
+	}
+	579.6.15 = {
+		death = {
+			death_reason = death_battle
+		}
+	}
+}
+THA293 = {
+	name = "Callanios"
+	dynasty = 76
+	religion = "colocist"
+	culture = thalleran
+	father = THA280
+	554.1.1 = {
+		birth = yes
+	}
+	579.6.15 = {
+		death = {
+			death_reason = death_battle
+		}
+	}
+}
+THA294 = {
+	name = "Rhadocles"
+	dynasty = 77
+	religion = "colocist"
+	culture = thalleran
+	father = THA281
+	535.1.1 = {
+		birth = yes
+	}
+	579.6.15 = {
+		death = {
+			death_reason = death_battle
+		}
+	}
+}
+THA295 = {
+	name = "Odrakles"
+	dynasty = 77
+	religion = "colocist"
+	culture = thalleran
+	trait = one_eyed
+	father = THA281
+	540.1.1 = {
+		birth = yes
+	}
+}
+THA296 = {
+	name = "Galandros"
+	dynasty = 77
+	religion = "colocist"
+	culture = thalleran
+	father = THA281
+	542.1.1 = {
+		birth = yes
+	}
+	579.6.15 = {
+		death = {
+			death_reason = death_battle
+		}
+	}
+}
+THA297 = {
+	name = "Hestavos"
+	dynasty = 77
+	religion = "colocist"
+	culture = thalleran
+	trait = albino
+	father = THA282
+	542.1.1 = {
+		birth = yes
+	}
+	579.6.15 = {
+		give_nickname = nick_the_lion
+	}
+}
+THA298 = {
+	name = "Callanios"
+	dynasty = 77
+	religion = "colocist"
+	culture = thalleran
+	father = THA282
+	545.1.1 = {
+		birth = yes
+	}
+	579.6.15 = {
+		death = {
+			death_reason = death_battle
+		}
+	}
+}
+THA299 = {
+	name = "Altoran"
+	dynasty = 78
+	religion = "colocist"
+	culture = thalleran
+	father = THA283
+	539.1.1 = {
+		birth = yes
+	}
+	568.1.1 = {
+		death = {
+			death_reason = death_battle
+		}
+	}
+}
+THA300 = {
+	name = "Cormanthir"
+	dynasty = 78
+	religion = "colocist"
+	culture = thalleran
+	father = THA284
+	541.1.1 = {
+		birth = yes
+	}
+	579.6.18 = {
+		death = {
+			death_reason = death_duel
+			killer = THA302
+		}
+	}
+}
+THA301 = {
+	name = "Saelthir"
+	dynasty = 78
+	religion = "colocist"
+	culture = thalleran
+	father = THA284
+	556.1.1 = {
+		birth = yes
+	}
+	579.6.15 = {
+		death = {
+			death_reason = death_battle
+		}
+	}
+}
+THA302 = {
+	name = "Rytheros"
+	dynasty = 78
+	religion = "colocist"
+	culture = thalleran
+	diplomacy = 3
+	martial = 11
+	stewardship = 6
+	intrigue = 7
+	learning = 6
+	prowess = 11
+	trait = education_martial_4
+	trait = brave
+	trait = wrathful
+	trait = sadistic
+	father = THA284
+	561.1.1 = {
+		birth = yes
+	}
+	579.6.15 = {
+		give_nickname = nick_the_thunderbolt
+	}
+}
+THA303 = {
+	name = "Ionmir"
+	dynasty = 78
+	religion = "colocist"
+	culture = thalleran
+	father = THA285
+	540.1.1 = {
+		birth = yes
+	}
+	579.6.15 = {
+		death = {
+			death_reason = death_battle
+		}
+	}
+}
+THA304 = {
+	name = "Varythos"
+	dynasty = 78
+	religion = "colocist"
+	culture = thalleran
+	father = THA285
+	546.1.1 = {
+		birth = yes
+	}
+	584.1.1 = {
+		death = {
+			death_reason = death_murder
+			killer = THA302
+		}
+	}
+}
+THA305 = {
+	name = "Pyrralor"
+	dynasty = 78
+	religion = "colocist"
+	culture = thalleran
+	mother = THA286
+	550.1.1 = {
+		birth = yes
+	}
+}
+THA306 = {
+	name = "Erathain"
+	dynasty = 78
+	religion = "colocist"
+	culture = thalleran
+	trait = twin
+	father = THA287
+	548.1.1 = {
+		birth = yes
+	}
+	577.1.1 = {
+		death = {
+			death_reason = death_duel
+			killer = THA307
+		}
+	}
+}
+THA307 = {
+	name = "Meruphain"
+	dynasty = 78
+	religion = "colocist"
+	culture = thalleran
+	trait = twin
+	father = THA287
+	548.1.1 = {
+		birth = yes
+	}
+	577.1.1 = {
+		death = {
+			death_reason = death_duel
+			killer = THA306
+		}
+	}
+}
+THA308 = {
+	name = "Tyndor"
+	dynasty = 76
+	religion = "colocist"
+	culture = florisan
+	diplomacy = 7
+	martial = 6
+	stewardship = 9
+	intrigue = 7
+	learning = 8
+	trait = education_stewardship_4
+	trait = stubborn
+	trait = diligent
+	trait = paranoid
+	father = THA288
+	551.1.1 = {
+		birth = yes
+	}
+}
+THA309 = {
+	name = "Fyodoros"
+	dynasty = 76
+	religion = "colocist"
+	culture = florisan
+	father = THA288
+	556.1.1 = {
+		birth = yes
+	}
+	579.6.15 = {
+		death = {
+			death_reason = death_battle
+		}
+	}
+}
+THA310 = {
+	name = "Ithandros"
+	dynasty = 76
+	religion = "colocist"
+	culture = florisan
+	father = THA288
+	558.1.1 = {
+		birth = yes
+	}
+	579.6.15 = {
+		death = {
+			death_reason = death_battle
+		}
+	}
+}
+THA311 = {
+	name = "Baelthius"
+	dynasty = 76
+	religion = "colocist"
+	culture = florisan
+	father = THA289
+	554.1.1 = {
+		birth = yes
+	}
+}
+THA312 = {
+	name = "Uisandros"
+	dynasty = 76
+	religion = "colocist"
+	culture = florisan
+	father = THA289
+	557.1.1 = {
+		birth = yes
+	}
+	579.6.15 = {
+		death = {
+			death_reason = death_battle
+		}
+	}
+}
+THA313 = {
+	name = "Eogandros"
+	dynasty = 76
+	religion = "colocist"
+	culture = florisan
+	father = THA290
+	562.1.1 = {
+		birth = yes
+	}
+}
+THA314 = {
+	name = "Brisandros"
+	dynasty = 76
+	religion = "colocist"
+	culture = florisan
+	father = THA291
+	568.1.1 = {
+		birth = yes
+	}
+}
+THA315 = {
+	name = "Maerith"
+	female = yes
+	dynasty = 76
+	religion = "colocist"
+	culture = florisan
+	father = THA291
+	570.1.1 = {
+		birth = yes
+	}
+}
+THA316 = {
+	name = "Vaelmir"
+	dynasty = 76
+	religion = "colocist"
+	culture = florisan
+	father = THA291
+	571.1.1 = {
+		birth = yes
+	}
+}
+THA317 = {
+	name = "Fionnara"
+	female = yes
+	dynasty = 76
+	religion = "colocist"
+	culture = florisan
+	father = THA292
+	569.1.1 = {
+		birth = yes
+	}
+}
+THA318 = {
+	name = "Aedion"
+	dynasty = 76
+	religion = "colocist"
+	culture = florisan
+	father = THA292
+	571.1.1 = {
+		birth = yes
+	}
+}
+THA319 = {
+	name = "Tisandre"
+	female = yes
+	dynasty = 76
+	religion = "colocist"
+	culture = florisan
+	father = THA292
+	575.1.1 = {
+		birth = yes
+	}
+}
+THA320 = {
+	name = "Herconis"
+	dynasty = 76
+	religion = "colocist"
+	culture = florisan
+	father = THA292
+	577.1.1 = {
+		birth = yes
+	}
+}
+THA321 = {
+	name = "Callanios"
+	dynasty = 76
+	religion = "colocist"
+	culture = thalleran
+	father = THA293
+	572.1.1 = {
+		birth = yes
+	}
+}
+THA322 = {
+	name = "Maerith"
+	female = yes
+	dynasty = 76
+	religion = "colocist"
+	culture = thalleran
+	father = THA293
+	573.1.1 = {
+		birth = yes
+	}
+}
+THA323 = {
+	name = "Rhyssaia"
+	female = yes
+	dynasty = 76
+	religion = "colocist"
+	culture = thalleran
+	trait = twin
+	father = THA293
+	575.1.1 = {
+		birth = yes
+	}
+}
+THA324 = {
+	name = "Varythos"
+	dynasty = 76
+	religion = "colocist"
+	culture = thalleran
+	trait = twin
+	father = THA293
+	575.1.1 = {
+		birth = yes
+	}
+}
+THA325 = {
+	name = "Lirithis"
+	female = yes
+	dynasty = 76
+	religion = "colocist"
+	culture = thalleran
+	father = THA293
+	578.1.1 = {
+		birth = yes
+	}
+}
+THA326 = {
+	name = "Fenandros"
+	dynasty = 77
+	religion = "colocist"
+	culture = thalleran
+	diplomacy = 7
+	martial = 7
+	stewardship = 8
+	intrigue = 7
+	learning = 11
+	trait = education_learning_4
+	trait = content
+	trait = calm
+	trait = diligent
+	trait = intellect_good_1
+	father = THA294
+	555.1.1 = {
+		birth = yes
+	}
+}
+THA327 = {
+	name = "Olyndra"
+	female = yes
+	dynasty = 77
+	religion = "colocist"
+	culture = thalleran
+	father = THA294
+	559.1.1 = {
+		birth = yes
+	}
+}
+THA328 = {
+	name = "Rhadocles"
+	dynasty = 77
+	religion = "colocist"
+	culture = thalleran
+	father = THA294
+	561.1.1 = {
+		birth = yes
+	}
+}
+THA329 = {
+	name = "Odrakles"
+	dynasty = 77
+	religion = "colocist"
+	culture = thalleran
+	father = THA295
+	559.1.1 = {
+		birth = yes
+	}
+}
+THA330 = {
+	name = "Gwyneris"
+	female = yes
+	dynasty = 77
+	religion = "colocist"
+	culture = thalleran
+	father = THA295
+	560.1.1 = {
+		birth = yes
+	}
+}
+THA331 = {
+	name = "Kaelisia"
+	female = yes
+	dynasty = 77
+	religion = "colocist"
+	culture = thalleran
+	father = THA295
+	564.1.1 = {
+		birth = yes
+	}
+}
+THA332 = {
+	name = "Rhadocles"
+	dynasty = 77
+	religion = "colocist"
+	culture = thalleran
+	father = THA295
+	567.1.1 = {
+		birth = yes
+	}
+}
+THA333 = {
+	name = "Euthylla"
+	female = yes
+	dynasty = 77
+	religion = "colocist"
+	culture = thalleran
+	father = THA296
+	563.1.1 = {
+		birth = yes
+	}
+}
+THA334 = {
+	name = "Orythos"
+	dynasty = 77
+	religion = "colocist"
+	culture = thalleran
+	father = THA296
+	566.1.1 = {
+		birth = yes
+	}
+}
+THA335 = {
+	name = "Quintherion"
+	dynasty = 77
+	religion = "colocist"
+	culture = thalleran
+	father = THA297
+	561.1.1 = {
+		birth = yes
+	}
+}
+THA336 = {
+	name = "Callisara"
+	female = yes
+	dynasty = 77
+	religion = "colocist"
+	culture = thalleran
+	father = THA297
+	563.1.1 = {
+		birth = yes
+	}
+}
+THA337 = {
+	name = "Hestavos"
+	dynasty = 77
+	religion = "colocist"
+	culture = thalleran
+	father = THA297
+	564.1.1 = {
+		birth = yes
+	}
+}
+THA338 = {
+	name = "Quirienna"
+	female = yes
+	dynasty = 77
+	religion = "colocist"
+	culture = thalleran
+	father = THA298
+	562.1.1 = {
+		birth = yes
+	}
+}
+THA339 = {
+	name = "Morcanthus"
+	dynasty = 77
+	religion = "colocist"
+	culture = thalleran
+	father = THA298
+	565.1.1 = {
+		birth = yes
+	}
+}
+THA340 = {
+	name = "Kaelion"
+	dynasty = 77
+	religion = "colocist"
+	culture = thalleran
+	father = THA298
+	566.1.1 = {
+		birth = yes
+	}
+}
+THA341 = {
+	name = "Halithia"
+	female = yes
+	dynasty = 77
+	religion = "colocist"
+	culture = thalleran
+	father = THA298
+	570.1.1 = {
+		birth = yes
+	}
+}
+THA342 = {
+	name = "Myrinthus"
+	dynasty = 78
+	religion = "colocist"
+	culture = thalleran
+	father = THA299
+	557.1.1 = {
+		birth = yes
+	}
+	579.6.15 = {
+		death = {
+			death_reason = death_battle
+		}
+	}
+}
+THA343 = {
+	name = "Phaedric"
+	dynasty = 78
+	religion = "colocist"
+	culture = thalleran
+	father = THA299
+	560.1.1 = {
+		birth = yes
+	}
+}
+THA344 = {
+	name = "Neachtian"
+	female = yes
+	dynasty = 78
+	religion = "colocist"
+	culture = thalleran
+	father = THA299
+	564.1.1 = {
+		birth = yes
+	}
+}
+THA345 = {
+	name = "Eirianis"
+	female = yes
+	dynasty = 78
+	religion = "colocist"
+	culture = thalleran
+	father = THA299
+	567.1.1 = {
+		birth = yes
+	}
+}
+THA346 = {
+	name = "Cormanthir"
+	dynasty = 78
+	religion = "colocist"
+	culture = thalleran
+	father = THA300
+	558.1.1 = {
+		birth = yes
+	}
+}
+THA347 = {
+	name = "Daelinna"
+	female = yes
+	dynasty = 78
+	religion = "colocist"
+	culture = thalleran
+	father = THA300
+	565.1.1 = {
+		birth = yes
+	}
+}
+THA348 = {
+	name = "Fyodoros"
+	dynasty = 78
+	religion = "colocist"
+	culture = thalleran
+	father = THA300
+	567.1.1 = {
+		birth = yes
+	}
+}
+THA349 = {
+	name = "Naevessa"
+	female = yes
+	dynasty = 78
+	religion = "colocist"
+	culture = thalleran
+	father = THA300
+	571.1.1 = {
+		birth = yes
+	}
+}
+THA350 = {
+	name = "Saelthir"
+	dynasty = 78
+	religion = "colocist"
+	culture = thalleran
+	father = THA301
+	575.1.1 = {
+		birth = yes
+	}
+}
+THA351 = {
+	name = "Siderion"
+	dynasty = 78
+	religion = "colocist"
+	culture = thalleran
+	father = THA301
+	577.1.1 = {
+		birth = yes
+	}
+}
+THA352 = {
+	name = "Rytheros"
+	dynasty = 78
+	religion = "colocist"
+	culture = thalleran
+	father = THA302
+	577.1.1 = {
+		birth = yes
+	}
+}
+THA353 = {
+	name = "Euthylla"
+	female = yes
+	dynasty = 78
+	religion = "colocist"
+	culture = thalleran
+	father = THA302
+	578.1.1 = {
+		birth = yes
+	}
+}
+THA354 = {
+	name = "Iphandria"
+	female = yes
+	dynasty = 78
+	religion = "colocist"
+	culture = thalleran
+	father = THA302
+	581.1.1 = {
+		birth = yes
+	}
+}
+THA355 = {
+	name = "Lirandros"
+	dynasty = 78
+	religion = "colocist"
+	culture = thalleran
+	father = THA303
+	559.1.1 = {
+		birth = yes
+	}
+	579.6.15 = {
+		death = {
+			death_reason = death_battle
+		}
+	}
+}
+THA356 = {
+	name = "Pyrrantha"
+	female = yes
+	dynasty = 78
+	religion = "colocist"
+	culture = thalleran
+	father = THA303
+	561.1.1 = {
+		birth = yes
+	}
+}
+THA357 = {
+	name = "Gaidion"
+	dynasty = 78
+	religion = "colocist"
+	culture = thalleran
+	father = THA303
+	564.1.1 = {
+		birth = yes
+	}
+}
+THA358 = {
+	name = "Lirandros"
+	dynasty = 78
+	religion = "colocist"
+	culture = thalleran
+	father = THA355
+	576.1.1 = {
+		birth = yes
+	}
+}
+THA359 = {
+	name = "Rhianneis"
+	female = yes
+	dynasty = 78
+	religion = "colocist"
+	culture = thalleran
+	father = THA304
+	568.1.1 = {
+		birth = yes
+	}
+}
+THA360 = {
+	name = "Pyrralor"
+	dynasty = 78
+	religion = "colocist"
+	culture = thalleran
+	father = THA305
+	567.1.1 = {
+		birth = yes
+	}
+}
+THA361 = {
+	name = "Saeloria"
+	female = yes
+	dynasty = 78
+	religion = "colocist"
+	culture = thalleran
+	father = THA305
+	570.1.1 = {
+		birth = yes
+	}
+}
+THA362 = {
+	name = "Varythos"
+	dynasty = 78
+	religion = "colocist"
+	culture = thalleran
+	father = THA305
+	572.1.1 = {
+		birth = yes
+	}
+}
+THA363 = {
+	name = "Jorvetia"
+	female = yes
+	dynasty = 78
+	religion = "colocist"
+	culture = thalleran
+	father = THA305
+	575.1.1 = {
+		birth = yes
+	}
+}
+THA364 = {
+	name = "Erathain"
+	dynasty = 78
+	religion = "colocist"
+	culture = thalleran
+	father = THA306
+	571.1.1 = {
+		birth = yes
+	}
+	587.1.1 = {
+		add_spouse = THA365
+	}
+}
+THA365 = {
+	name = "Meruphania"
+	female = yes
+	dynasty = 78
+	religion = "colocist"
+	culture = thalleran
+	father = THA307
+	571.1.1 = {
+		birth = yes
+	}
+}
+THA366 = {
+	name = "Vaelmir"
+	dynasty = 79
+	religion = "colocist"
+	culture = thalleran
+	559.1.1 = {
+		birth = yes
+	}
+}
+THA367 = {
+	name = "Lirandros"
+	dynasty = 80
+	religion = "colocist"
+	culture = thalleran
+	554.1.1 = {
+		birth = yes
+	}
+}
+THA368 = {
+	name = "Halithia"
+	female = yes
+	dynasty = 81
+	religion = "colocist"
+	culture = thalleran
+	564.1.1 = {
+		birth = yes
+	}
+}
+THA369 = {
+	name = "Xandric"
+	dynasty = 82
+	religion = "colocist"
+	culture = thalleran
+	556.1.1 = {
+		birth = yes
+	}
+}
+THA370 = {
+	name = "Taranthos"
+	dynasty = 83
+	religion = "colocist"
+	culture = thalleran
+	5.1.1 = {
+		birth = yes
+	}
+}
+THA371 = {
+	name = "Kaelion"
+	dynasty = 84
+	religion = "colocist"
+	culture = thalleran
+	565.1.1 = {
+		birth = yes
+	}
+}
+THA372 = {
+	name = "Varythos"
+	dynasty = 85
+	religion = "colocist"
+	culture = thalleran
+	563.1.1 = {
+		birth = yes
+	}
+}
+THA373 = {
+	name = "Kallior"
+	dynasty = 86
+	religion = "colocist"
+	culture = thalleran
+	559.1.1 = {
+		birth = yes
+	}
+}
+THA374 = {
+	name = "Lysandric"
+	dynasty = 87
+	religion = "colocist"
+	culture = thalleran
+	568.1.1 = {
+		birth = yes
+	}
+}
+THA375 = {
+	name = "Pyrralor"
+	dynasty = 88
+	religion = "colocist"
+	culture = thalleran
+	530.1.1 = {
+		birth = yes
+	}
+}
+THA376 = {
+	name = "Ionmir"
+	dynasty = 89
+	religion = "colocist"
+	culture = thalleran
+	468.1.1 = {
+		birth = yes
+	}
+	536.1.1 = {
+		death = yes
+	}
+}
+THA577 = {
+	name = "Kallior"
+	dynasty = 201
+	religion = "colocist"
+	culture = thalleran
+	559.1.1 = {
+		birth = yes
+	}
+}
+THA578 = {
+	name = "Lirandos"
+	dynasty = 202
+	religion = "colocist"
+	culture = thalleran
+	556.1.1 = {
+		birth = yes
+	}
+}
+THA579 = {
+	name = "Halithia"
+	dynasty = 203
+	religion = "colocist"
+	culture = thalleran
+	555.1.1 = {
+		birth = yes
+	}
+}

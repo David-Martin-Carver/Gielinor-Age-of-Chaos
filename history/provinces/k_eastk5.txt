@@ -1,0 +1,477 @@
+#k_eastk5
+##d_duchy61a ###################################
+###c_394
+1480 = {	#placeholder
+	culture = wel_gravan
+	religion = stonegods
+	holding = castle_holding
+}
+1481 = {	#placeholder
+	holding = city_holding
+}
+1482 = {	#placeholder
+	holding = church_holding
+}
+1483 = {	#placeholder
+	holding = none
+}
+###c_395
+1477 = {	#placeholder
+	culture = wel_gravan
+	religion = stonegods
+	holding = castle_holding
+}
+1479 = {	#placeholder
+	holding = city_holding
+}
+1478 = {	#placeholder
+	holding = none
+}
+###c_396
+1474 = {	#placeholder
+	culture = wel_gravan
+	religion = stonegods
+	holding = castle_holding
+}
+1473 = {	#placeholder
+	holding = city_holding
+}
+1475 = {	#placeholder
+	holding = church_holding
+}
+1476 = {	#placeholder
+	holding = none
+}
+###c_397
+1484 = {	#placeholder
+	culture = benerec
+	religion = sylvan_heart
+	holding = castle_holding
+}
+1485 = {	#placeholder
+	holding = city_holding
+}
+1486 = {	#placeholder
+	holding = none
+}
+###c_398
+1487 = {	#placeholder
+	culture = benerec
+	religion = sylvan_heart
+	holding = castle_holding
+}
+1490 = {	#placeholder
+	holding = city_holding
+}
+1489 = {	#placeholder
+	holding = church_holding
+}
+1488 = {	#placeholder
+	holding = none
+}
+###c_399
+1491 = {	#placeholder
+	culture = benerec
+	religion = sylvan_heart
+	holding = castle_holding
+}
+1492 = {	#placeholder
+	holding = city_holding
+}
+1494 = {	#placeholder
+	holding = church_holding
+}
+1493 = {	#placeholder
+	holding = none
+}
+###c_400
+##d_duchy63 ###################################
+1496 = {	#placeholder
+	culture = benerec
+	religion = sylvan_heart
+	holding = castle_holding
+}
+1498 = {	#placeholder
+	holding = city_holding
+}
+1497 = {	#placeholder
+	holding = none
+}
+1495 = {	#placeholder
+	holding = none
+}
+###c_401
+1503 = {	#placeholder
+	culture = benerec
+	religion = sylvan_heart
+	holding = castle_holding
+}
+1501 = {	#placeholder
+	holding = none
+}
+1505 = {	#placeholder
+	holding = church_holding
+}
+1506 = {	#placeholder
+	holding = none
+}
+###c_402
+1499 = {	#placeholder
+	culture = benerec
+	religion = sylvan_heart
+	holding = castle_holding
+}
+1500 = {	#placeholder
+	holding = city_holding
+}
+###c_403
+1502 = {	#placeholder
+	culture = benerec
+	religion = sylvan_heart
+	holding = castle_holding
+}
+1504 = {	#placeholder
+	holding = city_holding
+}
+1507 = {	#placeholder
+	holding = church_holding
+}
+###c_404
+1510 = {	#placeholder
+	culture = benerec
+	religion = sylvan_heart
+	holding = castle_holding
+}
+###c_405
+1508 = {	#placeholder
+	culture = benerec
+	religion = sylvan_heart
+	holding = castle_holding
+}
+1511 = {	#placeholder
+	holding = city_holding
+}
+1509 = {	#placeholder
+	holding = church_holding
+}
+###c_406
+1513 = {	#placeholder
+	culture = benerec
+	religion = sylvan_heart
+	holding = castle_holding
+}
+1514 = {	#placeholder
+	holding = none
+}
+1512 = {	#placeholder
+	holding = church_holding
+}
+###c_407
+##d_duchy64 ###################################
+1515 = {	#placeholder
+	culture = benerec
+	religion = sylvan_heart
+	holding = castle_holding
+}
+1517 = {	#placeholder
+	holding = city_holding
+}
+1516 = {	#placeholder
+	holding = church_holding
+}
+###c_408
+1533 = {	#placeholder
+	culture = wel_gravan
+	religion = stonegods
+	holding = castle_holding
+}
+1534 = {	#placeholder
+	holding = city_holding
+}
+1536 = {	#placeholder
+	holding = church_holding
+}
+1535 = {	#placeholder
+	holding = none
+}
+###c_409
+1539 = {	#placeholder
+	culture = wel_gravan
+	religion = stonegods
+	holding = castle_holding
+}
+1538 = {	#placeholder
+	holding = none
+}
+1537 = {	#placeholder
+	holding = church_holding
+}
+###c_410
+1542 = {	#placeholder
+	culture = wel_gravan
+	religion = stonegods
+	holding = castle_holding
+}
+1540 = {	#placeholder
+	holding = none
+}
+1541 = {	#placeholder
+	holding = church_holding
+}
+###c_411
+1545 = {	#placeholder
+	culture = wel_gravan
+	religion = stonegods
+	holding = castle_holding
+}
+1544 = {	#placeholder
+	holding = city_holding
+}
+1543 = {	#placeholder
+	holding = none
+}
+###c_412
+1524 = {	#placeholder
+	culture = wel_gravan
+	religion = stonegods
+	holding = castle_holding
+}
+1523 = {	#placeholder
+	holding = city_holding
+}
+1525 = {	#placeholder
+	holding = church_holding
+}
+1522 = {	#placeholder
+	holding = none
+}
+###c_413
+1527 = {	#placeholder
+	culture = wel_gravan
+	religion = stonegods
+	holding = castle_holding
+}
+1526 = {	#placeholder
+	holding = city_holding
+}
+1528 = {	#placeholder
+	holding = none
+}
+###c_414
+1518 = {	#placeholder
+	culture = wel_gravan
+	religion = stonegods
+	holding = castle_holding
+}
+1520 = {	#placeholder
+	holding = city_holding
+}
+1519 = {	#placeholder
+	holding = church_holding
+}
+1521 = {	#placeholder
+	holding = none
+}
+###c_415
+##d_duchyek5a ###################################
+1530 = {	#placeholder
+	culture = wel_gravan
+	religion = stonegods
+	holding = castle_holding
+}
+1529 = {	#placeholder
+	holding = city_holding
+}
+1531 = {	#placeholder
+	holding = none
+}
+1532 = {	#placeholder
+	holding = none
+}
+###c_514
+1432 = {	#placeholder
+	culture = benerec
+	religion = sylvan_heart
+	holding = castle_holding
+}
+1433 = {	#placeholder
+	holding = none
+}
+1434 = {	#placeholder
+	holding = church_holding
+}
+1435 = {	#placeholder
+	holding = none
+}
+###c_515
+1429 = {	#placeholder
+	culture = benerec
+	religion = sylvan_heart
+	holding = castle_holding
+}
+1430 = {	#placeholder
+	holding = city_holding
+}
+1431 = {	#placeholder
+	holding = none
+}
+1428 = {	#placeholder
+	holding = none
+}
+###c_516
+1425 = {	#placeholder
+	culture = calraian
+	religion = sylvan_heart
+	holding = castle_holding
+}
+1426 = {	#placeholder
+	holding = city_holding
+}
+1427 = {	#placeholder
+	holding = church_holding
+}
+###c_517
+1442 = {	#placeholder
+	culture = wel_gravan
+	religion = stonegods
+	holding = castle_holding
+}
+1441 = {	#placeholder
+	holding = none
+}
+1440 = {	#placeholder
+	holding = church_holding
+}
+###c_518
+1437 = {	#placeholder
+	culture = wel_gravan
+	religion = stonegods
+	holding = castle_holding
+}
+1438 = {	#placeholder
+	holding = city_holding
+}
+1436 = {	#placeholder
+	holding = none
+}
+1439 = {	#placeholder
+	holding = none
+}
+###c_519
+1446 = {	#placeholder
+	culture = wel_gravan
+	religion = stonegods
+	holding = castle_holding
+}
+1444 = {	#placeholder
+	holding = city_holding
+}
+1445 = {	#placeholder
+	holding = church_holding
+}
+1443 = {	#placeholder
+	holding = none
+}
+###c_520
+##d_duchyek5b ###################################
+1449 = {	#placeholder
+	culture = benerec
+	religion = sylvan_heart
+	holding = castle_holding
+}
+1448 = {	#placeholder
+	holding = city_holding
+}
+1447 = {	#placeholder
+	holding = none
+}
+###c_521
+1462 = {	#placeholder
+	culture = wel_gravan
+	religion = stonegods
+	holding = castle_holding
+}
+1463 = {	#placeholder
+	holding = city_holding
+}
+1464 = {	#placeholder
+	holding = none
+}
+1465 = {	#placeholder
+	holding = none
+}
+###c_522
+1460 = {	#placeholder
+	culture = wel_gravan
+	religion = stonegods
+	holding = castle_holding
+}
+1461 = {	#placeholder
+	holding = city_holding
+}
+1459 = {	#placeholder
+	holding = church_holding
+}
+###c_523
+1452 = {	#placeholder
+	culture = wel_gravan
+	religion = stonegods
+	holding = castle_holding
+}
+1457 = {	#placeholder
+	holding = city_holding
+}
+1458 = {	#placeholder
+	holding = none
+}
+###c_524
+1451 = {	#placeholder
+	culture = wel_gravan
+	religion = stonegods
+	holding = castle_holding
+}
+1450 = {	#placeholder
+	holding = city_holding
+}
+1453 = {	#placeholder
+	holding = church_holding
+}
+###c_525
+1454 = {	#placeholder
+	culture = wel_gravan
+	religion = stonegods
+	holding = castle_holding
+}
+1455 = {	#placeholder
+	holding = city_holding
+}
+1456 = {	#placeholder
+	holding = church_holding
+}
+###c_526
+1466 = {	#placeholder
+	culture = wel_gravan
+	religion = stonegods
+	holding = castle_holding
+}
+1467 = {	#placeholder
+	holding = city_holding
+}
+1468 = {	#placeholder
+	holding = church_holding
+}
+1469 = {	#placeholder
+	holding = none
+}
+###c_527
+1472 = {	#placeholder
+	culture = wel_gravan
+	religion = stonegods
+	holding = castle_holding
+}
+1470 = {	#placeholder
+	holding = city_holding
+}
+1471 = {	#placeholder
+	holding = church_holding
+}

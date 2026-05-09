@@ -1,0 +1,4150 @@
+ELR_1 = {
+    name = "Adela126"
+    culture = "elruan"
+    faith = "halvran"
+    female = yes
+    dynasty = ELRD1 #ElrDyn1
+    father = ELR_20 #Lambert48
+    mother = ELR_80 #Willa52
+    571.1.1 = {
+        birth = yes
+    }
+    586.1.1 = {
+        add_spouse = ELR_35 #Alaric178
+    }
+}
+
+ELR_10 = {
+    name = "Emmerich50"
+    culture = "elruan"
+    faith = "halvran"
+    dynasty = ELRD1 #ElrDyn1
+    father = ELR_18 #Konrad3
+    mother = ELR_54 #Hadwig10
+    550.1.1 = {
+        birth = yes
+    }
+    575.1.1 = {
+        add_spouse = ELR_41 #Beatrix55
+    }
+}
+
+ELR_100 = {
+    name = "Luitgard188"
+    culture = "elruan"
+    faith = "halvran"
+    female = yes
+    dynasty = ELRD3 #ElrDyn3
+    father = ELR_109 #Wolfram69
+    mother = ELR_249 #Heilwig108
+    574.1.1 = {
+        birth = yes
+    }
+}
+
+ELR_101 = {
+    name = "Ottilia182"
+    culture = "elruan"
+    faith = "halvran"
+    female = yes
+    dynasty = ELRD3 #ElrDyn3
+    father = ELR_104 #Theoderic64
+    mother = ELR_227 #Liutgard101
+    573.1.1 = {
+        birth = yes
+    }
+}
+
+ELR_102 = {
+    name = "Ottilia184"
+    culture = "elruan"
+    faith = "halvran"
+    female = yes
+    dynasty = ELRD3 #ElrDyn3
+    father = ELR_108 #Welf68
+    mother = ELR_254 #Judith103
+    570.1.1 = {
+        birth = yes
+    }
+    586.1.1 = {
+        add_spouse = ELR_143 #Wilhelm210
+    }
+}
+
+ELR_103 = {
+    name = "Theoderic183"
+    culture = "elruan"
+    faith = "halvran"
+    dynasty = ELRD3 #ElrDyn3
+    father = ELR_104 #Theoderic64
+    mother = ELR_227 #Liutgard101
+    575.1.1 = {
+        birth = yes
+    }
+}
+
+ELR_104 = {
+    name = "Theoderic64"
+    culture = "elruan"
+    faith = "halvran"
+    dynasty = ELRD3 #ElrDyn3
+    father = ELR_97 #Hildebrand12
+    mother = ELR_170 #Theophanu25
+    550.1.1 = {
+        birth = yes
+    }
+    567.1.1 = {
+        add_spouse = ELR_227 #Liutgard101
+    }
+}
+
+ELR_105 = {
+    name = "Theophanu181"
+    culture = "elruan"
+    faith = "halvran"
+    female = yes
+    dynasty = ELRD3 #ElrDyn3
+    father = ELR_104 #Theoderic64
+    mother = ELR_227 #Liutgard101
+    571.1.1 = {
+        birth = yes
+    }
+    586.1.1 = {
+        add_spouse = ELR_73 #Raimund167
+    }
+}
+
+ELR_106 = {
+    name = "Uta65"
+    culture = "elruan"
+    faith = "halvran"
+    female = yes
+    dynasty = ELRD3 #ElrDyn3
+    father = ELR_97 #Hildebrand12
+    mother = ELR_170 #Theophanu25
+    550.1.1 = {
+        birth = yes
+    }
+    578.1.1 = {
+        add_spouse = ELR_36 #Alaric53
+    }
+}
+
+ELR_107 = {
+    name = "Walburga66"
+    culture = "elruan"
+    faith = "halvran"
+    female = yes
+    dynasty = ELRD3 #ElrDyn3
+    father = ELR_97 #Hildebrand12
+    mother = ELR_170 #Theophanu25
+    550.1.1 = {
+        birth = yes
+    }
+    571.1.1 = {
+        add_spouse = ELR_148 #Arnulf79
+    }
+}
+
+ELR_108 = {
+    name = "Welf68"
+    culture = "elruan"
+    faith = "halvran"
+    dynasty = ELRD3 #ElrDyn3
+    father = ELR_88 #Dietrich13
+    mother = ELR_175 #Agnes30
+    550.1.1 = {
+        birth = yes
+    }
+    569.1.1 = {
+        add_spouse = ELR_254 #Judith103
+    }
+}
+
+ELR_109 = {
+    name = "Wolfram69"
+    culture = "elruan"
+    faith = "halvran"
+    dynasty = ELRD3 #ElrDyn3
+    father = ELR_88 #Dietrich13
+    mother = ELR_175 #Agnes30
+    550.1.1 = {
+        birth = yes
+    }
+    571.1.1 = {
+        add_spouse = ELR_249 #Heilwig108
+    }
+}
+
+ELR_11 = {
+    name = "Gerhard125"
+    culture = "elruan"
+    faith = "halvran"
+    dynasty = ELRD1 #ElrDyn1
+    father = ELR_20 #Lambert48
+    mother = ELR_80 #Willa52
+    570.1.1 = {
+        birth = yes
+    }
+    586.1.1 = {
+        add_spouse = ELR_90 #Eadgifu191
+    }
+}
+
+ELR_110 = {
+    name = "Adelheid19"
+    culture = "elruan"
+    faith = "halvran"
+    female = yes
+    dynasty = ELRD4 #ElrDyn4
+    father = ELR_111 #Anselm16
+    524.1.1 = {
+        birth = yes
+    }
+    540.1.1 = {
+        add_spouse = ELR_205 #Rudolf28
+    }
+}
+
+ELR_111 = {
+    name = "Anselm16"
+    culture = "elruan"
+    faith = "halvran"
+    dynasty = ELRD4 #ElrDyn4
+    483.1.1 = {
+        birth = yes
+    }
+    561.1.1 = {
+        death = yes
+    }
+}
+
+ELR_112 = {
+    name = "Anselm200"
+    culture = "elruan"
+    faith = "halvran"
+    dynasty = ELRD4 #ElrDyn4
+    father = ELR_130 #Hildebrand72
+    mother = ELR_267 #Cunigunde112
+    582.1.1 = {
+        birth = yes
+    }
+}
+
+ELR_113 = {
+    name = "Anselm207"
+    culture = "elruan"
+    faith = "halvran"
+    dynasty = ELRD4 #ElrDyn4
+    father = ELR_126 #Gottschalk77
+    mother = ELR_290 #Uta121
+    567.1.1 = {
+        birth = yes
+    }
+    586.1.1 = {
+        add_spouse = ELR_199 #Kunigunde250
+    }
+}
+
+ELR_114 = {
+    name = "Berengar198"
+    culture = "elruan"
+    faith = "halvran"
+    dynasty = ELRD4 #ElrDyn4
+    father = ELR_130 #Hildebrand72
+    mother = ELR_267 #Cunigunde112
+    578.1.1 = {
+        birth = yes
+    }
+}
+
+ELR_115 = {
+    name = "Bruno17"
+    culture = "elruan"
+    faith = "halvran"
+    dynasty = ELRD4 #ElrDyn4
+    father = ELR_111 #Anselm16
+    518.1.1 = {
+        birth = yes
+    }
+    546.1.1 = {
+        add_spouse = ELR_238 #Thietburga35
+    }
+    581.1.1 = {
+        death = yes
+    }
+}
+
+ELR_116 = {
+    name = "Diethild193"
+    culture = "elruan"
+    faith = "halvran"
+    female = yes
+    dynasty = ELRD4 #ElrDyn4
+    father = ELR_140 #Theoderic71
+    mother = ELR_248 #Hedwig106
+    578.1.1 = {
+        birth = yes
+    }
+}
+
+ELR_117 = {
+    name = "Diethild194"
+    culture = "elruan"
+    faith = "halvran"
+    female = yes
+    dynasty = ELRD4 #ElrDyn4
+    father = ELR_140 #Theoderic71
+    mother = ELR_248 #Hedwig106
+    580.1.1 = {
+        birth = yes
+    }
+}
+
+ELR_118 = {
+    name = "Dietrich211"
+    culture = "elruan"
+    faith = "halvran"
+    dynasty = ELRD4 #ElrDyn4
+    father = ELR_124 #Gero74
+    mother = ELR_6 #Eadgifu46
+    567.1.1 = {
+        birth = yes
+    }
+    586.1.1 = {
+        add_spouse = ELR_222 #Hildegard263
+    }
+}
+
+ELR_119 = {
+    name = "Dietrich73"
+    culture = "elruan"
+    faith = "halvran"
+    dynasty = ELRD4 #ElrDyn4
+    father = ELR_115 #Bruno17
+    mother = ELR_238 #Thietburga35
+    550.1.1 = {
+        birth = yes
+    }
+    570.1.1 = {
+        add_spouse = ELR_262 #Agnes117
+    }
+}
+
+ELR_12 = {
+    name = "Gundrada141"
+    culture = "elruan"
+    faith = "halvran"
+    female = yes
+    dynasty = ELRD1 #ElrDyn1
+    father = ELR_4 #Berengar51
+    mother = ELR_59 #Irmgard58
+    581.1.1 = {
+        birth = yes
+    }
+}
+
+ELR_120 = {
+    name = "Eadgifu195"
+    culture = "elruan"
+    faith = "halvran"
+    female = yes
+    dynasty = ELRD4 #ElrDyn4
+    father = ELR_140 #Theoderic71
+    mother = ELR_248 #Hedwig106
+    581.1.1 = {
+        birth = yes
+    }
+}
+
+ELR_121 = {
+    name = "Eadgifu20"
+    culture = "elruan"
+    faith = "halvran"
+    female = yes
+    dynasty = ELRD4 #ElrDyn4
+    father = ELR_111 #Anselm16
+    527.1.1 = {
+        birth = yes
+    }
+    536.1.1 = {
+        add_spouse = ELR_64 #Liutpold8
+    }
+    582.1.1 = {
+        death = yes
+    }
+}
+
+ELR_122 = {
+    name = "Gerhard196"
+    culture = "elruan"
+    faith = "halvran"
+    dynasty = ELRD4 #ElrDyn4
+    father = ELR_130 #Hildebrand72
+    mother = ELR_267 #Cunigunde112
+    575.1.1 = {
+        birth = yes
+    }
+}
+
+ELR_123 = {
+    name = "Gerhard206"
+    culture = "elruan"
+    faith = "halvran"
+    dynasty = ELRD4 #ElrDyn4
+    father = ELR_119 #Dietrich73
+    mother = ELR_262 #Agnes117
+    577.1.1 = {
+        birth = yes
+    }
+}
+
+ELR_124 = {
+    name = "Gero74"
+    culture = "elruan"
+    faith = "halvran"
+    dynasty = ELRD4 #ElrDyn4
+    father = ELR_115 #Bruno17
+    mother = ELR_238 #Thietburga35
+    551.1.1 = {
+        birth = yes
+    }
+    566.1.1 = {
+        add_spouse = ELR_6 #Eadgifu46
+    }
+}
+
+ELR_125 = {
+    name = "Giselbert202"
+    culture = "elruan"
+    faith = "halvran"
+    dynasty = ELRD4 #ElrDyn4
+    father = ELR_119 #Dietrich73
+    mother = ELR_262 #Agnes117
+    571.1.1 = {
+        birth = yes
+    }
+}
+
+ELR_126 = {
+    name = "Gottschalk77"
+    culture = "elruan"
+    faith = "halvran"
+    dynasty = ELRD4 #ElrDyn4
+    father = ELR_135 #Liutpold18
+    mother = ELR_259 #Mathilda40
+    550.1.1 = {
+        birth = yes
+    }
+    566.1.1 = {
+        add_spouse = ELR_290 #Uta121
+    }
+}
+
+ELR_127 = {
+    name = "Gundrada205"
+    culture = "elruan"
+    faith = "halvran"
+    female = yes
+    dynasty = ELRD4 #ElrDyn4
+    father = ELR_119 #Dietrich73
+    mother = ELR_262 #Agnes117
+    576.1.1 = {
+        birth = yes
+    }
+}
+
+ELR_128 = {
+    name = "Hedwig209"
+    culture = "elruan"
+    faith = "halvran"
+    female = yes
+    dynasty = ELRD4 #ElrDyn4
+    father = ELR_126 #Gottschalk77
+    mother = ELR_290 #Uta121
+    569.1.1 = {
+        birth = yes
+    }
+    586.1.1 = {
+        add_spouse = ELR_45 #Berengar176
+    }
+}
+
+ELR_129 = {
+    name = "Hedwig76"
+    culture = "elruan"
+    faith = "halvran"
+    female = yes
+    dynasty = ELRD4 #ElrDyn4
+    father = ELR_135 #Liutpold18
+    mother = ELR_259 #Mathilda40
+    550.1.1 = {
+        birth = yes
+    }
+    575.1.1 = {
+        add_spouse = ELR_48 #Egbert56
+    }
+}
+
+ELR_13 = {
+    name = "Hildegard136"
+    culture = "elruan"
+    faith = "halvran"
+    female = yes
+    dynasty = ELRD1 #ElrDyn1
+    father = ELR_4 #Berengar51
+    mother = ELR_59 #Irmgard58
+    575.1.1 = {
+        birth = yes
+    }
+}
+
+ELR_130 = {
+    name = "Hildebrand72"
+    culture = "elruan"
+    faith = "halvran"
+    dynasty = ELRD4 #ElrDyn4
+    father = ELR_115 #Bruno17
+    mother = ELR_238 #Thietburga35
+    550.1.1 = {
+        birth = yes
+    }
+    574.1.1 = {
+        add_spouse = ELR_267 #Cunigunde112
+    }
+}
+
+ELR_131 = {
+    name = "Hildegard214"
+    culture = "elruan"
+    faith = "halvran"
+    female = yes
+    dynasty = ELRD4 #ElrDyn4
+    father = ELR_124 #Gero74
+    mother = ELR_6 #Eadgifu46
+    572.1.1 = {
+        birth = yes
+    }
+}
+
+ELR_132 = {
+    name = "Imma201"
+    culture = "elruan"
+    faith = "halvran"
+    female = yes
+    dynasty = ELRD4 #ElrDyn4
+    father = ELR_130 #Hildebrand72
+    mother = ELR_267 #Cunigunde112
+    584.1.1 = {
+        birth = yes
+    }
+}
+
+ELR_133 = {
+    name = "Irmgard208"
+    culture = "elruan"
+    faith = "halvran"
+    female = yes
+    dynasty = ELRD4 #ElrDyn4
+    father = ELR_126 #Gottschalk77
+    mother = ELR_290 #Uta121
+    568.1.1 = {
+        birth = yes
+    }
+    586.1.1 = {
+        add_spouse = ELR_85 #Arnulf179
+    }
+}
+
+ELR_134 = {
+    name = "Lambert197"
+    culture = "elruan"
+    faith = "halvran"
+    dynasty = ELRD4 #ElrDyn4
+    father = ELR_130 #Hildebrand72
+    mother = ELR_267 #Cunigunde112
+    576.1.1 = {
+        birth = yes
+    }
+}
+
+ELR_135 = {
+    name = "Liutpold18"
+    culture = "elruan"
+    faith = "halvran"
+    dynasty = ELRD4 #ElrDyn4
+    father = ELR_111 #Anselm16
+    521.1.1 = {
+        birth = yes
+    }
+    544.1.1 = {
+        add_spouse = ELR_259 #Mathilda40
+    }
+    573.1.1 = {
+        death = yes
+    }
+}
+
+ELR_136 = {
+    name = "Markward212"
+    culture = "elruan"
+    faith = "halvran"
+    dynasty = ELRD4 #ElrDyn4
+    father = ELR_124 #Gero74
+    mother = ELR_6 #Eadgifu46
+    569.1.1 = {
+        birth = yes
+    }
+    586.1.1 = {
+        add_spouse = ELR_98 #Judith190
+    }
+}
+
+ELR_137 = {
+    name = "Otto199"
+    culture = "elruan"
+    faith = "halvran"
+    dynasty = ELRD4 #ElrDyn4
+    father = ELR_130 #Hildebrand72
+    mother = ELR_267 #Cunigunde112
+    580.1.1 = {
+        birth = yes
+    }
+}
+
+ELR_138 = {
+    name = "Richild203"
+    culture = "elruan"
+    faith = "halvran"
+    female = yes
+    dynasty = ELRD4 #ElrDyn4
+    father = ELR_119 #Dietrich73
+    mother = ELR_262 #Agnes117
+    573.1.1 = {
+        birth = yes
+    }
+}
+
+ELR_139 = {
+    name = "Siegfried204"
+    culture = "elruan"
+    faith = "halvran"
+    dynasty = ELRD4 #ElrDyn4
+    father = ELR_119 #Dietrich73
+    mother = ELR_262 #Agnes117
+    574.1.1 = {
+        birth = yes
+    }
+}
+
+ELR_14 = {
+    name = "Hildegard137"
+    culture = "elruan"
+    faith = "halvran"
+    female = yes
+    dynasty = ELRD1 #ElrDyn1
+    father = ELR_4 #Berengar51
+    mother = ELR_59 #Irmgard58
+    576.1.1 = {
+        birth = yes
+    }
+}
+
+ELR_140 = {
+    name = "Theoderic71"
+    culture = "elruan"
+    faith = "halvran"
+    dynasty = ELRD4 #ElrDyn4
+    father = ELR_115 #Bruno17
+    mother = ELR_238 #Thietburga35
+    550.1.1 = {
+        birth = yes
+    }
+    577.1.1 = {
+        add_spouse = ELR_248 #Hedwig106
+    }
+}
+
+ELR_141 = {
+    name = "Theophanu213"
+    culture = "elruan"
+    faith = "halvran"
+    female = yes
+    dynasty = ELRD4 #ElrDyn4
+    father = ELR_124 #Gero74
+    mother = ELR_6 #Eadgifu46
+    570.1.1 = {
+        birth = yes
+    }
+    586.1.1 = {
+        add_spouse = ELR_87 #Carl192
+    }
+}
+
+ELR_142 = {
+    name = "Uta75"
+    culture = "elruan"
+    faith = "halvran"
+    female = yes
+    dynasty = ELRD4 #ElrDyn4
+    father = ELR_135 #Liutpold18
+    mother = ELR_259 #Mathilda40
+    550.1.1 = {
+        birth = yes
+    }
+    570.1.1 = {
+        add_spouse = ELR_167 #Siegfried82
+    }
+}
+
+ELR_143 = {
+    name = "Wilhelm210"
+    culture = "elruan"
+    faith = "halvran"
+    dynasty = ELRD4 #ElrDyn4
+    father = ELR_126 #Gottschalk77
+    mother = ELR_290 #Uta121
+    570.1.1 = {
+        birth = yes
+    }
+    586.1.1 = {
+        add_spouse = ELR_102 #Ottilia184
+    }
+}
+
+ELR_144 = {
+    name = "Adela219"
+    culture = "elruan"
+    faith = "halvran"
+    female = yes
+    dynasty = ELRD5 #ElrDyn5
+    father = ELR_146 #Anselm83
+    mother = ELR_17 #Judith49
+    585.1.1 = {
+        birth = yes
+    }
+}
+
+ELR_145 = {
+    name = "Adelheid227"
+    culture = "elruan"
+    faith = "halvran"
+    female = yes
+    dynasty = ELRD5 #ElrDyn5
+    father = ELR_167 #Siegfried82
+    mother = ELR_142 #Uta75
+    571.1.1 = {
+        birth = yes
+    }
+    586.1.1 = {
+        add_spouse = ELR_82 #Wolfram168
+    }
+}
+
+ELR_146 = {
+    name = "Anselm83"
+    culture = "elruan"
+    faith = "halvran"
+    dynasty = ELRD5 #ElrDyn5
+    father = ELR_158 #Heinrich23
+    mother = ELR_25 #Theophanu5
+    550.1.1 = {
+        birth = yes
+    }
+    578.1.1 = {
+        add_spouse = ELR_17 #Judith49
+    }
+}
+
+ELR_147 = {
+    name = "Anselm85"
+    culture = "elruan"
+    faith = "halvran"
+    dynasty = ELRD5 #ElrDyn5
+    father = ELR_158 #Heinrich23
+    mother = ELR_25 #Theophanu5
+    551.1.1 = {
+        birth = yes
+    }
+    577.1.1 = {
+        add_spouse = ELR_42 #Beatrix61
+    }
+}
+
+ELR_148 = {
+    name = "Arnulf79"
+    culture = "elruan"
+    faith = "halvran"
+    dynasty = ELRD5 #ElrDyn5
+    father = ELR_151 #Egbert22
+    mother = ELR_285 #Rikissa45
+    553.1.1 = {
+        birth = yes
+    }
+    571.1.1 = {
+        add_spouse = ELR_107 #Walburga66
+    }
+}
+
+ELR_149 = {
+    name = "Brunhild81"
+    culture = "elruan"
+    faith = "halvran"
+    female = yes
+    dynasty = ELRD5 #ElrDyn5
+    father = ELR_151 #Egbert22
+    mother = ELR_285 #Rikissa45
+    557.1.1 = {
+        birth = yes
+    }
+    578.1.1 = {
+        add_spouse = ELR_30 #Adalbert59
+    }
+}
+
+ELR_15 = {
+    name = "Imma133"
+    culture = "elruan"
+    faith = "halvran"
+    female = yes
+    dynasty = ELRD1 #ElrDyn1
+    father = ELR_10 #Emmerich50
+    mother = ELR_41 #Beatrix55
+    580.1.1 = {
+        birth = yes
+    }
+}
+
+ELR_150 = {
+    name = "Burchard223"
+    culture = "elruan"
+    faith = "halvran"
+    dynasty = ELRD5 #ElrDyn5
+    father = ELR_147 #Anselm85
+    mother = ELR_42 #Beatrix61
+    582.1.1 = {
+        birth = yes
+    }
+}
+
+ELR_151 = {
+    name = "Egbert22"
+    culture = "elruan"
+    faith = "halvran"
+    dynasty = ELRD5 #ElrDyn5
+    father = ELR_165 #Leopold21
+    519.1.1 = {
+        birth = yes
+    }
+    550.1.1 = {
+        add_spouse = ELR_285 #Rikissa45
+    }
+    576.1.1 = {
+        death = yes
+    }
+}
+
+ELR_152 = {
+    name = "Eilika216"
+    culture = "elruan"
+    faith = "halvran"
+    female = yes
+    dynasty = ELRD5 #ElrDyn5
+    father = ELR_146 #Anselm83
+    mother = ELR_17 #Judith49
+    580.1.1 = {
+        birth = yes
+    }
+}
+
+ELR_153 = {
+    name = "Eilika229"
+    culture = "elruan"
+    faith = "halvran"
+    female = yes
+    dynasty = ELRD5 #ElrDyn5
+    father = ELR_167 #Siegfried82
+    mother = ELR_142 #Uta75
+    575.1.1 = {
+        birth = yes
+    }
+}
+
+ELR_154 = {
+    name = "Emmerich225"
+    culture = "elruan"
+    faith = "halvran"
+    dynasty = ELRD5 #ElrDyn5
+    father = ELR_148 #Arnulf79
+    mother = ELR_107 #Walburga66
+    573.1.1 = {
+        birth = yes
+    }
+}
+
+ELR_155 = {
+    name = "Gisela84"
+    culture = "elruan"
+    faith = "halvran"
+    female = yes
+    dynasty = ELRD5 #ElrDyn5
+    father = ELR_158 #Heinrich23
+    mother = ELR_25 #Theophanu5
+    550.1.1 = {
+        birth = yes
+    }
+    566.1.1 = {
+        add_spouse = ELR_173 #Adalbert92
+    }
+}
+
+ELR_156 = {
+    name = "Gundrada24"
+    culture = "elruan"
+    faith = "halvran"
+    female = yes
+    dynasty = ELRD5 #ElrDyn5
+    father = ELR_165 #Leopold21
+    525.1.1 = {
+        birth = yes
+    }
+    536.1.1 = {
+        add_spouse = ELR_231 #Odo32
+    }
+    583.1.1 = {
+        death = yes
+    }
+}
+
+ELR_157 = {
+    name = "Heilwig226"
+    culture = "elruan"
+    faith = "halvran"
+    female = yes
+    dynasty = ELRD5 #ElrDyn5
+    father = ELR_148 #Arnulf79
+    mother = ELR_107 #Walburga66
+    574.1.1 = {
+        birth = yes
+    }
+}
+
+ELR_158 = {
+    name = "Heinrich23"
+    culture = "elruan"
+    faith = "halvran"
+    dynasty = ELRD5 #ElrDyn5
+    father = ELR_165 #Leopold21
+    522.1.1 = {
+        birth = yes
+    }
+    548.1.1 = {
+        add_spouse = ELR_25 #Theophanu5
+    }
+    578.1.1 = {
+        death = yes
+    }
+}
+
+ELR_159 = {
+    name = "Hildebrand221"
+    culture = "elruan"
+    faith = "halvran"
+    dynasty = ELRD5 #ElrDyn5
+    father = ELR_147 #Anselm85
+    mother = ELR_42 #Beatrix61
+    579.1.1 = {
+        birth = yes
+    }
+}
+
+ELR_16 = {
+    name = "Irmintrud4"
+    culture = "elruan"
+    faith = "halvran"
+    female = yes
+    dynasty = ELRD1 #ElrDyn1
+    father = ELR_5 #Dietrich1
+    521.1.1 = {
+        birth = yes
+    }
+    544.1.1 = {
+        add_spouse = ELR_268 #Egbert42
+    }
+    572.1.1 = {
+        death = yes
+    }
+}
+
+ELR_160 = {
+    name = "Imma218"
+    culture = "elruan"
+    faith = "halvran"
+    female = yes
+    dynasty = ELRD5 #ElrDyn5
+    father = ELR_146 #Anselm83
+    mother = ELR_17 #Judith49
+    583.1.1 = {
+        birth = yes
+    }
+}
+
+ELR_161 = {
+    name = "Imma220"
+    culture = "elruan"
+    faith = "halvran"
+    female = yes
+    dynasty = ELRD5 #ElrDyn5
+    father = ELR_147 #Anselm85
+    mother = ELR_42 #Beatrix61
+    578.1.1 = {
+        birth = yes
+    }
+}
+
+ELR_162 = {
+    name = "Irmgard215"
+    culture = "elruan"
+    faith = "halvran"
+    female = yes
+    dynasty = ELRD5 #ElrDyn5
+    father = ELR_146 #Anselm83
+    mother = ELR_17 #Judith49
+    579.1.1 = {
+        birth = yes
+    }
+}
+
+ELR_163 = {
+    name = "Kunigunde222"
+    culture = "elruan"
+    faith = "halvran"
+    female = yes
+    dynasty = ELRD5 #ElrDyn5
+    father = ELR_147 #Anselm85
+    mother = ELR_42 #Beatrix61
+    580.1.1 = {
+        birth = yes
+    }
+}
+
+ELR_164 = {
+    name = "Kunigunde80"
+    culture = "elruan"
+    faith = "halvran"
+    female = yes
+    dynasty = ELRD5 #ElrDyn5
+    father = ELR_151 #Egbert22
+    mother = ELR_285 #Rikissa45
+    555.1.1 = {
+        birth = yes
+    }
+    568.1.1 = {
+        add_spouse = ELR_209 #Wilhelm93
+    }
+}
+
+ELR_165 = {
+    name = "Leopold21"
+    culture = "elruan"
+    faith = "halvran"
+    dynasty = ELRD5 #ElrDyn5
+    484.1.1 = {
+        birth = yes
+    }
+    545.1.1 = {
+        death = yes
+    }
+}
+
+ELR_166 = {
+    name = "Rikissa78"
+    culture = "elruan"
+    faith = "halvran"
+    female = yes
+    dynasty = ELRD5 #ElrDyn5
+    father = ELR_151 #Egbert22
+    mother = ELR_285 #Rikissa45
+    551.1.1 = {
+        birth = yes
+    }
+    569.1.1 = {
+        add_spouse = ELR_79 #Wilhelm57
+    }
+}
+
+ELR_167 = {
+    name = "Siegfried82"
+    culture = "elruan"
+    faith = "halvran"
+    dynasty = ELRD5 #ElrDyn5
+    father = ELR_151 #Egbert22
+    mother = ELR_285 #Rikissa45
+    559.1.1 = {
+        birth = yes
+    }
+    570.1.1 = {
+        add_spouse = ELR_142 #Uta75
+    }
+}
+
+ELR_168 = {
+    name = "Sophia217"
+    culture = "elruan"
+    faith = "halvran"
+    female = yes
+    dynasty = ELRD5 #ElrDyn5
+    father = ELR_146 #Anselm83
+    mother = ELR_17 #Judith49
+    582.1.1 = {
+        birth = yes
+    }
+}
+
+ELR_169 = {
+    name = "Theophanu224"
+    culture = "elruan"
+    faith = "halvran"
+    female = yes
+    dynasty = ELRD5 #ElrDyn5
+    father = ELR_148 #Arnulf79
+    mother = ELR_107 #Walburga66
+    572.1.1 = {
+        birth = yes
+    }
+}
+
+ELR_17 = {
+    name = "Judith49"
+    culture = "elruan"
+    faith = "halvran"
+    female = yes
+    dynasty = ELRD1 #ElrDyn1
+    father = ELR_18 #Konrad3
+    mother = ELR_54 #Hadwig10
+    550.1.1 = {
+        birth = yes
+    }
+    578.1.1 = {
+        add_spouse = ELR_146 #Anselm83
+    }
+}
+
+ELR_170 = {
+    name = "Theophanu25"
+    culture = "elruan"
+    faith = "halvran"
+    female = yes
+    dynasty = ELRD5 #ElrDyn5
+    father = ELR_165 #Leopold21
+    528.1.1 = {
+        birth = yes
+    }
+    542.1.1 = {
+        add_spouse = ELR_97 #Hildebrand12
+    }
+    574.1.1 = {
+        death = yes
+    }
+}
+
+ELR_171 = {
+    name = "Uta228"
+    culture = "elruan"
+    faith = "halvran"
+    female = yes
+    dynasty = ELRD5 #ElrDyn5
+    father = ELR_167 #Siegfried82
+    mother = ELR_142 #Uta75
+    573.1.1 = {
+        birth = yes
+    }
+}
+
+ELR_172 = {
+    name = "Adalbert251"
+    culture = "elruan"
+    faith = "halvran"
+    dynasty = ELRD6 #ElrDyn6
+    father = ELR_201 #Markward88
+    mother = ELR_253 #Irmintrud123
+    571.1.1 = {
+        birth = yes
+    }
+}
+
+ELR_173 = {
+    name = "Adalbert92"
+    culture = "elruan"
+    faith = "halvran"
+    dynasty = ELRD6 #ElrDyn6
+    father = ELR_205 #Rudolf28
+    mother = ELR_110 #Adelheid19
+    550.1.1 = {
+        birth = yes
+    }
+    566.1.1 = {
+        add_spouse = ELR_155 #Gisela84
+    }
+}
+
+ELR_174 = {
+    name = "Agnes233"
+    culture = "elruan"
+    faith = "halvran"
+    female = yes
+    dynasty = ELRD6 #ElrDyn6
+    father = ELR_173 #Adalbert92
+    mother = ELR_155 #Gisela84
+    570.1.1 = {
+        birth = yes
+    }
+    586.1.1 = {
+        add_spouse = ELR_78 #Wilhelm156
+    }
+}
+
+ELR_175 = {
+    name = "Agnes30"
+    culture = "elruan"
+    faith = "halvran"
+    female = yes
+    dynasty = ELRD6 #ElrDyn6
+    father = ELR_208 #Wilhelm26
+    529.1.1 = {
+        birth = yes
+    }
+    545.1.1 = {
+        add_spouse = ELR_88 #Dietrich13
+    }
+    582.1.1 = {
+        death = yes
+    }
+}
+
+ELR_176 = {
+    name = "Arnulf242"
+    culture = "elruan"
+    faith = "halvran"
+    dynasty = ELRD6 #ElrDyn6
+    father = ELR_182 #Eberhard94
+    mother = ELR_225 #Kunigunde97
+    577.1.1 = {
+        birth = yes
+    }
+}
+
+ELR_177 = {
+    name = "Beatrix247"
+    culture = "elruan"
+    faith = "halvran"
+    female = yes
+    dynasty = ELRD6 #ElrDyn6
+    father = ELR_183 #Egbert87
+    mother = ELR_230 #Mathilda100
+    577.1.1 = {
+        birth = yes
+    }
+}
+
+ELR_178 = {
+    name = "Bruno230"
+    culture = "elruan"
+    faith = "halvran"
+    dynasty = ELRD6 #ElrDyn6
+    father = ELR_173 #Adalbert92
+    mother = ELR_155 #Gisela84
+    567.1.1 = {
+        birth = yes
+    }
+}
+
+ELR_179 = {
+    name = "Cunigunde86"
+    culture = "elruan"
+    faith = "halvran"
+    female = yes
+    dynasty = ELRD6 #ElrDyn6
+    father = ELR_202 #Otto27
+    mother = ELR_95 #Gundrada14
+    550.1.1 = {
+        birth = yes
+    }
+    571.1.1 = {
+        add_spouse = ELR_291 #Wolfram118
+    }
+}
+
+ELR_18 = {
+    name = "Konrad3"
+    culture = "elruan"
+    faith = "halvran"
+    dynasty = ELRD1 #ElrDyn1
+    father = ELR_5 #Dietrich1
+    518.1.1 = {
+        birth = yes
+    }
+    536.1.1 = {
+        add_spouse = ELR_54 #Hadwig10
+    }
+}
+
+ELR_180 = {
+    name = "Eadgifu253"
+    culture = "elruan"
+    faith = "halvran"
+    female = yes
+    dynasty = ELRD6 #ElrDyn6
+    father = ELR_201 #Markward88
+    mother = ELR_253 #Irmintrud123
+    575.1.1 = {
+        birth = yes
+    }
+}
+
+ELR_181 = {
+    name = "Eberhard244"
+    culture = "elruan"
+    faith = "halvran"
+    dynasty = ELRD6 #ElrDyn6
+    father = ELR_182 #Eberhard94
+    mother = ELR_225 #Kunigunde97
+    579.1.1 = {
+        birth = yes
+    }
+}
+
+ELR_182 = {
+    name = "Eberhard94"
+    culture = "elruan"
+    faith = "halvran"
+    dynasty = ELRD6 #ElrDyn6
+    father = ELR_205 #Rudolf28
+    mother = ELR_110 #Adelheid19
+    550.1.1 = {
+        birth = yes
+    }
+    572.1.1 = {
+        add_spouse = ELR_225 #Kunigunde97
+    }
+}
+
+ELR_183 = {
+    name = "Egbert87"
+    culture = "elruan"
+    faith = "halvran"
+    dynasty = ELRD6 #ElrDyn6
+    father = ELR_202 #Otto27
+    mother = ELR_95 #Gundrada14
+    551.1.1 = {
+        birth = yes
+    }
+    573.1.1 = {
+        add_spouse = ELR_230 #Mathilda100
+    }
+}
+
+ELR_184 = {
+    name = "Eilika246"
+    culture = "elruan"
+    faith = "halvran"
+    female = yes
+    dynasty = ELRD6 #ElrDyn6
+    father = ELR_183 #Egbert87
+    mother = ELR_230 #Mathilda100
+    576.1.1 = {
+        birth = yes
+    }
+}
+
+ELR_185 = {
+    name = "Eilika90"
+    culture = "elruan"
+    faith = "halvran"
+    female = yes
+    dynasty = ELRD6 #ElrDyn6
+    father = ELR_202 #Otto27
+    mother = ELR_95 #Gundrada14
+    555.1.1 = {
+        birth = yes
+    }
+    574.1.1 = {
+        add_spouse = ELR_50 #Gerhard62
+    }
+}
+
+ELR_186 = {
+    name = "Emmerich241"
+    culture = "elruan"
+    faith = "halvran"
+    dynasty = ELRD6 #ElrDyn6
+    father = ELR_182 #Eberhard94
+    mother = ELR_225 #Kunigunde97
+    575.1.1 = {
+        birth = yes
+    }
+}
+
+ELR_187 = {
+    name = "Ermengard240"
+    culture = "elruan"
+    faith = "halvran"
+    female = yes
+    dynasty = ELRD6 #ElrDyn6
+    father = ELR_182 #Eberhard94
+    mother = ELR_225 #Kunigunde97
+    573.1.1 = {
+        birth = yes
+    }
+}
+
+ELR_188 = {
+    name = "Frida239"
+    culture = "elruan"
+    faith = "halvran"
+    female = yes
+    dynasty = ELRD6 #ElrDyn6
+    father = ELR_209 #Wilhelm93
+    mother = ELR_164 #Kunigunde80
+    576.1.1 = {
+        birth = yes
+    }
+}
+
+ELR_189 = {
+    name = "Friedrich234"
+    culture = "elruan"
+    faith = "halvran"
+    dynasty = ELRD6 #ElrDyn6
+    father = ELR_209 #Wilhelm93
+    mother = ELR_164 #Kunigunde80
+    569.1.1 = {
+        birth = yes
+    }
+}
+
+ELR_19 = {
+    name = "Lambert129"
+    culture = "elruan"
+    faith = "halvran"
+    dynasty = ELRD1 #ElrDyn1
+    father = ELR_20 #Lambert48
+    mother = ELR_80 #Willa52
+    576.1.1 = {
+        birth = yes
+    }
+}
+
+ELR_190 = {
+    name = "Gero249"
+    culture = "elruan"
+    faith = "halvran"
+    dynasty = ELRD6 #ElrDyn6
+    father = ELR_201 #Markward88
+    mother = ELR_253 #Irmintrud123
+    568.1.1 = {
+        birth = yes
+    }
+}
+
+ELR_191 = {
+    name = "Hartwig236"
+    culture = "elruan"
+    faith = "halvran"
+    dynasty = ELRD6 #ElrDyn6
+    father = ELR_209 #Wilhelm93
+    mother = ELR_164 #Kunigunde80
+    572.1.1 = {
+        birth = yes
+    }
+}
+
+ELR_192 = {
+    name = "Heilwig243"
+    culture = "elruan"
+    faith = "halvran"
+    female = yes
+    dynasty = ELRD6 #ElrDyn6
+    father = ELR_182 #Eberhard94
+    mother = ELR_225 #Kunigunde97
+    578.1.1 = {
+        birth = yes
+    }
+}
+
+ELR_193 = {
+    name = "Hildebrand235"
+    culture = "elruan"
+    faith = "halvran"
+    dynasty = ELRD6 #ElrDyn6
+    father = ELR_209 #Wilhelm93
+    mother = ELR_164 #Kunigunde80
+    570.1.1 = {
+        birth = yes
+    }
+}
+
+ELR_194 = {
+    name = "Hildegard89"
+    culture = "elruan"
+    faith = "halvran"
+    female = yes
+    dynasty = ELRD6 #ElrDyn6
+    father = ELR_202 #Otto27
+    mother = ELR_95 #Gundrada14
+    554.1.1 = {
+        birth = yes
+    }
+    573.1.1 = {
+        add_spouse = ELR_279 #Markward120
+    }
+}
+
+ELR_195 = {
+    name = "Ida248"
+    culture = "elruan"
+    faith = "halvran"
+    female = yes
+    dynasty = ELRD6 #ElrDyn6
+    father = ELR_201 #Markward88
+    mother = ELR_253 #Irmintrud123
+    567.1.1 = {
+        birth = yes
+    }
+    586.1.1 = {
+        add_spouse = ELR_94 #Gottschalk180
+    }
+}
+
+ELR_196 = {
+    name = "Ida91"
+    culture = "elruan"
+    faith = "halvran"
+    female = yes
+    dynasty = ELRD6 #ElrDyn6
+    father = ELR_205 #Rudolf28
+    mother = ELR_110 #Adelheid19
+    550.1.1 = {
+        birth = yes
+    }
+    566.1.1 = {
+        add_spouse = ELR_40 #Arnulf60
+    }
+}
+
+ELR_197 = {
+    name = "Imma245"
+    culture = "elruan"
+    faith = "halvran"
+    female = yes
+    dynasty = ELRD6 #ElrDyn6
+    father = ELR_183 #Egbert87
+    mother = ELR_230 #Mathilda100
+    574.1.1 = {
+        birth = yes
+    }
+}
+
+ELR_198 = {
+    name = "Irmintrud231"
+    culture = "elruan"
+    faith = "halvran"
+    female = yes
+    dynasty = ELRD6 #ElrDyn6
+    father = ELR_173 #Adalbert92
+    mother = ELR_155 #Gisela84
+    568.1.1 = {
+        birth = yes
+    }
+    586.1.1 = {
+        add_spouse = ELR_38 #Anselm177
+    }
+}
+
+ELR_199 = {
+    name = "Kunigunde250"
+    culture = "elruan"
+    faith = "halvran"
+    female = yes
+    dynasty = ELRD6 #ElrDyn6
+    father = ELR_201 #Markward88
+    mother = ELR_253 #Irmintrud123
+    570.1.1 = {
+        birth = yes
+    }
+    586.1.1 = {
+        add_spouse = ELR_113 #Anselm207
+    }
+}
+
+ELR_2 = {
+    name = "Anselm130"
+    culture = "elruan"
+    faith = "halvran"
+    dynasty = ELRD1 #ElrDyn1
+    father = ELR_10 #Emmerich50
+    mother = ELR_41 #Beatrix55
+    576.1.1 = {
+        birth = yes
+    }
+}
+
+ELR_20 = {
+    name = "Lambert48"
+    culture = "elruan"
+    faith = "halvran"
+    dynasty = ELRD1 #ElrDyn1
+    father = ELR_26 #Ulrich2
+    mother = ELR_81 #Willa9
+    550.1.1 = {
+        birth = yes
+    }
+    568.1.1 = {
+        add_spouse = ELR_80 #Willa52
+    }
+}
+
+ELR_200 = {
+    name = "Kunigunde29"
+    culture = "elruan"
+    faith = "halvran"
+    female = yes
+    dynasty = ELRD6 #ElrDyn6
+    father = ELR_208 #Wilhelm26
+    526.1.1 = {
+        birth = yes
+    }
+    547.1.1 = {
+        add_spouse = ELR_232 #Rainer33
+    }
+}
+
+ELR_201 = {
+    name = "Markward88"
+    culture = "elruan"
+    faith = "halvran"
+    dynasty = ELRD6 #ElrDyn6
+    father = ELR_202 #Otto27
+    mother = ELR_95 #Gundrada14
+    553.1.1 = {
+        birth = yes
+    }
+    566.1.1 = {
+        add_spouse = ELR_253 #Irmintrud123
+    }
+}
+
+ELR_202 = {
+    name = "Otto27"
+    culture = "elruan"
+    faith = "halvran"
+    dynasty = ELRD6 #ElrDyn6
+    father = ELR_208 #Wilhelm26
+    520.1.1 = {
+        birth = yes
+    }
+    548.1.1 = {
+        add_spouse = ELR_95 #Gundrada14
+    }
+}
+
+ELR_203 = {
+    name = "Rainer252"
+    culture = "elruan"
+    faith = "halvran"
+    dynasty = ELRD6 #ElrDyn6
+    father = ELR_201 #Markward88
+    mother = ELR_253 #Irmintrud123
+    573.1.1 = {
+        birth = yes
+    }
+}
+
+ELR_204 = {
+    name = "Rikissa237"
+    culture = "elruan"
+    faith = "halvran"
+    female = yes
+    dynasty = ELRD6 #ElrDyn6
+    father = ELR_209 #Wilhelm93
+    mother = ELR_164 #Kunigunde80
+    574.1.1 = {
+        birth = yes
+    }
+}
+
+ELR_205 = {
+    name = "Rudolf28"
+    culture = "elruan"
+    faith = "halvran"
+    dynasty = ELRD6 #ElrDyn6
+    father = ELR_208 #Wilhelm26
+    523.1.1 = {
+        birth = yes
+    }
+    540.1.1 = {
+        add_spouse = ELR_110 #Adelheid19
+    }
+    571.1.1 = {
+        death = yes
+    }
+}
+
+ELR_206 = {
+    name = "Theophanu232"
+    culture = "elruan"
+    faith = "halvran"
+    female = yes
+    dynasty = ELRD6 #ElrDyn6
+    father = ELR_173 #Adalbert92
+    mother = ELR_155 #Gisela84
+    569.1.1 = {
+        birth = yes
+    }
+    586.1.1 = {
+        add_spouse = ELR_92 #Falko185
+    }
+}
+
+ELR_207 = {
+    name = "Thietburga238"
+    culture = "elruan"
+    faith = "halvran"
+    female = yes
+    dynasty = ELRD6 #ElrDyn6
+    father = ELR_209 #Wilhelm93
+    mother = ELR_164 #Kunigunde80
+    575.1.1 = {
+        birth = yes
+    }
+}
+
+ELR_208 = {
+    name = "Wilhelm26"
+    culture = "elruan"
+    faith = "halvran"
+    dynasty = ELRD6 #ElrDyn6
+    485.1.1 = {
+        birth = yes
+    }
+    545.1.1 = {
+        death = yes
+    }
+}
+
+ELR_209 = {
+    name = "Wilhelm93"
+    culture = "elruan"
+    faith = "halvran"
+    dynasty = ELRD6 #ElrDyn6
+    father = ELR_205 #Rudolf28
+    mother = ELR_110 #Adelheid19
+    550.1.1 = {
+        birth = yes
+    }
+    568.1.1 = {
+        add_spouse = ELR_164 #Kunigunde80
+    }
+}
+
+ELR_21 = {
+    name = "Mathilda132"
+    culture = "elruan"
+    faith = "halvran"
+    female = yes
+    dynasty = ELRD1 #ElrDyn1
+    father = ELR_10 #Emmerich50
+    mother = ELR_41 #Beatrix55
+    579.1.1 = {
+        birth = yes
+    }
+}
+
+ELR_210 = {
+    name = "Brunhild271"
+    culture = "elruan"
+    faith = "halvran"
+    female = yes
+    dynasty = ELRD7 #ElrDyn7
+    father = ELR_213 #Gero102
+    mother = ELR_250 #Heilwig111
+    572.1.1 = {
+        birth = yes
+    }
+}
+
+ELR_211 = {
+    name = "Egbert98"
+    culture = "elruan"
+    faith = "halvran"
+    dynasty = ELRD7 #ElrDyn7
+    father = ELR_231 #Odo32
+    mother = ELR_156 #Gundrada24
+    550.1.1 = {
+        birth = yes
+    }
+    569.1.1 = {
+        add_spouse = ELR_258 #Mathilda105
+    }
+}
+
+ELR_212 = {
+    name = "Friedrich31"
+    culture = "elruan"
+    faith = "halvran"
+    dynasty = ELRD7 #ElrDyn7
+    486.1.1 = {
+        birth = yes
+    }
+    552.1.1 = {
+        death = yes
+    }
+}
+
+ELR_213 = {
+    name = "Gero102"
+    culture = "elruan"
+    faith = "halvran"
+    dynasty = ELRD7 #ElrDyn7
+    father = ELR_232 #Rainer33
+    mother = ELR_200 #Kunigunde29
+    552.1.1 = {
+        birth = yes
+    }
+    568.1.1 = {
+        add_spouse = ELR_250 #Heilwig111
+    }
+}
+
+ELR_214 = {
+    name = "Gertrud261"
+    culture = "elruan"
+    faith = "halvran"
+    female = yes
+    dynasty = ELRD7 #ElrDyn7
+    father = ELR_233 #Rainer96
+    mother = ELR_252 #Irmgard109
+    580.1.1 = {
+        birth = yes
+    }
+}
+
+ELR_215 = {
+    name = "Gertrud267"
+    culture = "elruan"
+    faith = "halvran"
+    female = yes
+    dynasty = ELRD7 #ElrDyn7
+    father = ELR_211 #Egbert98
+    mother = ELR_258 #Mathilda105
+    576.1.1 = {
+        birth = yes
+    }
+}
+
+ELR_216 = {
+    name = "Gisela268"
+    culture = "elruan"
+    faith = "halvran"
+    female = yes
+    dynasty = ELRD7 #ElrDyn7
+    father = ELR_211 #Egbert98
+    mother = ELR_258 #Mathilda105
+    578.1.1 = {
+        birth = yes
+    }
+}
+
+ELR_217 = {
+    name = "Gisela34"
+    culture = "elruan"
+    faith = "halvran"
+    female = yes
+    dynasty = ELRD7 #ElrDyn7
+    father = ELR_212 #Friedrich31
+    527.1.1 = {
+        birth = yes
+    }
+    547.1.1 = {
+        add_spouse = ELR_251 #Hermann37
+    }
+    568.1.1 = {
+        death = yes
+    }
+}
+
+ELR_218 = {
+    name = "Hadwig99"
+    culture = "elruan"
+    faith = "halvran"
+    female = yes
+    dynasty = ELRD7 #ElrDyn7
+    father = ELR_232 #Rainer33
+    mother = ELR_200 #Kunigunde29
+    550.1.1 = {
+        birth = yes
+    }
+    566.1.1 = {
+        add_spouse = ELR_77 #Welf63
+    }
+}
+
+ELR_219 = {
+    name = "Heinrich265"
+    culture = "elruan"
+    faith = "halvran"
+    dynasty = ELRD7 #ElrDyn7
+    father = ELR_211 #Egbert98
+    mother = ELR_258 #Mathilda105
+    573.1.1 = {
+        birth = yes
+    }
+}
+
+ELR_22 = {
+    name = "Odo140"
+    culture = "elruan"
+    faith = "halvran"
+    dynasty = ELRD1 #ElrDyn1
+    father = ELR_4 #Berengar51
+    mother = ELR_59 #Irmgard58
+    580.1.1 = {
+        birth = yes
+    }
+}
+
+ELR_220 = {
+    name = "Hermann95"
+    culture = "elruan"
+    faith = "halvran"
+    dynasty = ELRD7 #ElrDyn7
+    father = ELR_231 #Odo32
+    mother = ELR_156 #Gundrada24
+    550.1.1 = {
+        birth = yes
+    }
+    566.1.1 = {
+        add_spouse = ELR_261 #Willa107
+    }
+}
+
+ELR_221 = {
+    name = "Hildebrand254"
+    culture = "elruan"
+    faith = "halvran"
+    dynasty = ELRD7 #ElrDyn7
+    father = ELR_220 #Hermann95
+    mother = ELR_261 #Willa107
+    567.1.1 = {
+        birth = yes
+    }
+}
+
+ELR_222 = {
+    name = "Hildegard263"
+    culture = "elruan"
+    faith = "halvran"
+    female = yes
+    dynasty = ELRD7 #ElrDyn7
+    father = ELR_211 #Egbert98
+    mother = ELR_258 #Mathilda105
+    570.1.1 = {
+        birth = yes
+    }
+    586.1.1 = {
+        add_spouse = ELR_118 #Dietrich211
+    }
+}
+
+ELR_223 = {
+    name = "Konrad264"
+    culture = "elruan"
+    faith = "halvran"
+    dynasty = ELRD7 #ElrDyn7
+    father = ELR_211 #Egbert98
+    mother = ELR_258 #Mathilda105
+    572.1.1 = {
+        birth = yes
+    }
+}
+
+ELR_224 = {
+    name = "Konrad270"
+    culture = "elruan"
+    faith = "halvran"
+    dynasty = ELRD7 #ElrDyn7
+    father = ELR_213 #Gero102
+    mother = ELR_250 #Heilwig111
+    570.1.1 = {
+        birth = yes
+    }
+}
+
+ELR_225 = {
+    name = "Kunigunde97"
+    culture = "elruan"
+    faith = "halvran"
+    female = yes
+    dynasty = ELRD7 #ElrDyn7
+    father = ELR_231 #Odo32
+    mother = ELR_156 #Gundrada24
+    550.1.1 = {
+        birth = yes
+    }
+    572.1.1 = {
+        add_spouse = ELR_182 #Eberhard94
+    }
+}
+
+ELR_226 = {
+    name = "Leopold262"
+    culture = "elruan"
+    faith = "halvran"
+    dynasty = ELRD7 #ElrDyn7
+    father = ELR_233 #Rainer96
+    mother = ELR_252 #Irmgard109
+    581.1.1 = {
+        birth = yes
+    }
+}
+
+ELR_227 = {
+    name = "Liutgard101"
+    culture = "elruan"
+    faith = "halvran"
+    female = yes
+    dynasty = ELRD7 #ElrDyn7
+    father = ELR_232 #Rainer33
+    mother = ELR_200 #Kunigunde29
+    551.1.1 = {
+        birth = yes
+    }
+    567.1.1 = {
+        add_spouse = ELR_104 #Theoderic64
+    }
+}
+
+ELR_228 = {
+    name = "Liutpold260"
+    culture = "elruan"
+    faith = "halvran"
+    dynasty = ELRD7 #ElrDyn7
+    father = ELR_233 #Rainer96
+    mother = ELR_252 #Irmgard109
+    578.1.1 = {
+        birth = yes
+    }
+}
+
+ELR_229 = {
+    name = "Lothar257"
+    culture = "elruan"
+    faith = "halvran"
+    dynasty = ELRD7 #ElrDyn7
+    father = ELR_220 #Hermann95
+    mother = ELR_261 #Willa107
+    571.1.1 = {
+        birth = yes
+    }
+}
+
+ELR_23 = {
+    name = "Rotrud138"
+    culture = "elruan"
+    faith = "halvran"
+    female = yes
+    dynasty = ELRD1 #ElrDyn1
+    father = ELR_4 #Berengar51
+    mother = ELR_59 #Irmgard58
+    577.1.1 = {
+        birth = yes
+    }
+}
+
+ELR_230 = {
+    name = "Mathilda100"
+    culture = "elruan"
+    faith = "halvran"
+    female = yes
+    dynasty = ELRD7 #ElrDyn7
+    father = ELR_232 #Rainer33
+    mother = ELR_200 #Kunigunde29
+    550.1.1 = {
+        birth = yes
+    }
+    573.1.1 = {
+        add_spouse = ELR_183 #Egbert87
+    }
+}
+
+ELR_231 = {
+    name = "Odo32"
+    culture = "elruan"
+    faith = "halvran"
+    dynasty = ELRD7 #ElrDyn7
+    father = ELR_212 #Friedrich31
+    521.1.1 = {
+        birth = yes
+    }
+    536.1.1 = {
+        add_spouse = ELR_156 #Gundrada24
+    }
+    568.1.1 = {
+        death = yes
+    }
+}
+
+ELR_232 = {
+    name = "Rainer33"
+    culture = "elruan"
+    faith = "halvran"
+    dynasty = ELRD7 #ElrDyn7
+    father = ELR_212 #Friedrich31
+    524.1.1 = {
+        birth = yes
+    }
+    547.1.1 = {
+        add_spouse = ELR_200 #Kunigunde29
+    }
+    581.1.1 = {
+        death = yes
+    }
+}
+
+ELR_233 = {
+    name = "Rainer96"
+    culture = "elruan"
+    faith = "halvran"
+    dynasty = ELRD7 #ElrDyn7
+    father = ELR_231 #Odo32
+    mother = ELR_156 #Gundrada24
+    550.1.1 = {
+        birth = yes
+    }
+    573.1.1 = {
+        add_spouse = ELR_252 #Irmgard109
+    }
+}
+
+ELR_234 = {
+    name = "Richild256"
+    culture = "elruan"
+    faith = "halvran"
+    female = yes
+    dynasty = ELRD7 #ElrDyn7
+    father = ELR_220 #Hermann95
+    mother = ELR_261 #Willa107
+    569.1.1 = {
+        birth = yes
+    }
+    586.1.1 = {
+        add_spouse = ELR_83 #Wolfram169
+    }
+}
+
+ELR_235 = {
+    name = "Richild259"
+    culture = "elruan"
+    faith = "halvran"
+    female = yes
+    dynasty = ELRD7 #ElrDyn7
+    father = ELR_233 #Rainer96
+    mother = ELR_252 #Irmgard109
+    576.1.1 = {
+        birth = yes
+    }
+}
+
+ELR_236 = {
+    name = "Rudolf269"
+    culture = "elruan"
+    faith = "halvran"
+    dynasty = ELRD7 #ElrDyn7
+    father = ELR_213 #Gero102
+    mother = ELR_250 #Heilwig111
+    569.1.1 = {
+        birth = yes
+    }
+}
+
+ELR_237 = {
+    name = "Sophia266"
+    culture = "elruan"
+    faith = "halvran"
+    female = yes
+    dynasty = ELRD7 #ElrDyn7
+    father = ELR_211 #Egbert98
+    mother = ELR_258 #Mathilda105
+    575.1.1 = {
+        birth = yes
+    }
+}
+
+ELR_238 = {
+    name = "Thietburga35"
+    culture = "elruan"
+    faith = "halvran"
+    female = yes
+    dynasty = ELRD7 #ElrDyn7
+    father = ELR_212 #Friedrich31
+    530.1.1 = {
+        birth = yes
+    }
+    546.1.1 = {
+        add_spouse = ELR_115 #Bruno17
+    }
+    576.1.1 = {
+        death = yes
+    }
+}
+
+ELR_239 = {
+    name = "Welf272"
+    culture = "elruan"
+    faith = "halvran"
+    dynasty = ELRD7 #ElrDyn7
+    father = ELR_213 #Gero102
+    mother = ELR_250 #Heilwig111
+    574.1.1 = {
+        birth = yes
+    }
+}
+
+ELR_24 = {
+    name = "Siegfried135"
+    culture = "elruan"
+    faith = "halvran"
+    dynasty = ELRD1 #ElrDyn1
+    father = ELR_10 #Emmerich50
+    mother = ELR_41 #Beatrix55
+    583.1.1 = {
+        birth = yes
+    }
+}
+
+ELR_240 = {
+    name = "Wilhelm255"
+    culture = "elruan"
+    faith = "halvran"
+    dynasty = ELRD7 #ElrDyn7
+    father = ELR_220 #Hermann95
+    mother = ELR_261 #Willa107
+    568.1.1 = {
+        birth = yes
+    }
+}
+
+ELR_241 = {
+    name = "Willa258"
+    culture = "elruan"
+    faith = "halvran"
+    female = yes
+    dynasty = ELRD7 #ElrDyn7
+    father = ELR_233 #Rainer96
+    mother = ELR_252 #Irmgard109
+    574.1.1 = {
+        birth = yes
+    }
+}
+
+ELR_242 = {
+    name = "Agnes274"
+    culture = "elruan"
+    faith = "halvran"
+    female = yes
+    dynasty = ELRD8 #ElrDyn8
+    father = ELR_244 #Carl104
+    mother = ELR_265 #Bertha113
+    578.1.1 = {
+        birth = yes
+    }
+}
+
+ELR_243 = {
+    name = "Agnes275"
+    culture = "elruan"
+    faith = "halvran"
+    female = yes
+    dynasty = ELRD8 #ElrDyn8
+    father = ELR_244 #Carl104
+    mother = ELR_265 #Bertha113
+    579.1.1 = {
+        birth = yes
+    }
+}
+
+ELR_244 = {
+    name = "Carl104"
+    culture = "elruan"
+    faith = "halvran"
+    dynasty = ELRD8 #ElrDyn8
+    father = ELR_251 #Hermann37
+    mother = ELR_217 #Gisela34
+    550.1.1 = {
+        birth = yes
+    }
+    576.1.1 = {
+        add_spouse = ELR_265 #Bertha113
+    }
+}
+
+ELR_245 = {
+    name = "Gundrada110"
+    culture = "elruan"
+    faith = "halvran"
+    female = yes
+    dynasty = ELRD8 #ElrDyn8
+    father = ELR_257 #Manfred38
+    mother = ELR_282 #Ottilia44
+    550.1.1 = {
+        birth = yes
+    }
+    566.1.1 = {
+        add_spouse = ELR_93 #Friedrich70
+    }
+}
+
+ELR_246 = {
+    name = "Hadwig277"
+    culture = "elruan"
+    faith = "halvran"
+    female = yes
+    dynasty = ELRD8 #ElrDyn8
+    father = ELR_244 #Carl104
+    mother = ELR_265 #Bertha113
+    582.1.1 = {
+        birth = yes
+    }
+}
+
+ELR_247 = {
+    name = "Hartwig273"
+    culture = "elruan"
+    faith = "halvran"
+    dynasty = ELRD8 #ElrDyn8
+    father = ELR_244 #Carl104
+    mother = ELR_265 #Bertha113
+    577.1.1 = {
+        birth = yes
+    }
+}
+
+ELR_248 = {
+    name = "Hedwig106"
+    culture = "elruan"
+    faith = "halvran"
+    female = yes
+    dynasty = ELRD8 #ElrDyn8
+    father = ELR_251 #Hermann37
+    mother = ELR_217 #Gisela34
+    552.1.1 = {
+        birth = yes
+    }
+    577.1.1 = {
+        add_spouse = ELR_140 #Theoderic71
+    }
+}
+
+ELR_249 = {
+    name = "Heilwig108"
+    culture = "elruan"
+    faith = "halvran"
+    female = yes
+    dynasty = ELRD8 #ElrDyn8
+    father = ELR_257 #Manfred38
+    mother = ELR_282 #Ottilia44
+    550.1.1 = {
+        birth = yes
+    }
+    571.1.1 = {
+        add_spouse = ELR_109 #Wolfram69
+    }
+}
+
+ELR_25 = {
+    name = "Theophanu5"
+    culture = "elruan"
+    faith = "halvran"
+    female = yes
+    dynasty = ELRD1 #ElrDyn1
+    father = ELR_5 #Dietrich1
+    524.1.1 = {
+        birth = yes
+    }
+    548.1.1 = {
+        add_spouse = ELR_158 #Heinrich23
+    }
+    572.1.1 = {
+        death = yes
+    }
+}
+
+ELR_250 = {
+    name = "Heilwig111"
+    culture = "elruan"
+    faith = "halvran"
+    female = yes
+    dynasty = ELRD8 #ElrDyn8
+    father = ELR_257 #Manfred38
+    mother = ELR_282 #Ottilia44
+    552.1.1 = {
+        birth = yes
+    }
+    568.1.1 = {
+        add_spouse = ELR_213 #Gero102
+    }
+}
+
+ELR_251 = {
+    name = "Hermann37"
+    culture = "elruan"
+    faith = "halvran"
+    dynasty = ELRD8 #ElrDyn8
+    father = ELR_260 #Wilhelm36
+    515.1.1 = {
+        birth = yes
+    }
+    547.1.1 = {
+        add_spouse = ELR_217 #Gisela34
+    }
+    572.1.1 = {
+        death = yes
+    }
+}
+
+ELR_252 = {
+    name = "Irmgard109"
+    culture = "elruan"
+    faith = "halvran"
+    female = yes
+    dynasty = ELRD8 #ElrDyn8
+    father = ELR_257 #Manfred38
+    mother = ELR_282 #Ottilia44
+    550.1.1 = {
+        birth = yes
+    }
+    573.1.1 = {
+        add_spouse = ELR_233 #Rainer96
+    }
+}
+
+ELR_253 = {
+    name = "Irmintrud123"
+    culture = "elruan"
+    faith = "halvran"
+    female = yes
+    dynasty = ELRD8 #ElrDyn8
+    538.1.1 = {
+        birth = yes
+    }
+    566.1.1 = {
+        add_spouse = ELR_201 #Markward88
+    }
+}
+
+ELR_254 = {
+    name = "Judith103"
+    culture = "elruan"
+    faith = "halvran"
+    female = yes
+    dynasty = ELRD8 #ElrDyn8
+    father = ELR_251 #Hermann37
+    mother = ELR_217 #Gisela34
+    550.1.1 = {
+        birth = yes
+    }
+    569.1.1 = {
+        add_spouse = ELR_108 #Welf68
+    }
+}
+
+ELR_255 = {
+    name = "Konrad276"
+    culture = "elruan"
+    faith = "halvran"
+    dynasty = ELRD8 #ElrDyn8
+    father = ELR_244 #Carl104
+    mother = ELR_265 #Bertha113
+    580.1.1 = {
+        birth = yes
+    }
+}
+
+ELR_256 = {
+    name = "Kunigunde39"
+    culture = "elruan"
+    faith = "halvran"
+    female = yes
+    dynasty = ELRD8 #ElrDyn8
+    father = ELR_260 #Wilhelm36
+    521.1.1 = {
+        birth = yes
+    }
+    535.1.1 = {
+        add_spouse = ELR_292 #Wolfram43
+    }
+    582.1.1 = {
+        death = yes
+    }
+}
+
+ELR_257 = {
+    name = "Manfred38"
+    culture = "elruan"
+    faith = "halvran"
+    dynasty = ELRD8 #ElrDyn8
+    father = ELR_260 #Wilhelm36
+    518.1.1 = {
+        birth = yes
+    }
+    545.1.1 = {
+        add_spouse = ELR_282 #Ottilia44
+    }
+    574.1.1 = {
+        death = yes
+    }
+}
+
+ELR_258 = {
+    name = "Mathilda105"
+    culture = "elruan"
+    faith = "halvran"
+    female = yes
+    dynasty = ELRD8 #ElrDyn8
+    father = ELR_251 #Hermann37
+    mother = ELR_217 #Gisela34
+    551.1.1 = {
+        birth = yes
+    }
+    569.1.1 = {
+        add_spouse = ELR_211 #Egbert98
+    }
+}
+
+ELR_259 = {
+    name = "Mathilda40"
+    culture = "elruan"
+    faith = "halvran"
+    female = yes
+    dynasty = ELRD8 #ElrDyn8
+    father = ELR_260 #Wilhelm36
+    524.1.1 = {
+        birth = yes
+    }
+    544.1.1 = {
+        add_spouse = ELR_135 #Liutpold18
+    }
+    577.1.1 = {
+        death = yes
+    }
+}
+
+ELR_26 = {
+    name = "Ulrich2"
+    culture = "elruan"
+    faith = "halvran"
+    dynasty = ELRD1 #ElrDyn1
+    father = ELR_5 #Dietrich1
+    515.1.1 = {
+        birth = yes
+    }
+    546.1.1 = {
+        add_spouse = ELR_81 #Willa9
+    }
+    581.1.1 = {
+        death = yes
+    }
+}
+
+ELR_260 = {
+    name = "Wilhelm36"
+    culture = "elruan"
+    faith = "halvran"
+    dynasty = ELRD8 #ElrDyn8
+    487.1.1 = {
+        birth = yes
+    }
+    543.1.1 = {
+        death = yes
+    }
+}
+
+ELR_261 = {
+    name = "Willa107"
+    culture = "elruan"
+    faith = "halvran"
+    female = yes
+    dynasty = ELRD8 #ElrDyn8
+    father = ELR_257 #Manfred38
+    mother = ELR_282 #Ottilia44
+    550.1.1 = {
+        birth = yes
+    }
+    566.1.1 = {
+        add_spouse = ELR_220 #Hermann95
+    }
+}
+
+ELR_262 = {
+    name = "Agnes117"
+    culture = "elruan"
+    faith = "halvran"
+    female = yes
+    dynasty = ELRD9 #ElrDyn9
+    father = ELR_292 #Wolfram43
+    mother = ELR_256 #Kunigunde39
+    550.1.1 = {
+        birth = yes
+    }
+    570.1.1 = {
+        add_spouse = ELR_119 #Dietrich73
+    }
+}
+
+ELR_263 = {
+    name = "Arnulf285"
+    culture = "elruan"
+    faith = "halvran"
+    dynasty = ELRD9 #ElrDyn9
+    father = ELR_291 #Wolfram118
+    mother = ELR_179 #Cunigunde86
+    574.1.1 = {
+        birth = yes
+    }
+}
+
+ELR_264 = {
+    name = "Berengar283"
+    culture = "elruan"
+    faith = "halvran"
+    dynasty = ELRD9 #ElrDyn9
+    father = ELR_278 #Markward114
+    mother = ELR_29 #Walburga47
+    581.1.1 = {
+        birth = yes
+    }
+}
+
+ELR_265 = {
+    name = "Bertha113"
+    culture = "elruan"
+    faith = "halvran"
+    female = yes
+    dynasty = ELRD9 #ElrDyn9
+    father = ELR_268 #Egbert42
+    mother = ELR_16 #Irmintrud4
+    550.1.1 = {
+        birth = yes
+    }
+    576.1.1 = {
+        add_spouse = ELR_244 #Carl104
+    }
+}
+
+ELR_266 = {
+    name = "Burchard41"
+    culture = "elruan"
+    faith = "halvran"
+    dynasty = ELRD9 #ElrDyn9
+    480.1.1 = {
+        birth = yes
+    }
+    549.1.1 = {
+        death = yes
+    }
+}
+
+ELR_267 = {
+    name = "Cunigunde112"
+    culture = "elruan"
+    faith = "halvran"
+    female = yes
+    dynasty = ELRD9 #ElrDyn9
+    father = ELR_268 #Egbert42
+    mother = ELR_16 #Irmintrud4
+    550.1.1 = {
+        birth = yes
+    }
+    574.1.1 = {
+        add_spouse = ELR_130 #Hildebrand72
+    }
+}
+
+ELR_268 = {
+    name = "Egbert42"
+    culture = "elruan"
+    faith = "halvran"
+    dynasty = ELRD9 #ElrDyn9
+    father = ELR_266 #Burchard41
+    516.1.1 = {
+        birth = yes
+    }
+    544.1.1 = {
+        add_spouse = ELR_16 #Irmintrud4
+    }
+    580.1.1 = {
+        death = yes
+    }
+}
+
+ELR_269 = {
+    name = "Friedrich288"
+    culture = "elruan"
+    faith = "halvran"
+    dynasty = ELRD9 #ElrDyn9
+    father = ELR_291 #Wolfram118
+    mother = ELR_179 #Cunigunde86
+    578.1.1 = {
+        birth = yes
+    }
+}
+
+ELR_27 = {
+    name = "Uta128"
+    culture = "elruan"
+    faith = "halvran"
+    female = yes
+    dynasty = ELRD1 #ElrDyn1
+    father = ELR_20 #Lambert48
+    mother = ELR_80 #Willa52
+    574.1.1 = {
+        birth = yes
+    }
+}
+
+ELR_270 = {
+    name = "Hildebrand280"
+    culture = "elruan"
+    faith = "halvran"
+    dynasty = ELRD9 #ElrDyn9
+    father = ELR_278 #Markward114
+    mother = ELR_29 #Walburga47
+    576.1.1 = {
+        birth = yes
+    }
+}
+
+ELR_271 = {
+    name = "Hildegard119"
+    culture = "elruan"
+    faith = "halvran"
+    female = yes
+    dynasty = ELRD9 #ElrDyn9
+    father = ELR_292 #Wolfram43
+    mother = ELR_256 #Kunigunde39
+    550.1.1 = {
+        birth = yes
+    }
+}
+
+ELR_272 = {
+    name = "Hildegard279"
+    culture = "elruan"
+    faith = "halvran"
+    female = yes
+    dynasty = ELRD9 #ElrDyn9
+    father = ELR_278 #Markward114
+    mother = ELR_29 #Walburga47
+    574.1.1 = {
+        birth = yes
+    }
+}
+
+ELR_273 = {
+    name = "Irmgard291"
+    culture = "elruan"
+    faith = "halvran"
+    female = yes
+    dynasty = ELRD9 #ElrDyn9
+    father = ELR_279 #Markward120
+    mother = ELR_194 #Hildegard89
+    577.1.1 = {
+        birth = yes
+    }
+}
+
+ELR_274 = {
+    name = "Irmintrud284"
+    culture = "elruan"
+    faith = "halvran"
+    female = yes
+    dynasty = ELRD9 #ElrDyn9
+    father = ELR_291 #Wolfram118
+    mother = ELR_179 #Cunigunde86
+    572.1.1 = {
+        birth = yes
+    }
+}
+
+ELR_275 = {
+    name = "Judith278"
+    culture = "elruan"
+    faith = "halvran"
+    female = yes
+    dynasty = ELRD9 #ElrDyn9
+    father = ELR_278 #Markward114
+    mother = ELR_29 #Walburga47
+    572.1.1 = {
+        birth = yes
+    }
+}
+
+ELR_276 = {
+    name = "Konrad289"
+    culture = "elruan"
+    faith = "halvran"
+    dynasty = ELRD9 #ElrDyn9
+    father = ELR_279 #Markward120
+    mother = ELR_194 #Hildegard89
+    574.1.1 = {
+        birth = yes
+    }
+}
+
+ELR_277 = {
+    name = "Lambert290"
+    culture = "elruan"
+    faith = "halvran"
+    dynasty = ELRD9 #ElrDyn9
+    father = ELR_279 #Markward120
+    mother = ELR_194 #Hildegard89
+    576.1.1 = {
+        birth = yes
+    }
+}
+
+ELR_278 = {
+    name = "Markward114"
+    culture = "elruan"
+    faith = "halvran"
+    dynasty = ELRD9 #ElrDyn9
+    father = ELR_268 #Egbert42
+    mother = ELR_16 #Irmintrud4
+    550.1.1 = {
+        birth = yes
+    }
+    571.1.1 = {
+        add_spouse = ELR_29 #Walburga47
+    }
+}
+
+ELR_279 = {
+    name = "Markward120"
+    culture = "elruan"
+    faith = "halvran"
+    dynasty = ELRD9 #ElrDyn9
+    father = ELR_292 #Wolfram43
+    mother = ELR_256 #Kunigunde39
+    550.1.1 = {
+        birth = yes
+    }
+    573.1.1 = {
+        add_spouse = ELR_194 #Hildegard89
+    }
+}
+
+ELR_28 = {
+    name = "Walburga131"
+    culture = "elruan"
+    faith = "halvran"
+    female = yes
+    dynasty = ELRD1 #ElrDyn1
+    father = ELR_10 #Emmerich50
+    mother = ELR_41 #Beatrix55
+    578.1.1 = {
+        birth = yes
+    }
+}
+
+ELR_280 = {
+    name = "Oda281"
+    culture = "elruan"
+    faith = "halvran"
+    female = yes
+    dynasty = ELRD9 #ElrDyn9
+    father = ELR_278 #Markward114
+    mother = ELR_29 #Walburga47
+    578.1.1 = {
+        birth = yes
+    }
+}
+
+ELR_281 = {
+    name = "Odo282"
+    culture = "elruan"
+    faith = "halvran"
+    dynasty = ELRD9 #ElrDyn9
+    father = ELR_278 #Markward114
+    mother = ELR_29 #Walburga47
+    580.1.1 = {
+        birth = yes
+    }
+}
+
+ELR_282 = {
+    name = "Ottilia44"
+    culture = "elruan"
+    faith = "halvran"
+    female = yes
+    dynasty = ELRD9 #ElrDyn9
+    father = ELR_266 #Burchard41
+    522.1.1 = {
+        birth = yes
+    }
+    545.1.1 = {
+        add_spouse = ELR_257 #Manfred38
+    }
+    582.1.1 = {
+        death = yes
+    }
+}
+
+ELR_283 = {
+    name = "Otto116"
+    culture = "elruan"
+    faith = "halvran"
+    dynasty = ELRD9 #ElrDyn9
+    father = ELR_268 #Egbert42
+    mother = ELR_16 #Irmintrud4
+    553.1.1 = {
+        birth = yes
+    }
+}
+
+ELR_284 = {
+    name = "Rainer122"
+    culture = "elruan"
+    faith = "halvran"
+    dynasty = ELRD9 #ElrDyn9
+    father = ELR_292 #Wolfram43
+    mother = ELR_256 #Kunigunde39
+    550.1.1 = {
+        birth = yes
+    }
+}
+
+ELR_285 = {
+    name = "Rikissa45"
+    culture = "elruan"
+    faith = "halvran"
+    female = yes
+    dynasty = ELRD9 #ElrDyn9
+    father = ELR_266 #Burchard41
+    525.1.1 = {
+        birth = yes
+    }
+    550.1.1 = {
+        add_spouse = ELR_151 #Egbert22
+    }
+    582.1.1 = {
+        death = yes
+    }
+}
+
+ELR_286 = {
+    name = "Rudolf287"
+    culture = "elruan"
+    faith = "halvran"
+    dynasty = ELRD9 #ElrDyn9
+    father = ELR_291 #Wolfram118
+    mother = ELR_179 #Cunigunde86
+    577.1.1 = {
+        birth = yes
+    }
+}
+
+ELR_287 = {
+    name = "Sophia115"
+    culture = "elruan"
+    faith = "halvran"
+    female = yes
+    dynasty = ELRD9 #ElrDyn9
+    father = ELR_268 #Egbert42
+    mother = ELR_16 #Irmintrud4
+    551.1.1 = {
+        birth = yes
+    }
+}
+
+ELR_288 = {
+    name = "Theoderic286"
+    culture = "elruan"
+    faith = "halvran"
+    dynasty = ELRD9 #ElrDyn9
+    father = ELR_291 #Wolfram118
+    mother = ELR_179 #Cunigunde86
+    575.1.1 = {
+        birth = yes
+    }
+}
+
+ELR_289 = {
+    name = "Ulrich292"
+    culture = "elruan"
+    faith = "halvran"
+    dynasty = ELRD9 #ElrDyn9
+    father = ELR_279 #Markward120
+    mother = ELR_194 #Hildegard89
+    579.1.1 = {
+        birth = yes
+    }
+}
+
+ELR_29 = {
+    name = "Walburga47"
+    culture = "elruan"
+    faith = "halvran"
+    female = yes
+    dynasty = ELRD1 #ElrDyn1
+    father = ELR_26 #Ulrich2
+    mother = ELR_81 #Willa9
+    550.1.1 = {
+        birth = yes
+    }
+    571.1.1 = {
+        add_spouse = ELR_278 #Markward114
+    }
+}
+
+ELR_290 = {
+    name = "Uta121"
+    culture = "elruan"
+    faith = "halvran"
+    female = yes
+    dynasty = ELRD9 #ElrDyn9
+    father = ELR_292 #Wolfram43
+    mother = ELR_256 #Kunigunde39
+    550.1.1 = {
+        birth = yes
+    }
+    566.1.1 = {
+        add_spouse = ELR_126 #Gottschalk77
+    }
+}
+
+ELR_291 = {
+    name = "Wolfram118"
+    culture = "elruan"
+    faith = "halvran"
+    dynasty = ELRD9 #ElrDyn9
+    father = ELR_292 #Wolfram43
+    mother = ELR_256 #Kunigunde39
+    550.1.1 = {
+        birth = yes
+    }
+    571.1.1 = {
+        add_spouse = ELR_179 #Cunigunde86
+    }
+}
+
+ELR_292 = {
+    name = "Wolfram43"
+    culture = "elruan"
+    faith = "halvran"
+    dynasty = ELRD9 #ElrDyn9
+    father = ELR_266 #Burchard41
+    519.1.1 = {
+        birth = yes
+    }
+    535.1.1 = {
+        add_spouse = ELR_256 #Kunigunde39
+    }
+    570.1.1 = {
+        death = yes
+    }
+}
+
+ELR_3 = {
+    name = "Anselm134"
+    culture = "elruan"
+    faith = "halvran"
+    dynasty = ELRD1 #ElrDyn1
+    father = ELR_10 #Emmerich50
+    mother = ELR_41 #Beatrix55
+    581.1.1 = {
+        birth = yes
+    }
+}
+
+ELR_30 = {
+    name = "Adalbert59"
+    culture = "elruan"
+    faith = "halvran"
+    dynasty = ELRD2 #ElrDyn2
+    father = ELR_64 #Liutpold8
+    mother = ELR_121 #Eadgifu20
+    550.1.1 = {
+        birth = yes
+    }
+    578.1.1 = {
+        add_spouse = ELR_149 #Brunhild81
+    }
+}
+
+ELR_31 = {
+    name = "Adela145"
+    culture = "elruan"
+    faith = "halvran"
+    female = yes
+    dynasty = ELRD2 #ElrDyn2
+    father = ELR_63 #Leopold54
+    mother = ELR_99 #Kunigunde67
+    578.1.1 = {
+        birth = yes
+    }
+}
+
+ELR_32 = {
+    name = "Adelheid152"
+    culture = "elruan"
+    faith = "halvran"
+    female = yes
+    dynasty = ELRD2 #ElrDyn2
+    father = ELR_48 #Egbert56
+    mother = ELR_129 #Hedwig76
+    579.1.1 = {
+        birth = yes
+    }
+}
+
+ELR_33 = {
+    name = "Agnes146"
+    culture = "elruan"
+    faith = "halvran"
+    female = yes
+    dynasty = ELRD2 #ElrDyn2
+    father = ELR_63 #Leopold54
+    mother = ELR_99 #Kunigunde67
+    579.1.1 = {
+        birth = yes
+    }
+}
+
+ELR_34 = {
+    name = "Agnes160"
+    culture = "elruan"
+    faith = "halvran"
+    female = yes
+    dynasty = ELRD2 #ElrDyn2
+    father = ELR_79 #Wilhelm57
+    mother = ELR_166 #Rikissa78
+    576.1.1 = {
+        birth = yes
+    }
+}
+
+ELR_35 = {
+    name = "Alaric178"
+    culture = "elruan"
+    faith = "halvran"
+    dynasty = ELRD2 #ElrDyn2
+    father = ELR_77 #Welf63
+    mother = ELR_218 #Hadwig99
+    571.1.1 = {
+        birth = yes
+    }
+    586.1.1 = {
+        add_spouse = ELR_1 #Adela126
+    }
+}
+
+ELR_36 = {
+    name = "Alaric53"
+    culture = "elruan"
+    faith = "halvran"
+    dynasty = ELRD2 #ElrDyn2
+    father = ELR_51 #Gerhard7
+    mother = ELR_84 #Adelheid15
+    550.1.1 = {
+        birth = yes
+    }
+    578.1.1 = {
+        add_spouse = ELR_106 #Uta65
+    }
+}
+
+ELR_37 = {
+    name = "Anselm172"
+    culture = "elruan"
+    faith = "halvran"
+    dynasty = ELRD2 #ElrDyn2
+    father = ELR_50 #Gerhard62
+    mother = ELR_185 #Eilika90
+    575.1.1 = {
+        birth = yes
+    }
+}
+
+ELR_38 = {
+    name = "Anselm177"
+    culture = "elruan"
+    faith = "halvran"
+    dynasty = ELRD2 #ElrDyn2
+    father = ELR_77 #Welf63
+    mother = ELR_218 #Hadwig99
+    569.1.1 = {
+        birth = yes
+    }
+    586.1.1 = {
+        add_spouse = ELR_198 #Irmintrud231
+    }
+}
+
+ELR_39 = {
+    name = "Arnulf148"
+    culture = "elruan"
+    faith = "halvran"
+    dynasty = ELRD2 #ElrDyn2
+    father = ELR_63 #Leopold54
+    mother = ELR_99 #Kunigunde67
+    583.1.1 = {
+        birth = yes
+    }
+}
+
+ELR_4 = {
+    name = "Berengar51"
+    culture = "elruan"
+    faith = "halvran"
+    dynasty = ELRD1 #ElrDyn1
+    father = ELR_18 #Konrad3
+    mother = ELR_54 #Hadwig10
+    550.1.1 = {
+        birth = yes
+    }
+    574.1.1 = {
+        add_spouse = ELR_59 #Irmgard58
+    }
+}
+
+ELR_40 = {
+    name = "Arnulf60"
+    culture = "elruan"
+    faith = "halvran"
+    dynasty = ELRD2 #ElrDyn2
+    father = ELR_64 #Liutpold8
+    mother = ELR_121 #Eadgifu20
+    550.1.1 = {
+        birth = yes
+    }
+    566.1.1 = {
+        add_spouse = ELR_196 #Ida91
+    }
+}
+
+ELR_41 = {
+    name = "Beatrix55"
+    culture = "elruan"
+    faith = "halvran"
+    female = yes
+    dynasty = ELRD2 #ElrDyn2
+    father = ELR_51 #Gerhard7
+    mother = ELR_84 #Adelheid15
+    550.1.1 = {
+        birth = yes
+    }
+    575.1.1 = {
+        add_spouse = ELR_10 #Emmerich50
+    }
+}
+
+ELR_42 = {
+    name = "Beatrix61"
+    culture = "elruan"
+    faith = "halvran"
+    female = yes
+    dynasty = ELRD2 #ElrDyn2
+    father = ELR_64 #Liutpold8
+    mother = ELR_121 #Eadgifu20
+    550.1.1 = {
+        birth = yes
+    }
+    577.1.1 = {
+        add_spouse = ELR_147 #Anselm85
+    }
+}
+
+ELR_43 = {
+    name = "Berengar154"
+    culture = "elruan"
+    faith = "halvran"
+    dynasty = ELRD2 #ElrDyn2
+    father = ELR_48 #Egbert56
+    mother = ELR_129 #Hedwig76
+    582.1.1 = {
+        birth = yes
+    }
+}
+
+ELR_44 = {
+    name = "Berengar159"
+    culture = "elruan"
+    faith = "halvran"
+    dynasty = ELRD2 #ElrDyn2
+    father = ELR_79 #Wilhelm57
+    mother = ELR_166 #Rikissa78
+    574.1.1 = {
+        birth = yes
+    }
+}
+
+ELR_45 = {
+    name = "Berengar176"
+    culture = "elruan"
+    faith = "halvran"
+    dynasty = ELRD2 #ElrDyn2
+    father = ELR_77 #Welf63
+    mother = ELR_218 #Hadwig99
+    567.1.1 = {
+        birth = yes
+    }
+    586.1.1 = {
+        add_spouse = ELR_128 #Hedwig209
+    }
+}
+
+ELR_46 = {
+    name = "Brunhild165"
+    culture = "elruan"
+    faith = "halvran"
+    female = yes
+    dynasty = ELRD2 #ElrDyn2
+    father = ELR_30 #Adalbert59
+    mother = ELR_149 #Brunhild81
+    584.1.1 = {
+        birth = yes
+    }
+}
+
+ELR_47 = {
+    name = "Eberhard164"
+    culture = "elruan"
+    faith = "halvran"
+    dynasty = ELRD2 #ElrDyn2
+    father = ELR_30 #Adalbert59
+    mother = ELR_149 #Brunhild81
+    582.1.1 = {
+        birth = yes
+    }
+}
+
+ELR_48 = {
+    name = "Egbert56"
+    culture = "elruan"
+    faith = "halvran"
+    dynasty = ELRD2 #ElrDyn2
+    father = ELR_51 #Gerhard7
+    mother = ELR_84 #Adelheid15
+    550.1.1 = {
+        birth = yes
+    }
+    575.1.1 = {
+        add_spouse = ELR_129 #Hedwig76
+    }
+}
+
+ELR_49 = {
+    name = "Friedrich174"
+    culture = "elruan"
+    faith = "halvran"
+    dynasty = ELRD2 #ElrDyn2
+    father = ELR_50 #Gerhard62
+    mother = ELR_185 #Eilika90
+    578.1.1 = {
+        birth = yes
+    }
+}
+
+ELR_5 = {
+    name = "Dietrich1"
+    culture = "elruan"
+    faith = "halvran"
+    dynasty = ELRD1 #ElrDyn1
+    480.1.1 = {
+        birth = yes
+    }
+    555.1.1 = {
+        death = yes
+    }
+}
+
+ELR_50 = {
+    name = "Gerhard62"
+    culture = "elruan"
+    faith = "halvran"
+    dynasty = ELRD2 #ElrDyn2
+    father = ELR_64 #Liutpold8
+    mother = ELR_121 #Eadgifu20
+    550.1.1 = {
+        birth = yes
+    }
+    574.1.1 = {
+        add_spouse = ELR_185 #Eilika90
+    }
+}
+
+ELR_51 = {
+    name = "Gerhard7"
+    culture = "elruan"
+    faith = "halvran"
+    dynasty = ELRD2 #ElrDyn2
+    father = ELR_67 #Lothar6
+    516.1.1 = {
+        birth = yes
+    }
+    540.1.1 = {
+        add_spouse = ELR_84 #Adelheid15
+    }
+    571.1.1 = {
+        death = yes
+    }
+}
+
+ELR_52 = {
+    name = "Giselbert144"
+    culture = "elruan"
+    faith = "halvran"
+    dynasty = ELRD2 #ElrDyn2
+    father = ELR_36 #Alaric53
+    mother = ELR_106 #Uta65
+    583.1.1 = {
+        birth = yes
+    }
+}
+
+ELR_53 = {
+    name = "Gundrada149"
+    culture = "elruan"
+    faith = "halvran"
+    female = yes
+    dynasty = ELRD2 #ElrDyn2
+    father = ELR_63 #Leopold54
+    mother = ELR_99 #Kunigunde67
+    584.1.1 = {
+        birth = yes
+    }
+}
+
+ELR_54 = {
+    name = "Hadwig10"
+    culture = "elruan"
+    faith = "halvran"
+    female = yes
+    dynasty = ELRD2 #ElrDyn2
+    father = ELR_67 #Lothar6
+    525.1.1 = {
+        birth = yes
+    }
+    536.1.1 = {
+        add_spouse = ELR_18 #Konrad3
+    }
+    570.1.1 = {
+        death = yes
+    }
+}
+
+ELR_55 = {
+    name = "Hedwig143"
+    culture = "elruan"
+    faith = "halvran"
+    female = yes
+    dynasty = ELRD2 #ElrDyn2
+    father = ELR_36 #Alaric53
+    mother = ELR_106 #Uta65
+    581.1.1 = {
+        birth = yes
+    }
+}
+
+ELR_56 = {
+    name = "Hedwig170"
+    culture = "elruan"
+    faith = "halvran"
+    female = yes
+    dynasty = ELRD2 #ElrDyn2
+    father = ELR_40 #Arnulf60
+    mother = ELR_196 #Ida91
+    571.1.1 = {
+        birth = yes
+    }
+    586.1.1 = {
+        add_spouse = ELR_7 #Eberhard124
+    }
+}
+
+ELR_57 = {
+    name = "Hildebrand155"
+    culture = "elruan"
+    faith = "halvran"
+    dynasty = ELRD2 #ElrDyn2
+    father = ELR_48 #Egbert56
+    mother = ELR_129 #Hedwig76
+    583.1.1 = {
+        birth = yes
+    }
+}
+
+ELR_58 = {
+    name = "Ida173"
+    culture = "elruan"
+    faith = "halvran"
+    female = yes
+    dynasty = ELRD2 #ElrDyn2
+    father = ELR_50 #Gerhard62
+    mother = ELR_185 #Eilika90
+    577.1.1 = {
+        birth = yes
+    }
+}
+
+ELR_59 = {
+    name = "Irmgard58"
+    culture = "elruan"
+    faith = "halvran"
+    female = yes
+    dynasty = ELRD2 #ElrDyn2
+    father = ELR_64 #Liutpold8
+    mother = ELR_121 #Eadgifu20
+    550.1.1 = {
+        birth = yes
+    }
+    574.1.1 = {
+        add_spouse = ELR_4 #Berengar51
+    }
+}
+
+ELR_6 = {
+    name = "Eadgifu46"
+    culture = "elruan"
+    faith = "halvran"
+    female = yes
+    dynasty = ELRD1 #ElrDyn1
+    father = ELR_26 #Ulrich2
+    mother = ELR_81 #Willa9
+    550.1.1 = {
+        birth = yes
+    }
+    566.1.1 = {
+        add_spouse = ELR_124 #Gero74
+    }
+}
+
+ELR_60 = {
+    name = "Judith157"
+    culture = "elruan"
+    faith = "halvran"
+    female = yes
+    dynasty = ELRD2 #ElrDyn2
+    father = ELR_79 #Wilhelm57
+    mother = ELR_166 #Rikissa78
+    572.1.1 = {
+        birth = yes
+    }
+}
+
+ELR_61 = {
+    name = "Konrad175"
+    culture = "elruan"
+    faith = "halvran"
+    dynasty = ELRD2 #ElrDyn2
+    father = ELR_50 #Gerhard62
+    mother = ELR_185 #Eilika90
+    580.1.1 = {
+        birth = yes
+    }
+}
+
+ELR_62 = {
+    name = "Leopold147"
+    culture = "elruan"
+    faith = "halvran"
+    dynasty = ELRD2 #ElrDyn2
+    father = ELR_63 #Leopold54
+    mother = ELR_99 #Kunigunde67
+    581.1.1 = {
+        birth = yes
+    }
+}
+
+ELR_63 = {
+    name = "Leopold54"
+    culture = "elruan"
+    faith = "halvran"
+    dynasty = ELRD2 #ElrDyn2
+    father = ELR_51 #Gerhard7
+    mother = ELR_84 #Adelheid15
+    550.1.1 = {
+        birth = yes
+    }
+    577.1.1 = {
+        add_spouse = ELR_99 #Kunigunde67
+    }
+}
+
+ELR_64 = {
+    name = "Liutpold8"
+    culture = "elruan"
+    faith = "halvran"
+    dynasty = ELRD2 #ElrDyn2
+    father = ELR_67 #Lothar6
+    519.1.1 = {
+        birth = yes
+    }
+    536.1.1 = {
+        add_spouse = ELR_121 #Eadgifu20
+    }
+    580.1.1 = {
+        death = yes
+    }
+}
+
+ELR_65 = {
+    name = "Lothar151"
+    culture = "elruan"
+    faith = "halvran"
+    dynasty = ELRD2 #ElrDyn2
+    father = ELR_48 #Egbert56
+    mother = ELR_129 #Hedwig76
+    578.1.1 = {
+        birth = yes
+    }
+}
+
+ELR_66 = {
+    name = "Lothar166"
+    culture = "elruan"
+    faith = "halvran"
+    dynasty = ELRD2 #ElrDyn2
+    father = ELR_30 #Adalbert59
+    mother = ELR_149 #Brunhild81
+    585.1.1 = {
+        birth = yes
+    }
+}
+
+ELR_67 = {
+    name = "Lothar6"
+    culture = "elruan"
+    faith = "halvran"
+    dynasty = ELRD2 #ElrDyn2
+    481.1.1 = {
+        birth = yes
+    }
+    555.1.1 = {
+        death = yes
+    }
+}
+
+ELR_68 = {
+    name = "Markward142"
+    culture = "elruan"
+    faith = "halvran"
+    dynasty = ELRD2 #ElrDyn2
+    father = ELR_36 #Alaric53
+    mother = ELR_106 #Uta65
+    579.1.1 = {
+        birth = yes
+    }
+}
+
+ELR_69 = {
+    name = "Markward161"
+    culture = "elruan"
+    faith = "halvran"
+    dynasty = ELRD2 #ElrDyn2
+    father = ELR_79 #Wilhelm57
+    mother = ELR_166 #Rikissa78
+    578.1.1 = {
+        birth = yes
+    }
+}
+
+ELR_7 = {
+    name = "Eberhard124"
+    culture = "elruan"
+    faith = "halvran"
+    dynasty = ELRD1 #ElrDyn1
+    father = ELR_20 #Lambert48
+    mother = ELR_80 #Willa52
+    569.1.1 = {
+        birth = yes
+    }
+    586.1.1 = {
+        add_spouse = ELR_56 #Hedwig170
+    }
+}
+
+ELR_70 = {
+    name = "Oda163"
+    culture = "elruan"
+    faith = "halvran"
+    female = yes
+    dynasty = ELRD2 #ElrDyn2
+    father = ELR_30 #Adalbert59
+    mother = ELR_149 #Brunhild81
+    581.1.1 = {
+        birth = yes
+    }
+}
+
+ELR_71 = {
+    name = "Odo158"
+    culture = "elruan"
+    faith = "halvran"
+    dynasty = ELRD2 #ElrDyn2
+    father = ELR_79 #Wilhelm57
+    mother = ELR_166 #Rikissa78
+    573.1.1 = {
+        birth = yes
+    }
+}
+
+ELR_72 = {
+    name = "Ottilia171"
+    culture = "elruan"
+    faith = "halvran"
+    female = yes
+    dynasty = ELRD2 #ElrDyn2
+    father = ELR_40 #Arnulf60
+    mother = ELR_196 #Ida91
+    572.1.1 = {
+        birth = yes
+    }
+}
+
+ELR_73 = {
+    name = "Raimund167"
+    culture = "elruan"
+    faith = "halvran"
+    dynasty = ELRD2 #ElrDyn2
+    father = ELR_40 #Arnulf60
+    mother = ELR_196 #Ida91
+    567.1.1 = {
+        birth = yes
+    }
+    586.1.1 = {
+        add_spouse = ELR_105 #Theophanu181
+    }
+}
+
+ELR_74 = {
+    name = "Rainer153"
+    culture = "elruan"
+    faith = "halvran"
+    dynasty = ELRD2 #ElrDyn2
+    father = ELR_48 #Egbert56
+    mother = ELR_129 #Hedwig76
+    580.1.1 = {
+        birth = yes
+    }
+}
+
+ELR_75 = {
+    name = "Theophanu150"
+    culture = "elruan"
+    faith = "halvran"
+    female = yes
+    dynasty = ELRD2 #ElrDyn2
+    father = ELR_48 #Egbert56
+    mother = ELR_129 #Hedwig76
+    576.1.1 = {
+        birth = yes
+    }
+}
+
+ELR_76 = {
+    name = "Walburga162"
+    culture = "elruan"
+    faith = "halvran"
+    female = yes
+    dynasty = ELRD2 #ElrDyn2
+    father = ELR_30 #Adalbert59
+    mother = ELR_149 #Brunhild81
+    579.1.1 = {
+        birth = yes
+    }
+}
+
+ELR_77 = {
+    name = "Welf63"
+    culture = "elruan"
+    faith = "halvran"
+    dynasty = ELRD2 #ElrDyn2
+    martial = 11
+    prowess = 14
+    trait = brave
+    trait = ambitious
+    trait = education_martial_3
+    trait = unyielding_defender
+    father = ELR_64 #Liutpold8
+    mother = ELR_121 #Eadgifu20
+    550.1.1 = {
+        birth = yes
+    }
+    566.1.1 = {
+        add_spouse = ELR_218 #Hadwig99
+    }
+}
+
+ELR_78 = {
+    name = "Wilhelm156"
+    culture = "elruan"
+    faith = "halvran"
+    dynasty = ELRD2 #ElrDyn2
+    father = ELR_79 #Wilhelm57
+    mother = ELR_166 #Rikissa78
+    570.1.1 = {
+        birth = yes
+    }
+    586.1.1 = {
+        add_spouse = ELR_174 #Agnes233
+    }
+}
+
+ELR_79 = {
+    name = "Wilhelm57"
+    culture = "elruan"
+    faith = "halvran"
+    dynasty = ELRD2 #ElrDyn2
+    father = ELR_51 #Gerhard7
+    mother = ELR_84 #Adelheid15
+    550.1.1 = {
+        birth = yes
+    }
+    569.1.1 = {
+        add_spouse = ELR_166 #Rikissa78
+    }
+}
+
+ELR_8 = {
+    name = "Eberhard139"
+    culture = "elruan"
+    faith = "halvran"
+    dynasty = ELRD1 #ElrDyn1
+    father = ELR_4 #Berengar51
+    mother = ELR_59 #Irmgard58
+    578.1.1 = {
+        birth = yes
+    }
+}
+
+ELR_80 = {
+    name = "Willa52"
+    culture = "elruan"
+    faith = "halvran"
+    female = yes
+    dynasty = ELRD2 #ElrDyn2
+    father = ELR_51 #Gerhard7
+    mother = ELR_84 #Adelheid15
+    550.1.1 = {
+        birth = yes
+    }
+    568.1.1 = {
+        add_spouse = ELR_20 #Lambert48
+    }
+}
+
+ELR_81 = {
+    name = "Willa9"
+    culture = "elruan"
+    faith = "halvran"
+    female = yes
+    dynasty = ELRD2 #ElrDyn2
+    father = ELR_67 #Lothar6
+    522.1.1 = {
+        birth = yes
+    }
+    546.1.1 = {
+        add_spouse = ELR_26 #Ulrich2
+    }
+    569.1.1 = {
+        death = yes
+    }
+}
+
+ELR_82 = {
+    name = "Wolfram168"
+    culture = "elruan"
+    faith = "halvran"
+    dynasty = ELRD2 #ElrDyn2
+    father = ELR_40 #Arnulf60
+    mother = ELR_196 #Ida91
+    568.1.1 = {
+        birth = yes
+    }
+    586.1.1 = {
+        add_spouse = ELR_145 #Adelheid227
+    }
+}
+
+ELR_83 = {
+    name = "Wolfram169"
+    culture = "elruan"
+    faith = "halvran"
+    dynasty = ELRD2 #ElrDyn2
+    father = ELR_40 #Arnulf60
+    mother = ELR_196 #Ida91
+    570.1.1 = {
+        birth = yes
+    }
+    586.1.1 = {
+        add_spouse = ELR_234 #Richild256
+    }
+}
+
+ELR_84 = {
+    name = "Adelheid15"
+    culture = "elruan"
+    faith = "halvran"
+    female = yes
+    dynasty = ELRD3 #ElrDyn3
+    father = ELR_86 #Bruno11
+    526.1.1 = {
+        birth = yes
+    }
+    540.1.1 = {
+        add_spouse = ELR_51 #Gerhard7
+    }
+    568.1.1 = {
+        death = yes
+    }
+}
+
+ELR_85 = {
+    name = "Arnulf179"
+    culture = "elruan"
+    faith = "halvran"
+    dynasty = ELRD3 #ElrDyn3
+    father = ELR_104 #Theoderic64
+    mother = ELR_227 #Liutgard101
+    568.1.1 = {
+        birth = yes
+    }
+    586.1.1 = {
+        add_spouse = ELR_133 #Irmgard208
+    }
+}
+
+ELR_86 = {
+    name = "Bruno11"
+    culture = "elruan"
+    faith = "halvran"
+    dynasty = ELRD3 #ElrDyn3
+    482.1.1 = {
+        birth = yes
+    }
+    543.1.1 = {
+        death = yes
+    }
+}
+
+ELR_87 = {
+    name = "Carl192"
+    culture = "elruan"
+    faith = "halvran"
+    dynasty = ELRD3 #ElrDyn3
+    father = ELR_93 #Friedrich70
+    mother = ELR_245 #Gundrada110
+    569.1.1 = {
+        birth = yes
+    }
+    586.1.1 = {
+        add_spouse = ELR_141 #Theophanu213
+    }
+}
+
+ELR_88 = {
+    name = "Dietrich13"
+    culture = "elruan"
+    faith = "halvran"
+    dynasty = ELRD3 #ElrDyn3
+    father = ELR_86 #Bruno11
+    520.1.1 = {
+        birth = yes
+    }
+    545.1.1 = {
+        add_spouse = ELR_175 #Agnes30
+    }
+    576.1.1 = {
+        death = yes
+    }
+}
+
+ELR_89 = {
+    name = "Eadgifu187"
+    culture = "elruan"
+    faith = "halvran"
+    female = yes
+    dynasty = ELRD3 #ElrDyn3
+    father = ELR_109 #Wolfram69
+    mother = ELR_249 #Heilwig108
+    572.1.1 = {
+        birth = yes
+    }
+}
+
+ELR_9 = {
+    name = "Eilika127"
+    culture = "elruan"
+    faith = "halvran"
+    female = yes
+    dynasty = ELRD1 #ElrDyn1
+    father = ELR_20 #Lambert48
+    mother = ELR_80 #Willa52
+    572.1.1 = {
+        birth = yes
+    }
+}
+
+ELR_90 = {
+    name = "Eadgifu191"
+    culture = "elruan"
+    faith = "halvran"
+    female = yes
+    dynasty = ELRD3 #ElrDyn3
+    father = ELR_93 #Friedrich70
+    mother = ELR_245 #Gundrada110
+    568.1.1 = {
+        birth = yes
+    }
+    586.1.1 = {
+        add_spouse = ELR_11 #Gerhard125
+    }
+}
+
+ELR_91 = {
+    name = "Emmerich189"
+    culture = "elruan"
+    faith = "halvran"
+    dynasty = ELRD3 #ElrDyn3
+    father = ELR_109 #Wolfram69
+    mother = ELR_249 #Heilwig108
+    576.1.1 = {
+        birth = yes
+    }
+}
+
+ELR_92 = {
+    name = "Falko185"
+    culture = "elruan"
+    faith = "halvran"
+    dynasty = ELRD3 #ElrDyn3
+    father = ELR_108 #Welf68
+    mother = ELR_254 #Judith103
+    571.1.1 = {
+        birth = yes
+    }
+    586.1.1 = {
+        add_spouse = ELR_206 #Theophanu232
+    }
+}
+
+ELR_93 = {
+    name = "Friedrich70"
+    culture = "elruan"
+    faith = "halvran"
+    dynasty = ELRD3 #ElrDyn3
+    father = ELR_88 #Dietrich13
+    mother = ELR_175 #Agnes30
+    550.1.1 = {
+        birth = yes
+    }
+    566.1.1 = {
+        add_spouse = ELR_245 #Gundrada110
+    }
+}
+
+ELR_94 = {
+    name = "Gottschalk180"
+    culture = "elruan"
+    faith = "halvran"
+    dynasty = ELRD3 #ElrDyn3
+    father = ELR_104 #Theoderic64
+    mother = ELR_227 #Liutgard101
+    570.1.1 = {
+        birth = yes
+    }
+    586.1.1 = {
+        add_spouse = ELR_195 #Ida248
+    }
+}
+
+ELR_95 = {
+    name = "Gundrada14"
+    culture = "elruan"
+    faith = "halvran"
+    female = yes
+    dynasty = ELRD3 #ElrDyn3
+    father = ELR_86 #Bruno11
+    523.1.1 = {
+        birth = yes
+    }
+    548.1.1 = {
+        add_spouse = ELR_202 #Otto27
+    }
+    572.1.1 = {
+        death = yes
+    }
+}
+
+ELR_96 = {
+    name = "Heinrich186"
+    culture = "elruan"
+    faith = "halvran"
+    dynasty = ELRD3 #ElrDyn3
+    father = ELR_108 #Welf68
+    mother = ELR_254 #Judith103
+    572.1.1 = {
+        birth = yes
+    }
+}
+
+ELR_97 = {
+    name = "Hildebrand12"
+    culture = "elruan"
+    faith = "halvran"
+    dynasty = ELRD3 #ElrDyn3
+    father = ELR_86 #Bruno11
+    517.1.1 = {
+        birth = yes
+    }
+    542.1.1 = {
+        add_spouse = ELR_170 #Theophanu25
+    }
+    576.1.1 = {
+        death = yes
+    }
+}
+
+ELR_98 = {
+    name = "Judith190"
+    culture = "elruan"
+    faith = "halvran"
+    female = yes
+    dynasty = ELRD3 #ElrDyn3
+    father = ELR_93 #Friedrich70
+    mother = ELR_245 #Gundrada110
+    567.1.1 = {
+        birth = yes
+    }
+    586.1.1 = {
+        add_spouse = ELR_136 #Markward212
+    }
+}
+
+ELR_99 = {
+    name = "Kunigunde67"
+    culture = "elruan"
+    faith = "halvran"
+    female = yes
+    dynasty = ELRD3 #ElrDyn3
+    father = ELR_88 #Dietrich13
+    mother = ELR_175 #Agnes30
+    550.1.1 = {
+        birth = yes
+    }
+    577.1.1 = {
+        add_spouse = ELR_63 #Leopold54
+    }
+}
+

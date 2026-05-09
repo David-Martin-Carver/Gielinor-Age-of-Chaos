@@ -1,0 +1,4643 @@
+LYR_1 = {
+    name = "Aneirin142"
+    culture = "lyrathian"
+    faith = "jibai"
+    dynasty = LYRD1 #Dyn1
+    father = LYR_14 #Gareth129
+    mother = LYR_62 #Eleri60
+    577.1.1 = {
+        birth = yes
+    }
+}
+
+LYR_10 = {
+    name = "Eifion53"
+    culture = "lyrathian"
+    faith = "jibai"
+    dynasty = LYRD1 #Dyn1
+    father = LYR_42 #Tudor3
+    mother = LYR_70 #Gwenllian10
+    557.1.1 = {
+        birth = yes
+    }
+    575.1.1 = {
+        add_spouse = LYR_97 #Ceridwen66
+    }
+}
+
+LYR_100 = {
+    name = "Eifion198"
+    culture = "lyrathian"
+    faith = "jibai"
+    dynasty = LYRD3 #Dyn3
+    father = LYR_99 #Dylan126
+    mother = LYR_205 #Branwen98
+    579.1.1 = {
+        birth = yes
+    }
+}
+
+LYR_101 = {
+    name = "Eira206"
+    culture = "lyrathian"
+    faith = "jibai"
+    female = yes
+    dynasty = LYRD3 #Dyn3
+    father = LYR_96 #Celyn70
+    mother = LYR_237 #Eira106
+    569.1.1 = {
+        birth = yes
+    }
+    586.1.1 = {
+        add_spouse = LYR_268 #Cadfan316
+    }
+}
+
+LYR_102 = {
+    name = "Eirlys72"
+    culture = "lyrathian"
+    faith = "jibai"
+    female = yes
+    dynasty = LYRD3 #Dyn3
+    father = LYR_116 #Rhodri13
+    mother = LYR_204 #Branwen30
+    554.1.1 = {
+        birth = yes
+    }
+    574.1.1 = {
+        add_spouse = LYR_56 #Ceredig55
+    }
+}
+
+LYR_103 = {
+    name = "Geraint194"
+    culture = "lyrathian"
+    faith = "jibai"
+    dynasty = LYRD3 #Dyn3
+    father = LYR_99 #Dylan126
+    mother = LYR_205 #Branwen98
+    573.1.1 = {
+        birth = yes
+    }
+}
+
+LYR_104 = {
+    name = "Gwenllian204"
+    culture = "lyrathian"
+    faith = "jibai"
+    female = yes
+    dynasty = LYRD3 #Dyn3
+    father = LYR_108 #Llywelyn69
+    mother = LYR_245 #Gwen105
+    579.1.1 = {
+        birth = yes
+    }
+}
+
+LYR_105 = {
+    name = "Hywel197"
+    culture = "lyrathian"
+    faith = "jibai"
+    dynasty = LYRD3 #Dyn3
+    father = LYR_99 #Dylan126
+    mother = LYR_205 #Branwen98
+    577.1.1 = {
+        birth = yes
+    }
+}
+
+LYR_106 = {
+    name = "Idris201"
+    culture = "lyrathian"
+    faith = "jibai"
+    dynasty = LYRD3 #Dyn3
+    father = LYR_115 #Peredur136
+    mother = LYR_246 #Gwyneth104
+    575.1.1 = {
+        birth = yes
+    }
+}
+
+LYR_107 = {
+    name = "Llinos208"
+    culture = "lyrathian"
+    faith = "jibai"
+    female = yes
+    dynasty = LYRD3 #Dyn3
+    father = LYR_98 #Dafydd73
+    mother = LYR_232 #Blodwen107
+    571.1.1 = {
+        birth = yes
+    }
+    586.1.1 = {
+        add_spouse = LYR_299 #Rhys303
+    }
+}
+
+LYR_108 = {
+    name = "Llywelyn69"
+    culture = "lyrathian"
+    faith = "jibai"
+    dynasty = LYRD3 #Dyn3
+    father = LYR_116 #Rhodri13
+    mother = LYR_204 #Branwen30
+    550.1.1 = {
+        birth = yes
+    }
+    575.1.1 = {
+        add_spouse = LYR_245 #Gwen105
+    }
+}
+
+LYR_109 = {
+    name = "Madog205"
+    culture = "lyrathian"
+    faith = "jibai"
+    dynasty = LYRD3 #Dyn3
+    father = LYR_96 #Celyn70
+    mother = LYR_237 #Eira106
+    568.1.1 = {
+        birth = yes
+    }
+    586.1.1 = {
+        add_spouse = LYR_60 #Eirlys180
+    }
+}
+
+LYR_11 = {
+    name = "Eira164"
+    culture = "lyrathian"
+    faith = "jibai"
+    female = yes
+    dynasty = LYRD1 #Dyn1
+    father = LYR_10 #Eifion53
+    mother = LYR_97 #Ceridwen66
+    580.1.1 = {
+        birth = yes
+    }
+}
+
+LYR_110 = {
+    name = "Mair202"
+    culture = "lyrathian"
+    faith = "jibai"
+    female = yes
+    dynasty = LYRD3 #Dyn3
+    father = LYR_108 #Llywelyn69
+    mother = LYR_245 #Gwen105
+    576.1.1 = {
+        birth = yes
+    }
+}
+
+LYR_111 = {
+    name = "Mair67"
+    culture = "lyrathian"
+    faith = "jibai"
+    female = yes
+    dynasty = LYRD3 #Dyn3
+    father = LYR_120 #Urien12
+    mother = LYR_164 #Catrin25
+    551.1.1 = {
+        birth = yes
+    }
+    573.1.1 = {
+        add_spouse = LYR_182 #Llywarch85
+    }
+}
+
+LYR_112 = {
+    name = "Mari15"
+    culture = "lyrathian"
+    faith = "jibai"
+    female = yes
+    dynasty = LYRD3 #Dyn3
+    father = LYR_94 #Bryn11
+    526.1.1 = {
+        birth = yes
+    }
+    545.1.1 = {
+        add_spouse = LYR_84 #Meurig7
+    }
+    582.1.1 = {
+        death = yes
+    }
+}
+
+LYR_113 = {
+    name = "Nerys71"
+    culture = "lyrathian"
+    faith = "jibai"
+    female = yes
+    dynasty = LYRD3 #Dyn3
+    father = LYR_116 #Rhodri13
+    mother = LYR_204 #Branwen30
+    553.1.1 = {
+        birth = yes
+    }
+    573.1.1 = {
+        add_spouse = LYR_158 #Bleddyn90
+    }
+}
+
+LYR_114 = {
+    name = "Nia195"
+    culture = "lyrathian"
+    faith = "jibai"
+    female = yes
+    dynasty = LYRD3 #Dyn3
+    father = LYR_99 #Dylan126
+    mother = LYR_205 #Branwen98
+    574.1.1 = {
+        birth = yes
+    }
+}
+
+LYR_115 = {
+    name = "Peredur136"
+    culture = "lyrathian"
+    faith = "jibai"
+    dynasty = LYRD3 #Dyn3
+    545.1.1 = {
+        birth = yes
+    }
+    571.1.1 = {
+        add_spouse = LYR_246 #Gwyneth104
+    }
+}
+
+LYR_116 = {
+    name = "Rhodri13"
+    culture = "lyrathian"
+    faith = "jibai"
+    dynasty = LYRD3 #Dyn3
+    father = LYR_94 #Bryn11
+    520.1.1 = {
+        birth = yes
+    }
+    535.1.1 = {
+        add_spouse = LYR_204 #Branwen30
+    }
+    579.1.1 = {
+        death = yes
+    }
+}
+
+LYR_117 = {
+    name = "Rhydian199"
+    culture = "lyrathian"
+    faith = "jibai"
+    dynasty = LYRD3 #Dyn3
+    father = LYR_115 #Peredur136
+    mother = LYR_246 #Gwyneth104
+    572.1.1 = {
+        birth = yes
+    }
+}
+
+LYR_118 = {
+    name = "Seisyll210"
+    culture = "lyrathian"
+    faith = "jibai"
+    dynasty = LYRD3 #Dyn3
+    father = LYR_98 #Dafydd73
+    mother = LYR_232 #Blodwen107
+    575.1.1 = {
+        birth = yes
+    }
+}
+
+LYR_119 = {
+    name = "Taliesin200"
+    culture = "lyrathian"
+    faith = "jibai"
+    dynasty = LYRD3 #Dyn3
+    father = LYR_115 #Peredur136
+    mother = LYR_246 #Gwyneth104
+    574.1.1 = {
+        birth = yes
+    }
+}
+
+LYR_12 = {
+    name = "Eleri4"
+    culture = "lyrathian"
+    faith = "jibai"
+    female = yes
+    dynasty = LYRD1 #Dyn1
+    father = LYR_20 #Llywarch1
+    521.1.1 = {
+        birth = yes
+    }
+    539.1.1 = {
+        add_spouse = LYR_317 #Idris42
+    }
+    574.1.1 = {
+        death = yes
+    }
+}
+
+LYR_120 = {
+    name = "Urien12"
+    culture = "lyrathian"
+    faith = "jibai"
+    dynasty = LYRD3 #Dyn3
+    father = LYR_94 #Bryn11
+    517.1.1 = {
+        birth = yes
+    }
+    543.1.1 = {
+        add_spouse = LYR_164 #Catrin25
+    }
+    579.1.1 = {
+        death = yes
+    }
+}
+
+LYR_121 = {
+    name = "Arianwen227"
+    culture = "lyrathian"
+    faith = "jibai"
+    female = yes
+    dynasty = LYRD4 #Dyn4
+    father = LYR_140 #Iorwerth76
+    mother = LYR_307 #Catrin119
+    570.1.1 = {
+        birth = yes
+    }
+    586.1.1 = {
+        add_spouse = LYR_277 #Elisedd310
+    }
+}
+
+LYR_122 = {
+    name = "Blodwen212"
+    culture = "lyrathian"
+    faith = "jibai"
+    female = yes
+    dynasty = LYRD4 #Dyn4
+    father = LYR_135 #Gruffydd74
+    mother = LYR_279 #Gwen109
+    579.1.1 = {
+        birth = yes
+    }
+}
+
+LYR_123 = {
+    name = "Branwen79"
+    culture = "lyrathian"
+    faith = "jibai"
+    female = yes
+    dynasty = LYRD4 #Dyn4
+    father = LYR_150 #Taliesin17
+    mother = LYR_259 #Seren35
+    558.1.1 = {
+        birth = yes
+    }
+    566.1.1 = {
+        add_spouse = LYR_208 #Caradog93
+    }
+}
+
+LYR_124 = {
+    name = "Bryn217"
+    culture = "lyrathian"
+    faith = "jibai"
+    dynasty = LYRD4 #Dyn4
+    father = LYR_141 #Llywarch80
+    mother = LYR_295 #Rhiannon111
+    573.1.1 = {
+        birth = yes
+    }
+}
+
+LYR_125 = {
+    name = "Bryn225"
+    culture = "lyrathian"
+    faith = "jibai"
+    dynasty = LYRD4 #Dyn4
+    father = LYR_140 #Iorwerth76
+    mother = LYR_307 #Catrin119
+    567.1.1 = {
+        birth = yes
+    }
+    586.1.1 = {
+        add_spouse = LYR_209 #Catrin268
+    }
+}
+
+LYR_126 = {
+    name = "Cadfan219"
+    culture = "lyrathian"
+    faith = "jibai"
+    dynasty = LYRD4 #Dyn4
+    father = LYR_141 #Llywarch80
+    mother = LYR_295 #Rhiannon111
+    576.1.1 = {
+        birth = yes
+    }
+}
+
+LYR_127 = {
+    name = "Caradog213"
+    culture = "lyrathian"
+    faith = "jibai"
+    dynasty = LYRD4 #Dyn4
+    father = LYR_135 #Gruffydd74
+    mother = LYR_279 #Gwen109
+    581.1.1 = {
+        birth = yes
+    }
+}
+
+LYR_128 = {
+    name = "Ceredig221"
+    culture = "lyrathian"
+    faith = "jibai"
+    dynasty = LYRD4 #Dyn4
+    father = LYR_142 #Llywarch81
+    mother = LYR_275 #Eira117
+    580.1.1 = {
+        birth = yes
+    }
+}
+
+LYR_129 = {
+    name = "Delyth20"
+    culture = "lyrathian"
+    faith = "jibai"
+    female = yes
+    dynasty = LYRD4 #Dyn4
+    father = LYR_134 #Geraint16
+    527.1.1 = {
+        birth = yes
+    }
+    535.1.1 = {
+        add_spouse = LYR_64 #Gareth8
+    }
+    575.1.1 = {
+        death = yes
+    }
+}
+
+LYR_13 = {
+    name = "Ffion49"
+    culture = "lyrathian"
+    faith = "jibai"
+    female = yes
+    dynasty = LYRD1 #Dyn1
+    father = LYR_42 #Tudor3
+    mother = LYR_70 #Gwenllian10
+    550.1.1 = {
+        birth = yes
+    }
+    568.1.1 = {
+        add_spouse = LYR_330 #Urien127
+    }
+}
+
+LYR_130 = {
+    name = "Efa215"
+    culture = "lyrathian"
+    faith = "jibai"
+    female = yes
+    dynasty = LYRD4 #Dyn4
+    father = LYR_135 #Gruffydd74
+    mother = LYR_279 #Gwen109
+    583.1.1 = {
+        birth = yes
+    }
+}
+
+LYR_131 = {
+    name = "Eirlys77"
+    culture = "lyrathian"
+    faith = "jibai"
+    female = yes
+    dynasty = LYRD4 #Dyn4
+    father = LYR_150 #Taliesin17
+    mother = LYR_259 #Seren35
+    555.1.1 = {
+        birth = yes
+    }
+    574.1.1 = {
+        add_spouse = LYR_218 #Gareth138
+    }
+}
+
+LYR_132 = {
+    name = "Fflur216"
+    culture = "lyrathian"
+    faith = "jibai"
+    female = yes
+    dynasty = LYRD4 #Dyn4
+    father = LYR_141 #Llywarch80
+    mother = LYR_295 #Rhiannon111
+    572.1.1 = {
+        birth = yes
+    }
+}
+
+LYR_133 = {
+    name = "Gareth218"
+    culture = "lyrathian"
+    faith = "jibai"
+    dynasty = LYRD4 #Dyn4
+    father = LYR_141 #Llywarch80
+    mother = LYR_295 #Rhiannon111
+    575.1.1 = {
+        birth = yes
+    }
+}
+
+LYR_134 = {
+    name = "Geraint16"
+    culture = "lyrathian"
+    faith = "jibai"
+    dynasty = LYRD4 #Dyn4
+    483.1.1 = {
+        birth = yes
+    }
+    557.1.1 = {
+        death = yes
+    }
+}
+
+LYR_135 = {
+    name = "Gruffydd74"
+    culture = "lyrathian"
+    faith = "jibai"
+    dynasty = LYRD4 #Dyn4
+    father = LYR_150 #Taliesin17
+    mother = LYR_259 #Seren35
+    550.1.1 = {
+        birth = yes
+    }
+    577.1.1 = {
+        add_spouse = LYR_279 #Gwen109
+    }
+}
+
+LYR_136 = {
+    name = "Gwen220"
+    culture = "lyrathian"
+    faith = "jibai"
+    female = yes
+    dynasty = LYRD4 #Dyn4
+    father = LYR_142 #Llywarch81
+    mother = LYR_275 #Eira117
+    579.1.1 = {
+        birth = yes
+    }
+}
+
+LYR_137 = {
+    name = "Gwyneth222"
+    culture = "lyrathian"
+    faith = "jibai"
+    female = yes
+    dynasty = LYRD4 #Dyn4
+    father = LYR_142 #Llywarch81
+    mother = LYR_275 #Eira117
+    581.1.1 = {
+        birth = yes
+    }
+}
+
+LYR_138 = {
+    name = "Gwyneth82"
+    culture = "lyrathian"
+    faith = "jibai"
+    female = yes
+    dynasty = LYRD4 #Dyn4
+    father = LYR_143 #Maredudd18
+    mother = LYR_289 #Mari40
+    554.1.1 = {
+        birth = yes
+    }
+    576.1.1 = {
+        add_spouse = LYR_54 #Caradog56
+    }
+}
+
+LYR_139 = {
+    name = "Iorwerth214"
+    culture = "lyrathian"
+    faith = "jibai"
+    dynasty = LYRD4 #Dyn4
+    father = LYR_135 #Gruffydd74
+    mother = LYR_279 #Gwen109
+    582.1.1 = {
+        birth = yes
+    }
+}
+
+LYR_14 = {
+    name = "Gareth129"
+    culture = "lyrathian"
+    faith = "jibai"
+    dynasty = LYRD1 #Dyn1
+    536.1.1 = {
+        birth = yes
+    }
+    573.1.1 = {
+        add_spouse = LYR_62 #Eleri60
+    }
+}
+
+LYR_140 = {
+    name = "Iorwerth76"
+    culture = "lyrathian"
+    faith = "jibai"
+    dynasty = LYRD4 #Dyn4
+    father = LYR_150 #Taliesin17
+    mother = LYR_259 #Seren35
+    554.1.1 = {
+        birth = yes
+    }
+    566.1.1 = {
+        add_spouse = LYR_307 #Catrin119
+    }
+}
+
+LYR_141 = {
+    name = "Llywarch80"
+    culture = "lyrathian"
+    faith = "jibai"
+    dynasty = LYRD4 #Dyn4
+    father = LYR_143 #Maredudd18
+    mother = LYR_289 #Mari40
+    550.1.1 = {
+        birth = yes
+    }
+    571.1.1 = {
+        add_spouse = LYR_295 #Rhiannon111
+    }
+}
+
+LYR_142 = {
+    name = "Llywarch81"
+    culture = "lyrathian"
+    faith = "jibai"
+    dynasty = LYRD4 #Dyn4
+    father = LYR_143 #Maredudd18
+    mother = LYR_289 #Mari40
+    552.1.1 = {
+        birth = yes
+    }
+    578.1.1 = {
+        add_spouse = LYR_275 #Eira117
+    }
+}
+
+LYR_143 = {
+    name = "Maredudd18"
+    culture = "lyrathian"
+    faith = "jibai"
+    dynasty = LYRD4 #Dyn4
+    father = LYR_134 #Geraint16
+    521.1.1 = {
+        birth = yes
+    }
+    539.1.1 = {
+        add_spouse = LYR_289 #Mari40
+    }
+    580.1.1 = {
+        death = yes
+    }
+}
+
+LYR_144 = {
+    name = "Mari211"
+    culture = "lyrathian"
+    faith = "jibai"
+    female = yes
+    dynasty = LYRD4 #Dyn4
+    father = LYR_135 #Gruffydd74
+    mother = LYR_279 #Gwen109
+    578.1.1 = {
+        birth = yes
+    }
+}
+
+LYR_145 = {
+    name = "Meurig224"
+    culture = "lyrathian"
+    faith = "jibai"
+    dynasty = LYRD4 #Dyn4
+    father = LYR_142 #Llywarch81
+    mother = LYR_275 #Eira117
+    584.1.1 = {
+        birth = yes
+    }
+}
+
+LYR_146 = {
+    name = "Myfanwy78"
+    culture = "lyrathian"
+    faith = "jibai"
+    female = yes
+    dynasty = LYRD4 #Dyn4
+    father = LYR_150 #Taliesin17
+    mother = LYR_259 #Seren35
+    557.1.1 = {
+        birth = yes
+    }
+    569.1.1 = {
+        add_spouse = LYR_83 #Meurig57
+    }
+}
+
+LYR_147 = {
+    name = "Nerys228"
+    culture = "lyrathian"
+    faith = "jibai"
+    female = yes
+    dynasty = LYRD4 #Dyn4
+    father = LYR_140 #Iorwerth76
+    mother = LYR_307 #Catrin119
+    571.1.1 = {
+        birth = yes
+    }
+}
+
+LYR_148 = {
+    name = "Sioned75"
+    culture = "lyrathian"
+    faith = "jibai"
+    female = yes
+    dynasty = LYRD4 #Dyn4
+    father = LYR_150 #Taliesin17
+    mother = LYR_259 #Seren35
+    552.1.1 = {
+        birth = yes
+    }
+    575.1.1 = {
+        add_spouse = LYR_179 #Iorwerth92
+    }
+}
+
+LYR_149 = {
+    name = "Siwan226"
+    culture = "lyrathian"
+    faith = "jibai"
+    female = yes
+    dynasty = LYRD4 #Dyn4
+    father = LYR_140 #Iorwerth76
+    mother = LYR_307 #Catrin119
+    569.1.1 = {
+        birth = yes
+    }
+    586.1.1 = {
+        add_spouse = LYR_95 #Bryn207
+    }
+}
+
+LYR_15 = {
+    name = "Gareth149"
+    culture = "lyrathian"
+    faith = "jibai"
+    dynasty = LYRD1 #Dyn1
+    father = LYR_9 #Ceredig128
+    mother = LYR_74 #Heledd58
+    579.1.1 = {
+        birth = yes
+    }
+}
+
+LYR_150 = {
+    name = "Taliesin17"
+    culture = "lyrathian"
+    faith = "jibai"
+    dynasty = LYRD4 #Dyn4
+    father = LYR_134 #Geraint16
+    518.1.1 = {
+        birth = yes
+    }
+    541.1.1 = {
+        add_spouse = LYR_259 #Seren35
+    }
+    581.1.1 = {
+        death = yes
+    }
+}
+
+LYR_151 = {
+    name = "Tanwen19"
+    culture = "lyrathian"
+    faith = "jibai"
+    female = yes
+    dynasty = LYRD4 #Dyn4
+    father = LYR_134 #Geraint16
+    524.1.1 = {
+        birth = yes
+    }
+    549.1.1 = {
+        add_spouse = LYR_212 #Eifion28
+    }
+    571.1.1 = {
+        death = yes
+    }
+}
+
+LYR_152 = {
+    name = "Tanwen223"
+    culture = "lyrathian"
+    faith = "jibai"
+    female = yes
+    dynasty = LYRD4 #Dyn4
+    father = LYR_142 #Llywarch81
+    mother = LYR_275 #Eira117
+    583.1.1 = {
+        birth = yes
+    }
+}
+
+LYR_153 = {
+    name = "Arianwen238"
+    culture = "lyrathian"
+    faith = "jibai"
+    female = yes
+    dynasty = LYRD5 #Dyn5
+    father = LYR_172 #Geraint83
+    mother = LYR_25 #Myfanwy46
+    582.1.1 = {
+        birth = yes
+    }
+}
+
+LYR_154 = {
+    name = "Bethan243"
+    culture = "lyrathian"
+    faith = "jibai"
+    female = yes
+    dynasty = LYRD5 #Dyn5
+    father = LYR_160 #Bran89
+    mother = LYR_40 #Tanwen52
+    574.1.1 = {
+        birth = yes
+    }
+}
+
+LYR_155 = {
+    name = "Bethan250"
+    culture = "lyrathian"
+    faith = "jibai"
+    female = yes
+    dynasty = LYRD5 #Dyn5
+    father = LYR_182 #Llywarch85
+    mother = LYR_111 #Mair67
+    576.1.1 = {
+        birth = yes
+    }
+}
+
+LYR_156 = {
+    name = "Bleddyn237"
+    culture = "lyrathian"
+    faith = "jibai"
+    dynasty = LYRD5 #Dyn5
+    father = LYR_172 #Geraint83
+    mother = LYR_25 #Myfanwy46
+    580.1.1 = {
+        birth = yes
+    }
+}
+
+LYR_157 = {
+    name = "Bleddyn248"
+    culture = "lyrathian"
+    faith = "jibai"
+    dynasty = LYRD5 #Dyn5
+    father = LYR_182 #Llywarch85
+    mother = LYR_111 #Mair67
+    574.1.1 = {
+        birth = yes
+    }
+}
+
+LYR_158 = {
+    name = "Bleddyn90"
+    culture = "lyrathian"
+    faith = "jibai"
+    dynasty = LYRD5 #Dyn5
+    father = LYR_194 #Peredur23
+    mother = LYR_39 #Tanwen5
+    555.1.1 = {
+        birth = yes
+    }
+    573.1.1 = {
+        add_spouse = LYR_113 #Nerys71
+    }
+}
+
+LYR_159 = {
+    name = "Bran244"
+    culture = "lyrathian"
+    faith = "jibai"
+    dynasty = LYRD5 #Dyn5
+    father = LYR_160 #Bran89
+    mother = LYR_40 #Tanwen52
+    575.1.1 = {
+        birth = yes
+    }
+}
+
+LYR_16 = {
+    name = "Glesni160"
+    culture = "lyrathian"
+    faith = "jibai"
+    female = yes
+    dynasty = LYRD1 #Dyn1
+    father = LYR_41 #Tewdwr51
+    mother = LYR_73 #Gwenllian64
+    583.1.1 = {
+        birth = yes
+    }
+}
+
+LYR_160 = {
+    name = "Bran89"
+    culture = "lyrathian"
+    faith = "jibai"
+    dynasty = LYRD5 #Dyn5
+    father = LYR_194 #Peredur23
+    mother = LYR_39 #Tanwen5
+    553.1.1 = {
+        birth = yes
+    }
+    571.1.1 = {
+        add_spouse = LYR_40 #Tanwen52
+    }
+}
+
+LYR_161 = {
+    name = "Cadfan256"
+    culture = "lyrathian"
+    faith = "jibai"
+    dynasty = LYRD5 #Dyn5
+    father = LYR_158 #Bleddyn90
+    mother = LYR_113 #Nerys71
+    578.1.1 = {
+        birth = yes
+    }
+}
+
+LYR_162 = {
+    name = "Caradog251"
+    culture = "lyrathian"
+    faith = "jibai"
+    dynasty = LYRD5 #Dyn5
+    father = LYR_182 #Llywarch85
+    mother = LYR_111 #Mair67
+    578.1.1 = {
+        birth = yes
+    }
+}
+
+LYR_163 = {
+    name = "Carys257"
+    culture = "lyrathian"
+    faith = "jibai"
+    female = yes
+    dynasty = LYRD5 #Dyn5
+    father = LYR_158 #Bleddyn90
+    mother = LYR_113 #Nerys71
+    580.1.1 = {
+        birth = yes
+    }
+}
+
+LYR_164 = {
+    name = "Catrin25"
+    culture = "lyrathian"
+    faith = "jibai"
+    female = yes
+    dynasty = LYRD5 #Dyn5
+    father = LYR_193 #Owain21
+    528.1.1 = {
+        birth = yes
+    }
+    543.1.1 = {
+        add_spouse = LYR_120 #Urien12
+    }
+    576.1.1 = {
+        death = yes
+    }
+}
+
+LYR_165 = {
+    name = "Celyn242"
+    culture = "lyrathian"
+    faith = "jibai"
+    dynasty = LYRD5 #Dyn5
+    father = LYR_160 #Bran89
+    mother = LYR_40 #Tanwen52
+    572.1.1 = {
+        birth = yes
+    }
+}
+
+LYR_166 = {
+    name = "Ceridwen255"
+    culture = "lyrathian"
+    faith = "jibai"
+    female = yes
+    dynasty = LYRD5 #Dyn5
+    father = LYR_158 #Bleddyn90
+    mother = LYR_113 #Nerys71
+    576.1.1 = {
+        birth = yes
+    }
+}
+
+LYR_167 = {
+    name = "Delyth236"
+    culture = "lyrathian"
+    faith = "jibai"
+    female = yes
+    dynasty = LYRD5 #Dyn5
+    father = LYR_172 #Geraint83
+    mother = LYR_25 #Myfanwy46
+    578.1.1 = {
+        birth = yes
+    }
+}
+
+LYR_168 = {
+    name = "Efa235"
+    culture = "lyrathian"
+    faith = "jibai"
+    female = yes
+    dynasty = LYRD5 #Dyn5
+    father = LYR_172 #Geraint83
+    mother = LYR_25 #Myfanwy46
+    576.1.1 = {
+        birth = yes
+    }
+}
+
+LYR_169 = {
+    name = "Eirlys234"
+    culture = "lyrathian"
+    faith = "jibai"
+    female = yes
+    dynasty = LYRD5 #Dyn5
+    father = LYR_172 #Geraint83
+    mother = LYR_25 #Myfanwy46
+    575.1.1 = {
+        birth = yes
+    }
+}
+
+LYR_17 = {
+    name = "Gwen144"
+    culture = "lyrathian"
+    faith = "jibai"
+    female = yes
+    dynasty = LYRD1 #Dyn1
+    father = LYR_37 #Taliesin125
+    mother = LYR_67 #Glesni61
+    575.1.1 = {
+        birth = yes
+    }
+}
+
+LYR_170 = {
+    name = "Eirlys241"
+    culture = "lyrathian"
+    faith = "jibai"
+    female = yes
+    dynasty = LYRD5 #Dyn5
+    father = LYR_183 #Llywelyn87
+    mother = LYR_21 #Lowri50
+    577.1.1 = {
+        birth = yes
+    }
+}
+
+LYR_171 = {
+    name = "Elen86"
+    culture = "lyrathian"
+    faith = "jibai"
+    female = yes
+    dynasty = LYRD5 #Dyn5
+    father = LYR_185 #Madog22
+    mother = LYR_323 #Mari45
+    555.1.1 = {
+        birth = yes
+    }
+    576.1.1 = {
+        add_spouse = LYR_57 #Ceredig63
+    }
+}
+
+LYR_172 = {
+    name = "Geraint83"
+    culture = "lyrathian"
+    faith = "jibai"
+    dynasty = LYRD5 #Dyn5
+    father = LYR_185 #Madog22
+    mother = LYR_323 #Mari45
+    550.1.1 = {
+        birth = yes
+    }
+    573.1.1 = {
+        add_spouse = LYR_25 #Myfanwy46
+    }
+}
+
+LYR_173 = {
+    name = "Glesni233"
+    culture = "lyrathian"
+    faith = "jibai"
+    female = yes
+    dynasty = LYRD5 #Dyn5
+    father = LYR_172 #Geraint83
+    mother = LYR_25 #Myfanwy46
+    574.1.1 = {
+        birth = yes
+    }
+}
+
+LYR_174 = {
+    name = "Gruffydd232"
+    culture = "lyrathian"
+    faith = "jibai"
+    dynasty = LYRD5 #Dyn5
+    father = LYR_198 #Rhys132
+    mother = LYR_328 #Siwan120
+    579.1.1 = {
+        birth = yes
+    }
+}
+
+LYR_175 = {
+    name = "Gwen240"
+    culture = "lyrathian"
+    faith = "jibai"
+    female = yes
+    dynasty = LYRD5 #Dyn5
+    father = LYR_183 #Llywelyn87
+    mother = LYR_21 #Lowri50
+    576.1.1 = {
+        birth = yes
+    }
+}
+
+LYR_176 = {
+    name = "Gwyneth239"
+    culture = "lyrathian"
+    faith = "jibai"
+    female = yes
+    dynasty = LYRD5 #Dyn5
+    father = LYR_183 #Llywelyn87
+    mother = LYR_21 #Lowri50
+    575.1.1 = {
+        birth = yes
+    }
+}
+
+LYR_177 = {
+    name = "Gwyneth258"
+    culture = "lyrathian"
+    faith = "jibai"
+    female = yes
+    dynasty = LYRD5 #Dyn5
+    father = LYR_179 #Iorwerth92
+    mother = LYR_148 #Sioned75
+    576.1.1 = {
+        birth = yes
+    }
+}
+
+LYR_178 = {
+    name = "Gwyneth259"
+    culture = "lyrathian"
+    faith = "jibai"
+    female = yes
+    dynasty = LYRD5 #Dyn5
+    father = LYR_179 #Iorwerth92
+    mother = LYR_148 #Sioned75
+    578.1.1 = {
+        birth = yes
+    }
+}
+
+LYR_179 = {
+    name = "Iorwerth92"
+    culture = "lyrathian"
+    faith = "jibai"
+    dynasty = LYRD5 #Dyn5
+    father = LYR_194 #Peredur23
+    mother = LYR_39 #Tanwen5
+    559.1.1 = {
+        birth = yes
+    }
+    575.1.1 = {
+        add_spouse = LYR_148 #Sioned75
+    }
+}
+
+LYR_18 = {
+    name = "Hywel159"
+    culture = "lyrathian"
+    faith = "jibai"
+    dynasty = LYRD1 #Dyn1
+    father = LYR_41 #Tewdwr51
+    mother = LYR_73 #Gwenllian64
+    581.1.1 = {
+        birth = yes
+    }
+}
+
+LYR_180 = {
+    name = "Lleucu260"
+    culture = "lyrathian"
+    faith = "jibai"
+    female = yes
+    dynasty = LYRD5 #Dyn5
+    father = LYR_179 #Iorwerth92
+    mother = LYR_148 #Sioned75
+    579.1.1 = {
+        birth = yes
+    }
+}
+
+LYR_181 = {
+    name = "Llyr245"
+    culture = "lyrathian"
+    faith = "jibai"
+    dynasty = LYRD5 #Dyn5
+    father = LYR_160 #Bran89
+    mother = LYR_40 #Tanwen52
+    577.1.1 = {
+        birth = yes
+    }
+}
+
+LYR_182 = {
+    name = "Llywarch85"
+    culture = "lyrathian"
+    faith = "jibai"
+    dynasty = LYRD5 #Dyn5
+    father = LYR_185 #Madog22
+    mother = LYR_323 #Mari45
+    554.1.1 = {
+        birth = yes
+    }
+    573.1.1 = {
+        add_spouse = LYR_111 #Mair67
+    }
+}
+
+LYR_183 = {
+    name = "Llywelyn87"
+    culture = "lyrathian"
+    faith = "jibai"
+    dynasty = LYRD5 #Dyn5
+    father = LYR_194 #Peredur23
+    mother = LYR_39 #Tanwen5
+    550.1.1 = {
+        birth = yes
+    }
+    574.1.1 = {
+        add_spouse = LYR_21 #Lowri50
+    }
+}
+
+LYR_184 = {
+    name = "Lowri231"
+    culture = "lyrathian"
+    faith = "jibai"
+    female = yes
+    dynasty = LYRD5 #Dyn5
+    father = LYR_198 #Rhys132
+    mother = LYR_328 #Siwan120
+    578.1.1 = {
+        birth = yes
+    }
+}
+
+LYR_185 = {
+    name = "Madog22"
+    culture = "lyrathian"
+    faith = "jibai"
+    dynasty = LYRD5 #Dyn5
+    father = LYR_193 #Owain21
+    519.1.1 = {
+        birth = yes
+    }
+    540.1.1 = {
+        add_spouse = LYR_323 #Mari45
+    }
+    572.1.1 = {
+        death = yes
+    }
+}
+
+LYR_186 = {
+    name = "Madog252"
+    culture = "lyrathian"
+    faith = "jibai"
+    dynasty = LYRD5 #Dyn5
+    father = LYR_182 #Llywarch85
+    mother = LYR_111 #Mair67
+    579.1.1 = {
+        birth = yes
+    }
+}
+
+LYR_187 = {
+    name = "Maelgwn246"
+    culture = "lyrathian"
+    faith = "jibai"
+    dynasty = LYRD5 #Dyn5
+    father = LYR_160 #Bran89
+    mother = LYR_40 #Tanwen52
+    578.1.1 = {
+        birth = yes
+    }
+}
+
+LYR_188 = {
+    name = "Mari24"
+    culture = "lyrathian"
+    faith = "jibai"
+    female = yes
+    dynasty = LYRD5 #Dyn5
+    father = LYR_193 #Owain21
+    525.1.1 = {
+        birth = yes
+    }
+    536.1.1 = {
+        add_spouse = LYR_242 #Geraint32
+    }
+    569.1.1 = {
+        death = yes
+    }
+}
+
+LYR_189 = {
+    name = "Megan230"
+    culture = "lyrathian"
+    faith = "jibai"
+    female = yes
+    dynasty = LYRD5 #Dyn5
+    father = LYR_198 #Rhys132
+    mother = LYR_328 #Siwan120
+    577.1.1 = {
+        birth = yes
+    }
+}
+
+LYR_19 = {
+    name = "Llyr47"
+    culture = "lyrathian"
+    faith = "jibai"
+    dynasty = LYRD1 #Dyn1
+    father = LYR_6 #Cai2
+    mother = LYR_80 #Mair9
+    551.1.1 = {
+        birth = yes
+    }
+    573.1.1 = {
+        add_spouse = LYR_61 #Elen59
+    }
+}
+
+LYR_190 = {
+    name = "Megan84"
+    culture = "lyrathian"
+    faith = "jibai"
+    female = yes
+    dynasty = LYRD5 #Dyn5
+    father = LYR_185 #Madog22
+    mother = LYR_323 #Mari45
+    552.1.1 = {
+        birth = yes
+    }
+    576.1.1 = {
+        add_spouse = LYR_79 #Maelgwn62
+    }
+}
+
+LYR_191 = {
+    name = "Megan88"
+    culture = "lyrathian"
+    faith = "jibai"
+    female = yes
+    dynasty = LYRD5 #Dyn5
+    father = LYR_194 #Peredur23
+    mother = LYR_39 #Tanwen5
+    552.1.1 = {
+        birth = yes
+    }
+    578.1.1 = {
+        add_spouse = LYR_216 #Elisedd96
+    }
+}
+
+LYR_192 = {
+    name = "Meurig247"
+    culture = "lyrathian"
+    faith = "jibai"
+    dynasty = LYRD5 #Dyn5
+    father = LYR_160 #Bran89
+    mother = LYR_40 #Tanwen52
+    580.1.1 = {
+        birth = yes
+    }
+}
+
+LYR_193 = {
+    name = "Owain21"
+    culture = "lyrathian"
+    faith = "jibai"
+    dynasty = LYRD5 #Dyn5
+    484.1.1 = {
+        birth = yes
+    }
+    540.1.1 = {
+        death = yes
+    }
+}
+
+LYR_194 = {
+    name = "Peredur23"
+    culture = "lyrathian"
+    faith = "jibai"
+    dynasty = LYRD5 #Dyn5
+    father = LYR_193 #Owain21
+    522.1.1 = {
+        birth = yes
+    }
+    548.1.1 = {
+        add_spouse = LYR_39 #Tanwen5
+    }
+}
+
+LYR_195 = {
+    name = "Rhodri249"
+    culture = "lyrathian"
+    faith = "jibai"
+    dynasty = LYRD5 #Dyn5
+    father = LYR_182 #Llywarch85
+    mother = LYR_111 #Mair67
+    575.1.1 = {
+        birth = yes
+    }
+}
+
+LYR_196 = {
+    name = "Rhun254"
+    culture = "lyrathian"
+    faith = "jibai"
+    dynasty = LYRD5 #Dyn5
+    father = LYR_158 #Bleddyn90
+    mother = LYR_113 #Nerys71
+    574.1.1 = {
+        birth = yes
+    }
+}
+
+LYR_197 = {
+    name = "Rhydian253"
+    culture = "lyrathian"
+    faith = "jibai"
+    dynasty = LYRD5 #Dyn5
+    father = LYR_182 #Llywarch85
+    mother = LYR_111 #Mair67
+    581.1.1 = {
+        birth = yes
+    }
+}
+
+LYR_198 = {
+    name = "Rhys132"
+    culture = "lyrathian"
+    faith = "jibai"
+    dynasty = LYRD5 #Dyn5
+    540.1.1 = {
+        birth = yes
+    }
+    574.1.1 = {
+        add_spouse = LYR_328 #Siwan120
+    }
+}
+
+LYR_199 = {
+    name = "Siwan91"
+    culture = "lyrathian"
+    faith = "jibai"
+    female = yes
+    dynasty = LYRD5 #Dyn5
+    father = LYR_194 #Peredur23
+    mother = LYR_39 #Tanwen5
+    557.1.1 = {
+        birth = yes
+    }
+    572.1.1 = {
+        add_spouse = LYR_206 #Cai97
+    }
+}
+
+LYR_2 = {
+    name = "Aneirin145"
+    culture = "lyrathian"
+    faith = "jibai"
+    dynasty = LYRD1 #Dyn1
+    father = LYR_37 #Taliesin125
+    mother = LYR_67 #Glesni61
+    576.1.1 = {
+        birth = yes
+    }
+}
+
+LYR_20 = {
+    name = "Llywarch1"
+    culture = "lyrathian"
+    faith = "jibai"
+    dynasty = LYRD1 #Dyn1
+    480.1.1 = {
+        birth = yes
+    }
+    552.1.1 = {
+        death = yes
+    }
+}
+
+LYR_200 = {
+    name = "Tudor229"
+    culture = "lyrathian"
+    faith = "jibai"
+    dynasty = LYRD5 #Dyn5
+    father = LYR_198 #Rhys132
+    mother = LYR_328 #Siwan120
+    575.1.1 = {
+        birth = yes
+    }
+}
+
+LYR_201 = {
+    name = "Aneirin275"
+    culture = "lyrathian"
+    faith = "jibai"
+    dynasty = LYRD6 #Dyn6
+    father = LYR_206 #Cai97
+    mother = LYR_199 #Siwan91
+    576.1.1 = {
+        birth = yes
+    }
+}
+
+LYR_202 = {
+    name = "Branwen261"
+    culture = "lyrathian"
+    faith = "jibai"
+    female = yes
+    dynasty = LYRD6 #Dyn6
+    father = LYR_218 #Gareth138
+    mother = LYR_131 #Eirlys77
+    575.1.1 = {
+        birth = yes
+    }
+}
+
+LYR_203 = {
+    name = "Branwen263"
+    culture = "lyrathian"
+    faith = "jibai"
+    female = yes
+    dynasty = LYRD6 #Dyn6
+    father = LYR_218 #Gareth138
+    mother = LYR_131 #Eirlys77
+    578.1.1 = {
+        birth = yes
+    }
+}
+
+LYR_204 = {
+    name = "Branwen30"
+    culture = "lyrathian"
+    faith = "jibai"
+    female = yes
+    dynasty = LYRD6 #Dyn6
+    father = LYR_207 #Caradog26
+    529.1.1 = {
+        birth = yes
+    }
+    535.1.1 = {
+        add_spouse = LYR_116 #Rhodri13
+    }
+    574.1.1 = {
+        death = yes
+    }
+}
+
+LYR_205 = {
+    name = "Branwen98"
+    culture = "lyrathian"
+    faith = "jibai"
+    female = yes
+    dynasty = LYRD6 #Dyn6
+    father = LYR_212 #Eifion28
+    mother = LYR_151 #Tanwen19
+    553.1.1 = {
+        birth = yes
+    }
+    572.1.1 = {
+        add_spouse = LYR_99 #Dylan126
+    }
+}
+
+LYR_206 = {
+    name = "Cai97"
+    culture = "lyrathian"
+    faith = "jibai"
+    dynasty = LYRD6 #Dyn6
+    father = LYR_212 #Eifion28
+    mother = LYR_151 #Tanwen19
+    552.1.1 = {
+        birth = yes
+    }
+    572.1.1 = {
+        add_spouse = LYR_199 #Siwan91
+    }
+}
+
+LYR_207 = {
+    name = "Caradog26"
+    culture = "lyrathian"
+    faith = "jibai"
+    dynasty = LYRD6 #Dyn6
+    485.1.1 = {
+        birth = yes
+    }
+    550.1.1 = {
+        death = yes
+    }
+}
+
+LYR_208 = {
+    name = "Caradog93"
+    culture = "lyrathian"
+    faith = "jibai"
+    dynasty = LYRD6 #Dyn6
+    father = LYR_210 #Celyn27
+    mother = LYR_90 #Angharad14
+    550.1.1 = {
+        birth = yes
+    }
+    566.1.1 = {
+        add_spouse = LYR_123 #Branwen79
+    }
+}
+
+LYR_209 = {
+    name = "Catrin268"
+    culture = "lyrathian"
+    faith = "jibai"
+    female = yes
+    dynasty = LYRD6 #Dyn6
+    father = LYR_208 #Caradog93
+    mother = LYR_123 #Branwen79
+    568.1.1 = {
+        birth = yes
+    }
+    586.1.1 = {
+        add_spouse = LYR_125 #Bryn225
+    }
+}
+
+LYR_21 = {
+    name = "Lowri50"
+    culture = "lyrathian"
+    faith = "jibai"
+    female = yes
+    dynasty = LYRD1 #Dyn1
+    father = LYR_42 #Tudor3
+    mother = LYR_70 #Gwenllian10
+    552.1.1 = {
+        birth = yes
+    }
+    574.1.1 = {
+        add_spouse = LYR_183 #Llywelyn87
+    }
+}
+
+LYR_210 = {
+    name = "Celyn27"
+    culture = "lyrathian"
+    faith = "jibai"
+    dynasty = LYRD6 #Dyn6
+    father = LYR_207 #Caradog26
+    520.1.1 = {
+        birth = yes
+    }
+    544.1.1 = {
+        add_spouse = LYR_90 #Angharad14
+    }
+}
+
+LYR_211 = {
+    name = "Efa272"
+    culture = "lyrathian"
+    faith = "jibai"
+    female = yes
+    dynasty = LYRD6 #Dyn6
+    father = LYR_216 #Elisedd96
+    mother = LYR_191 #Megan88
+    582.1.1 = {
+        birth = yes
+    }
+}
+
+LYR_212 = {
+    name = "Eifion28"
+    culture = "lyrathian"
+    faith = "jibai"
+    dynasty = LYRD6 #Dyn6
+    father = LYR_207 #Caradog26
+    523.1.1 = {
+        birth = yes
+    }
+    549.1.1 = {
+        add_spouse = LYR_151 #Tanwen19
+    }
+    575.1.1 = {
+        death = yes
+    }
+}
+
+LYR_213 = {
+    name = "Eira95"
+    culture = "lyrathian"
+    faith = "jibai"
+    female = yes
+    dynasty = LYRD6 #Dyn6
+    father = LYR_210 #Celyn27
+    mother = LYR_90 #Angharad14
+    553.1.1 = {
+        birth = yes
+    }
+    578.1.1 = {
+        add_spouse = LYR_255 #Rhodri133
+    }
+}
+
+LYR_214 = {
+    name = "Eirlys265"
+    culture = "lyrathian"
+    faith = "jibai"
+    female = yes
+    dynasty = LYRD6 #Dyn6
+    father = LYR_218 #Gareth138
+    mother = LYR_131 #Eirlys77
+    581.1.1 = {
+        birth = yes
+    }
+}
+
+LYR_215 = {
+    name = "Eleri271"
+    culture = "lyrathian"
+    faith = "jibai"
+    female = yes
+    dynasty = LYRD6 #Dyn6
+    father = LYR_216 #Elisedd96
+    mother = LYR_191 #Megan88
+    580.1.1 = {
+        birth = yes
+    }
+}
+
+LYR_216 = {
+    name = "Elisedd96"
+    culture = "lyrathian"
+    faith = "jibai"
+    dynasty = LYRD6 #Dyn6
+    father = LYR_212 #Eifion28
+    mother = LYR_151 #Tanwen19
+    550.1.1 = {
+        birth = yes
+    }
+    578.1.1 = {
+        add_spouse = LYR_191 #Megan88
+    }
+}
+
+LYR_217 = {
+    name = "Fflur94"
+    culture = "lyrathian"
+    faith = "jibai"
+    female = yes
+    dynasty = LYRD6 #Dyn6
+    father = LYR_210 #Celyn27
+    mother = LYR_90 #Angharad14
+    551.1.1 = {
+        birth = yes
+    }
+    571.1.1 = {
+        add_spouse = LYR_75 #Hywel65
+    }
+}
+
+LYR_218 = {
+    name = "Gareth138"
+    culture = "lyrathian"
+    faith = "jibai"
+    dynasty = LYRD6 #Dyn6
+    544.1.1 = {
+        birth = yes
+    }
+    574.1.1 = {
+        add_spouse = LYR_131 #Eirlys77
+    }
+}
+
+LYR_219 = {
+    name = "Iorwerth264"
+    culture = "lyrathian"
+    faith = "jibai"
+    dynasty = LYRD6 #Dyn6
+    father = LYR_218 #Gareth138
+    mother = LYR_131 #Eirlys77
+    579.1.1 = {
+        birth = yes
+    }
+}
+
+LYR_22 = {
+    name = "Mair154"
+    culture = "lyrathian"
+    faith = "jibai"
+    female = yes
+    dynasty = LYRD1 #Dyn1
+    father = LYR_19 #Llyr47
+    mother = LYR_61 #Elen59
+    574.1.1 = {
+        birth = yes
+    }
+}
+
+LYR_220 = {
+    name = "Madog267"
+    culture = "lyrathian"
+    faith = "jibai"
+    dynasty = LYRD6 #Dyn6
+    father = LYR_208 #Caradog93
+    mother = LYR_123 #Branwen79
+    567.1.1 = {
+        birth = yes
+    }
+    586.1.1 = {
+        add_spouse = LYR_247 #Gwyneth292
+    }
+}
+
+LYR_221 = {
+    name = "Maredudd273"
+    culture = "lyrathian"
+    faith = "jibai"
+    dynasty = LYRD6 #Dyn6
+    father = LYR_206 #Cai97
+    mother = LYR_199 #Siwan91
+    573.1.1 = {
+        birth = yes
+    }
+}
+
+LYR_222 = {
+    name = "Myfanwy262"
+    culture = "lyrathian"
+    faith = "jibai"
+    female = yes
+    dynasty = LYRD6 #Dyn6
+    father = LYR_218 #Gareth138
+    mother = LYR_131 #Eirlys77
+    577.1.1 = {
+        birth = yes
+    }
+}
+
+LYR_223 = {
+    name = "Nerys266"
+    culture = "lyrathian"
+    faith = "jibai"
+    female = yes
+    dynasty = LYRD6 #Dyn6
+    father = LYR_218 #Gareth138
+    mother = LYR_131 #Eirlys77
+    583.1.1 = {
+        birth = yes
+    }
+}
+
+LYR_224 = {
+    name = "Nia274"
+    culture = "lyrathian"
+    faith = "jibai"
+    female = yes
+    dynasty = LYRD6 #Dyn6
+    father = LYR_206 #Cai97
+    mother = LYR_199 #Siwan91
+    575.1.1 = {
+        birth = yes
+    }
+}
+
+LYR_225 = {
+    name = "Nia276"
+    culture = "lyrathian"
+    faith = "jibai"
+    female = yes
+    dynasty = LYRD6 #Dyn6
+    father = LYR_206 #Cai97
+    mother = LYR_199 #Siwan91
+    577.1.1 = {
+        birth = yes
+    }
+}
+
+LYR_226 = {
+    name = "Owain269"
+    culture = "lyrathian"
+    faith = "jibai"
+    dynasty = LYRD6 #Dyn6
+    father = LYR_208 #Caradog93
+    mother = LYR_123 #Branwen79
+    570.1.1 = {
+        birth = yes
+    }
+    586.1.1 = {
+        add_spouse = LYR_301 #Seren314
+    }
+}
+
+LYR_227 = {
+    name = "Rhosyn29"
+    culture = "lyrathian"
+    faith = "jibai"
+    female = yes
+    dynasty = LYRD6 #Dyn6
+    father = LYR_207 #Caradog26
+    526.1.1 = {
+        birth = yes
+    }
+    537.1.1 = {
+        add_spouse = LYR_256 #Rhodri33
+    }
+    583.1.1 = {
+        death = yes
+    }
+}
+
+LYR_228 = {
+    name = "Taliesin270"
+    culture = "lyrathian"
+    faith = "jibai"
+    dynasty = LYRD6 #Dyn6
+    father = LYR_216 #Elisedd96
+    mother = LYR_191 #Megan88
+    579.1.1 = {
+        birth = yes
+    }
+}
+
+LYR_229 = {
+    name = "Angharad279"
+    culture = "lyrathian"
+    faith = "jibai"
+    female = yes
+    dynasty = LYRD7 #Dyn7
+    father = LYR_255 #Rhodri133
+    mother = LYR_213 #Eira95
+    583.1.1 = {
+        birth = yes
+    }
+}
+
+LYR_23 = {
+    name = "Megan146"
+    culture = "lyrathian"
+    faith = "jibai"
+    female = yes
+    dynasty = LYRD1 #Dyn1
+    father = LYR_37 #Taliesin125
+    mother = LYR_67 #Glesni61
+    577.1.1 = {
+        birth = yes
+    }
+}
+
+LYR_230 = {
+    name = "Angharad99"
+    culture = "lyrathian"
+    faith = "jibai"
+    female = yes
+    dynasty = LYRD7 #Dyn7
+    father = LYR_242 #Geraint32
+    mother = LYR_188 #Mari24
+    550.1.1 = {
+        birth = yes
+    }
+    575.1.1 = {
+        add_spouse = LYR_292 #Peredur135
+    }
+}
+
+LYR_231 = {
+    name = "Bleddyn130"
+    culture = "lyrathian"
+    faith = "jibai"
+    dynasty = LYRD7 #Dyn7
+    541.1.1 = {
+        birth = yes
+    }
+    571.1.1 = {
+        add_spouse = LYR_287 #Mair112
+    }
+}
+
+LYR_232 = {
+    name = "Blodwen107"
+    culture = "lyrathian"
+    faith = "jibai"
+    female = yes
+    dynasty = LYRD7 #Dyn7
+    father = LYR_256 #Rhodri33
+    mother = LYR_227 #Rhosyn29
+    554.1.1 = {
+        birth = yes
+    }
+    570.1.1 = {
+        add_spouse = LYR_98 #Dafydd73
+    }
+}
+
+LYR_233 = {
+    name = "Ceredig103"
+    culture = "lyrathian"
+    faith = "jibai"
+    dynasty = LYRD7 #Dyn7
+    martial = 11
+    stewardship = 8
+    learning = 9
+    prowess = 13	
+    trait = patient
+    trait = ambitious
+    trait = diligent
+    trait = aggressive_attacker
+    trait = education_martial_5
+    father = LYR_242 #Geraint32
+    mother = LYR_188 #Mari24
+    555.1.1 = {
+        birth = yes
+    }
+    567.1.1 = {
+        add_spouse = LYR_274 #Efa115
+    }
+}
+
+LYR_234 = {
+    name = "Ceridwen282"
+    culture = "lyrathian"
+    faith = "jibai"
+    female = yes
+    dynasty = LYRD7 #Dyn7
+    father = LYR_231 #Bleddyn130
+    mother = LYR_287 #Mair112
+    572.1.1 = {
+        birth = yes
+    }
+}
+
+LYR_235 = {
+    name = "Cynan278"
+    culture = "lyrathian"
+    faith = "jibai"
+    dynasty = LYRD7 #Dyn7
+    father = LYR_255 #Rhodri133
+    mother = LYR_213 #Eira95
+    581.1.1 = {
+        birth = yes
+    }
+}
+
+LYR_236 = {
+    name = "Efa102"
+    culture = "lyrathian"
+    faith = "jibai"
+    female = yes
+    dynasty = LYRD7 #Dyn7
+    father = LYR_242 #Geraint32
+    mother = LYR_188 #Mari24
+    554.1.1 = {
+        birth = yes
+    }
+    567.1.1 = {
+        add_spouse = LYR_291 #Owain113
+    }
+}
+
+LYR_237 = {
+    name = "Eira106"
+    culture = "lyrathian"
+    faith = "jibai"
+    female = yes
+    dynasty = LYRD7 #Dyn7
+    father = LYR_256 #Rhodri33
+    mother = LYR_227 #Rhosyn29
+    553.1.1 = {
+        birth = yes
+    }
+    567.1.1 = {
+        add_spouse = LYR_96 #Celyn70
+    }
+}
+
+LYR_238 = {
+    name = "Elen290"
+    culture = "lyrathian"
+    faith = "jibai"
+    female = yes
+    dynasty = LYRD7 #Dyn7
+    father = LYR_250 #Llyr134
+    mother = LYR_276 #Eirlys114
+    582.1.1 = {
+        birth = yes
+    }
+}
+
+LYR_239 = {
+    name = "Ffion280"
+    culture = "lyrathian"
+    faith = "jibai"
+    female = yes
+    dynasty = LYRD7 #Dyn7
+    father = LYR_255 #Rhodri133
+    mother = LYR_213 #Eira95
+    585.1.1 = {
+        birth = yes
+    }
+}
+
+LYR_24 = {
+    name = "Morgan150"
+    culture = "lyrathian"
+    faith = "jibai"
+    dynasty = LYRD1 #Dyn1
+    father = LYR_9 #Ceredig128
+    mother = LYR_74 #Heledd58
+    580.1.1 = {
+        birth = yes
+    }
+}
+
+LYR_240 = {
+    name = "Ffion287"
+    culture = "lyrathian"
+    faith = "jibai"
+    female = yes
+    dynasty = LYRD7 #Dyn7
+    father = LYR_250 #Llyr134
+    mother = LYR_276 #Eirlys114
+    576.1.1 = {
+        birth = yes
+    }
+}
+
+LYR_241 = {
+    name = "Ffion34"
+    culture = "lyrathian"
+    faith = "jibai"
+    female = yes
+    dynasty = LYRD7 #Dyn7
+    father = LYR_257 #Rhydian31
+    527.1.1 = {
+        birth = yes
+    }
+    535.1.1 = {
+        add_spouse = LYR_282 #Hywel37
+    }
+}
+
+LYR_242 = {
+    name = "Geraint32"
+    culture = "lyrathian"
+    faith = "jibai"
+    dynasty = LYRD7 #Dyn7
+    trait = brave
+    trait = content
+    trait = calm
+    trait = education_martial_3
+    father = LYR_257 #Rhydian31
+    521.1.1 = {
+        birth = yes
+    }
+    536.1.1 = {
+        add_spouse = LYR_188 #Mari24
+    }
+}
+
+LYR_243 = {
+    name = "Glesni101"
+    culture = "lyrathian"
+    faith = "jibai"
+    female = yes
+    dynasty = LYRD7 #Dyn7
+    father = LYR_242 #Geraint32
+    mother = LYR_188 #Mari24
+    553.1.1 = {
+        birth = yes
+    }
+    568.1.1 = {
+        add_spouse = LYR_300 #Seisyll108
+    }
+}
+
+LYR_244 = {
+    name = "Glesni289"
+    culture = "lyrathian"
+    faith = "jibai"
+    female = yes
+    dynasty = LYRD7 #Dyn7
+    father = LYR_250 #Llyr134
+    mother = LYR_276 #Eirlys114
+    580.1.1 = {
+        birth = yes
+    }
+}
+
+LYR_245 = {
+    name = "Gwen105"
+    culture = "lyrathian"
+    faith = "jibai"
+    female = yes
+    dynasty = LYRD7 #Dyn7
+    father = LYR_256 #Rhodri33
+    mother = LYR_227 #Rhosyn29
+    551.1.1 = {
+        birth = yes
+    }
+    575.1.1 = {
+        add_spouse = LYR_108 #Llywelyn69
+    }
+}
+
+LYR_246 = {
+    name = "Gwyneth104"
+    culture = "lyrathian"
+    faith = "jibai"
+    female = yes
+    dynasty = LYRD7 #Dyn7
+    father = LYR_256 #Rhodri33
+    mother = LYR_227 #Rhosyn29
+    550.1.1 = {
+        birth = yes
+    }
+    571.1.1 = {
+        add_spouse = LYR_115 #Peredur136
+    }
+}
+
+LYR_247 = {
+    name = "Gwyneth292"
+    culture = "lyrathian"
+    faith = "jibai"
+    female = yes
+    dynasty = LYRD7 #Dyn7
+    father = LYR_233 #Ceredig103
+    mother = LYR_274 #Efa115
+    570.1.1 = {
+        birth = yes
+    }
+    586.1.1 = {
+        add_spouse = LYR_220 #Madog267
+    }
+}
+
+LYR_248 = {
+    name = "Heledd277"
+    culture = "lyrathian"
+    faith = "jibai"
+    female = yes
+    dynasty = LYRD7 #Dyn7
+    father = LYR_255 #Rhodri133
+    mother = LYR_213 #Eira95
+    579.1.1 = {
+        birth = yes
+    }
+}
+
+LYR_249 = {
+    name = "Llinos281"
+    culture = "lyrathian"
+    faith = "jibai"
+    female = yes
+    dynasty = LYRD7 #Dyn7
+    father = LYR_255 #Rhodri133
+    mother = LYR_213 #Eira95
+    587.1.1 = {
+        birth = yes
+    }
+}
+
+LYR_25 = {
+    name = "Myfanwy46"
+    culture = "lyrathian"
+    faith = "jibai"
+    female = yes
+    dynasty = LYRD1 #Dyn1
+    father = LYR_6 #Cai2
+    mother = LYR_80 #Mair9
+    550.1.1 = {
+        birth = yes
+    }
+    573.1.1 = {
+        add_spouse = LYR_172 #Geraint83
+    }
+}
+
+LYR_250 = {
+    name = "Llyr134"
+    culture = "lyrathian"
+    faith = "jibai"
+    dynasty = LYRD7 #Dyn7
+    543.1.1 = {
+        birth = yes
+    }
+    573.1.1 = {
+        add_spouse = LYR_276 #Eirlys114
+    }
+}
+
+LYR_251 = {
+    name = "Llyr285"
+    culture = "lyrathian"
+    faith = "jibai"
+    dynasty = LYRD7 #Dyn7
+    father = LYR_250 #Llyr134
+    mother = LYR_276 #Eirlys114
+    574.1.1 = {
+        birth = yes
+    }
+}
+
+LYR_252 = {
+    name = "Llywarch291"
+    culture = "lyrathian"
+    faith = "jibai"
+    dynasty = LYRD7 #Dyn7
+    father = LYR_233 #Ceredig103
+    mother = LYR_274 #Efa115
+    568.1.1 = {
+        birth = yes
+    }
+    586.1.1 = {
+        add_spouse = LYR_298 #Rhosyn308
+    }
+}
+
+LYR_253 = {
+    name = "Maelgwn284"
+    culture = "lyrathian"
+    faith = "jibai"
+    dynasty = LYRD7 #Dyn7
+    father = LYR_231 #Bleddyn130
+    mother = LYR_287 #Mair112
+    576.1.1 = {
+        birth = yes
+    }
+}
+
+LYR_254 = {
+    name = "Mair283"
+    culture = "lyrathian"
+    faith = "jibai"
+    female = yes
+    dynasty = LYRD7 #Dyn7
+    father = LYR_231 #Bleddyn130
+    mother = LYR_287 #Mair112
+    574.1.1 = {
+        birth = yes
+    }
+}
+
+LYR_255 = {
+    name = "Rhodri133"
+    culture = "lyrathian"
+    faith = "jibai"
+    dynasty = LYRD7 #Dyn7
+    540.1.1 = {
+        birth = yes
+    }
+    578.1.1 = {
+        add_spouse = LYR_213 #Eira95
+    }
+}
+
+LYR_256 = {
+    name = "Rhodri33"
+    culture = "lyrathian"
+    faith = "jibai"
+    dynasty = LYRD7 #Dyn7
+    father = LYR_257 #Rhydian31
+    524.1.1 = {
+        birth = yes
+    }
+    537.1.1 = {
+        add_spouse = LYR_227 #Rhosyn29
+    }
+    571.1.1 = {
+        death = yes
+    }
+}
+
+LYR_257 = {
+    name = "Rhydian31"
+    culture = "lyrathian"
+    faith = "jibai"
+    dynasty = LYRD7 #Dyn7
+    486.1.1 = {
+        birth = yes
+    }
+    565.1.1 = {
+        death = yes
+    }
+}
+
+LYR_258 = {
+    name = "Seisyll288"
+    culture = "lyrathian"
+    faith = "jibai"
+    dynasty = LYRD7 #Dyn7
+    father = LYR_250 #Llyr134
+    mother = LYR_276 #Eirlys114
+    578.1.1 = {
+        birth = yes
+    }
+}
+
+LYR_259 = {
+    name = "Seren35"
+    culture = "lyrathian"
+    faith = "jibai"
+    female = yes
+    dynasty = LYRD7 #Dyn7
+    father = LYR_257 #Rhydian31
+    530.1.1 = {
+        birth = yes
+    }
+    541.1.1 = {
+        add_spouse = LYR_150 #Taliesin17
+    }
+    576.1.1 = {
+        death = yes
+    }
+}
+
+LYR_26 = {
+    name = "Nia48"
+    culture = "lyrathian"
+    faith = "jibai"
+    female = yes
+    dynasty = LYRD1 #Dyn1
+    father = LYR_6 #Cai2
+    mother = LYR_80 #Mair9
+    553.1.1 = {
+        birth = yes
+    }
+    569.1.1 = {
+        add_spouse = LYR_313 #Gwynfor131
+    }
+}
+
+LYR_260 = {
+    name = "Taliesin286"
+    culture = "lyrathian"
+    faith = "jibai"
+    dynasty = LYRD7 #Dyn7
+    father = LYR_250 #Llyr134
+    mother = LYR_276 #Eirlys114
+    575.1.1 = {
+        birth = yes
+    }
+}
+
+LYR_261 = {
+    name = "Taliesin293"
+    culture = "lyrathian"
+    faith = "jibai"
+    dynasty = LYRD7 #Dyn7
+    father = LYR_233 #Ceredig103
+    mother = LYR_274 #Efa115
+    572.1.1 = {
+        birth = yes
+    }
+}
+
+LYR_262 = {
+    name = "Tegan100"
+    culture = "lyrathian"
+    faith = "jibai"
+    female = yes
+    dynasty = LYRD7 #Dyn7
+    father = LYR_242 #Geraint32
+    mother = LYR_188 #Mari24
+    551.1.1 = {
+        birth = yes
+    }
+    577.1.1 = {
+        add_spouse = LYR_286 #Maelgwn137
+    }
+}
+
+LYR_263 = {
+    name = "Aneirin306"
+    culture = "lyrathian"
+    faith = "jibai"
+    dynasty = LYRD8 #Dyn8
+    father = LYR_291 #Owain113
+    mother = LYR_236 #Efa102
+    568.1.1 = {
+        birth = yes
+    }
+    586.1.1 = {
+        add_spouse = LYR_311 #Glesni328
+    }
+}
+
+LYR_264 = {
+    name = "Angharad307"
+    culture = "lyrathian"
+    faith = "jibai"
+    female = yes
+    dynasty = LYRD8 #Dyn8
+    father = LYR_291 #Owain113
+    mother = LYR_236 #Efa102
+    569.1.1 = {
+        birth = yes
+    }
+    586.1.1 = {
+        add_spouse = LYR_305 #Bryn317
+    }
+}
+
+LYR_265 = {
+    name = "Angharad313"
+    culture = "lyrathian"
+    faith = "jibai"
+    female = yes
+    dynasty = LYRD8 #Dyn8
+    father = LYR_281 #Hywel110
+    mother = LYR_327 #Sioned121
+    576.1.1 = {
+        birth = yes
+    }
+}
+
+LYR_266 = {
+    name = "Bran36"
+    culture = "lyrathian"
+    faith = "jibai"
+    dynasty = LYRD8 #Dyn8
+    487.1.1 = {
+        birth = yes
+    }
+    545.1.1 = {
+        death = yes
+    }
+}
+
+LYR_267 = {
+    name = "Bryn309"
+    culture = "lyrathian"
+    faith = "jibai"
+    dynasty = LYRD8 #Dyn8
+    father = LYR_291 #Owain113
+    mother = LYR_236 #Efa102
+    572.1.1 = {
+        birth = yes
+    }
+}
+
+LYR_268 = {
+    name = "Cadfan316"
+    culture = "lyrathian"
+    faith = "jibai"
+    dynasty = LYRD8 #Dyn8
+    father = LYR_269 #Caradog116
+    mother = LYR_321 #Mari122
+    569.1.1 = {
+        birth = yes
+    }
+    586.1.1 = {
+        add_spouse = LYR_101 #Eira206
+    }
+}
+
+LYR_269 = {
+    name = "Caradog116"
+    culture = "lyrathian"
+    faith = "jibai"
+    dynasty = LYRD8 #Dyn8
+    father = LYR_297 #Rhodri38
+    mother = LYR_312 #Gwenllian44
+    556.1.1 = {
+        birth = yes
+    }
+    566.1.1 = {
+        add_spouse = LYR_321 #Mari122
+    }
+}
+
+LYR_27 = {
+    name = "Peredur147"
+    culture = "lyrathian"
+    faith = "jibai"
+    dynasty = LYRD1 #Dyn1
+    father = LYR_37 #Taliesin125
+    mother = LYR_67 #Glesni61
+    579.1.1 = {
+        birth = yes
+    }
+}
+
+LYR_270 = {
+    name = "Carys39"
+    culture = "lyrathian"
+    faith = "jibai"
+    female = yes
+    dynasty = LYRD8 #Dyn8
+    father = LYR_266 #Bran36
+    521.1.1 = {
+        birth = yes
+    }
+    540.1.1 = {
+        add_spouse = LYR_303 #Aneirin43
+    }
+    581.1.1 = {
+        death = yes
+    }
+}
+
+LYR_271 = {
+    name = "Celyn315"
+    culture = "lyrathian"
+    faith = "jibai"
+    dynasty = LYRD8 #Dyn8
+    father = LYR_269 #Caradog116
+    mother = LYR_321 #Mari122
+    568.1.1 = {
+        birth = yes
+    }
+    586.1.1 = {
+        add_spouse = LYR_322 #Mari318
+    }
+}
+
+LYR_272 = {
+    name = "Ceredig301"
+    culture = "lyrathian"
+    faith = "jibai"
+    dynasty = LYRD8 #Dyn8
+    father = LYR_286 #Maelgwn137
+    mother = LYR_262 #Tegan100
+    582.1.1 = {
+        birth = yes
+    }
+}
+
+LYR_273 = {
+    name = "Cynan302"
+    culture = "lyrathian"
+    faith = "jibai"
+    dynasty = LYRD8 #Dyn8
+    father = LYR_300 #Seisyll108
+    mother = LYR_243 #Glesni101
+    569.1.1 = {
+        birth = yes
+    }
+    586.1.1 = {
+        add_spouse = LYR_315 #Heledd330
+    }
+}
+
+LYR_274 = {
+    name = "Efa115"
+    culture = "lyrathian"
+    faith = "jibai"
+    female = yes
+    dynasty = LYRD8 #Dyn8
+    father = LYR_297 #Rhodri38
+    mother = LYR_312 #Gwenllian44
+    555.1.1 = {
+        birth = yes
+    }
+    567.1.1 = {
+        add_spouse = LYR_233 #Ceredig103
+    }
+}
+
+LYR_275 = {
+    name = "Eira117"
+    culture = "lyrathian"
+    faith = "jibai"
+    female = yes
+    dynasty = LYRD8 #Dyn8
+    father = LYR_297 #Rhodri38
+    mother = LYR_312 #Gwenllian44
+    557.1.1 = {
+        birth = yes
+    }
+    578.1.1 = {
+        add_spouse = LYR_142 #Llywarch81
+    }
+}
+
+LYR_276 = {
+    name = "Eirlys114"
+    culture = "lyrathian"
+    faith = "jibai"
+    female = yes
+    dynasty = LYRD8 #Dyn8
+    father = LYR_297 #Rhodri38
+    mother = LYR_312 #Gwenllian44
+    554.1.1 = {
+        birth = yes
+    }
+    573.1.1 = {
+        add_spouse = LYR_250 #Llyr134
+    }
+}
+
+LYR_277 = {
+    name = "Elisedd310"
+    culture = "lyrathian"
+    faith = "jibai"
+    dynasty = LYRD8 #Dyn8
+    father = LYR_281 #Hywel110
+    mother = LYR_327 #Sioned121
+    571.1.1 = {
+        birth = yes
+    }
+    586.1.1 = {
+        add_spouse = LYR_121 #Arianwen227
+    }
+}
+
+LYR_278 = {
+    name = "Gareth305"
+    culture = "lyrathian"
+    faith = "jibai"
+    dynasty = LYRD8 #Dyn8
+    father = LYR_300 #Seisyll108
+    mother = LYR_243 #Glesni101
+    574.1.1 = {
+        birth = yes
+    }
+}
+
+LYR_279 = {
+    name = "Gwen109"
+    culture = "lyrathian"
+    faith = "jibai"
+    female = yes
+    dynasty = LYRD8 #Dyn8
+    father = LYR_282 #Hywel37
+    mother = LYR_241 #Ffion34
+    552.1.1 = {
+        birth = yes
+    }
+    577.1.1 = {
+        add_spouse = LYR_135 #Gruffydd74
+    }
+}
+
+LYR_28 = {
+    name = "Peredur157"
+    culture = "lyrathian"
+    faith = "jibai"
+    dynasty = LYRD1 #Dyn1
+    father = LYR_19 #Llyr47
+    mother = LYR_61 #Elen59
+    578.1.1 = {
+        birth = yes
+    }
+}
+
+LYR_280 = {
+    name = "Gwynfor294"
+    culture = "lyrathian"
+    faith = "jibai"
+    dynasty = LYRD8 #Dyn8
+    father = LYR_292 #Peredur135
+    mother = LYR_230 #Angharad99
+    576.1.1 = {
+        birth = yes
+    }
+}
+
+LYR_281 = {
+    name = "Hywel110"
+    culture = "lyrathian"
+    faith = "jibai"
+    dynasty = LYRD8 #Dyn8
+    father = LYR_282 #Hywel37
+    mother = LYR_241 #Ffion34
+    553.1.1 = {
+        birth = yes
+    }
+    570.1.1 = {
+        add_spouse = LYR_327 #Sioned121
+    }
+}
+
+LYR_282 = {
+    name = "Hywel37"
+    culture = "lyrathian"
+    faith = "jibai"
+    dynasty = LYRD8 #Dyn8
+    father = LYR_266 #Bran36
+    515.1.1 = {
+        birth = yes
+    }
+    535.1.1 = {
+        add_spouse = LYR_241 #Ffion34
+    }
+    574.1.1 = {
+        death = yes
+    }
+}
+
+LYR_283 = {
+    name = "Idris297"
+    culture = "lyrathian"
+    faith = "jibai"
+    dynasty = LYRD8 #Dyn8
+    father = LYR_292 #Peredur135
+    mother = LYR_230 #Angharad99
+    580.1.1 = {
+        birth = yes
+    }
+}
+
+LYR_284 = {
+    name = "Llyr300"
+    culture = "lyrathian"
+    faith = "jibai"
+    dynasty = LYRD8 #Dyn8
+    father = LYR_286 #Maelgwn137
+    mother = LYR_262 #Tegan100
+    580.1.1 = {
+        birth = yes
+    }
+}
+
+LYR_285 = {
+    name = "Lowri311"
+    culture = "lyrathian"
+    faith = "jibai"
+    female = yes
+    dynasty = LYRD8 #Dyn8
+    father = LYR_281 #Hywel110
+    mother = LYR_327 #Sioned121
+    573.1.1 = {
+        birth = yes
+    }
+}
+
+LYR_286 = {
+    name = "Maelgwn137"
+    culture = "lyrathian"
+    faith = "jibai"
+    dynasty = LYRD8 #Dyn8
+    547.1.1 = {
+        birth = yes
+    }
+    577.1.1 = {
+        add_spouse = LYR_262 #Tegan100
+    }
+}
+
+LYR_287 = {
+    name = "Mair112"
+    culture = "lyrathian"
+    faith = "jibai"
+    female = yes
+    dynasty = LYRD8 #Dyn8
+    father = LYR_297 #Rhodri38
+    mother = LYR_312 #Gwenllian44
+    550.1.1 = {
+        birth = yes
+    }
+    571.1.1 = {
+        add_spouse = LYR_231 #Bleddyn130
+    }
+}
+
+LYR_288 = {
+    name = "Mari298"
+    culture = "lyrathian"
+    faith = "jibai"
+    female = yes
+    dynasty = LYRD8 #Dyn8
+    father = LYR_292 #Peredur135
+    mother = LYR_230 #Angharad99
+    582.1.1 = {
+        birth = yes
+    }
+}
+
+LYR_289 = {
+    name = "Mari40"
+    culture = "lyrathian"
+    faith = "jibai"
+    female = yes
+    dynasty = LYRD8 #Dyn8
+    father = LYR_266 #Bran36
+    524.1.1 = {
+        birth = yes
+    }
+    539.1.1 = {
+        add_spouse = LYR_143 #Maredudd18
+    }
+    579.1.1 = {
+        death = yes
+    }
+}
+
+LYR_29 = {
+    name = "Rhun143"
+    culture = "lyrathian"
+    faith = "jibai"
+    dynasty = LYRD1 #Dyn1
+    father = LYR_14 #Gareth129
+    mother = LYR_62 #Eleri60
+    579.1.1 = {
+        birth = yes
+    }
+}
+
+LYR_290 = {
+    name = "Meurig312"
+    culture = "lyrathian"
+    faith = "jibai"
+    dynasty = LYRD8 #Dyn8
+    father = LYR_281 #Hywel110
+    mother = LYR_327 #Sioned121
+    574.1.1 = {
+        birth = yes
+    }
+}
+
+LYR_291 = {
+    name = "Owain113"
+    culture = "lyrathian"
+    faith = "jibai"
+    dynasty = LYRD8 #Dyn8
+    father = LYR_297 #Rhodri38
+    mother = LYR_312 #Gwenllian44
+    552.1.1 = {
+        birth = yes
+    }
+    567.1.1 = {
+        add_spouse = LYR_236 #Efa102
+    }
+}
+
+LYR_292 = {
+    name = "Peredur135"
+    culture = "lyrathian"
+    faith = "jibai"
+    dynasty = LYRD8 #Dyn8
+    539.1.1 = {
+        birth = yes
+    }
+    575.1.1 = {
+        add_spouse = LYR_230 #Angharad99
+    }
+}
+
+LYR_293 = {
+    name = "Peredur299"
+    culture = "lyrathian"
+    faith = "jibai"
+    dynasty = LYRD8 #Dyn8
+    father = LYR_286 #Maelgwn137
+    mother = LYR_262 #Tegan100
+    578.1.1 = {
+        birth = yes
+    }
+}
+
+LYR_294 = {
+    name = "Rhian295"
+    culture = "lyrathian"
+    faith = "jibai"
+    female = yes
+    dynasty = LYRD8 #Dyn8
+    father = LYR_292 #Peredur135
+    mother = LYR_230 #Angharad99
+    578.1.1 = {
+        birth = yes
+    }
+}
+
+LYR_295 = {
+    name = "Rhiannon111"
+    culture = "lyrathian"
+    faith = "jibai"
+    female = yes
+    dynasty = LYRD8 #Dyn8
+    father = LYR_282 #Hywel37
+    mother = LYR_241 #Ffion34
+    555.1.1 = {
+        birth = yes
+    }
+    571.1.1 = {
+        add_spouse = LYR_141 #Llywarch80
+    }
+}
+
+LYR_296 = {
+    name = "Rhodri296"
+    culture = "lyrathian"
+    faith = "jibai"
+    dynasty = LYRD8 #Dyn8
+    father = LYR_292 #Peredur135
+    mother = LYR_230 #Angharad99
+    579.1.1 = {
+        birth = yes
+    }
+}
+
+LYR_297 = {
+    name = "Rhodri38"
+    culture = "lyrathian"
+    faith = "jibai"
+    dynasty = LYRD8 #Dyn8
+    father = LYR_266 #Bran36
+    518.1.1 = {
+        birth = yes
+    }
+    535.1.1 = {
+        add_spouse = LYR_312 #Gwenllian44
+    }
+    583.1.1 = {
+        death = yes
+    }
+}
+
+LYR_298 = {
+    name = "Rhosyn308"
+    culture = "lyrathian"
+    faith = "jibai"
+    female = yes
+    dynasty = LYRD8 #Dyn8
+    father = LYR_291 #Owain113
+    mother = LYR_236 #Efa102
+    570.1.1 = {
+        birth = yes
+    }
+    586.1.1 = {
+        add_spouse = LYR_252 #Llywarch291
+    }
+}
+
+LYR_299 = {
+    name = "Rhys303"
+    culture = "lyrathian"
+    faith = "jibai"
+    dynasty = LYRD8 #Dyn8
+    father = LYR_300 #Seisyll108
+    mother = LYR_243 #Glesni101
+    571.1.1 = {
+        birth = yes
+    }
+    586.1.1 = {
+        add_spouse = LYR_107 #Llinos208
+    }
+}
+
+LYR_3 = {
+    name = "Anwen54"
+    culture = "lyrathian"
+    faith = "jibai"
+    female = yes
+    dynasty = LYRD1 #Dyn1
+    father = LYR_42 #Tudor3
+    mother = LYR_70 #Gwenllian10
+    559.1.1 = {
+        birth = yes
+    }
+    567.1.1 = {
+        add_spouse = LYR_318 #Iorwerth118
+    }
+}
+
+LYR_30 = {
+    name = "Rhun148"
+    culture = "lyrathian"
+    faith = "jibai"
+    dynasty = LYRD1 #Dyn1
+    father = LYR_37 #Taliesin125
+    mother = LYR_67 #Glesni61
+    581.1.1 = {
+        birth = yes
+    }
+}
+
+LYR_300 = {
+    name = "Seisyll108"
+    culture = "lyrathian"
+    faith = "jibai"
+    dynasty = LYRD8 #Dyn8
+    father = LYR_282 #Hywel37
+    mother = LYR_241 #Ffion34
+    550.1.1 = {
+        birth = yes
+    }
+    568.1.1 = {
+        add_spouse = LYR_243 #Glesni101
+    }
+}
+
+LYR_301 = {
+    name = "Seren314"
+    culture = "lyrathian"
+    faith = "jibai"
+    female = yes
+    dynasty = LYRD8 #Dyn8
+    father = LYR_269 #Caradog116
+    mother = LYR_321 #Mari122
+    567.1.1 = {
+        birth = yes
+    }
+    586.1.1 = {
+        add_spouse = LYR_226 #Owain269
+    }
+}
+
+LYR_302 = {
+    name = "Tegan304"
+    culture = "lyrathian"
+    faith = "jibai"
+    female = yes
+    dynasty = LYRD8 #Dyn8
+    father = LYR_300 #Seisyll108
+    mother = LYR_243 #Glesni101
+    573.1.1 = {
+        birth = yes
+    }
+}
+
+LYR_303 = {
+    name = "Aneirin43"
+    culture = "lyrathian"
+    faith = "jibai"
+    dynasty = LYRD9 #Dyn9
+    father = LYR_304 #Bran41
+    519.1.1 = {
+        birth = yes
+    }
+    540.1.1 = {
+        add_spouse = LYR_270 #Carys39
+    }
+    577.1.1 = {
+        death = yes
+    }
+}
+
+LYR_304 = {
+    name = "Bran41"
+    culture = "lyrathian"
+    faith = "jibai"
+    dynasty = LYRD9 #Dyn9
+    488.1.1 = {
+        birth = yes
+    }
+    564.1.1 = {
+        death = yes
+    }
+}
+
+LYR_305 = {
+    name = "Bryn317"
+    culture = "lyrathian"
+    faith = "jibai"
+    dynasty = LYRD9 #Dyn9
+    father = LYR_330 #Urien127
+    mother = LYR_13 #Ffion49
+    569.1.1 = {
+        birth = yes
+    }
+    586.1.1 = {
+        add_spouse = LYR_264 #Angharad307
+    }
+}
+
+LYR_306 = {
+    name = "Cai329"
+    culture = "lyrathian"
+    faith = "jibai"
+    dynasty = LYRD9 #Dyn9
+    father = LYR_318 #Iorwerth118
+    mother = LYR_3 #Anwen54
+    570.1.1 = {
+        birth = yes
+    }
+    586.1.1 = {
+        add_spouse = LYR_59 #Eira179
+    }
+}
+
+LYR_307 = {
+    name = "Catrin119"
+    culture = "lyrathian"
+    faith = "jibai"
+    female = yes
+    dynasty = LYRD9 #Dyn9
+    father = LYR_317 #Idris42
+    mother = LYR_12 #Eleri4
+    552.1.1 = {
+        birth = yes
+    }
+    566.1.1 = {
+        add_spouse = LYR_140 #Iorwerth76
+    }
+}
+
+LYR_308 = {
+    name = "Eifion326"
+    culture = "lyrathian"
+    faith = "jibai"
+    dynasty = LYRD9 #Dyn9
+    father = LYR_313 #Gwynfor131
+    mother = LYR_26 #Nia48
+    574.1.1 = {
+        birth = yes
+    }
+}
+
+LYR_309 = {
+    name = "Eira320"
+    culture = "lyrathian"
+    faith = "jibai"
+    female = yes
+    dynasty = LYRD9 #Dyn9
+    father = LYR_330 #Urien127
+    mother = LYR_13 #Ffion49
+    574.1.1 = {
+        birth = yes
+    }
+}
+
+LYR_31 = {
+    name = "Rhun151"
+    culture = "lyrathian"
+    faith = "jibai"
+    dynasty = LYRD1 #Dyn1
+    father = LYR_9 #Ceredig128
+    mother = LYR_74 #Heledd58
+    582.1.1 = {
+        birth = yes
+    }
+}
+
+LYR_310 = {
+    name = "Glesni124"
+    culture = "lyrathian"
+    faith = "jibai"
+    female = yes
+    dynasty = LYRD9 #Dyn9
+    father = LYR_303 #Aneirin43
+    mother = LYR_270 #Carys39
+    555.1.1 = {
+        birth = yes
+    }
+}
+
+LYR_311 = {
+    name = "Glesni328"
+    culture = "lyrathian"
+    faith = "jibai"
+    female = yes
+    dynasty = LYRD9 #Dyn9
+    father = LYR_318 #Iorwerth118
+    mother = LYR_3 #Anwen54
+    569.1.1 = {
+        birth = yes
+    }
+    586.1.1 = {
+        add_spouse = LYR_263 #Aneirin306
+    }
+}
+
+LYR_312 = {
+    name = "Gwenllian44"
+    culture = "lyrathian"
+    faith = "jibai"
+    female = yes
+    dynasty = LYRD9 #Dyn9
+    father = LYR_304 #Bran41
+    522.1.1 = {
+        birth = yes
+    }
+    535.1.1 = {
+        add_spouse = LYR_297 #Rhodri38
+    }
+    576.1.1 = {
+        death = yes
+    }
+}
+
+LYR_313 = {
+    name = "Gwynfor131"
+    culture = "lyrathian"
+    faith = "jibai"
+    dynasty = LYRD9 #Dyn9
+    545.1.1 = {
+        birth = yes
+    }
+    569.1.1 = {
+        add_spouse = LYR_26 #Nia48
+    }
+}
+
+LYR_314 = {
+    name = "Heledd319"
+    culture = "lyrathian"
+    faith = "jibai"
+    female = yes
+    dynasty = LYRD9 #Dyn9
+    father = LYR_330 #Urien127
+    mother = LYR_13 #Ffion49
+    573.1.1 = {
+        birth = yes
+    }
+}
+
+LYR_315 = {
+    name = "Heledd330"
+    culture = "lyrathian"
+    faith = "jibai"
+    female = yes
+    dynasty = LYRD9 #Dyn9
+    father = LYR_318 #Iorwerth118
+    mother = LYR_3 #Anwen54
+    571.1.1 = {
+        birth = yes
+    }
+    586.1.1 = {
+        add_spouse = LYR_273 #Cynan302
+    }
+}
+
+LYR_316 = {
+    name = "Idris325"
+    culture = "lyrathian"
+    faith = "jibai"
+    dynasty = LYRD9 #Dyn9
+    father = LYR_313 #Gwynfor131
+    mother = LYR_26 #Nia48
+    572.1.1 = {
+        birth = yes
+    }
+}
+
+LYR_317 = {
+    name = "Idris42"
+    culture = "lyrathian"
+    faith = "jibai"
+    dynasty = LYRD9 #Dyn9
+    father = LYR_304 #Bran41
+    516.1.1 = {
+        birth = yes
+    }
+    539.1.1 = {
+        add_spouse = LYR_12 #Eleri4
+    }
+    575.1.1 = {
+        death = yes
+    }
+}
+
+LYR_318 = {
+    name = "Iorwerth118"
+    culture = "lyrathian"
+    faith = "jibai"
+    dynasty = LYRD9 #Dyn9
+    father = LYR_317 #Idris42
+    mother = LYR_12 #Eleri4
+    550.1.1 = {
+        birth = yes
+    }
+    567.1.1 = {
+        add_spouse = LYR_3 #Anwen54
+    }
+}
+
+LYR_319 = {
+    name = "Llywarch321"
+    culture = "lyrathian"
+    faith = "jibai"
+    dynasty = LYRD9 #Dyn9
+    father = LYR_330 #Urien127
+    mother = LYR_13 #Ffion49
+    575.1.1 = {
+        birth = yes
+    }
+}
+
+LYR_32 = {
+    name = "Rhydian163"
+    culture = "lyrathian"
+    faith = "jibai"
+    dynasty = LYRD1 #Dyn1
+    father = LYR_10 #Eifion53
+    mother = LYR_97 #Ceridwen66
+    579.1.1 = {
+        birth = yes
+    }
+}
+
+LYR_320 = {
+    name = "Llywelyn123"
+    culture = "lyrathian"
+    faith = "jibai"
+    dynasty = LYRD9 #Dyn9
+    father = LYR_303 #Aneirin43
+    mother = LYR_270 #Carys39
+    554.1.1 = {
+        birth = yes
+    }
+}
+
+LYR_321 = {
+    name = "Mari122"
+    culture = "lyrathian"
+    faith = "jibai"
+    female = yes
+    dynasty = LYRD9 #Dyn9
+    father = LYR_303 #Aneirin43
+    mother = LYR_270 #Carys39
+    552.1.1 = {
+        birth = yes
+    }
+    566.1.1 = {
+        add_spouse = LYR_269 #Caradog116
+    }
+}
+
+LYR_322 = {
+    name = "Mari318"
+    culture = "lyrathian"
+    faith = "jibai"
+    female = yes
+    dynasty = LYRD9 #Dyn9
+    father = LYR_330 #Urien127
+    mother = LYR_13 #Ffion49
+    571.1.1 = {
+        birth = yes
+    }
+    586.1.1 = {
+        add_spouse = LYR_271 #Celyn315
+    }
+}
+
+LYR_323 = {
+    name = "Mari45"
+    culture = "lyrathian"
+    faith = "jibai"
+    female = yes
+    dynasty = LYRD9 #Dyn9
+    father = LYR_304 #Bran41
+    525.1.1 = {
+        birth = yes
+    }
+    540.1.1 = {
+        add_spouse = LYR_185 #Madog22
+    }
+    583.1.1 = {
+        death = yes
+    }
+}
+
+LYR_324 = {
+    name = "Megan327"
+    culture = "lyrathian"
+    faith = "jibai"
+    female = yes
+    dynasty = LYRD9 #Dyn9
+    father = LYR_318 #Iorwerth118
+    mother = LYR_3 #Anwen54
+    568.1.1 = {
+        birth = yes
+    }
+}
+
+LYR_325 = {
+    name = "Nia324"
+    culture = "lyrathian"
+    faith = "jibai"
+    female = yes
+    dynasty = LYRD9 #Dyn9
+    father = LYR_313 #Gwynfor131
+    mother = LYR_26 #Nia48
+    571.1.1 = {
+        birth = yes
+    }
+}
+
+LYR_326 = {
+    name = "Rhodri322"
+    culture = "lyrathian"
+    faith = "jibai"
+    dynasty = LYRD9 #Dyn9
+    father = LYR_330 #Urien127
+    mother = LYR_13 #Ffion49
+    576.1.1 = {
+        birth = yes
+    }
+}
+
+LYR_327 = {
+    name = "Sioned121"
+    culture = "lyrathian"
+    faith = "jibai"
+    female = yes
+    dynasty = LYRD9 #Dyn9
+    father = LYR_303 #Aneirin43
+    mother = LYR_270 #Carys39
+    550.1.1 = {
+        birth = yes
+    }
+    570.1.1 = {
+        add_spouse = LYR_281 #Hywel110
+    }
+}
+
+LYR_328 = {
+    name = "Siwan120"
+    culture = "lyrathian"
+    faith = "jibai"
+    female = yes
+    dynasty = LYRD9 #Dyn9
+    father = LYR_317 #Idris42
+    mother = LYR_12 #Eleri4
+    554.1.1 = {
+        birth = yes
+    }
+    574.1.1 = {
+        add_spouse = LYR_198 #Rhys132
+    }
+}
+
+LYR_329 = {
+    name = "Siwan323"
+    culture = "lyrathian"
+    faith = "jibai"
+    female = yes
+    dynasty = LYRD9 #Dyn9
+    father = LYR_313 #Gwynfor131
+    mother = LYR_26 #Nia48
+    570.1.1 = {
+        birth = yes
+    }
+}
+
+LYR_33 = {
+    name = "Sioned156"
+    culture = "lyrathian"
+    faith = "jibai"
+    female = yes
+    dynasty = LYRD1 #Dyn1
+    father = LYR_19 #Llyr47
+    mother = LYR_61 #Elen59
+    576.1.1 = {
+        birth = yes
+    }
+}
+
+LYR_330 = {
+    name = "Urien127"
+    culture = "lyrathian"
+    faith = "jibai"
+    dynasty = LYRD9 #Dyn9
+    536.1.1 = {
+        birth = yes
+    }
+    568.1.1 = {
+        add_spouse = LYR_13 #Ffion49
+    }
+}
+
+LYR_34 = {
+    name = "Sioned158"
+    culture = "lyrathian"
+    faith = "jibai"
+    female = yes
+    dynasty = LYRD1 #Dyn1
+    father = LYR_41 #Tewdwr51
+    mother = LYR_73 #Gwenllian64
+    579.1.1 = {
+        birth = yes
+    }
+}
+
+LYR_35 = {
+    name = "Sioned162"
+    culture = "lyrathian"
+    faith = "jibai"
+    female = yes
+    dynasty = LYRD1 #Dyn1
+    father = LYR_10 #Eifion53
+    mother = LYR_97 #Ceridwen66
+    577.1.1 = {
+        birth = yes
+    }
+}
+
+LYR_36 = {
+    name = "Siwan165"
+    culture = "lyrathian"
+    faith = "jibai"
+    female = yes
+    dynasty = LYRD1 #Dyn1
+    father = LYR_10 #Eifion53
+    mother = LYR_97 #Ceridwen66
+    581.1.1 = {
+        birth = yes
+    }
+}
+
+LYR_37 = {
+    name = "Taliesin125"
+    culture = "lyrathian"
+    faith = "jibai"
+    dynasty = LYRD1 #Dyn1
+    539.1.1 = {
+        birth = yes
+    }
+    574.1.1 = {
+        add_spouse = LYR_67 #Glesni61
+    }
+}
+
+LYR_38 = {
+    name = "Taliesin155"
+    culture = "lyrathian"
+    faith = "jibai"
+    dynasty = LYRD1 #Dyn1
+    father = LYR_19 #Llyr47
+    mother = LYR_61 #Elen59
+    575.1.1 = {
+        birth = yes
+    }
+}
+
+LYR_39 = {
+    name = "Tanwen5"
+    culture = "lyrathian"
+    faith = "jibai"
+    female = yes
+    dynasty = LYRD1 #Dyn1
+    father = LYR_20 #Llywarch1
+    524.1.1 = {
+        birth = yes
+    }
+    548.1.1 = {
+        add_spouse = LYR_194 #Peredur23
+    }
+    580.1.1 = {
+        death = yes
+    }
+}
+
+LYR_4 = {
+    name = "Bethan140"
+    culture = "lyrathian"
+    faith = "jibai"
+    female = yes
+    dynasty = LYRD1 #Dyn1
+    father = LYR_14 #Gareth129
+    mother = LYR_62 #Eleri60
+    574.1.1 = {
+        birth = yes
+    }
+}
+
+LYR_40 = {
+    name = "Tanwen52"
+    culture = "lyrathian"
+    faith = "jibai"
+    female = yes
+    dynasty = LYRD1 #Dyn1
+    father = LYR_42 #Tudor3
+    mother = LYR_70 #Gwenllian10
+    555.1.1 = {
+        birth = yes
+    }
+    571.1.1 = {
+        add_spouse = LYR_160 #Bran89
+    }
+}
+
+LYR_41 = {
+    name = "Tewdwr51"
+    culture = "lyrathian"
+    faith = "jibai"
+    dynasty = LYRD1 #Dyn1
+    father = LYR_42 #Tudor3
+    mother = LYR_70 #Gwenllian10
+    553.1.1 = {
+        birth = yes
+    }
+    578.1.1 = {
+        add_spouse = LYR_73 #Gwenllian64
+    }
+}
+
+LYR_42 = {
+    name = "Tudor3"
+    culture = "lyrathian"
+    faith = "jibai"
+    dynasty = LYRD1 #Dyn1
+    father = LYR_20 #Llywarch1
+    518.1.1 = {
+        birth = yes
+    }
+    547.1.1 = {
+        add_spouse = LYR_70 #Gwenllian10
+    }
+    580.1.1 = {
+        death = yes
+    }
+}
+
+LYR_43 = {
+    name = "Urien161"
+    culture = "lyrathian"
+    faith = "jibai"
+    dynasty = LYRD1 #Dyn1
+    father = LYR_10 #Eifion53
+    mother = LYR_97 #Ceridwen66
+    576.1.1 = {
+        birth = yes
+    }
+}
+
+LYR_44 = {
+    name = "Anwen168"
+    culture = "lyrathian"
+    faith = "jibai"
+    female = yes
+    dynasty = LYRD2 #Dyn2
+    father = LYR_50 #Bryn139
+    mother = LYR_91 #Anwen68
+    579.1.1 = {
+        birth = yes
+    }
+}
+
+LYR_45 = {
+    name = "Arianwen174"
+    culture = "lyrathian"
+    faith = "jibai"
+    female = yes
+    dynasty = LYRD2 #Dyn2
+    father = LYR_54 #Caradog56
+    mother = LYR_138 #Gwyneth82
+    578.1.1 = {
+        birth = yes
+    }
+}
+
+LYR_46 = {
+    name = "Arianwen183"
+    culture = "lyrathian"
+    faith = "jibai"
+    female = yes
+    dynasty = LYRD2 #Dyn2
+    father = LYR_79 #Maelgwn62
+    mother = LYR_190 #Megan84
+    579.1.1 = {
+        birth = yes
+    }
+}
+
+LYR_47 = {
+    name = "Arianwen186"
+    culture = "lyrathian"
+    faith = "jibai"
+    female = yes
+    dynasty = LYRD2 #Dyn2
+    father = LYR_57 #Ceredig63
+    mother = LYR_171 #Elen86
+    577.1.1 = {
+        birth = yes
+    }
+}
+
+LYR_48 = {
+    name = "Blodwen175"
+    culture = "lyrathian"
+    faith = "jibai"
+    female = yes
+    dynasty = LYRD2 #Dyn2
+    father = LYR_54 #Caradog56
+    mother = LYR_138 #Gwyneth82
+    580.1.1 = {
+        birth = yes
+    }
+}
+
+LYR_49 = {
+    name = "Bran188"
+    culture = "lyrathian"
+    faith = "jibai"
+    dynasty = LYRD2 #Dyn2
+    father = LYR_57 #Ceredig63
+    mother = LYR_171 #Elen86
+    581.1.1 = {
+        birth = yes
+    }
+}
+
+LYR_5 = {
+    name = "Bleddyn152"
+    culture = "lyrathian"
+    faith = "jibai"
+    dynasty = LYRD1 #Dyn1
+    father = LYR_9 #Ceredig128
+    mother = LYR_74 #Heledd58
+    583.1.1 = {
+        birth = yes
+    }
+}
+
+LYR_50 = {
+    name = "Bryn139"
+    culture = "lyrathian"
+    faith = "jibai"
+    dynasty = LYRD2 #Dyn2
+    540.1.1 = {
+        birth = yes
+    }
+    576.1.1 = {
+        add_spouse = LYR_91 #Anwen68
+    }
+}
+
+LYR_51 = {
+    name = "Bryn185"
+    culture = "lyrathian"
+    faith = "jibai"
+    dynasty = LYRD2 #Dyn2
+    father = LYR_79 #Maelgwn62
+    mother = LYR_190 #Megan84
+    581.1.1 = {
+        birth = yes
+    }
+}
+
+LYR_52 = {
+    name = "Cadfan6"
+    culture = "lyrathian"
+    faith = "jibai"
+    dynasty = LYRD2 #Dyn2
+    481.1.1 = {
+        birth = yes
+    }
+    548.1.1 = {
+        death = yes
+    }
+}
+
+LYR_53 = {
+    name = "Cai171"
+    culture = "lyrathian"
+    faith = "jibai"
+    dynasty = LYRD2 #Dyn2
+    father = LYR_56 #Ceredig55
+    mother = LYR_102 #Eirlys72
+    577.1.1 = {
+        birth = yes
+    }
+}
+
+LYR_54 = {
+    name = "Caradog56"
+    culture = "lyrathian"
+    faith = "jibai"
+    dynasty = LYRD2 #Dyn2
+    father = LYR_84 #Meurig7
+    mother = LYR_112 #Mari15
+    551.1.1 = {
+        birth = yes
+    }
+    576.1.1 = {
+        add_spouse = LYR_138 #Gwyneth82
+    }
+}
+
+LYR_55 = {
+    name = "Catrin177"
+    culture = "lyrathian"
+    faith = "jibai"
+    female = yes
+    dynasty = LYRD2 #Dyn2
+    father = LYR_54 #Caradog56
+    mother = LYR_138 #Gwyneth82
+    583.1.1 = {
+        birth = yes
+    }
+}
+
+LYR_56 = {
+    name = "Ceredig55"
+    culture = "lyrathian"
+    faith = "jibai"
+    dynasty = LYRD2 #Dyn2
+    father = LYR_84 #Meurig7
+    mother = LYR_112 #Mari15
+    550.1.1 = {
+        birth = yes
+    }
+    574.1.1 = {
+        add_spouse = LYR_102 #Eirlys72
+    }
+}
+
+LYR_57 = {
+    name = "Ceredig63"
+    culture = "lyrathian"
+    faith = "jibai"
+    dynasty = LYRD2 #Dyn2
+    father = LYR_64 #Gareth8
+    mother = LYR_129 #Delyth20
+    555.1.1 = {
+        birth = yes
+    }
+    576.1.1 = {
+        add_spouse = LYR_171 #Elen86
+    }
+}
+
+LYR_58 = {
+    name = "Ceridwen172"
+    culture = "lyrathian"
+    faith = "jibai"
+    female = yes
+    dynasty = LYRD2 #Dyn2
+    father = LYR_56 #Ceredig55
+    mother = LYR_102 #Eirlys72
+    579.1.1 = {
+        birth = yes
+    }
+}
+
+LYR_59 = {
+    name = "Eira179"
+    culture = "lyrathian"
+    faith = "jibai"
+    female = yes
+    dynasty = LYRD2 #Dyn2
+    father = LYR_83 #Meurig57
+    mother = LYR_146 #Myfanwy78
+    570.1.1 = {
+        birth = yes
+    }
+    586.1.1 = {
+        add_spouse = LYR_306 #Cai329
+    }
+}
+
+LYR_6 = {
+    name = "Cai2"
+    culture = "lyrathian"
+    faith = "jibai"
+    dynasty = LYRD1 #Dyn1
+    father = LYR_20 #Llywarch1
+    515.1.1 = {
+        birth = yes
+    }
+    548.1.1 = {
+        add_spouse = LYR_80 #Mair9
+    }
+    576.1.1 = {
+        death = yes
+    }
+}
+
+LYR_60 = {
+    name = "Eirlys180"
+    culture = "lyrathian"
+    faith = "jibai"
+    female = yes
+    dynasty = LYRD2 #Dyn2
+    father = LYR_83 #Meurig57
+    mother = LYR_146 #Myfanwy78
+    571.1.1 = {
+        birth = yes
+    }
+    586.1.1 = {
+        add_spouse = LYR_109 #Madog205
+    }
+}
+
+LYR_61 = {
+    name = "Elen59"
+    culture = "lyrathian"
+    faith = "jibai"
+    female = yes
+    dynasty = LYRD2 #Dyn2
+    father = LYR_84 #Meurig7
+    mother = LYR_112 #Mari15
+    556.1.1 = {
+        birth = yes
+    }
+    573.1.1 = {
+        add_spouse = LYR_19 #Llyr47
+    }
+}
+
+LYR_62 = {
+    name = "Eleri60"
+    culture = "lyrathian"
+    faith = "jibai"
+    female = yes
+    dynasty = LYRD2 #Dyn2
+    father = LYR_64 #Gareth8
+    mother = LYR_129 #Delyth20
+    550.1.1 = {
+        birth = yes
+    }
+    573.1.1 = {
+        add_spouse = LYR_14 #Gareth129
+    }
+}
+
+LYR_63 = {
+    name = "Gareth182"
+    culture = "lyrathian"
+    faith = "jibai"
+    dynasty = LYRD2 #Dyn2
+    father = LYR_79 #Maelgwn62
+    mother = LYR_190 #Megan84
+    577.1.1 = {
+        birth = yes
+    }
+}
+
+LYR_64 = {
+    name = "Gareth8"
+    culture = "lyrathian"
+    faith = "jibai"
+    dynasty = LYRD2 #Dyn2
+    father = LYR_52 #Cadfan6
+    519.1.1 = {
+        birth = yes
+    }
+    535.1.1 = {
+        add_spouse = LYR_129 #Delyth20
+    }
+    569.1.1 = {
+        death = yes
+    }
+}
+
+LYR_65 = {
+    name = "Glesni181"
+    culture = "lyrathian"
+    faith = "jibai"
+    female = yes
+    dynasty = LYRD2 #Dyn2
+    father = LYR_83 #Meurig57
+    mother = LYR_146 #Myfanwy78
+    573.1.1 = {
+        birth = yes
+    }
+}
+
+LYR_66 = {
+    name = "Glesni189"
+    culture = "lyrathian"
+    faith = "jibai"
+    female = yes
+    dynasty = LYRD2 #Dyn2
+    father = LYR_75 #Hywel65
+    mother = LYR_217 #Fflur94
+    572.1.1 = {
+        birth = yes
+    }
+}
+
+LYR_67 = {
+    name = "Glesni61"
+    culture = "lyrathian"
+    faith = "jibai"
+    female = yes
+    dynasty = LYRD2 #Dyn2
+    father = LYR_64 #Gareth8
+    mother = LYR_129 #Delyth20
+    552.1.1 = {
+        birth = yes
+    }
+    574.1.1 = {
+        add_spouse = LYR_37 #Taliesin125
+    }
+}
+
+LYR_68 = {
+    name = "Gwen173"
+    culture = "lyrathian"
+    faith = "jibai"
+    female = yes
+    dynasty = LYRD2 #Dyn2
+    father = LYR_54 #Caradog56
+    mother = LYR_138 #Gwyneth82
+    577.1.1 = {
+        birth = yes
+    }
+}
+
+LYR_69 = {
+    name = "Gwen190"
+    culture = "lyrathian"
+    faith = "jibai"
+    female = yes
+    dynasty = LYRD2 #Dyn2
+    father = LYR_75 #Hywel65
+    mother = LYR_217 #Fflur94
+    574.1.1 = {
+        birth = yes
+    }
+}
+
+LYR_7 = {
+    name = "Caradog141"
+    culture = "lyrathian"
+    faith = "jibai"
+    dynasty = LYRD1 #Dyn1
+    father = LYR_14 #Gareth129
+    mother = LYR_62 #Eleri60
+    576.1.1 = {
+        birth = yes
+    }
+}
+
+LYR_70 = {
+    name = "Gwenllian10"
+    culture = "lyrathian"
+    faith = "jibai"
+    female = yes
+    dynasty = LYRD2 #Dyn2
+    father = LYR_52 #Cadfan6
+    525.1.1 = {
+        birth = yes
+    }
+    547.1.1 = {
+        add_spouse = LYR_42 #Tudor3
+    }
+    575.1.1 = {
+        death = yes
+    }
+}
+
+LYR_71 = {
+    name = "Gwenllian167"
+    culture = "lyrathian"
+    faith = "jibai"
+    female = yes
+    dynasty = LYRD2 #Dyn2
+    father = LYR_50 #Bryn139
+    mother = LYR_91 #Anwen68
+    578.1.1 = {
+        birth = yes
+    }
+}
+
+LYR_72 = {
+    name = "Gwenllian192"
+    culture = "lyrathian"
+    faith = "jibai"
+    female = yes
+    dynasty = LYRD2 #Dyn2
+    father = LYR_75 #Hywel65
+    mother = LYR_217 #Fflur94
+    577.1.1 = {
+        birth = yes
+    }
+}
+
+LYR_73 = {
+    name = "Gwenllian64"
+    culture = "lyrathian"
+    faith = "jibai"
+    female = yes
+    dynasty = LYRD2 #Dyn2
+    father = LYR_64 #Gareth8
+    mother = LYR_129 #Delyth20
+    557.1.1 = {
+        birth = yes
+    }
+    578.1.1 = {
+        add_spouse = LYR_41 #Tewdwr51
+    }
+}
+
+LYR_74 = {
+    name = "Heledd58"
+    culture = "lyrathian"
+    faith = "jibai"
+    female = yes
+    dynasty = LYRD2 #Dyn2
+    father = LYR_84 #Meurig7
+    mother = LYR_112 #Mari15
+    555.1.1 = {
+        birth = yes
+    }
+    578.1.1 = {
+        add_spouse = LYR_9 #Ceredig128
+    }
+}
+
+LYR_75 = {
+    name = "Hywel65"
+    culture = "lyrathian"
+    faith = "jibai"
+    dynasty = LYRD2 #Dyn2
+    father = LYR_64 #Gareth8
+    mother = LYR_129 #Delyth20
+    559.1.1 = {
+        birth = yes
+    }
+    571.1.1 = {
+        add_spouse = LYR_217 #Fflur94
+    }
+}
+
+LYR_76 = {
+    name = "Idris166"
+    culture = "lyrathian"
+    faith = "jibai"
+    dynasty = LYRD2 #Dyn2
+    father = LYR_50 #Bryn139
+    mother = LYR_91 #Anwen68
+    577.1.1 = {
+        birth = yes
+    }
+}
+
+LYR_77 = {
+    name = "Idris176"
+    culture = "lyrathian"
+    faith = "jibai"
+    dynasty = LYRD2 #Dyn2
+    father = LYR_54 #Caradog56
+    mother = LYR_138 #Gwyneth82
+    581.1.1 = {
+        birth = yes
+    }
+}
+
+LYR_78 = {
+    name = "Llywarch170"
+    culture = "lyrathian"
+    faith = "jibai"
+    dynasty = LYRD2 #Dyn2
+    father = LYR_56 #Ceredig55
+    mother = LYR_102 #Eirlys72
+    576.1.1 = {
+        birth = yes
+    }
+}
+
+LYR_79 = {
+    name = "Maelgwn62"
+    culture = "lyrathian"
+    faith = "jibai"
+    dynasty = LYRD2 #Dyn2
+    father = LYR_64 #Gareth8
+    mother = LYR_129 #Delyth20
+    554.1.1 = {
+        birth = yes
+    }
+    576.1.1 = {
+        add_spouse = LYR_190 #Megan84
+    }
+}
+
+LYR_8 = {
+    name = "Carys153"
+    culture = "lyrathian"
+    faith = "jibai"
+    female = yes
+    dynasty = LYRD1 #Dyn1
+    father = LYR_9 #Ceredig128
+    mother = LYR_74 #Heledd58
+    585.1.1 = {
+        birth = yes
+    }
+}
+
+LYR_80 = {
+    name = "Mair9"
+    culture = "lyrathian"
+    faith = "jibai"
+    female = yes
+    dynasty = LYRD2 #Dyn2
+    father = LYR_52 #Cadfan6
+    522.1.1 = {
+        birth = yes
+    }
+    548.1.1 = {
+        add_spouse = LYR_6 #Cai2
+    }
+    572.1.1 = {
+        death = yes
+    }
+}
+
+LYR_81 = {
+    name = "Maredudd178"
+    culture = "lyrathian"
+    faith = "jibai"
+    dynasty = LYRD2 #Dyn2
+    father = LYR_54 #Caradog56
+    mother = LYR_138 #Gwyneth82
+    584.1.1 = {
+        birth = yes
+    }
+}
+
+LYR_82 = {
+    name = "Mari193"
+    culture = "lyrathian"
+    faith = "jibai"
+    female = yes
+    dynasty = LYRD2 #Dyn2
+    father = LYR_75 #Hywel65
+    mother = LYR_217 #Fflur94
+    579.1.1 = {
+        birth = yes
+    }
+}
+
+LYR_83 = {
+    name = "Meurig57"
+    culture = "lyrathian"
+    faith = "jibai"
+    dynasty = LYRD2 #Dyn2
+    father = LYR_84 #Meurig7
+    mother = LYR_112 #Mari15
+    553.1.1 = {
+        birth = yes
+    }
+    569.1.1 = {
+        add_spouse = LYR_146 #Myfanwy78
+    }
+}
+
+LYR_84 = {
+    name = "Meurig7"
+    culture = "lyrathian"
+    faith = "jibai"
+    dynasty = LYRD2 #Dyn2
+    father = LYR_52 #Cadfan6
+    516.1.1 = {
+        birth = yes
+    }
+    545.1.1 = {
+        add_spouse = LYR_112 #Mari15
+    }
+    572.1.1 = {
+        death = yes
+    }
+}
+
+LYR_85 = {
+    name = "Morgan184"
+    culture = "lyrathian"
+    faith = "jibai"
+    dynasty = LYRD2 #Dyn2
+    father = LYR_79 #Maelgwn62
+    mother = LYR_190 #Megan84
+    580.1.1 = {
+        birth = yes
+    }
+}
+
+LYR_86 = {
+    name = "Olwen187"
+    culture = "lyrathian"
+    faith = "jibai"
+    female = yes
+    dynasty = LYRD2 #Dyn2
+    father = LYR_57 #Ceredig63
+    mother = LYR_171 #Elen86
+    579.1.1 = {
+        birth = yes
+    }
+}
+
+LYR_87 = {
+    name = "Rhydian169"
+    culture = "lyrathian"
+    faith = "jibai"
+    dynasty = LYRD2 #Dyn2
+    father = LYR_56 #Ceredig55
+    mother = LYR_102 #Eirlys72
+    575.1.1 = {
+        birth = yes
+    }
+}
+
+LYR_88 = {
+    name = "Tegan191"
+    culture = "lyrathian"
+    faith = "jibai"
+    female = yes
+    dynasty = LYRD2 #Dyn2
+    father = LYR_75 #Hywel65
+    mother = LYR_217 #Fflur94
+    575.1.1 = {
+        birth = yes
+    }
+}
+
+LYR_89 = {
+    name = "Aneirin203"
+    culture = "lyrathian"
+    faith = "jibai"
+    dynasty = LYRD3 #Dyn3
+    father = LYR_108 #Llywelyn69
+    mother = LYR_245 #Gwen105
+    578.1.1 = {
+        birth = yes
+    }
+}
+
+LYR_9 = {
+    name = "Ceredig128"
+    culture = "lyrathian"
+    faith = "jibai"
+    dynasty = LYRD1 #Dyn1
+    539.1.1 = {
+        birth = yes
+    }
+    578.1.1 = {
+        add_spouse = LYR_74 #Heledd58
+    }
+}
+
+LYR_90 = {
+    name = "Angharad14"
+    culture = "lyrathian"
+    faith = "jibai"
+    female = yes
+    dynasty = LYRD3 #Dyn3
+    father = LYR_94 #Bryn11
+    523.1.1 = {
+        birth = yes
+    }
+    544.1.1 = {
+        add_spouse = LYR_210 #Celyn27
+    }
+    577.1.1 = {
+        death = yes
+    }
+}
+
+LYR_91 = {
+    name = "Anwen68"
+    culture = "lyrathian"
+    faith = "jibai"
+    female = yes
+    dynasty = LYRD3 #Dyn3
+    father = LYR_120 #Urien12
+    mother = LYR_164 #Catrin25
+    553.1.1 = {
+        birth = yes
+    }
+    576.1.1 = {
+        add_spouse = LYR_50 #Bryn139
+    }
+}
+
+LYR_92 = {
+    name = "Bleddyn209"
+    culture = "lyrathian"
+    faith = "jibai"
+    dynasty = LYRD3 #Dyn3
+    father = LYR_98 #Dafydd73
+    mother = LYR_232 #Blodwen107
+    573.1.1 = {
+        birth = yes
+    }
+}
+
+LYR_93 = {
+    name = "Blodwen196"
+    culture = "lyrathian"
+    faith = "jibai"
+    female = yes
+    dynasty = LYRD3 #Dyn3
+    father = LYR_99 #Dylan126
+    mother = LYR_205 #Branwen98
+    576.1.1 = {
+        birth = yes
+    }
+}
+
+LYR_94 = {
+    name = "Bryn11"
+    culture = "lyrathian"
+    faith = "jibai"
+    dynasty = LYRD3 #Dyn3
+    482.1.1 = {
+        birth = yes
+    }
+    554.1.1 = {
+        death = yes
+    }
+}
+
+LYR_95 = {
+    name = "Bryn207"
+    culture = "lyrathian"
+    faith = "jibai"
+    dynasty = LYRD3 #Dyn3
+    father = LYR_96 #Celyn70
+    mother = LYR_237 #Eira106
+    571.1.1 = {
+        birth = yes
+    }
+    586.1.1 = {
+        add_spouse = LYR_149 #Siwan226
+    }
+}
+
+LYR_96 = {
+    name = "Celyn70"
+    culture = "lyrathian"
+    faith = "jibai"
+    dynasty = LYRD3 #Dyn3
+    father = LYR_116 #Rhodri13
+    mother = LYR_204 #Branwen30
+    552.1.1 = {
+        birth = yes
+    }
+    567.1.1 = {
+        add_spouse = LYR_237 #Eira106
+    }
+}
+
+LYR_97 = {
+    name = "Ceridwen66"
+    culture = "lyrathian"
+    faith = "jibai"
+    female = yes
+    dynasty = LYRD3 #Dyn3
+    father = LYR_120 #Urien12
+    mother = LYR_164 #Catrin25
+    550.1.1 = {
+        birth = yes
+    }
+    575.1.1 = {
+        add_spouse = LYR_10 #Eifion53
+    }
+}
+
+LYR_98 = {
+    name = "Dafydd73"
+    culture = "lyrathian"
+    faith = "jibai"
+    dynasty = LYRD3 #Dyn3
+    father = LYR_116 #Rhodri13
+    mother = LYR_204 #Branwen30
+    556.1.1 = {
+        birth = yes
+    }
+    570.1.1 = {
+        add_spouse = LYR_232 #Blodwen107
+    }
+}
+
+LYR_99 = {
+    name = "Dylan126"
+    culture = "lyrathian"
+    faith = "jibai"
+    dynasty = LYRD3 #Dyn3
+    540.1.1 = {
+        birth = yes
+    }
+    572.1.1 = {
+        add_spouse = LYR_205 #Branwen98
+    }
+}
+

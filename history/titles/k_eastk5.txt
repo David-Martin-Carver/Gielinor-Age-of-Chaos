@@ -1,0 +1,352 @@
+k_eastk5 = {
+	587.1.1 = { change_development_level = 8 }
+}
+
+d_duchy63 = {
+	587.1.1 = { change_development_level = 8 }
+	587.1.1 = { government = feudal_government }
+	587.1.1 = {
+		holder = BENE_714
+	}
+}
+
+c_401 = {
+	587.1.1 = { change_development_level = 8 }
+	587.1.1 = { government = feudal_government }
+	587.1.1 = {
+		holder = BENE_714
+	}
+}
+
+c_405 = {
+	587.1.1 = { change_development_level = 8 }
+	587.1.1 = { government = feudal_government }
+	587.1.1 = {
+		holder = BENE_714
+	}
+}
+
+c_404 = {
+	587.1.1 = { change_development_level = 8 }
+	587.1.1 = { government = feudal_government }
+	587.1.1 = {
+		liege = d_duchy63
+	}
+	587.1.1 = {
+		holder = BENE_703
+	}
+}
+
+c_407 = {
+	587.1.1 = { change_development_level = 8 }
+	587.1.1 = { government = feudal_government }
+	587.1.1 = {
+		liege = d_duchy63
+	}
+	587.1.1 = {
+		holder = BENE_742
+	}
+}
+
+c_406 = {
+	587.1.1 = { change_development_level = 8 }
+	587.1.1 = { government = feudal_government }
+	587.1.1 = {
+		liege = d_duchy63
+	}
+	587.1.1 = {
+		holder = BENE_742
+	}
+}
+
+c_402 = {
+	587.1.1 = { change_development_level = 8 }
+	587.1.1 = { government = feudal_government }
+	587.1.1 = {
+		liege = d_duchy63
+	}
+	587.1.1 = {
+		holder = BENE_798
+	}
+}
+
+c_403 = {
+	587.1.1 = { change_development_level = 8 }
+	587.1.1 = { government = feudal_government }
+	587.1.1 = {
+		liege = d_duchy63
+	}
+	587.1.1 = {
+		holder = BENE_798
+	}
+}
+
+d_duchy64 = {
+	587.1.1 = { change_development_level = 8 }
+	587.1.1 = { government = feudal_government }
+	587.1.1 = {
+		holder = BENE_63
+	}
+}
+
+c_408 = {
+	587.1.1 = { change_development_level = 8 }
+	587.1.1 = { government = feudal_government }
+	587.1.1 = {
+		holder = BENE_63
+	}
+}
+
+c_415 = {
+	587.1.1 = { change_development_level = 8 }
+	587.1.1 = { government = feudal_government }
+	587.1.1 = {
+		holder = BENE_63
+	}
+}
+
+c_414 = {
+	587.1.1 = { change_development_level = 8 }
+	587.1.1 = { government = feudal_government }
+	587.1.1 = {
+		liege = d_duchy64
+	}
+	587.1.1 = {
+		holder = BENE_776
+	}
+}
+
+c_411 = {
+	587.1.1 = { change_development_level = 8 }
+	587.1.1 = { government = feudal_government }
+	587.1.1 = {
+		liege = d_duchy64
+	}
+	587.1.1 = {
+		holder = BENE_749
+	}
+}
+
+c_410 = {
+	587.1.1 = { change_development_level = 8 }
+	587.1.1 = { government = feudal_government }
+	587.1.1 = {
+		liege = d_duchy64
+	}
+	587.1.1 = {
+		holder = BENE_749
+	}
+}
+
+c_409 = {
+	587.1.1 = { change_development_level = 8 }
+	587.1.1 = { government = feudal_government }
+	587.1.1 = {
+		liege = d_duchy64
+	}
+	587.1.1 = {
+		holder = BENE_101
+	}
+}
+
+c_412 = {
+	587.1.1 = { change_development_level = 8 }
+	587.1.1 = { government = feudal_government }
+	587.1.1 = {
+		liege = d_duchy64
+	}
+	587.1.1 = {
+		holder = BENE_105
+	}
+}
+
+c_413 = {
+	587.1.1 = { change_development_level = 8 }
+	587.1.1 = { government = feudal_government }
+	587.1.1 = {
+		liege = d_duchy64
+	}
+	587.1.1 = {
+		holder = BENE_105
+	}
+}
+
+d_duchy61a = {
+	587.1.1 = { change_development_level = 8 }
+	587.1.1 = { government = feudal_government }
+	587.1.1 = {
+		holder = BENE_151
+	}
+}
+
+c_399 = {
+	587.1.1 = { change_development_level = 8 }
+	587.1.1 = { government = feudal_government }
+	587.1.1 = {
+		holder = BENE_151
+	}
+}
+
+c_398 = {
+	587.1.1 = { change_development_level = 8 }
+	587.1.1 = { government = feudal_government }
+	587.1.1 = {
+		holder = BENE_151
+	}
+}
+
+c_397 = {
+	587.1.1 = { change_development_level = 8 }
+	587.1.1 = { government = feudal_government }
+	587.1.1 = {
+		liege = d_duchy61a
+	}
+	587.1.1 = {
+		holder = BENE_159
+	}
+}
+
+c_400 = {
+	587.1.1 = { change_development_level = 8 }
+	587.1.1 = { government = feudal_government }
+	587.1.1 = {
+		liege = d_duchy61a
+	}
+	587.1.1 = {
+		holder = BENE_168
+	}
+}
+
+c_520 = {
+	587.1.1 = { change_development_level = 8 }
+	587.1.1 = { government = feudal_government }
+	587.1.1 = {
+		liege = d_duchy61a
+	}
+	587.1.1 = {
+		holder = BENE_228
+	}
+}
+
+d_greyhollow = {
+	587.1.1 = { change_development_level = 8 }
+	587.1.1 = { government = feudal_government }
+	587.1.1 = {
+		holder = BENE_264
+	}
+}
+
+c_396 = {
+	587.1.1 = { change_development_level = 8 }
+	587.1.1 = { government = feudal_government }
+	587.1.1 = {
+		holder = BENE_264
+	}
+}
+
+c_394 = {
+	587.1.1 = { change_development_level = 8 }
+	587.1.1 = { government = feudal_government }
+	587.1.1 = {
+		holder = BENE_264
+	}
+}
+
+c_395 = {
+	587.1.1 = { change_development_level = 8 }
+	587.1.1 = { government = feudal_government }
+	587.1.1 = {
+		holder = BENE_264
+	}
+}
+
+c_527 = {
+	587.1.1 = { change_development_level = 8 }
+	587.1.1 = { government = feudal_government }
+	587.1.1 = {
+		liege = d_greyhollow
+	}
+	587.1.1 = {
+		holder = BENE_319
+	}
+}
+
+c_526 = {
+	587.1.1 = { change_development_level = 8 }
+	587.1.1 = { government = feudal_government }
+	587.1.1 = {
+		holder = BENE_314
+	}
+}
+
+c_525 = {
+	587.1.1 = { change_development_level = 8 }
+	587.1.1 = { government = feudal_government }
+	587.1.1 = {
+		holder = BENE_314
+	}
+}
+
+c_522 = {
+	587.1.1 = { change_development_level = 8 }
+	587.1.1 = { government = feudal_government }
+	587.1.1 = {
+		holder = BENE_353
+	}
+}
+
+c_521 = {
+	587.1.1 = { change_development_level = 8 }
+	587.1.1 = { government = feudal_government }
+	587.1.1 = {
+		holder = BENE_353
+	}
+}
+
+c_523 = {
+	587.1.1 = { change_development_level = 8 }
+	587.1.1 = { government = feudal_government }
+	587.1.1 = {
+		holder = BENE_353
+	}
+}
+
+c_524 = {
+	587.1.1 = { change_development_level = 8 }
+	587.1.1 = { government = feudal_government }
+	587.1.1 = {
+		holder = BENE_363
+	}
+}
+
+c_517 = {
+	587.1.1 = { change_development_level = 8 }
+	587.1.1 = { government = feudal_government }
+	587.1.1 = {
+		holder = BENE_363
+	}
+}
+
+c_514 = {
+	587.1.1 = { change_development_level = 8 }
+	587.1.1 = { government = feudal_government }
+	587.1.1 = {
+		holder = BENE_395
+	}
+}
+
+c_518 = {
+	587.1.1 = { change_development_level = 8 }
+	587.1.1 = { government = feudal_government }
+	587.1.1 = {
+		holder = BENE_395
+	}
+}
+
+c_519 = {
+	587.1.1 = { change_development_level = 8 }
+	587.1.1 = { government = feudal_government }
+	587.1.1 = {
+		holder = BENE_395
+	}
+}

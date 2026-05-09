@@ -5,8 +5,9 @@
 	generated_content=yes
 	layer="tree_high_layer"
 	pdxmesh="tree_sakura_01_mesh"
-	count=0
-}
+	count=1
+	transform="4775.269531 0.000000 3366.626709 0.000000 0.059365 0.000000 0.998236 1.000000 1.000000 1.000000
+"}
 object={
 	name="tree_sakura_forest_generator_1"
 	render_pass=Map
@@ -14,8 +15,12 @@ object={
 	generated_content=yes
 	layer="tree_high_layer"
 	pdxmesh="tree_sakura_02_mesh"
-	count=0
-}
+	count=4
+	transform="4790.793945 0.000000 3347.713867 0.000000 0.986632 0.000000 0.162966 1.000000 1.000000 1.000000
+4789.534668 0.000000 3342.968506 0.000000 0.961943 0.000000 -0.273250 1.000000 1.000000 1.000000
+4786.476562 0.000000 3345.916992 0.000000 0.897280 0.000000 0.441461 1.000000 1.000000 1.000000
+4772.704590 0.000000 3369.466797 0.000000 0.999855 0.000000 -0.017013 1.000000 1.000000 1.000000
+"}
 object={
 	name="tree_sakura_forest_generator_2"
 	render_pass=Map

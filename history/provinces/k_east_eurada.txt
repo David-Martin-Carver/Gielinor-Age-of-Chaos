@@ -2,150 +2,150 @@
 
 ##d_duchy97 ###################################
 ###c_663
-844 = {	#placeholder
+2491 = {	#placeholder
 	culture = arbundian
 	religion = grevetican
 	holding = castle_holding
 }
-845 = {	#placeholder
+2492 = {	#placeholder
 	holding = city_holding
 }
-846 = {	#placeholder
+2493 = {	#placeholder
 	holding = church_holding
 }
 ###c_664
-847 = {	#placeholder
+2494 = {	#placeholder
 	culture = arbundian
 	religion = grevetican
 	holding = castle_holding
 }
-848 = {	#placeholder
+2495 = {	#placeholder
 	holding = city_holding
 }
-849 = {	#placeholder
+2496 = {	#placeholder
 	holding = none
 }
 ###c_665
-855 = {	#placeholder
+2502 = {	#placeholder
 	culture = arbundian
 	religion = grevetican
 	holding = castle_holding
 }
-854 = {	#placeholder
+2501 = {	#placeholder
 	holding = city_holding
 }
-853 = {	#placeholder
+2500 = {	#placeholder
 	holding = church_holding
 }
-852 = {	#placeholder
+2499 = {	#placeholder
 	holding = none
 }
 ###c_666
-856 = {	#placeholder
+2503 = {	#placeholder
 	culture = arbundian
 	religion = grevetican
 	holding = castle_holding
 }
-857 = {	#placeholder
+2504 = {	#placeholder
 	holding = city_holding
 }
-858 = {	#placeholder
+2505 = {	#placeholder
 	holding = none
 }
 ###c_667
-861 = {	#placeholder
+2508 = {	#placeholder
 	culture = arbundian
 	religion = grevetican
 	holding = castle_holding
 }
-860 = {	#placeholder
+2507 = {	#placeholder
 	holding = city_holding
 }
-859 = {	#placeholder
+2506 = {	#placeholder
 	holding = church_holding
 }
 ###c_668
-850 = {	#placeholder
+2497 = {	#placeholder
 	culture = arbundian
 	religion = grevetican
 	holding = castle_holding
 }
-851 = {	#placeholder
+2498 = {	#placeholder
 	holding = none
 }
-879 = {	#placeholder
+2526 = {	#placeholder
 	holding = church_holding
 }
 
 ##d_duchy98 ###################################
 ###c_669
-868 = {	#placeholder
+2515 = {	#placeholder
 	culture = arbundian
 	religion = grevetican
 	holding = castle_holding
 }
-870 = {	#placeholder
+2517 = {	#placeholder
 	holding = city_holding
 }
-869 = {	#placeholder
+2516 = {	#placeholder
 	holding = church_holding
 }
 ###c_670
-865 = {	#placeholder
+2512 = {	#placeholder
 	culture = arbundian
 	religion = grevetican
 	holding = castle_holding
 }
-866 = {	#placeholder
+2513 = {	#placeholder
 	holding = city_holding
 }
-867 = {	#placeholder
+2514 = {	#placeholder
 	holding = none
 }
 ###c_671
-862 = {	#placeholder
+2509 = {	#placeholder
 	culture = arbundian
 	religion = grevetican
 	holding = castle_holding
 }
-863 = {	#placeholder
+2510 = {	#placeholder
 	holding = city_holding
 }
-864 = {	#placeholder
+2511 = {	#placeholder
 	holding = church_holding
 }
 ###c_672
-872 = {	#placeholder
+2519 = {	#placeholder
 	culture = arbundian
 	religion = grevetican
 	holding = castle_holding
 }
-871 = {	#placeholder
+2518 = {	#placeholder
 	holding = none
 }
-873 = {	#placeholder
+2520 = {	#placeholder
 	holding = church_holding
 }
 ###c_673
-874 = {	#placeholder
+2521 = {	#placeholder
 	culture = arbundian
 	religion = grevetican
 	holding = castle_holding
 }
-875 = {	#placeholder
+2522 = {	#placeholder
 	holding = city_holding
 }
 ###c_674
-876 = {	#placeholder
+2523 = {	#placeholder
 	culture = arbundian
 	religion = grevetican
 	holding = castle_holding
 }
-877 = {	#placeholder
+2524 = {	#placeholder
 	holding = city_holding
 }
 ###c_675
-878 = {	#placeholder
+2525 = {	#placeholder
 	culture = arbundian
 	religion = grevetican
 	holding = church_holding

@@ -1,0 +1,644 @@
+#k_king8
+##d_duchy29 ###################################
+###c_160
+615 = {	#placeholder
+	culture = orthanian
+	religion = halvran
+	holding = tribal_holding
+}
+614 = {	#placeholder
+	holding = none
+}
+613 = {	#placeholder
+	holding = none
+}
+612 = {	#placeholder
+	holding = none
+}
+###c_161
+616 = {	#placeholder
+	culture = orthanian
+	religion = halvran
+	holding = tribal_holding
+}
+618 = {	#placeholder
+	holding = none
+}
+617 = {	#placeholder
+	holding = none
+}
+###c_162
+620 = {	#placeholder
+	culture = orthanian
+	religion = halvran
+	holding = tribal_holding
+}
+621 = {	#placeholder
+	holding = none
+}
+619 = {	#placeholder
+	holding = none
+}
+###c_163
+610 = {	#placeholder
+	culture = orthanian
+	religion = halvran
+	holding = tribal_holding
+}
+611 = {	#placeholder
+	holding = none
+}
+609 = {	#placeholder
+	holding = none
+}
+###c_164
+602 = {	#placeholder
+	culture = orthanian
+	religion = halvran
+	holding = tribal_holding
+}
+604 = {	#placeholder
+	holding = none
+}
+603 = {	#placeholder
+	holding = church_holding
+}
+###c_165
+606 = {	#placeholder
+	culture = orthanian
+	religion = halvran
+	holding = tribal_holding
+}
+605 = {	#placeholder
+	holding = none
+}
+607 = {	#placeholder
+	holding = none
+}
+608 = {	#placeholder
+	holding = none
+}
+###c_166
+622 = {	#placeholder
+	culture = orthanian
+	religion = halvran
+	holding = tribal_holding
+}
+623 = {	#placeholder
+	holding = none
+}
+624 = {	#placeholder
+	holding = church_holding
+}
+###c_167
+627 = {	#placeholder
+	culture = orthanian
+	religion = halvran
+	holding = tribal_holding
+}
+626 = {	#placeholder
+	holding = none
+}
+625 = {	#placeholder
+	holding = church_holding
+}
+##d_duchy30 ###################################
+###c_168
+638 = {	#placeholder
+	culture = orthanian
+	religion = halvran
+	holding = tribal_holding
+}
+639 = {	#placeholder
+	holding = none
+}
+637 = {	#placeholder
+	holding = none
+}
+640 = {	#placeholder
+	holding = none
+}
+###c_169
+629 = {	#placeholder
+	culture = orthanian
+	religion = halvran
+	holding = tribal_holding
+}
+630 = {	#placeholder
+	holding = none
+}
+628 = {	#placeholder
+	holding = church_holding
+}
+###c_170
+632 = {	#placeholder
+	culture = orthanian
+	religion = halvran
+	holding = tribal_holding
+}
+631 = {	#placeholder
+	holding = none
+}
+633 = {	#placeholder
+	holding = church_holding
+}
+###c_171
+635 = {	#placeholder
+	culture = orthanian
+	religion = halvran
+	holding = tribal_holding
+}
+634 = {	#placeholder
+	holding = none
+}
+636 = {	#placeholder
+	holding = none
+}
+###c_172
+645 = {	#placeholder
+	culture = orthanian
+	religion = halvran
+	holding = tribal_holding
+}
+646 = {	#placeholder
+	holding = none
+}
+648 = {	#placeholder
+	holding = none
+}
+647 = {	#placeholder
+	holding = none
+}
+###c_173
+649 = {	#placeholder
+	culture = orthanian
+	religion = halvran
+	holding = tribal_holding
+}
+651 = {	#placeholder
+	holding = none
+}
+650 = {	#placeholder
+	holding = none
+}
+652 = {	#placeholder
+	holding = none
+}
+###c_174
+641 = {	#placeholder
+	culture = orthanian
+	religion = halvran
+	holding = tribal_holding
+}
+642 = {	#placeholder
+	holding = none
+}
+643 = {	#placeholder
+	holding = none
+}
+644 = {	#placeholder
+	holding = none
+}
+##d_duchy31 ###################################
+###c_175
+659 = {	#placeholder
+	culture = orthanian
+	religion = halvran
+	holding = tribal_holding
+}
+661 = {	#placeholder
+	holding = none
+}
+660 = {	#placeholder
+	holding = none
+}
+658 = {	#placeholder
+	holding = none
+}
+657 = {	#placeholder
+	holding = none
+}
+###c_176
+653 = {	#placeholder
+	culture = orthanian
+	religion = halvran
+	holding = tribal_holding
+}
+655 = {	#placeholder
+	holding = none
+}
+654 = {	#placeholder
+	holding = none
+}
+656 = {	#placeholder
+	holding = none
+}
+###c_177
+664 = {	#placeholder
+	culture = orthanian
+	religion = halvran
+	holding = tribal_holding
+}
+663 = {	#placeholder
+	holding = none
+}
+665 = {	#placeholder
+	holding = church_holding
+}
+662 = {	#placeholder
+	holding = none
+}
+###c_178
+666 = {	#placeholder
+	culture = orthanian
+	religion = halvran
+	holding = tribal_holding
+}
+668 = {	#placeholder
+	holding = none
+}
+667 = {	#placeholder
+	holding = none
+}
+669 = {	#placeholder
+	holding = none
+}
+###c_179
+673 = {	#placeholder
+	culture = orthanian
+	religion = halvran
+	holding = tribal_holding
+}
+672 = {	#placeholder
+	holding = none
+}
+671 = {	#placeholder
+	holding = none
+}
+670 = {	#placeholder
+	holding = none
+}
+###c_180
+677 = {	#placeholder
+	culture = orthanian
+	religion = halvran
+	holding = tribal_holding
+}
+675 = {	#placeholder
+	holding = none
+}
+674 = {	#placeholder
+	holding = church_holding
+}
+676 = {	#placeholder
+	holding = none
+}
+###c_181
+678 = {	#placeholder
+	culture = orthanian
+	religion = halvran
+	holding = tribal_holding
+}
+679 = {	#placeholder
+	holding = none
+}
+680 = {	#placeholder
+	holding = none
+}
+##d_duchy32 ###################################
+###c_182
+689 = {	#placeholder
+	culture = elruan
+	religion = halvran
+	holding = tribal_holding
+}
+690 = {	#placeholder
+	holding = none
+}
+691 = {	#placeholder
+	holding = church_holding
+}
+692 = {	#placeholder
+	holding = none
+}
+###c_183
+687 = {	#placeholder
+	culture = elruan
+	religion = halvran
+	holding = tribal_holding
+}
+685 = {	#placeholder
+	holding = none
+}
+688 = {	#placeholder
+	holding = none
+}
+686 = {	#placeholder
+	holding = none
+}
+###c_184
+681 = {	#placeholder
+	culture = elruan
+	religion = halvran
+	holding = tribal_holding
+}
+682 = {	#placeholder
+	holding = none
+}
+683 = {	#placeholder
+	holding = none
+}
+684 = {	#placeholder
+	holding = none
+}
+###c_185
+693 = {	#placeholder
+	culture = elruan
+	religion = halvran
+	holding = tribal_holding
+}
+694 = {	#placeholder
+	holding = none
+}
+695 = {	#placeholder
+	holding = church_holding
+}
+696 = {	#placeholder
+	holding = none
+}
+###c_186
+703 = {	#placeholder
+	culture = elruan
+	religion = halvran
+	holding = tribal_holding
+}
+702 = {	#placeholder
+	holding = none
+}
+704 = {	#placeholder
+	holding = none
+}
+701 = {	#placeholder
+	holding = none
+}
+###c_187
+705 = {	#placeholder
+	culture = elruan
+	religion = halvran
+	holding = tribal_holding
+}
+706 = {	#placeholder
+	holding = none
+}
+707 = {	#placeholder
+	holding = none
+}
+708 = {	#placeholder
+	holding = none
+}
+###c_188
+700 = {	#placeholder
+	culture = elruan
+	religion = halvran
+	holding = tribal_holding
+}
+698 = {	#placeholder
+	holding = none
+}
+697 = {	#placeholder
+	holding = none
+}
+699 = {	#placeholder
+	holding = none
+}
+##d_duchy33 ###################################
+###c_189
+715 = {	#placeholder
+	culture = elruan
+	religion = halvran
+	holding = tribal_holding
+}
+714 = {	#placeholder
+	holding = none
+}
+716 = {	#placeholder
+	holding = none
+}
+713 = {	#placeholder
+	holding = none
+}
+###c_190
+717 = {	#placeholder
+	culture = elruan
+	religion = halvran
+	holding = tribal_holding
+}
+718 = {	#placeholder
+	holding = none
+}
+720 = {	#placeholder
+	holding = church_holding
+}
+719 = {	#placeholder
+	holding = none
+}
+###c_191
+738 = {	#placeholder
+	culture = elruan
+	religion = halvran
+	holding = tribal_holding
+}
+737 = {	#placeholder
+	holding = none
+}
+736 = {	#placeholder
+	holding = none
+}
+###c_192
+731 = {	#placeholder
+	culture = elruan
+	religion = halvran
+	holding = tribal_holding
+}
+730 = {	#placeholder
+	holding = none
+}
+735 = {	#placeholder
+	holding = church_holding
+}
+729 = {	#placeholder
+	holding = none
+}
+###c_193
+725 = {	#placeholder
+	culture = elruan
+	religion = halvran
+	holding = tribal_holding
+}
+726 = {	#placeholder
+	holding = none
+}
+727 = {	#placeholder
+	holding = none
+}
+728 = {	#placeholder
+	holding = none
+}
+###c_194
+724 = {	#placeholder
+	culture = elruan
+	religion = halvran
+	holding = tribal_holding
+}
+721 = {	#placeholder
+	holding = none
+}
+723 = {	#placeholder
+	holding = none
+}
+722 = {	#placeholder
+	holding = none
+}
+###c_195
+709 = {	#placeholder
+	culture = elruan
+	religion = halvran
+	holding = tribal_holding
+}
+710 = {	#placeholder
+	holding = none
+}
+711 = {	#placeholder
+	holding = none
+}
+712 = {	#placeholder
+	holding = none
+}
+##d_duchy34 ###################################
+###c_196
+746 = {	#placeholder
+	culture = elruan
+	religion = halvran
+	holding = tribal_holding
+}
+747 = {	#placeholder
+	holding = none
+}
+745 = {	#placeholder
+	holding = none
+}
+748 = {	#placeholder
+	holding = none
+}
+###c_197
+734 = {	#placeholder
+	culture = elruan
+	religion = halvran
+	holding = tribal_holding
+}
+732 = {	#placeholder
+	holding = none
+}
+733 = {	#placeholder
+	holding = none
+}
+###c_198
+742 = {	#placeholder
+	culture = elruan
+	religion = halvran
+	holding = tribal_holding
+}
+744 = {	#placeholder
+	holding = none
+}
+743 = {	#placeholder
+	holding = none
+}
+###c_199
+739 = {	#placeholder
+	culture = elruan
+	religion = halvran
+	holding = tribal_holding
+}
+740 = {	#placeholder
+	holding = none
+}
+741 = {	#placeholder
+	holding = none
+}
+###c_200
+751 = {	#placeholder
+	culture = elruan
+	religion = halvran
+	holding = tribal_holding
+}
+750 = {	#placeholder
+	holding = none
+}
+752 = {	#placeholder
+	holding = none
+}
+749 = {	#placeholder
+	holding = none
+}
+###c_201
+754 = {	#placeholder
+	culture = elruan
+	religion = halvran
+	holding = tribal_holding
+}
+753 = {	#placeholder
+	holding = none
+}
+755 = {	#placeholder
+	holding = none
+}
+756 = {	#placeholder
+	holding = none
+}
+###c_202
+759 = {	#placeholder
+	culture = elruan
+	religion = halvran
+	holding = tribal_holding
+}
+758 = {	#placeholder
+	holding = none
+}
+757 = {	#placeholder
+	holding = none
+}
+##d_duchy84 ###################################
+###c_585
+2250 = {
+	culture = arbundian
+	religion = grevetican
+	holding = tribal_holding
+}
+2249 = {
+	holding = none
+}
+2251 = {
+	holding = none
+}
+###c_586
+2254 = {
+	culture = arbundian
+	religion = grevetican
+	holding = tribal_holding
+}
+2253 = {
+	holding = none
+}
+2252 = {
+	holding = none
+}
+###c_587
+2255 = {
+	culture = arbundian
+	religion = grevetican
+	holding = tribal_holding
+}
+2256 = {
+	holding = none
+}
