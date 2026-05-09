@@ -1,0 +1,51 @@
+luthani = {
+	color = { 0.8 0.3 0.3 }
+	
+	ethos = ethos_bellicose
+	heritage = heritage_eastern_abrundian
+	language = language_arbundian
+	martial_custom = martial_custom_male_only
+	traditions = {
+		tradition_legalistic
+		tradition_maritime_mercantilism
+		tradition_life_is_just_a_joke
+		tradition_xenophilic
+	}
+	
+	name_list = name_list_arbundian
+	
+	coa_gfx = { english_coa_gfx western_coa_gfx }
+	building_gfx = { mediterranean_building_gfx }
+	clothing_gfx = { byzantine_clothing_gfx western_clothing_gfx }
+	unit_gfx = { western_unit_gfx }
+	
+	ethnicities = {
+		100 = arbundian
+	}
+}
+
+dunilain = {
+	color = { 0.75 0.25 0.25 }
+	
+	ethos = ethos_bureaucratic
+	heritage = heritage_eastern_abrundian
+	language = language_arbundian
+	martial_custom = martial_custom_male_only
+	traditions = {
+		tradition_zealous_people
+		tradition_hard_working
+		tradition_chivalry
+		tradition_ep2_avid_falconers
+	}
+	
+	name_list = name_list_arbundian
+	
+	coa_gfx = { english_coa_gfx western_coa_gfx }
+	building_gfx = { mediterranean_building_gfx }
+	clothing_gfx = { byzantine_clothing_gfx western_clothing_gfx }
+	unit_gfx = { western_unit_gfx }
+	
+	ethnicities = {
+		100 = arbundian
+	}
+}

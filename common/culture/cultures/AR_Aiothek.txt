@@ -1,0 +1,102 @@
+﻿aiothek = {
+	color = { 0.5 0.7 0.2 }
+	
+	ethos = ethos_communal
+	heritage = heritage_thekari
+	language = language_thekari
+	martial_custom = martial_custom_male_only
+	traditions = {
+		tradition_tower_builders
+		tradition_zalkot_harvesting
+		tradition_wetlanders
+		tradition_ce1_ritual_washing
+		tradition_seafaring
+		
+	}
+	
+	name_list = name_list_thekari
+	
+	coa_gfx = { swedish_coa_gfx }
+	building_gfx = { norse_building_gfx }
+	clothing_gfx = { fp1_norse_clothing_gfx northern_clothing_gfx }
+	unit_gfx = { northern_unit_gfx }
+	
+	ethnicities = {
+		100 = southerner
+	}
+}
+
+kathek = {
+	color = { 0.9 0.7 0.2 }
+
+	ethos = ethos_communal
+	heritage = heritage_thekari
+	language = language_thekari
+	martial_custom = martial_custom_male_only
+	traditions = {
+		tradition_tower_builders
+		tradition_wetlanders
+		tradition_ce1_ritual_washing
+	}
+
+	name_list = name_list_thekari
+
+	coa_gfx = { swedish_coa_gfx }
+	building_gfx = { norse_building_gfx }
+	clothing_gfx = { fp1_norse_clothing_gfx northern_clothing_gfx }
+	unit_gfx = { northern_unit_gfx }
+
+	ethnicities = {
+		100 = southerner
+	}
+}
+
+barrinian = {
+	color = { 0.5 0.4 0.2 }
+
+	ethos = ethos_communal
+	heritage = heritage_thekari
+	language = language_arbundian
+	martial_custom = martial_custom_male_only
+	traditions = {
+		tradition_tower_builders
+		tradition_wetlanders
+		tradition_ce1_ritual_washing
+	}
+
+	name_list = name_list_arbundian
+
+	coa_gfx = { swedish_coa_gfx }
+	building_gfx = { norse_building_gfx }
+	clothing_gfx = { fp1_norse_clothing_gfx northern_clothing_gfx }
+	unit_gfx = { northern_unit_gfx }
+
+	ethnicities = {
+		100 = southerner
+	}
+}
+
+sarnithek = {
+	color = { 0.4 0.2 0.8 }
+
+	ethos = ethos_communal
+	heritage = heritage_thekari
+	language = language_thekari
+	martial_custom = martial_custom_male_only
+	traditions = {
+		tradition_tower_builders
+		tradition_wetlanders
+		tradition_ce1_ritual_washing
+	}
+
+	name_list = name_list_thekari
+
+	coa_gfx = { swedish_coa_gfx }
+	building_gfx = { norse_building_gfx }
+	clothing_gfx = { fp1_norse_clothing_gfx northern_clothing_gfx }
+	unit_gfx = { northern_unit_gfx }
+
+	ethnicities = {
+		100 = southerner
+	}
+}

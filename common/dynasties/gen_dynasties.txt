@@ -1,0 +1,4 @@
+dynn_gen_1 = {
+	name = dynn_gen_1
+	culture = culture_R53G73B104
+}

@@ -1,0 +1,426 @@
+namespace = zalkot
+zalkot.0001 = {	# Search for a Zalkot seer
+    type = character_event
+    title = magic.0101.t
+    desc = replace
+    theme = default
+    left_portrait = {
+        character = cp:councillor_chancellor
+        animation = flirtation
+    }
+    right_portrait = scope:high_skill_option
+    lower_left_portrait = scope:low_skill_option
+    lower_right_portrait = scope:excellent_skill_option
+
+    trigger = { exists = capital_province } 
+
+    immediate = {
+        hidden_effect = {
+            cp:councillor_chancellor = {
+                save_scope_as = chancellor
+            }
+
+            if = {
+                limit = { is_ai = no }
+                create_character = {
+                    location = root.capital_province
+                    gender_female_chance = 50
+                    template_character = root
+                    random_traits_list = {
+                        ar_zalkot_seer_2 = { weight = { base = 10 } }
+                        ar_zalkot_seer_3 = { weight = { base = 25 } }
+                        ar_zalkot_seer_4 = { weight = { base = 15 } }
+                    }
+                    random_traits_list = {
+                        education_learning_3 = { weight = { base = 10 } }
+                        education_learning_4 = { weight = { base = 5 } }
+                        education_learning_5 = { weight = { base = 2 } }
+                    }
+                    random_traits = yes
+                    age = { 18 40 }
+                    save_scope_as = excellent_skill_option
+                }
+                create_character = {
+                    location = root.capital_province
+                    gender_female_chance = 50
+                    template_character = root
+                    random_traits_list = {
+                        ar_zalkot_seer_2 = { weight = { base = 10 } }
+                        ar_zalkot_seer_3 = { weight = { base = 25 } }
+                        ar_zalkot_seer_4 = { weight = { base = 15 } }
+                    }
+                    random_traits_list = {
+                        education_learning_3 = { weight = { base = 10 } }
+                        education_learning_4 = { weight = { base = 5 } }
+                        education_learning_5 = { weight = { base = 2 } }
+                    }
+                    random_traits = yes
+                    age = { 18 40 }
+                    save_scope_as = high_skill_option
+                }
+                create_character = {
+                    location = root.capital_province
+                    gender_female_chance = 50
+                    template_character = root
+                    random_traits_list = {
+                        ar_zalkot_seer_2 = { weight = { base = 10 } }
+                        ar_zalkot_seer_3 = { weight = { base = 25 } }
+                        ar_zalkot_seer_4 = { weight = { base = 15 } }
+                    }
+                    random_traits_list = {
+                        education_learning_3 = { weight = { base = 10 } }
+                        education_learning_4 = { weight = { base = 5 } }
+                        education_learning_5 = { weight = { base = 2 } }
+                    }
+                    random_traits = yes
+                    age = { 18 40 }
+                    save_scope_as = high_skill_option
+                }
+                create_character = {
+                    location = root.capital_province
+                    gender_female_chance = 50
+                    template_character = root
+                    random_traits_list = {
+                        ar_zalkot_seer_1 = { weight = { base = 20 } }
+                        ar_zalkot_seer_2 = { weight = { base = 20 } }
+                        ar_zalkot_seer_3 = { weight = { base = 10 } }
+                    }
+                    random_traits_list = {
+                        education_learning_1 = { weight = { base = 10 } }
+                        education_learning_2 = { weight = { base = 5 } }
+                        education_learning_3 = { weight = { base = 2 } }
+                    }
+                    random_traits = yes
+                    age = { 18 40 }
+                    save_scope_as = low_skill_option
+                }
+            }
+            else = { #Ai get someone simple
+                create_character = {
+                    location = root.capital_province
+                    gender_female_chance = 50
+                    template_character = root
+                    random_traits_list = {
+                        ar_zalkot_seer_1 = { weight = { base = 20 } }
+                        ar_zalkot_seer_2 = { weight = { base = 20 } }
+                        ar_zalkot_seer_3 = { weight = { base = 10 } }
+                    }
+                    random_traits_list = {
+                        education_learning_1 = { weight = { base = 10 } }
+                        education_learning_2 = { weight = { base = 5 } }
+                        education_learning_3 = { weight = { base = 2 } }
+                    }
+                    random_traits = yes
+                    age = { 18 40 }
+                    save_scope_as = low_skill_option
+                }
+            }
+        }
+    }
+
+    #Amazing skill
+    option = {
+        trigger = {
+            exists = scope:excellent_skill_option
+            is_landed = yes #extra check to make sure they haven't lost their status
+        }
+        name = magic.0101.c
+        trait = education_learning_4
+        trait = education_learning_5
+        skill = learning
+
+        pay_short_term_gold = {
+            target = scope:excellent_skill_option
+            gold = high_skill_court_physician_cost
+        }
+        set_court_zalkot_seer_effect = {
+            EMPLOYER = root
+            SEER = scope:excellent_skill_option
+            
+        }
+
+        ai_chance = {
+            factor = 500
+            modifier = {
+                short_term_gold < medium_gold_value
+                factor = 0
+            }
+        }
+    }
+
+    #High skill
+    option = {
+        trigger = {
+            is_landed = yes #extra check to make sure they haven't lost their status
+            exists = scope:high_skill_option #Doesn't exists for AI
+        }
+        name = magic.0101.b
+
+        pay_short_term_gold = {
+            target = scope:high_skill_option
+            gold = high_skill_court_physician_cost
+        }
+
+
+
+        set_court_zalkot_seer_effect = {
+            EMPLOYER = root
+            SEER = scope:high_skill_option
+        }
+
+        ai_chance = {
+            factor = 100
+            modifier = {
+                short_term_gold < medium_gold_value
+                factor = 0
+            }
+        }
+    }
+
+    #Low
+    option = {
+        trigger = {
+            is_landed = yes #extra check to make sure they haven't lost their status
+        }
+        name = magic.0101.a
+
+        set_court_zalkot_seer_effect = {
+            EMPLOYER = root
+            SEER = scope:low_skill_option
+        }
+        if = {
+            limit = {
+                OR = {
+                    is_ai = no
+                    short_term_gold >= low_skill_court_physician_cost #Because AI would never have enough money
+                }
+            }
+            pay_short_term_gold = {
+                target = scope:low_skill_option
+                gold = low_skill_court_physician_cost
+            }
+        }
+
+        ai_chance = {
+            factor = 100
+        }
+    }
+
+    #None...
+    option = {
+        name = magic.0101.d
+
+        ai_chance = {
+            factor = 1
+        }
+    }
+}
+
+##Prophecy type selection
+zalkot.0002 = { 
+    title = zalkot_event.t.0002
+    type = character_event
+    theme = default
+    desc = zalkot_event.d.0002
+    override_background = throne_room
+    right_portrait = {
+        character = root.court_position:zalkot_seer_court_position
+
+        animation = thinking
+    }
+    
+    
+    trigger = {
+        
+    }
+
+
+    immediate = {
+
+    }
+
+
+    option = {
+        name = zalkot_event_0002.a
+        custom_tooltip = zalkot.0002.a.tt
+        hidden_effect = {
+            add_character_flag = martial_zalkot_prophecy
+            trigger_event = {
+                id = zalkot.0003 
+                days = 7
+            }
+        }
+    }
+    option = {
+        name = zalkot_event_0002.b
+        custom_tooltip = zalkot.0002.b.tt
+        hidden_effect = {
+            add_character_flag = stewardship_zalkot_prophecy
+            trigger_event = {
+                id = zalkot.0003
+                days = 7
+            }
+        }
+    }
+    option = {
+        name = zalkot_event_0002.c
+        custom_tooltip = zalkot.0002.c.tt
+        hidden_effect = {
+            remove_decision_cooldown = zalkot_prophecy_ritual_decision
+        }
+    }
+    
+}
+
+##Prophecy selector
+zalkot.0003 = { #
+    title = zalkot_event.t.0003
+    type = character_event
+    theme = diplomacy
+    override_background = sitting_room
+
+    desc = zalkot_event.d.0003
+
+    immediate = {
+        if = { 
+            limit = { has_character_flag = martial_zalkot_prophecy }
+            random_list = {
+                65 = {
+                    random_list = {
+                        30 = {
+                            add_character_modifier = {
+                                modifier = zalkot_prophecy_martial_good1
+                                years = 10
+                            }
+                        }
+                        25 = {
+                            add_character_modifier = {
+                                modifier = zalkot_prophecy_martial_good2
+                                years = 10
+                            }
+                        }
+                        25= {
+                            add_character_modifier = {
+                                modifier = zalkot_prophecy_martial_good3
+                                years = 10
+                            }
+                        }
+                        20 = {
+                            add_character_modifier = {
+                                modifier = zalkot_prophecy_martial_good4
+                                years = 10
+                            }
+                        }
+                    }
+                }
+                35 = {
+                    random_list = {
+                        30 = {
+                            add_character_modifier = {
+                                modifier = zalkot_prophecy_martial_bad1
+                                years = 10
+                            }
+                        }
+                        25 = {
+                            add_character_modifier = {
+                                modifier = zalkot_prophecy_martial_bad2
+                                years = 10
+                            }
+                        }
+                        25 = {
+                            add_character_modifier = {
+                                modifier = zalkot_prophecy_martial_bad3
+                                years = 10
+                            }
+                        }
+                        20 = {
+                            add_character_modifier = {
+                                modifier = zalkot_prophecy_martial_bad4
+                                years = 10
+                            }
+                        }
+                    }
+                }
+                
+            }
+            remove_character_flag = martial_zalkot_prophecy
+        }
+        else_if = {
+            limit = { has_character_flag = stewardship_zalkot_prophecy }
+            remove_character_flag = stewardship_zalkot_prophecy
+            random_list = {
+                65 = {
+                    random_list = {
+
+                        30 = {
+                            add_character_modifier = {
+                                modifier = zalkot_prophecy_stewardship_good1
+                                years = 10
+                            }
+                        }
+                        25 = {
+                            add_character_modifier = {
+                                modifier = zalkot_prophecy_stewardship_good2
+                                years = 10
+                            }
+                        }
+                        25= {
+                            add_character_modifier = {
+                                modifier = zalkot_prophecy_stewardship_good3
+                                years = 10
+                            }
+                        }
+                        20 = {
+                            add_character_modifier = {
+                                modifier = zalkot_prophecy_stewardship_good4
+                                years = 10
+                            }
+                        }
+                    }
+                }
+                35 = {
+                    random_list = {
+                        30 = {
+                            add_character_modifier = {
+                                modifier = zalkot_prophecy_stewardship_bad1
+                                years = 10
+                            }
+                        }
+                        25 = {
+                            add_character_modifier = {
+                                modifier = zalkot_prophecy_stewardship_bad2
+                                years = 10
+                            }
+                        }
+                        25 = {
+                            add_character_modifier = {
+                                modifier = zalkot_prophecy_stewardship_bad3
+                                years = 10
+                            }
+                        }
+                        20 = {
+                            add_character_modifier = {
+                                modifier = zalkot_prophecy_stewardship_bad4
+                                years = 10
+                            }
+                        }
+                    }
+
+                }
+            }
+        }
+        root.court_position:zalkot_seer_court_position = {
+            death = {
+                death_reason = death_zalkot_prophesying
+
+            }
+        }
+    }
+
+
+    option = {
+        name = zalkot_event_0003.a
+    }
+}
+
+

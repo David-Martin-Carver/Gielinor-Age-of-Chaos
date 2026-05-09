@@ -1,0 +1,45 @@
+# Zalkot Seer
+zalkot_seer_title_accepted_effect = {
+    basic_gained_court_position_effect = yes
+    scope:employee = {
+        if = {
+            limit = {
+                NOT = {
+
+                    has_trait = ar_zalkot_seer
+
+                }
+            }
+            add_trait = ar_zalkot_seer
+            add_character_flag = granted_zalkot_seer_by_court_position
+        }
+    }
+}
+
+zalkot_seer_revoked_effect = {
+    basic_revoked_court_position_effect = yes
+    scope:employee = {
+        if = {
+            limit = {
+                has_trait = ar_zalkot_seer
+                has_character_flag = granted_zalkot_seer_by_court_position
+            }
+            remove_trait = ar_zalkot_seer
+            remove_character_flag = granted_zalkot_seer_by_court_position
+        }
+    }
+}
+zalkot_seer_invalidated_effect = {
+    basic_invalidated_court_position_effect = yes
+    scope:employee = {
+        if = {
+            limit = {
+                is_alive = yes
+                has_trait = ar_zalkot_seer
+                has_character_flag = granted_zalkot_seerby_court_position
+            }
+            remove_trait = ar_zalkot_seer
+            remove_character_flag = granted_zalkot_seer_by_court_position
+        }
+    }
+}

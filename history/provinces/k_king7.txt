@@ -1,0 +1,186 @@
+#k_king7
+##d_duchy25 ###################################
+###c_142
+549 = {	#placeholder
+	culture = sarnithek
+	religion = hacaiak
+	holding = tribal_holding
+}
+550 = {	#placeholder
+	holding = none
+}
+548 = {	#placeholder
+	holding = church_holding
+}
+547 = {	#placeholder
+	holding = none
+}
+###c_143
+544 = {	#placeholder
+	culture = kathek
+	religion = hacaiak
+	holding = tribal_holding
+}
+545 = {	#placeholder
+	holding = none
+}
+546 = {	#placeholder
+	holding = none
+}
+###c_144
+541 = {	#placeholder
+	culture = kathek
+	religion = azakuism
+	holding = tribal_holding
+}
+543 = {	#placeholder
+	holding = none
+}
+542 = {	#placeholder
+	holding = none
+}
+###c_145
+537 = {	#placeholder
+	culture = kathek
+	religion = azakuism
+	holding = feudal_holding
+}
+536 = {	#placeholder
+	holding = none
+}
+###c_146
+551 = {	#placeholder
+	culture = kathek
+	religion = hacaiak
+	holding = tribal_holding
+}
+552 = {	#placeholder
+	holding = none
+}
+554 = {	#placeholder
+	holding = church_holding
+}
+###c_147
+555 = {	#placeholder
+	culture = kathek
+	religion = azakuism
+	holding = tribal_holding
+}
+553 = {	#placeholder
+	holding = none
+}
+###c_148
+558 = {	#placeholder
+	culture = kathek
+	religion = azakuism
+	holding = tribal_holding
+}
+557 = {	#placeholder
+	holding = none
+}
+556 = {	#placeholder
+	holding = church_holding
+}
+
+##d_duchy26 ###################################
+###c_149
+569 = {	#placeholder
+	culture = sarnithek
+	religion = hacaiak
+	holding = church_holding
+}
+568 = {	#placeholder
+	holding = none
+}
+570 = {	#placeholder
+	holding = church_holding
+}
+571 = {	#placeholder
+	holding = none
+}
+###c_150
+567 = {	#placeholder
+	culture = sarnithek
+	religion = hacaiak
+	holding = tribal_holding
+}
+566 = {	#placeholder
+	holding = none
+}
+565 = {	#placeholder
+	holding = church_holding
+}
+###c_151
+564 = {	#placeholder
+	culture = sarnithek
+	religion = hacaiak
+	holding = tribal_holding
+}
+563 = {	#placeholder
+	holding = none
+}
+562 = {	#placeholder
+	holding = none
+}
+###c_152
+560 = {	#placeholder
+	culture = sarnithek
+	religion = hacaiak
+	holding = tribal_holding
+}
+561 = {	#placeholder
+	holding = none
+}
+559 = {	#placeholder
+	holding = church_holding
+}
+###c_153
+572 = {	#placeholder
+	culture = sarnithek
+	religion = hacaiak
+	holding = tribal_holding
+}
+573 = {	#placeholder
+	holding = none
+}
+###c_154
+574 = {	#placeholder
+	culture = sarnithek
+	religion = hacaiak
+	holding = tribal_holding
+}
+575 = {	#placeholder
+	holding = none
+}
+576 = {	#placeholder
+	holding = none
+}
+###c_155
+579 = {	#placeholder
+	culture = sarnithek
+	religion = hacaiak
+	holding = tribal_holding
+}
+577 = {	#placeholder
+	holding = none
+}
+578 = {	#placeholder
+	holding = none
+}
+
+##d_duchy27 ###################################
+###c_156
+538 = {	#placeholder
+	culture = kathek
+	religion = azakuism
+	holding = city_holding
+}
+539 = {	#placeholder
+	holding = none
+}
+###c_157
+540 = {	#placeholder
+	culture = kathek
+	religion = azakuism
+	holding = city_holding
+}

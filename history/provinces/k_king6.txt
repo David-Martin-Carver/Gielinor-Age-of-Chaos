@@ -1,0 +1,104 @@
+#k_king6
+
+##d_duchy20 ###################################
+###c_111
+414 = {	#placeholder
+	culture = calven
+	religion = veyr_pagan
+	holding = city_holding
+}
+413 = {	#placeholder
+	holding = castle_holding
+}
+415 = {	#placeholder
+	holding = none
+}
+###c_112
+400 = {	#placeholder
+	culture = calven
+	religion = veyr_pagan
+	holding = city_holding
+}
+402 = {	#placeholder
+	holding = church_holding
+}
+401 = {	#placeholder
+	holding = none
+}
+###c_113
+403 = {	#placeholder
+	culture = calven
+	religion = veyr_pagan
+	holding = city_holding
+}
+405 = {	#placeholder
+	holding = castle_holding
+}
+404 = {	#placeholder
+	holding = none
+}
+###c_114
+418 = {	#placeholder
+	culture = calven
+	religion = veyr_pagan
+	holding = city_holding
+}
+416 = {	#placeholder
+	holding = none
+}
+417 = {	#placeholder
+	holding = church_holding
+}
+###c_115
+412 = {	#placeholder
+	culture = braxan
+	religion = veyr_pagan
+	holding = city_holding
+}
+411 = {	#placeholder
+	holding = castle_holding
+}
+###c_116
+406 = {	#placeholder
+	culture = braxan
+	religion = veyr_pagan
+	holding = city_holding
+}
+407 = {	#placeholder
+	holding = castle_holding
+}
+###c_117
+408 = {	#placeholder
+	culture = braxan
+	religion = veyr_pagan
+	holding = city_holding
+}
+409 = {	#placeholder
+	holding = church_holding
+}
+410 = {	#placeholder
+	holding = none
+}
+
+##d_duchy12 ###################################
+###c_66
+256 = {	#placeholder
+	culture = orrath
+	religion = veyr_pagan
+	holding = city_holding
+}
+257 = {	#placeholder
+	holding = church_holding
+}
+###c_67
+255 = {	#placeholder
+	culture = orrath
+	religion = veyr_pagan
+	holding = city_holding
+	400.1.1 = {
+		special_building_slot = tower_of_hercules_01
+	}
+	405.1.1 = {
+		special_building = tower_of_hercules_01
+	}
+}

@@ -1,0 +1,81 @@
+﻿mon_grellan = {
+	color = { 0.8 0.3 0.8 }
+	
+	ethos = ethos_bureaucratic
+	heritage = heritage_grellan
+	language = language_grellan
+	martial_custom = martial_custom_male_only
+	traditions = {
+		tradition_hit_and_run
+		tradition_horse_breeder
+		tradition_ep2_avid_falconers
+		tradition_equitable
+		tradition_esteemed_hospitality
+	}
+	
+	name_list = name_list_mon_grellan
+	
+	coa_gfx = { english_coa_gfx western_coa_gfx }
+	building_gfx = { western_building_gfx }
+	clothing_gfx = { dde_hre_clothing_gfx western_clothing_gfx }
+	unit_gfx = { western_unit_gfx }
+	
+	ethnicities = {
+		100 = mon_grellan
+	}
+}
+
+wel_gravan = {
+	color = { 0.8 0.2 0.8 }
+	
+	ethos = ethos_bellicose
+	heritage = heritage_grellan
+	language = language_grellan
+	martial_custom = martial_custom_male_only
+	traditions = {
+		tradition_hit_and_run
+		tradition_fp2_strategy_gamers
+		tradition_horse_breeder
+		tradition_equitable
+		tradition_esteemed_hospitality
+	}
+	
+	name_list = name_list_wel_gravan
+	
+	coa_gfx = { english_coa_gfx western_coa_gfx }
+	building_gfx = { western_building_gfx }
+	clothing_gfx = { dde_hre_clothing_gfx western_clothing_gfx }
+	unit_gfx = { western_unit_gfx }
+	
+	ethnicities = {
+		100 = mon_grellan
+	}
+}
+
+kelberican = {
+	color = { 0.8 0.1 0.8 }
+	
+	ethos = ethos_courtly
+	heritage = heritage_grellan
+	language = language_grellan
+	martial_custom = martial_custom_male_only
+	traditions = {
+		tradition_hit_and_run
+		tradition_horse_breeder
+		tradition_chanson_de_geste
+		tradition_fp2_malleable_subjects
+		tradition_esteemed_hospitality
+	}
+	
+	name_list = name_list_kelberican
+	
+	coa_gfx = { english_coa_gfx western_coa_gfx }
+	building_gfx = { western_building_gfx }
+	clothing_gfx ={ western_clothing_gfx dde_hre_clothing_gfx }
+	unit_gfx = { western_unit_gfx }
+	
+	ethnicities = {
+		100 = mon_grellan
+	}
+}
+

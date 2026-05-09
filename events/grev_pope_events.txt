@@ -1,0 +1,404 @@
+﻿namespace = grev_send_pope
+
+# ---------------------------------------------------------------------------
+# grev_send_pope.0001
+# Pick a daughter (up to 6 shown)
+# ---------------------------------------------------------------------------
+grev_send_pope.0001 = {
+	type = character_event
+	title = grev_send_pope.0001.t
+	desc = grev_send_pope.0001.desc
+
+	# Portraits
+	theme = court
+	left_portrait = {
+		character = root
+	}
+	right_portrait = {
+		character = scope:grev_daughter_1
+	}
+	lower_left_portrait = {
+		character = scope:grev_daughter_2
+	}
+	lower_right_portrait = {
+		character = scope:grev_daughter_3
+	}
+
+	# Mirror the decision gating (safety net)
+	trigger = {
+		is_landed_or_landless_administrative = yes
+		faith = faith:grevetican
+
+		any_child = {
+			is_female = yes
+			is_alive = yes
+			is_in_court = yes
+			is_landed = no
+			is_married = no
+			is_betrothed = no
+			is_prisoner = no
+			is_child_of = root
+			age >= 6
+			age < 45
+		}
+	}
+
+	immediate = {
+		# Build list of eligible daughters
+		every_child = {
+			limit = {
+				is_female = yes
+				is_alive = yes
+				is_in_court = yes
+				is_landed = no
+				is_married = no
+				is_betrothed = no
+				is_prisoner = no
+				is_child_of = root
+				age >= 6
+				age < 45
+			}
+			add_to_list = grev_eligible_daughters
+		}
+
+		# Pull up to 6 from the list (ordered by age; adjust order_by if you prefer)
+		if = {
+			limit = { list_size:grev_eligible_daughters > 0 }
+			ordered_in_list = {
+				list = grev_eligible_daughters
+				order_by = age
+				save_scope_as = grev_daughter_1
+				remove_from_list = grev_eligible_daughters
+			}
+		}
+		if = {
+			limit = { list_size:grev_eligible_daughters > 0 }
+			ordered_in_list = {
+				list = grev_eligible_daughters
+				order_by = age
+				save_scope_as = grev_daughter_2
+				remove_from_list = grev_eligible_daughters
+			}
+		}
+		if = {
+			limit = { list_size:grev_eligible_daughters > 0 }
+			ordered_in_list = {
+				list = grev_eligible_daughters
+				order_by = age
+				save_scope_as = grev_daughter_3
+				remove_from_list = grev_eligible_daughters
+			}
+		}
+		if = {
+			limit = { list_size:grev_eligible_daughters > 0 }
+			ordered_in_list = {
+				list = grev_eligible_daughters
+				order_by = age
+				save_scope_as = grev_daughter_4
+				remove_from_list = grev_eligible_daughters
+			}
+		}
+		if = {
+			limit = { list_size:grev_eligible_daughters > 0 }
+			ordered_in_list = {
+				list = grev_eligible_daughters
+				order_by = age
+				save_scope_as = grev_daughter_5
+				remove_from_list = grev_eligible_daughters
+			}
+		}
+		if = {
+			limit = { list_size:grev_eligible_daughters > 0 }
+			ordered_in_list = {
+				list = grev_eligible_daughters
+				order_by = age
+				save_scope_as = grev_daughter_6
+				remove_from_list = grev_eligible_daughters
+			}
+		}
+	}
+
+	# Option A-F: Pick daughter
+	option = {
+		name = grev_send_pope.0001.a
+		custom_tooltip = grev_send_pope.0001.a.aptitude
+		trigger = { exists = scope:grev_daughter_1 }
+		set_variable = { name = grev_send_selected_daughter value = scope:grev_daughter_1 }
+		trigger_event = { id = grev_send_pope.0002 days = 1 }
+		ai_chance = {
+			base = 15
+		}
+	}
+	option = {
+		name = grev_send_pope.0001.b
+		custom_tooltip = grev_send_pope.0001.b.aptitude
+		trigger = { exists = scope:grev_daughter_2 }
+		set_variable = { name = grev_send_selected_daughter value = scope:grev_daughter_2 }
+		trigger_event = { id = grev_send_pope.0002 days = 1 }
+		ai_chance = {
+			base = 30
+		}
+	}
+	option = {
+		name = grev_send_pope.0001.c
+		custom_tooltip = grev_send_pope.0001.c.aptitude
+		trigger = { exists = scope:grev_daughter_3 }
+		set_variable = { name = grev_send_selected_daughter value = scope:grev_daughter_3 }
+		trigger_event = { id = grev_send_pope.0002 days = 1 }
+		ai_chance = {
+			base = 25
+		}
+	}
+	option = {
+		name = grev_send_pope.0001.d
+		custom_tooltip = grev_send_pope.0001.d.aptitude
+		trigger = { exists = scope:grev_daughter_4 }
+		set_variable = { name = grev_send_selected_daughter value = scope:grev_daughter_4 }
+		trigger_event = { id = grev_send_pope.0002 days = 1 }
+		ai_chance = {
+			base = 15
+		}
+	}
+	option = {
+		name = grev_send_pope.0001.e
+		custom_tooltip = grev_send_pope.0001.e.aptitude
+		trigger = { exists = scope:grev_daughter_5 }
+		set_variable = { name = grev_send_selected_daughter value = scope:grev_daughter_5 }
+		trigger_event = { id = grev_send_pope.0002 days = 1 }
+		ai_chance = {
+			base = 10
+		}
+	}
+	option = {
+		name = grev_send_pope.0001.f
+		custom_tooltip = grev_send_pope.0001.f.aptitude
+		trigger = { exists = scope:grev_daughter_6 }
+		set_variable = { name = grev_send_selected_daughter value = scope:grev_daughter_6 }
+		trigger_event = { id = grev_send_pope.0002 days = 1 }
+		ai_chance = {
+			base = 5
+		}
+	}
+
+	# Cancel
+	option = {
+		name = grev_send_pope.0001.z
+		ai_chance = {
+			base = 0
+		}
+	}
+}
+
+# ---------------------------------------------------------------------------
+# grev_send_pope.0002
+# Pick destination court, then move the saved daughter there
+# ---------------------------------------------------------------------------
+grev_send_pope.0002 = {
+	type = character_event
+	title = grev_send_pope.0002.t
+	desc = grev_send_pope.0002.desc
+	theme = religion
+
+	# Portraits
+	theme = faith
+	left_portrait = {
+		character = scope:grev_papacy_holder
+	}
+	right_portrait = {
+		character = scope:grev_selected_daughter
+	}
+	lower_left_portrait = {
+		character = scope:grev_duchygrevone_holder
+	}
+	lower_right_portrait = {
+		character = scope:grev_duchygrevtwo_holder
+	}
+	upper_right_portrait = {
+		character = scope:grev_duchy9_holder
+	}
+
+	trigger = {
+		exists = var:grev_send_selected_daughter
+		var:grev_send_selected_daughter = {
+			is_alive = yes
+			is_female = yes
+			is_in_court = yes
+			is_landed = no
+			is_married = no
+			is_betrothed = no
+			is_prisoner = no
+			is_child_of = root
+			age >= 6
+			age < 45
+		}
+	}
+
+	immediate = {
+		# Turn the saved variable into a normal scope we can pass to other effects
+		var:grev_send_selected_daughter = { save_scope_as = grev_selected_daughter }
+		# Save key portrait scopes
+		if = {
+			limit = { title:k_grevetican_papacy = { has_holder = yes } }
+			title:k_grevetican_papacy.holder = { save_scope_as = grev_papacy_holder }
+		}
+		else = {
+			root = { save_scope_as = grev_papacy_holder }
+		}
+		if = {
+			limit = { title:d_duchygrevone = { has_holder = yes } }
+			title:d_duchygrevone.holder = { save_scope_as = grev_duchygrevone_holder }
+		}
+		else = { root = { save_scope_as = grev_duchygrevone_holder } }
+		if = {
+			limit = { title:d_duchygrevtwo = { has_holder = yes } }
+			title:d_duchygrevtwo.holder = { save_scope_as = grev_duchygrevtwo_holder }
+		}
+		else = { root = { save_scope_as = grev_duchygrevtwo_holder } }
+		if = {
+			limit = { title:d_duchy9 = { has_holder = yes } }
+			title:d_duchy9.holder = { save_scope_as = grev_duchy9_holder }
+		}
+		else = { root = { save_scope_as = grev_duchy9_holder } }
+	}
+
+	# Send to k_grevetican_papacy holder
+	option = {
+		name = grev_send_pope.0002.a
+		custom_tooltip = grev_send_pope.0002.a.misc
+		add_piety = major_piety_gain
+		trigger = {
+			title:k_grevetican_papacy = { has_holder = yes }
+			title:k_grevetican_papacy.holder = { is_alive = yes }
+		}
+		hidden_effect = {
+			title:k_grevetican_papacy.holder = { add_courtier = scope:grev_selected_daughter }
+			var:grev_send_selected_daughter = {
+				if = {
+					limit = { NOT = { has_trait = grevetican_devoted } }
+					add_trait = grevetican_devoted
+				}
+				if = {
+					limit = { 
+						NOT = {
+							age > childhood_education_start_age
+							has_focus = education_learning 
+						}
+					}
+					set_focus = education_learning
+				}
+			}
+			clear_variable = grev_send_selected_daughter
+		}
+		ai_chance = {
+			base = 25
+		}
+	}
+
+	# Send to d_duchygrevone holder
+	option = {
+		name = grev_send_pope.0002.b
+		custom_tooltip = grev_send_pope.0002.b.misc
+		add_piety = major_piety_gain
+		trigger = {
+			title:d_duchygrevone = { has_holder = yes }
+			title:d_duchygrevone.holder = { is_alive = yes }
+		}
+		hidden_effect = {
+			title:d_duchygrevone.holder = { add_courtier = scope:grev_selected_daughter }
+			var:grev_send_selected_daughter = {
+				if = {
+					limit = { NOT = { has_trait = grevetican_devoted } }
+					add_trait = grevetican_devoted
+				}
+				if = {
+					limit = { 
+						NOT = {
+							age > childhood_education_start_age
+							has_focus = education_stewardship
+						}
+					}
+					set_focus = education_stewardship
+				}
+			}
+			clear_variable = grev_send_selected_daughter
+		}
+		ai_chance = {
+			base = 25
+		}
+	}
+
+	# Send to d_duchygrevtwo holder
+	option = {
+		name = grev_send_pope.0002.c
+		custom_tooltip = grev_send_pope.0002.c.misc
+		add_piety = major_piety_gain
+		trigger = {
+			title:d_duchygrevtwo = { has_holder = yes }
+			title:d_duchygrevtwo.holder = { is_alive = yes }
+		}
+		hidden_effect = {
+			title:d_duchygrevtwo.holder = { add_courtier = scope:grev_selected_daughter }
+			var:grev_send_selected_daughter = {
+				if = {
+					limit = { NOT = { has_trait = grevetican_devoted } }
+					add_trait = grevetican_devoted
+				}
+				if = {
+					limit = { 
+						NOT = {
+							age > childhood_education_start_age
+							has_focus = education_martial
+						}
+					}
+					set_focus = education_martial
+				}
+			}
+			clear_variable = grev_send_selected_daughter
+		}
+		ai_chance = {
+			base = 25
+		}
+	}
+
+	# Send to d_duchy9 holder
+	option = {
+		name = grev_send_pope.0002.d
+		custom_tooltip = grev_send_pope.0002.d.misc
+		add_piety = major_piety_gain
+		trigger = {
+			title:d_duchy9 = { has_holder = yes }
+			title:d_duchy9.holder = { is_alive = yes }
+		}
+		hidden_effect = {
+			title:d_duchy9.holder = { add_courtier = scope:grev_selected_daughter }
+			var:grev_send_selected_daughter = {
+				if = {
+					limit = { NOT = { has_trait = grevetican_devoted } }
+					add_trait = grevetican_devoted
+				}
+				if = {
+					limit = { 
+						NOT = {
+							age > childhood_education_start_age
+							has_focus = education_learning 
+						}
+					}
+					set_focus = education_learning
+				}
+			}
+			clear_variable = grev_send_selected_daughter
+		}
+		ai_chance = {
+			base = 25
+		}
+	}
+
+	# Cancel / back out
+	option = {
+		name = grev_send_pope.0002.z
+		add_piety = miniscule_piety_loss
+		ai_chance = {
+			base = 0
+		}
+	}
+}

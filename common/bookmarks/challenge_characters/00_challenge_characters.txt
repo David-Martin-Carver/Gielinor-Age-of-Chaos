@@ -1,0 +1,23 @@
+﻿#########################
+####### Challenge #########
+#########################
+
+# Hertia the Orphaned ID: 158
+challenge_character_hertia_glitterbrook = {
+	start_date = 587.1.1
+	character = {
+		name = "bookmark_glitterbrook_hertia"
+		dynasty = 27
+		dynasty_splendor_level = 1
+		type = female
+		birth = 570.10.12
+		title = d_duchy42
+		government = feudal_government
+		culture = euradan
+		religion = grevetican
+		difficulty = "BOOKMARK_CHARACTER_DIFFICULTY_MEDIUM"
+		history_id = 158
+
+		animation = personality_content
+	}
+}

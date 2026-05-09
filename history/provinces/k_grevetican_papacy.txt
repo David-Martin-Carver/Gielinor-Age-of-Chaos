@@ -1,0 +1,71 @@
+#k_grevetican_papacy
+##d_duchy10 ###################################
+###c_59
+193 = {	#placeholder
+	culture = arbundian
+	religion = grevetican
+	holding = church_holding
+	300.1.1 = {
+		special_building_slot = generic_grevetican_fortress
+	}
+	305.1.1 = {
+		special_building = generic_grevetican_fortress
+	}
+}
+194 = {	#placeholder
+	holding = castle_holding
+}
+
+##d_duchygrevone ###################################
+###c_grevone
+1018 = {	#placeholder
+	culture = arbundian
+	religion = grevetican
+	holding = church_holding
+	300.1.1 = {
+		special_building_slot = generic_grevetican_fortress
+	}
+	305.1.1 = {
+		special_building = generic_grevetican_fortress
+	}
+}
+1019 = {	#placeholder
+	holding = city_holding
+}
+
+##d_duchygrevtwo ###################################
+###c_grevtwo
+1015 = {	#placeholder
+	culture = arbundian
+	religion = grevetican
+	holding = church_holding
+	300.1.1 = {
+		special_building_slot = generic_grevetican_fortress
+	}
+	305.1.1 = {
+		special_building = generic_grevetican_fortress
+	}
+}
+1014 = {	#placeholder
+	holding = castle_holding
+}
+1016 = {	#placeholder
+	holding = city_holding
+}
+
+##d_duchy9 ###################################
+###c_58
+195 = {	#placeholder
+	culture = arbundian
+	religion = grevetican
+	holding = church_holding
+	300.1.1 = {
+		special_building_slot = generic_grevetican_fortress
+	}
+	305.1.1 = {
+		special_building = generic_grevetican_fortress
+	}
+}
+196 = {	#placeholder
+	holding = city_holding
+}

@@ -1,0 +1,13 @@
+﻿################################
+## AR RELIGION LORE CONCEPTS ##
+################################
+
+path_of_emulation = {
+	texture = "gfx/interface/icons/traits/shrewd.dds"
+}
+grevetican_defiance = {
+	texture = "gfx/interface/icons/traits/shrewd.dds"
+}
+grevetican_doctrine = {
+	texture = "gfx/interface/icons/traits/shrewd.dds"
+}

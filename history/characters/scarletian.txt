@@ -1,0 +1,742 @@
+﻿FL_1 = {
+    name = "Gen1M"
+    culture = "scarletian"
+    faith = "grevetican"
+    dynasty = AR_Barley #Barley
+    492.1.1 = {
+        birth = yes
+    }
+    560.1.1 = {
+        death = yes
+    }
+}
+
+FL_10 = {
+    name = "Gen1M"
+    culture = "scarletian"
+    faith = "grevetican"
+    dynasty = AR_Lucerne #Lucerne
+    492.1.1 = {
+        birth = yes
+    }
+    559.1.1 = {
+        death = yes
+    }
+}
+
+FL_11 = {
+    name = "Gen2F"
+    culture = "scarletian"
+    faith = "grevetican"
+    female = yes
+    dynasty = AR_Lucerne #Lucerne
+    father = FL_10 #Gen1M
+    517.1.1 = {
+        birth = yes
+    }
+    537.1.1 = {
+        add_spouse = FL_28 #Gen2M
+    }
+    573.1.1 = {
+        death = yes
+    }
+}
+
+FL_12 = {
+    name = "Gen2M"
+    culture = "scarletian"
+    faith = "grevetican"
+    dynasty = AR_Lucerne #Lucerne
+    father = FL_10 #Gen1M
+    519.1.1 = {
+        birth = yes
+    }
+    539.1.1 = {
+        add_spouse = FL_2 #Gen2F
+    }
+    575.1.1 = {
+        death = yes
+    }
+}
+
+FL_13 = {
+    name = "Gen3F"
+    culture = "scarletian"
+    faith = "grevetican"
+    female = yes
+    dynasty = AR_Lucerne #Lucerne
+    father = FL_12 #Gen2M
+    mother = FL_2 #Gen2F
+    540.1.1 = {
+        birth = yes
+    }
+    560.1.1 = {
+        add_spouse = FL_44 #Gen3M
+    }
+}
+
+FL_14 = {
+    name = "Gen3F3"
+    culture = "scarletian"
+    faith = "grevetican"
+    female = yes
+    dynasty = AR_Lucerne #Lucerne
+    father = FL_12 #Gen2M
+    mother = FL_2 #Gen2F
+    547.1.1 = {
+        birth = yes
+    }
+    567.1.1 = {
+        add_spouse = FL_32 #Gen3M2
+    }
+}
+
+FL_15 = {
+    name = "Gen3M"
+    culture = "scarletian"
+    faith = "grevetican"
+    dynasty = AR_Lucerne #Lucerne
+    father = FL_12 #Gen2M
+    mother = FL_2 #Gen2F
+    542.1.1 = {
+        birth = yes
+    }
+    567.1.1 = {
+        add_spouse = FL_30 #Gen3F2
+    }
+}
+
+FL_16 = {
+    name = "Gen3M2"
+    culture = "scarletian"
+    faith = "grevetican"
+    dynasty = AR_Lucerne #Lucerne
+    father = FL_12 #Gen2M
+    mother = FL_2 #Gen2F
+    545.1.1 = {
+        birth = yes
+    }
+    565.1.1 = {
+        add_spouse = FL_5 #Gen3F2
+    }
+}
+
+FL_17 = {
+    name = "Gen4F"
+    culture = "scarletian"
+    faith = "grevetican"
+    female = yes
+    dynasty = AR_Lucerne #Lucerne
+    father = FL_15 #Gen3M
+    mother = FL_30 #Gen3F2
+    568.1.1 = {
+        birth = yes
+    }
+}
+
+FL_18 = {
+    name = "Gen4F"
+    culture = "scarletian"
+    faith = "grevetican"
+    female = yes
+    dynasty = AR_Lucerne #Lucerne
+    father = FL_16 #Gen3M2
+    mother = FL_5 #Gen3F2
+    571.1.1 = {
+        birth = yes
+    }
+}
+
+FL_19 = {
+    name = "Gen4F2"
+    culture = "scarletian"
+    faith = "grevetican"
+    female = yes
+    dynasty = AR_Lucerne #Lucerne
+    father = FL_15 #Gen3M
+    mother = FL_30 #Gen3F2
+    569.1.1 = {
+        birth = yes
+    }
+}
+
+FL_2 = {
+    name = "Gen2F"
+    culture = "scarletian"
+    faith = "grevetican"
+    female = yes
+    dynasty = AR_Barley #Barley
+    father = FL_1 #Gen1M
+    519.1.1 = {
+        birth = yes
+    }
+    539.1.1 = {
+        add_spouse = FL_12 #Gen2M
+    }
+    585.1.1 = {
+        death = yes
+    }
+}
+
+FL_20 = {
+    name = "Gen4F2"
+    culture = "scarletian"
+    faith = "grevetican"
+    female = yes
+    dynasty = AR_Lucerne #Lucerne
+    father = FL_16 #Gen3M2
+    mother = FL_5 #Gen3F2
+    576.1.1 = {
+        birth = yes
+    }
+}
+
+FL_21 = {
+    name = "Gen4F3"
+    culture = "scarletian"
+    faith = "grevetican"
+    female = yes
+    dynasty = AR_Lucerne #Lucerne
+    father = FL_15 #Gen3M
+    mother = FL_30 #Gen3F2
+    573.1.1 = {
+        birth = yes
+    }
+}
+
+FL_22 = {
+    name = "Gen4M"
+    culture = "scarletian"
+    faith = "grevetican"
+    dynasty = AR_Lucerne #Lucerne
+    father = FL_16 #Gen3M2
+    mother = FL_5 #Gen3F2
+    566.1.1 = {
+        birth = yes
+    }
+}
+
+FL_23 = {
+    name = "Gen4M"
+    culture = "scarletian"
+    faith = "grevetican"
+    dynasty = AR_Lucerne #Lucerne
+    father = FL_15 #Gen3M
+    mother = FL_30 #Gen3F2
+    571.1.1 = {
+        birth = yes
+    }
+}
+
+FL_24 = {
+    name = "Gen4M2"
+    culture = "scarletian"
+    faith = "grevetican"
+    dynasty = AR_Lucerne #Lucerne
+    father = FL_16 #Gen3M2
+    mother = FL_5 #Gen3F2
+    569.1.1 = {
+        birth = yes
+    }
+}
+
+FL_25 = {
+    name = "Gen4M2"
+    culture = "scarletian"
+    faith = "grevetican"
+    dynasty = AR_Lucerne #Lucerne
+    father = FL_15 #Gen3M
+    mother = FL_30 #Gen3F2
+    576.1.1 = {
+        birth = yes
+    }
+}
+
+FL_26 = {
+    name = "Gen1M"
+    culture = "scarletian"
+    faith = "grevetican"
+    dynasty = AR_Oat #Oat
+    492.1.1 = {
+        birth = yes
+    }
+    553.1.1 = {
+        death = yes
+    }
+}
+
+FL_27 = {
+    name = "Gen2F"
+    culture = "scarletian"
+    faith = "grevetican"
+    female = yes
+    dynasty = AR_Oat #Oat
+    father = FL_26 #Gen1M
+    519.1.1 = {
+        birth = yes
+    }
+    539.1.1 = {
+        add_spouse = FL_42 #Gen2M
+    }
+}
+
+FL_28 = {
+    name = "Gen2M"
+    culture = "scarletian"
+    faith = "grevetican"
+    dynasty = AR_Oat #Oat
+    father = FL_26 #Gen1M
+    517.1.1 = {
+        birth = yes
+    }
+    537.1.1 = {
+        add_spouse = FL_11 #Gen2F
+    }
+    568.1.1 = {
+        death = yes
+    }
+}
+
+FL_29 = {
+    name = "Gen3F"
+    culture = "scarletian"
+    faith = "grevetican"
+    female = yes
+    dynasty = AR_Oat #Oat
+    father = FL_28 #Gen2M
+    mother = FL_11 #Gen2F
+    542.1.1 = {
+        birth = yes
+    }
+    562.1.1 = {
+        add_spouse = FL_6 #Gen3M
+    }
+}
+
+FL_3 = {
+    name = "Gen2M"
+    culture = "scarletian"
+    faith = "grevetican"
+    dynasty = AR_Barley #Barley
+    father = FL_1 #Gen1M
+    517.1.1 = {
+        birth = yes
+    }
+    537.1.1 = {
+        add_spouse = FL_41 #Gen2F
+    }
+    581.1.1 = {
+        death = yes
+    }
+}
+
+FL_30 = {
+    name = "Gen3F2"
+    culture = "scarletian"
+    faith = "grevetican"
+    female = yes
+    dynasty = AR_Oat #Oat
+    father = FL_28 #Gen2M
+    mother = FL_11 #Gen2F
+    547.1.1 = {
+        birth = yes
+    }
+    567.1.1 = {
+        add_spouse = FL_15 #Gen3M
+    }
+}
+
+FL_31 = {
+    name = "Gen3M"
+    culture = "scarletian"
+    faith = "grevetican"
+    dynasty = AR_Oat #Oat
+    father = FL_28 #Gen2M
+    mother = FL_11 #Gen2F
+    540.1.1 = {
+        birth = yes
+    }
+    565.1.1 = {
+        add_spouse = FL_43 #Gen3F
+    }
+}
+
+FL_32 = {
+    name = "Gen3M2"
+    culture = "scarletian"
+    faith = "grevetican"
+    dynasty = AR_Oat #Oat
+    father = FL_28 #Gen2M
+    mother = FL_11 #Gen2F
+    545.1.1 = {
+        birth = yes
+    }
+    567.1.1 = {
+        add_spouse = FL_14 #Gen3F3
+    }
+}
+
+FL_33 = {
+    name = "Gen4F"
+    culture = "scarletian"
+    faith = "grevetican"
+    female = yes
+    dynasty = AR_Oat #Oat
+    father = FL_31 #Gen3M
+    mother = FL_43 #Gen3F
+    566.1.1 = {
+        birth = yes
+    }
+}
+
+FL_34 = {
+    name = "Gen4F"
+    culture = "scarletian"
+    faith = "grevetican"
+    female = yes
+    dynasty = AR_Oat #Oat
+    father = FL_32 #Gen3M2
+    mother = FL_14 #Gen3F3
+    570.1.1 = {
+        birth = yes
+    }
+}
+
+FL_35 = {
+    name = "Gen4F2"
+    culture = "scarletian"
+    faith = "grevetican"
+    female = yes
+    dynasty = AR_Oat #Oat
+    father = FL_31 #Gen3M
+    mother = FL_43 #Gen3F
+    571.1.1 = {
+        birth = yes
+    }
+}
+
+FL_36 = {
+    name = "Gen4F2"
+    culture = "scarletian"
+    faith = "grevetican"
+    female = yes
+    dynasty = AR_Oat #Oat
+    father = FL_32 #Gen3M2
+    mother = FL_14 #Gen3F3
+    572.1.1 = {
+        birth = yes
+    }
+}
+
+FL_37 = {
+    name = "Gen4M"
+    culture = "scarletian"
+    faith = "grevetican"
+    dynasty = AR_Oat #Oat
+    father = FL_31 #Gen3M
+    mother = FL_43 #Gen3F
+    567.1.1 = {
+        birth = yes
+    }
+}
+
+FL_38 = {
+    name = "Gen4M"
+    culture = "scarletian"
+    faith = "grevetican"
+    dynasty = AR_Oat #Oat
+    father = FL_32 #Gen3M2
+    mother = FL_14 #Gen3F3
+    568.1.1 = {
+        birth = yes
+    }
+}
+
+FL_39 = {
+    name = "Gen4M2"
+    culture = "scarletian"
+    faith = "grevetican"
+    dynasty = AR_Oat #Oat
+    father = FL_31 #Gen3M
+    mother = FL_43 #Gen3F
+    569.1.1 = {
+        birth = yes
+    }
+}
+
+FL_4 = {
+    name = "Gen3F"
+    culture = "scarletian"
+    faith = "grevetican"
+    female = yes
+    dynasty = AR_Barley #Barley
+    father = FL_3 #Gen2M
+    mother = FL_41 #Gen2F
+    540.1.1 = {
+        birth = yes
+    }
+}
+
+FL_40 = {
+    name = "Gen1M"
+    culture = "scarletian"
+    faith = "grevetican"
+    dynasty = AR_Wheat #Wheat
+    492.1.1 = {
+        birth = yes
+    }
+    557.1.1 = {
+        death = yes
+    }
+}
+
+FL_41 = {
+    name = "Gen2F"
+    culture = "scarletian"
+    faith = "grevetican"
+    female = yes
+    dynasty = AR_Wheat #Wheat
+    father = FL_40 #Gen1M
+    517.1.1 = {
+        birth = yes
+    }
+    537.1.1 = {
+        add_spouse = FL_3 #Gen2M
+    }
+    580.1.1 = {
+        death = yes
+    }
+}
+
+FL_42 = {
+    name = "Gen2M"
+    culture = "scarletian"
+    faith = "grevetican"
+    dynasty = AR_Wheat #Wheat
+    father = FL_40 #Gen1M
+    519.1.1 = {
+        birth = yes
+    }
+    539.1.1 = {
+        add_spouse = FL_27 #Gen2F
+    }
+    579.1.1 = {
+        death = yes
+    }
+}
+
+FL_43 = {
+    name = "Gen3F"
+    culture = "scarletian"
+    faith = "grevetican"
+    female = yes
+    dynasty = AR_Wheat #Wheat
+    father = FL_42 #Gen2M
+    mother = FL_27 #Gen2F
+    545.1.1 = {
+        birth = yes
+    }
+    565.1.1 = {
+        add_spouse = FL_31 #Gen3M
+    }
+}
+
+FL_44 = {
+    name = "Gen3M"
+    culture = "scarletian"
+    faith = "grevetican"
+    dynasty = AR_Wheat #Wheat
+    father = FL_42 #Gen2M
+    mother = FL_27 #Gen2F
+    540.1.1 = {
+        birth = yes
+    }
+    560.1.1 = {
+        add_spouse = FL_13 #Gen3F
+    }
+    585.1.1 = {
+        death = yes
+    }
+}
+
+FL_45 = {
+    name = "Gen3M2"
+    culture = "scarletian"
+    faith = "grevetican"
+    dynasty = AR_Wheat #Wheat
+    father = FL_42 #Gen2M
+    mother = FL_27 #Gen2F
+    542.1.1 = {
+        birth = yes
+    }
+}
+
+FL_46 = {
+    name = "Gen4F"
+    culture = "scarletian"
+    faith = "grevetican"
+    female = yes
+    dynasty = AR_Wheat #Wheat
+    father = FL_45 #Gen3M2
+    mother = FL_4 #Gen3F
+    564.1.1 = {
+        birth = yes
+    }
+}
+
+FL_47 = {
+    name = "Gen4F"
+    culture = "scarletian"
+    faith = "grevetican"
+    female = yes
+    dynasty = AR_Wheat #Wheat
+    father = FL_44 #Gen3M
+    mother = FL_13 #Gen3F
+    564.1.1 = {
+        birth = yes
+    }
+}
+
+FL_48 = {
+    name = "Gen4F2"
+    culture = "scarletian"
+    faith = "grevetican"
+    female = yes
+    dynasty = AR_Wheat #Wheat
+    father = FL_44 #Gen3M
+    mother = FL_13 #Gen3F
+    566.1.1 = {
+        birth = yes
+    }
+}
+
+FL_49 = {
+    name = "Gen4F2"
+    culture = "scarletian"
+    faith = "grevetican"
+    female = yes
+    dynasty = AR_Wheat #Wheat
+    father = FL_45 #Gen3M2
+    mother = FL_4 #Gen3F
+    568.1.1 = {
+        birth = yes
+    }
+}
+
+FL_5 = {
+    name = "Gen3F2"
+    culture = "scarletian"
+    faith = "grevetican"
+    female = yes
+    dynasty = AR_Barley #Barley
+    father = FL_3 #Gen2M
+    mother = FL_41 #Gen2F
+    545.1.1 = {
+        birth = yes
+    }
+    565.1.1 = {
+        add_spouse = FL_16 #Gen3M2
+    }
+}
+
+FL_50 = {
+    name = "Gen4M"
+    culture = "scarletian"
+    faith = "grevetican"
+    dynasty = AR_Wheat #Wheat
+    father = FL_44 #Gen3M
+    mother = FL_13 #Gen3F
+    561.1.1 = {
+        birth = yes
+    }
+}
+
+FL_51 = {
+    name = "Gen4M"
+    culture = "scarletian"
+    faith = "grevetican"
+    dynasty = AR_Wheat #Wheat
+    father = FL_45 #Gen3M2
+    mother = FL_4 #Gen3F
+    567.1.1 = {
+        birth = yes
+    }
+}
+
+FL_52 = {
+    name = "Gen4M2"
+    culture = "scarletian"
+    faith = "grevetican"
+    dynasty = AR_Wheat #Wheat
+    father = FL_44 #Gen3M
+    mother = FL_13 #Gen3F
+    569.1.1 = {
+        birth = yes
+    }
+}
+
+FL_6 = {
+    name = "Gen3M"
+    culture = "scarletian"
+    faith = "grevetican"
+    dynasty = AR_Barley #Barley
+    father = FL_3 #Gen2M
+    mother = FL_41 #Gen2F
+    542.1.1 = {
+        birth = yes
+    }
+    562.1.1 = {
+        add_spouse = FL_29 #Gen3F
+    }
+    586.1.1 = {
+        death = yes
+    }
+}
+
+FL_7 = {
+    name = "Gen4F"
+    culture = "scarletian"
+    faith = "grevetican"
+    female = yes
+    dynasty = AR_Barley #Barley
+    father = FL_6 #Gen3M
+    mother = FL_29 #Gen3F
+    568.1.1 = {
+        birth = yes
+    }
+}
+
+FL_8 = {
+    name = "Gen4M"
+    culture = "scarletian"
+    faith = "grevetican"
+    dynasty = AR_Barley #Barley
+    father = FL_6 #Gen3M
+    mother = FL_29 #Gen3F
+    563.1.1 = {
+        birth = yes
+    }
+}
+
+FL_9 = {
+    name = "Gen4M2"
+    culture = "scarletian"
+    faith = "grevetican"
+    dynasty = AR_Barley #Barley
+    father = FL_6 #Gen3M
+    mother = FL_29 #Gen3F
+    566.1.1 = {
+        birth = yes
+    }
+}
+
+FL_53 = {
+    name = "Genix"
+    culture = "scarletian"
+    faith = "grevetican"
+    dynasty = 134
+    569.1.1 = {
+        birth = yes
+    }
+}
+

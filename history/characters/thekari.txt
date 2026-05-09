@@ -1,0 +1,586 @@
+﻿aiothek_001 = {
+	name = "Loran’Dei"
+	female = no
+	dynasty = Sakran
+	martial = 13
+	stewardship = 6
+	intrigue = 4
+	diplomacy = 3
+	learning = 3
+	religion = "greviciak"
+	culture = aiothek
+	trait = education_intrigue_2
+	trait = coward
+	trait = callous
+	trait = loyal
+	trait = diligent
+	trait = intellect_good_1
+	disallow_random_traits = yes
+	562.3.13 = {
+		birth = yes
+	}
+	574.3.13 = {
+
+	}
+}
+
+aiothek_002 = {
+	name = "Vihamon"
+	female = no
+	dynasty = 0
+	martial = 13
+	stewardship = 6
+	intrigue = 4
+	diplomacy = 3
+	learning = 3
+	religion = "azakuism"
+	culture = aiothek
+	trait = education_stewardship_4
+	trait = wrathful
+	trait = callous
+	trait = diligent
+	trait = intellect_good_3
+	disallow_random_traits = yes
+	539.3.13 = {
+		birth = yes
+	}
+}
+##Filler characters
+aiothek_filler_001 = {
+	name = "Ziatzel"
+	female = no
+	disallow_random_traits = no
+	religion = "azakuism"
+	culture = kathek
+	551.4.5 = {
+		birth = yes
+	}
+}
+
+aiothek_filler_002 = {
+	name = "Zeffon"
+	female = no
+	disallow_random_traits = no
+	religion = "azakuism"
+	culture = kathek
+	523.8.16 = {
+		birth = yes
+	}
+}
+
+aiothek_filler_003 = {
+	name = "Matzaman"
+	female = no
+	disallow_random_traits = no
+	religion = "azakuism"
+	culture = kathek
+	572.12.17 = {
+		birth = yes
+	}
+}
+
+aiothek_filler_004 = {
+	name = "Nacala"
+	female = yes
+	disallow_random_traits = no
+	religion = "azakuism"
+	culture = kathek
+	550.2.5 = {
+		birth = yes
+	}
+}
+
+###############
+# sarnithek  #
+############
+
+sarnithek_001 = {
+	name = "Anfazan"
+	female = no
+	dynasty = 0
+	martial = 13
+	stewardship = 6
+	intrigue = 4
+	diplomacy = 3
+	learning = 3
+	religion = "hacaiak"
+	culture = sarnithek
+	trait = education_stewardship_4
+	trait = wrathful
+	trait = callous
+	trait = diligent
+	trait = intellect_good_3
+	disallow_random_traits = yes
+	545.3.13 = {
+		birth = yes
+	}
+}
+
+
+sarnithek_002 = {
+	name = "Vihamon"
+	female = no
+	dynasty = 0
+	martial = 13
+	stewardship = 6
+	intrigue = 4
+	diplomacy = 3
+	learning = 3
+	religion = "azakuism"
+	culture = sarnithek
+	trait = education_stewardship_4
+	trait = wrathful
+	trait = callous
+	trait = diligent
+	trait = intellect_good_3
+	disallow_random_traits = yes
+	539.3.13 = {
+		birth = yes
+	}
+}
+
+sarnithek_filler_001 = {
+	name = "Matzaman"
+	female = no
+	disallow_random_traits = no
+	religion = "azakuism"
+	culture = kathek
+	572.12.17 = {
+		birth = yes
+	}
+}
+
+sarnithek_filler_002 = {
+	name = "Matzaman"
+	female = no
+	disallow_random_traits = no
+	religion = "azakuism"
+	culture = kathek
+	572.12.17 = {
+		birth = yes
+	}
+}
+
+sarnithek_filler_003 = {
+	name = "Matzaman"
+	female = no
+	disallow_random_traits = no
+	religion = "azakuism"
+	culture = kathek
+	570.12.17 = {
+		birth = yes
+	}
+    587.1.1 = {
+        add_spouse = AZ_6 #
+    }
+}
+
+sarnithek_filler_004 = {
+	name = "Matzaman"
+	female = no
+	disallow_random_traits = no
+	religion = "azakuism"
+	culture = kathek
+	572.12.17 = {
+		birth = yes
+	}
+}
+
+AZ_1 = {
+    name = "Gen1M"
+    culture = "sarnithek"
+    faith = "hacaiak"
+    dynasty = AZ_1 #NewDyn1
+    519.1.1 = {
+        birth = yes
+    }
+    574.1.1 = {
+        death = yes
+    }
+}
+
+AZ_10 = {
+    name = "Gen1M"
+    culture = "sarnithek"
+    faith = "hacaiak"
+    dynasty = AZ_2 #NewDyn2
+    516.1.1 = {
+        birth = yes
+    }
+    566.1.1 = {
+        death = yes
+    }
+}
+
+AZ_11 = {
+    name = "Gen2F"
+    culture = "sarnithek"
+    faith = "hacaiak"
+    female = yes
+    dynasty = AZ_2 #NewDyn2
+    father = AZ_10 #Gen1M
+    540.1.1 = {
+        birth = yes
+    }
+    560.1.1 = {
+        add_spouse = AZ_3 #Gen2M
+    }
+}
+
+AZ_12 = {
+    name = "Gen2M"
+    culture = "sarnithek"
+    faith = "hacaiak"
+    dynasty = AZ_2 #NewDyn2
+    father = AZ_10 #Gen1M
+    538.1.1 = {
+        birth = yes
+    }
+    558.1.1 = {
+        add_spouse = AZ_17 #Gen2F
+    }
+}
+
+AZ_13 = {
+    name = "Gen3F"
+    culture = "sarnithek"
+    faith = "hacaiak"
+    female = yes
+    dynasty = AZ_2 #NewDyn2
+    father = AZ_12 #Gen2M
+    mother = AZ_17 #Gen2F
+    560.1.1 = {
+        birth = yes
+    }
+}
+
+AZ_14 = {
+    name = "Gen3F2"
+    culture = "sarnithek"
+    faith = "hacaiak"
+    female = yes
+    dynasty = AZ_2 #NewDyn2
+    father = AZ_12 #Gen2M
+    mother = AZ_17 #Gen2F
+    566.1.1 = {
+        birth = yes
+    }
+}
+
+AZ_15 = {
+    name = "Gen3M"
+    culture = "sarnithek"
+    faith = "hacaiak"
+    dynasty = AZ_2 #NewDyn2
+    father = AZ_12 #Gen2M
+    mother = AZ_17 #Gen2F
+    563.1.1 = {
+        birth = yes
+    }
+}
+
+AZ_16 = {
+    name = "Gen1M"
+    culture = "sarnithek"
+    faith = "hacaiak"
+    dynasty = AZ_3 #NewDyn3
+    515.1.1 = {
+        birth = yes
+    }
+    572.1.1 = {
+        death = yes
+    }
+}
+
+AZ_17 = {
+    name = "Gen2F"
+    culture = "sarnithek"
+    faith = "hacaiak"
+    female = yes
+    dynasty = AZ_3 #NewDyn3
+    father = AZ_16 #Gen1M
+    538.1.1 = {
+        birth = yes
+    }
+    558.1.1 = {
+        add_spouse = AZ_12 #Gen2M
+    }
+}
+
+AZ_18 = {
+    name = "Gen2F2"
+    culture = "sarnithek"
+    faith = "hacaiak"
+    female = yes
+    dynasty = AZ_3 #NewDyn3
+    father = AZ_16 #Gen1M
+    548.1.1 = {
+        birth = yes
+    }
+    560.1.1 = {
+        add_spouse = AZ_25 #Gen2M
+    }
+}
+
+AZ_19 = {
+    name = "Gen2M"
+    culture = "sarnithek"
+    faith = "hacaiak"
+    dynasty = AZ_3 #NewDyn3
+    father = AZ_16 #Gen1M
+    541.1.1 = {
+        birth = yes
+    }
+    561.1.1 = {
+        add_spouse = AZ_2 #Gen2F
+    }
+}
+
+AZ_2 = {
+    name = "Gen2F"
+    culture = "sarnithek"
+    faith = "hacaiak"
+    female = yes
+    dynasty = AZ_1 #NewDyn1
+    father = AZ_1 #Gen1M
+    541.1.1 = {
+        birth = yes
+    }
+    561.1.1 = {
+        add_spouse = AZ_19 #Gen2M
+    }
+}
+
+AZ_20 = {
+    name = "Gen3F"
+    culture = "sarnithek"
+    faith = "hacaiak"
+    female = yes
+    dynasty = AZ_3 #NewDyn3
+    father = AZ_19 #Gen2M
+    mother = AZ_2 #Gen2F
+    565.1.1 = {
+        birth = yes
+    }
+}
+
+AZ_21 = {
+    name = "Gen3F2"
+    culture = "sarnithek"
+    faith = "hacaiak"
+    female = yes
+    dynasty = AZ_3 #NewDyn3
+    father = AZ_19 #Gen2M
+    mother = AZ_2 #Gen2F
+    570.1.1 = {
+        birth = yes
+    }
+}
+
+AZ_22 = {
+    name = "Gen3M"
+    culture = "sarnithek"
+    faith = "hacaiak"
+    dynasty = AZ_3 #NewDyn3
+    father = AZ_19 #Gen2M
+    mother = AZ_2 #Gen2F
+    562.1.1 = {
+        birth = yes
+    }
+}
+
+AZ_23 = {
+    name = "Gen1M"
+    culture = "sarnithek"
+    faith = "hacaiak"
+    dynasty = AZ_4 #NewDyn4
+    520.1.1 = {
+        birth = yes
+    }
+    571.1.1 = {
+        death = yes
+    }
+}
+
+AZ_24 = {
+    name = "Gen2F"
+    culture = "sarnithek"
+    faith = "hacaiak"
+    female = yes
+    dynasty = AZ_4 #NewDyn4
+    father = AZ_23 #Gen1M
+    546.1.1 = {
+        birth = yes
+    }
+    565.1.1 = {
+        add_spouse = AZ_4 #Gen2M2
+    }
+}
+
+AZ_25 = {
+    name = "Gen2M"
+    culture = "sarnithek"
+    faith = "hacaiak"
+    dynasty = AZ_4 #NewDyn4
+    father = AZ_23 #Gen1M
+    550.1.1 = {
+        birth = yes
+    }
+    560.1.1 = {
+        add_spouse = AZ_18 #Gen2F2
+    }
+}
+
+AZ_26 = {
+    name = "Gen3F"
+    culture = "sarnithek"
+    faith = "hacaiak"
+    female = yes
+    dynasty = AZ_4 #NewDyn4
+    father = AZ_25 #Gen2M
+    mother = AZ_18 #Gen2F2
+    567.1.1 = {
+        birth = yes
+    }
+}
+
+AZ_27 = {
+    name = "Gen3F2"
+    culture = "sarnithek"
+    faith = "hacaiak"
+    female = yes
+    dynasty = AZ_4 #NewDyn4
+    father = AZ_25 #Gen2M
+    mother = AZ_18 #Gen2F2
+    569.1.1 = {
+        birth = yes
+    }
+}
+
+AZ_28 = {
+    name = "Gen3M"
+    culture = "sarnithek"
+    faith = "hacaiak"
+    dynasty = AZ_4 #NewDyn4
+    father = AZ_25 #Gen2M
+    mother = AZ_18 #Gen2F2
+    561.1.1 = {
+        birth = yes
+    }
+}
+
+AZ_29 = {
+    name = "Gen3M2"
+    culture = "sarnithek"
+    faith = "hacaiak"
+    dynasty = AZ_4 #NewDyn4
+    father = AZ_25 #Gen2M
+    mother = AZ_18 #Gen2F2
+    564.1.1 = {
+        birth = yes
+    }
+}
+
+AZ_3 = {
+    name = "Gen2M"
+    culture = "sarnithek"
+    faith = "hacaiak"
+    dynasty = AZ_1 #NewDyn1
+    father = AZ_1 #Gen1M
+    540.1.1 = {
+        birth = yes
+    }
+    560.1.1 = {
+        add_spouse = AZ_11 #Gen2F
+    }
+    586.1.1 = {
+        death = yes
+    }
+}
+
+AZ_4 = {
+    name = "Gen2M2"
+    culture = "sarnithek"
+    faith = "hacaiak"
+    dynasty = AZ_1 #NewDyn1
+    father = AZ_1 #Gen1M
+    546.1.1 = {
+        birth = yes
+    }
+    565.1.1 = {
+        add_spouse = AZ_24 #Gen2F
+    }
+}
+
+AZ_5 = {
+    name = "Gen3F"
+    culture = "sarnithek"
+    faith = "hacaiak"
+    female = yes
+    dynasty = AZ_1 #NewDyn1
+    father = AZ_4 #Gen2M2
+    mother = AZ_24 #Gen2F
+    567.1.1 = {
+        birth = yes
+    }
+}
+
+AZ_6 = {
+    name = "Gen3F"
+    culture = "sarnithek"
+    faith = "hacaiak"
+    female = yes
+    dynasty = AZ_1 #NewDyn1
+    father = AZ_3 #Gen2M
+    mother = AZ_11 #Gen2F
+    570.11.11 = {
+        birth = yes
+    }
+}
+
+AZ_7 = {
+    name = "Gen3M"
+    religion = "azakuism"
+    culture = kathek
+    dynasty = AZ_1 #NewDyn1
+    diplomacy = 8
+    martial = 7
+    stewardship = 6
+    intrigue = 6
+    learning = 8
+    trait = education_diplomacy_4
+    trait = gregarious
+    trait = brave
+    trait = stubborn
+    trait = diplomat
+    father = AZ_3 #Gen2M
+    mother = AZ_11 #Gen2F
+    562.1.1 = {
+        birth = yes
+    }
+}
+
+AZ_8 = {
+    name = "Gen3M"
+    culture = "sarnithek"
+    faith = "hacaiak"
+    dynasty = AZ_1 #NewDyn1
+    father = AZ_4 #Gen2M2
+    mother = AZ_24 #Gen2F
+    570.1.1 = {
+        birth = yes
+    }
+}
+
+AZ_9 = {
+    name = "Gen3M2"
+    culture = kathek
+    faith = "hacaiak"
+    dynasty = AZ_1 #NewDyn1
+    father = AZ_3 #Gen2M
+    mother = AZ_11 #Gen2F
+    565.1.1 = {
+        birth = yes
+    }
+}
+

@@ -1,0 +1,114 @@
+﻿# This file contains the setup effects for the tributaries in the game.
+# The setup_tributaries_effect is invoked by on_game_start and should make calls to subsequent scripted effects.
+# Sections are organized by top-suzerain title.
+# Note that existing vassals (as established in title history) must be released and recreated into tributaries before
+# they can have their own tributaries.
+
+setup_tributaries_effect = {
+	if = {	
+		if = {
+			limit = { current_date = 587.1.1 } # so, 587
+			base_587_tributary_setup_effect = yes
+		}
+	}
+}
+# $TRIBUTARY$ = the new tributary
+# $SUZERAIN$ = their suzerain
+# $WAR$ = determines if this was caused by war or agreement, yes or no
+break_subject_contract_and_establish_tributary_effect = {
+	if = {
+		limit = { liege != this }
+		create_title_and_vassal_change = {
+			type = independency
+			save_scope_as = change
+			add_claim_on_loss = no
+		}
+		becomes_independent = {
+			change = scope:change
+		}
+		resolve_title_and_vassal_change = scope:change
+	}
+	start_tributary_interaction_effect = {
+		SUZERAIN = $SUZERAIN$
+		TRIBUTARY = $TRIBUTARY$
+	}
+}
+
+base_587_tributary_setup_effect = {
+
+	character:calven_001 = { # Sarrona of The River Coast Company
+		save_scope_as = suzerain
+		character:aiothek_001 = { # Loran'Dei 
+			break_subject_contract_and_establish_tributary_effect = { SUZERAIN = scope:suzerain TRIBUTARY = this }
+		}
+	}
+
+	character:aiothek_002  = { # Sarrona of The River Coast Company
+		save_scope_as = suzerain
+		character:aiothek_filler_002 = { # Loran'Dei 
+			break_subject_contract_and_establish_tributary_effect = { SUZERAIN = scope:suzerain TRIBUTARY = this }
+		}
+	}
+
+	character:aiothek_002  = { # Sarrona of The River Coast Company
+		save_scope_as = suzerain
+		character:aiothek_filler_003 = { # Loran'Dei 
+			break_subject_contract_and_establish_tributary_effect = { SUZERAIN = scope:suzerain TRIBUTARY = this }
+		}
+	}
+
+	character:70 = { # Caliph ak-Mu'tazz ibn al-Mutawakkil (Abbasid) of the Abbasid Empire
+	character:290 = { # Caliph ak-Mu'tazz ibn al-Mutawakkil (Abbasid) of the Abbasid Empire
+		save_scope_as = suzerain
+		character:88 = { # Prince Ashot (Bagratuni) of Armenian Principality (Subjugated Tributary)
+		character:281 = { # Prince Ashot (Bagratuni) of Armenian Principality (Subjugated Tributary)
+			break_subject_contract_and_establish_tributary_effect = { SUZERAIN = scope:suzerain TRIBUTARY = this }
+		}
+		character:65 = { # Prince Ashot (Bagratuni) of Armenian Principality (Subjugated Tributary)
+			break_subject_contract_and_establish_tributary_effect = { SUZERAIN = scope:suzerain TRIBUTARY = this }
+		}
+		character:66 = { # Prince Ashot (Bagratuni) of Armenian Principality (Subjugated Tributary)
+			break_subject_contract_and_establish_tributary_effect = { SUZERAIN = scope:suzerain TRIBUTARY = this }
+		}
+		character:87 = { # Prince Ashot (Bagratuni) of Armenian Principality (Subjugated Tributary)
+		character:283 = { # Prince Ashot (Bagratuni) of Armenian Principality (Subjugated Tributary)
+			break_subject_contract_and_establish_tributary_effect = { SUZERAIN = scope:suzerain TRIBUTARY = this }
+		}
+	}
+
+	character:67 = { # Caliph ak-Mu'tazz ibn al-Mutawakkil (Abbasid) of the Abbasid Empire
+	character:289 = { # Caliph ak-Mu'tazz ibn al-Mutawakkil (Abbasid) of the Abbasid Empire
+		save_scope_as = suzerain
+		character:73 = { # Prince Ashot (Bagratuni) of Armenian Principality (Subjugated Tributary)
+			break_subject_contract_and_establish_tributary_effect = { SUZERAIN = scope:suzerain TRIBUTARY = this }
+		}
+		character:64 = { # Prince Ashot (Bagratuni) of Armenian Principality (Subjugated Tributary)
+			break_subject_contract_and_establish_tributary_effect = { SUZERAIN = scope:suzerain TRIBUTARY = this }
+		}
+		character:75 = { # Prince Ashot (Bagratuni) of Armenian Principality (Subjugated Tributary)
+		character:303 = { # Prince Ashot (Bagratuni) of Armenian Principality (Subjugated Tributary)
+			break_subject_contract_and_establish_tributary_effect = { SUZERAIN = scope:suzerain TRIBUTARY = this }
+		}
+	}
+
+	character:sarnithek_001 = { # God-King Setup
+		save_scope_as = suzerain
+		character:AZ_9 = { # Dyn1 
+			break_subject_contract_and_establish_tributary_effect = { SUZERAIN = scope:suzerain TRIBUTARY = this }
+		}
+	}
+
+	character:sarnithek_001  = { # God-King Setup
+		save_scope_as = suzerain
+		character:AZ_19 = { # Dyn3
+			break_subject_contract_and_establish_tributary_effect = { SUZERAIN = scope:suzerain TRIBUTARY = this }
+		}
+	}
+
+	character:sarnithek_001  = { # God-King Setup
+		save_scope_as = suzerain
+		character:AZ_25 = { # Dyn4 
+			break_subject_contract_and_establish_tributary_effect = { SUZERAIN = scope:suzerain TRIBUTARY = this }
+		}
+	}
+}

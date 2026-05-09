@@ -1,0 +1,7 @@
+﻿################################
+## AR CHARACTER LORE CONCEPTS ##
+################################
+grevetica = {
+	texture = "gfx/interface/icons/traits/shrewd.dds"
+}
+

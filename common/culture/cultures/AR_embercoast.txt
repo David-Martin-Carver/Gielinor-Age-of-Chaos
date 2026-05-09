@@ -1,0 +1,134 @@
+braxan = {
+	color = { 0.7 0.1 0.7 }
+	
+	ethos = ethos_spiritual
+	heritage = heritage_embercoast
+	language = language_eastern
+	martial_custom = martial_custom_male_only
+	traditions = {
+		tradition_mountain_homes
+		tradition_isolationist
+		tradition_fp2_ritualised_friendship
+		tradition_family_entrepreneurship
+		tradition_fervent_temple_builders
+	}
+	
+	name_list = name_list_arbundian
+	
+	coa_gfx = { english_coa_gfx western_coa_gfx }
+	building_gfx = { mediterranean_building_gfx }
+	clothing_gfx = { byzantine_clothing_gfx western_clothing_gfx }
+	unit_gfx = { western_unit_gfx }
+	
+	ethnicities = {
+		100 = arbundian
+	}
+}
+
+calven = {
+	color = { 0.8 0.1 0.8 }
+	
+	ethos = ethos_courtly
+	heritage = heritage_embercoast
+	language = language_eastern
+	martial_custom = martial_custom_male_only
+	traditions = {
+		tradition_maritime_mercantilism
+		tradition_fp2_ritualised_friendship
+		tradition_seafaring
+		tradition_city_keepers
+		tradition_gardening
+	}
+	
+	name_list = name_list_matriarchal_arbundian
+	
+	coa_gfx = { english_coa_gfx western_coa_gfx }
+	building_gfx = { mediterranean_building_gfx }
+	clothing_gfx = { byzantine_clothing_gfx western_clothing_gfx }
+	unit_gfx = { western_unit_gfx }
+	
+	ethnicities = {
+		100 = arbundian
+	}
+}
+
+orrath = {
+	color = { 0.9 0.1 0.9 }
+	
+	ethos = ethos_bureaucratic
+	heritage = heritage_embercoast	
+	language = language_eastern
+	martial_custom = martial_custom_male_only
+	traditions = {
+		tradition_maritime_mercantilism
+		tradition_fp2_ritualised_friendship
+		tradition_seafaring
+		tradition_language_scholars
+		tradition_ce1_ritual_washing
+	}
+	
+	name_list = name_list_erro_arbundian
+	
+	coa_gfx = { english_coa_gfx western_coa_gfx }
+	building_gfx = { mediterranean_building_gfx }
+	clothing_gfx = { byzantine_clothing_gfx western_clothing_gfx }
+	unit_gfx = { iberian_christian_unit_gfx }
+	
+	ethnicities = {
+		100 = arbundian
+	}
+}
+
+south_arbundian = {
+	color = { 0.1 0.2 0.7 }
+	
+	ethos = ethos_bureaucratic
+	heritage = heritage_arbian
+	language = language_arbundian
+	martial_custom = martial_custom_male_only
+	traditions = {
+		tradition_family_entrepreneurship
+		tradition_chivalry
+		tradition_culture_blending
+		tradition_city_keepers
+		tradition_artisans
+	}
+	
+	name_list = name_list_south_arbundian
+	
+	coa_gfx = { english_coa_gfx western_coa_gfx }
+	building_gfx = { western_building_gfx }
+	clothing_gfx = { iberian_christian_clothing_gfx western_clothing_gfx }
+	unit_gfx = { iberian_christian_unit_gfx }
+	
+	ethnicities = {
+		100 = arbundian
+	}
+}
+
+north_arbundian = {
+	color = { 0.1 0.3 0.7 }
+	
+	ethos = ethos_stoic
+	heritage = heritage_arbian
+	language = language_arbundian
+	martial_custom = martial_custom_male_only
+	traditions = {
+		tradition_mountain_homes
+		tradition_ruling_caste
+		tradition_martial_admiration
+		tradition_castle_keepers
+		tradition_monastic_communities
+	}
+	
+	name_list = name_list_north_arbundian
+	
+	coa_gfx = { english_coa_gfx western_coa_gfx }
+	building_gfx = { western_building_gfx }
+	clothing_gfx = { western_clothing_gfx }
+	unit_gfx = { northern_unit_gfx }
+	
+	ethnicities = {
+		100 = arbundian
+	}
+}

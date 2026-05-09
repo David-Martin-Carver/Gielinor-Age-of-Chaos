@@ -1,0 +1,239 @@
+﻿name_list_calraian = {
+
+	cadet_dynasty_names = {
+		"dynn_Peras"
+		"dynn_Vistris"
+		"dynn_Melas"
+		"dynn_Lorel"
+		"dynn_Werring"
+		"dynn_Folver"
+		"dynn_Gand"
+		"dynn_Gotsfrie"
+		"dynn_Gotbund"
+		"dynn_Astrund"
+		"dynn_Castford"
+		"dynn_Boundrend"
+		"dynn_Fostercast"
+		"dynn_Juscalt"
+		"dynn_Matrond"
+		"dynn_Francost"
+		"dynn_Malbunt"
+		"dynn_Castrond"
+		"dynn_Baelwold"
+		"dynn_Justrund"
+		"dynn_Postrant"
+		"dynn_Carwent"
+		"dynn_Wentrond"
+		"dynn_Precedent"
+		"dynn_Garbatred"
+		"dynn_Saelwont"
+		"dynn_Lancred"
+		"dynn_Mawling"
+		"dynn_Maelwoldt"
+		"dynn_Faelgrund"
+		"dynn_Arclost"
+		"dynn_Jerustolt"
+		"dynn_Plaetrunt"
+		"dynn_Jaskrent"
+		"dynn_Aileworte"
+		"dynn_Artrunt"
+		"dynn_Haelwund"
+		"dynn_Ashfort"
+		"dynn_Verring"
+		"dynn_Garroling"
+	}
+
+	dynasty_names = {
+		"dynn_Peras"
+		"dynn_Vistris"
+		"dynn_Melas"
+		"dynn_Lorel"
+		"dynn_Werring"
+		"dynn_Folver"
+		"dynn_Gand"
+		"dynn_Gotsfrie"
+		"dynn_Gotbund"
+		"dynn_Astrund"
+		"dynn_Castford"
+		"dynn_Boundrend"
+		"dynn_Fostercast"
+		"dynn_Juscalt"
+		"dynn_Matrond"
+		"dynn_Francost"
+		"dynn_Malbunt"
+		"dynn_Castrond"
+		"dynn_Baelwold"
+		"dynn_Justrund"
+		"dynn_Postrant"
+		"dynn_Carwent"
+		"dynn_Wentrond"
+		"dynn_Precedent"
+		"dynn_Garbatred"
+		"dynn_Saelwont"
+		"dynn_Lancred"
+		"dynn_Mawling"
+		"dynn_Maelwoldt"
+		"dynn_Faelgrund"
+		"dynn_Arclost"
+		"dynn_Jerustolt"
+		"dynn_Plaetrunt"
+		"dynn_Jaskrent"
+		"dynn_Aileworte"
+		"dynn_Artrunt"
+		"dynn_Haelwund"
+		"dynn_Ashfort"
+		"dynn_Verring"
+		"dynn_Garroling"
+	}
+	
+	male_names = {
+		Corlof Nephrid Inisted Ejeris Pelcrof Hanarist Volacidias Belendir Conached Urnes Olthedas
+		Geosphry Olanthred Wolrof Winethed Cordagael Canphird Algais Alrof Coidril Henerof Hephri
+		Ilrolph Tolched Ronolf Recrof Ponalry
+	}
+	female_names = {
+		Deneria Corlifa Cofrisa Conachia Cordagela Canphira Ilneris Ilrolfa Inistia Inistesia 
+		Volacidia Acrista Algaisa Alriva Tenaria Tolchena Ejeria Olthedra Olanphria Olthena
+		Nephrina Winetha Wolrisa Ronela Recra Ponalria Hanarith Hephria
+	}
+	
+	# Chance of male children being named after their paternal or maternal grandfather, or their father. Sum must not exceed 100.
+	pat_grf_name_chance = 30
+	mat_grf_name_chance = 10
+	father_name_chance = 25
+	
+	# Chance of female children being named after their paternal or maternal grandmother, or their mother. Sum must not exceed 100.
+	pat_grm_name_chance = 20
+	mat_grm_name_chance = 40
+	mother_name_chance = 5
+	
+	
+
+	mercenary_names = {
+		{ name = "mercenary_company_white_company" coat_of_arms = "mc_white_company" }
+		{ name = "mercenary_company_hawkwoods_band" }
+	}
+}
+
+name_list_tevran = {
+
+	cadet_dynasty_names = {
+		"dynn_Peras"
+		"dynn_Vistris"
+		"dynn_Melas"
+		"dynn_Lorel"
+		"dynn_Werring"
+		"dynn_Folver"
+		"dynn_Gand"
+		"dynn_Gotsfrie"
+		"dynn_Gotbund"
+		"dynn_Astrund"
+		"dynn_Castford"
+		"dynn_Boundrend"
+		"dynn_Fostercast"
+		"dynn_Juscalt"
+		"dynn_Matrond"
+		"dynn_Francost"
+		"dynn_Malbunt"
+		"dynn_Castrond"
+		"dynn_Baelwold"
+		"dynn_Justrund"
+		"dynn_Postrant"
+		"dynn_Carwent"
+		"dynn_Wentrond"
+		"dynn_Precedent"
+		"dynn_Garbatred"
+		"dynn_Saelwont"
+		"dynn_Lancred"
+		"dynn_Mawling"
+		"dynn_Maelwoldt"
+		"dynn_Faelgrund"
+		"dynn_Arclost"
+		"dynn_Jerustolt"
+		"dynn_Plaetrunt"
+		"dynn_Jaskrent"
+		"dynn_Aileworte"
+		"dynn_Artrunt"
+		"dynn_Haelwund"
+		"dynn_Ashfort"
+		"dynn_Verring"
+		"dynn_Garroling"
+	}
+
+	dynasty_names = {
+		"dynn_Peras"
+		"dynn_Vistris"
+		"dynn_Melas"
+		"dynn_Lorel"
+		"dynn_Werring"
+		"dynn_Folver"
+		"dynn_Gand"
+		"dynn_Gotsfrie"
+		"dynn_Gotbund"
+		"dynn_Astrund"
+		"dynn_Castford"
+		"dynn_Boundrend"
+		"dynn_Fostercast"
+		"dynn_Juscalt"
+		"dynn_Matrond"
+		"dynn_Francost"
+		"dynn_Malbunt"
+		"dynn_Castrond"
+		"dynn_Baelwold"
+		"dynn_Justrund"
+		"dynn_Postrant"
+		"dynn_Carwent"
+		"dynn_Wentrond"
+		"dynn_Precedent"
+		"dynn_Garbatred"
+		"dynn_Saelwont"
+		"dynn_Lancred"
+		"dynn_Mawling"
+		"dynn_Maelwoldt"
+		"dynn_Faelgrund"
+		"dynn_Arclost"
+		"dynn_Jerustolt"
+		"dynn_Plaetrunt"
+		"dynn_Jaskrent"
+		"dynn_Aileworte"
+		"dynn_Artrunt"
+		"dynn_Haelwund"
+		"dynn_Ashfort"
+		"dynn_Verring"
+		"dynn_Garroling"
+	}
+	
+	# Does not exist in 1066 - is the result of cultural amalgamation between Saxon and Norman through events
+	male_names = {
+		Aodhric Bairdan Caileanach Daervin Domharlach Eòrin Fearghann Gilleanric Lutharn Maolbrecht Nèallan Oisean Pàidrig
+		Raoghan Sèaghdan Taoglach Ualan Fionnlaoch Dubhagan Eòthach Muircharan Aodhmas Ruairc Tormalach Eanrig Gormalach
+		Alastrach Bréanainn Criochann Guairean Laoghan Coinneanach Eircinn Seadhach Farchanach Màelduinn Gilleasgar Fintarn 
+		Sgurran Tòrraidh Donnachlach Uisdeann Cairbreag Murtaghann Eogalach Conncharan Fearadhann Teàrlann Bhaltairich
+		Grioghalloch Maoltharn Iomhairn Tuathalric Cearbran Aonghallach Glaisneach Màelcatharn Bòidric Ùislean Latharnach
+	}
+	female_names = {
+		Ailisenn Bhaltaira Caitriannach Dairenach Ealasaidhen Fionnlaidh Gormlaoch Liadainn Maelbhrithe Neasain Oighrighe
+		Pàidrighe Rionnagha Saorlaoch Tearnsaidh Uanalaidh Fearghala Dubhshlàine Aodhmaigh Ruadhailidh Torclaidh Eibhlidh
+		Gormalann Alastrann Brighdeann Crionmaigh Guairidh Laoghainn Coinnearaidh Eircailidh Seadhala Farchnaidh Màelsaileach
+		Gilleanraidh Fionnagha Sgurragha Tòrrana Donnachlaidh Uisdeana Cairbreanna Murtagha Eogalagh Conncharaidh Fearadhaidh
+		Teàrlaghna Bhaltairna Grioghallna Maoltharna Iomhairna Tuathalra Cearbraigh Aonghaile Glaisneagh Màelcathna Bòidraidh
+		Ùislea Latharna Sorchaidh Beathanna Nèaracha
+	}
+	
+	# Chance of male children being named after their paternal or maternal grandfather, or their father. Sum must not exceed 100.
+	pat_grf_name_chance = 30
+	mat_grf_name_chance = 10
+	father_name_chance = 25
+	
+	# Chance of female children being named after their paternal or maternal grandmother, or their mother. Sum must not exceed 100.
+	pat_grm_name_chance = 20
+	mat_grm_name_chance = 40
+	mother_name_chance = 5
+	
+	
+
+	mercenary_names = {
+		{ name = "mercenary_company_white_company" coat_of_arms = "mc_white_company" }
+		{ name = "mercenary_company_hawkwoods_band" }
+	}
+}

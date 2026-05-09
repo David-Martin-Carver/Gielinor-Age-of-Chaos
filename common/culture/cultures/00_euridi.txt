@@ -1,0 +1,27 @@
+﻿euradan = {
+	color = { 0.1 0.75 0.1 }
+	
+	ethos = ethos_stoic
+	heritage = heritage_euridi
+	language = language_herridin
+	martial_custom = martial_custom_male_only
+	traditions = {
+		tradition_mountaineer_ruralism
+		tradition_stalwart_defenders
+		tradition_isolationist
+		tradition_loyal_soldiers
+		tradition_fp2_ritualised_friendship
+	}
+	
+	name_list = name_list_euradan
+	
+	coa_gfx = { english_coa_gfx western_coa_gfx }
+	building_gfx = { western_building_gfx }
+	clothing_gfx = { byzantine_clothing_gfx western_clothing_gfx }
+	unit_gfx = { western_unit_gfx }
+	
+	ethnicities = {
+		100 = euradan
+	}
+}
+

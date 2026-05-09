@@ -1,7 +1,7 @@
 ﻿layer={
 	name="temp_layer"
 	fade_in=0
-	fade_out=14
+	fade_out=11
 	category=""
 	masks=""
 	visibility_tags=""
@@ -9,7 +9,7 @@
 layer={
 	name="test_object_layer"
 	fade_in=0
-	fade_out=14
+	fade_out=11
 	category=""
 	masks=""
 	visibility_tags=""

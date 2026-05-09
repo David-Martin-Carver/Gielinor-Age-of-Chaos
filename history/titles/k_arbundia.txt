@@ -1,0 +1,373 @@
+e_barathia = {
+	587.1.1 = { change_development_level = 16 }
+	480.1.1 = {
+		holder = ARB_208
+	}
+	522.1.1 = {
+		holder = ARB_220
+	}
+	557.1.1 = {
+		holder = ARB_237
+	}
+}
+
+k_arbundia = {
+	587.1.1 = { change_development_level = 16 }
+}
+
+d_duchy2 = {
+	587.1.1 = { change_development_level = 16 }
+	587.1.1 = { government = feudal_government }
+	480.1.1 = {
+		holder = ARB_208
+	}
+	522.1.1 = {
+		holder = ARB_220
+	}
+	557.1.1 = {
+		holder = ARB_237
+	}
+	579.1.1 = {
+		holder = ARB_290
+	}
+}
+
+c_8 = {
+	587.1.1 = { change_development_level = 16 }
+	587.1.1 = { government = feudal_government }
+	480.1.1 = {
+		holder = ARB_208
+	}
+	522.1.1 = {
+		holder = ARB_220
+	}
+	557.1.1 = {
+		holder = ARB_237
+	}
+	579.1.1 = {
+		holder = ARB_290
+	}
+}
+
+c_12 = {
+	587.1.1 = { change_development_level = 16 }
+	587.1.1 = { government = feudal_government }
+	480.1.1 = {
+		holder = ARB_208
+	}
+	522.1.1 = {
+		holder = ARB_220
+	}
+	557.1.1 = {
+		holder = ARB_237
+	}
+	579.1.1 = {
+		holder = ARB_290
+	}
+}
+
+c_13 = {
+	587.1.1 = { change_development_level = 16 }
+	587.1.1 = { government = feudal_government }
+	587.1.1 = {
+		liege = d_duchy2
+	}
+	510.1.1 = {
+		holder = ARB_227
+	}
+	557.1.1 = {
+		holder = ARB_259
+	}
+	585.1.1 = {
+		holder = ARB_325
+	}
+}
+
+c_11 = {
+	587.1.1 = { change_development_level = 16 }
+	587.1.1 = { government = feudal_government }
+	587.1.1 = {
+		liege = d_duchy2
+	}
+	510.1.1 = {
+		holder = ARB_227
+	}
+	557.1.1 = {
+		holder = ARB_259
+	}
+	585.1.1 = {
+		holder = ARB_322
+	}
+}
+
+c_10 = {
+	587.1.1 = { change_development_level = 16 }
+	587.1.1 = { government = feudal_government }
+	587.1.1 = {
+		liege = d_duchy2
+	}
+	510.1.1 = {
+		holder = ARB_227
+	}
+	557.1.1 = {
+		holder = ARB_259
+	}
+	585.1.1 = {
+		holder = ARB_322
+	}
+}
+
+c_15 = {
+	587.1.1 = { change_development_level = 16 }
+	587.1.1 = { government = feudal_government }
+	510.1.1 = {
+		holder = ARB_227
+	}
+	557.1.1 = {
+		holder = ARB_257
+	}
+}
+
+c_14 = {
+	587.1.1 = { change_development_level = 16 }
+	587.1.1 = { government = feudal_government }
+	510.1.1 = {
+		holder = ARB_227
+	}
+	557.1.1 = {
+		holder = ARB_257
+	}
+}
+
+d_duchy1 = {
+	587.1.1 = { change_development_level = 16 }
+	587.1.1 = { government = feudal_government }
+	480.1.1 = {
+		holder = ARB_206
+	}
+	522.1.1 = {
+		holder = ARB_218
+	}
+	557.1.1 = {
+		holder = ARB_230
+	}
+	580.1.1 = {
+		holder = ARB_278
+	}
+}
+
+c_1 = {
+	587.1.1 = { change_development_level = 16 }
+	587.1.1 = { government = feudal_government }
+	480.1.1 = {
+		holder = ARB_206
+	}
+	522.1.1 = {
+		holder = ARB_218
+	}
+	557.1.1 = {
+		holder = ARB_230
+	}
+	580.1.1 = {
+		holder = ARB_278
+	}
+}
+
+c_2 = {
+	587.1.1 = { change_development_level = 16 }
+	587.1.1 = { government = feudal_government }
+	480.1.1 = {
+		holder = ARB_206
+	}
+	522.1.1 = {
+		holder = ARB_218
+	}
+	557.1.1 = {
+		holder = ARB_230
+	}
+	580.1.1 = {
+		holder = ARB_278
+	}
+}
+
+c_3 = {
+	587.1.1 = { change_development_level = 16 }
+	587.1.1 = { government = feudal_government }
+	480.1.1 = {
+		holder = ARB_206
+	}
+	522.1.1 = {
+		holder = ARB_218
+	}
+	557.1.1 = {
+		holder = ARB_230
+	}
+	580.1.1 = {
+		liege = d_duchy1
+	}
+	580.1.1 = {
+		holder = ARB_279
+	}
+}
+
+c_5 = {
+	587.1.1 = { change_development_level = 16 }
+	587.1.1 = { government = feudal_government }
+	480.1.1 = {
+		holder = ARB_206
+	}
+	522.1.1 = {
+		holder = ARB_218
+	}
+	557.1.1 = {
+		holder = ARB_232
+	}
+	583.1.1 = {
+		liege = d_duchy2
+	}
+	583.1.1 = {
+		holder = ARB_281
+	}
+}
+
+c_6 = {
+	587.1.1 = { change_development_level = 16 }
+	587.1.1 = { government = feudal_government }
+	480.1.1 = {
+		holder = ARB_206
+	}
+	522.1.1 = {
+		holder = ARB_218
+	}
+	557.1.1 = {
+		holder = ARB_232
+	}
+	583.1.1 = {
+		liege = d_duchy2
+	}
+	583.1.1 = {
+		holder = ARB_281
+	}
+}
+
+c_7 = {
+	587.1.1 = { change_development_level = 16 }
+	587.1.1 = { government = feudal_government }
+	480.1.1 = {
+		holder = ARB_206
+	}
+	522.1.1 = {
+		holder = ARB_218
+	}
+	557.1.1 = {
+		holder = ARB_232
+	}
+	583.1.1 = {
+		liege = d_duchy2
+	}
+	583.1.1 = {
+		holder = ARB_283
+	}
+}
+
+c_135 = {
+	587.1.1 = { change_development_level = 16 }
+	587.1.1 = { government = feudal_government }
+	480.1.1 = {
+		holder = ARB_212
+	}
+	522.1.1 = {
+		holder = ARB_224
+	}
+	557.1.1 = {
+		holder = ARB_249
+	}
+	572.1.1 = {
+		holder = ARB_305
+	}
+}
+
+c_133 = {
+	587.1.1 = { change_development_level = 16 }
+	587.1.1 = { government = feudal_government }
+	480.1.1 = {
+		holder = ARB_212
+	}
+	522.1.1 = {
+		holder = ARB_224
+	}
+	557.1.1 = {
+		holder = ARB_249
+	}
+	572.1.1 = {
+		holder = ARB_305
+	}
+}
+
+c_134 = {
+	587.1.1 = { change_development_level = 16 }
+	587.1.1 = { government = feudal_government }
+	480.1.1 = {
+		holder = ARB_212
+	}
+	522.1.1 = {
+		holder = ARB_224
+	}
+	557.1.1 = {
+		holder = ARB_249
+	}
+	572.1.1 = {
+		holder = ARB_306
+	}
+}
+
+c_131 = {
+	587.1.1 = { change_development_level = 16 }
+	587.1.1 = { government = feudal_government }
+	480.1.1 = {
+		holder = ARB_212
+	}
+	522.1.1 = {
+		holder = ARB_224
+	}
+	557.1.1 = {
+		holder = ARB_250
+	}
+	578.1.1 = {
+		holder = ARB_308
+	}
+}
+
+c_130 = {
+	587.1.1 = { change_development_level = 16 }
+	587.1.1 = { government = feudal_government }
+	480.1.1 = {
+		holder = ARB_212
+	}
+	522.1.1 = {
+		holder = ARB_224
+	}
+	557.1.1 = {
+		holder = ARB_250
+	}
+	578.1.1 = {
+		holder = ARB_308
+	}
+}
+
+c_132 = {
+	587.1.1 = { change_development_level = 16 }
+	587.1.1 = { government = feudal_government }
+	480.1.1 = {
+		holder = ARB_212
+	}
+	522.1.1 = {
+		holder = ARB_224
+	}
+	557.1.1 = {
+		holder = ARB_250
+	}
+	578.1.1 = {
+		holder = ARB_308
+	}
+}

@@ -1,0 +1,13 @@
+﻿################################
+## AR GEOGRAPHY LORE CONCEPTS ##
+################################
+
+arbundia = {
+	texture = "gfx/interface/icons/traits/shrewd.dds"
+}
+spring_floods = {
+	texture = "gfx/interface/icons/traits/shrewd.dds"
+}
+unnamed_rivers = {
+	texture = "gfx/interface/icons/traits/shrewd.dds"
+}

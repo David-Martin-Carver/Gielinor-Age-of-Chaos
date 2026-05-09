@@ -1,0 +1,6 @@
+building_river_tower_requirement_terrain = {
+    AND = {
+        culture = { has_cultural_parameter = unlock_river_tower_building }
+        is_riverside_province = yes
+    }
+}

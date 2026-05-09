@@ -1,0 +1,4 @@
+﻿grev_clergy = {
+	trait = education_learning
+	trait = grevetican_devoted
+}

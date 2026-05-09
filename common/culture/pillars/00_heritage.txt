@@ -1,3 +1,83 @@
+﻿heritage_embercoast = {
+	type = heritage
+	is_shown = {
+		heritage_is_shown_trigger = {
+			HERITAGE = heritage_embercoast
+		}
+	}
+	audio_parameter = european
+}
+
+heritage_stormward = {
+	type = heritage
+	is_shown = {
+		heritage_is_shown_trigger = {
+			HERITAGE = heritage_stormward
+		}
+	}
+	audio_parameter = european
+}
+
+heritage_elderwald = {
+	type = heritage
+	is_shown = {
+		heritage_is_shown_trigger = {
+			HERITAGE = heritage_elderwald
+		}
+	}
+	audio_parameter = european
+}
+
+heritage_eastern_abrundian = { 
+	type = heritage
+	is_shown = {
+		heritage_is_shown_trigger = {
+			HERITAGE = heritage_eastern_abrundian
+		}
+	}
+	audio_parameter = european
+}
+
+heritage_arbian = { 
+	type = heritage
+	is_shown = {
+		heritage_is_shown_trigger = {
+			HERITAGE = heritage_arbian
+		}
+	}
+	audio_parameter = european
+}
+
+heritage_northern_abrundian = { 
+	type = heritage
+	is_shown = {
+		heritage_is_shown_trigger = {
+			HERITAGE = heritage_northern_abrundian
+		}
+	}
+	audio_parameter = european
+}
+
+heritage_thekari = {
+	type = heritage
+	is_shown = {
+		heritage_is_shown_trigger = {
+			HERITAGE = heritage_thekari
+		}
+	}
+	audio_parameter = european
+}
+
+heritage_melru = { 
+	type = heritage
+	is_shown = {
+		heritage_is_shown_trigger = {
+			HERITAGE = heritage_melru
+		}
+	}
+	audio_parameter = european
+}
+
 heritage_bandosian = {
 	type = heritage
 	is_shown = {

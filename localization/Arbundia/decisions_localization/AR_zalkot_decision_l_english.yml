@@ -1,0 +1,6 @@
+﻿l_english:
+ zalkot_prophecy_ritual_decision:0 "Commence Prophetic Ritual"
+ zalkot_prophecy_ritual_decision_desc:0 "A devoted spirit, prepared to pierce death's veil, is all it takes for us to gain insight into what is yet to come."
+ zalkot_prophecy_ritual_decision_confirm:0 "The future is ours.."
+ zalkot_prophecy_ritual_decision_tooltip:0 "Your [GetCourtPositionType('zalkot_seer_court_position').GetName()] will sacrifice themselves by ingesting a concoction with a lethal dose of Zalkot causing severe hallucinations that will be interpreted as prophecy.\n$BULLET$ #warning Your Zalkot Seer will die and you will receive a prophecy in a category of your choice.#                                 "
+ 

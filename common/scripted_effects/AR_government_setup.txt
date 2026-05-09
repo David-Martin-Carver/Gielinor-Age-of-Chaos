@@ -1,0 +1,6 @@
+
+change_titular_title_government_effect = {
+    character:calven_001 = {
+        change_government = republic_government
+    }
+}

@@ -1,0 +1,229 @@
+﻿ancress_low_character_template = {
+	age = { 16 24 }
+	faith = root.faith
+	culture = root.culture
+	gender_female_chance = {
+		if = {
+			limit = { 
+				root.faith = {
+					has_doctrine = doctrine_gender_male_dominated
+				}
+			}
+			add = 100
+		}
+		else_if = {
+			limit = {
+				root.faith = {
+					has_doctrine = doctrine_gender_female_dominated
+				}
+			}
+			add = 100
+		}
+		else = {
+			add = 50
+		}
+	}
+
+	# Traits
+	random_traits_list = {
+		count = 1
+		education_learning_1 = {}
+		education_learning_2 = {}
+	}
+	trait = grevetican_devoted
+	random_traits_list = {
+		count = 1
+		generous = {}
+		forgiving = {}
+		honest = {}
+		compassionate = {}
+		fickle = {}
+		diligent = {}
+		content = {}
+		patient = {}
+		shy = {}
+		brave = {}
+		just {}
+		chaste {}
+	}
+	random_traits_list = {
+		count = 1
+		beauty_good_1 = {}
+		beauty_good_2 = {}
+		beauty_good_3 = {}
+		scaly = {}
+		albino = {}
+		intellect_bad_1 = {}
+		intellect_good_1 = {}
+		lisping {}
+		stuttering {}
+	}
+	random_traits = yes
+	
+	# Skills
+	learning = {
+		min_template_decent_skill
+		max_template_decent_skill
+	}
+}
+
+ancress_high_character_template = {
+	age = { 20 32 }
+	faith = root.faith
+	culture = root.culture
+	gender_female_chance = {
+		if = {
+			limit = { 
+				root.faith = {
+					has_doctrine = doctrine_gender_male_dominated
+				}
+			}
+			add = 100
+		}
+		else_if = {
+			limit = {
+				root.faith = {
+					has_doctrine = doctrine_gender_female_dominated
+				}
+			}
+			add = 100
+		}
+		else = {
+			add = 50
+		}
+	}
+
+	# Traits
+	random_traits_list = {
+		count = 1
+		education_learning_2 = {}
+		education_learning_3 = {}
+		education_learning_4 = {}
+	}
+	trait = grevetican_devoted
+	random_traits_list = {
+		count = 1
+		generous = {}
+		forgiving = {}
+		honest = {}
+		compassionate = {}
+		fickle = {}
+		diligent = {}
+		content = {}
+		patient = {}
+		shy = {}
+		brave = {}
+		just {}
+		chaste {}
+	}
+	random_traits_list = {
+		count = 1
+		beauty_good_2 = {}
+		beauty_good_3 = {}
+		scaly = {}
+		albino = {}
+		intellect_good_1 = {}
+		intellect_good_2 = {}
+		lisping {}
+		stuttering {}
+	}
+	random_traits_list = {
+		count = 1
+		shrewd = {}
+		administrator = {}
+		overseer = {}
+		scholar = {}
+		theologian = {}
+		administrator = {}
+		architect = {}
+		lifestyle_gardener = {}
+	}
+	random_traits = yes
+	
+	# Skills
+	learning = {
+		min_template_medium_skill
+		max_template_medium_skill
+	}
+}
+
+ancress_excellent_character_template = {
+	age = { 28 36 }
+	faith = root.faith
+	culture = root.culture
+	gender_female_chance = {
+		if = {
+			limit = { 
+				root.faith = {
+					has_doctrine = doctrine_gender_male_dominated
+				}
+			}
+			add = 100
+		}
+		else_if = {
+			limit = {
+				root.faith = {
+					has_doctrine = doctrine_gender_female_dominated
+				}
+			}
+			add = 100
+		}
+		else = {
+			add = 50
+		}
+	}
+
+	# Traits
+	random_traits_list = {
+		count = 1
+		education_learning_3 = {}
+		education_learning_4 = {}
+		education_learning_5 = {}
+	}
+	trait = grevetican_devoted
+	random_traits_list = {
+		count = 1
+		generous = {}
+		forgiving = {}
+		honest = {}
+		compassionate = {}
+		fickle = {}
+		diligent = {}
+		content = {}
+		patient = {}
+		shy = {}
+		brave = {}
+		just {}
+		chaste {}
+	}
+	random_traits_list = {
+		count = 1
+		beauty_good_2 = {}
+		beauty_good_3 = {}
+		scaly = {}
+		albino = {}
+		intellect_good_1 = {}
+		intellect_good_2 = {}
+		intellect_good_3 = {}
+	}
+	random_traits_list = {
+		count = 1
+		shrewd = {}
+		administrator = {}
+		overseer = {}
+		scholar = {}
+		theologian = {}
+		administrator = {}
+		architect = {}
+		lifestyle_gardener = {}
+		lifestyle_herbalist = {}
+		lifestyle_physician = {}
+	}
+	random_traits = yes
+
+	# Skills
+	learning = {
+		min_template_medium_skill
+		max_template_medium_skill
+	}
+}

@@ -1,0 +1,86 @@
+scarletian = {
+	color = { 0.0 0.8 0.0 }
+	
+	ethos = ethos_stoic
+	heritage = heritage_elderwald
+	language = language_western
+	martial_custom = martial_custom_male_only
+	traditions = {
+		tradition_mendicant_mystics
+		tradition_sacred_groves
+		tradition_strong_kinship
+		tradition_stalwart_defenders
+		tradition_forest_wardens
+	}
+	
+	name_list = name_list_arbundian
+	
+	coa_gfx = { scottish_coa_gfx western_coa_gfx }
+	building_gfx = { western_building_gfx }
+	clothing_gfx = { western_clothing_gfx }
+	unit_gfx = { western_unit_gfx }
+	
+	ethnicities = {
+		30 = arbundian
+		30 = thrisbanner
+		40 = euradan
+	}
+}
+
+cerulean = {
+	color = { 0.0 0.9 0.0 }
+	
+	ethos = ethos_spiritual
+	heritage = heritage_elderwald
+	language = language_western
+	martial_custom = martial_custom_male_only
+	traditions = {
+		tradition_mystical_ancestors
+		tradition_sacred_hunts
+		tradition_parochialism
+		tradition_polders
+		tradition_collective_lands
+	}
+	
+	name_list = name_list_matriarchal_arbundian
+	
+	coa_gfx = { scottish_coa_gfx western_coa_gfx }
+	building_gfx = { western_building_gfx }
+	clothing_gfx = { western_clothing_gfx }
+	unit_gfx = { western_unit_gfx }
+	
+	ethnicities = {
+		30 = arbundian
+		30 = thrisbanner
+		40 = euradan
+	}
+}
+
+viridalean = {
+	color = { 0.0 0.7 0.0 }
+
+	ethos = ethos_spiritual
+	heritage = heritage_elderwald
+	language = language_western
+	martial_custom = martial_custom_male_only
+	traditions = {
+		tradition_mystical_ancestors
+		tradition_sacred_hunts
+		tradition_charitable
+		tradition_agrarian
+		tradition_collective_lands
+	}
+
+	name_list = name_list_matriarchal_arbundian
+
+	coa_gfx = { scottish_coa_gfx western_coa_gfx }
+	building_gfx = { western_building_gfx }
+	clothing_gfx = { western_clothing_gfx }
+	unit_gfx = { western_unit_gfx }
+
+	ethnicities = {
+		30 = arbundian
+		30 = thrisbanner
+		40 = euradan
+	}
+}

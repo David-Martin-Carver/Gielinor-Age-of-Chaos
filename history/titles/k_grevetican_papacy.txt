@@ -1,0 +1,63 @@
+k_grevetican_papacy = {
+	587.1.1 = { change_development_level = 30 }
+	587.1.1 = { government = theocracy_government }
+	587.1.1 = {
+		holder = ARB_331b
+	}
+}
+
+c_59 = {
+	587.1.1 = { change_development_level = 18 }
+	587.1.1 = { government = theocracy_government }
+	587.1.1 = {
+		holder = ARB_331b
+	}
+}
+
+d_duchy9 = {
+	587.1.1 = { change_development_level = 18 }
+	587.1.1 = { government = theocracy_government }
+	587.1.1 = {
+		holder = grev_fem_011
+	}
+}
+
+c_58 = {
+	587.1.1 = { change_development_level = 18 }
+	587.1.1 = { government = theocracy_government }
+	587.1.1 = {
+		holder = grev_fem_011
+	}
+}
+
+d_duchygrevone = {
+	587.1.1 = { change_development_level = 18 }
+	587.1.1 = { government = theocracy_government }
+	587.1.1 = {
+		holder = grev_fem_010
+	}
+}
+
+c_grevone = {
+	587.1.1 = { change_development_level = 18 }
+	587.1.1 = { government = theocracy_government }
+	587.1.1 = {
+		holder = grev_fem_010
+	}
+}
+
+d_duchygrevtwo = {
+	587.1.1 = { change_development_level = 18 }
+	587.1.1 = { government = theocracy_government }
+	587.1.1 = {
+		holder = grev_fem_009
+	}
+}
+
+c_grevtwo = {
+	587.1.1 = { change_development_level = 18 }
+	587.1.1 = { government = theocracy_government }
+	587.1.1 = {
+		holder = grev_fem_009
+	}
+}

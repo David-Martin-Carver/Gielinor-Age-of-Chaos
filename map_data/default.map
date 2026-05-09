@@ -15,19 +15,24 @@ seasons = "seasons.txt"
 #############
 # SEA ZONES
 #############
-# Your Seas
-sea_zones = LIST { 3 }
+# European Seas
+sea_zones = RANGE { 893 897 }
+sea_zones = RANGE { 588 594 }
+sea_zones = RANGE { 531 535 }
+sea_zones = RANGE { 218 229 }
 
 ###############
 # MAJOR RIVERS
 ###############
-#Your Rivers
-#river_provinces = RANGE {  }
+#Arbundian rivers
+river_provinces = RANGE { 898 916 }	#Euradan Rivers
+river_provinces = RANGE { 520 530 }	#Arbundian Rivers
+river_provinces = RANGE { 210 217 }	#Arbundian Rivers
 
 ########
 # LAKES
 ########
-#lakes = LIST {  }
+lakes = LIST { 919 918 917 199 }	#Mountain lake
 
 #####################
 # IMPASSABLE TERRAIN
@@ -35,8 +40,13 @@ sea_zones = LIST { 3 }
 # Can be colored by whoever owns the most of the province's neighbours.
 # Blocks unit movement.
 
-#Stuff Like Mountains
-#impassable_mountains = RANGE {  }
+#Arbundia
+impassable_mountains = LIST { 1017 595 587 197 198 }
+impassable_mountains = RANGE { 1020 1031 }
+impassable_mountains = RANGE { 920 1013 }
+impassable_mountains = RANGE { 580 586 }
+impassable_mountains = RANGE { 501 519 }
+impassable_mountains = RANGE { 200 209 }
 
 ############
 # WASTELAND
@@ -44,11 +54,10 @@ sea_zones = LIST { 3 }
 # These are actually supposed to be Wasteland:
 # Cannot be colored. Blocks unit movement, used for things like Sahara desert. 
 
-#impassable_mountains = LIST {  }
 
 # IMPASSABLE SEA ZONES
 # These sea provinces cannot be crossed/sailed
-impassable_seas = LIST { 4 }
+impassable_seas = LIST { 230 }
 
 # UNUSED PROVINCES
 # These provinces cause issues because they are passable land, but not part of any title.

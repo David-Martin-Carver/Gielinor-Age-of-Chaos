@@ -1,0 +1,93 @@
+﻿hire_zalkot_seer_decision = {
+    picture = {
+        reference = "gfx/interface/illustrations/decisions/decision_magi.dds"
+    }
+
+    sort_order = 81
+    decision_group_type = courtier
+
+    desc = replace
+    selection_tooltip = replace
+
+    ai_check_interval = 60
+
+    is_shown = {
+        is_ruler = yes
+        faith = {
+            has_doctrine = tenet_zalkot_seers
+        }
+    }
+
+    cooldown = { days = 1095 }
+
+    is_valid_showing_failures_only = {
+        is_imprisoned = no
+        any_councillor = { has_council_position = councillor_chancellor }
+    }
+
+    effect = {
+        trigger_event = zalkot.0001
+        custom_tooltip = replace
+    }
+
+    ai_potential = {
+        highest_held_title_tier > tier_barony
+        is_playable_character = yes
+        gold > 200
+        NOT = {
+            employs_court_position = zalkot_seer_court_position
+        }
+    }
+
+    ai_will_do = {
+        base = 100
+    }
+}
+
+zalkot_prophecy_ritual_decision = {
+
+    picture = {
+        reference = "gfx/interface/illustrations/decisions/decision_magi.dds"
+    }
+
+    sort_order = 100
+    
+
+    desc = zalkot_prophecy_ritual_decision_desc
+    selection_tooltip = zalkot_prophecy_ritual_decision_confirm
+
+    ai_check_interval = 60
+
+    is_valid = {
+        employs_court_position = zalkot_seer_court_position
+    }
+    
+    is_shown = {
+        is_ruler = yes
+        faith = {
+            has_doctrine = tenet_zalkot_seers
+        }
+    }
+
+    cooldown = { days = 3650 }
+
+    is_valid_showing_failures_only = {
+        is_imprisoned = no
+    }
+
+    effect = {
+        trigger_event = zalkot.0002
+        custom_tooltip = zalkot_prophecy_ritual_decision_tooltip
+    }
+
+    ai_potential = {
+        highest_held_title_tier > tier_barony
+        is_playable_character = yes
+        gold > 200
+    }
+
+    ai_will_do = {
+        base = 100
+    }
+    
+}

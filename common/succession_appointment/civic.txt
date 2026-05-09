@@ -1,0 +1,486 @@
+﻿civic = {
+	default_candidates = { landed_vassal, landed_vassal_house_member, holder_house_member, holder_councilor, holder_court_position, direct_subject }
+
+	candidate_score = {
+		value = {
+			# INFLUENCE LEVEL
+			if = {
+				limit = {
+					influence_level = 0
+				}
+				subtract = {
+					value = 10
+					desc = "[influence_level|E]"
+				}
+			}
+			if = {
+				limit = {
+					influence_level >= 2
+				}
+				add = {
+					value = 10
+					multiply = {
+						value = influence_level
+						subtract = 1 # Base value should start at 2
+					}
+					desc = "[influence_level|E]"
+				}
+			}
+
+			# Personal reasons
+			if = {
+				limit = {
+					scope:title.holder ?= { is_close_family_of = root }
+				}
+				add = {
+					value = 15
+					desc = "close_family_holder_desc"
+				}
+			}
+			else_if = {
+				limit = {
+					scope:title.holder ?= {
+						any_spouse = { is_close_family_of = root }
+						NOT = { is_close_family_of = root }
+					}
+				}
+				add = {
+					value = 10
+					desc = "close_family_married_to_holder_desc"
+				}
+			}
+
+			#FRIENDS OF THE HOLDER
+			if = {
+				limit = {
+					scope:title.holder ?= { has_relation_friend = root }
+				}
+				add = {
+					value = 10
+					desc = governor_friend_desc
+				}
+			}
+			if = {
+				limit = {
+					scope:title.holder ?= { has_relation_best_friend = root }
+				}
+				add = {
+					value = 15
+					desc = governor_best_friend_desc
+				}
+			}
+
+			#REGENT
+			if = {
+				limit = { scope:title.holder.diarch ?= root }
+				add = {
+					value = scope:title.holder.diarchy_swing
+					desc = governor_diarch_desc
+				}
+			}
+
+			# Schemes
+			if = {
+				limit = { has_character_modifier = scheme_slandered_modifier }
+				add = {
+					value = slander_appointment_score_value
+					desc = scheme_slandered_modifier
+				}
+			}
+			if = {
+				limit = { has_character_modifier = scheme_promoted_modifier }
+				add = {
+					value = promote_appointment_score_value	# Keep this balanced if more values are added!
+					desc = scheme_promoted_modifier
+				}
+			}
+
+			# Base - Based on skills
+			add = {
+				value = {
+					add = diplomacy
+					add = learning
+					add = martial
+					add = intrigue
+					add = stewardship
+				}
+				multiply = 2
+				desc = sum_of_skills_desc
+			}
+			add = {
+				value = {
+					add = -1
+					add = governor_efficiency
+				}
+				multiply = 100
+				desc = game_concept_governor_efficiency
+			}
+
+			# COUNCIL POSITIONS
+			if = {
+				limit = {
+					scope:title.holder ?= {
+						any_councillor ?= { this = root }
+					}
+				}
+				add = {
+					value = 20
+					multiply = scope:title.holder.governor_efficiency
+					desc = councillor_position_governor_desc
+				}
+			}
+			# COURT POSITIONS
+			if = {
+				limit = {
+					scope:title.holder ?= {
+						any_court_position_holder ?= {
+							this = root
+						}
+					}
+				}
+				add = {
+					value = 5
+					multiply = scope:title.holder.governor_efficiency
+					desc = court_position_succession_governor_desc
+				}
+			}
+
+			if = {
+				limit = { age > 45 }
+				add = {
+					value = {
+						add = 45
+						subtract = age
+					}
+					multiply = 2
+					desc = geriatric_candidate_desc
+				}
+			}
+
+			if = {
+				limit = { prestige_level = 0 }
+				subtract = {
+					value = 50
+					desc = prestige_level_0
+				}
+			}
+			else_if = {
+				limit = { prestige_level = 2 }
+				add = {
+					value = 25
+					desc = prestige_level_2
+				}
+			}
+			else_if = {
+				limit = { prestige_level = 3 }
+				add = {
+					value = 50
+					desc = prestige_level_3
+				}
+			}
+			else_if = {
+				limit = { prestige_level = 4 }
+				add = {
+					value = 75
+					desc = prestige_level_4
+				}
+			}
+			else_if = {
+				limit = { prestige_level = 5 }
+				add = {
+					value = 100
+					desc = prestige_level_5
+				}
+			}
+
+			if = {
+				limit = {
+					has_trait = intellect_good_3
+				}
+				add = {
+					value = 100
+					desc = trait_intellect_good_3
+				}
+			}
+
+			if = {
+				limit = {
+					has_trait = intellect_good_2
+				}
+				add = {
+					value = 50
+					desc = trait_intellect_good_2
+				}
+			}
+
+			if = {
+				limit = {
+					has_trait = intellect_good_1
+				}
+				add = {
+					value = 25
+					desc = trait_intellect_good_1
+				}
+			}
+
+			if = {
+				limit = {
+					has_trait = shrewd
+				}
+				add = {
+					value = 25
+					desc = trait_shrewd
+				}
+			}
+
+			# Vassal cities ok
+			if = {
+				limit = {
+					government_has_flag = government_is_republic
+					is_ruler = yes
+					primary_title = { is_noble_family_title = no }
+				}
+				add = {
+					value = 25
+					desc = title_landed_name
+					multiply = primary_title.tier
+				}
+			}
+			# Patrician house heads bonus
+			if = {
+				limit = {
+					top_liege = scope:title.holder.top_liege
+					government_has_flag = government_is_republic
+					is_ruler = yes
+					primary_title = { is_noble_family_title = yes }
+				}
+				add = {
+					value = 100
+					desc = estate_holder_republican_male
+				}
+			}
+
+			#SAME CULTURE AS REGION
+			if = {
+				limit = { culture = scope:title.holder.capital_county.culture }
+				multiply = {
+					value = 1.25
+					desc = of_local_culture_succession_desc
+				}
+			}
+			else_if = {
+				limit = {
+					NOR = {
+						culture = { has_same_culture_heritage = scope:title.holder.capital_county.culture }
+						knows_language_of_culture = scope:title.holder.capital_county.culture
+					}
+				}
+				multiply = {
+					value = 0.75
+					desc = CULTURE_RELATION_FOREIGN_CULTURE
+				}
+			}
+
+			#Gender discrimination
+			if = {
+				limit = {
+					scope:title.holder = {
+						has_realm_law = male_preference_law
+					}
+					is_female = yes
+				}
+				multiply = {
+					value = 0.5
+					desc = male_preference_law
+				}
+			}
+			if = {
+				limit = {
+					scope:title.holder = {
+						has_realm_law = female_preference_law
+					}
+					is_female = no
+				}
+				multiply = {
+					value = 0.5
+					desc = female_preference_law
+				}
+			}
+			# LOWBORN? EW no
+			if = {
+				limit = {
+					is_lowborn = yes
+				}
+				multiply = {
+					value = 0.75
+					desc = lowborn_desc_succession
+				}
+			}
+
+			# Disqualify
+			## Already have equal or higher tier title
+			if = {
+				limit = {
+					scope:title.tier <= highest_held_title_tier
+				}
+				multiply = {
+					value = 0
+					desc = only_one_province_of_highest_rank_tt
+				}
+			}
+			if = {
+				limit = {
+					scope:title.holder = {
+						has_realm_law = male_only_law
+					}
+					is_female = yes
+				}
+				multiply = {
+					value = 0
+					desc = male_only_law
+				}
+			}
+			if = {
+				limit = {
+					scope:title.holder = {
+						has_realm_law = female_only_law
+					}
+					is_female = no
+				}
+				multiply = {
+					value = 0
+					desc = female_only_law
+				}
+			}
+
+			# Incapable
+			if = {
+				limit = {
+					has_trait = incapable
+				}
+				multiply = {
+					value = 0
+					desc = trait_incapable
+				}
+			}
+
+			# Not a republic ruler
+			if = {
+				limit = {
+					is_ruler = yes
+					NOT = { government_has_flag = government_is_republic }
+				}
+				multiply = {
+					value = 0
+					desc = outside_realm_desc
+				}
+			}
+			if = {
+				limit = {
+					NOT = { government_has_flag = government_is_republic }
+					any_heir_title = {}
+				}
+				multiply = {
+					value = 0
+					desc = inheritance_line_desc
+				}
+			}
+
+			# Clergy
+			if = {
+				limit = {
+					OR = {
+						is_clergy = yes
+						has_trait = devoted
+					}
+				}
+				multiply = {
+					value = 0
+					desc = court_position_clergy_trait
+				}
+			}
+
+			if = {
+				limit = {
+					has_trait = inbred
+				}
+				subtract = {
+					value = 50
+					desc = trait_inbred
+				}
+			}
+
+			if = {
+				limit = {
+					has_trait = intellect_bad_3
+				}
+				subtract = {
+					value = 100
+					desc = trait_intellect_bad_3
+				}
+			}
+
+			if = {
+				limit = {
+					has_trait = intellect_bad_2
+				}
+				subtract = {
+					value = 50
+					desc = trait_intellect_bad_2
+				}
+			}
+
+			if = {
+				limit = {
+					has_trait = intellect_bad_1
+				}
+				subtract = {
+					value = 25
+					desc = trait_intellect_bad_1
+				}
+			}
+
+			if = {
+				limit = {
+					has_trait = dull
+				}
+				subtract = {
+					value = 25
+					desc = trait_dull
+				}
+			}
+			# INFIDEL
+			if = {
+				limit = {
+					NOT = { faith = scope:title.holder.faith }
+				}
+				subtract = {
+					value = 200
+					desc = different_faith_interesting_desc
+				}
+			}
+			# Infirm
+			if = {
+				limit = {
+					has_trait = infirm
+				}
+				subtract = {
+					value = 200
+					desc = trait_infirm
+				}
+			}
+
+			# Make sure non-republics cannot ever inherit
+			if = {
+				limit = {
+					is_ruler = yes
+					NOT = { government_has_flag = government_is_republic }
+				}
+				subtract = {
+					value = 1000
+					desc = outside_realm_desc
+				}
+			}
+		}
+	}
+}

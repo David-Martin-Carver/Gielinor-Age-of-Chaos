@@ -1,3 +1,177 @@
+﻿language_arbundian = {
+	type = language
+	is_shown = {
+		language_is_shown_trigger = {
+			LANGUAGE = language_arbundian
+		}
+	}
+	ai_will_do = {
+		value = 10
+		if = {
+			limit = { has_cultural_pillar = language_arbundian }
+			multiply = 10
+		}
+	}
+	
+	color = english
+}
+language_northern = {
+	type = language
+	is_shown = {
+		language_is_shown_trigger = {
+			LANGUAGE = language_northern
+		}
+	}
+	ai_will_do = {
+		value = 10
+		if = {
+			limit = { has_cultural_pillar = language_northern }
+			multiply = 10
+		}
+	}
+	
+	color = ( 0.1 0.1 0.9 )
+}
+language_eastern = {
+	type = language
+	is_shown = {
+		language_is_shown_trigger = {
+			LANGUAGE = language_eastern
+		}
+	}
+	ai_will_do = {
+		value = 10
+		if = {
+			limit = { has_cultural_pillar = language_eastern }
+			multiply = 10
+		}
+	}
+	
+	color = ( 0.7 0.1 0.7 )
+}
+language_western = {
+	type = language
+	is_shown = {
+		language_is_shown_trigger = {
+			LANGUAGE = language_western
+		}
+	}
+	ai_will_do = {
+		value = 10
+		if = {
+			limit = { has_cultural_pillar = language_western }
+			multiply = 10
+		}
+	}
+	
+	color = ( 0.1 0.9 0.1 )
+}
+language_calraian = {
+	type = language
+	is_shown = {
+		language_is_shown_trigger = {
+			LANGUAGE = language_calraian
+		}
+	}
+	ai_will_do = {
+		value = 10
+		if = {
+			limit = { has_cultural_pillar = language_calraian }
+			multiply = 10
+		}
+	}
+	
+	color = ( 0.8 0.3 0.3 )
+}
+language_thalleran = {
+	type = language
+	is_shown = {
+		language_is_shown_trigger = {
+			LANGUAGE = language_thalleran
+		}
+	}
+	ai_will_do = {
+		value = 10
+		if = {
+			limit = { has_cultural_pillar = language_thalleran }
+			multiply = 10
+		}
+	}
+	
+	color = ( 0.8 0.3 0.3 )
+}
+language_ferran = {
+	type = language
+	is_shown = {
+		language_is_shown_trigger = {
+			LANGUAGE = language_ferran
+		}
+	}
+	ai_will_do = {
+		value = 10
+		if = {
+			limit = { has_cultural_pillar = language_ferran }
+			multiply = 10
+		}
+	}
+	
+	color = ( 0.8 0.3 0.3 )
+}
+
+language_entilian = {
+	type = language
+	is_shown = {
+		language_is_shown_trigger = {
+			LANGUAGE = language_entilian
+		}
+	}
+	ai_will_do = {
+		value = 10
+		if = {
+			limit = { has_cultural_pillar = language_entilian }
+			multiply = 10
+		}
+	}
+	
+	color = ( 0.5 0.3 0.1 )
+}
+
+language_thekari = {
+	type = language
+	is_shown = {
+		language_is_shown_trigger = {
+			LANGUAGE = language_thekari
+		}
+	}
+	ai_will_do = {
+		value = 10
+		if = {
+			limit = { has_cultural_pillar = language_thekari }
+			multiply = 10
+		}
+	}
+
+	color = ( 0.7 0.2 0.3 )
+}
+
+language_melruan = {
+	type = language
+	is_shown = {
+		language_is_shown_trigger = {
+			LANGUAGE = language_melruan
+		}
+	}
+	ai_will_do = {
+		value = 10
+		if = {
+			limit = { has_cultural_pillar = language_melruan }
+			multiply = 10
+		}
+	}
+
+	color = ( 0.4 0.4 0.7 )
+}
+
 language_common_tongue = {
 	type = language
 	is_shown = {

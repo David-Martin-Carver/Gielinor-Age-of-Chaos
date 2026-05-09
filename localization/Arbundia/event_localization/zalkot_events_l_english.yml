@@ -1,0 +1,16 @@
+﻿l_english:
+ zalkot_event.t.0002:0 "Visions of the Future"
+ zalkot_event.d.0002:0 "The ritual is all but ready, only the final component is missing, a question. Which sliver of the future do you care to indulge in? Your [GetCourtPositionType('zalkot_seer_court_position').GetName()] stand prepared to divine your future if you but ask.\n\n #X Prophesying the future can be dangerous.."
+ zalkot_event_0002.a:0 "I wish to prospect the future of my warriors!"
+ zalkot_event_0002.b:0 "I wish to divine my realm's prosperity!"
+ zalkot_event_0002.c:0 "The time is not right.."
+ zalkot.0002.a.tt:0 "#S You will receive a [martial|E] prophecy"
+ zalkot.0002.b.tt:0 "#S You will receive a [stewardship|E] inclined prophecy"
+ zalkot.0002.c.tt:0 "#S You call off the ritual"
+
+ zalkot_event.t.0003:0 "A Prophecy Chronicled"
+ zalkot_event.d.0003:0 "Days have passed since the ritual concluded, the clergy at my court have frantically debated the meaning of the [GetCourtPositionType('zalkot_seer_court_position').GetName]'s divine words. Finally they are ready to present me the prophesy.."
+ zalkot_event_0003.a:0 "Such is the future.."
+ zalkot.0003.a.tt:0 "#S You will receive a [martial|E] prophecy"
+ zalkot.0003.b.tt:0 "#S You will receive a [stewardship|E] inclined prophecy"
+ zalkot.0003.c.tt:0 "#S You call off the ritual"

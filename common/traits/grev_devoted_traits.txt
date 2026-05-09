@@ -1,0 +1,57 @@
+﻿# Monk for christian male, Nun for christian female. Devoted for others.
+grevetican_devoted = {
+	category = fame
+	monthly_piety = 0.3
+	
+	same_faith_opinion = 5
+	
+	culture_modifier = {
+		parameter = prowess_from_religious_traits
+		prowess = 3
+	}
+
+	culture_modifier = {
+		parameter = devoted_trait_bonuses
+		learning = 3
+	}
+	
+	flag = can_not_marry
+	inheritance_blocker = dynasty
+	
+	shown_in_ruler_designer = no
+
+	ai_sociability = very_low_negative_ai_value
+
+	name = {
+		first_valid = {
+			triggered_desc = {
+				trigger = { NOT = { exists = this } }
+				desc = trait_grevetican_devoted
+			}
+			triggered_desc = {
+				trigger = {
+					is_adult = no
+				}
+				desc = trait_grevetican_devoted_child
+			}
+			triggered_desc = {
+				trigger = { is_female = yes }
+				desc = trait_grevetican_devoted_female
+			}
+		}
+	}
+
+	desc = {
+		first_valid = {
+			triggered_desc = {
+				trigger = { NOT = { exists = this } }
+				desc = trait_grevetican_devoted_desc
+			}
+			triggered_desc = {
+				trigger = { is_adult = no }
+				desc = trait_grevetican_devoted_child_desc
+			}
+			desc = trait_grevetican_devoted_character_desc
+		}
+	}
+}

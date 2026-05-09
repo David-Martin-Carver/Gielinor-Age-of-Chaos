@@ -1,0 +1,7 @@
+﻿l_english:
+ ###Traditions###
+ tradition_tower_builders_name:0 "Tower Builders"
+ tradition_tower_builders_desc:0  "Tower Builders"
+ 
+ ###Parameters###
+ culture_parameter_unlock_river_tower_building:0 "Can build #V $building_type_river_tower_01$#! in [holdings|E] of this [culture|E]"

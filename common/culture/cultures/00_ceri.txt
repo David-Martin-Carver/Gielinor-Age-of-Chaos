@@ -1,0 +1,55 @@
+﻿cerian = {
+	color = { 0.1 0.85 0.85 }
+	
+	ethos = ethos_communal
+	heritage = heritage_ceri
+	language = language_thalleran
+	martial_custom = martial_custom_male_only
+	traditions = {
+		tradition_agrarian
+		tradition_language_scholars
+		tradition_strength_in_numbers
+		tradition_fp2_state_ransoming
+		tradition_philosopher_culture
+	}
+	
+	name_list = name_list_cerian
+	
+	coa_gfx = { english_coa_gfx western_coa_gfx }
+	building_gfx = { western_building_gfx }
+	clothing_gfx = { iberian_christian_clothing_gfx western_clothing_gfx }
+	unit_gfx = { western_unit_gfx }
+	
+	ethnicities = {
+		100 = thrisbanner
+	}
+}
+
+norcerian = {
+	color = { 0.3 0.8 0.8 }
+	created = 508.1.1
+	parents = { thalleran cerian }
+	
+	ethos = ethos_communal
+	heritage = heritage_ceri
+	language = language_thalleran
+	martial_custom = martial_custom_male_only
+	traditions = {
+		tradition_charitable
+		tradition_artisans
+		tradition_pastoralists
+		tradition_hard_working
+		tradition_parochialism
+	}
+	
+	name_list = name_list_cerian
+	
+	coa_gfx = { english_coa_gfx western_coa_gfx }
+	building_gfx = { western_building_gfx }
+	clothing_gfx = { iberian_christian_clothing_gfx western_clothing_gfx }
+	unit_gfx = { western_unit_gfx }
+	
+	ethnicities = {
+		100 = thrisbanner
+	}
+}

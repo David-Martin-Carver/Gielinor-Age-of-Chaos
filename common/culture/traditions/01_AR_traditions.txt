@@ -1,0 +1,289 @@
+
+tradition_tower_builders = {
+    category = social
+
+    layers = {
+        0 = steward
+        1 = mena
+        4 = tools.dds
+    }
+
+    is_shown = {
+        NOR = { #These cultures instead get Forest Wardens Tradition
+            has_cultural_pillar = heritage_balto_finnic
+            has_cultural_pillar = heritage_volga_finnic
+            has_cultural_pillar = heritage_ugro_permian
+            has_cultural_pillar = heritage_baltic
+            has_cultural_tradition = tradition_forest_wardens
+        }
+    }
+    can_pick = {
+        custom_description = {
+            text = culture_in_forest_desc
+            any_culture_county = {
+                any_county_province = {
+                    OR = {
+                        terrain = forest
+                        terrain = taiga
+                    }
+                }
+            }
+        }
+    }
+
+    parameters = {
+        unlock_river_tower_building = yes
+    }
+    character_modifier = {
+
+    }
+    county_modifier = {
+        
+        wetlands_development_growth_factor = 0.25
+    }
+    province_modifier = {
+        wetlands_construction_gold_cost = -0.15
+        fort_level = 1
+    }
+
+    cost = {
+        prestige = {
+            add = {
+                value = tradition_base_cost
+                desc = BASE
+                format = "BASE_VALUE_FORMAT"
+            }
+            if = {
+                limit = {
+                    culture_pillar:ethos_bellicose = { is_in_list = traits }
+                }
+                add = {
+                    value = tradition_incompatible_ethos_penalty
+                    desc = culture_not_bellicose
+                }
+            }
+            if = {
+                limit = {
+                    NOT = {
+                        any_culture_county = {
+                            percent >= 0.3
+                            any_county_province = {
+                                terrain = wetlands
+                            }
+                        }
+                    }
+                }
+                add = {
+                    value = tradition_unfulfilled_criteria_penalty
+                    desc = forest_percentage_desc
+                }
+            }
+
+            multiply = tradition_replacement_cost_if_relevant
+        }
+    }
+
+    ai_will_do = {
+        value = 100
+        if = {
+            limit = {
+                NOT = {
+                    scope:character = {
+                        any_sub_realm_county = {
+                            percent >= 0.2
+                            culture = scope:character.culture
+                            any_county_province = {
+
+                                terrain = wetlands
+
+                            }
+                        }
+                    }
+                }
+            }
+            multiply = 0
+        }
+    }
+}
+
+
+
+tradition_zalkot_harvesting  = {
+    category = regional
+
+    layers = {
+        0 = steward
+        1 = mena
+        4 = tools.dds
+    }
+
+    is_shown = {
+        OR = {
+            any_culture_county = {
+                title_province = {
+                    geographical_region = world_arbundia_zalkot_harvesting_areas
+                }
+            }
+        }
+    }
+    can_pick = {
+        custom_description = {
+            text = need_zalkot_deposits
+            any_culture_county = {
+                any_county_province = {
+                    geographical_region = world_arbundia_zalkot_harvesting_areas
+                }
+            }
+        }
+    }
+
+    parameters = {
+        mystic_trait_more_common = yes
+        mendicant_mystics_may_appear = yes
+    }
+    character_modifier = {
+        health_positive = 0.2
+    }
+    county_modifier = {
+        
+    }
+    province_modifier = {
+
+    }
+
+    cost = {
+        prestige = {
+            add = {
+                value = tradition_base_cost
+                desc = BASE
+                format = "BASE_VALUE_FORMAT"
+            }
+            if = {
+                limit = {
+                    culture_pillar:ethos_bellicose = { is_in_list = traits }
+                }
+                add = {
+                    value = tradition_incompatible_ethos_penalty
+                    desc = culture_not_bellicose
+                }
+            }
+            if = {
+                limit = {
+                    NOT = {
+                        any_culture_county = {
+                            percent >= 0.3
+                            any_county_province = {
+                                geographical_region = world_arbundia_zalkot_harvesting_areas
+                            }
+                        }
+                    }
+                }
+                add = {
+                    value = tradition_unfulfilled_criteria_penalty
+                    desc = forest_percentage_desc
+                }
+            }
+
+            multiply = tradition_replacement_cost_if_relevant
+        }
+    }
+
+    ai_will_do = {
+        value = 100
+        if = {
+            limit = {
+                NOT = {
+                    scope:character = {
+                        any_sub_realm_county = {
+                            percent >= 0.2
+                            culture = scope:character.culture
+                            any_county_province = {
+
+                                terrain = wetlands
+
+                            }
+                        }
+                    }
+                }
+            }
+            multiply = 0
+        }
+    }
+}
+
+tradition_arbundian_warriors = {
+	category = combat
+
+	layers = {
+		0 = martial
+		1 = western
+		4 = soldiers.dds
+	}
+	
+	is_shown = {
+		has_cultural_pillar = heritage_arbian
+	}
+
+	can_pick = {
+		# Must be of a suitable heritage.
+		custom_tooltip = {
+			text = arbian_heritage_trigger
+			has_cultural_pillar = heritage_arbian
+		}
+	}
+	
+	parameters = {
+		unlock_maa_arbundian_cav = yes
+		strong_traits_more_valued = yes
+		strong_traits_more_common = yes
+		trade_ports_stationed_maa_bonus = yes
+		trade_ports_enabled_for_tribals = yes
+		unlock_voluntary_laampdom = yes
+		more_likely_to_be_laamps = yes
+	}
+
+	character_modifier = {
+		sea_travel_danger = medium_sea_danger_reduction
+		coastal_sea_travel_danger = medium_sea_danger_reduction
+		taiga_provisions_use_mult = -0.1
+		forest_provisions_use_mult = -0.1
+	}
+	
+	cost = {
+		prestige = {
+			# Base cost.
+			add = {
+				value = tradition_base_cost
+				desc = BASE
+				format = "BASE_VALUE_FORMAT"
+			}
+			# Ethos requirement.
+			if = {
+				limit = {
+					culture_pillar:ethos_courtly = { is_in_list = traits }
+				}
+				add = {
+					value = tradition_incompatible_ethos_penalty
+					desc = culture_not_courtly
+				}
+			}
+			
+			multiply = tradition_replacement_cost_if_relevant
+		}
+	}
+	
+	ai_will_do = {
+		value = 100
+		if = {
+			limit = {
+				culture_pillar:ethos_courtly = { is_in_list = traits }
+			}
+			multiply = 0
+		}
+	}
+}
+
+
+
+
+

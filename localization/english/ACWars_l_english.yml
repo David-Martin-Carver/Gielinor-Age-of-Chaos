@@ -1,0 +1,12 @@
+﻿l_english:
+  ambitious_conquest_cb:0 "Ambitious Conquest"
+  AMBITIOUS_CONQUEST_COUNTY_CB_NAME:1 "Conquer [county|E]"
+  AMBITIOUS_CONQUEST_CB_SPECIFIC_NAME:1 "Conquer the [TITLE.GetBaseName]"
+  AMBITIOUS_CONQUEST_CB_NAME:0 "Conquer the [TITLE.GetBaseName]"
+  AMBITIOUS_CONQUEST_WAR_NAME:2 "$ORDER$ [ATTACKER.GetPrimaryTitle.GetAdjective] Conquest of the [TITLE.GetBaseName]"
+  AMBITIOUS_CULTURE_WAR_NAME_BASE:0 "[ATTACKER.GetPrimaryTitle.GetAdjective][DEFENDER.GetPrimaryTitle.GetName]"
+  BELLICOSE_CULTURE_COUNTY_CB_NAME:1 "Conquer [county|E]"
+  BELLICOSE_CULTURE_CB_SPECIFIC_NAME:1 "Conquer the [TITLE.GetBaseName]"
+  BELLICOSE_CULTURE_CB_NAME:0 "Conquer the [TITLE.GetBaseName]"
+  BELLICOSE_CULTURE_WAR_NAME:2 "$ORDER$ [ATTACKER.GetPrimaryTitle.GetAdjective] Bellicose Conquest of the [TITLE.GetBaseName]"
+  BELLICOSE_CULTURE_WAR_NAME_BASE:0 "[ATTACKER.GetPrimaryTitle.GetAdjective][DEFENDER.GetPrimaryTitle.GetName]"

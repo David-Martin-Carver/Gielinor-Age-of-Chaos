@@ -1,0 +1,25 @@
+
+remove_flood_effect = {
+    if = {
+        limit = {
+            has_county_modifier = standard_flood
+        }
+        remove_county_modifier = standard_flood
+
+    }
+    if = {
+        limit = {
+            has_county_modifier = catastrophic_flood
+        }
+        remove_county_modifier = catastrophic_flood
+
+    }
+}
+
+standard_flood_effect = {
+    add_county_modifier = standard_flood
+}
+
+catastrophic_flood_effect = {
+    add_county_modifier = catastrophic_flood
+}

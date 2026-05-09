@@ -1,0 +1,42 @@
+﻿# Standard Values
+@pos_compat_high = 30
+@pos_compat_medium = 15
+@pos_compat_low = 5
+
+@neg_compat_high = -30
+@neg_compat_medium = -15
+@neg_compat_low = -5
+
+
+## Commander Traits ##
+ar_zalkot_seer_1 = {
+	level = 1
+	learning = 2
+	monthly_prestige = 0.5
+	ruler_designer_cost = 30
+	group = ar_zalkot_seer
+}
+ar_zalkot_seer_2 = {
+	level = 2
+	learning = 4
+	monthly_prestige = 0.5
+	ruler_designer_cost = 70
+	group = ar_zalkot_seer
+}
+ar_zalkot_seer_3 = {
+	level = 3
+	learning = 6
+	monthly_prestige = 0.5
+	ruler_designer_cost = 90
+	group = ar_zalkot_seer
+}
+
+ar_zalkot_seer_4 = {
+	level = 4
+	learning = 8
+	monthly_prestige = 0.75
+	ruler_designer_cost = 120
+	group = ar_zalkot_seer
+}
+
+

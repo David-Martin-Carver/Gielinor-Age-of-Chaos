@@ -1,0 +1,225 @@
+﻿greveticanism_religion = {
+	family = rf_spine_maiden
+
+	doctrine = northern_hostility_doctrine
+
+	#Main Group
+	doctrine = doctrine_monotheist
+	doctrine = doctrine_spiritual_head
+	doctrine = doctrine_gender_male_dominated
+	doctrine = doctrine_pluralism_righteous
+	doctrine = doctrine_theocracy_temporal
+
+	#Marriage
+	doctrine = doctrine_monogamy
+	doctrine = doctrine_divorce_approval
+	doctrine = doctrine_bastardry_legitimization
+	doctrine = doctrine_consanguinity_aunt_nephew_and_uncle_niece
+
+	#Crimes
+	doctrine = doctrine_homosexuality_shunned
+	doctrine = doctrine_adultery_men_shunned
+	doctrine = doctrine_adultery_women_shunned
+	doctrine = doctrine_kinslaying_close_kin_crime
+	doctrine = doctrine_deviancy_shunned
+	doctrine = doctrine_witchcraft_crime
+
+	#Clerical Functions
+	doctrine = doctrine_clerical_function_taxation
+	doctrine = doctrine_clerical_gender_female_only
+	doctrine = doctrine_clerical_marriage_disallowed
+	doctrine = doctrine_clerical_succession_spiritual_fixed_appointment
+
+	#Funeral tradition
+	doctrine = doctrine_funeral_stoic
+
+	doctrine = doctrine_pilgrimage_encouraged
+
+	traits = {
+		virtues = { brave just stubborn }
+		sins = { craven deceitful lazy }
+	}
+
+	custom_faith_icons = {
+		custom_faith_1 custom_faith_2 custom_faith_3 custom_faith_4 custom_faith_5 custom_faith_6 custom_faith_7 custom_faith_8 custom_faith_9 custom_faith_10 dualism_custom_1 zoroastrian_custom_1 zoroastrian_custom_2 buddhism_custom_1 buddhism_custom_2 buddhism_custom_3 buddhism_custom_4 taoism_custom_1 yazidi_custom_1 sunni_custom_2 sunni_custom_3 sunni_custom_4 ibadi_custom muhakkima_1 muhakkima_2 muhakkima_4 muhakkima_5 muhakkima_6 judaism_custom_1 custom_faith_fp1_fenrir custom_faith_fp1_irminsul custom_faith_fp1_jormungandr custom_faith_fp1_odins_ravens custom_faith_fp1_runestone_moon custom_faith_fp1_thors_hammer custom_faith_fp1_valknut custom_faith_fp1_yggdrasil
+	}
+
+	holy_order_names = {
+		{ name = holy_order_sons_of_the_star }
+		{ name = holy_order_maidens_marchers }
+		{ name = holy_order_knights_of_the_crossing }
+		{ name = holy_order_calsvierian_order }
+	}
+
+	holy_order_maa = { huscarl }
+
+	localization = {
+		HighGodName = grevetican_high_god_name
+		HighGodName2 = grevetican_high_god_name_2
+		HighGodNamePossessive = grevetican_high_god_name_possessive
+		HighGodNameSheHe = CHARACTER_SHEHE_SHE
+		HighGodHerselfHimself = CHARACTER_HERSELF
+		HighGodHerHis = CHARACTER_HERHIS_HER
+		HighGodNameAlternate = grevetican_high_god_name_alternate
+		HighGodNameAlternatePossessive = grevetican_high_god_name_alternate_possessive
+
+		#Creator
+		CreatorName = grevetican_creator_god_name
+		CreatorNamePossessive = grevetican_creator_god_name_possessive
+		CreatorSheHe = CHARACTER_SHEHE_SHE
+		CreatorHerHis = CHARACTER_HERHIS_HER
+		CreatorHerHim = CHARACTER_HERHIM_HER
+
+		#HealthGod
+		HealthGodName = grevetican_health_god_name
+		HealthGodNamePossessive = grevetican_health_god_name_possessive
+		HealthGodSheHe = CHARACTER_SHEHE_SHE
+		HealthGodHerHis = CHARACTER_HERHIS_HER
+		HealthGodHerHim = CHARACTER_HERHIM_HER
+		
+		#FertilityGod
+		FertilityGodName = grevetican_fertility_god_name
+		FertilityGodNamePossessive = grevetican_fertility_god_name_possessive
+		FertilityGodSheHe = CHARACTER_SHEHE_SHE
+		FertilityGodHerHis = CHARACTER_HERHIS_HER
+		FertilityGodHerHim = CHARACTER_HERHIM_HER
+
+		#WealthGod
+		WealthGodName = grevetican_wealth_god_name
+		WealthGodNamePossessive = grevetican_wealth_god_name_possessive
+		WealthGodSheHe = CHARACTER_SHEHE_SHE
+		WealthGodHerHis = CHARACTER_HERHIS_HER
+		WealthGodHerHim = CHARACTER_HERHIM_HER
+
+		#HouseholdGod
+		HouseholdGodName = grevetican_household_god_name
+		HouseholdGodNamePossessive = grevetican_household_god_name_possessive
+		HouseholdGodSheHe = CHARACTER_SHEHE_SHE
+		HouseholdGodHerHis = CHARACTER_HERHIS_HER
+		HouseholdGodHerHim = CHARACTER_HERHIM_HER
+
+		#FateGod
+		FateGodName = grevetican_fate_god_name
+		FateGodNamePossessive = grevetican_fate_god_name_possessive
+		FateGodSheHe = CHARACTER_SHEHE_IT
+		FateGodHerHis = CHARACTER_HERHIS_ITS
+		FateGodHerHim = CHARACTER_HERHIM_IT
+
+		#KnowledgeGod
+		KnowledgeGodName = grevetican_knowledge_god_name
+		KnowledgeGodNamePossessive = grevetican_knowledge_god_name_possessive
+		KnowledgeGodSheHe = CHARACTER_SHEHE_SHE
+		KnowledgeGodHerHis = CHARACTER_HERHIS_HER
+		KnowledgeGodHerHim = CHARACTER_HERHIM_HER
+
+		#WarGod
+		WarGodName = grevetican_war_god_name
+		WarGodNamePossessive = grevetican_war_god_name_possessive
+		WarGodSheHe = CHARACTER_SHEHE_SHE
+		WarGodHerHis = CHARACTER_HERHIS_HER
+		WarGodHerHim = CHARACTER_HERHIM_HER
+
+		#TricksterGod
+		TricksterGodName = grevetican_trickster_god_name
+		TricksterGodNamePossessive = grevetican_trickster_god_name_possessive
+		TricksterGodSheHe = CHARACTER_SHEHE_HE
+		TricksterGodHerHis = CHARACTER_HERHIS_HIS
+		TricksterGodHerHim = CHARACTER_HERHIM_HIM
+
+		#NightGod
+		NightGodName = grevetican_night_god_name
+		NightGodNamePossessive = grevetican_night_god_name_possessive
+		NightGodSheHe = CHARACTER_SHEHE_HE
+		NightGodHerHis = CHARACTER_HERHIS_HIS
+		NightGodHerHim = CHARACTER_HERHIM_HIM
+
+		#WaterGod
+		WaterGodName = grevetican_water_god_name
+		WaterGodNamePossessive = grevetican_water_god_name_possessive
+		WaterGodSheHe = CHARACTER_SHEHE_SHE
+		WaterGodHerHis = CHARACTER_HERHIS_HER
+		WaterGodHerHim = CHARACTER_HERHIM_HER
+
+
+		GoodGodNames = { grevetican_high_god_name grevetican_good_god_ancestors }
+		DevilName = grevetican_devil_name
+		DevilNamePossessive = grevetican_devil_name_possessive
+		DevilSheHe = CHARACTER_SHEHE_IT
+		DevilHerHis = CHARACTER_HERHIS_ITS
+		DevilHerselfHimself = grevetican_devil_herselfhimself
+		EvilGodNames = { grevetican_devil_name grevetican_evil_god_decay }
+		HouseOfWorship = grevetican_house_of_worship
+		HouseOfWorship2 = grevetican_house_of_worship_2
+		HouseOfWorship3 = grevetican_house_of_worship_3
+		HouseOfWorshipPlural = grevetican_house_of_worship_plural
+		ReligiousSymbol = grevetican_religious_symbol
+		ReligiousSymbol2 = grevetican_religious_symbol_2
+		ReligiousSymbol3 = grevetican_religious_symbol_3
+		ReligiousText = grevetican_religious_text
+		ReligiousText2 = grevetican_religious_text_2
+		ReligiousText3 = grevetican_religious_text_3
+		ReligiousHeadName = grevetican_religious_head_title
+		ReligiousHeadTitleName = grevetican_religious_head_title_name
+		DevoteeMale = grevetican_devotee
+		DevoteeMalePlural = grevetican_devotee_plural
+		DevoteeFemale = grevetican_devotee_female
+		DevoteeFemalePlural = grevetican_devotee_female_plural
+		DevoteeNeuter = grevetican_devotee
+		DevoteeNeuterPlural = grevetican_devoteeplural
+		PriestMale = grevetican_priest
+		PriestMalePlural = grevetican_priest_plural
+		PriestFemale = grevetican_priest
+		PriestFemalePlural = grevetican_priest_plural
+		PriestNeuter = grevetican_priest
+		PriestNeuterPlural = grevetican_priest_plural
+		AltPriestTermPlural = grevetican_priest_alternate_plural
+		BishopMale = grevetican_priest_male
+		BishopMalePlural = grevetican_priest_male_plural
+		BishopFemale = grevetican_bishop
+		BishopFemalePlural = grevetican_bishop_plural
+		BishopNeuter = grevetican_priest
+		BishopNeuterPlural = grevetican_priest_plural
+		DivineRealm = grevetican_divine_realm
+		DivineRealm2 = grevetican_divine_realm_2
+		DivineRealm3 = grevetican_divine_realm_3
+		PositiveAfterLife = grevetican_divine_realm
+		PositiveAfterLife2 = grevetican_divine_realm_2
+		PositiveAfterLife3 = grevetican_divine_realm_3
+		NegativeAfterLife = grevetican_afterlife
+		NegativeAfterLife2 = grevetican_afterlife_2
+		NegativeAfterLife3 = grevetican_afterlife_3
+		DeathDeityName = grevetican_death_deity_name
+		DeathDeityNamePossessive = grevetican_death_deity_name_possessive
+		DeathDeitySheHe = grevetican_devil_shehe
+		DeathDeityHerHis = grevetican_death_deity_herhis
+		WitchGodName = witchgodname_grevetican_the_shadow
+		WitchGodNamePossessive = witchgodname_grevetican_the_shadow_possessive
+		WitchGodSheHe = CHARACTER_SHEHE_IT
+		WitchGodHerHis = CHARACTER_HERHIS_ITS
+		WitchGodHerHim = CHARACTER_HERHIM_IT
+		WitchGodMistressMaster = witch_spirit
+ 		WitchGodMotherFather = witch_source
+		
+		GHWName = ghw_great_holy_war
+		GHWNamePlural = ghw_great_holy_wars
+	}	
+
+	faiths = {
+		grevetican = {
+			color = { 50 140 240 }
+			religious_head = k_grevetican_papacy
+			icon = grevetican
+			
+			#Tenets
+			doctrine = tenet_monasticism
+			doctrine = tenet_sacred_childbirth
+			doctrine = tenet_communion
+	
+			holy_site = greveticas_passage
+			holy_site = maidens_watch
+			holy_site = calsvier
+			holy_site = hawks_height
+			holy_site = c61
+		}
+	}
+}

@@ -1,4 +1,0 @@
-dynn_tc_1 = {
-	name = dynn_tc_1
-	culture = misthalanian
-}

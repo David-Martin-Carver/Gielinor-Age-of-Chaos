@@ -1,0 +1,64 @@
+﻿d_river_coast_company= {
+	color = { 100 50 250 }
+	definite_form = yes
+}
+
+d_cold_river = {
+	color = { 210 125 135 }
+
+	capital = c_147
+}
+
+d_highrange = {
+	color = { 23 166 152 }
+
+	capital = c_45
+}
+
+d_briarhold_guard = {
+	color = { 45 170 25 }
+
+	capital = c_98
+}
+
+d_duchygrevone = {
+	color = { 70 80 240 }
+	ruler_uses_title_name = no
+	landless = yes
+
+	no_automatic_claims = yes
+	always_follows_primary_heir = yes
+	destroy_if_invalid_heir = yes
+	de_jure_drift_disabled = yes
+	can_use_nomadic_naming = no
+		
+	capital = c_grevone # 
+}
+	
+d_duchygrevtwo = {
+	color = { 80 70 250 }
+	ruler_uses_title_name = no
+	landless = yes
+
+	no_automatic_claims = yes
+	always_follows_primary_heir = yes
+	destroy_if_invalid_heir = yes
+	de_jure_drift_disabled = yes
+	can_use_nomadic_naming = no
+		
+	capital = c_grevtwo # 
+}
+
+d_duchy9 = {
+	color = { 201 143 235 }
+	ruler_uses_title_name = no
+	landless = yes
+
+	no_automatic_claims = yes
+	always_follows_primary_heir = yes
+	destroy_if_invalid_heir = yes
+	de_jure_drift_disabled = yes
+	can_use_nomadic_naming = no
+			
+	capital = c_58 # 
+}

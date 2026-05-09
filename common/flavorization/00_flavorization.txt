@@ -1,4 +1,28 @@
-﻿empress_mother = {
+﻿#Princes (children of Kings/Emperors, sorted by culture)
+
+#countling = {
+#	gender = male
+#	special = ruler_child
+#	tier = county
+#	governments = { feudal_government }
+#}
+
+#duckling = {
+#	gender = male
+#	special = ruler_child
+#	tier = duchy
+#	governments = { feudal_government }
+#}
+
+#empress_mutter = {
+#	gender = female
+#	special = queen_mother
+#	tier = empire
+#	
+#	governments = { feudal_government }
+#	heritages = { heritage_central_germanic }
+#}
+empress_mother = {
 	type = character
 	gender = female
 	special = queen_mother
@@ -19,18 +43,6 @@ queen_mother = {
 	flavourization_rules = { 
 		top_liege = no
 	}
-}
-dravidian_group_queen_mother = {
-	type = character
-	gender = female
-	special = queen_mother
-	tier = kingdom
-	priority = 42
-	flavourization_rules = { 
-		top_liege = no
-	}
-	governments = { feudal_government clan_government tribal_government }
-	heritages = { heritage_dravidian heritage_indo_aryan }
 }
 
 #Boring Fallbacks, keep at bottom of file!
@@ -64,7 +76,7 @@ prince_empire = {
 	gender = male
 	special = ruler_child
 	tier = empire
-	governments = { feudal_government clan_government meritocratic_government }
+	governments = { feudal_government clan_government }
 	priority = 35
 	flavourization_rules = { 
 		top_liege = no
@@ -76,7 +88,7 @@ princess_empire = {
 	gender = female
 	special = ruler_child
 	tier = empire
-	governments = { feudal_government clan_government meritocratic_government }
+	governments = { feudal_government clan_government }
 	priority = 35
 	flavourization_rules = { 
 		top_liege = no
@@ -91,8 +103,7 @@ duchy_administrative = {
 	priority = 50
 	governments = { administrative_government }
 	flavourization_rules = {
-		top_liege = yes
-		ignore_top_liege_government = yes #In an administrative realm all governors vassals will use the titles of the top liege - this ensures it is only the governors that do, and not also feudal vassals, republican vassals, etc.
+		top_liege = no
 	}
 }
 duchy_administrative_byzantine_group = {
@@ -102,8 +113,7 @@ duchy_administrative_byzantine_group = {
 	governments = { administrative_government }
 	heritages = { heritage_byzantine }
 	flavourization_rules = {
-		top_liege = yes
-		ignore_top_liege_government = yes #In an administrative realm all governors vassals will use the titles of the top liege - this ensures it is only the governors that do, and not also feudal vassals, republican vassals, etc.
+		top_liege = no
 	}
 }
 kingdom_administrative = {
@@ -112,8 +122,7 @@ kingdom_administrative = {
 	priority = 73
 	governments = { administrative_government }
 	flavourization_rules = {
-		top_liege = yes
-		ignore_top_liege_government = yes #In an administrative realm all governors vassals will use the titles of the top liege - this ensures it is only the governors that do, and not also feudal vassals, republican vassals, etc.
+		top_liege = no
 		only_vassals = yes
 	}
 }
@@ -124,8 +133,7 @@ kingdom_administrative_byzantine_group = {
 	governments = { administrative_government }
 	heritages = { heritage_byzantine }
 	flavourization_rules = {
-		top_liege = yes
-		ignore_top_liege_government = yes #In an administrative realm all governors vassals will use the titles of the top liege - this ensures it is only the governors that do, and not also feudal vassals, republican vassals, etc.
+		top_liege = no
 	}
 }
 kingdom_administrative_roman = {
@@ -135,8 +143,7 @@ kingdom_administrative_roman = {
 	governments = { administrative_government }
 	name_lists = { name_list_roman }
 	flavourization_rules = {
-		top_liege = yes
-		ignore_top_liege_government = yes #In an administrative realm all governors vassals will use the titles of the top liege - this ensures it is only the governors that do, and not also feudal vassals, republican vassals, etc.
+		top_liege = no
 	}
 }
 kingdom_administrative_independent = {
@@ -178,33 +185,6 @@ empire_administrative_roman = {
 		top_liege = no
 	}
 }
-
-emperor_administrative_vassal_byzantine_group = {
-	type = title
-	tier = empire
-	priority = 102
-	governments = { administrative_government }
-	heritages = { heritage_byzantine }
-
-	flavourization_rules = {
-		top_liege = yes
-		ignore_top_liege_government = yes #In an administrative realm all governors vassals will use the titles of the top liege - this ensures it is only the governors that do, and not also feudal vassals, republican vassals, etc.
-		only_vassals = yes
-	}
-}
-
-emperor_administrative_vassal_roman = {
-	type = title
-	tier = empire
-	priority = 102
-	governments = { administrative_government }
-	name_lists = { name_list_roman }
-	flavourization_rules = {
-		only_vassals = yes
-		top_liege = yes
-		ignore_top_liege_government = yes #In an administrative realm all governors vassals will use the titles of the top liege - this ensures it is only the governors that do, and not also feudal vassals, republican vassals, etc.
-	}
-}
  
 # Landless Adventurer Camps
 
@@ -213,33 +193,4 @@ duchy_landless_adventurer_camp = {
 	tier = duchy
 	priority = 30
 	governments = { landless_adventurer_government }
-}
-
-### Devaraja ###
-devaraja = {
-	type = character
-	gender = male
-	flag = devaraja_flag
-	governments = { mandala_government }
-	
-	priority = 102
-	religions = { hinduism_religion buddhism_religion jainism_religion }
-
-	flavourization_rules = { 
-		only_independent = yes
-	}
-}
-
-devarani = {
-	type = character
-	gender = female
-	flag = devaraja_flag
-	governments = { mandala_government }
-	
-	priority = 102
-	religions = { hinduism_religion buddhism_religion jainism_religion }
-
-	flavourization_rules = { 
-		only_independent = yes
-	}
 }

@@ -1,0 +1,9 @@
+﻿worldspine_formation = { 
+	priority = 100 
+	show_first = yes
+}
+
+worldspine_formation2 = {
+	priority = 100
+	show_first = no
+}

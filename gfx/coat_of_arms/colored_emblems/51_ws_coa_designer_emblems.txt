@@ -1,0 +1,53 @@
+﻿# Worldspine Specific CoA designs
+# The order defines the order in which they are listed.
+#
+# Format:
+# filename = {
+#     # How many colors options to show for this emblem. Optional, will assume maximum number of colors if missing
+#     colors = 3
+#
+#     # Whether to show the emblem in the CoA designer. Default yes.
+#     # Add an entry with no to allow specifying number of colors for emblems used in adjusted mode
+#     visible = no
+# }
+#
+#
+# Use the count_unique_emblem_colors console command to generate this instead of manually doing the tedium
+# Note that the command does NOT preserve your visible definitions, so you'll want to add them back in yourself, use a diff tool to make it easier
+
+# worldspine
+
+# Double underscore intentional to make it the first option in the list
+ce__empty_designer.dds = { colors = 0 category = abstract }
+
+ar_woman_one.dds = { colors = 3 category = worldspine }
+ar_woman_oneb.dds = { colors = 3 category = worldspine }
+ar_woman_two.dds = { colors = 3 category = worldspine }
+ar_woman_twob.dds = { colors = 3 category = worldspine }
+ar_woman_three.dds = { colors = 3 category = worldspine }
+ar_woman_face.dds = { colors = 3 category = worldspine }
+ar_woman_flower.dds = { colors = 3 category = worldspine }
+ar_woman_pray_star.dds = { colors = 3 category = worldspine }
+ar_woman_cross_arms.dds = { colors = 3 category = worldspine }
+ar_grevet_star.dds = { colors = 3 category = worldspine }
+ar_woman_head_side.dds = { colors = 2 category = worldspine }
+ar_mandrake.dds = { colors = 3 category = worldspine }
+ar_flower_circle.dds = { colors = 3 category = worldspine }
+ar_woman_dance.dds = { colors = 3 category = worldspine }
+ar_woman_dance2.dds = { colors = 3 category = worldspine }
+ar_woman_sitting.dds = { colors = 3 category = worldspine }
+ar_woman_sitting_lyre.dds = { colors = 3 category = worldspine }
+ar_woman_sitting_lyre2.dds = { colors = 3 category = worldspine }
+ar_woman_stump.dds = { colors = 3 category = worldspine }
+ar_barb_no_axe.dds = { colors = 3 category = worldspine }
+ar_barb_axe_pair.dds = { colors = 3 category = worldspine }
+ar_oak_tree.dds = { colors = 2 category = worldspine }
+ar_mountain.dds = { colors = 2 category = worldspine }
+ar_closed_book.dds = { colors = 3 category = worldspine }
+ar_open_book.dds = { colors = 3 category = worldspine }
+ar_floral_pillar.dds = { colors = 3 category = worldspine }
+ar_winding_river.dds = { colors = 2 category = worldspine }
+ar_mandrake_walk.dds = { colors = 3 category = worldspine }
+ar_stonegods.dds = { colors = 2 category = worldspine }
+ar_flower_frame.dds = { colors = 3 category = worldspine }
+

@@ -1,0 +1,99 @@
+﻿l_english:
+sylvan_heart_religion:0 "Sylvanism"
+sylvan_heart_religion_adj:0 "Sylvan"
+sylvan_heart_religion_adherent:0 "Sylvan"
+sylvan_heart_religion_adherent_plural:0 "Sylvans"
+sylvan_heart_religion_desc:0 "Sylvanism is a deep and abiding kinship with the natural world. Its followers are bound to the spirits of the forest. This reverence for nature extends to a profound respect for their ancestors and their families, who are seen as extensions of the land itself. Their connection to the land becomes a source of unparalleled strength, fueling a ferocious defense against any perceived intrusion, to protect their way of life."
+
+sylvan_heart:0 "Sylvanism"
+sylvan_heart_adj:0 "Sylvan"
+sylvan_heart_adherent:0 "Sylvan"
+
+sylvan_heart_adherent_plural:0 "Sylvans"
+sylvan_heart_high_god_name:0 "Silvanus"
+sylvan_heart_high_god_name_2:0 "$sylvan_heart_high_god_name$" # Optional translation alt
+sylvan_heart_high_god_name_3:0 "$sylvan_heart_high_god_name$" # Optional translation alt
+sylvan_heart_high_god_name_possessive:0 "Silvanus'"
+sylvan_heart_high_god_name_alternate:0 "Mother Earth"
+sylvan_heart_high_god_name_alternate_possessive:0 "Mother Earth's"
+sylvan_heart_good_god_jesus:0 "$sylvan_heart_health_god_name$"
+sylvan_heart_good_god_christ:0 "Silvanus"
+sylvan_heart_devil_name:0 "The Blight"
+sylvan_heart_devil_name_possessive:0 "The Blight's"
+sylvan_heart_evil_god_lucifer:0 "The Blight"
+sylvan_heart_evil_god_beelzebub:0 "The Blight"
+sylvan_heart_evil_god_mephistopheles:0 "The Blight"
+sylvan_heart_death_deity_name:0 "The Gardener"
+sylvan_heart_death_deity_name_possessive:0 "The Gardener's"
+sylvan_heart_house_of_worship:0 "grove"
+sylvan_heart_house_of_worship_2:0 "$sylvan_heart_house_of_worship$" # Optional translation alt
+sylvan_heart_house_of_worship_3:0 "$sylvan_heart_house_of_worship$" # Optional translation alt
+sylvan_heart_house_of_worship_plural:0 "groves"
+sylvan_heart_religious_symbol:0 "Seedling"
+sylvan_heart_religious_symbol_2:0 "$sylvan_heart_religious_symbol$" # Optional translation alt
+sylvan_heart_religious_symbol_3:0 "$sylvan_heart_religious_symbol$" # Optional translation alt
+sylvan_heart_religious_text:0 "The Whispers of the Woods"
+sylvan_heart_religious_text_2:0 "$sylvan_heart_religious_text$" # Optional translation alt
+sylvan_heart_religious_text_3:0 "$sylvan_heart_religious_text$" # Optional translation alt
+sylvan_heart_religious_head_title:0 "Elder Root"
+sylvan_heart_religious_head_title_name:0 "Arboreal Council"
+sylvan_heart_devotee:0 "Kindred"
+sylvan_heart_devotee_plural:0 "Kindred"
+sylvan_heart_devotee_female:0 "Sister of the Grove"
+sylvan_heart_devotee_female_plural:0 "Sisters of the Grove"
+sylvan_heart_devotee_neuter:0 "Guardian"
+sylvan_heart_devotee_neuter_plural:0 "Guardians"
+sylvan_heart_priest_male:0 "Rootwarden"
+sylvan_heart_priest_female:0 "Leafwarden"
+sylvan_heart_priest:0 "Warden"
+sylvan_heart_priest_plural:0 "Wardens"
+sylvan_heart_priest_male_plural:0 "Rootwardens"
+sylvan_heart_priest_alternate_plural:0 "Order of the Green"
+sylvan_heart_bishop:0 "High Warden"
+sylvan_heart_bishop_plural:0 "High Wardens"
+sylvan_heart_bishop_female:0 "High Warden"
+sylvan_heart_bishop_female_plural:0 "High Wardens"
+sylvan_heart_positive_afterlife:0 "The Everwood"
+sylvan_heart_positive_afterlife_2:1 "The Great Canopy" # Optional translation alt
+sylvan_heart_positive_afterlife_3:1 "The Green Embrace" # Optional translation alt
+sylvan_heart_negative_afterlife:0 "The Barren Waste"
+sylvan_heart_negative_afterlife_2:1 "The Rootless Void" # Optional translation alt
+sylvan_heart_negative_afterlife_3:1 "The Withering" # Optional translation alt
+sylvan_heart_witchgodname_the_horned_god:0 "The Antlered Guardian"
+sylvan_heart_witchgodname_the_horned_god_possessive:0 "The Antlered Guardian's"
+
+sylvan_heart_creator_god_name:0 "The Great Seed"
+sylvan_heart_creator_god_name_possessive:0 "The Great Seed's"
+sylvan_heart_health_god_name:0 "The Healing Bloom"
+sylvan_heart_health_god_name_possessive:0 "The Healing Bloom's"
+sylvan_heart_fertility_god_name:0 "The Verdant Sprout"
+sylvan_heart_fertility_god_name_possessive:0 "The Verdant Sprout's"
+sylvan_heart_wealth_god_name:0 "The Bountiful Harvest"
+sylvan_heart_wealth_god_name_possessive:0 "The Bountiful Harvest's"
+sylvan_heart_household_god_name:0 "The Hearth Spirit"
+sylvan_heart_household_god_name_possessive:0 "The Hearth Spirit's"
+sylvan_heart_fate_god_name:0 "The Weaver of Roots"
+sylvan_heart_fate_god_name_possessive:0 "The Weaver of Roots'"
+sylvan_heart_knowledge_god_name:0 "The Ancient Oak"
+sylvan_heart_knowledge_god_name_possessive:0 "The Ancient Oak's"
+sylvan_heart_war_god_name:0 "The Untamed Bramble"
+sylvan_heart_war_god_name_possessive:0 "The Untamed Bramble's"
+sylvan_heart_trickster_god_name:0 "The Mischievous Sprite"
+sylvan_heart_trickster_god_name_possessive:0 "The Mischievous Sprite's"
+sylvan_heart_night_god_name:0 "The Silent Shade"
+sylvan_heart_night_god_name_possessive:0 "The Silent Shade's"
+sylvan_heart_water_god_name:0 "The Flowing Spring"
+sylvan_heart_water_god_name_possessive:0 "The Flowing Spring's"
+
+# Names of pagan religions should not use rf prefix
+#rf_northern:0 "Northern"
+
+holy_order_guardians_of_the_grove:0 "Guardians of the Grove"
+holy_order_defenders_of_the_roots:0 "Defenders of the Roots"
+holy_order_wardens_of_the_borders:0 "Wardens of the Borders"
+holy_order_silent_stalkers:0 "Silent Stalkers"
+
+holy_site_sylvanhs1_name:0 "Whispering Falls"
+holy_site_sylvanhs2_name:0 "Eldertree"
+holy_site_sylvanhs3_name:0 "Circle of Stones"
+holy_site_sylvanhs4_name:0 "Sacred Glade"

@@ -1,0 +1,60 @@
+﻿
+
+send_child_to_grev_clergy_effect = {
+	scope:recipient = {
+		add_opinion = {
+			modifier = grevetican_taking_vows
+			target = scope:actor
+		}
+		simplified_grev_clergy_effect = { RECIPIENT = scope:recipient }
+	}
+}
+
+simplified_grev_clergy_effect = {
+	$RECIPIENT$ = {
+		add_trait = grevetican_devoted
+		add_piety_level = 1
+		if = {
+			limit = { is_ruler = yes }
+			depose = yes
+		}
+		if = {
+			limit = {
+				is_married = yes
+			}
+			every_spouse = {
+				divorce = $RECIPIENT$
+			}
+		}
+		if = {
+			limit = {
+				exists = betrothed
+			}
+			break_betrothal = betrothed
+			if = {
+				limit = {
+					has_been_promised_grand_wedding = yes
+				}
+				break_grand_wedding_betrothal_effect = yes
+			}
+		}
+		if = {
+			limit = {
+				is_concubine = yes
+			}
+			this.concubinist = {
+				remove_concubine = $RECIPIENT$
+			}
+		}
+		if = {
+			limit = {
+				number_of_concubines > 0
+			}
+			every_concubine = {
+				$RECIPIENT$ = {
+					remove_concubine = prev
+				}
+			}
+		}
+	}
+}

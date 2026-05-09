@@ -1,0 +1,56 @@
+﻿l_english:
+
+  #nick_the_thunderbolt:0 "the Thunderbolt"
+  #nick_the_thunderbolt_desc:1 "Common talk has it that [CharYourHerHis(CHARACTER)] foes only hear [CHARACTER.GetShortUINameNoTooltipNoFormat] after [CharYouSheHe(CHARACTER)] [CharHaveHas(CHARACTER)] already struck."
+
+
+ #arbundian
+ south_arbundian:0 "Fenderran"
+ south_arbundian_prefix:0 "Fenderran"
+ south_arbundian_collective_noun:1 "Fenderrans"
+
+ north_arbundian:0 "Vyadian"
+ north_arbundian_prefix:0 "Vyadian"
+ north_arbundian_collective_noun:1 "Vyadians"
+
+ matriarchal_arbundian:0 "Penloran"
+ matriarchal_arbundian_prefix:0 "Penloran"
+ matriarchal_arbundian_collective_noun:1 "Penlorans"
+
+ erro_arbundian:0 "Errorian"
+ erro_arbundian_prefix:0 "Errorian"
+ erro_arbundian_collective_noun:1 "Errorians"
+
+ #mongrel
+ wel_gravan:0 "Wel Gravan"
+ wel_gravan_prefix:0 "Wel Gravan"
+ wel_gravan_collective_noun:1 "Wel Gravans"
+
+ kelberican:0 "Kel Berican"
+ kelberican_prefix:0 "Kel Berican"
+ kelberican_collective_noun:1 "Kel Bericans"
+
+ #ferran
+ lyrathian:0 "Lyrathian"
+ lyrathian_prefix:0 "Lyrathian"
+ lyrathian_collective_noun:1 "Lyrathian"
+
+ #herrecan
+ dalelander:0 "Old Dalean"
+ dalelander_prefix:0 "Old Dalean"
+ dalelander_collective_noun:1 "Old Daleans"
+
+ tevran:0 "Tevran"
+ tevran_prefix:0 "Tevran"
+ tevran_collective_noun:1 "Tevrans"
+
+ bardathian:0 "Bardathian"
+ bardathian_prefix:0 "Bardathian"
+ bardathian_collective_noun:1 "Bardathians"
+
+
+
+
+
+
+

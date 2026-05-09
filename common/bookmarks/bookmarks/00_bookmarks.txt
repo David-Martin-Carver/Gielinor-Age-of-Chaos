@@ -1,0 +1,44 @@
+﻿bm_587_arbundia = {
+	start_date = 587.3.22
+	is_playable = yes
+	group = bm_group_587
+
+	weight = {
+		value = 0
+	}
+
+	# Ablund Erroling (Errolings Family Head) ID: 289
+	character = {
+		name = "bookmark_errolingia_ablund"
+		dynasty = souby
+		dynasty_splendor_level = 2
+		type = male
+		birth = 559.1.1
+		title = d_duchy3
+		government = feudal_government
+		culture = arbundian
+		religion = grevetican
+		difficulty = "BOOKMARK_CHARACTER_DIFFICULTY_MEDIUM"
+		history_id = 289
+		position = { 1100 350 }
+		
+		animation = war_over_win
+	}
+	# Teruth Erroling (Errolings Family Member) ID: 290
+	character = {
+		name = "bookmark_errolingia_teruth"
+		dynasty = souby
+		dynasty_splendor_level = 2
+		type = male
+		birth = 561.1.1
+		title = d_duchy2
+		government = feudal_government
+		culture = arbundian
+		religion = grevetican
+		difficulty = "BOOKMARK_CHARACTER_DIFFICULTY_MEDIUM"
+		history_id = 290
+		position = { 750 700 }
+		
+		animation = personality_bold
+	}
+}

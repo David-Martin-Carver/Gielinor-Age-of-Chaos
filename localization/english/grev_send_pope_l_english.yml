@@ -1,0 +1,98 @@
+﻿l_english:
+
+ # ------------------------------------------------------------
+ # Event 0001 – Choose a daughter
+ # ------------------------------------------------------------
+ grev_send_pope.0001.t:0 "A Daughter for Sacred Service"
+ grev_send_pope.0001.desc:0 "It is no small thing to become a Vestryne, dedicating oneself to the service of Grevetica and living up to her ideals. Whoever I send may not see home for a long time, if ever again, I must make my choice carefully. \n\nWho do I send?"
+
+ grev_send_pope.0001.a:0 "My daughter, [SCOPE.sC('grev_daughter_1').GetFirstName]"
+ grev_send_pope.0001.a.aptitude:0 "Will prepare for her journey to serve the faith, after you choose her new home"
+ grev_send_pope.0001.b:0 "My daughter, [SCOPE.sC('grev_daughter_2').GetFirstName]"
+ grev_send_pope.0001.b.aptitude:0 "Will prepare for her journey to serve the faith, after you choose her new home"
+ grev_send_pope.0001.c:0 "My daughter, [SCOPE.sC('grev_daughter_3').GetFirstName]"
+ grev_send_pope.0001.c.aptitude:0 "Will prepare for her journey to serve the faith, after you choose her new home"
+ grev_send_pope.0001.d:0 "My daughter, [SCOPE.sC('grev_daughter_4').GetFirstName]"
+ grev_send_pope.0001.d.aptitude:0 "Will prepare for her journey to serve the faith, after you choose her new home"
+ grev_send_pope.0001.e:0 "My daughter, [SCOPE.sC('grev_daughter_5').GetFirstName]"
+ grev_send_pope.0001.e.aptitude:0 "Will prepare for her journey to serve the faith, after you choose her new home"
+ grev_send_pope.0001.f:0 "My daughter, [SCOPE.sC('grev_daughter_6').GetFirstName]"
+ grev_send_pope.0001.f.aptitude:0 "Will prepare for her journey to serve the faith, after you choose her new home"
+
+ grev_send_pope.0001.z:0 "I cannot do this"
+
+ # ------------------------------------------------------------
+ # Event 0002 – Choose destination court
+ # ------------------------------------------------------------
+ grev_send_pope.0002.t:0 "A Sacred Destination"
+ grev_send_pope.0002.desc:0 "I have made my choice and now my daughter can begin her journey to become a Vestryne proper. The question is where shall she pledge her service?\n\nThe Verrisanery would allow my daughter to serve our Verris, the most devout servent and voice of Grevetica. While perhaps less prestigious, the courts of the Karvines offer greater oppertunities to do good for the smallfolk."
+
+ grev_send_pope.0002.a:0 "Send her to Verris [SCOPE.sC('grev_papacy_holder').GetFirstName] of the Verrisanery"
+ grev_send_pope.0002.a.misc:0 "[SCOPE.sC('grev_selected_daughter').GetFirstName] will depart for the Verrisanery and begin a Learning education"
+ grev_send_pope.0002.b:0 "Send her to Karvine [SCOPE.sC('grev_duchygrevone_holder').GetFirstName] of Gracesteps"
+ grev_send_pope.0002.b.misc:0 "[SCOPE.sC('grev_selected_daughter').GetFirstName] will depart for Gracesteps and begin a Stewardship education"
+ grev_send_pope.0002.c:0 "Send her to Karvine [SCOPE.sC('grev_duchygrevtwo_holder').GetFirstName] of Faith Home"
+ grev_send_pope.0002.c.misc:0 "[SCOPE.sC('grev_selected_daughter').GetFirstName] will depart for Faith Home and begin a Martial education"
+ grev_send_pope.0002.d:0 "Send her to Karvine [SCOPE.sC('grev_duchy9_holder').GetFirstName] of Caerost"
+ grev_send_pope.0002.d.misc:0 "[SCOPE.sC('grev_selected_daughter').GetFirstName] will depart for Caerost and begin a Learning education"
+
+ grev_send_pope.0002.z:0 "This was a mistake"
+ 
+ grev_send_to_theo_decision:0 "Send Daughter to take Vows"
+ grev_send_theo_desc:0 "It is the duty of all [ROOT.Char.GetTitleAsNameNoTooltip]'s who hold themselves pious to send their equally pious daughters to serve Grevetica as the Twelve Daughters did many years ago."
+ grev_send_to_theo_decision.tt:1 "Will send #P 1#! Daughter who meets the requirements to take the vows and become a Vestryne"
+ grev_send_to_theo_decision_confirm:1 "Assemble my daughters"
+
+ recruit_court_ancress.0001.t:0 "Request an Ancress"
+ recruit_court_ancress.0001.desc:0 "You send word to the Verrisanery, requesting that a Vestryne be dispatched to your court to serve as your Ancress. In return, the Verris expects a suitable donation. \n\nSeveral candidates are available."
+
+ # Option names
+ recruit_court_ancress.0001.e:0 "[SCOPE.sC('excellent_skill_option').GetFirstName] would make an exceptional Ancress"
+ recruit_court_ancress.0001.a:0 "[SCOPE.sC('high_skill_option').GetFirstName]'s skills are well known"
+ recruit_court_ancress.0001.b:0 "While humble [SCOPE.sC('low_skill_option').GetFirstName] may yet prove herself"
+ recruit_court_ancress.0001.c:0 "[SCOPE.sC('mystic_option').GetFirstName] is intriguing, if nothing else"
+ recruit_court_ancress.0001.d.two:0 "There is no one suitable"
+ recruit_court_ancress.0001.d.more:0 "None of these will do"
+
+ # Shared tooltip about payment destination
+ recruit_court_ancress.0001.a.tt:0 "You will send a donation to the Verris"
+ recruit_court_ancress.0001.d.tt:0 "You decide not to request an Ancress at this time"
+
+ # Aptitude blurbs (shown via custom_tooltip)
+ recruit_court_ancress.0001.e.aptitude:0 "This candidate is renowned for learning and piety"
+ recruit_court_ancress.0001.a.aptitude:0 "This candidate seems well-suited to the duties of an Ancress"
+ recruit_court_ancress.0001.b.aptitude:0 "This candidate is serviceable, though not exceptional"
+ recruit_court_ancress.0001.c.aptitude:0 "This candidate is steeped in mystic practice—powerful, but unconventional"
+
+ # ------------------------------------------------------------
+ # Decision: Request an Ancress (Court Chaplain)
+ # ------------------------------------------------------------
+ recruit_court_ancress_decision:0 "Request an Ancress"
+ recruit_court_ancress_decision_confirm:0 "Send the letter"
+ recruit_court_ancress_desc:0 "Without an Ancress to guide prayers and rites, your court’s spiritual life falters. You may petition the Verris to provide a suitable Vestryne for service."
+
+ recruit_court_ancress_decision.tt:0 "You will petition the Verrisanery and choose a Vestryne to join your court as Ancress"
+ 
+ trait_grevetican_devoted:0 "Vestryne"
+ trait_grevetican_devoted_female:0 "Vestryne"
+ trait_grevetican_devoted_male:0 "Vestryne"
+ trait_grevetican_devoted_desc:0 "This character has dedicated their life to the service Grevetica"
+ trait_grevetican_devoted_character_desc:0 "[ROOT.GetCharacter.GetFirstNameNoTooltip] has dedicated [ROOT.GetCharacter.GetHerHis] life to the service of Grevetica"
+ trait_grevetican_devoted_child:0 "Vota"
+ trait_grevetican_devoted_child_desc:0 "[ROOT.GetCharacter.GetFirstNameNoTooltip] has pledged [ROOT.GetCharacter.GetHerHis] life to Grevetica, and will eventually take the vows to become a Vestryne"
+ trait_grevetican_devoted_child_character_desc:0 "[ROOT.GetCharacter.GetFirstNameNoTooltip] has pledged [ROOT.GetCharacter.GetHerHis] life to Grevetica, and will eventually take the vows to become a Vestryne"
+ 
+ grev_send_to_theo_decision_tooltip:0 "Choose a daughter to serve the faith"
+ recruit_court_ancress_decision_tooltip:0 "Petition the faith to send a Vestryne to become your new Ancress"
+ 
+ recruit_ancress_from_court_decision:0 "Recruit an Ancress from court"
+ recruit_ancress_from_court_decision_confirm:0 "Assemble my Vestrynes"
+ recruit_ancress_from_court_decision.tt:0 "You will search your court for a suitable Vestryne to become your Ancress"
+ recruit_ancress_from_court_decision_tooltip:0 "Search the court for a suitable Ancress"
+ recruit_ancress_from_court_desc:0 "Without an Ancress to guide prayers and rites, your court’s spiritual life falters. Perhaps there is a suitable Vestryne at court who would make a suitable Ancress."
+ recruit_court_ancress.0002.t: "The Vestrynes assembled"
+ recruit_court_ancress.0002.desc:0 "Why bother petitioning the Verris for an Ancress when I have plenty of suitable Vestrynes in my own court. It seems every Vestryne of note has presented themselves before me, all that remains is to decide who will look after the religious affairs of my realm. \n\nSo, who shall serve?"
+ recruit_court_ancress.0002.a:0 "[SCOPE.sC('court_ancress_1').GetFirstName] is pleasant company, she will serve best."
+ recruit_court_ancress.0002.b:0 "[SCOPE.sC('court_ancress_2').GetFirstName] should do well, why else would she be here?"
+ recruit_court_ancress.0002.c:0 "Just how many Vestrynes do I have? [SCOPE.sC('court_ancress_3').GetFirstName], get to it!"
+ recruit_court_ancress.0002.z: "Hmm, perhaps I was too hasty."

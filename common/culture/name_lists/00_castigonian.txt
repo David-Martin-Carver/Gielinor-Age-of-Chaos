@@ -1,0 +1,111 @@
+﻿
+
+name_list_castigonian = {
+
+	cadet_dynasty_names = {
+		"dynn_Obroditen"
+		"dynn_Gryfita"
+		{ "dynnp_z" "dynn_Liubic" }
+		"dynn_S_wiE_ca"
+		"dynn_GrzymaL_a"
+		"dynn_JastrzE_biec"
+		"dynn_L_odzia"
+		"dynn_Lubicz"
+		"dynn_NaL_E_cz"
+		"dynn_Gniewosz"
+		{ "dynnp_z" "dynn_Roztoki" }
+		{ "dynnp_ze" "dynn_SL_upska" }
+	}
+
+	dynasty_names = {
+		"dynn_Obroditen"
+		"dynn_Gryfita"
+		{ "dynnp_z" "dynn_Liubic" }
+		"dynn_S_wiE_ca"
+		"dynn_GrzymaL_a"
+		"dynn_JastrzE_biec"
+		"dynn_L_odzia"
+		"dynn_Lubicz"
+		"dynn_NaL_E_cz"
+		"dynn_Gniewosz"
+		{ "dynnp_z" "dynn_Roztoki" }
+		{ "dynnp_ze" "dynn_SL_upska" }
+	}
+
+	male_names = {
+		Adelmar Bernwulf Carlegrim Dedric Edbald Faramund Garfric Hrodric Ingwald Thelric Wernhelm Osgrimm Alfwarn
+		Baldwic Brunhert Dagaric Ecghelm Friedgar Giselhart Hadelric Irminbald Leoward Meginric Nordwin Odelgar
+		Randmar Sigeran Thancbold Udrich Volkhard Winmar Yarowald Zeomar Aethgar Brandhelm Cuthric Everwald Grimbert
+		Hrodmund Wulfegar
+	}
+	female_names = {
+		Agniesca Edyta Ewa Geira Halina Kenna Raina Adalwynn Berthgund Clodwina Dagrida Ermenhild Frithrada Giselda
+		Osberta Richlind Sigrada Theodgifa Wendelgund Wilfrida Ysolhild Audelina Brunna Cunelind Eadwina Friedelind
+		Gerlinda Hildevara Iseltrud Klistina Leoburg Malthild Osgitha Rothgund Siglinda Thralda Unberga Volkwina
+		Waldrida Wulfreda Ydrilda Zebertha Hathlind Irmina Leovilda Maerwynn Norhilda
+	}
+	
+	dynasty_of_location_prefix = "dynnp_of"
+
+	
+
+	mercenary_names = {
+		{ name = "mercenary_company_oder_band" }
+		{ name = "mercenary_company_company_of_the_dog" }
+	}
+}
+
+name_list_bardathian = {
+
+	cadet_dynasty_names = {
+		"dynn_Obroditen"
+		"dynn_Gryfita"
+		{ "dynnp_z" "dynn_Liubic" }
+		"dynn_S_wiE_ca"
+		"dynn_GrzymaL_a"
+		"dynn_JastrzE_biec"
+		"dynn_L_odzia"
+		"dynn_Lubicz"
+		"dynn_NaL_E_cz"
+		"dynn_Gniewosz"
+		{ "dynnp_z" "dynn_Roztoki" }
+		{ "dynnp_ze" "dynn_SL_upska" }
+	}
+
+	dynasty_names = {
+		"dynn_Obroditen"
+		"dynn_Gryfita"
+		{ "dynnp_z" "dynn_Liubic" }
+		"dynn_S_wiE_ca"
+		"dynn_GrzymaL_a"
+		"dynn_JastrzE_biec"
+		"dynn_L_odzia"
+		"dynn_Lubicz"
+		"dynn_NaL_E_cz"
+		"dynn_Gniewosz"
+		{ "dynnp_z" "dynn_Roztoki" }
+		{ "dynnp_ze" "dynn_SL_upska" }
+	}
+
+	male_names = {
+		Adelmar Bernwulf Carlegrim Dedric Edbald Faramund Garfric Hrodric Ingwald Thelric Wernhelm Osgrimm Alfwarn
+		Baldwic Brunhert Dagaric Ecghelm Friedgar Giselhart Hadelric Irminbald Leoward Meginric Nordwin Odelgar
+		Randmar Sigeran Thancbold Udrich Volkhard Winmar Yarowald Zeomar Aethgar Brandhelm Cuthric Everwald Grimbert
+		Hrodmund Wulfegar
+	}
+	female_names = {
+		Agniesca Edyta Ewa Geira Halina Kenna Raina Adalwynn Berthgund Clodwina Dagrida Ermenhild Frithrada Giselda
+		Osberta Richlind Sigrada Theodgifa Wendelgund Wilfrida Ysolhild Audelina Brunna Cunelind Eadwina Friedelind
+		Gerlinda Hildevara Iseltrud Klistina Leoburg Malthild Osgitha Rothgund Siglinda Thralda Unberga Volkwina
+		Waldrida Wulfreda Ydrilda Zebertha Hathlind Irmina Leovilda Maerwynn Norhilda
+	}
+	
+	dynasty_of_location_prefix = "dynnp_of"
+
+	
+
+	mercenary_names = {
+		{ name = "mercenary_company_oder_band" }
+		{ name = "mercenary_company_company_of_the_dog" }
+	}
+}

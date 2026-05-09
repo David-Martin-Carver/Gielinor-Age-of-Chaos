@@ -1,0 +1,119 @@
+c_158 = {
+	580.1.1 = { change_development_level = 18 }
+	580.1.1 = { government = herder_government }
+	580.1.1 = {
+		holder = STRM_3333
+	}
+}
+
+c_159 = {
+	580.1.1 = { change_development_level = 18 }
+	580.1.1 = { government = herder_government }
+	580.1.1 = {
+		holder = STRM_3334
+	}
+}
+
+c_105 = {
+	580.1.1 = { change_development_level = 18 }
+	580.1.1 = { government = feudal_government }
+	587.1.1 = {
+		holder = STRM_249
+	}
+}
+
+c_104 = {
+	580.1.1 = { change_development_level = 18 }
+	580.1.1 = { government = feudal_government }
+	582.1.1 = {
+		holder = STRM_55
+	}
+}
+
+c_119 = {
+	580.1.1 = { change_development_level = 18 }
+	580.1.1 = { government = feudal_government }
+	558.1.1 = {
+		holder = STRM_169
+	}
+}
+
+c_118 = {
+	580.1.1 = { change_development_level = 18 }
+	580.1.1 = { government = feudal_government }
+	585.1.1 = {
+		holder = STRM_8
+	}
+}
+
+c_129 = {
+	580.1.1 = { change_development_level = 18 }
+	580.1.1 = { government = feudal_government }
+	587.1.1 = {
+		holder = STRM_301
+	}
+}
+
+c_122 = {
+	580.1.1 = { change_development_level = 18 }
+	580.1.1 = { government = feudal_government }
+	587.1.1 = {
+		holder = STRM_361
+	}
+}
+
+c_120 = {
+	580.1.1 = { change_development_level = 18 }
+	580.1.1 = { government = feudal_government }
+	573.1.1 = {
+		holder = STRM_228
+	}
+}
+
+c_121 = {
+	580.1.1 = { change_development_level = 18 }
+	580.1.1 = { government = feudal_government }
+	587.1.1 = {
+		holder = STRM_80
+	}
+}
+
+c_107 = {
+	580.1.1 = { change_development_level = 18 }
+	580.1.1 = { government = feudal_government }
+	587.1.1 = {
+		holder = STRM_110
+	}
+}
+
+c_106 = {
+	580.1.1 = { change_development_level = 18 }
+	580.1.1 = { government = feudal_government }
+	587.1.1 = {
+		holder = STRM_344
+	}
+}
+
+c_127 = {
+	580.1.1 = { change_development_level = 18 }
+	580.1.1 = { government = feudal_government }
+	587.1.1 = {
+		holder = STRM_324
+	}
+}
+
+c_123 = {
+	580.1.1 = { change_development_level = 18 }
+	580.1.1 = { government = feudal_government }
+	587.1.1 = {
+		holder = STRM_378
+	}
+}
+
+c_126 = {
+	580.1.1 = { change_development_level = 18 }
+	580.1.1 = { government = feudal_government }
+	587.1.1 = {
+		holder = STRM_147
+	}
+}

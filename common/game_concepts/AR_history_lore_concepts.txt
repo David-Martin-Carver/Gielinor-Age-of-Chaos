@@ -1,0 +1,7 @@
+﻿################################
+## AR HISTORY LORE CONCEPTS ##
+################################
+
+the_great_parting = {
+	texture = "gfx/interface/icons/traits/shrewd.dds"
+}

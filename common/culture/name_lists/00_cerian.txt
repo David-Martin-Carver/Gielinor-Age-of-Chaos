@@ -1,0 +1,124 @@
+﻿name_list_cerian = {
+
+	cadet_dynasty_names = {
+		"dynn_Peras"
+		"dynn_Vistris"
+		"dynn_Melas"
+		"dynn_Lorel"
+		"dynn_Werring"
+		"dynn_Folver"
+		"dynn_Gand"
+		"dynn_Gotsfrie"
+		"dynn_Gotbund"
+		"dynn_Astrund"
+		"dynn_Castford"
+		"dynn_Boundrend"
+		"dynn_Fostercast"
+		"dynn_Juscalt"
+		"dynn_Matrond"
+		"dynn_Francost"
+		"dynn_Malbunt"
+		"dynn_Castrond"
+		"dynn_Baelwold"
+		"dynn_Justrund"
+		"dynn_Postrant"
+		"dynn_Carwent"
+		"dynn_Wentrond"
+		"dynn_Precedent"
+		"dynn_Garbatred"
+		"dynn_Saelwont"
+		"dynn_Lancred"
+		"dynn_Mawling"
+		"dynn_Maelwoldt"
+		"dynn_Faelgrund"
+		"dynn_Arclost"
+		"dynn_Jerustolt"
+		"dynn_Plaetrunt"
+		"dynn_Jaskrent"
+		"dynn_Aileworte"
+		"dynn_Artrunt"
+		"dynn_Haelwund"
+		"dynn_Ashfort"
+		"dynn_Verring"
+		"dynn_Garroling"
+	}
+
+	dynasty_names = {
+		"dynn_Peras"
+		"dynn_Vistris"
+		"dynn_Melas"
+		"dynn_Lorel"
+		"dynn_Werring"
+		"dynn_Folver"
+		"dynn_Gand"
+		"dynn_Gotsfrie"
+		"dynn_Gotbund"
+		"dynn_Astrund"
+		"dynn_Castford"
+		"dynn_Boundrend"
+		"dynn_Fostercast"
+		"dynn_Juscalt"
+		"dynn_Matrond"
+		"dynn_Francost"
+		"dynn_Malbunt"
+		"dynn_Castrond"
+		"dynn_Baelwold"
+		"dynn_Justrund"
+		"dynn_Postrant"
+		"dynn_Carwent"
+		"dynn_Wentrond"
+		"dynn_Precedent"
+		"dynn_Garbatred"
+		"dynn_Saelwont"
+		"dynn_Lancred"
+		"dynn_Mawling"
+		"dynn_Maelwoldt"
+		"dynn_Faelgrund"
+		"dynn_Arclost"
+		"dynn_Jerustolt"
+		"dynn_Plaetrunt"
+		"dynn_Jaskrent"
+		"dynn_Aileworte"
+		"dynn_Artrunt"
+		"dynn_Haelwund"
+		"dynn_Ashfort"
+		"dynn_Verring"
+		"dynn_Garroling"
+	}
+	
+	# Does not exist in 1066 - is the result of cultural amalgamation between Saxon and Norman through events
+	male_names = {
+		Aerwin Alaric Amael Andrevic Arvain Briadoc Brevalen Cadwynn Carenthos Conmael Drevian Eolric Ezenval Faolhen Gaelric Gwaeloc 
+		Halorin Harveloc Iorvenn Joremal Kaedric Kalloren Laoric Loezhan Madalen Maelric Merwen Nethorin Noael Olwennoc Zedrannoc
+		Orwalon Pennvarc Quenric Ranwynn Rioclen Salwen Sioren Stellanoc Tregan Ualanric Vaeldric Wioren Ylvaren Zervanoc Eremarc
+		Jorain Evannor Brivalen Cassianoc Dravenic Edernan Falcwen Gwelfric Haorven Jorveloc Kervelen Maenvric Torwennoc Yveran 
+	}
+	female_names = {
+		Aelwen Aloraen Azenor Briadwen Caderine Caewen Danvera Drevora Eirwenna Eloraine Eolwen Evelenne Faora Gaellin Gwevrenn Aelvienne
+		Heloira Iserwen Jorvael Kaelira Karwenn Laorwen Loezella Maera Maelwena Merial Niamor Nolwenneth Orwena Pennwella Quenara 
+		Ranwen  Riolenna  Salwaen Sioraeth Stellira Tregwen Uloris Vaelline Wiorenna Ylvaris Zeraen Erwenna Jocenna Evarelle Brialenn
+		Cassorwen Dravara Edrelle Falwena Gwendrela Haelissa Jorelaine Kervenna Maewis Trelwynn Yverelle Zevanna Olwenneth Lirvenna 
+	}
+	dynasty_of_location_prefix = "dynnp_of"
+	bastard_dynasty_prefix = "dynnp_Ipt"
+
+	patronym_suffix_male = "dynnpat_suf_wyn"
+	patronym_suffix_female = "dynnpat_suf_swyn"
+	
+	# Chance of male children being named after their paternal or maternal grandfather, or their father. Sum must not exceed 100.
+	pat_grf_name_chance = 30
+	mat_grf_name_chance = 10
+	father_name_chance = 25
+	
+	# Chance of female children being named after their paternal or maternal grandmother, or their mother. Sum must not exceed 100.
+	pat_grm_name_chance = 20
+	mat_grm_name_chance = 40
+	mother_name_chance = 5
+	
+	
+
+	mercenary_names = {
+		{ name = "mercenary_company_white_company" coat_of_arms = "mc_white_company" }
+		{ name = "mercenary_company_hawkwoods_band" }
+	}
+}

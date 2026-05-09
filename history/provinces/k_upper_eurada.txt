@@ -1,0 +1,507 @@
+#k_upper_eurada
+
+##d_duchy90 ###################################
+###c_621
+722 = {	#placeholder
+	culture = arbundian
+	religion = grevetican
+	holding = castle_holding
+}
+723 = {	#placeholder
+	holding = city_holding
+}
+724 = {	#placeholder
+	holding = church_holding
+}
+###c_622
+725 = {	#placeholder
+	culture = arbundian
+	religion = grevetican
+	holding = castle_holding
+}
+726 = {	#placeholder
+	holding = city_holding
+}
+727 = {	#placeholder
+	holding = none
+}
+###c_623
+728 = {	#placeholder
+	culture = arbundian
+	religion = grevetican
+	holding = castle_holding
+}
+729 = {	#placeholder
+	holding = city_holding
+}
+730 = {	#placeholder
+	holding = church_holding
+}
+###c_624
+732 = {	#placeholder
+	culture = arbundian
+	religion = grevetican
+	holding = castle_holding
+}
+731 = {	#placeholder
+	holding = city_holding
+}
+###c_625
+735 = {	#placeholder
+	culture = arbundian
+	religion = grevetican
+	holding = castle_holding
+}
+733 = {	#placeholder
+	holding = none
+}
+734 = {	#placeholder
+	holding = church_holding
+}
+###c_626
+746 = {	#placeholder
+	culture = arbundian
+	religion = grevetican
+	holding = castle_holding
+}
+745 = {	#placeholder
+	holding = city_holding
+}
+747 = {	#placeholder
+	holding = none
+}
+###c_627
+743 = {	#placeholder
+	culture = arbundian
+	religion = grevetican
+	holding = castle_holding
+}
+742 = {	#placeholder
+	holding = city_holding
+}
+744 = {	#placeholder
+	holding = none
+}
+###c_628
+736 = {	#placeholder
+	culture = arbundian
+	religion = grevetican
+	holding = castle_holding
+}
+738 = {	#placeholder
+	holding = city_holding
+}
+737 = {	#placeholder
+	holding = church_holding
+}
+###c_629
+739 = {	#placeholder
+	culture = arbundian
+	religion = grevetican
+	holding = castle_holding
+}
+740 = {	#placeholder
+	holding = none
+}
+741 = {	#placeholder
+	holding = church_holding
+}
+
+##d_duchy91 ###################################
+###c_630
+752 = {	#placeholder
+	culture = arbundian
+	religion = grevetican
+	holding = castle_holding
+}
+753 = {	#placeholder
+	holding = city_holding
+}
+754 = {	#placeholder
+	holding = church_holding
+}
+755 = {	#placeholder
+	holding = none
+}
+###c_631
+756 = {	#placeholder
+	culture = arbundian
+	religion = grevetican
+	holding = castle_holding
+}
+757 = {	#placeholder
+	holding = city_holding
+}
+758 = {	#placeholder
+	holding = none
+}
+###c_632
+763 = {	#placeholder
+	culture = arbundian
+	religion = grevetican
+	holding = castle_holding
+}
+762 = {	#placeholder
+	holding = city_holding
+}
+764 = {	#placeholder
+	holding = church_holding
+}
+###c_633
+759 = {	#placeholder
+	culture = arbundian
+	religion = grevetican
+	holding = castle_holding
+}
+760 = {	#placeholder
+	holding = none
+}
+761 = {	#placeholder
+	holding = church_holding
+}
+###c_634
+765 = {	#placeholder
+	culture = arbundian
+	religion = grevetican
+	holding = castle_holding
+}
+766 = {	#placeholder
+	holding = city_holding
+}
+767 = {	#placeholder
+	holding = none
+}
+###c_635
+769 = {	#placeholder
+	culture = arbundian
+	religion = grevetican
+	holding = castle_holding
+}
+768 = {	#placeholder
+	holding = city_holding
+}
+770 = {	#placeholder
+	holding = church_holding
+}
+###c_636
+771 = {	#placeholder
+	culture = arbundian
+	religion = grevetican
+	holding = castle_holding
+}
+772 = {	#placeholder
+	holding = city_holding
+}
+###c_637
+773 = {	#placeholder
+	culture = arbundian
+	religion = grevetican
+	holding = castle_holding
+}
+774 = {	#placeholder
+	holding = none
+}
+775 = {	#placeholder
+	holding = church_holding
+}
+
+##d_duchy92 ###################################
+###c_638
+750 = {	#placeholder
+	culture = arbundian
+	religion = grevetican
+	holding = castle_holding
+}
+751 = {	#placeholder
+	holding = city_holding
+}
+###c_639
+749 = {	#placeholder
+	culture = arbundian
+	religion = grevetican
+	holding = castle_holding
+}
+748 = {	#placeholder
+	holding = city_holding
+}
+
+##d_duchy93 ###################################
+###c_640
+790 = {	#placeholder
+	culture = arbundian
+	religion = grevetican
+	holding = castle_holding
+}
+789 = {	#placeholder
+	holding = city_holding
+}
+791 = {	#placeholder
+	holding = none
+}
+###c_641
+780 = {	#placeholder
+	culture = arbundian
+	religion = grevetican
+	holding = castle_holding
+}
+781 = {	#placeholder
+	holding = city_holding
+}
+779 = {	#placeholder
+	holding = church_holding
+}
+###c_642
+776 = {	#placeholder
+	culture = arbundian
+	religion = grevetican
+	holding = castle_holding
+}
+777 = {	#placeholder
+	holding = none
+}
+778 = {	#placeholder
+	holding = church_holding
+}
+###c_643
+783 = {	#placeholder
+	culture = arbundian
+	religion = grevetican
+	holding = castle_holding
+}
+782 = {	#placeholder
+	holding = city_holding
+}
+785 = {	#placeholder
+	holding = none
+}
+784 = {	#placeholder
+	holding = none
+}
+###c_644
+786 = {	#placeholder
+	culture = arbundian
+	religion = grevetican
+	holding = castle_holding
+}
+787 = {	#placeholder
+	holding = city_holding
+}
+788 = {	#placeholder
+	holding = church_holding
+}
+###c_645
+794 = {	#placeholder
+	culture = arbundian
+	religion = grevetican
+	holding = castle_holding
+}
+793 = {	#placeholder
+	holding = none
+}
+792 = {	#placeholder
+	holding = church_holding
+}
+###c_646
+795 = {	#placeholder
+	culture = arbundian
+	religion = grevetican
+	holding = castle_holding
+}
+797 = {	#placeholder
+	holding = city_holding
+}
+796 = {	#placeholder
+	holding = church_holding
+}
+
+##d_duchy94 ###################################
+###c_647
+800 = {	#placeholder
+	culture = arbundian
+	religion = grevetican
+	holding = castle_holding
+}
+798 = {	#placeholder
+	holding = city_holding
+}
+799 = {	#placeholder
+	holding = church_holding
+}
+###c_648
+801 = {	#placeholder
+	culture = arbundian
+	religion = grevetican
+	holding = castle_holding
+}
+802 = {	#placeholder
+	holding = city_holding
+}
+803 = {	#placeholder
+	holding = none
+}
+###c_649
+804 = {	#placeholder
+	culture = arbundian
+	religion = grevetican
+	holding = castle_holding
+}
+805 = {	#placeholder
+	holding = city_holding
+}
+###c_650
+814 = {	#placeholder
+	culture = arbundian
+	religion = grevetican
+	holding = castle_holding
+}
+812 = {	#placeholder
+	holding = none
+}
+813 = {	#placeholder
+	holding = church_holding
+}
+###c_651
+815 = {	#placeholder
+	culture = arbundian
+	religion = grevetican
+	holding = castle_holding
+}
+817 = {	#placeholder
+	holding = city_holding
+}
+816 = {	#placeholder
+	holding = church_holding
+}
+###c_652
+809 = {	#placeholder
+	culture = arbundian
+	religion = grevetican
+	holding = castle_holding
+}
+810 = {	#placeholder
+	holding = city_holding
+}
+811 = {	#placeholder
+	holding = none
+}
+###c_653
+807 = {	#placeholder
+	culture = arbundian
+	religion = grevetican
+	holding = castle_holding
+}
+806 = {	#placeholder
+	holding = city_holding
+}
+808 = {	#placeholder
+	holding = church_holding
+}
+
+##d_duchy95 ###################################
+###c_654
+818 = {	#placeholder
+	culture = arbundian
+	religion = grevetican
+	holding = castle_holding
+}
+819 = {	#placeholder
+	holding = city_holding
+}
+###c_655
+823 = {	#placeholder
+	culture = arbundian
+	religion = grevetican
+	holding = castle_holding
+}
+824 = {	#placeholder
+	holding = city_holding
+}
+###c_656
+825 = {	#placeholder
+	culture = arbundian
+	religion = grevetican
+	holding = castle_holding
+}
+827 = {	#placeholder
+	holding = none
+}
+828 = {	#placeholder
+	holding = church_holding
+}
+826 = {	#placeholder
+	holding = none
+}
+###c_657
+820 = {	#placeholder
+	culture = arbundian
+	religion = grevetican
+	holding = castle_holding
+}
+822 = {	#placeholder
+	holding = city_holding
+}
+821 = {	#placeholder
+	holding = church_holding
+}
+
+##d_duchy96 ###################################
+###c_658
+829 = {	#placeholder
+	culture = arbundian
+	religion = grevetican
+	holding = castle_holding
+}
+831 = {	#placeholder
+	holding = city_holding
+}
+830 = {	#placeholder
+	holding = church_holding
+}
+###c_659
+834 = {	#placeholder
+	culture = arbundian
+	religion = grevetican
+	holding = castle_holding
+}
+833 = {	#placeholder
+	holding = city_holding
+}
+832 = {	#placeholder
+	holding = church_holding
+}
+###c_660
+843 = {	#placeholder
+	culture = arbundian
+	religion = grevetican
+	holding = castle_holding
+}
+842 = {	#placeholder
+	holding = city_holding
+}
+841 = {	#placeholder
+	holding = none
+}
+###c_661
+835 = {	#placeholder
+	culture = arbundian
+	religion = grevetican
+	holding = castle_holding
+}
+836 = {	#placeholder
+	holding = city_holding
+}
+837 = {	#placeholder
+	holding = church_holding
+}
+###c_662
+840 = {	#placeholder
+	culture = arbundian
+	religion = grevetican
+	holding = castle_holding
+}
+839 = {	#placeholder
+	holding = none
+}
+838 = {	#placeholder
+	holding = church_holding
+}

@@ -1,0 +1,143 @@
+﻿calraian = {
+	color = { 0.9 0.8 0.05 }
+	
+	ethos = ethos_spiritual
+	heritage = heritage_calrai
+	language = language_calraian
+	martial_custom = martial_custom_male_only
+	traditions = {
+		tradition_forest_folk
+		tradition_forest_fighters
+		tradition_sacred_hunts
+		tradition_sacred_groves
+		tradition_only_the_strong
+	}
+	
+	name_list = name_list_calraian
+	
+	coa_gfx = { english_coa_gfx western_coa_gfx }
+	building_gfx = { western_building_gfx }
+	clothing_gfx = { western_clothing_gfx northern_clothing_gfx }
+	unit_gfx = { western_unit_gfx }
+	
+	ethnicities = {
+		100 = thrisbanner
+	}
+}
+
+thalleromon = {
+	color = { 0.2 0.6 0.3 }
+	created = 508.1.1
+	parents = { calraian mon_grellan }
+	
+	ethos = ethos_bellicose
+	heritage = heritage_calrai
+	language = language_calraian
+	martial_custom = martial_custom_male_only
+	traditions = {
+		tradition_battlefield_looters
+		tradition_stalwart_defenders
+		tradition_swords_for_hire
+		tradition_life_is_just_a_joke
+		tradition_fp2_state_ransoming
+	}
+	
+	name_list = name_list_calraian
+	
+	coa_gfx = { english_coa_gfx western_coa_gfx }
+	building_gfx = { western_building_gfx }
+	clothing_gfx = { iberian_christian_clothing_gfx western_clothing_gfx }
+	unit_gfx = { western_unit_gfx }
+	
+	ethnicities = {
+		100 = thrisbanner
+	}
+}
+
+hulrethan = {
+	color = { 0.6 0.4 0.3 }
+	created = 462.1.1
+	parents = { calraian }
+	
+	ethos = ethos_stoic
+	heritage = heritage_calrai
+	language = language_calraian
+	martial_custom = martial_custom_male_only
+	traditions = {
+		tradition_staunch_traditionalists
+		tradition_vegetarianism
+		tradition_fishermen
+		tradition_faith_bound
+		tradition_forest_folk
+	}
+	
+	name_list = name_list_calraian
+	
+	coa_gfx = { english_coa_gfx western_coa_gfx }
+	building_gfx = { western_building_gfx }
+	clothing_gfx = { iberian_christian_clothing_gfx western_clothing_gfx }
+	unit_gfx = { western_unit_gfx }
+	
+	ethnicities = {
+		100 = thrisbanner
+	}
+}
+
+benerec = {
+	color = { 0.5 0.2 0.7 }
+	created = 499.1.1
+	parents = { calraian kelberican }
+	
+	ethos = ethos_bellicose
+	heritage = heritage_calrai
+	language = language_calraian
+	martial_custom = martial_custom_male_only
+	traditions = {
+		tradition_forest_fighters
+		tradition_forest_folk
+		tradition_strength_in_numbers
+		tradition_fp1_trials_by_combat
+		tradition_eye_for_an_eye
+	}
+	
+	name_list = name_list_thalleran
+	
+	coa_gfx = { english_coa_gfx western_coa_gfx }
+	building_gfx = { western_building_gfx }
+	clothing_gfx = { iberian_christian_clothing_gfx western_clothing_gfx }
+	unit_gfx = { western_unit_gfx }
+	
+	ethnicities = {
+		100 = thrisbanner
+	}
+}
+
+kistry = {
+	color = { 0.7 0.2 0.5 }
+	created = 434.1.1
+	parents = { calraian }
+	
+	ethos = ethos_communal
+	heritage = heritage_calrai
+	language = language_calraian
+	martial_custom = martial_custom_male_only
+	traditions = {
+		tradition_wetlanders
+		tradition_esteemed_hospitality
+		tradition_talent_acquisition
+		tradition_reverence_for_veterans
+		tradition_equitable
+	}
+	
+	name_list = name_list_thalleran
+	
+	coa_gfx = { english_coa_gfx western_coa_gfx }
+	building_gfx = { western_building_gfx }
+	clothing_gfx = { iberian_christian_clothing_gfx western_clothing_gfx }
+	unit_gfx = { western_unit_gfx }
+	
+	ethnicities = {
+		100 = thrisbanner
+	}
+}
+

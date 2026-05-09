@@ -1,0 +1,3 @@
+﻿bm_group_587 = {
+	default_start_date = 587.1.1
+}

@@ -1,0 +1,104 @@
+﻿l_english:
+
+  corvan_religion:0 "Corvanism"
+ corvanism_religion:0 "Corvanism"
+ corvan_religion_adj:0 "Corvanist"
+ corvan_religion_adherent:0 "Corvan"
+ corvan_religion_adherent_plural:0 "Corvans"
+ corvan_religion_desc:0 "An ancient faith forged in the crucible of tribal life. Corvanism exalts strength, conquest, and the ancestral spirits. Adherents believe the greatest honor is a glorious death in battle, securing a place alongside Halvern in the eternal war against the forces of chaos. Ritual suicide is seen as a final offering of devotion, ensuring the continued prosperity of the tribe."
+ 
+ corvan:0 "Corvanism"
+ corvan_adj:0 "Corvan"
+ corvan_adherent:0 "Corvan"
+ corvan_adherent_plural:0 "Corvans"
+
+ corvanism_religion_desc:0 "Corvanism is a religion forged in blood and iron. It exalts tribal strength, the glory of warfare, and the potent spirits inhabiting the land. Its traditions assert that the strong shall govern, and the weak shall yield. Corvanists perceive Graveticans and Luminarians as threats, their foreign creeds a corrosive influence that must be purged from their shores, driven back into the sea from which they emerged millennia ago. A valiant death in battle or a voluntary ritual sacrifice is considered the ultimate honor, ensuring prosperity for future generations. Witchcraft permeates daily life, binding the wise to the unseen forces that shape destiny."
+ corvan_high_god_name:0 "Halvern"
+ corvan_high_god_name_2:0 "$corvan_high_god_name$" # Optional translation alt
+ corvan_high_god_name_3:0 "$corvan_high_god_name$" # Optional translation alt
+ corvan_high_god_name_possessive:0 "Halvern's"
+ corvan_high_god_name_alternate:0 "Moiros"
+ corvan_high_god_name_alternate_possessive:0 "The Maiden's"
+ corvan_good_god_jesus:0 "$corvan_health_god_name$"
+ corvan_good_god_christ:0 "Moiros"
+ corvan_devil_name:0 "Cedigan"
+ corvan_devil_name_possessive:0 "Cedigan's"
+ corvan_evil_god_lucifer:0 "Cedigan"
+ corvan_evil_god_beelzebub:0 "Cedigan"
+ corvan_evil_god_mephistopheles:0 "Cedigan"
+ corvan_death_deity_name:0 "Ouras"
+ corvan_death_deity_name_possessive:0 "Ouras'"
+ corvan_house_of_worship:0 "temple"
+ corvan_house_of_worship_2:0 "$corvan_house_of_worship$" # Optional translation alt
+ corvan_house_of_worship_3:0 "$corvan_house_of_worship$" # Optional translation alt
+ corvan_house_of_worship_plural:0 "temples"
+ corvan_religious_symbol:0 "Caltrix"
+ corvan_religious_symbol_2:0 "$corvan_religious_symbol$" # Optional translation alt
+ corvan_religious_symbol_3:0 "$corvan_religious_symbol$" # Optional translation alt
+ corvan_religious_text:0 "the Verses"
+ corvan_religious_text_2:0 "$corvan_religious_text$" # Optional translation alt
+ corvan_religious_text_3:0 "$corvan_religious_text$" # Optional translation alt
+ corvan_religious_head_title:0 "Vortan"
+ corvan_religious_head_title_name:0 "Vorticerian"
+ corvan_devotee:0 "Ancred"
+ corvan_devotee_plural:0 "Ancreds"
+ corvan_devotee_female:0 "Ancress"
+ corvan_devotee_female_plural:0 "Ancress"
+ corvan_devotee_neuter:0 "monastic"
+ corvan_devotee_neuter_plural:0 "monastics"
+ corvan_priest_male:0 "Karveenal"
+ corvan_priest_female:0 "Karveen"
+ corvan_priest:0 "Karveen"
+ corvan_priest_plural:0 "Karveens"
+ corvan_priest_male_plural:0 "Karveenals"
+ corvan_priest_alternate_plural:0 "brotherhood"
+ corvan_bishop:0 "Karveen"
+ corvan_bishop_plural:0 "Karveens"
+ corvan_bishop_female:0 "Karveen"
+ corvan_bishop_female_plural:0 "Karveens"
+ corvan_positive_afterlife:0 "the afterlife"
+ corvan_positive_afterlife_2:1 "paradise" # Optional translation alt
+ corvan_positive_afterlife_3:1 "$corvan_high_god_name_possessive$ Kingdom" # Optional translation alt
+ corvan_negative_afterlife:0 "hell"
+ corvan_negative_afterlife_2:1 "the Pit" # Optional translation alt
+ corvan_negative_afterlife_3:1 "Gehenna" # Optional translation alt
+ corvan_witchgodname_the_horned_god:0 "the Horned God"
+ corvan_witchgodname_the_horned_god_possessive:0 "the Horned God's"
+ 
+ corvan_creator_god_name:0 "The Creator"
+ corvan_creator_god_name_possessive:0 "$corvan_high_god_name_possessive$"
+ corvan_health_god_name:0 "$corvan_high_god_name$"
+ corvan_health_god_name_possessive:0 "$corvan_high_god_name$"
+ corvan_fertility_god_name:0 "$corvan_high_god_name$"
+ corvan_fertility_god_name_possessive:0 "$corvan_high_god_name_possessive$"
+ corvan_wealth_god_name:0 "$corvan_high_god_name$"
+ corvan_wealth_god_name_possessive:0 "$corvan_high_god_name_possessive$"
+ corvan_household_god_name:0 "$corvan_health_god_name$"
+ corvan_household_god_name_possessive:0 "$corvan_health_god_name_possessive$"
+ corvan_fate_god_name:0 "$corvan_high_god_name$"
+ corvan_fate_god_name_possessive:0 "$corvan_high_god_name_possessive$"
+ corvan_knowledge_god_name:0 "$corvan_high_god_name$"
+ corvan_knowledge_god_name_possessive:0 "$corvan_high_god_name_possessive$"
+ corvan_war_god_name:0 "$corvan_high_god_name$"
+ corvan_war_god_name_possessive:0 "$corvan_high_god_name_possessive$"
+ corvan_trickster_god_name:0 "Kerisel"
+ corvan_trickster_god_name_possessive:0 "Kerisel's"
+ corvan_night_god_name:0 "$corvan_high_god_name$"
+ corvan_night_god_name_possessive:0 "$corvan_high_god_name_possessive$"
+ corvan_water_god_name:0 "$corvan_health_god_name$"
+ corvan_water_god_name_possessive:0 "$corvan_health_god_name_possessive$"
+ 
+ corvanism_religion_adj:0 "Corvanist"
+ corvan_old_adj:0 "Old Corvan"
+ corvan_old:0 "Old Corvan"
+ 
+
+
+
+
+
+
+
+
+
+

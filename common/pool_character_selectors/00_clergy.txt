@@ -1,0 +1,437 @@
+﻿pool_court_chaplain = {
+	valid_character = {
+		# Capable adults
+		is_imprisoned = no
+		is_capable_adult = yes
+
+		trigger_if = {
+			limit = {
+				scope:base.faith = {
+					NOT = { has_doctrine = doctrine_clerical_marriage_allowed }
+				}
+			}
+			is_married = no
+			is_betrothed = no
+		}
+
+		# Disqualifying Criminal Traits
+		trigger_if = {
+			limit = {
+				trait_is_criminal_in_faith_trigger = { TRAIT = adulterer FAITH = scope:base.faith GENDER_CHARACTER = root }
+			}
+			NOT = { has_trait = adulterer }
+		}
+		trigger_if = {
+			limit = {
+				trait_is_criminal_in_faith_trigger = { TRAIT = fornicator FAITH = scope:base.faith GENDER_CHARACTER = root }
+			}
+			NOT = { has_trait = fornicator }
+		}
+		trigger_if = {
+			limit = {
+				trait_is_criminal_in_faith_trigger = { TRAIT = sodomite FAITH = scope:base.faith GENDER_CHARACTER = root }
+			}
+			NOT = { has_trait = sodomite }
+		}
+		trigger_if = {
+			limit = {
+				trait_is_criminal_in_faith_trigger = { TRAIT = deviant FAITH = scope:base.faith GENDER_CHARACTER = root }
+			}
+			NOT = { has_trait = deviant }
+		}
+		trigger_if = {
+			limit = {
+				trait_is_criminal_in_faith_trigger = { TRAIT = kinslayer_3 FAITH = scope:base.faith GENDER_CHARACTER = root }
+			}
+			NOT = { has_trait = kinslayer_3 }
+		}
+		trigger_if = {
+			limit = {
+				trait_is_criminal_in_faith_trigger = { TRAIT = kinslayer_2 FAITH = scope:base.faith GENDER_CHARACTER = root }
+			}
+			NOT = { has_trait = kinslayer_2 }
+		}
+		trigger_if = {
+			limit = {
+				trait_is_criminal_in_faith_trigger = { TRAIT = kinslayer_1 FAITH = scope:base.faith GENDER_CHARACTER = root }
+			}
+			NOT = { has_trait = kinslayer_1 }
+		}
+		trigger_if = {
+			limit = {
+				trait_is_criminal_in_faith_trigger = { TRAIT = witch FAITH = scope:base.faith GENDER_CHARACTER = root }
+			}
+			NOT = { has_trait = witch }
+		}
+		trigger_if = {
+			limit = {
+				trait_is_criminal_in_faith_trigger = { TRAIT = cannibal FAITH = scope:base.faith GENDER_CHARACTER = root }
+			}
+			NOT = { has_trait = cannibal }
+		}
+		trigger_if = {
+			limit = {
+				trait_is_criminal_in_faith_trigger = { TRAIT = incestuous FAITH = scope:base.faith GENDER_CHARACTER = root }
+			}
+			NOT = { has_trait = incestuous }
+		}
+
+		# In minimum good standing with faith
+		NOT = { has_trait = excommunicated }
+
+		# Correct gender
+		scope:base.faith = { has_allowed_gender_for_clergy = root }
+
+		# No charioteers
+		has_any_charioteer_trait = no 
+	}
+	
+	character_score = {
+		base = 1
+		
+		modifier = { # Learning
+			add = {
+				add = learning
+				multiply = 3
+			}
+			learning >= 0
+		}
+		modifier = { # Other attributes
+			add = {
+				value = {
+					add = diplomacy
+					add = learning
+					add = martial
+					add = intrigue
+					add = stewardship
+				}
+			}
+		}
+		modifier = { # Age
+			add = {
+				value = 45
+				subtract = age
+			}
+			age >= 45
+		}
+		modifier = { # Piety
+			add = {
+				value = piety_level
+				multiply = 25
+			}
+			piety_level != 0
+		}
+		modifier = {
+			add = 25
+			has_trait = zealous
+		}
+		modifier = {
+			add = 25
+			has_trait = devoted
+		}
+		modifier = {
+			add = 50
+			has_trait = theologian
+		}
+		modifier = {
+			add = 50
+			has_trait = scholar
+		}
+		modifier = {
+			add = {
+				value = 25
+				multiply = num_virtuous_traits
+			}
+			num_virtuous_traits >= 1
+		}
+		modifier = {
+			add = {
+				value = -25
+				multiply = num_sinful_traits
+			}
+			num_sinful_traits >= 1
+		}
+
+		modifier = {
+			add = {
+				add = 45
+				subtract = age
+				multiply = 3
+			}
+			AND = {
+				age < 45
+				scope:base.faith = { has_doctrine = doctrine_clerical_marriage_allowed }
+				scope:base.faith = { has_doctrine = doctrine_clerical_gender_female_only }
+				OR = {
+					scope:base.faith = { has_doctrine = tenet_sacred_childbirth }
+					scope:base.faith = { has_doctrine = tenet_carnal_exaltation }
+				}
+			}
+		}
+
+		modifier = {
+			add = 100
+			AND = {
+				scope:base.faith = { has_doctrine = tenet_sacred_childbirth }
+				has_trait = fecund
+			}
+		}
+
+		modifier = {
+			add = 25
+			AND = {
+				has_trait = beauty_good_1
+				OR = {
+					scope:base.faith = { has_doctrine = tenet_carnal_exaltation }
+				}
+			}
+		}
+
+		modifier = {
+			add = 50
+			AND = {
+				has_trait = beauty_good_2
+				OR = {
+					scope:base.faith = { has_doctrine = tenet_carnal_exaltation }
+				}
+			}
+		}
+
+		modifier = {
+			add = 75
+			AND = {
+				has_trait = beauty_good_2
+				OR = {
+					scope:base.faith = { has_doctrine = tenet_carnal_exaltation }
+				}
+			}
+		}
+	}
+	
+	config = {
+		background = clergy
+		age = { 16 65 }
+	}
+	
+	selection_count = 25
+	
+	pool = faith
+	gender = clergy
+}
+
+
+# Referenced in code for granting titles to clergy
+pool_theocratic_succession = {
+	valid_character = {
+		is_capable_adult = yes
+		scope:base.faith = { has_allowed_gender_for_clergy = root }
+		is_imprisoned = no
+
+		trigger_if = {
+			limit = {
+				scope:base.faith = {
+					NOT = { has_doctrine = doctrine_clerical_marriage_allowed }
+				}
+			}
+			is_married = no
+			is_betrothed = no
+		}
+		# Disqualifying Criminal Traits
+		trigger_if = {
+			limit = {
+				trait_is_criminal_in_faith_trigger = { TRAIT = adulterer FAITH = scope:base.faith GENDER_CHARACTER = root }
+			}
+			NOT = { has_trait = adulterer }
+		}
+		trigger_if = {
+			limit = {
+				trait_is_criminal_in_faith_trigger = { TRAIT = fornicator FAITH = scope:base.faith GENDER_CHARACTER = root }
+			}
+			NOT = { has_trait = fornicator }
+		}
+		trigger_if = {
+			limit = {
+				trait_is_criminal_in_faith_trigger = { TRAIT = sodomite FAITH = scope:base.faith GENDER_CHARACTER = root }
+			}
+			NOT = { has_trait = sodomite }
+		}
+		trigger_if = {
+			limit = {
+				trait_is_criminal_in_faith_trigger = { TRAIT = deviant FAITH = scope:base.faith GENDER_CHARACTER = root }
+			}
+			NOT = { has_trait = deviant }
+		}
+		trigger_if = {
+			limit = {
+				trait_is_criminal_in_faith_trigger = { TRAIT = kinslayer_3 FAITH = scope:base.faith GENDER_CHARACTER = root }
+			}
+			NOT = { has_trait = kinslayer_3 }
+		}
+		trigger_if = {
+			limit = {
+				trait_is_criminal_in_faith_trigger = { TRAIT = kinslayer_2 FAITH = scope:base.faith GENDER_CHARACTER = root }
+			}
+			NOT = { has_trait = kinslayer_2 }
+		}
+		trigger_if = {
+			limit = {
+				trait_is_criminal_in_faith_trigger = { TRAIT = kinslayer_1 FAITH = scope:base.faith GENDER_CHARACTER = root }
+			}
+			NOT = { has_trait = kinslayer_1 }
+		}
+		trigger_if = {
+			limit = {
+				trait_is_criminal_in_faith_trigger = { TRAIT = witch FAITH = scope:base.faith GENDER_CHARACTER = root }
+			}
+			NOT = { has_trait = witch }
+		}
+		trigger_if = {
+			limit = {
+				trait_is_criminal_in_faith_trigger = { TRAIT = cannibal FAITH = scope:base.faith GENDER_CHARACTER = root }
+			}
+			NOT = { has_trait = cannibal }
+		}
+		trigger_if = {
+			limit = {
+				trait_is_criminal_in_faith_trigger = { TRAIT = incestuous FAITH = scope:base.faith GENDER_CHARACTER = root }
+			}
+			NOT = { has_trait = incestuous }
+		}
+
+		# In minimum good standing with faith
+		NOT = { has_trait = excommunicated }
+
+		# Correct gender
+		scope:base.faith = { has_allowed_gender_for_clergy = root }
+	}
+	
+	character_score = {
+		base = 1
+		
+		modifier = { # Learning
+			add = {
+				add = learning
+			}
+			learning >= 0
+		}
+		modifier = { # Other attributes
+			add = {
+				value = {
+					add = diplomacy
+					add = learning
+					add = martial
+					add = intrigue
+					add = stewardship
+				}
+			}
+		}
+		modifier = { # Age
+			add = {
+				add = 45
+				subtract = age
+			}
+			age >= 45
+		}
+		modifier = { # Piety
+			add = {
+				value = piety_level
+				multiply = 25
+			}
+			piety_level != 0
+		}
+		modifier = {
+			add = 25
+			has_trait = zealous
+		}
+		modifier = {
+			add = 25
+			has_trait = devoted
+		}
+		modifier = {
+			add = 50
+			has_trait = theologian
+		}
+		modifier = {
+			add = 50
+			has_trait = scholar
+		}
+		modifier = {
+			add = {
+				value = 25
+				multiply = num_virtuous_traits
+			}
+			num_virtuous_traits >= 1
+		}
+		modifier = {
+			add = {
+				value = -25
+				multiply = num_sinful_traits
+			}
+			num_sinful_traits >= 1
+		}
+
+		modifier = {
+			add = {
+				add = 45
+				subtract = age
+				multiply = 3
+			}
+			AND = {
+				age < 45
+				scope:base.faith = { has_doctrine = doctrine_clerical_marriage_allowed }
+				scope:base.faith = { has_doctrine = doctrine_clerical_gender_female_only }
+				OR = {
+					scope:base.faith = { has_doctrine = tenet_sacred_childbirth }
+					scope:base.faith = { has_doctrine = tenet_carnal_exaltation }
+				}
+			}
+		}
+
+		modifier = {
+			add = 100
+			AND = {
+				scope:base.faith = { has_doctrine = tenet_sacred_childbirth }
+				has_trait = fecund
+			}
+		}
+
+		modifier = {
+			add = 25
+			AND = {
+				has_trait = beauty_good_1
+				scope:base.faith = { has_doctrine = tenet_carnal_exaltation }
+			}
+		}
+
+		modifier = {
+			add = 50
+			AND = {
+				has_trait = beauty_good_2
+				scope:base.faith = { has_doctrine = tenet_carnal_exaltation }
+			}
+		}
+
+		modifier = {
+			add = 75
+			AND = {
+				has_trait = beauty_good_3
+				scope:base.faith = { has_doctrine = tenet_carnal_exaltation }
+			}
+		}
+
+		modifier = {
+			add = -25
+			is_lowborn = yes
+		}
+	}
+	
+	config = {
+		background = clergy
+		age = { 16 100 }
+	}
+	
+	selection_count = 25
+	
+	pool = faith
+	gender = clergy
+}

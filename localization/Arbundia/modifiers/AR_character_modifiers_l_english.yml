@@ -1,0 +1,20 @@
+﻿l_english:
+
+ zalkot_prophecy_martial_bad1:0 "Anticipated Rout"
+ zalkot_prophecy_martial_bad1_desc:0 "Your warriors will flee the field."
+ zalkot_prophecy_martial_bad2:0 "Foretold Defeat"
+ zalkot_prophecy_martial_bad2_desc:0 "Your armies will falter."
+ zalkot_prophecy_martial_bad3:0 "Prophesied Ruin"
+ zalkot_prophecy_martial_bad3_desc:0 "Your armies shall waver and your cities burn."
+ zalkot_prophecy_martial_bad4:0 "Doomed Struggle"
+ zalkot_prophecy_martial_bad4_desc:0 "Your armies shall scatter to the wind, [GetFaith.WarGodName] protect us.."
+
+ zalkot_prophecy_martial_good1:0 "Blessed Skirmish"
+ zalkot_prophecy_martial_good1_desc:0 "Your enemies' blades shall chip and shatter."
+ zalkot_prophecy_martial_good2:0 "Foretold Victory"
+ zalkot_prophecy_martial_good2_desc:0 "Your armies will stand unyielding."
+ zalkot_prophecy_martial_good3:0 "Prophesied Glory"
+ zalkot_prophecy_martial_good3_desc:0 "Your armies shall conquer and your banners soar."
+ zalkot_prophecy_martial_good4:0 "Triumphant March"
+ zalkot_prophecy_martial_good4_desc:0 "Your armies will march ever victorious, all shall bow before you."
+

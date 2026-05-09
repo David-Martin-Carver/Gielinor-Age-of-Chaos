@@ -1,0 +1,16 @@
+﻿l_english: 
+
+ building_type_river_tower_01: "River Tower"
+ building_type_river_tower_01_desc: "A River Tower is a bastion against the catastrophic ever-looming spring floods of the [unnamed_rivers|E] in southern Arbundia. While primarily built to host massive granaries it is also often constructed with defensive elements such as crenelations on top of its commonly terraced facade and turrets set into the walls at each level. More elaborate River Towers may also host a large, tall keep at its centre as a final line of defense and as a sign of wealth."
+ building_river_tower_01: "Truncated Platform"
+ building_river_tower_01_desc: "This truncated stone-brick platform can barely be regarded as a true River Tower. Just tall enough to keep the water from reaching the granaries at its apex during floods."
+ building_river_tower_02: ""
+ building_river_tower_02_desc: "Tower"
+ building_river_tower_03: "Large Tower"
+ building_river_tower_03_desc: "Tower"
+
+ building_flood_effect_desc:1 "Lessens negative effects of the [spring_floods|E]"
+
+
+ 
+ 

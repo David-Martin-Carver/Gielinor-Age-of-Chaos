@@ -1,0 +1,58 @@
+namespace = spring_floods
+
+spring_floods.0001 = { #
+    title = metropolis.0001.t
+    type = character_event
+    theme = stewardship
+
+    desc = metropolis.0001.desc
+    
+    trigger = { 
+        any_held_title = {
+            tier = tier_county
+            geographical_region = world_arbundia_southern_flood_plains
+        }
+    }
+    
+    
+    immediate = {
+        every_held_title = {
+            limit = { 
+                tier = tier_county
+                geographical_region = world_arbundia_southern_flood_plains
+            }
+            
+            
+            
+        }
+    }
+
+
+    option = {
+        name = metropolis.0001.a
+        custom_tooltip = metropolis.0001.a.tt
+        hidden_effect = {
+            scope:cleared_ruins_province = {
+                set_holding_type = metro_holding
+            }
+        }
+    }
+}
+
+spring_floods.0002 = { #
+    title = metropolis.0001.t
+    type = character_event
+    theme = stewardship
+
+    desc = metropolis.0001.desc
+
+    option = {
+        name = metropolis.0001.a
+        custom_tooltip = metropolis.0001.a.tt
+        hidden_effect = {
+            scope:cleared_ruins_province = {
+                set_holding_type = metro_holding
+            }
+        }
+    }
+}

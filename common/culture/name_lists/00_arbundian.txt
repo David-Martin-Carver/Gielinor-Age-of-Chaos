@@ -1,0 +1,658 @@
+﻿name_list_arbundian = {
+
+	cadet_dynasty_names = {
+		"dynn_Peras"
+		"dynn_Vistris"
+		"dynn_Melas"
+		"dynn_Lorel"
+		"dynn_Werring"
+		"dynn_Folver"
+		"dynn_Gand"
+		"dynn_Gotsfrie"
+		"dynn_Gotbund"
+		"dynn_Astrund"
+		"dynn_Castford"
+		"dynn_Boundrend"
+		"dynn_Fostercast"
+		"dynn_Juscalt"
+		"dynn_Matrond"
+		"dynn_Francost"
+		"dynn_Malbunt"
+		"dynn_Castrond"
+		"dynn_Baelwold"
+		"dynn_Justrund"
+		"dynn_Postrant"
+		"dynn_Carwent"
+		"dynn_Wentrond"
+		"dynn_Precedent"
+		"dynn_Garbatred"
+		"dynn_Saelwont"
+		"dynn_Lancred"
+		"dynn_Mawling"
+		"dynn_Maelwoldt"
+		"dynn_Faelgrund"
+		"dynn_Arclost"
+		"dynn_Jerustolt"
+		"dynn_Plaetrunt"
+		"dynn_Jaskrent"
+		"dynn_Aileworte"
+		"dynn_Artrunt"
+		"dynn_Haelwund"
+		"dynn_Ashfort"
+		"dynn_Verring"
+		"dynn_Garroling"
+	}
+
+	dynasty_names = {
+		"dynn_Peras"
+		"dynn_Vistris"
+		"dynn_Melas"
+		"dynn_Lorel"
+		"dynn_Werring"
+		"dynn_Folver"
+		"dynn_Gand"
+		"dynn_Gotsfrie"
+		"dynn_Gotbund"
+		"dynn_Astrund"
+		"dynn_Castford"
+		"dynn_Boundrend"
+		"dynn_Fostercast"
+		"dynn_Juscalt"
+		"dynn_Matrond"
+		"dynn_Francost"
+		"dynn_Malbunt"
+		"dynn_Castrond"
+		"dynn_Baelwold"
+		"dynn_Justrund"
+		"dynn_Postrant"
+		"dynn_Carwent"
+		"dynn_Wentrond"
+		"dynn_Precedent"
+		"dynn_Garbatred"
+		"dynn_Saelwont"
+		"dynn_Lancred"
+		"dynn_Mawling"
+		"dynn_Maelwoldt"
+		"dynn_Faelgrund"
+		"dynn_Arclost"
+		"dynn_Jerustolt"
+		"dynn_Plaetrunt"
+		"dynn_Jaskrent"
+		"dynn_Aileworte"
+		"dynn_Artrunt"
+		"dynn_Haelwund"
+		"dynn_Ashfort"
+		"dynn_Verring"
+		"dynn_Garroling"
+	}
+	
+	# Does not exist in 1066 - is the result of cultural amalgamation between Saxon and Norman through events
+	male_names = {
+		Ablund Anderan Andren Arbael Arbaet Arbate Arben Arbin Arblac Arbult Arbun Arburl Arburn Arburt Arcol Arcolt Arcon 
+		Arcot Arcott Arcotte Arde Ardect Arden Ardene Ardent Ardest Ardol Ardolt Arduct Artred Artun Artund Barold Barolt 
+		Benund Berund Betund Brabun Brabund Brandol Brandolt Bunder Bundere Bundre Bunled Carbin Carbult Carbun Carbund Carcot 
+		Carcott Carde Cardon Colfen Danund Dolcon Dolcoth Dolthar Eerund Einund 
+		Fanra Fenect Fenra Fethra Finine Finoll Finund Fololl Fonund Fulolt Fulure Furect Furund 
+		Ganran Ganun Genesse Gerine Gerure Ginect Gonra Gulect Gulund Gulure 
+		Hanoll Heine Henolt Henral Herolt Herun Herure Heund Horun 
+		Jeure Jerure Jacure Jonure Juresse Korra Korun Linect Lurure 
+		Marbade Marbate Marbund Mardoc Mardoct Mardolt Marun Marund Mebun Mebund Meburl Meburn Meburr Nolect 
+		Oethund Ourun Pinect Qinund Qonine Quinoll Talbend Talbult Tarbin Tarbun Tarbund Tebult Tebund Tercolt Terdect Terden
+		Soubart Sambar 
+		Terilt Terint Teruct Terund Terunt Teruth Vonren Xenund Zeine Zorect Zoroll
+		
+	}
+	female_names = {
+		Arbaes Ableda Arbaese Arbelle Arbelt Arbine Arblace Arbolle Arbune Arburne Arburse Arcelle Arcolle Arcottle Ardenne Ardente Ardeste 
+		Ardolle Artraed Artread Artrell Artrelle Artress Artuse Arwe Arwen Arwene Arwes Arwest Andera Benele Benunde Benune Betunde Branella
+		Carbaes Carbaese Carbelle Carbine Carblace Carbune Carburne Carburse Carcelle Carcolle Cardenne Cardente Cardeste Cardolle 
+		Cartraed Cartread Cartrelle Cartress Cartuse Carwe Carwes Colfenra Dethette Durecta 
+		Eeine Eulecta Eclara Fanine Finesse Fanun Folesse Foline Ferine Forine Fethesse Finecta Finra Finure Forun Foress
+		Gerolta Ganure Gerra Ginine Ginund Ginra Gorolt Gorure Gulesse Gulette Gulra Gulure 
+		Hanesse Hanolt Herine Hanund Hanure Hertia Henect Heoll Heure Hinette Hinine Honolt Hulolt Hulra 
+		Ieoll Ionine Ioresse Lurana Janect Janolt Janreya Jonolt Juresse Jinette 
+		Kenesse Kenette Keroll Korana Korune Lololl 
+		Maebun Maebunes Marbaes Marbelle Marbune Marcelle Marcolle Marcottle Mardenne Marune Maruse Nonure Nuresse 
+		Oanun Oinect Oinra Ooline Ourella Porun Purund Qera Qonesse Qorect Qurect 
+		Rethure Rethera Ronesse Sabolle Saraed Sarbel Sarbund Sarbunde Sarwen Sarwes 
+		Talbenne Tarbelle Tarbine Tarbune Tebulle Tebune Tercen Tercolle Teructe Terwen 
+		Uorecta Veette Vinesse Vonure Winesse Wulun Wurette Yurolt Zenund Zenine Zethine
+	}
+	bastard_dynasty_prefix = "dynnp_Ipt"
+
+	patronym_suffix_male = "dynnpat_suf_wyn"
+	patronym_suffix_female = "dynnpat_suf_swyn"
+	
+	# Chance of male children being named after their paternal or maternal grandfather, or their father. Sum must not exceed 100.
+	pat_grf_name_chance = 30
+	mat_grf_name_chance = 10
+	father_name_chance = 25
+	
+	# Chance of female children being named after their paternal or maternal grandmother, or their mother. Sum must not exceed 100.
+	pat_grm_name_chance = 20
+	mat_grm_name_chance = 40
+	mother_name_chance = 5
+	
+	
+
+	mercenary_names = {
+		{ name = "mercenary_company_white_company" coat_of_arms = "mc_white_company" }
+		{ name = "mercenary_company_hawkwoods_band" }
+	}
+}
+
+name_list_south_arbundian = {
+
+	cadet_dynasty_names = {
+		"dynn_Peras"
+		"dynn_Vistris"
+		"dynn_Melas"
+		"dynn_Lorel"
+		"dynn_Werring"
+		"dynn_Folver"
+		"dynn_Gand"
+		"dynn_Gotsfrie"
+		"dynn_Gotbund"
+		"dynn_Astrund"
+		"dynn_Castford"
+		"dynn_Boundrend"
+		"dynn_Fostercast"
+		"dynn_Juscalt"
+		"dynn_Matrond"
+		"dynn_Francost"
+		"dynn_Malbunt"
+		"dynn_Castrond"
+		"dynn_Baelwold"
+		"dynn_Justrund"
+		"dynn_Postrant"
+		"dynn_Carwent"
+		"dynn_Wentrond"
+		"dynn_Precedent"
+		"dynn_Garbatred"
+		"dynn_Saelwont"
+		"dynn_Lancred"
+		"dynn_Mawling"
+		"dynn_Maelwoldt"
+		"dynn_Faelgrund"
+		"dynn_Arclost"
+		"dynn_Jerustolt"
+		"dynn_Plaetrunt"
+		"dynn_Jaskrent"
+		"dynn_Aileworte"
+		"dynn_Artrunt"
+		"dynn_Haelwund"
+		"dynn_Ashfort"
+		"dynn_Verring"
+		"dynn_Garroling"
+	}
+
+	dynasty_names = {
+		"dynn_Peras"
+		"dynn_Vistris"
+		"dynn_Melas"
+		"dynn_Lorel"
+		"dynn_Werring"
+		"dynn_Folver"
+		"dynn_Gand"
+		"dynn_Gotsfrie"
+		"dynn_Gotbund"
+		"dynn_Astrund"
+		"dynn_Castford"
+		"dynn_Boundrend"
+		"dynn_Fostercast"
+		"dynn_Juscalt"
+		"dynn_Matrond"
+		"dynn_Francost"
+		"dynn_Malbunt"
+		"dynn_Castrond"
+		"dynn_Baelwold"
+		"dynn_Justrund"
+		"dynn_Postrant"
+		"dynn_Carwent"
+		"dynn_Wentrond"
+		"dynn_Precedent"
+		"dynn_Garbatred"
+		"dynn_Saelwont"
+		"dynn_Lancred"
+		"dynn_Mawling"
+		"dynn_Maelwoldt"
+		"dynn_Faelgrund"
+		"dynn_Arclost"
+		"dynn_Jerustolt"
+		"dynn_Plaetrunt"
+		"dynn_Jaskrent"
+		"dynn_Aileworte"
+		"dynn_Artrunt"
+		"dynn_Haelwund"
+		"dynn_Ashfort"
+		"dynn_Verring"
+		"dynn_Garroling"
+	}
+	
+	# Does not exist in 1066 - is the result of cultural amalgamation between Saxon and Norman through events
+	male_names = {
+		Arbun Arbult Arblac Arburt Arburn Arburl Arben Arbin Arbate Arbaet Arcol Arcolt Arcon Arcot Arcott Arcotte Ardent Arden Arde Ardene Ardol Ardolt Arduct
+		Ardect Ardest Artund Artun Artred Anderan Andren Benund Berund Betund Carbund Carbun Carbin Carbult Carcot Carcott Carde Cardolt
+		Tarbund Tarbun Tarbin Tebund Tebult Talbult Talbend Terund Terunt Teruth Terint Terilt Tercolt Terden Terdol Terdolt Teruct Terdect
+		Bunder Bundere Bunled Ablund Brabund Brabun Barold Barolt Brandol Brandolt Doltar Docolt Dolcon Dolcot Bundre Arbael
+		Marund Marbund Marun Mardoc Mardoct Mebun Mebund Meburl Meburr Meburn Mardolt Marbate Marbade
+		
+	}
+	female_names = {
+		Arbune Arbelle Arblace Arburse Arburne Arbelt Arbine Arbaes Arbaese Arcelle Arcottle Arcolle Ardente Ardenne Ardolle Ardeste Artuse Artress
+		Artrell Artrelle Artread Artraed Arwe Arwen Arwene Arwes Arwest Arbolle Benunde Benune Benele Betunde Carbune Carbelle Carblace Carburse Carburne
+		Carbelle Carbine Carbaes Carbaese Carcelle Carcolle Cardente Cardenne Cardolle Cardeste Cartuse Cartress Cartrelle Cartread Cartraed Carwe Carwes
+		Tarbelle Tarbune Tarbine Tebune Tebulle Talbenne Tercolle Tercen Terwen Teructe
+		Sarbund Sarbel Saraed Sarwes Sarwen Sabolle Sarbunde
+		Marbaes Maebun Maebunes Marbelle Marbune Maruse Marune Marcelle Marcottle Marcolle Mardenne
+	}
+	dynasty_of_location_prefix = "dynnp_of"
+	bastard_dynasty_prefix = "dynnp_Ipt"
+
+	patronym_suffix_male = "dynnpat_suf_wyn"
+	patronym_suffix_female = "dynnpat_suf_swyn"
+	
+	# Chance of male children being named after their paternal or maternal grandfather, or their father. Sum must not exceed 100.
+	pat_grf_name_chance = 30
+	mat_grf_name_chance = 10
+	father_name_chance = 25
+	
+	# Chance of female children being named after their paternal or maternal grandmother, or their mother. Sum must not exceed 100.
+	pat_grm_name_chance = 20
+	mat_grm_name_chance = 40
+	mother_name_chance = 5
+	
+	
+
+	mercenary_names = {
+		{ name = "mercenary_company_white_company" coat_of_arms = "mc_white_company" }
+		{ name = "mercenary_company_hawkwoods_band" }
+	}
+}
+
+name_list_north_arbundian = {
+
+	cadet_dynasty_names = {
+		"dynn_Peras"
+		"dynn_Vistris"
+		"dynn_Melas"
+		"dynn_Lorel"
+		"dynn_Werring"
+		"dynn_Folver"
+		"dynn_Gand"
+		"dynn_Gotsfrie"
+		"dynn_Gotbund"
+		"dynn_Astrund"
+		"dynn_Castford"
+		"dynn_Boundrend"
+		"dynn_Fostercast"
+		"dynn_Juscalt"
+		"dynn_Matrond"
+		"dynn_Francost"
+		"dynn_Malbunt"
+		"dynn_Castrond"
+		"dynn_Baelwold"
+		"dynn_Justrund"
+		"dynn_Postrant"
+		"dynn_Carwent"
+		"dynn_Wentrond"
+		"dynn_Precedent"
+		"dynn_Garbatred"
+		"dynn_Saelwont"
+		"dynn_Lancred"
+		"dynn_Mawling"
+		"dynn_Maelwoldt"
+		"dynn_Faelgrund"
+		"dynn_Arclost"
+		"dynn_Jerustolt"
+		"dynn_Plaetrunt"
+		"dynn_Jaskrent"
+		"dynn_Aileworte"
+		"dynn_Artrunt"
+		"dynn_Haelwund"
+		"dynn_Ashfort"
+		"dynn_Verring"
+		"dynn_Garroling"
+	}
+
+	dynasty_names = {
+		"dynn_Peras"
+		"dynn_Vistris"
+		"dynn_Melas"
+		"dynn_Lorel"
+		"dynn_Werring"
+		"dynn_Folver"
+		"dynn_Gand"
+		"dynn_Gotsfrie"
+		"dynn_Gotbund"
+		"dynn_Astrund"
+		"dynn_Castford"
+		"dynn_Boundrend"
+		"dynn_Fostercast"
+		"dynn_Juscalt"
+		"dynn_Matrond"
+		"dynn_Francost"
+		"dynn_Malbunt"
+		"dynn_Castrond"
+		"dynn_Baelwold"
+		"dynn_Justrund"
+		"dynn_Postrant"
+		"dynn_Carwent"
+		"dynn_Wentrond"
+		"dynn_Precedent"
+		"dynn_Garbatred"
+		"dynn_Saelwont"
+		"dynn_Lancred"
+		"dynn_Mawling"
+		"dynn_Maelwoldt"
+		"dynn_Faelgrund"
+		"dynn_Arclost"
+		"dynn_Jerustolt"
+		"dynn_Plaetrunt"
+		"dynn_Jaskrent"
+		"dynn_Aileworte"
+		"dynn_Artrunt"
+		"dynn_Haelwund"
+		"dynn_Ashfort"
+		"dynn_Verring"
+		"dynn_Garroling"
+	}
+	
+	# Does not exist in 1066 - is the result of cultural amalgamation between Saxon and Norman through events
+	male_names = {
+		Arbun Arbult Arblac Arburt Arburn Arburl Arben Arbin Arbate Arbaet Arcol Arcolt Arcon Arcot Arcott Arcotte Ardent Arden Arde Ardene Ardol Ardolt Arduct
+		Ardect Ardest Artund Artun Artred Anderan Andren Benund Berund Betund Carbund Carbun Carbin Carbult Carcot Carcott Carde Cardolt
+		Tarbund Tarbun Tarbin Tebund Tebult Talbult Talbend Terund Terunt Teruth Terint Terilt Tercolt Terden Terdol Terdolt Teruct Terdect
+		Bunder Bundere Bunled Ablund Brabund Brabun Barold Barolt Brandol Brandolt Doltar Docolt Dolcon Dolcot Bundre Arbael
+		Marund Marbund Marun Mardoc Mardoct Mebun Mebund Meburl Meburr Meburn Mardolt Marbate Marbade
+		
+	}
+	female_names = {
+		Arbune Arbelle Arblace Arburse Arburne Arbelt Arbine Arbaes Arbaese Arcelle Arcottle Arcolle Ardente Ardenne Ardolle Ardeste Artuse Artress
+		Artrell Artrelle Artread Artraed Arwe Arwen Arwene Arwes Arwest Arbolle Benunde Benune Benele Betunde Carbune Carbelle Carblace Carburse Carburne
+		Carbelle Carbine Carbaes Carbaese Carcelle Carcolle Cardente Cardenne Cardolle Cardeste Cartuse Cartress Cartrelle Cartread Cartraed Carwe Carwes
+		Tarbelle Tarbune Tarbine Tebune Tebulle Talbenne Tercolle Tercen Terwen Teructe
+		Sarbund Sarbel Saraed Sarwes Sarwen Sabolle Sarbunde
+		Marbaes Maebun Maebunes Marbelle Marbune Maruse Marune Marcelle Marcottle Marcolle Mardenne
+	}
+	dynasty_of_location_prefix = "dynnp_of"
+	bastard_dynasty_prefix = "dynnp_Ipt"
+
+	patronym_suffix_male = "dynnpat_suf_wyn"
+	patronym_suffix_female = "dynnpat_suf_swyn"
+	
+	# Chance of male children being named after their paternal or maternal grandfather, or their father. Sum must not exceed 100.
+	pat_grf_name_chance = 30
+	mat_grf_name_chance = 10
+	father_name_chance = 25
+	
+	# Chance of female children being named after their paternal or maternal grandmother, or their mother. Sum must not exceed 100.
+	pat_grm_name_chance = 20
+	mat_grm_name_chance = 40
+	mother_name_chance = 5
+	
+	
+
+	mercenary_names = {
+		{ name = "mercenary_company_white_company" coat_of_arms = "mc_white_company" }
+		{ name = "mercenary_company_hawkwoods_band" }
+	}
+}
+
+name_list_erro_arbundian = {
+
+	cadet_dynasty_names = {
+		"dynn_Peras"
+		"dynn_Vistris"
+		"dynn_Melas"
+		"dynn_Lorel"
+		"dynn_Werring"
+		"dynn_Folver"
+		"dynn_Gand"
+		"dynn_Gotsfrie"
+		"dynn_Gotbund"
+		"dynn_Astrund"
+		"dynn_Castford"
+		"dynn_Boundrend"
+		"dynn_Fostercast"
+		"dynn_Juscalt"
+		"dynn_Matrond"
+		"dynn_Francost"
+		"dynn_Malbunt"
+		"dynn_Castrond"
+		"dynn_Baelwold"
+		"dynn_Justrund"
+		"dynn_Postrant"
+		"dynn_Carwent"
+		"dynn_Wentrond"
+		"dynn_Precedent"
+		"dynn_Garbatred"
+		"dynn_Saelwont"
+		"dynn_Lancred"
+		"dynn_Mawling"
+		"dynn_Maelwoldt"
+		"dynn_Faelgrund"
+		"dynn_Arclost"
+		"dynn_Jerustolt"
+		"dynn_Plaetrunt"
+		"dynn_Jaskrent"
+		"dynn_Aileworte"
+		"dynn_Artrunt"
+		"dynn_Haelwund"
+		"dynn_Ashfort"
+		"dynn_Verring"
+		"dynn_Garroling"
+	}
+
+	dynasty_names = {
+		"dynn_Peras"
+		"dynn_Vistris"
+		"dynn_Melas"
+		"dynn_Lorel"
+		"dynn_Werring"
+		"dynn_Folver"
+		"dynn_Gand"
+		"dynn_Gotsfrie"
+		"dynn_Gotbund"
+		"dynn_Astrund"
+		"dynn_Castford"
+		"dynn_Boundrend"
+		"dynn_Fostercast"
+		"dynn_Juscalt"
+		"dynn_Matrond"
+		"dynn_Francost"
+		"dynn_Malbunt"
+		"dynn_Castrond"
+		"dynn_Baelwold"
+		"dynn_Justrund"
+		"dynn_Postrant"
+		"dynn_Carwent"
+		"dynn_Wentrond"
+		"dynn_Precedent"
+		"dynn_Garbatred"
+		"dynn_Saelwont"
+		"dynn_Lancred"
+		"dynn_Mawling"
+		"dynn_Maelwoldt"
+		"dynn_Faelgrund"
+		"dynn_Arclost"
+		"dynn_Jerustolt"
+		"dynn_Plaetrunt"
+		"dynn_Jaskrent"
+		"dynn_Aileworte"
+		"dynn_Artrunt"
+		"dynn_Haelwund"
+		"dynn_Ashfort"
+		"dynn_Verring"
+		"dynn_Garroling"
+	}
+	
+	# Does not exist in 1066 - is the result of cultural amalgamation between Saxon and Norman through events
+	male_names = {
+		Arbun Arbult Arblac Arburt Arburn Arburl Arben Arbin Arbate Arbaet Arcol Arcolt Arcon Arcot Arcott Arcotte Ardent Arden Arde Ardene Ardol Ardolt Arduct
+		Ardect Ardest Artund Artun Artred Anderan Andren Benund Berund Betund Carbund Carbun Carbin Carbult Carcot Carcott Carde Cardolt
+		Tarbund Tarbun Tarbin Tebund Tebult Talbult Talbend Terund Terunt Teruth Terint Terilt Tercolt Terden Terdol Terdolt Teruct Terdect
+		Bunder Bundere Bunled Ablund Brabund Brabun Barold Barolt Brandol Brandolt Doltar Docolt Dolcon Dolcot Bundre Arbael
+		Marund Marbund Marun Mardoc Mardoct Mebun Mebund Meburl Meburr Meburn Mardolt Marbate Marbade
+		
+	}
+	female_names = {
+		Arbune Arbelle Arblace Arburse Arburne Arbelt Arbine Arbaes Arbaese Arcelle Arcottle Arcolle Ardente Ardenne Ardolle Ardeste Artuse Artress
+		Artrell Artrelle Artread Artraed Arwe Arwen Arwene Arwes Arwest Arbolle Benunde Benune Benele Betunde Carbune Carbelle Carblace Carburse Carburne
+		Carbelle Carbine Carbaes Carbaese Carcelle Carcolle Cardente Cardenne Cardolle Cardeste Cartuse Cartress Cartrelle Cartread Cartraed Carwe Carwes
+		Tarbelle Tarbune Tarbine Tebune Tebulle Talbenne Tercolle Tercen Terwen Teructe
+		Sarbund Sarbel Saraed Sarwes Sarwen Sabolle Sarbunde
+		Marbaes Maebun Maebunes Marbelle Marbune Maruse Marune Marcelle Marcottle Marcolle Mardenne
+	}
+	dynasty_of_location_prefix = "dynnp_of"
+	bastard_dynasty_prefix = "dynnp_Ipt"
+
+	patronym_suffix_male = "dynnpat_suf_wyn"
+	patronym_suffix_female = "dynnpat_suf_swyn"
+	
+	# Chance of male children being named after their paternal or maternal grandfather, or their father. Sum must not exceed 100.
+	pat_grf_name_chance = 30
+	mat_grf_name_chance = 10
+	father_name_chance = 25
+	
+	# Chance of female children being named after their paternal or maternal grandmother, or their mother. Sum must not exceed 100.
+	pat_grm_name_chance = 20
+	mat_grm_name_chance = 40
+	mother_name_chance = 5
+	
+	
+
+	mercenary_names = {
+		{ name = "mercenary_company_white_company" coat_of_arms = "mc_white_company" }
+		{ name = "mercenary_company_hawkwoods_band" }
+	}
+}
+
+name_list_matriarchal_arbundian = {
+
+	cadet_dynasty_names = {
+		"dynn_Peras"
+		"dynn_Vistris"
+		"dynn_Melas"
+		"dynn_Lorel"
+		"dynn_Werring"
+		"dynn_Folver"
+		"dynn_Gand"
+		"dynn_Gotsfrie"
+		"dynn_Gotbund"
+		"dynn_Astrund"
+		"dynn_Castford"
+		"dynn_Boundrend"
+		"dynn_Fostercast"
+		"dynn_Juscalt"
+		"dynn_Matrond"
+		"dynn_Francost"
+		"dynn_Malbunt"
+		"dynn_Castrond"
+		"dynn_Baelwold"
+		"dynn_Justrund"
+		"dynn_Postrant"
+		"dynn_Carwent"
+		"dynn_Wentrond"
+		"dynn_Precedent"
+		"dynn_Garbatred"
+		"dynn_Saelwont"
+		"dynn_Lancred"
+		"dynn_Mawling"
+		"dynn_Maelwoldt"
+		"dynn_Faelgrund"
+		"dynn_Arclost"
+		"dynn_Jerustolt"
+		"dynn_Plaetrunt"
+		"dynn_Jaskrent"
+		"dynn_Aileworte"
+		"dynn_Artrunt"
+		"dynn_Haelwund"
+		"dynn_Ashfort"
+		"dynn_Verring"
+		"dynn_Garroling"
+	}
+
+	dynasty_names = {
+		"dynn_Peras"
+		"dynn_Vistris"
+		"dynn_Melas"
+		"dynn_Lorel"
+		"dynn_Werring"
+		"dynn_Folver"
+		"dynn_Gand"
+		"dynn_Gotsfrie"
+		"dynn_Gotbund"
+		"dynn_Astrund"
+		"dynn_Castford"
+		"dynn_Boundrend"
+		"dynn_Fostercast"
+		"dynn_Juscalt"
+		"dynn_Matrond"
+		"dynn_Francost"
+		"dynn_Malbunt"
+		"dynn_Castrond"
+		"dynn_Baelwold"
+		"dynn_Justrund"
+		"dynn_Postrant"
+		"dynn_Carwent"
+		"dynn_Wentrond"
+		"dynn_Precedent"
+		"dynn_Garbatred"
+		"dynn_Saelwont"
+		"dynn_Lancred"
+		"dynn_Mawling"
+		"dynn_Maelwoldt"
+		"dynn_Faelgrund"
+		"dynn_Arclost"
+		"dynn_Jerustolt"
+		"dynn_Plaetrunt"
+		"dynn_Jaskrent"
+		"dynn_Aileworte"
+		"dynn_Artrunt"
+		"dynn_Haelwund"
+		"dynn_Ashfort"
+		"dynn_Verring"
+		"dynn_Garroling"
+	}
+	
+	# Does not exist in 1066 - is the result of cultural amalgamation between Saxon and Norman through events
+	male_names = {
+		Arbun Arbult Arblac Arburt Arburn Arburl Arben Arbin Arbate Arbaet Arcol Arcolt Arcon Arcot Arcott Arcotte Ardent Arden Arde Ardene Ardol Ardolt Arduct
+		Ardect Ardest Artund Artun Artred Anderan Andren Benund Berund Betund Carbund Carbun Carbin Carbult Carcot Carcott Carde Cardolt
+		Tarbund Tarbun Tarbin Tebund Tebult Talbult Talbend Terund Terunt Teruth Terint Terilt Tercolt Terden Terdol Terdolt Teruct Terdect
+		Bunder Bundere Bunled Ablund Brabund Brabun Barold Barolt Brandol Brandolt Doltar Docolt Dolcon Dolcot Bundre Arbael
+		Marund Marbund Marun Mardoc Mardoct Mebun Mebund Meburl Meburr Meburn Mardolt Marbate Marbade
+		
+	}
+	female_names = {
+		Arbune Arbelle Arblace Arburse Arburne Arbelt Arbine Arbaes Arbaese Arcelle Arcottle Arcolle Ardente Ardenne Ardolle Ardeste Artuse Artress
+		Artrell Artrelle Artread Artraed Arwe Arwen Arwene Arwes Arwest Arbolle Benunde Benune Benele Betunde Carbune Carbelle Carblace Carburse Carburne
+		Carbelle Carbine Carbaes Carbaese Carcelle Carcolle Cardente Cardenne Cardolle Cardeste Cartuse Cartress Cartrelle Cartread Cartraed Carwe Carwes
+		Tarbelle Tarbune Tarbine Tebune Tebulle Talbenne Tercolle Tercen Terwen Teructe
+		Sarbund Sarbel Saraed Sarwes Sarwen Sabolle Sarbunde
+		Marbaes Maebun Maebunes Marbelle Marbune Maruse Marune Marcelle Marcottle Marcolle Mardenne
+	}
+	dynasty_of_location_prefix = "dynnp_of"
+	bastard_dynasty_prefix = "dynnp_Ipt"
+
+	patronym_suffix_male = "dynnpat_suf_wyn"
+	patronym_suffix_female = "dynnpat_suf_swyn"
+	
+	# Chance of male children being named after their paternal or maternal grandfather, or their father. Sum must not exceed 100.
+	pat_grf_name_chance = 30
+	mat_grf_name_chance = 10
+	father_name_chance = 25
+	
+	# Chance of female children being named after their paternal or maternal grandmother, or their mother. Sum must not exceed 100.
+	pat_grm_name_chance = 20
+	mat_grm_name_chance = 40
+	mother_name_chance = 5
+	
+	
+
+	mercenary_names = {
+		{ name = "mercenary_company_white_company" coat_of_arms = "mc_white_company" }
+		{ name = "mercenary_company_hawkwoods_band" }
+	}
+}

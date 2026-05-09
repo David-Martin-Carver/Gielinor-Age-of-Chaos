@@ -1,0 +1,82 @@
+﻿councillor_vizier = {
+	auto_fill = yes
+	can_fire = yes
+	can_reassign = yes
+	
+	name = {
+		first_valid = {
+			triggered_desc = {
+				trigger = {
+					scope:councillor_liege.faith.religion = faith:ashari.religion
+				}
+				desc = councillor_vizier
+			}
+			desc = councillor_state_secretary
+		}
+	}
+	tooltip = councillor_vizier_desc
+
+	valid_position = {
+		OR = {
+			any_consort = { count = 0 }
+			any_consort = { is_incapable = yes }
+			has_diarchy_active_parameter = vizier_sits_in_the_council_instead_of_spouse
+			has_diarchy_active_parameter = diarchy_is_co_rulership
+			has_diarchy_active_parameter = diarchy_type_is_temporary_regency
+			has_diarchy_active_parameter = diarchy_type_is_entrenched_regency
+		}
+	}
+
+	valid_character = {
+		exists = root.liege_or_court_owner
+		can_be_councillor_basics_trigger = yes
+		save_temporary_scope_as = confidant
+
+		liege = {
+			OR = {
+				scope:confidant = diarch
+				any_consort = {
+					scope:confidant = this
+				}
+				any_close_or_extended_family_member = {
+					scope:confidant = this
+				}
+				any_powerful_vassal = {
+					scope:confidant = this
+				}
+				any_heir = {
+					scope:confidant = this
+				}
+				any_relation = {
+					OR = {
+						has_relation_friend = liege
+						has_relation_best_friend = liege
+						has_relation_lover = liege
+						has_relation_soulmate = liege
+					}
+					scope:confidant = this
+				}
+			}
+		}
+	}
+
+	on_get_position = {
+		set_variable = {
+			name = councillor_vizier_lifestyle_progress
+			value = 0
+		}
+	}
+
+	on_lose_position = {
+		remove_variable = councillor_vizier_lifestyle_progress
+	}
+
+	on_fired_from_position = {
+		remove_variable = councillor_vizier_lifestyle_progress
+	}
+
+	barbershop_data = {
+		position = { 763.0 261.00  }
+		click_to_front = yes
+	}
+}

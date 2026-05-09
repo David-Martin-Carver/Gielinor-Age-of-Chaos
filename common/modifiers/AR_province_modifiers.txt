@@ -1,0 +1,13 @@
+﻿
+standard_flood = {
+	fort_level = 2
+	garrison_size = 500
+	county_modifier_development_negative = 0.3
+	epidemic_resistance = -5
+}
+catastrophic_flood = {
+	fort_level = 3
+	garrison_size = 1000
+	county_modifier_development_negative = 1
+	epidemic_resistance = -20
+}

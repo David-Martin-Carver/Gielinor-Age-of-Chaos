@@ -1,0 +1,24 @@
+﻿l_english:
+  ### --- Thurn Culture ---
+  culture_thurn:0 "Thurn"
+  culture_thurn_prefix:0 "Thurnic"
+  culture_thurn_collective_noun:0 "Thurnians"
+  culture_thurn_desc:0 "Rooted in the rolling highlands and deep inland forests of the Stormward Marches, the Thurnians are a people of resolve, open exchange, and earned respect. Embracing egalitarian ideals, they value strength proven through personal trial over inherited status. Their reverence for law, ritual combat, and religious devotion fosters a society where even the lowborn may rise through will and conviction. Their openness to outsiders, paired with a deep love for storytelling and sacred rites, marks them as one of the most diverse and devout cultures of the interior."
+
+  ### --- Stormward Culture ---
+  culture_stormward:0 "Stormward"
+  culture_stormward_prefix:0 "Stormward"
+  culture_stormward_collective_noun:0 "Stormwardians"
+  culture_stormward_desc:0 "Perched along the jagged edges of the Worldspine Mountains, the Stormwardians are shaped by altitude, isolation, and unity. Bound by communal duty and sacred faith, they live in mountain holds and alpine passes where survival is a shared burden. Their martial culture prizes honor as spectacle — valor must be seen and remembered — and their oral traditions echo in stone halls under roaring winds. The bonds of kinship and faith run deep here, forged stronger with every storm that batters their highland homes."
+
+  ### --- Targoth Culture ---
+  culture_targoth:0 "Targoth"
+  culture_targoth_prefix:0 "Targothic"
+  culture_targoth_collective_noun:0 "Targothi"
+  culture_targoth_desc:0 "The Targothi dwell where rocky shores meet frigid seas, thriving as both warriors and merchants along the stormy coastlines. Fierce and fiercely independent, they are quick to feud and quicker to defend what is theirs — vengeance is a sacred right, as is profit taken by sword or sail. With their seafaring tradition and boundless ambition, Targoth culture prizes martial skill, shrewd trade, and ancestral pride, guided always by the faith that binds them and the sagas they still sing beneath salt-stained sails."
+
+  ### --- Heritage: Stormward Marches ---
+  heritage_stormward_marches:0 "Stormward Marches"
+  heritage_stormward_marches_name:0 "Stormward Marches"
+  heritage_stormward_marches_collective_noun:0 "Stormward Marchers"
+  heritage_stormward_marches_desc:0 "The peoples of the Stormward Marches share a rugged heritage forged by wind, war, and worship. Though divided by geography — mountains, coasts, and woodlands — they are united by a shared legacy of resilience, devotion, and deeply rooted oral traditions. Whether scaling the high passes of the Worldspine, rowing across storm-lashed seas, or settling forest clearings, the Marchers endure — bound by faith, tested by nature, and strengthened by kinship."

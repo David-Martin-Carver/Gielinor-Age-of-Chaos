@@ -1,0 +1,91 @@
+﻿name_list_thekari = {
+
+	cadet_dynasty_names = {
+		Qwezot
+		Xilnahu
+		Zuktar
+		Temxal
+		Nabzuri
+		Koltaka
+		Yuxmira
+		Shaq'tep
+		Bexikal
+		Zor'tlan
+		Paxumel
+		Gor'zok
+		Vixtal
+		Olmura
+		Zemxira
+		Kax'pash
+		Yoltem
+		Naxzatu
+		Tlixokan
+		Shurkal
+	}
+
+	dynasty_names = {
+		Hashutzel
+		Ancozazel
+		Hexomund
+		Kishan
+		Gilgan
+		Tixadera
+		Anakai
+		Ken'kidash
+		Zaczoatl
+		Leis
+		Angorea
+		Ololoru
+		Zanzikai
+		Gundasur
+		Hao_hao
+		Polameli
+		Xolpakt
+		Nabukesh
+		Tzemul
+		Kaxotlan
+		Zurikal
+		Tlapesh
+		Mexudal
+		Qen'zoth
+		Baztikal
+		Ishmura
+		Xal'tok
+		Nuzatel
+		Gorxun
+		Tlixara
+		Zem'pash
+		Kolzabar
+		Yaxumel
+		Shuk'tal
+		Petzokan
+		Vanxira
+	}
+	
+	# Does not exist in 1066 - is the result of cultural amalgamation between Saxon and Norman through events
+	male_names = {
+		Amanush Menzomar Laicelat Atalur Nefrod Dandalos Anastor Inzacir Cenur Saimon Ecalat Loran’Ur Loran’Dei Bonmod 
+		Orocur Andalon Ceidalos Ziatzel Yiaomon Aruc Matzaman Decald Reren Cimadai Vihamon Zeffon Zaffar Zocozal Rehamon
+	}
+	female_names = {
+		Azaporin Huitzara Biamzet Aicedash Zecotal Cenur Saimon Ecalat LoranUr LoranDei Orocur Andalon Nicodetz Dushande
+		Nacala Nishin Bonmod Nimdosh Rucra Noush Missap Zoadai Cimadai Nefrad Ordashe Rehamon Locadai Nim'Adash
+	}
+	
+	# Chance of male children being named after their paternal or maternal grandfather, or their father. Sum must not exceed 100.
+	pat_grf_name_chance = 30
+	mat_grf_name_chance = 10
+	father_name_chance = 25
+	
+	# Chance of female children being named after their paternal or maternal grandmother, or their mother. Sum must not exceed 100.
+	pat_grm_name_chance = 20
+	mat_grm_name_chance = 40
+	mother_name_chance = 5
+	
+	
+
+	mercenary_names = {
+		{ name = "mercenary_company_white_company" coat_of_arms = "mc_white_company" }
+		{ name = "mercenary_company_hawkwoods_band" }
+	}
+}

@@ -1,0 +1,622 @@
+﻿theocracy = {
+	default_candidates = { landed_vassal, landed_vassal_house_member, holder_house_member, holder_councilor, holder_court_position, direct_subject }
+
+	candidate_score = {
+		value = {
+			# INFLUENCE LEVEL
+			if = {
+				limit = {
+					influence_level = 0
+				}
+				subtract = {
+					value = 10
+					desc = "[influence_level|E]"
+				}
+			}
+			if = {
+				limit = {
+					influence_level >= 2
+				}
+				add = {
+					value = 10
+					multiply = {
+						value = influence_level
+						subtract = 1 # Base value should start at 2
+					}
+					desc = "[influence_level|E]"
+				}
+			}
+
+			# Personal reasons
+			if = {
+				limit = {
+					scope:title.holder ?= { is_close_family_of = root }
+				}
+				add = {
+					value = 15
+					desc = "close_family_holder_desc"
+				}
+			}
+			else_if = {
+				limit = {
+					scope:title.holder ?= {
+						any_spouse = { is_close_family_of = root }
+						NOT = { is_close_family_of = root }
+					}
+				}
+				add = {
+					value = 10
+					desc = "close_family_married_to_holder_desc"
+				}
+			}
+
+			#FRIENDS OF THE HOLDER
+			if = {
+				limit = {
+					scope:title.holder ?= { has_relation_friend = root }
+				}
+				add = {
+					value = 10
+					desc = governor_friend_desc
+				}
+			}
+			if = {
+				limit = {
+					scope:title.holder ?= { has_relation_best_friend = root }
+				}
+				add = {
+					value = 15
+					desc = governor_best_friend_desc
+				}
+			}
+
+			#REGENT
+			if = {
+				limit = { scope:title.holder.diarch ?= root }
+				add = {
+					value = scope:title.holder.diarchy_swing
+					desc = governor_diarch_desc
+				}
+			}
+
+			# Schemes
+			if = {
+				limit = { has_character_modifier = scheme_slandered_modifier }
+				add = {
+					value = slander_appointment_score_value
+					desc = scheme_slandered_modifier
+				}
+			}
+			if = {
+				limit = { has_character_modifier = scheme_promoted_modifier }
+				add = {
+					value = promote_appointment_score_value	# Keep this balanced if more values are added!
+					desc = scheme_promoted_modifier
+				}
+			}
+
+			# Base - Based on skills
+			add = {
+				value = learning
+				multiply = 2
+				desc = learning
+			}
+			add = {
+				value = {
+					add = diplomacy
+					add = learning
+					add = martial
+					add = intrigue
+					add = stewardship
+				}
+				desc = sum_of_skills_desc
+			}
+
+			add = {
+				value = num_virtuous_traits
+				multiply = 25
+				desc = virtuous_traits_difficulty
+			}
+
+			if = {
+				limit = {
+					has_council_position = councillor_court_chaplain
+				}
+				add = {
+					value = 25
+					multiply = liege.highest_held_title_tier
+					desc = actual_bishop_title
+				}
+			}
+
+			if = {
+				limit = { piety_level = 2 }
+				add = {
+					value = 25
+					desc = piety_level_2
+				}
+			}
+			else_if = {
+				limit = { piety_level = 3 }
+				add = {
+					value = 50
+					desc = piety_level_3
+				}
+			}
+			else_if = {
+				limit = { piety_level = 4 }
+				add = {
+					value = 75
+					desc = piety_level_4
+				}
+			}
+			else_if = {
+				limit = { piety_level = 5 }
+				add = {
+					value = 100
+					desc = piety_level_5
+				}
+			}
+
+			# Traits
+			if = {
+				limit = {
+					has_trait = zealous
+				}
+				add = {
+					value = 25
+					desc = trait_zealous
+				}
+			}
+			if = {
+				limit = {
+					faith = faith:grevetican
+					has_trait = grevetican_devoted
+				}
+				add = {
+					value = 150
+					desc = trait_devoted
+				}
+			}
+			if = {
+				limit = {
+					faith = faith:grevetican
+					has_trait = grevetican_devoted
+					age < 40
+				}
+				add = {
+					value = 25
+					desc = grevetican_candidate_age_under_40_desc
+				}
+			}
+			if = {
+				limit = {
+					faith = faith:grevetican
+					has_trait = grevetican_devoted
+					age < 30
+				}
+				add = {
+					value = 25
+					desc = grevetican_candidate_age_under_30_desc
+				}
+			}
+			if = {
+				limit = {
+					faith = faith:grevetican
+					age > 50
+				}
+				subtract = {
+					value = 200
+					desc = grevetican_candidate_age_over_50_desc
+				}
+			}
+			if = {
+				limit = {
+					faith = faith:grevetican
+					age > 40
+				}
+				subtract = {
+					value = 125
+					desc = grevetican_candidate_age_over_40_desc
+				}
+			}
+			if = {
+				limit = {
+					faith = faith:grevetican
+					is_male = yes
+				}
+				subtract = {
+					value = 1000
+					desc = grevetican_candidate_cant_be_male_desc
+				}
+			}
+
+			# Non-devoted penalty (Grevetican only)
+			if = {
+				limit = {
+					faith = faith:grevetican
+					NOT = { has_trait = grevetican_devoted }
+				}
+				subtract = {
+					value = 50
+					desc = grevetican_candidate_not_devoted_desc
+				}
+			}
+			if = {
+				limit = {
+					has_trait = devoted
+				}
+				add = {
+					value = 25
+					desc = trait_devoted
+				}
+			}
+
+			# Epic Learning traits
+			if = {
+				limit = {
+					has_trait = theologian
+				}
+				add = {
+					value = 50
+					desc = theologian_perk_name
+				}
+			}
+			if = {
+				limit = {
+					has_trait = scholar
+				}
+				add = {
+					value = 50
+					desc = scholar_perk_name
+				}
+			}
+
+			if = {
+                limit = {
+					age < 45
+					faith = { has_doctrine = doctrine_clerical_marriage_allowed }
+					faith = { has_doctrine = doctrine_clerical_gender_female_only }
+					OR = {
+						faith = { has_doctrine = tenet_sacred_childbirth }
+						faith = { has_doctrine = tenet_carnal_exaltation }
+						faith = { has_doctrine = tenet_polyamory }
+					}
+                }
+                add = {
+					value = {
+						add = 45
+						subtract = age
+					}
+					multiply = 2
+					desc = diplomacy_majesty.0004.energetic
+				}
+            }
+
+			if = {
+                limit = {
+					has_trait = fecund
+					OR = {
+						faith = { has_doctrine = tenet_sacred_childbirth }
+					}
+                }
+                add = {
+					value = 100
+					desc = trait_fecund_desc
+				}
+            }
+
+			if = {
+                limit = {
+					has_trait = beauty_good_3
+					OR = {
+						faith = { has_doctrine = tenet_carnal_exaltation }
+						faith = { has_doctrine = tenet_polyamory }
+					}
+                }
+                add = {
+					value = 75
+					desc = trait_beauty_good_3
+				}
+            }
+
+			if = {
+                limit = {
+					has_trait = beauty_good_2
+					OR = {
+						faith = { has_doctrine = tenet_carnal_exaltation }
+						faith = { has_doctrine = tenet_polyamory }
+					}
+                }
+                add = {
+					value = 50
+					desc = trait_beauty_good_2
+				}
+            }
+
+			if = {
+                limit = {
+					has_trait = beauty_good_1
+					OR = {
+						faith = { has_doctrine = tenet_carnal_exaltation }
+						faith = { has_doctrine = tenet_polyamory }
+					}
+                }
+                add = {
+					value = 25
+					desc = trait_beauty_good_1
+				}
+            }
+
+			# Other theocracies ok
+			if = {
+				limit = {
+					is_ruler = yes
+					government_has_flag = government_is_theocracy
+				}
+				add = {
+					value = 25
+					desc = title_landed_name
+					multiply = primary_title.tier
+				}
+			}
+
+			#SAME CULTURE AS REGION
+			if = {
+				limit = { culture = scope:title.holder.capital_county.culture }
+				multiply = {
+					value = 1.25
+					desc = of_local_culture_succession_desc
+				}
+			}
+			else_if = {
+				limit = {
+					NOR = {
+						culture = { has_same_culture_heritage = scope:title.holder.capital_county.culture }
+						knows_language_of_culture = scope:title.holder.capital_county.culture
+					}
+				}
+				multiply = {
+					value = 0.75
+					desc = CULTURE_RELATION_FOREIGN_CULTURE
+				}
+			}
+
+			# Disqualify
+			## Already have equal or higher tier title
+			if = {
+				limit = {
+					scope:title.tier <= highest_held_title_tier
+				}
+				multiply = {
+					value = 0
+					desc = only_one_province_of_highest_rank_tt
+				}
+			}
+			if = {
+				limit = {
+					NOT = { faith = scope:title.holder.faith }
+				}
+				multiply = {
+					value = 0
+					desc = hold_court_8200_vassal_modifier
+				}
+			}
+			if = {
+				limit = {
+					is_ruler = yes
+					NOT = { government_has_flag = government_is_theocracy }
+				}
+				multiply = {
+					value = 0
+					desc = outside_realm_desc
+				}
+			}
+			if = {
+				limit = {
+					NOT = { government_has_flag = government_is_theocracy }
+					any_heir_title = {}
+				}
+				multiply = {
+					value = 0
+					desc = inheritance_line_desc
+				}
+			}
+			if = {
+                limit = {
+					faith = { has_doctrine = doctrine_clerical_marriage_disallowed }
+                    is_married = yes
+                }
+                multiply = {
+					value = 0
+					desc = married_desc_third_perspective
+				}
+            }
+            if = {
+                limit = {
+					faith = { has_doctrine = doctrine_clerical_gender_female_only }
+                    is_male = yes
+                }
+                multiply = {
+					value = 0
+					desc = appointment_female_only_desc
+				}
+            }
+            if = {
+                limit = { 
+                    faith = { has_doctrine = doctrine_clerical_gender_male_only }
+                    is_female = yes
+                }
+                multiply = {
+					value = 0
+					desc = appointment_male_only_desc
+				}
+            }
+			if = {
+				limit = {
+					has_trait = deviant
+					trait_is_criminal_in_faith_trigger = { TRAIT = deviant FAITH = root.faith GENDER_CHARACTER = root }
+				}
+				multiply = {
+					value = 0
+					desc = "deviant_and_criminal_desc"
+				}
+			}
+			if = {
+				limit = {
+					has_trait = incestuous
+					trait_is_criminal_in_faith_trigger = { TRAIT = incestuous FAITH = root.faith GENDER_CHARACTER = root }
+				}
+				multiply = {
+					value = 0
+					desc = "incestuous_and_criminal_desc"
+				}
+			}
+			if = {
+				limit = {
+					has_trait = sodomite
+					trait_is_criminal_in_faith_trigger = { TRAIT = sodomite FAITH = root.faith GENDER_CHARACTER = root }
+				}
+				multiply = {
+					value = 0
+					desc = "sodomite_and_criminal_desc"
+				}
+			}
+			if = {
+				limit = {
+					has_trait = cannibal
+					trait_is_criminal_in_faith_trigger = { TRAIT = cannibal FAITH = root.faith GENDER_CHARACTER = root }
+				}
+				multiply = {
+					value = 0
+					desc = "cannibal_and_criminal_desc"
+				}
+			}
+			if = {
+				limit = {
+					has_trait = kinslayer_1
+					trait_is_criminal_in_faith_trigger = { TRAIT = kinslayer_1 FAITH = root.faith GENDER_CHARACTER = root }
+				}
+				multiply = {
+					value = 0
+					desc = "kinslayer_1_and_criminal_desc"
+				}
+			}
+			if = {
+				limit = {
+					has_trait = kinslayer_2
+					trait_is_criminal_in_faith_trigger = { TRAIT = kinslayer_2 FAITH = root.faith GENDER_CHARACTER = root }
+				}
+				multiply = {
+					value = 0
+					desc = "kinslayer_2_and_criminal_desc"
+				}
+			}
+			if = {
+				limit = {
+					has_trait = kinslayer_3
+					trait_is_criminal_in_faith_trigger = { TRAIT = kinslayer_3 FAITH = root.faith GENDER_CHARACTER = root }
+				}
+				multiply = {
+					value = 0
+					desc = "kinslayer_3_and_criminal_desc"
+				}
+			}
+			if = {
+				limit = {
+					has_trait = witch
+					trait_is_criminal_in_faith_trigger = { TRAIT = witch FAITH = root.faith GENDER_CHARACTER = root }
+				}
+				multiply = {
+					value = 0
+					desc = "witch_and_criminal_desc"
+				}
+			}
+			if = {
+				limit = {
+					has_trait = adulterer
+					trait_is_criminal_in_faith_trigger = { TRAIT = adulterer FAITH = root.faith GENDER_CHARACTER = root }
+				}
+				multiply = {
+					value = 0
+					desc = "adulterer_and_criminal_desc"
+				}
+			}
+			if = {
+				limit = {
+					has_trait = fornicator
+					trait_is_criminal_in_faith_trigger = { TRAIT = fornicator FAITH = root.faith GENDER_CHARACTER = root }
+				}
+				multiply = {
+					value = 0
+					desc = "fornicator_and_criminal_desc"
+				}
+			}
+			if = {
+				limit = {
+					has_trait = incapable
+				}
+				multiply = {
+					value = 0
+					desc = trait_incapable
+				}
+			}
+
+			subtract = {
+				value = num_sinful_traits
+				multiply = 25
+				desc = sinful_traits_difficulty
+			}
+
+			if = {
+				limit = { age > 45 }
+				subtract = {
+					value = {
+						add = -45
+						add = age
+					}
+					desc = geriatric_candidate_desc
+				}
+			}
+
+			if = {
+				limit = { piety_level = 0 }
+				subtract = {
+					value = 50
+					desc = piety_level_0
+				}
+			}
+
+			# Double Disqualify, make sure absolutely none of these
+			## Already have equal or higher tier title
+			if = {
+				limit = {
+					scope:title.tier <= highest_held_title_tier
+				}
+				subtract = {
+					value = 1000
+					desc = only_one_province_of_highest_rank_tt
+				}
+			}
+			if = {
+				limit = {
+					NOT = { faith = scope:title.holder.faith }
+				}
+				subtract = {
+					value = 1000
+					desc = hold_court_8200_vassal_modifier
+				}
+			}
+			if = {
+				limit = {
+					is_ruler = yes
+					NOT = { government_has_flag = government_is_theocracy }
+				}
+				subtract = {
+					value = 1000
+					desc = outside_realm_desc
+				}
+			}
+		}
+	}
+}

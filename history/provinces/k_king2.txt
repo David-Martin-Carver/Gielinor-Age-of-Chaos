@@ -1,0 +1,353 @@
+#k_king2
+
+##d_duchy19 ###################################
+###c_104
+380 = {	#placeholder
+	culture = stormward
+	religion = halvran_reformed
+	holding = castle_holding
+}
+379 = {	#placeholder
+	holding = city_holding
+}
+381 = {	#placeholder
+	holding = church_holding
+}
+###c_105
+383 = {	#placeholder
+	culture = stormward
+	religion = halvran_reformed
+	holding = castle_holding
+}
+382 = {	#placeholder
+	holding = city_holding
+}
+384 = {	#placeholder
+	holding = none
+}
+###c_106
+385 = {	#placeholder
+	culture = thurn
+	religion = halvran_reformed
+	holding = castle_holding
+}
+386 = {	#placeholder
+	holding = city_holding
+}
+387 = {	#placeholder
+	holding = church_holding
+}
+###c_107
+392 = {	#placeholder
+	culture = thurn
+	religion = halvran_reformed
+	holding = castle_holding
+}
+390 = {	#placeholder
+	holding = none
+}
+388 = {	#placeholder
+	holding = none
+}
+###c_108
+391 = {	#placeholder
+	culture = entilian
+	religion = halvran_reformed
+	holding = castle_holding
+}
+389 = {	#placeholder
+	holding = city_holding
+}
+395 = {	#placeholder
+	holding = church_holding
+}
+###c_109
+393 = {	#placeholder
+	culture = entilian
+	religion = halvran_reformed
+	holding = castle_holding
+}
+394 = {	#placeholder
+	holding = city_holding
+}
+###c_110
+398 = {	#placeholder
+	culture = entilian
+	religion = halvran_reformed
+	holding = castle_holding
+}
+399 = {	#placeholder
+	holding = city_holding
+}
+397 = {	#placeholder
+	holding = church_holding
+}
+396 = {	#placeholder
+	holding = none
+}
+
+##d_duchy20 ###################################
+###c_111
+414 = {	#placeholder
+	culture = calven
+	religion = veyr_pagan
+	holding = city_holding
+}
+413 = {	#placeholder
+	holding = castle_holding
+}
+415 = {	#placeholder
+	holding = none
+}
+###c_112
+400 = {	#placeholder
+	culture = calven
+	religion = veyr_pagan
+	holding = city_holding
+}
+402 = {	#placeholder
+	holding = church_holding
+}
+401 = {	#placeholder
+	holding = none
+}
+###c_113
+403 = {	#placeholder
+	culture = calven
+	religion = veyr_pagan
+	holding = city_holding
+}
+405 = {	#placeholder
+	holding = castle_holding
+}
+404 = {	#placeholder
+	holding = none
+}
+###c_114
+418 = {	#placeholder
+	culture = calven
+	religion = veyr_pagan
+	holding = city_holding
+}
+416 = {	#placeholder
+	holding = none
+}
+417 = {	#placeholder
+	holding = church_holding
+}
+###c_115
+412 = {	#placeholder
+	culture = Braxan
+	religion = veyr_pagan
+	holding = city_holding
+}
+411 = {	#placeholder
+	holding = castle_holding
+}
+###c_116
+406 = {	#placeholder
+	culture = Braxan
+	religion = veyr_pagan
+	holding = city_holding
+}
+407 = {	#placeholder
+	holding = castle_holding
+}
+###c_117
+408 = {	#placeholder
+	culture = Braxan
+	religion = veyr_pagan
+	holding = city_holding
+}
+409 = {	#placeholder
+	holding = church_holding
+}
+410 = {	#placeholder
+	holding = none
+}
+
+##d_duchy21 ###################################
+###c_118
+423 = {	#placeholder
+	culture = stormward
+	religion = halvran_reformed
+	holding = castle_holding
+}
+422 = {	#placeholder
+	holding = city_holding
+}
+424 = {	#placeholder
+	holding = church_holding
+}
+424 = {	#placeholder
+	holding = none
+}
+###c_119
+419 = {	#placeholder
+	culture = stormward
+	religion = halvran_reformed
+	holding = castle_holding
+}
+421 = {	#placeholder
+	holding = city_holding
+}
+420 = {	#placeholder
+	holding = church_holding
+}
+###c_120
+427 = {	#placeholder
+	culture = targoth
+	religion = halvran_reformed
+	holding = castle_holding
+}
+426 = {	#placeholder
+	holding = none
+}
+425 = {	#placeholder
+	holding = church_holding
+}
+###c_121
+430 = {	#placeholder
+	culture = targoth
+	religion = halvran_reformed
+	holding = castle_holding
+}
+431 = {	#placeholder
+	holding = city_holding
+}
+429 = {	#placeholder
+	holding = none
+}
+428 = {	#placeholder
+	holding = none
+}
+###c_122
+434 = {	#placeholder
+	culture = targoth
+	religion = halvran_reformed
+	holding = castle_holding
+}
+433 = {	#placeholder
+	holding = city_holding
+}
+432 = {	#placeholder
+	holding = none
+}
+###c_123
+435 = {	#placeholder
+	culture = thurn
+	religion = halvran_reformed
+	holding = castle_holding
+}
+436 = {	#placeholder
+	holding = city_holding
+}
+437 = {	#placeholder
+	holding = church_holding
+}
+
+##d_duchy22 ###################################
+###c_124
+441 = {	#placeholder
+	culture = entilian
+	religion = halvran_reformed
+	holding = castle_holding
+}
+442 = {	#placeholder
+	holding = city_holding
+}
+444 = {	#placeholder
+	holding = church_holding
+}
+443 = {	#placeholder
+	holding = none
+}
+445 = {	#placeholder
+	holding = none
+}
+###c_125
+450 = {	#placeholder
+	culture = entilian
+	religion = halvran_reformed
+	holding = castle_holding
+}
+449 = {	#placeholder
+	holding = city_holding
+}
+451 = {	#placeholder
+	holding = none
+}
+###c_126
+455 = {	#placeholder
+	culture = thurn
+	religion = halvran_reformed
+	holding = castle_holding
+}
+456 = {	#placeholder
+	holding = city_holding
+}
+457 = {	#placeholder
+	holding = church_holding
+}
+###c_127
+454 = {	#placeholder
+	culture = thurn
+	religion = halvran_reformed
+	holding = castle_holding
+}
+453 = {	#placeholder
+	holding = none
+}
+452 = {	#placeholder
+	holding = church_holding
+}
+###c_128
+447 = {	#placeholder
+	culture = entilian
+	religion = halvran_reformed
+	holding = castle_holding
+}
+448 = {	#placeholder
+	holding = city_holding
+}
+446 = {	#placeholder
+	holding = church_holding
+}
+###c_129
+438 = {	#placeholder
+	culture = targoth
+	religion = halvran_reformed
+	holding = castle_holding
+}
+439 = {	#placeholder
+	holding = city_holding
+}
+440 = {	#placeholder
+	holding = none
+}
+
+##d_duchy28 ###################################
+###c_158
+597 = {	#placeholder
+	culture = stormward
+	religion = halvran_reformed
+	holding = herder_holding
+}
+598 = {	#placeholder
+	holding = none
+}
+596 = {	#placeholder
+	holding = none
+}
+###c_159
+600 = {	#placeholder
+	culture = stormward
+	religion = halvran_reformed
+	holding = herder_holding
+}
+599 = {	#placeholder
+	holding = none
+}
+601 = {	#placeholder
+	holding = none
+}

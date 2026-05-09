@@ -1,0 +1,9 @@
+﻿l_english:
+ 
+ ###Greveticanism
+ game_concept_path_of_emulation:0 "Path of Emulation"
+ game_concept_path_of_emulation_desc:0 "To mirror Grevetica’s divine acts of healing, [Concept('grevetican_defiance','defiance')|E], and mercy. To live as she did is to rise beyond one’s limits — to inch closer to ascension."
+ game_concept_grevetican_defiance:0 "Grevetican Defiance"
+ game_concept_grevetican_defiance_desc:0 "Greveticanism emerged from a cataclysmic event known as [the_great_parting|E], a time of upheaval that shattered the dominance of older faiths. At its heart stands Grevetica, a mortal prophet whose divine transcendence challenged and ultimately defied the rigid, hierarchical dogma of the old Halvranist order."
+ game_concept_grevetican_doctrine:0 "Grevetican Doctrine"
+ game_concept_grevetican_doctrine_desc:0 "Greveticans do not worship through fear or blind obedience. Instead, they follow the [path_of_emulation|E]: to mirror Grevetica’s divine acts of healing, resistance, and mercy. To live as she did is to rise beyond one’s limits — to inch closer to ascension."

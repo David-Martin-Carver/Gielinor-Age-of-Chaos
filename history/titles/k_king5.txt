@@ -1,0 +1,396 @@
+k_king5 = {
+	587.1.1 = { change_development_level = 16 }
+}
+
+d_duchy11 = {
+	587.1.1 = { change_development_level = 16 }
+	587.1.1 = { government = feudal_government }
+	540.1.1 = {
+		holder = FL_1
+	}
+	560.1.1 = {
+		holder = FL_3
+	}
+	581.1.1 = {
+		holder = FL_6
+	}
+	586.1.1 = {
+		holder = FL_8
+	}
+}
+
+c_65 = {
+	587.1.1 = { change_development_level = 16 }
+	587.1.1 = { government = feudal_government }
+	540.1.1 = {
+		holder = FL_1
+	}
+	560.1.1 = {
+		holder = FL_3
+	}
+	581.1.1 = {
+		holder = FL_6
+	}
+	586.1.1 = {
+		holder = FL_8
+	}
+}
+
+c_64 = {
+	587.1.1 = { change_development_level = 16 }
+	587.1.1 = { government = feudal_government }
+	540.1.1 = {
+		holder = FL_1
+	}
+	560.1.1 = {
+		holder = FL_3
+	}
+	581.1.1 = {
+		holder = FL_6
+	}
+	586.1.1 = {
+		holder = FL_8
+	}
+}
+
+c_60 = {
+	587.1.1 = { change_development_level = 16 }
+	587.1.1 = { government = feudal_government }
+	540.1.1 = {
+		holder = FL_1
+	}
+	560.1.1 = {
+		holder = FL_3
+	}
+	581.1.1 = {
+		holder = FL_6
+	}
+	586.1.1 = {
+		holder = FL_9
+	}
+}
+
+c_61 = {
+	587.1.1 = { change_development_level = 16 }
+	587.1.1 = { government = feudal_government }
+	540.1.1 = {
+		holder = FL_1
+	}
+	560.1.1 = {
+		holder = FL_3
+	}
+	581.1.1 = {
+		holder = FL_6
+	}
+	586.1.1 = {
+		holder = FL_9
+	}
+}
+
+d_duchy16 = {
+	587.1.1 = { change_development_level = 16 }
+	587.1.1 = { government = feudal_government }
+	540.1.1 = {
+		holder = FL_40
+	}
+	557.1.1 = {
+		holder = FL_42
+	}
+	579.1.1 = {
+		holder = FL_44
+	}
+	585.1.1 = {
+		holder = FL_45
+	}
+}
+
+c_85 = {
+	587.1.1 = { change_development_level = 16 }
+	587.1.1 = { government = feudal_government }
+	540.1.1 = {
+		holder = FL_40
+	}
+	557.1.1 = {
+		holder = FL_42
+	}
+	579.1.1 = {
+		holder = FL_44
+	}
+	585.1.1 = {
+		holder = FL_45
+	}
+}
+
+c_88 = {
+	587.1.1 = { change_development_level = 16 }
+	587.1.1 = { government = feudal_government }
+	540.1.1 = {
+		holder = FL_40
+	}
+	557.1.1 = {
+		holder = FL_42
+	}
+	579.1.1 = {
+		holder = FL_45
+	}
+}
+
+c_89 = {
+	587.1.1 = { change_development_level = 16 }
+	587.1.1 = { government = feudal_government }
+	540.1.1 = {
+		holder = FL_40
+	}
+	557.1.1 = {
+		holder = FL_42
+	}
+	579.1.1 = {
+		holder = FL_44
+	}
+	585.1.1 = {
+		holder = FL_45
+	}
+}
+
+c_91 = {
+	587.1.1 = { change_development_level = 16 }
+	587.1.1 = { government = feudal_government }
+	540.1.1 = {
+		holder = FL_40
+	}
+	557.1.1 = {
+		holder = FL_42
+	}
+	579.1.1 = {
+		holder = FL_44
+	}
+	585.1.1 = {
+		holder = FL_50
+	}
+}
+
+c_90 = {
+	587.1.1 = { change_development_level = 16 }
+	587.1.1 = { government = feudal_government }
+	540.1.1 = {
+		holder = FL_40
+	}
+	557.1.1 = {
+		holder = FL_42
+	}
+	579.1.1 = {
+		holder = FL_44
+	}
+	585.1.1 = {
+		holder = FL_50
+	}
+}
+
+c_87 = {
+	587.1.1 = { change_development_level = 16 }
+	587.1.1 = { government = feudal_government }
+	540.1.1 = {
+		holder = FL_40
+	}
+	557.1.1 = {
+		holder = FL_42
+	}
+	579.1.1 = {
+		holder = FL_44
+	}
+	585.1.1 = {
+		holder = FL_52
+	}
+}
+
+c_86 = {
+	587.1.1 = { change_development_level = 16 }
+	587.1.1 = { government = feudal_government }
+	540.1.1 = {
+		holder = FL_40
+	}
+	557.1.1 = {
+		holder = FL_42
+	}
+	579.1.1 = {
+		holder = FL_44
+	}
+	585.1.1 = {
+		holder = FL_52
+	}
+}
+
+d_duchy17 = {
+	587.1.1 = { change_development_level = 16 }
+	587.1.1 = { government = feudal_government }
+	540.1.1 = {
+		holder = FL_10
+	}
+	559.1.1 = {
+		holder = FL_12
+	}
+}
+
+c_95 = {
+	587.1.1 = { change_development_level = 16 }
+	587.1.1 = { government = feudal_government }
+	540.1.1 = {
+		holder = FL_10
+	}
+	559.1.1 = {
+		holder = FL_12
+	}
+	575.1.1 = {
+		holder = FL_15
+	}
+}
+
+c_94 = {
+	587.1.1 = { change_development_level = 16 }
+	587.1.1 = { government = feudal_government }
+	540.1.1 = {
+		holder = FL_10
+	}
+	559.1.1 = {
+		holder = FL_12
+	}
+	575.1.1 = {
+		holder = FL_15
+	}
+}
+
+c_93 = {
+	587.1.1 = { change_development_level = 16 }
+	587.1.1 = { government = feudal_government }
+	540.1.1 = {
+		holder = FL_10
+	}
+	559.1.1 = {
+		holder = FL_12
+	}
+	575.1.1 = {
+		holder = FL_15
+	}
+}
+
+c_96 = {
+	587.1.1 = { change_development_level = 16 }
+	587.1.1 = { government = feudal_government }
+	540.1.1 = {
+		holder = FL_10
+	}
+	559.1.1 = {
+		holder = FL_12
+	}
+	575.1.1 = {
+		holder = FL_16
+	}
+}
+
+c_92 = {
+	587.1.1 = { change_development_level = 16 }
+	587.1.1 = { government = feudal_government }
+	540.1.1 = {
+		holder = FL_10
+	}
+	559.1.1 = {
+		holder = FL_12
+	}
+	575.1.1 = {
+		holder = FL_16
+	}
+}
+
+c_97 = {
+	587.1.1 = { change_development_level = 16 }
+	587.1.1 = { government = feudal_government }
+	540.1.1 = {
+		holder = FL_26
+	}
+	553.1.1 = {
+		holder = FL_28
+	}
+	568.1.1 = {
+		holder = FL_31
+	}
+}
+
+c_100 = {
+	587.1.1 = { change_development_level = 16 }
+	587.1.1 = { government = feudal_government }
+	540.1.1 = {
+		holder = FL_26
+	}
+	553.1.1 = {
+		holder = FL_28
+	}
+	568.1.1 = {
+		holder = FL_31
+	}
+}
+
+c_102 = {
+	587.1.1 = { change_development_level = 16 }
+	587.1.1 = { government = feudal_government }
+	540.1.1 = {
+		holder = FL_26
+	}
+	553.1.1 = {
+		holder = FL_28
+	}
+	568.1.1 = {
+		holder = FL_31
+	}
+}
+
+c_101 = {
+	587.1.1 = { change_development_level = 16 }
+	587.1.1 = { government = feudal_government }
+	540.1.1 = {
+		holder = FL_26
+	}
+	553.1.1 = {
+		holder = FL_28
+	}
+	568.1.1 = {
+		holder = FL_32
+	}
+}
+
+c_103 = {
+	587.1.1 = { change_development_level = 16 }
+	587.1.1 = { government = feudal_government }
+	540.1.1 = {
+		holder = FL_26
+	}
+	553.1.1 = {
+		holder = FL_28
+	}
+	568.1.1 = {
+		holder = FL_32
+	}
+}
+
+d_briarhold_guard = {
+	587.1.1 = { change_development_level = 16 }
+	587.1.1 = { government = feudal_government }
+	578.1.1 = {
+		holder = FL_53
+	}
+}
+
+c_98 = {
+	587.1.1 = { change_development_level = 16 }
+	587.1.1 = { government = feudal_government }
+	578.1.1 = {
+		holder = FL_53
+	}
+}
+
+c_99 = {
+	587.1.1 = { change_development_level = 16 }
+	587.1.1 = { government = feudal_government }
+	578.1.1 = {
+		holder = FL_53
+	}
+}

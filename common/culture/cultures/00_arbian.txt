@@ -1,0 +1,89 @@
+﻿arbundian = {
+	color = { 0.1 0.1 0.7 }
+	
+	ethos = ethos_courtly
+	heritage = heritage_arbian
+	language = language_arbundian
+	martial_custom = martial_custom_male_only
+	head_determination = head_determination_domain
+	traditions = {
+		tradition_arbundian_warriors
+		tradition_chivalry
+		tradition_monastic_communities
+		tradition_wedding_ceremonies
+		tradition_zealous_people
+	}
+	
+	name_list = name_list_arbundian
+	
+	coa_gfx = { english_coa_gfx western_coa_gfx }
+	building_gfx = { western_building_gfx }
+	clothing_gfx = { french_clothing_gfx western_clothing_gfx }
+	unit_gfx = { western_unit_gfx }
+	house_coa_frame = house_frame_21
+	
+	ethnicities = {
+		100 = arbundian
+	}
+}
+
+entilian = {
+	color = { 0.1 0.2 0.4 }
+	created = 463.1.1
+	parents = { arbundian }
+	
+	ethos = ethos_stoic
+	heritage = heritage_arbian
+	language = language_arbundian
+	martial_custom = martial_custom_male_only
+	head_determination = head_determination_domain
+	traditions = {
+		tradition_staunch_traditionalists
+		tradition_battlefield_looters
+		tradition_hit_and_run
+		tradition_monastic_communities
+	}
+	
+	name_list = name_list_arbundian
+	
+	coa_gfx = { english_coa_gfx western_coa_gfx }
+	building_gfx = { mediterranean_building_gfx }
+	clothing_gfx = { byzantine_clothing_gfx western_clothing_gfx }
+	unit_gfx = { western_unit_gfx }
+	house_coa_frame = house_frame_21
+	
+	ethnicities = {
+		100 = arbundian
+	}
+}
+
+cevarin = {
+	color = { 0.15 0.25 0.35 }
+	created = 512.1.1
+	parents = { arbundian }
+	
+	ethos = ethos_bureaucratic
+	heritage = heritage_arbian
+	language = language_arbundian
+	martial_custom = martial_custom_male_only
+	head_determination = head_determination_domain
+	traditions = {
+		tradition_hill_dwellers
+		tradition_hit_and_run
+		tradition_agrarian
+		tradition_parochialism
+	}
+	
+	name_list = name_list_arbundian
+	
+	coa_gfx = { english_coa_gfx western_coa_gfx }
+	building_gfx = { mediterranean_building_gfx }
+	clothing_gfx = { byzantine_clothing_gfx western_clothing_gfx }
+	unit_gfx = { western_unit_gfx }
+	house_coa_frame = house_frame_21
+	
+	ethnicities = {
+		100 = arbundian
+	}
+}
+

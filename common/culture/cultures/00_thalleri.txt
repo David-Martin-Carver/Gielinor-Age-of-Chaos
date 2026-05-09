@@ -1,0 +1,53 @@
+﻿thalleran = {
+	color = { 0.5 0.5 0.5 }
+	
+	ethos = ethos_bellicose
+	heritage = heritage_thalleri
+	language = language_thalleran
+	martial_custom = martial_custom_male_only
+	traditions = {
+		tradition_quarrelsome
+		tradition_highland_warriors
+		tradition_ancient_miners
+		tradition_hill_dwellers
+		tradition_isolationist
+	}
+	
+	name_list = name_list_thalleran
+	
+	coa_gfx = { english_coa_gfx western_coa_gfx }
+	building_gfx = { western_building_gfx }
+	clothing_gfx = { iberian_christian_clothing_gfx western_clothing_gfx }
+	unit_gfx = { western_unit_gfx }
+	
+	ethnicities = {
+		100 = thrisbanner
+	}
+}
+
+florisan = {
+	color = { 0.7 0.5 0.45 }
+	
+	ethos = ethos_courtly
+	heritage = heritage_thalleri
+	language = language_thalleran
+	martial_custom = martial_custom_male_only
+	traditions = {
+		tradition_chivalry
+		tradition_wedding_ceremonies
+		tradition_festivities
+		tradition_ancient_miners
+		tradition_mountaineer_ruralism
+	}
+	
+	name_list = name_list_thalleran
+	
+	coa_gfx = { english_coa_gfx western_coa_gfx }
+	building_gfx = { western_building_gfx }
+	clothing_gfx = { iberian_christian_clothing_gfx western_clothing_gfx }
+	unit_gfx = { western_unit_gfx }
+	
+	ethnicities = {
+		100 = thrisbanner
+	}
+}

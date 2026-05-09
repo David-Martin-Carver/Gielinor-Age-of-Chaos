@@ -1,0 +1,119 @@
+﻿l_english:
+
+
+colocist_religion:0 "Luminarianism"
+colocism_religion:0 "Luminarianism"
+colocist_religion_adj:0 "Luminarianist"
+colocism_religion_adj:0 "Luminarianist"
+colocist_religion_adherent:0 "Luminarian"
+colocist_religion_adherent_plural:0 "Luminarians"
+colocism_religion_desc:0 "A millenary faith rooted in the sacred scriptures of the prophets, Luminarianism upholds strict interpretation and adherence to divine law. Luminarians believe that true enlightenment is found through disciplined study and unwavering devotion to the celestial order dictated by The Luminary."
+
+colocist:0 "Luminarianism"
+colocist_adj:0 "Luminarian"
+colocist_adherent:0 "Luminarian"
+colocist_adherent_plural:0 "Luminarians"
+#colocism_religion_desc:0 "A millenary faith rooted in the sacred scriptures of the prophets, Luminarianism upholds strict interpretation and adherence to divine law. Luminarians believe that true enlightenment is found through disciplined study and unwavering devotion to the celestial order dictated by The Luminary."
+
+#colocist_religion:0 "Luminarianism"
+#colocist_religion_adj:0 "Luminarian"
+#colocist_religion_adherent:0 "Luminarian"
+#colocist_religion_adherent_plural:0 "Luminarians"
+luminarianism_religion_desc:0 "A faith built upon the divine scriptures of old, Luminarianism is dedicated to the preservation of celestial law and the wisdom of the prophets. Luminarians seek enlightenment through rigorous scholarship and devotion, believing their path to be the only true way to salvation."
+colocist_high_god_name:0 "The Luminary"
+colocist_high_god_name_2:0 "$colocist_high_god_name$" # Optional translation alt
+colocist_high_god_name_3:0 "$colocist_high_god_name$" # Optional translation alt
+colocist_high_god_name_possessive:0 "The Luminary's"
+colocist_high_god_name_alternate:0 "The All-Seeing Eye"
+colocist_high_god_name_alternate_possessive:0 "The All-Seeing Eye's"
+colocist_good_god_jesus:0 "$colocist_health_god_name$"
+colocist_good_god_christ:0 "The Luminary"
+colocist_devil_name:0 "The Shadowed One"
+colocist_devil_name_possessive:0 "The Shadowed One's"
+colocist_evil_god_lucifer:0 "The Shadowed One"
+colocist_evil_god_beelzebub:0 "The Shadowed One"
+colocist_evil_god_mephistopheles:0 "The Shadowed One"
+colocist_death_deity_name:0 "The Silent Guide"
+colocist_death_deity_name_possessive:0 "The Silent Guide's"
+colocist_house_of_worship:0 "Sanctuary"
+colocist_house_of_worship_2:0 "$colocist_house_of_worship$" # Optional translation alt
+colocist_house_of_worship_3:0 "$colocist_house_of_worship$" # Optional translation alt
+colocist_house_of_worship_plural:0 "Sanctuaries"
+colocist_religious_symbol:0 "Open Eye"
+colocist_religious_symbol_2:0 "$colocist_religious_symbol$" # Optional translation alt
+colocist_religious_symbol_3:0 "$colocist_religious_symbol$" # Optional translation alt
+colocist_religious_text:0 "The Scrolls of Revelation"
+colocist_religious_text_2:0 "$colocist_religious_text$" # Optional translation alt
+colocist_religious_text_3:0 "$colocist_religious_text$" # Optional translation alt
+colocist_religious_head_title:0 "Kyros"
+colocist_religious_head_title_name:0 "Kyrosery"
+colocist_devotee:0 "Scholar"
+colocist_devotee_plural:0 "Scholars"
+colocist_devotee_female:0 "Seeress"
+colocist_devotee_female_plural:0 "Seeresses"
+colocist_devotee_neuter:0 "Scholastic"
+colocist_devotee_neuter_plural:0 "Scholastics"
+colocist_priest_male:0 "Illuminator"
+colocist_priest_female:0 "Illuminatrix"
+colocist_priest:0 "Illuminator"
+colocist_priest_plural:0 "Illuminators"
+colocist_priest_male_plural:0 "Illuminators"
+colocist_priest_alternate_plural:0 "Illuminated Order"
+colocist_bishop:0 "Illuminator"
+colocist_bishop_plural:0 "Illuminators"
+colocist_bishop_female:0 "Illuminatrix"
+colocist_bishop_female_plural:0 "Illuminatrixes"
+colocist_positive_afterlife:0 "the Celestial Order"
+colocist_positive_afterlife_2:1 "enlightenment" # Optional translation alt
+colocist_positive_afterlife_3:1 "$colocist_high_god_name_possessive$ Presence" # Optional translation alt
+colocist_negative_afterlife:0 "the Outer Darkness"
+colocist_negative_afterlife_2:1 "the Abyss" # Optional translation alt
+colocist_negative_afterlife_3:1 "the Void" # Optional translation alt
+colocist_witchgodname_the_horned_god:0 "the Faceless One"
+colocist_witchgodname_the_horned_god_possessive:0 "the Faceless One's"
+
+colocist_creator_god_name:0 "The Architect"
+colocist_creator_god_name_possessive:0 "$colocist_high_god_name_possessive$"
+colocist_health_god_name:0 "The Healer"
+colocist_health_god_name_possessive:0 "The Healer's"
+colocist_fertility_god_name:0 "The Sustainer"
+colocist_fertility_god_name_possessive:0 "The Sustainer's"
+colocist_wealth_god_name:0 "The Giver"
+colocist_wealth_god_name_possessive:0 "The Giver's"
+colocist_household_god_name:0 "The Hearthkeeper"
+colocist_household_god_name_possessive:0 "The Hearthkeeper's"
+colocist_fate_god_name:0 "The Weaver"
+colocist_fate_god_name_possessive:0 "The Weaver's"
+colocist_knowledge_god_name:0 "The Truthseeker"
+colocist_knowledge_god_name_possessive:0 "The Truthseeker's"
+colocist_war_god_name:0 "The Guardian"
+colocist_war_god_name_possessive:0 "The Guardian's"
+colocist_trickster_god_name:0 "The Shifting Image"
+colocist_trickster_god_name_possessive:0 "The Shifting Image's"
+colocist_night_god_name:0 "The Watcher"
+colocist_night_god_name_possessive:0 "The Watcher's"
+colocist_water_god_name:0 "The Cleanser"
+colocist_water_god_name_possessive:0 "The Cleanser's"
+
+luminarianism_religion_adj:0 "Luminarianist"
+ rf_southern:0 "Southern"
+
+holy_order_knights_of_the_scroll:0 "Knights of the Scroll"
+holy_order_seekers_of_the_eye:0 "Seekers of the All-Seeing Eye"
+holy_order_guardians_of_the_word:0 "Guardians of the Word"
+holy_order_order_of_lumination:0 "Order of Lumination"
+
+ holy_site_peace_march_name:0 "The Old Archive"
+ holy_site_eastpeak_name:0 "The Shining Peak"
+ holy_site_widebend_name:0 "The Oracle's Grotto"
+ holy_site_overland_name:0 "Saint Cicixia's Grave" 
+ holy_site_deepwood_name:0 "Deepwood Monastery"
+
+
+
+
+protestantism:0 "Insular Luminarianism"
+protestantism_adj:0 "Insularist"
+protestantism_adherent:0 "Insularist"
+protestantism_adherent_plural:0 "Insularists"
+protestantism_desc:0 "A collection of diverse faiths stemming from Luminarianism, these sects reject the centralized authority of the High Seer. Instead, each realm interprets the Scrolls of Revelation according to local customs and needs, resulting in a wide array of beliefs and practices. While they share a common origin, these sects often differ in their doctrines and rituals, while still respecting each other's creed and independence, reflecting the unique cultural landscapes they inhabit."

@@ -1,0 +1,253 @@
+﻿name_list_ferran = {
+
+	cadet_dynasty_names = {
+		"dynn_Peras"
+		"dynn_Vistris"
+		"dynn_Melas"
+		"dynn_Lorel"
+		"dynn_Werring"
+		"dynn_Folver"
+		"dynn_Gand"
+		"dynn_Gotsfrie"
+		"dynn_Gotbund"
+		"dynn_Astrund"
+		"dynn_Castford"
+		"dynn_Boundrend"
+		"dynn_Fostercast"
+		"dynn_Juscalt"
+		"dynn_Matrond"
+		"dynn_Francost"
+		"dynn_Malbunt"
+		"dynn_Castrond"
+		"dynn_Baelwold"
+		"dynn_Justrund"
+		"dynn_Postrant"
+		"dynn_Carwent"
+		"dynn_Wentrond"
+		"dynn_Precedent"
+		"dynn_Garbatred"
+		"dynn_Saelwont"
+		"dynn_Lancred"
+		"dynn_Mawling"
+		"dynn_Maelwoldt"
+		"dynn_Faelgrund"
+		"dynn_Arclost"
+		"dynn_Jerustolt"
+		"dynn_Plaetrunt"
+		"dynn_Jaskrent"
+		"dynn_Aileworte"
+		"dynn_Artrunt"
+		"dynn_Haelwund"
+		"dynn_Ashfort"
+		"dynn_Verring"
+		"dynn_Garroling"
+	}
+
+	dynasty_names = {
+		"dynn_Peras"
+		"dynn_Vistris"
+		"dynn_Melas"
+		"dynn_Lorel"
+		"dynn_Werring"
+		"dynn_Folver"
+		"dynn_Gand"
+		"dynn_Gotsfrie"
+		"dynn_Gotbund"
+		"dynn_Astrund"
+		"dynn_Castford"
+		"dynn_Boundrend"
+		"dynn_Fostercast"
+		"dynn_Juscalt"
+		"dynn_Matrond"
+		"dynn_Francost"
+		"dynn_Malbunt"
+		"dynn_Castrond"
+		"dynn_Baelwold"
+		"dynn_Justrund"
+		"dynn_Postrant"
+		"dynn_Carwent"
+		"dynn_Wentrond"
+		"dynn_Precedent"
+		"dynn_Garbatred"
+		"dynn_Saelwont"
+		"dynn_Lancred"
+		"dynn_Mawling"
+		"dynn_Maelwoldt"
+		"dynn_Faelgrund"
+		"dynn_Arclost"
+		"dynn_Jerustolt"
+		"dynn_Plaetrunt"
+		"dynn_Jaskrent"
+		"dynn_Aileworte"
+		"dynn_Artrunt"
+		"dynn_Haelwund"
+		"dynn_Ashfort"
+		"dynn_Verring"
+		"dynn_Garroling"
+	}
+	
+	# Does not exist in 1066 - is the result of cultural amalgamation between Saxon and Norman through events
+	male_names = {
+		Álvarian Beltranio Casimiroth Donaciano Elizondo Fadrián Gonzalvar Hernandoch Íñerico Jofrelian Lainario Mendozario
+		Nuñoal Orlandis Pelayric Queremón Rodrigoch Sanchael Teodomiro Urricán Vascario Ximandros Zeberión Ramfrío Olibérn
+		Tirsando Estévon Guilmaro Leovigand Manriquel Fernanvol Baldomerc Rubeldán Ambrósian Jaenric Celadón Anfósar Alvarcés
+		Genovancio Froilencio Tarcisián Hermenego Laudinés Milencario Eudovico Usandrín Veremundo Pasmundo Serapión Leonciano
+		Gilardón Matruvio Alberdiano Rufiandres Lopeandro Damiandro Sancherio Velascar Remígius Estuárdico
+	}
+	female_names = {
+		Aldoncia Beatrizian Catalinae Domingara Estefara Feliciana Gracielis Hernandia Inézara Jimenara Laisenda Marquilda
+		Navarría Otilvina Peronisa Quintilana Rozabel Segoviana Terebela Urraciel Velasquina Ximeniana Zafrada Roldanessa
+		Almudiena Tenefria Seraphina Anfrosia Ambrosina Galeana Villareña Miragracia Sanxilda Elisendria Dorotea Abrosinda
+		Tirsenda Eufrasiana Briandria Milagreda Eugenisia Valeriana Hermosanda Pelagia Ursarina Genovilda Bernarda Alfonsina
+		Rosamira Quiteria Belisenda Pascasia Violanza Consuelda Jeróncila Lusmila Rufiandra Celadina Toribiana Estuárida
+	}
+	dynasty_of_location_prefix = "dynnp_of"
+	bastard_dynasty_prefix = "dynnp_Ipt"
+
+	patronym_suffix_male = "dynnpat_suf_wyn"
+	patronym_suffix_female = "dynnpat_suf_swyn"
+	
+	# Chance of male children being named after their paternal or maternal grandfather, or their father. Sum must not exceed 100.
+	pat_grf_name_chance = 30
+	mat_grf_name_chance = 10
+	father_name_chance = 25
+	
+	# Chance of female children being named after their paternal or maternal grandmother, or their mother. Sum must not exceed 100.
+	pat_grm_name_chance = 20
+	mat_grm_name_chance = 40
+	mother_name_chance = 5
+	
+	
+
+	mercenary_names = {
+		{ name = "mercenary_company_white_company" coat_of_arms = "mc_white_company" }
+		{ name = "mercenary_company_hawkwoods_band" }
+	}
+}
+
+name_list_lyrathian = {
+
+	cadet_dynasty_names = {
+		"dynn_Peras"
+		"dynn_Vistris"
+		"dynn_Melas"
+		"dynn_Lorel"
+		"dynn_Werring"
+		"dynn_Folver"
+		"dynn_Gand"
+		"dynn_Gotsfrie"
+		"dynn_Gotbund"
+		"dynn_Astrund"
+		"dynn_Castford"
+		"dynn_Boundrend"
+		"dynn_Fostercast"
+		"dynn_Juscalt"
+		"dynn_Matrond"
+		"dynn_Francost"
+		"dynn_Malbunt"
+		"dynn_Castrond"
+		"dynn_Baelwold"
+		"dynn_Justrund"
+		"dynn_Postrant"
+		"dynn_Carwent"
+		"dynn_Wentrond"
+		"dynn_Precedent"
+		"dynn_Garbatred"
+		"dynn_Saelwont"
+		"dynn_Lancred"
+		"dynn_Mawling"
+		"dynn_Maelwoldt"
+		"dynn_Faelgrund"
+		"dynn_Arclost"
+		"dynn_Jerustolt"
+		"dynn_Plaetrunt"
+		"dynn_Jaskrent"
+		"dynn_Aileworte"
+		"dynn_Artrunt"
+		"dynn_Haelwund"
+		"dynn_Ashfort"
+		"dynn_Verring"
+		"dynn_Garroling"
+	}
+
+	dynasty_names = {
+		"dynn_Peras"
+		"dynn_Vistris"
+		"dynn_Melas"
+		"dynn_Lorel"
+		"dynn_Werring"
+		"dynn_Folver"
+		"dynn_Gand"
+		"dynn_Gotsfrie"
+		"dynn_Gotbund"
+		"dynn_Astrund"
+		"dynn_Castford"
+		"dynn_Boundrend"
+		"dynn_Fostercast"
+		"dynn_Juscalt"
+		"dynn_Matrond"
+		"dynn_Francost"
+		"dynn_Malbunt"
+		"dynn_Castrond"
+		"dynn_Baelwold"
+		"dynn_Justrund"
+		"dynn_Postrant"
+		"dynn_Carwent"
+		"dynn_Wentrond"
+		"dynn_Precedent"
+		"dynn_Garbatred"
+		"dynn_Saelwont"
+		"dynn_Lancred"
+		"dynn_Mawling"
+		"dynn_Maelwoldt"
+		"dynn_Faelgrund"
+		"dynn_Arclost"
+		"dynn_Jerustolt"
+		"dynn_Plaetrunt"
+		"dynn_Jaskrent"
+		"dynn_Aileworte"
+		"dynn_Artrunt"
+		"dynn_Haelwund"
+		"dynn_Ashfort"
+		"dynn_Verring"
+		"dynn_Garroling"
+	}
+	
+	# Does not exist in 1066 - is the result of cultural amalgamation between Saxon and Norman through events
+	male_names = {
+		Álvarian Beltranio Casimiroth Donaciano Elizondo Fadrián Gonzalvar Hernandoch Íñerico Jofrelian Lainario Mendozario
+		Nuñoal Orlandis Pelayric Queremón Rodrigoch Sanchael Teodomiro Urricán Vascario Ximandros Zeberión Ramfrío Olibérn
+		Tirsando Estévon Guilmaro Leovigand Manriquel Fernanvol Baldomerc Rubeldán Ambrósian Jaenric Celadón Anfósar Alvarcés
+		Genovancio Froilencio Tarcisián Hermenego Laudinés Milencario Eudovico Usandrín Veremundo Pasmundo Serapión Leonciano
+		Gilardón Matruvio Alberdiano Rufiandres Lopeandro Damiandro Sancherio Velascar Remígius Estuárdico
+	}
+	female_names = {
+		Aldoncia Beatrizian Catalinae Domingara Estefara Feliciana Gracielis Hernandia Inézara Jimenara Laisenda Marquilda
+		Navarría Otilvina Peronisa Quintilana Rozabel Segoviana Terebela Urraciel Velasquina Ximeniana Zafrada Roldanessa
+		Almudiena Tenefria Seraphina Anfrosia Ambrosina Galeana Villareña Miragracia Sanxilda Elisendria Dorotea Abrosinda
+		Tirsenda Eufrasiana Briandria Milagreda Eugenisia Valeriana Hermosanda Pelagia Ursarina Genovilda Bernarda Alfonsina
+		Rosamira Quiteria Belisenda Pascasia Violanza Consuelda Jeróncila Lusmila Rufiandra Celadina Toribiana Estuárida
+	}
+	dynasty_of_location_prefix = "dynnp_of"
+	bastard_dynasty_prefix = "dynnp_Ipt"
+
+	patronym_suffix_male = "dynnpat_suf_wyn"
+	patronym_suffix_female = "dynnpat_suf_swyn"
+	
+	# Chance of male children being named after their paternal or maternal grandfather, or their father. Sum must not exceed 100.
+	pat_grf_name_chance = 30
+	mat_grf_name_chance = 10
+	father_name_chance = 25
+	
+	# Chance of female children being named after their paternal or maternal grandmother, or their mother. Sum must not exceed 100.
+	pat_grm_name_chance = 20
+	mat_grm_name_chance = 40
+	mother_name_chance = 5
+	
+	
+
+	mercenary_names = {
+		{ name = "mercenary_company_white_company" coat_of_arms = "mc_white_company" }
+		{ name = "mercenary_company_hawkwoods_band" }
+	}
+}

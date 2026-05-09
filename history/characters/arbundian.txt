@@ -1,0 +1,6423 @@
+﻿ARB_1 = {
+	name = "Grevetica"
+	female = yes
+	dynasty = verris
+	religion = "grevetican"
+	culture = arbundian
+	1.1.1 = {
+		birth = yes
+	}
+	80.1.1 = {
+		death = yes
+	}
+}
+ARB_2 = {
+	name = "Thrisana"
+	female = yes
+	dynasty = verris
+	religion = "grevetican"
+	culture = arbundian
+	mother = ARB_1
+	23.1.1 = {
+		birth = yes
+	}
+	47.1.1 = {
+		add_spouse = ARB_3
+	}
+	74.1.1 = {
+		death = yes
+	}
+}
+ARB_3 = {
+	name = "Mardoct"
+	dynasty = thrisby
+	religion = "grevetican"
+	culture = arbundian
+	20.1.1 = {
+		birth = yes
+	}
+	47.1.1 = {
+		add_spouse = ARB_2
+	}
+	83.1.1 = {
+		death = yes
+	}
+}
+ARB_4 = {
+	name = "Errola"
+	female = yes
+	dynasty = verris
+	religion = "grevetican"
+	culture = arbundian
+	mother = ARB_1
+	25.1.1 = {
+		birth = yes
+	}
+	43.1.1 = {
+		add_spouse = ARB_5
+	}
+	89.1.1 = {
+		death = yes
+	}
+}
+ARB_5 = {
+	name = "Ablund"
+	dynasty = erroling
+	religion = "grevetican"
+	culture = arbundian
+	24.1.1 = {
+		birth = yes
+	}
+	43.1.1 = {
+		add_spouse = ARB_4
+	}
+	82.1.1 = {
+		death = yes
+	}
+}
+ARB_6 = {
+	name = "Soubaia"
+	female = yes
+	dynasty = verris
+	religion = "grevetican"
+	culture = arbundian
+	mother = ARB_1
+	26.1.1 = {
+		birth = yes
+	}
+	46.1.1 = {
+		add_spouse = ARB_9
+	}
+	89.1.1 = {
+		death = yes
+	}
+}
+ARB_7 = {
+	name = "Penlora"
+	female = yes
+	dynasty = verris
+	religion = "grevetican"
+	culture = arbundian
+	mother = ARB_1
+	27.1.1 = {
+		birth = yes
+	}
+	45.1.1 = {
+		add_spouse = ARB_8
+	}
+	96.1.1 = {
+		death = yes
+	}
+}
+ARB_8 = {
+	name = "Terilt"
+	dynasty = penloran
+	religion = "grevetican"
+	culture = arbundian
+	25.1.1 = {
+		birth = yes
+	}
+	45.1.1 = {
+		add_spouse = ARB_7
+	}
+	101.1.1 = {
+		death = yes
+	}
+}
+ARB_9 = {
+	name = "Jeure"
+	dynasty = souby
+	religion = "grevetican"
+	culture = arbundian
+	25.1.1 = {
+		birth = yes
+	}
+	46.1.1 = {
+		add_spouse = ARB_6
+	}
+	93.1.1 = {
+		death = yes
+	}
+}
+ARB_10 = {
+	name = "Eclara"
+	female = yes
+	dynasty = verris
+	religion = "grevetican"
+	culture = arbundian
+	mother = ARB_1
+	28.1.1 = {
+		birth = yes
+	}
+	47.1.1 = {
+		add_spouse = ARB_11
+	}
+	95.1.1 = {
+		death = yes
+	}
+}
+ARB_11 = {
+	name = "Teruth"
+	dynasty = eclair
+	religion = "grevetican"
+	culture = arbundian
+	24.1.1 = {
+		birth = yes
+	}
+	47.1.1 = {
+		add_spouse = ARB_10
+	}
+	91.1.1 = {
+		death = yes
+	}
+}
+ARB_12 = {
+	name = "Abena"
+	female = yes
+	dynasty = verris
+	religion = "grevetican"
+	culture = arbundian
+	mother = ARB_1
+	30.1.1 = {
+		birth = yes
+	}
+	49.1.1 = {
+		add_spouse = ARB_13
+	}
+	102.1.1 = {
+		death = yes
+	}
+}
+ARB_13 = {
+	name = "Oethund"
+	dynasty = abens
+	religion = "grevetican"
+	culture = arbundian
+	27.1.1 = {
+		birth = yes
+	}
+	49.1.1 = {
+		add_spouse = ARB_12
+	}
+	98.1.1 = {
+		death = yes
+	}
+}
+ARB_14 = {
+	name = "Erevairain"
+	female = yes
+	dynasty = verris
+	religion = "grevetican"
+	culture = arbundian
+	mother = ARB_1
+	33.1.1 = {
+		birth = yes
+	}
+	52.1.1 = {
+		add_spouse = ARB_15
+	}
+	91.1.1 = {
+		death = yes
+	}
+}
+ARB_15 = {
+	name = "Carde"
+	dynasty = erevaire
+	religion = "grevetican"
+	culture = arbundian
+	29.1.1 = {
+		birth = yes
+	}
+	52.1.1 = {
+		add_spouse = ARB_14
+	}
+	89.1.1 = {
+		death = yes
+	}
+}
+ARB_16 = {
+	name = "Eurys"
+	female = yes
+	dynasty = verris
+	religion = "grevetican"
+	culture = arbundian
+	mother = ARB_1
+	34.1.1 = {
+		birth = yes
+	}
+	53.1.1 = {
+		add_spouse = ARB_17
+	}
+	98.1.1 = {
+		death = yes
+	}
+}
+ARB_17 = {
+	name = "Artred"
+	dynasty = euryde
+	religion = "grevetican"
+	culture = arbundian
+	34.1.1 = {
+		birth = yes
+	}
+	53.1.1 = {
+		add_spouse = ARB_16
+	}
+	99.1.1 = {
+		death = yes
+	}
+}
+ARB_18 = {
+	name = "Lorel"
+	female = yes
+	dynasty = verris
+	religion = "grevetican"
+	culture = arbundian
+	mother = ARB_1
+	35.1.1 = {
+		birth = yes
+	}
+	54.1.1 = {
+		add_spouse = ARB_19
+	}
+	96.1.1 = {
+		death = yes
+	}
+}
+ARB_19 = {
+	name = "Linect"
+	dynasty = lorel
+	religion = "grevetican"
+	culture = arbundian
+	33.1.1 = {
+		birth = yes
+	}
+	54.1.1 = {
+		add_spouse = ARB_18
+	}
+	100.1.1 = {
+		death = yes
+	}
+}
+ARB_20 = {
+	name = "Wildera"
+	female = yes
+	dynasty = verris
+	religion = "grevetican"
+	culture = arbundian
+	mother = ARB_1
+	37.1.1 = {
+		birth = yes
+	}
+	56.1.1 = {
+		add_spouse = ARB_21
+	}
+	105.1.1 = {
+		death = yes
+	}
+}
+ARB_21 = {
+	name = "Brandol"
+	dynasty = wilde
+	religion = "grevetican"
+	culture = arbundian
+	37.1.1 = {
+		birth = yes
+	}
+	56.1.1 = {
+		add_spouse = ARB_20
+	}
+	104.1.1 = {
+		death = yes
+	}
+}
+ARB_22 = {
+	name = "Loxtra"
+	female = yes
+	dynasty = verris
+	religion = "grevetican"
+	culture = arbundian
+	mother = ARB_1
+	38.1.1 = {
+		birth = yes
+	}
+	57.1.1 = {
+		add_spouse = ARB_23
+	}
+	104.1.1 = {
+		death = yes
+	}
+}
+ARB_23 = {
+	name = "Anderan"
+	dynasty = loxtris
+	religion = "grevetican"
+	culture = arbundian
+	38.1.1 = {
+		birth = yes
+	}
+	57.1.1 = {
+		add_spouse = ARB_22
+	}
+	102.1.1 = {
+		death = yes
+	}
+}
+ARB_24 = {
+	name = "Heurwala"
+	female = yes
+	dynasty = verris
+	religion = "grevetican"
+	culture = arbundian
+	mother = ARB_1
+	40.1.1 = {
+		birth = yes
+	}
+	58.1.1 = {
+		add_spouse = ARB_25
+	}
+	108.1.1 = {
+		death = yes
+	}
+}
+ARB_25 = {
+	name = "Heuert"
+	dynasty = heurwald
+	religion = "grevetican"
+	culture = arbundian
+	34.1.1 = {
+		birth = yes
+	}
+	58.1.1 = {
+		add_spouse = ARB_24
+	}
+	101.1.1 = {
+		death = yes
+	}
+}
+ARB_26 = {
+	name = "Heuert"
+	dynasty = heurwald
+	religion = "grevetican"
+	culture = arbundian
+	father = ARB_25
+	mother = ARB_24
+	59.1.1 = {
+		birth = yes
+	}
+	121.1.1 = {
+		death = yes
+	}
+}
+ARB_27 = {
+	name = "Terilt"
+	dynasty = loxtris
+	religion = "grevetican"
+	culture = arbundian
+	father = ARB_23
+	mother = ARB_22
+	58.1.1 = {
+		birth = yes
+	}
+	123.1.1 = {
+		death = yes
+	}
+}
+ARB_28 = {
+	name = "Mardoct"
+	dynasty = thrisby
+	religion = "grevetican"
+	culture = arbundian
+	father = ARB_3
+	mother = ARB_2
+	48.1.1 = {
+		birth = yes
+	}
+	117.1.1 = {
+		death = yes
+	}
+}
+ARB_29 = {
+	name = "Teruth"
+	dynasty = erroling
+	religion = "grevetican"
+	culture = arbundian
+	father = ARB_5
+	mother = ARB_4
+	44.1.1 = {
+		birth = yes
+	}
+	115.1.1 = {
+		death = yes
+	}
+}
+ARB_30 = {
+	name = "Jeure"
+	dynasty = souby
+	religion = "grevetican"
+	culture = arbundian
+	father = ARB_9
+	mother = ARB_6
+	47.1.1 = {
+		birth = yes
+	}
+	120.1.1 = {
+		death = yes
+	}
+}
+ARB_31 = {
+	name = "Lurure"
+	dynasty = penloran
+	religion = "grevetican"
+	culture = arbundian
+	father = ARB_8
+	mother = ARB_7
+	46.1.1 = {
+		birth = yes
+	}
+	120.1.1 = {
+		death = yes
+	}
+}
+ARB_32 = {
+	name = "Ablund"
+	dynasty = eclair
+	religion = "grevetican"
+	culture = arbundian
+	father = ARB_11
+	mother = ARB_10
+	48.1.1 = {
+		birth = yes
+	}
+	116.1.1 = {
+		death = yes
+	}
+}
+ARB_33 = {
+	name = "Ourun"
+	dynasty = abens
+	religion = "grevetican"
+	culture = arbundian
+	father = ARB_13
+	mother = ARB_12
+	50.1.1 = {
+		birth = yes
+	}
+	118.1.1 = {
+		death = yes
+	}
+}
+ARB_34 = {
+	name = "Eerund"
+	dynasty = erevaire
+	religion = "grevetican"
+	culture = arbundian
+	father = ARB_15
+	mother = ARB_14
+	53.1.1 = {
+		birth = yes
+	}
+	119.1.1 = {
+		death = yes
+	}
+}
+ARB_35 = {
+	name = "Herolt"
+	dynasty = euryde
+	religion = "grevetican"
+	culture = arbundian
+	father = ARB_17
+	mother = ARB_16
+	54.1.1 = {
+		birth = yes
+	}
+	118.1.1 = {
+		death = yes
+	}
+}
+ARB_36 = {
+	name = "Lincet"
+	dynasty = lorel
+	religion = "grevetican"
+	culture = arbundian
+	father = ARB_19
+	mother = ARB_18
+	55.1.1 = {
+		birth = yes
+	}
+	117.1.1 = {
+		death = yes
+	}
+}
+ARB_37 = {
+	name = "Arblac"
+	dynasty = wilde
+	religion = "grevetican"
+	culture = arbundian
+	father = ARB_21
+	mother = ARB_20
+	57.1.1 = {
+		birth = yes
+	}
+	120.1.1 = {
+		death = yes
+	}
+}
+ARB_38 = {
+	name = "Mardoct"
+	dynasty = heurwald
+	religion = "grevetican"
+	culture = arbundian
+	father = ARB_26
+	77.1.1 = {
+		birth = yes
+	}
+	142.1.1 = {
+		death = yes
+	}
+}
+ARB_39 = {
+	name = "Anderan"
+	dynasty = loxtris
+	religion = "grevetican"
+	culture = arbundian
+	father = ARB_27
+	77.1.1 = {
+		birth = yes
+	}
+	135.1.1 = {
+		death = yes
+	}
+}
+ARB_40 = {
+	name = "Brandol"
+	dynasty = wilde
+	religion = "grevetican"
+	culture = arbundian
+	father = ARB_37
+	76.1.1 = {
+		birth = yes
+	}
+	138.1.1 = {
+		death = yes
+	}
+}
+ARB_41 = {
+	name = "Hanoll"
+	dynasty = lorel
+	religion = "grevetican"
+	culture = arbundian
+	father = ARB_36
+	75.1.1 = {
+		birth = yes
+	}
+	129.1.1 = {
+		death = yes
+	}
+}
+ARB_42 = {
+	name = "Herolt"
+	dynasty = euryde
+	religion = "grevetican"
+	culture = arbundian
+	father = ARB_35
+	75.1.1 = {
+		birth = yes
+	}
+	140.1.1 = {
+		death = yes
+	}
+}
+ARB_43 = {
+	name = "Carde"
+	dynasty = erevaire
+	religion = "grevetican"
+	culture = arbundian
+	father = ARB_34
+	74.1.1 = {
+		birth = yes
+	}
+	132.1.1 = {
+		death = yes
+	}
+}
+ARB_44 = {
+	name = "Ourun"
+	dynasty = abens
+	religion = "grevetican"
+	culture = arbundian
+	father = ARB_33
+	68.1.1 = {
+		birth = yes
+	}
+	131.1.1 = {
+		death = yes
+	}
+}
+ARB_45 = {
+	name = "Teruth"
+	dynasty = eclair
+	religion = "grevetican"
+	culture = arbundian
+	father = ARB_32
+	68.1.1 = {
+		birth = yes
+	}
+	138.1.1 = {
+		death = yes
+	}
+}
+ARB_46 = {
+	name = "Terilt"
+	dynasty = penloran
+	religion = "grevetican"
+	culture = arbundian
+	father = ARB_31
+	67.1.1 = {
+		birth = yes
+	}
+	124.1.1 = {
+		death = yes
+	}
+}
+ARB_47 = {
+	name = "Soubart"
+	dynasty = souby
+	religion = "grevetican"
+	culture = arbundian
+	father = ARB_30
+	70.1.1 = {
+		birth = yes
+	}
+	131.1.1 = {
+		death = yes
+	}
+}
+ARB_48 = {
+	name = "Teruth"
+	dynasty = erroling
+	religion = "grevetican"
+	culture = arbundian
+	father = ARB_29
+	76.1.1 = {
+		birth = yes
+	}
+	138.1.1 = {
+		death = yes
+	}
+}
+ARB_49 = {
+	name = "Henral"
+	dynasty = thrisby
+	religion = "grevetican"
+	culture = arbundian
+	father = ARB_28
+	76.1.1 = {
+		birth = yes
+	}
+	136.1.1 = {
+		death = yes
+	}
+}
+ARB_50 = {
+	name = "Finine"
+	dynasty = thrisby
+	religion = "grevetican"
+	culture = arbundian
+	father = ARB_49
+	93.1.1 = {
+		birth = yes
+	}
+	153.1.1 = {
+		death = yes
+	}
+}
+ARB_51 = {
+	name = "Lurure"
+	dynasty = erroling
+	religion = "grevetican"
+	culture = arbundian
+	father = ARB_48
+	93.1.1 = {
+		birth = yes
+	}
+	155.1.1 = {
+		death = yes
+	}
+}
+ARB_52 = {
+	name = "Bunled"
+	dynasty = souby
+	religion = "grevetican"
+	culture = arbundian
+	father = ARB_47
+	93.1.1 = {
+		birth = yes
+	}
+	156.1.1 = {
+		death = yes
+	}
+}
+ARB_53 = {
+	name = "Tebund"
+	dynasty = penloran
+	religion = "grevetican"
+	culture = arbundian
+	father = ARB_46
+	93.1.1 = {
+		birth = yes
+	}
+	153.1.1 = {
+		death = yes
+	}
+}
+ARB_54 = {
+	name = "Teruth"
+	dynasty = eclair
+	religion = "grevetican"
+	culture = arbundian
+	father = ARB_45
+	93.1.1 = {
+		birth = yes
+	}
+	158.1.1 = {
+		death = yes
+	}
+}
+ARB_55 = {
+	name = "Dolcoth"
+	dynasty = abens
+	religion = "grevetican"
+	culture = arbundian
+	father = ARB_44
+	93.1.1 = {
+		birth = yes
+	}
+	142.1.1 = {
+		death = yes
+	}
+}
+ARB_56 = {
+	name = "Eerund"
+	dynasty = erevaire
+	religion = "grevetican"
+	culture = arbundian
+	father = ARB_43
+	93.1.1 = {
+		birth = yes
+	}
+	154.1.1 = {
+		death = yes
+	}
+}
+ARB_57 = {
+	name = "Marbade"
+	dynasty = euryde
+	religion = "grevetican"
+	culture = arbundian
+	father = ARB_42
+	93.1.1 = {
+		birth = yes
+	}
+	170.1.1 = {
+		death = yes
+	}
+}
+ARB_58 = {
+	name = "Lincet"
+	dynasty = lorel
+	religion = "grevetican"
+	culture = arbundian
+	father = ARB_41
+	93.1.1 = {
+		birth = yes
+	}
+	151.1.1 = {
+		death = yes
+	}
+}
+ARB_59 = {
+	name = "Wilderan"
+	dynasty = wilde
+	religion = "grevetican"
+	culture = arbundian
+	father = ARB_40
+	93.1.1 = {
+		birth = yes
+	}
+	149.1.1 = {
+		death = yes
+	}
+}
+ARB_60 = {
+	name = "Loxtred"
+	dynasty = loxtris
+	religion = "grevetican"
+	culture = arbundian
+	father = ARB_39
+	93.1.1 = {
+		birth = yes
+	}
+	153.1.1 = {
+		death = yes
+	}
+}
+ARB_61 = {
+	name = "Waltheran"
+	dynasty = heurwald
+	religion = "grevetican"
+	culture = arbundian
+	father = ARB_38
+	93.1.1 = {
+		birth = yes
+	}
+	162.1.1 = {
+		death = yes
+	}
+}
+ARB_62 = {
+	name = "Ablund"
+	dynasty = thrisby
+	religion = "grevetican"
+	culture = arbundian
+	father = ARB_50
+	117.1.1 = {
+		birth = yes
+	}
+	178.1.1 = {
+		death = yes
+	}
+}
+ARB_63 = {
+	name = "Ablund"
+	dynasty = erroling
+	religion = "grevetican"
+	culture = arbundian
+	father = ARB_51
+	117.1.1 = {
+		birth = yes
+	}
+	170.1.1 = {
+		death = yes
+	}
+}
+ARB_64 = {
+	name = "Bunled"
+	dynasty = souby
+	religion = "grevetican"
+	culture = arbundian
+	father = ARB_52
+	117.1.1 = {
+		birth = yes
+	}
+	177.1.1 = {
+		death = yes
+	}
+}
+ARB_65 = {
+	name = "Terilt"
+	dynasty = penloran
+	religion = "grevetican"
+	culture = arbundian
+	father = ARB_53
+	117.1.1 = {
+		birth = yes
+	}
+	177.1.1 = {
+		death = yes
+	}
+}
+ARB_66 = {
+	name = "Eclarand"
+	dynasty = eclair
+	religion = "grevetican"
+	culture = arbundian
+	father = ARB_54
+	117.1.1 = {
+		birth = yes
+	}
+	177.1.1 = {
+		death = yes
+	}
+}
+ARB_67 = {
+	name = "Oethund"
+	dynasty = abens
+	religion = "grevetican"
+	culture = arbundian
+	father = ARB_55
+	117.1.1 = {
+		birth = yes
+	}
+	177.1.1 = {
+		death = yes
+	}
+}
+ARB_68 = {
+	name = "Carde"
+	dynasty = erevaire
+	religion = "grevetican"
+	culture = arbundian
+	father = ARB_56
+	117.1.1 = {
+		birth = yes
+	}
+	177.1.1 = {
+		death = yes
+	}
+}
+ARB_69 = {
+	name = "Artred"
+	dynasty = euryde
+	religion = "grevetican"
+	culture = arbundian
+	father = ARB_57
+	117.1.1 = {
+		birth = yes
+	}
+	177.1.1 = {
+		death = yes
+	}
+}
+ARB_70 = {
+	name = "Hanoll"
+	dynasty = lorel
+	religion = "grevetican"
+	culture = arbundian
+	father = ARB_58
+	117.1.1 = {
+		birth = yes
+	}
+	177.1.1 = {
+		death = yes
+	}
+}
+ARB_71 = {
+	name = "Arblac"
+	dynasty = wilde
+	religion = "grevetican"
+	culture = arbundian
+	father = ARB_59
+	117.1.1 = {
+		birth = yes
+	}
+	177.1.1 = {
+		death = yes
+	}
+}
+ARB_72 = {
+	name = "Terilt"
+	dynasty = loxtris
+	religion = "grevetican"
+	culture = arbundian
+	father = ARB_60
+	117.1.1 = {
+		birth = yes
+	}
+	177.1.1 = {
+		death = yes
+	}
+}
+ARB_73 = {
+	name = "Heuert"
+	dynasty = heurwald
+	religion = "grevetican"
+	culture = arbundian
+	father = ARB_61
+	117.1.1 = {
+		birth = yes
+	}
+	177.1.1 = {
+		death = yes
+	}
+}
+ARB_74 = {
+	name = "Mardoct"
+	dynasty = thrisby
+	religion = "grevetican"
+	culture = arbundian
+	father = ARB_62
+	147.1.1 = {
+		birth = yes
+	}
+	207.1.1 = {
+		death = yes
+	}
+}
+ARB_75 = {
+	name = "Ablund"
+	dynasty = erroling
+	religion = "grevetican"
+	culture = arbundian
+	father = ARB_63
+	147.1.1 = {
+		birth = yes
+	}
+	207.1.1 = {
+		death = yes
+	}
+}
+ARB_76 = {
+	name = "Soubart"
+	dynasty = souby
+	religion = "grevetican"
+	culture = arbundian
+	father = ARB_64
+	147.1.1 = {
+		birth = yes
+	}
+	207.1.1 = {
+		death = yes
+	}
+}
+ARB_77 = {
+	name = "Lurure"
+	dynasty = penloran
+	religion = "grevetican"
+	culture = arbundian
+	father = ARB_65
+	147.1.1 = {
+		birth = yes
+	}
+	207.1.1 = {
+		death = yes
+	}
+}
+ARB_78 = {
+	name = "Eclarand"
+	dynasty = eclair
+	religion = "grevetican"
+	culture = arbundian
+	father = ARB_66
+	147.1.1 = {
+		birth = yes
+	}
+	207.1.1 = {
+		death = yes
+	}
+}
+ARB_79 = {
+	name = "Ourun"
+	dynasty = abens
+	religion = "grevetican"
+	culture = arbundian
+	father = ARB_67
+	147.1.1 = {
+		birth = yes
+	}
+	207.1.1 = {
+		death = yes
+	}
+}
+ARB_80 = {
+	name = "Danund"
+	dynasty = erevaire
+	religion = "grevetican"
+	culture = arbundian
+	father = ARB_68
+	147.1.1 = {
+		birth = yes
+	}
+	207.1.1 = {
+		death = yes
+	}
+}
+ARB_81 = {
+	name = "Jonure"
+	dynasty = euryde
+	religion = "grevetican"
+	culture = arbundian
+	father = ARB_69
+	147.1.1 = {
+		birth = yes
+	}
+	207.1.1 = {
+		death = yes
+	}
+}
+ARB_82 = {
+	name = "Arcon"
+	dynasty = lorel
+	religion = "grevetican"
+	culture = arbundian
+	father = ARB_70
+	147.1.1 = {
+		birth = yes
+	}
+	207.1.1 = {
+		death = yes
+	}
+}
+ARB_83 = {
+	name = "Ginect"
+	dynasty = wilde
+	religion = "grevetican"
+	culture = arbundian
+	father = ARB_71
+	147.1.1 = {
+		birth = yes
+	}
+	207.1.1 = {
+		death = yes
+	}
+}
+ARB_84 = {
+	name = "Carcot"
+	dynasty = loxtris
+	religion = "grevetican"
+	culture = arbundian
+	father = ARB_72
+	147.1.1 = {
+		birth = yes
+	}
+	207.1.1 = {
+		death = yes
+	}
+}
+ARB_85 = {
+	name = "Artred"
+	dynasty = heurwald
+	religion = "grevetican"
+	culture = arbundian
+	father = ARB_73
+	147.1.1 = {
+		birth = yes
+	}
+	207.1.1 = {
+		death = yes
+	}
+}
+ARB_86 = {
+	name = "Henral"
+	dynasty = thrisby
+	religion = "grevetican"
+	culture = arbundian
+	father = ARB_74
+	172.1.1 = {
+		birth = yes
+	}
+	232.1.1 = {
+		death = yes
+	}
+}
+ARB_87 = {
+	name = "Betund"
+	dynasty = erroling
+	religion = "grevetican"
+	culture = arbundian
+	father = ARB_75
+	172.1.1 = {
+		birth = yes
+	}
+	232.1.1 = {
+		death = yes
+	}
+}
+ARB_88 = {
+	name = "Jeure"
+	dynasty = souby
+	religion = "grevetican"
+	culture = arbundian
+	father = ARB_76
+	172.1.1 = {
+		birth = yes
+	}
+	232.1.1 = {
+		death = yes
+	}
+}
+ARB_89 = {
+	name = "Lurure"
+	dynasty = penloran
+	religion = "grevetican"
+	culture = arbundian
+	father = ARB_77
+	172.1.1 = {
+		birth = yes
+	}
+	232.1.1 = {
+		death = yes
+	}
+}
+ARB_90 = {
+	name = "Fanra"
+	dynasty = eclair
+	religion = "grevetican"
+	culture = arbundian
+	father = ARB_78
+	172.1.1 = {
+		birth = yes
+	}
+	232.1.1 = {
+		death = yes
+	}
+}
+ARB_91 = {
+	name = "Korun"
+	dynasty = abens
+	religion = "grevetican"
+	culture = arbundian
+	father = ARB_79
+	172.1.1 = {
+		birth = yes
+	}
+	232.1.1 = {
+		death = yes
+	}
+}
+ARB_92 = {
+	name = "Danund"
+	dynasty = erevaire
+	religion = "grevetican"
+	culture = arbundian
+	father = ARB_80
+	172.1.1 = {
+		birth = yes
+	}
+	232.1.1 = {
+		death = yes
+	}
+}
+ARB_93 = {
+	name = "Herolt"
+	dynasty = euryde
+	religion = "grevetican"
+	culture = arbundian
+	father = ARB_81
+	172.1.1 = {
+		birth = yes
+	}
+	232.1.1 = {
+		death = yes
+	}
+}
+ARB_94 = {
+	name = "Arcon"
+	dynasty = lorel
+	religion = "grevetican"
+	culture = arbundian
+	father = ARB_82
+	172.1.1 = {
+		birth = yes
+	}
+	232.1.1 = {
+		death = yes
+	}
+}
+ARB_95 = {
+	name = "Ginect"
+	dynasty = wilde
+	religion = "grevetican"
+	culture = arbundian
+	father = ARB_83
+	172.1.1 = {
+		birth = yes
+	}
+	232.1.1 = {
+		death = yes
+	}
+}
+ARB_96 = {
+	name = "Loxtred"
+	dynasty = loxtris
+	religion = "grevetican"
+	culture = arbundian
+	father = ARB_84
+	172.1.1 = {
+		birth = yes
+	}
+	232.1.1 = {
+		death = yes
+	}
+}
+ARB_97 = {
+	name = "Heuert"
+	dynasty = heurwald
+	religion = "grevetican"
+	culture = arbundian
+	father = ARB_85
+	172.1.1 = {
+		birth = yes
+	}
+	232.1.1 = {
+		death = yes
+	}
+}
+ARB_98 = {
+	name = "Mardoct"
+	dynasty = thrisby
+	religion = "grevetican"
+	culture = arbundian
+	father = ARB_86
+	197.1.1 = {
+		birth = yes
+	}
+	257.1.1 = {
+		death = yes
+	}
+}
+ARB_99 = {
+	name = "Berand"
+	dynasty = erroling
+	religion = "grevetican"
+	culture = arbundian
+	father = ARB_87
+	197.1.1 = {
+		birth = yes
+	}
+	257.1.1 = {
+		death = yes
+	}
+}
+ARB_100 = {
+	name = "Jeure"
+	dynasty = souby
+	religion = "grevetican"
+	culture = arbundian
+	father = ARB_88
+	197.1.1 = {
+		birth = yes
+	}
+	257.1.1 = {
+		death = yes
+	}
+}
+ARB_101 = {
+	name = "Horun"
+	dynasty = penloran
+	religion = "grevetican"
+	culture = arbundian
+	father = ARB_89
+	197.1.1 = {
+		birth = yes
+	}
+	257.1.1 = {
+		death = yes
+	}
+}
+ARB_102 = {
+	name = "Teruth"
+	dynasty = eclair
+	religion = "grevetican"
+	culture = arbundian
+	father = ARB_90
+	197.1.1 = {
+		birth = yes
+	}
+	257.1.1 = {
+		death = yes
+	}
+}
+ARB_103 = {
+	name = "Korun"
+	dynasty = abens
+	religion = "grevetican"
+	culture = arbundian
+	father = ARB_91
+	197.1.1 = {
+		birth = yes
+	}
+	257.1.1 = {
+		death = yes
+	}
+}
+ARB_104 = {
+	name = "Meburr"
+	dynasty = erevaire
+	religion = "grevetican"
+	culture = arbundian
+	father = ARB_92
+	197.1.1 = {
+		birth = yes
+	}
+	257.1.1 = {
+		death = yes
+	}
+}
+ARB_105 = {
+	name = "Herolt"
+	dynasty = euryde
+	religion = "grevetican"
+	culture = arbundian
+	father = ARB_93
+	197.1.1 = {
+		birth = yes
+	}
+	257.1.1 = {
+		death = yes
+	}
+}
+ARB_106 = {
+	name = "Talbend"
+	dynasty = lorel
+	religion = "grevetican"
+	culture = arbundian
+	father = ARB_94
+	197.1.1 = {
+		birth = yes
+	}
+	257.1.1 = {
+		death = yes
+	}
+}
+ARB_107 = {
+	name = "Brandol"
+	dynasty = wilde
+	religion = "grevetican"
+	culture = arbundian
+	father = ARB_95
+	197.1.1 = {
+		birth = yes
+	}
+	257.1.1 = {
+		death = yes
+	}
+}
+ARB_108 = {
+	name = "Anderan"
+	dynasty = loxtris
+	religion = "grevetican"
+	culture = arbundian
+	father = ARB_96
+	197.1.1 = {
+		birth = yes
+	}
+	257.1.1 = {
+		death = yes
+	}
+}
+ARB_109 = {
+	name = "Waltheran"
+	dynasty = heurwald
+	religion = "grevetican"
+	culture = arbundian
+	father = ARB_97
+	197.1.1 = {
+		birth = yes
+	}
+	257.1.1 = {
+		death = yes
+	}
+}
+ARB_110 = {
+	name = "Mardoct"
+	dynasty = thrisby
+	religion = "grevetican"
+	culture = arbundian
+	father = ARB_98
+	222.1.1 = {
+		birth = yes
+	}
+	282.1.1 = {
+		death = yes
+	}
+}
+ARB_111 = {
+	name = "Teruth"
+	dynasty = erroling
+	religion = "grevetican"
+	culture = arbundian
+	father = ARB_99
+	222.1.1 = {
+		birth = yes
+	}
+	282.1.1 = {
+		death = yes
+	}
+}
+ARB_112 = {
+	name = "Arcon"
+	dynasty = souby
+	religion = "grevetican"
+	culture = arbundian
+	father = ARB_100
+	222.1.1 = {
+		birth = yes
+	}
+	282.1.1 = {
+		death = yes
+	}
+}
+ARB_113 = {
+	name = "Terilt"
+	dynasty = penloran
+	religion = "grevetican"
+	culture = arbundian
+	father = ARB_101
+	222.1.1 = {
+		birth = yes
+	}
+	282.1.1 = {
+		death = yes
+	}
+}
+ARB_114 = {
+	name = "Teruth"
+	dynasty = eclair
+	religion = "grevetican"
+	culture = arbundian
+	father = ARB_102
+	222.1.1 = {
+		birth = yes
+	}
+	282.1.1 = {
+		death = yes
+	}
+}
+ARB_115 = {
+	name = "Arde"
+	dynasty = abens
+	religion = "grevetican"
+	culture = arbundian
+	father = ARB_103
+	222.1.1 = {
+		birth = yes
+	}
+	282.1.1 = {
+		death = yes
+	}
+}
+ARB_116 = {
+	name = "Meburr"
+	dynasty = erevaire
+	religion = "grevetican"
+	culture = arbundian
+	father = ARB_104
+	222.1.1 = {
+		birth = yes
+	}
+	282.1.1 = {
+		death = yes
+	}
+}
+ARB_117 = {
+	name = "Marbade"
+	dynasty = euryde
+	religion = "grevetican"
+	culture = arbundian
+	father = ARB_105
+	222.1.1 = {
+		birth = yes
+	}
+	282.1.1 = {
+		death = yes
+	}
+}
+ARB_118 = {
+	name = "Lincet"
+	dynasty = lorel
+	religion = "grevetican"
+	culture = arbundian
+	father = ARB_106
+	222.1.1 = {
+		birth = yes
+	}
+	282.1.1 = {
+		death = yes
+	}
+}
+ARB_119 = {
+	name = "Brandol"
+	dynasty = wilde
+	religion = "grevetican"
+	culture = arbundian
+	father = ARB_107
+	222.1.1 = {
+		birth = yes
+	}
+	282.1.1 = {
+		death = yes
+	}
+}
+ARB_120 = {
+	name = "Anderan"
+	dynasty = loxtris
+	religion = "grevetican"
+	culture = arbundian
+	father = ARB_108
+	222.1.1 = {
+		birth = yes
+	}
+	282.1.1 = {
+		death = yes
+	}
+}
+ARB_121 = {
+	name = "Waltheran"
+	dynasty = heurwald
+	religion = "grevetican"
+	culture = arbundian
+	father = ARB_109
+	222.1.1 = {
+		birth = yes
+	}
+	282.1.1 = {
+		death = yes
+	}
+}
+ARB_122 = {
+	name = "Ablund"
+	dynasty = erroling
+	religion = "grevetican"
+	culture = arbundian
+	father = ARB_111
+	247.1.1 = {
+		birth = yes
+	}
+	307.1.1 = {
+		death = yes
+	}
+}
+ARB_123 = {
+	name = "Henral"
+	dynasty = thrisby
+	religion = "grevetican"
+	culture = arbundian
+	father = ARB_110
+	247.1.1 = {
+		birth = yes
+	}
+	307.1.1 = {
+		death = yes
+	}
+}
+ARB_124 = {
+	name = "Heund"
+	dynasty = souby
+	religion = "grevetican"
+	culture = arbundian
+	father = ARB_112
+	247.1.1 = {
+		birth = yes
+	}
+	307.1.1 = {
+		death = yes
+	}
+}
+ARB_125 = {
+	name = "Terilt"
+	dynasty = penloran
+	religion = "grevetican"
+	culture = arbundian
+	father = ARB_113
+	247.1.1 = {
+		birth = yes
+	}
+	307.1.1 = {
+		death = yes
+	}
+}
+ARB_126 = {
+	name = "Arbael"
+	dynasty = eclair
+	religion = "grevetican"
+	culture = arbundian
+	father = ARB_114
+	247.1.1 = {
+		birth = yes
+	}
+	307.1.1 = {
+		death = yes
+	}
+}
+ARB_127 = {
+	name = "Arde"
+	dynasty = abens
+	religion = "grevetican"
+	culture = arbundian
+	father = ARB_115
+	247.1.1 = {
+		birth = yes
+	}
+	307.1.1 = {
+		death = yes
+	}
+}
+ARB_128 = {
+	name = "Arburn"
+	dynasty = erevaire
+	religion = "grevetican"
+	culture = arbundian
+	father = ARB_116
+	247.1.1 = {
+		birth = yes
+	}
+	307.1.1 = {
+		death = yes
+	}
+}
+ARB_129 = {
+	name = "Artred"
+	dynasty = euryde
+	religion = "grevetican"
+	culture = arbundian
+	father = ARB_117
+	247.1.1 = {
+		birth = yes
+	}
+	307.1.1 = {
+		death = yes
+	}
+}
+ARB_130 = {
+	name = "Lincet"
+	dynasty = lorel
+	religion = "grevetican"
+	culture = arbundian
+	father = ARB_118
+	247.1.1 = {
+		birth = yes
+	}
+	307.1.1 = {
+		death = yes
+	}
+}
+ARB_131 = {
+	name = "Wilderan"
+	dynasty = wilde
+	religion = "grevetican"
+	culture = arbundian
+	father = ARB_119
+	247.1.1 = {
+		birth = yes
+	}
+	307.1.1 = {
+		death = yes
+	}
+}
+ARB_132 = {
+	name = "Ganran"
+	dynasty = loxtris
+	religion = "grevetican"
+	culture = arbundian
+	father = ARB_120
+	247.1.1 = {
+		birth = yes
+	}
+	307.1.1 = {
+		death = yes
+	}
+}
+ARB_133 = {
+	name = "Mardoct"
+	dynasty = heurwald
+	religion = "grevetican"
+	culture = arbundian
+	father = ARB_121
+	247.1.1 = {
+		birth = yes
+	}
+	307.1.1 = {
+		death = yes
+	}
+}
+ARB_134 = {
+	name = "Finine"
+	dynasty = thrisby
+	religion = "grevetican"
+	culture = arbundian
+	father = ARB_123
+	272.1.1 = {
+		birth = yes
+	}
+	332.1.1 = {
+		death = yes
+	}
+}
+ARB_135 = {
+	name = "Ablund"
+	dynasty = erroling
+	religion = "grevetican"
+	culture = arbundian
+	father = ARB_122
+	272.1.1 = {
+		birth = yes
+	}
+	332.1.1 = {
+		death = yes
+	}
+}
+ARB_136 = {
+	name = "Soubart"
+	dynasty = souby
+	religion = "grevetican"
+	culture = arbundian
+	father = ARB_124
+	272.1.1 = {
+		birth = yes
+	}
+	332.1.1 = {
+		death = yes
+	}
+}
+ARB_137 = {
+	name = "Tebund"
+	dynasty = penloran
+	religion = "grevetican"
+	culture = arbundian
+	father = ARB_125
+	272.1.1 = {
+		birth = yes
+	}
+	332.1.1 = {
+		death = yes
+	}
+}
+ARB_138 = {
+	name = "Arbael"
+	dynasty = eclair
+	religion = "grevetican"
+	culture = arbundian
+	father = ARB_126
+	272.1.1 = {
+		birth = yes
+	}
+	332.1.1 = {
+		death = yes
+	}
+}
+ARB_139 = {
+	name = "Oethund"
+	dynasty = abens
+	religion = "grevetican"
+	culture = arbundian
+	father = ARB_127
+	272.1.1 = {
+		birth = yes
+	}
+	332.1.1 = {
+		death = yes
+	}
+}
+ARB_140 = {
+	name = "Carde"
+	dynasty = erevaire
+	religion = "grevetican"
+	culture = arbundian
+	father = ARB_128
+	272.1.1 = {
+		birth = yes
+	}
+	332.1.1 = {
+		death = yes
+	}
+}
+ARB_141 = {
+	name = "Artred"
+	dynasty = euryde
+	religion = "grevetican"
+	culture = arbundian
+	father = ARB_129
+	272.1.1 = {
+		birth = yes
+	}
+	332.1.1 = {
+		death = yes
+	}
+}
+ARB_142 = {
+	name = "Hanoll"
+	dynasty = lorel
+	religion = "grevetican"
+	culture = arbundian
+	father = ARB_130
+	272.1.1 = {
+		birth = yes
+	}
+	332.1.1 = {
+		death = yes
+	}
+}
+ARB_143 = {
+	name = "Wilderan"
+	dynasty = wilde
+	religion = "grevetican"
+	culture = arbundian
+	father = ARB_131
+	272.1.1 = {
+		birth = yes
+	}
+	332.1.1 = {
+		death = yes
+	}
+}
+ARB_144 = {
+	name = "Ganran"
+	dynasty = loxtris
+	religion = "grevetican"
+	culture = arbundian
+	father = ARB_132
+	272.1.1 = {
+		birth = yes
+	}
+	332.1.1 = {
+		death = yes
+	}
+}
+ARB_145 = {
+	name = "Heuert"
+	dynasty = heurwald
+	religion = "grevetican"
+	culture = arbundian
+	father = ARB_133
+	272.1.1 = {
+		birth = yes
+	}
+	332.1.1 = {
+		death = yes
+	}
+}
+ARB_146 = {
+	name = "Teruth"
+	dynasty = thrisby
+	religion = "grevetican"
+	culture = arbundian
+	father = ARB_134
+	297.1.1 = {
+		birth = yes
+	}
+	357.1.1 = {
+		death = yes
+	}
+}
+ARB_147 = {
+	name = "Eerund"
+	dynasty = erroling
+	religion = "grevetican"
+	culture = arbundian
+	father = ARB_135
+	297.1.1 = {
+		birth = yes
+	}
+	357.1.1 = {
+		death = yes
+	}
+}
+ARB_148 = {
+	name = "Jeure"
+	dynasty = souby
+	religion = "grevetican"
+	culture = arbundian
+	father = ARB_136
+	297.1.1 = {
+		birth = yes
+	}
+	357.1.1 = {
+		death = yes
+	}
+}
+ARB_149 = {
+	name = "Arburl"
+	dynasty = penloran
+	religion = "grevetican"
+	culture = arbundian
+	father = ARB_137
+	297.1.1 = {
+		birth = yes
+	}
+	357.1.1 = {
+		death = yes
+	}
+}
+ARB_150 = {
+	name = "Arbael"
+	dynasty = eclair
+	religion = "grevetican"
+	culture = arbundian
+	father = ARB_138
+	297.1.1 = {
+		birth = yes
+	}
+	357.1.1 = {
+		death = yes
+	}
+}
+ARB_151 = {
+	name = "Dolcoth"
+	dynasty = abens
+	religion = "grevetican"
+	culture = arbundian
+	father = ARB_139
+	297.1.1 = {
+		birth = yes
+	}
+	357.1.1 = {
+		death = yes
+	}
+}
+ARB_152 = {
+	name = "Eerund"
+	dynasty = erevaire
+	religion = "grevetican"
+	culture = arbundian
+	father = ARB_140
+	297.1.1 = {
+		birth = yes
+	}
+	357.1.1 = {
+		death = yes
+	}
+}
+ARB_153 = {
+	name = "Jonure"
+	dynasty = euryde
+	religion = "grevetican"
+	culture = arbundian
+	father = ARB_141
+	297.1.1 = {
+		birth = yes
+	}
+	357.1.1 = {
+		death = yes
+	}
+}
+ARB_154 = {
+	name = "Zeine"
+	dynasty = lorel
+	religion = "grevetican"
+	culture = arbundian
+	father = ARB_142
+	297.1.1 = {
+		birth = yes
+	}
+	357.1.1 = {
+		death = yes
+	}
+}
+ARB_155 = {
+	name = "Arblac"
+	dynasty = wilde
+	religion = "grevetican"
+	culture = arbundian
+	father = ARB_143
+	297.1.1 = {
+		birth = yes
+	}
+	357.1.1 = {
+		death = yes
+	}
+}
+ARB_156 = {
+	name = "Terilt"
+	dynasty = loxtris
+	religion = "grevetican"
+	culture = arbundian
+	father = ARB_144
+	297.1.1 = {
+		birth = yes
+	}
+	357.1.1 = {
+		death = yes
+	}
+}
+ARB_157 = {
+	name = "Heuert"
+	dynasty = heurwald
+	religion = "grevetican"
+	culture = arbundian
+	father = ARB_145
+	297.1.1 = {
+		birth = yes
+	}
+	357.1.1 = {
+		death = yes
+	}
+}
+ARB_158 = {
+	name = "Teruth"
+	dynasty = thrisby
+	religion = "grevetican"
+	culture = arbundian
+	father = ARB_146
+	322.1.1 = {
+		birth = yes
+	}
+	382.1.1 = {
+		death = yes
+	}
+}
+ARB_159 = {
+	name = "Lurure"
+	dynasty = erroling
+	religion = "grevetican"
+	culture = arbundian
+	father = ARB_147
+	322.1.1 = {
+		birth = yes
+	}
+	382.1.1 = {
+		death = yes
+	}
+}
+ARB_160 = {
+	name = "Jerure"
+	dynasty = souby
+	religion = "grevetican"
+	culture = arbundian
+	father = ARB_148
+	322.1.1 = {
+		birth = yes
+	}
+	382.1.1 = {
+		death = yes
+	}
+}
+ARB_161 = {
+	name = "Arburl"
+	dynasty = penloran
+	religion = "grevetican"
+	culture = arbundian
+	father = ARB_149
+	322.1.1 = {
+		birth = yes
+	}
+	382.1.1 = {
+		death = yes
+	}
+}
+ARB_162 = {
+	name = "Eclarand"
+	dynasty = eclair
+	religion = "grevetican"
+	culture = arbundian
+	father = ARB_150
+	322.1.1 = {
+		birth = yes
+	}
+	382.1.1 = {
+		death = yes
+	}
+}
+ARB_163 = {
+	name = "Oethund"
+	dynasty = abens
+	religion = "grevetican"
+	culture = arbundian
+	father = ARB_151
+	322.1.1 = {
+		birth = yes
+	}
+	382.1.1 = {
+		death = yes
+	}
+}
+ARB_164 = {
+	name = "Eerund"
+	dynasty = erevaire
+	religion = "grevetican"
+	culture = arbundian
+	father = ARB_152
+	322.1.1 = {
+		birth = yes
+	}
+	382.1.1 = {
+		death = yes
+	}
+}
+ARB_165 = {
+	name = "Jonure"
+	dynasty = euryde
+	religion = "grevetican"
+	culture = arbundian
+	father = ARB_153
+	322.1.1 = {
+		birth = yes
+	}
+	382.1.1 = {
+		death = yes
+	}
+}
+ARB_166 = {
+	name = "Zeine"
+	dynasty = lorel
+	religion = "grevetican"
+	culture = arbundian
+	father = ARB_154
+	322.1.1 = {
+		birth = yes
+	}
+	382.1.1 = {
+		death = yes
+	}
+}
+ARB_167 = {
+	name = "Arblac"
+	dynasty = wilde
+	religion = "grevetican"
+	culture = arbundian
+	father = ARB_155
+	322.1.1 = {
+		birth = yes
+	}
+	382.1.1 = {
+		death = yes
+	}
+}
+ARB_168 = {
+	name = "Loxtred"
+	dynasty = loxtris
+	religion = "grevetican"
+	culture = arbundian
+	father = ARB_156
+	322.1.1 = {
+		birth = yes
+	}
+	382.1.1 = {
+		death = yes
+	}
+}
+ARB_169 = {
+	name = "Fenra"
+	dynasty = heurwald
+	religion = "grevetican"
+	culture = arbundian
+	father = ARB_157
+	322.1.1 = {
+		birth = yes
+	}
+	382.1.1 = {
+		death = yes
+	}
+}
+ARB_170 = {
+	name = "Mardoct"
+	dynasty = thrisby
+	religion = "grevetican"
+	culture = arbundian
+	father = ARB_158
+	357.1.1 = {
+		birth = yes
+	}
+	417.1.1 = {
+		death = yes
+	}
+}
+ARB_171 = {
+	name = "Lurure"
+	dynasty = erroling
+	religion = "grevetican"
+	culture = arbundian
+	father = ARB_159
+	357.1.1 = {
+		birth = yes
+	}
+	417.1.1 = {
+		death = yes
+	}
+}
+ARB_172 = {
+	name = "Jerure"
+	dynasty = souby
+	religion = "grevetican"
+	culture = arbundian
+	father = ARB_160
+	357.1.1 = {
+		birth = yes
+	}
+	417.1.1 = {
+		death = yes
+	}
+}
+ARB_173 = {
+	name = "Terilt"
+	dynasty = penloran
+	religion = "grevetican"
+	culture = arbundian
+	father = ARB_161
+	357.1.1 = {
+		birth = yes
+	}
+	417.1.1 = {
+		death = yes
+	}
+}
+ARB_174 = {
+	name = "Eclarand"
+	dynasty = eclair
+	religion = "grevetican"
+	culture = arbundian
+	father = ARB_162
+	357.1.1 = {
+		birth = yes
+	}
+	417.1.1 = {
+		death = yes
+	}
+}
+ARB_175 = {
+	name = "Oethund"
+	dynasty = abens
+	religion = "grevetican"
+	culture = arbundian
+	father = ARB_163
+	357.1.1 = {
+		birth = yes
+	}
+	417.1.1 = {
+		death = yes
+	}
+}
+ARB_176 = {
+	name = "Meburr"
+	dynasty = erevaire
+	religion = "grevetican"
+	culture = arbundian
+	father = ARB_164
+	357.1.1 = {
+		birth = yes
+	}
+	417.1.1 = {
+		death = yes
+	}
+}
+ARB_177 = {
+	name = "Colfen"
+	dynasty = euryde
+	religion = "grevetican"
+	culture = arbundian
+	father = ARB_165
+	357.1.1 = {
+		birth = yes
+	}
+	417.1.1 = {
+		death = yes
+	}
+}
+ARB_178 = {
+	name = "Arcon"
+	dynasty = lorel
+	religion = "grevetican"
+	culture = arbundian
+	father = ARB_166
+	357.1.1 = {
+		birth = yes
+	}
+	417.1.1 = {
+		death = yes
+	}
+}
+ARB_179 = {
+	name = "Ginect"
+	dynasty = wilde
+	religion = "grevetican"
+	culture = arbundian
+	father = ARB_167
+	357.1.1 = {
+		birth = yes
+	}
+	417.1.1 = {
+		death = yes
+	}
+}
+ARB_180 = {
+	name = "Loxtred"
+	dynasty = loxtris
+	religion = "grevetican"
+	culture = arbundian
+	father = ARB_168
+	357.1.1 = {
+		birth = yes
+	}
+	417.1.1 = {
+		death = yes
+	}
+}
+ARB_181 = {
+	name = "Mardoct"
+	dynasty = heurwald
+	religion = "grevetican"
+	culture = arbundian
+	father = ARB_169
+	357.1.1 = {
+		birth = yes
+	}
+	417.1.1 = {
+		death = yes
+	}
+}
+ARB_182 = {
+	name = "Mardoct"
+	dynasty = thrisby
+	religion = "grevetican"
+	culture = arbundian
+	father = ARB_170
+	392.1.1 = {
+		birth = yes
+	}
+	452.1.1 = {
+		death = yes
+	}
+}
+ARB_183 = {
+	name = "Betund"
+	dynasty = erroling
+	religion = "grevetican"
+	culture = arbundian
+	father = ARB_171
+	392.1.1 = {
+		birth = yes
+	}
+	452.1.1 = {
+		death = yes
+	}
+}
+ARB_184 = {
+	name = "Bunled"
+	dynasty = souby
+	religion = "grevetican"
+	culture = arbundian
+	father = ARB_172
+	392.1.1 = {
+		birth = yes
+	}
+	452.1.1 = {
+		death = yes
+	}
+}
+ARB_185 = {
+	name = "Horun"
+	dynasty = penloran
+	religion = "grevetican"
+	culture = arbundian
+	father = ARB_173
+	392.1.1 = {
+		birth = yes
+	}
+	452.1.1 = {
+		death = yes
+	}
+}
+ARB_186 = {
+	name = "Fanra"
+	dynasty = eclair
+	religion = "grevetican"
+	culture = arbundian
+	father = ARB_174
+	392.1.1 = {
+		birth = yes
+	}
+	452.1.1 = {
+		death = yes
+	}
+}
+ARB_187 = {
+	name = "Ourun"
+	dynasty = abens
+	religion = "grevetican"
+	culture = arbundian
+	father = ARB_175
+	392.1.1 = {
+		birth = yes
+	}
+	452.1.1 = {
+		death = yes
+	}
+}
+ARB_188 = {
+	name = "Meburr"
+	dynasty = erevaire
+	religion = "grevetican"
+	culture = arbundian
+	father = ARB_176
+	392.1.1 = {
+		birth = yes
+	}
+	452.1.1 = {
+		death = yes
+	}
+}
+ARB_189 = {
+	name = "Colfen"
+	dynasty = euryde
+	religion = "grevetican"
+	culture = arbundian
+	father = ARB_177
+	392.1.1 = {
+		birth = yes
+	}
+	452.1.1 = {
+		death = yes
+	}
+}
+ARB_190 = {
+	name = "Lincet"
+	dynasty = lorel
+	religion = "grevetican"
+	culture = arbundian
+	father = ARB_178
+	392.1.1 = {
+		birth = yes
+	}
+	452.1.1 = {
+		death = yes
+	}
+}
+ARB_191 = {
+	name = "Brandol"
+	dynasty = wilde
+	religion = "grevetican"
+	culture = arbundian
+	father = ARB_179
+	392.1.1 = {
+		birth = yes
+	}
+	452.1.1 = {
+		death = yes
+	}
+}
+ARB_192 = {
+	name = "Carcot"
+	dynasty = loxtris
+	religion = "grevetican"
+	culture = arbundian
+	father = ARB_180
+	392.1.1 = {
+		birth = yes
+	}
+	452.1.1 = {
+		death = yes
+	}
+}
+ARB_193 = {
+	name = "Waltheran"
+	dynasty = heurwald
+	religion = "grevetican"
+	culture = arbundian
+	father = ARB_181
+	392.1.1 = {
+		birth = yes
+	}
+	452.1.1 = {
+		death = yes
+	}
+}
+ARB_194 = {
+	name = "Ablund"
+	dynasty = thrisby
+	religion = "grevetican"
+	culture = arbundian
+	father = ARB_182
+	427.1.1 = {
+		birth = yes
+	}
+	487.1.1 = {
+		death = yes
+	}
+}
+ARB_195 = {
+	name = "Ablund"
+	dynasty = erroling
+	religion = "grevetican"
+	culture = arbundian
+	father = ARB_183
+	427.1.1 = {
+		birth = yes
+	}
+	487.1.1 = {
+		death = yes
+	}
+}
+ARB_196 = {
+	name = "Bunled"
+	dynasty = souby
+	religion = "grevetican"
+	culture = arbundian
+	father = ARB_184
+	427.1.1 = {
+		birth = yes
+	}
+	487.1.1 = {
+		death = yes
+	}
+}
+ARB_197 = {
+	name = "Horun"
+	dynasty = penloran
+	religion = "grevetican"
+	culture = arbundian
+	father = ARB_185
+	427.1.1 = {
+		birth = yes
+	}
+	487.1.1 = {
+		death = yes
+	}
+}
+ARB_198 = {
+	name = "Fanra"
+	dynasty = eclair
+	religion = "grevetican"
+	culture = arbundian
+	father = ARB_186
+	427.1.1 = {
+		birth = yes
+	}
+	487.1.1 = {
+		death = yes
+	}
+}
+ARB_199 = {
+	name = "Ourun"
+	dynasty = abens
+	religion = "grevetican"
+	culture = arbundian
+	father = ARB_187
+	427.1.1 = {
+		birth = yes
+	}
+	487.1.1 = {
+		death = yes
+	}
+}
+ARB_200 = {
+	name = "Carde"
+	dynasty = erevaire
+	religion = "grevetican"
+	culture = arbundian
+	father = ARB_188
+	427.1.1 = {
+		birth = yes
+	}
+	487.1.1 = {
+		death = yes
+	}
+}
+ARB_201 = {
+	name = "Colfen"
+	dynasty = euryde
+	religion = "grevetican"
+	culture = arbundian
+	father = ARB_189
+	427.1.1 = {
+		birth = yes
+	}
+	487.1.1 = {
+		death = yes
+	}
+}
+ARB_202 = {
+	name = "Lincet"
+	dynasty = lorel
+	religion = "grevetican"
+	culture = arbundian
+	father = ARB_190
+	427.1.1 = {
+		birth = yes
+	}
+	487.1.1 = {
+		death = yes
+	}
+}
+ARB_203 = {
+	name = "Brandol"
+	dynasty = wilde
+	religion = "grevetican"
+	culture = arbundian
+	father = ARB_191
+	427.1.1 = {
+		birth = yes
+	}
+	487.1.1 = {
+		death = yes
+	}
+}
+ARB_204 = {
+	name = "Anderan"
+	dynasty = loxtris
+	religion = "grevetican"
+	culture = arbundian
+	father = ARB_192
+	427.1.1 = {
+		birth = yes
+	}
+	487.1.1 = {
+		death = yes
+	}
+}
+ARB_205 = {
+	name = "Waltheran"
+	dynasty = heurwald
+	religion = "grevetican"
+	culture = arbundian
+	father = ARB_193
+	427.1.1 = {
+		birth = yes
+	}
+	487.1.1 = {
+		death = yes
+	}
+}
+ARB_206 = {
+	name = "Ablund"
+	dynasty = thrisby
+	religion = "grevetican"
+	culture = arbundian
+	father = ARB_194
+	462.1.1 = {
+		birth = yes
+	}
+	522.1.1 = {
+		death = yes
+	}
+}
+ARB_207 = {
+	name = "Ablund"
+	dynasty = erroling
+	religion = "grevetican"
+	culture = arbundian
+	father = ARB_195
+	462.1.1 = {
+		birth = yes
+	}
+	522.1.1 = {
+		death = yes
+	}
+}
+ARB_208 = {
+	name = "Heund"
+	dynasty = souby
+	religion = "grevetican"
+	culture = arbundian
+	father = ARB_196
+	462.1.1 = {
+		birth = yes
+	}
+	522.1.1 = {
+		death = yes
+	}
+}
+ARB_209 = {
+	name = "Terilt"
+	dynasty = penloran
+	religion = "grevetican"
+	culture = arbundian
+	father = ARB_197
+	462.1.1 = {
+		birth = yes
+	}
+	522.1.1 = {
+		death = yes
+	}
+}
+ARB_210 = {
+	name = "Teruth"
+	dynasty = eclair
+	religion = "grevetican"
+	culture = arbundian
+	father = ARB_198
+	462.1.1 = {
+		birth = yes
+	}
+	522.1.1 = {
+		death = yes
+	}
+}
+ARB_211 = {
+	name = "Arde"
+	dynasty = abens
+	religion = "grevetican"
+	culture = arbundian
+	father = ARB_199
+	462.1.1 = {
+		birth = yes
+	}
+	522.1.1 = {
+		death = yes
+	}
+}
+ARB_212 = {
+	name = "Carde"
+	dynasty = erevaire
+	religion = "grevetican"
+	culture = arbundian
+	father = ARB_200
+	462.1.1 = {
+		birth = yes
+	}
+	522.1.1 = {
+		death = yes
+	}
+}
+ARB_213 = {
+	name = "Artred"
+	dynasty = euryde
+	religion = "grevetican"
+	culture = arbundian
+	father = ARB_201
+	462.1.1 = {
+		birth = yes
+	}
+	522.1.1 = {
+		death = yes
+	}
+}
+ARB_214 = {
+	name = "Talbend"
+	dynasty = lorel
+	religion = "grevetican"
+	culture = arbundian
+	father = ARB_202
+	462.1.1 = {
+		birth = yes
+	}
+	522.1.1 = {
+		death = yes
+	}
+}
+ARB_215 = {
+	name = "Wilderan"
+	dynasty = wilde
+	religion = "grevetican"
+	culture = arbundian
+	father = ARB_203
+	462.1.1 = {
+		birth = yes
+	}
+	522.1.1 = {
+		death = yes
+	}
+}
+ARB_216 = {
+	name = "Ganran"
+	dynasty = loxtris
+	religion = "grevetican"
+	culture = arbundian
+	father = ARB_204
+	462.1.1 = {
+		birth = yes
+	}
+	522.1.1 = {
+		death = yes
+	}
+}
+ARB_217 = {
+	name = "Artred"
+	dynasty = heurwald
+	religion = "grevetican"
+	culture = arbundian
+	father = ARB_205
+	462.1.1 = {
+		birth = yes
+	}
+	522.1.1 = {
+		death = yes
+	}
+}
+ARB_218 = {
+	name = "Henral"
+	dynasty = thrisby
+	religion = "grevetican"
+	culture = arbundian
+	father = ARB_206
+	497.1.1 = {
+		birth = yes
+	}
+	557.1.1 = {
+		death = yes
+	}
+}
+ARB_219 = {
+	name = "Berand"
+	dynasty = erroling
+	religion = "grevetican"
+	culture = arbundian
+	father = ARB_207
+	497.1.1 = {
+		birth = yes
+	}
+	557.1.1 = {
+		death = yes
+	}
+}
+ARB_220 = {
+	name = "Soubart"
+	dynasty = souby
+	religion = "grevetican"
+	culture = arbundian
+	father = ARB_208
+	497.1.1 = {
+		birth = yes
+	}
+	557.1.1 = {
+		death = yes
+	}
+}
+ARB_221 = {
+	name = "Terilt"
+	dynasty = penloran
+	religion = "grevetican"
+	culture = arbundian
+	father = ARB_209
+	497.1.1 = {
+		birth = yes
+	}
+	557.1.1 = {
+		death = yes
+	}
+}
+ARB_222 = {
+	name = "Arbael"
+	dynasty = eclair
+	religion = "grevetican"
+	culture = arbundian
+	father = ARB_210
+	497.1.1 = {
+		birth = yes
+	}
+	557.1.1 = {
+		death = yes
+	}
+}
+ARB_223 = {
+	name = "Korun"
+	dynasty = abens
+	religion = "grevetican"
+	culture = arbundian
+	father = ARB_211
+	497.1.1 = {
+		birth = yes
+	}
+	557.1.1 = {
+		death = yes
+	}
+}
+ARB_224 = {
+	name = "Danund"
+	dynasty = erevaire
+	religion = "grevetican"
+	culture = arbundian
+	father = ARB_212
+	497.1.1 = {
+		birth = yes
+	}
+	557.1.1 = {
+		death = yes
+	}
+}
+ARB_225 = {
+	name = "Jonure"
+	dynasty = euryde
+	religion = "grevetican"
+	culture = arbundian
+	father = ARB_213
+	497.1.1 = {
+		birth = yes
+	}
+	557.1.1 = {
+		death = yes
+	}
+}
+ARB_226 = {
+	name = "Hanoll"
+	dynasty = lorel
+	religion = "grevetican"
+	culture = arbundian
+	father = ARB_214
+	497.1.1 = {
+		birth = yes
+	}
+	557.1.1 = {
+		death = yes
+	}
+}
+ARB_227 = {
+	name = "Ginect"
+	dynasty = wilde
+	religion = "grevetican"
+	culture = arbundian
+	father = ARB_215
+	497.1.1 = {
+		birth = yes
+	}
+	557.1.1 = {
+		death = yes
+	}
+}
+ARB_228 = {
+	name = "Ganran"
+	dynasty = loxtris
+	religion = "grevetican"
+	culture = arbundian
+	father = ARB_216
+	497.1.1 = {
+		birth = yes
+	}
+	557.1.1 = {
+		death = yes
+	}
+}
+ARB_229 = {
+	name = "Pinect"
+	dynasty = heurwald
+	religion = "grevetican"
+	culture = arbundian
+	father = ARB_217
+	497.1.1 = {
+		birth = yes
+	}
+	557.1.1 = {
+		death = yes
+	}
+}
+ARB_230 = {
+	name = "Mardoct"
+	dynasty = thrisby
+	religion = "grevetican"
+	culture = arbundian
+	father = ARB_218
+	532.1.1 = {
+		birth = yes
+	}
+	556.1.1 = {
+		add_spouse = ARB_248
+	}
+	580.1.1 = {
+		death = yes
+	}
+}
+ARB_231 = {
+	name = "Keroll"
+	female = yes
+	dynasty = thrisby
+	religion = "grevetican"
+	culture = arbundian
+	father = ARB_218
+	535.1.1 = {
+		birth = yes
+	}
+	556.1.1 = {
+		add_spouse = ARB_264
+	}
+}
+ARB_232 = {
+	name = "Henral"
+	dynasty = thrisby
+	religion = "grevetican"
+	culture = arbundian
+	father = ARB_218
+	538.1.1 = {
+		birth = yes
+	}
+	556.1.1 = {
+		add_spouse = ARB_253
+	}
+	583.1.1 = {
+		death = yes
+	}
+}
+ARB_233 = {
+	name = "Ellora"
+	female = yes
+	dynasty = erroling
+	religion = "grevetican"
+	culture = arbundian
+	father = ARB_219
+	532.1.1 = {
+		birth = yes
+	}
+	556.1.1 = {
+		add_spouse = ARB_242
+	}
+}
+ARB_234 = {
+	name = "Rethure"
+	female = yes
+	dynasty = erroling
+	religion = "grevetican"
+	culture = arbundian
+	father = ARB_219
+	535.1.1 = {
+		birth = yes
+	}
+	556.1.1 = {
+		add_spouse = ARB_255
+	}
+}
+ARB_235 = {
+	name = "Lurure"
+	dynasty = erroling
+	religion = "grevetican"
+	culture = arbundian
+	father = ARB_219
+	538.1.1 = {
+		birth = yes
+	}
+	556.1.1 = {
+		add_spouse = ARB_247
+	}
+	583.1.1 = {
+		death = yes
+	}
+}
+ARB_236 = {
+	name = "Soubaia"
+	female = yes
+	dynasty = souby
+	religion = "grevetican"
+	culture = arbundian
+	father = ARB_220
+	532.1.1 = {
+		birth = yes
+	}
+	556.1.1 = {
+		add_spouse = ARB_257
+	}
+}
+ARB_237 = {
+	name = "Jerure"
+	dynasty = souby
+	religion = "grevetican"
+	culture = arbundian
+	father = ARB_220
+	535.1.1 = {
+		birth = yes
+	}
+	556.1.1 = {
+		add_spouse = ARB_252
+	}
+	579.1.1 = {
+		death = yes
+	}
+}
+ARB_238 = {
+	name = "Saraed"
+	female = yes
+	dynasty = souby
+	religion = "grevetican"
+	culture = arbundian
+	father = ARB_220
+	538.1.1 = {
+		birth = yes
+	}
+	556.1.1 = {
+		add_spouse = ARB_245
+	}
+}
+ARB_239 = {
+	name = "Eeine"
+	female = yes
+	dynasty = penloran
+	religion = "grevetican"
+	culture = arbundian
+	father = ARB_221
+	532.1.1 = {
+		birth = yes
+	}
+	556.1.1 = {
+		add_spouse = ARB_263
+	}
+}
+ARB_240 = {
+	name = "Finecta"
+	female = yes
+	dynasty = penloran
+	religion = "grevetican"
+	culture = arbundian
+	father = ARB_221
+	535.1.1 = {
+		birth = yes
+	}
+	556.1.1 = {
+		add_spouse = ARB_246
+	}
+}
+ARB_241 = {
+	name = "Lurure"
+	dynasty = penloran
+	religion = "grevetican"
+	culture = arbundian
+	father = ARB_221
+	545.1.1 = {
+		birth = yes
+	}
+	568.1.1 = {
+		add_spouse = ARB_244
+	}
+	582.1.1 = {
+		death = yes
+	}
+}
+ARB_242 = {
+	name = "Arbael"
+	dynasty = eclair
+	religion = "grevetican"
+	culture = arbundian
+	father = ARB_222
+	532.1.1 = {
+		birth = yes
+	}
+	556.1.1 = {
+		add_spouse = ARB_233
+	}
+	573.1.1 = {
+		death = yes
+	}
+}
+ARB_243 = {
+	name = "Eclarand"
+	dynasty = eclair
+	religion = "grevetican"
+	culture = arbundian
+	father = ARB_222
+	535.1.1 = {
+		birth = yes
+	}
+	556.1.1 = {
+		add_spouse = ARB_267
+	}
+	576.1.1 = {
+		death = yes
+	}
+}
+ARB_244 = {
+	name = "Eulecta"
+	female = yes
+	dynasty = eclair
+	religion = "grevetican"
+	culture = arbundian
+	father = ARB_222
+	545.1.1 = {
+		birth = yes
+	}
+	568.1.1 = {
+		add_spouse = ARB_241
+	}
+}
+ARB_245 = {
+	name = "Oethund"
+	dynasty = abens
+	religion = "grevetican"
+	culture = arbundian
+	father = ARB_223
+	532.1.1 = {
+		birth = yes
+	}
+	556.1.1 = {
+		add_spouse = ARB_238
+	}
+	573.1.1 = {
+		death = yes
+	}
+}
+ARB_246 = {
+	name = "Ourun"
+	dynasty = abens
+	religion = "grevetican"
+	culture = arbundian
+	father = ARB_223
+	535.1.1 = {
+		birth = yes
+	}
+	556.1.1 = {
+		add_spouse = ARB_240
+	}
+	573.1.1 = {
+		death = yes
+	}
+}
+ARB_247 = {
+	name = "Ouretha"
+	female = yes
+	dynasty = abens
+	religion = "grevetican"
+	culture = arbundian
+	father = ARB_223
+	538.1.1 = {
+		birth = yes
+	}
+	556.1.1 = {
+		add_spouse = ARB_235
+	}
+}
+ARB_248 = {
+	name = "Tebulle"
+	female = yes
+	dynasty = erevaire
+	religion = "grevetican"
+	culture = arbundian
+	father = ARB_224
+	532.1.1 = {
+		birth = yes
+	}
+	556.1.1 = {
+		add_spouse = ARB_230
+	}
+}
+ARB_249 = {
+	name = "Danund"
+	dynasty = erevaire
+	religion = "grevetican"
+	culture = arbundian
+	father = ARB_224
+	535.1.1 = {
+		birth = yes
+	}
+	556.1.1 = {
+		add_spouse = ARB_254
+	}
+	572.1.1 = {
+		death = yes
+	}
+}
+ARB_250 = {
+	name = "Meburr"
+	dynasty = erevaire
+	religion = "grevetican"
+	culture = arbundian
+	father = ARB_224
+	538.1.1 = {
+		birth = yes
+	}
+	556.1.1 = {
+		add_spouse = ARB_266
+	}
+	578.1.1 = {
+		death = yes
+	}
+}
+ARB_251 = {
+	name = "Jonure"
+	dynasty = euryde
+	religion = "grevetican"
+	culture = arbundian
+	father = ARB_225
+	532.1.1 = {
+		birth = yes
+	}
+	556.1.1 = {
+		add_spouse = ARB_260
+	}
+	581.1.1 = {
+		death = yes
+	}
+}
+ARB_252 = {
+	name = "Colfenra"
+	female = yes
+	dynasty = euryde
+	religion = "grevetican"
+	culture = arbundian
+	father = ARB_225
+	535.1.1 = {
+		birth = yes
+	}
+	556.1.1 = {
+		add_spouse = ARB_237
+	}
+}
+ARB_253 = {
+	name = "Eurys"
+	female = yes
+	dynasty = euryde
+	religion = "grevetican"
+	culture = arbundian
+	father = ARB_225
+	538.1.1 = {
+		birth = yes
+	}
+	556.1.1 = {
+		add_spouse = ARB_232
+	}
+}
+ARB_254 = {
+	name = "Cartraed"
+	female = yes
+	dynasty = lorel
+	religion = "grevetican"
+	culture = arbundian
+	father = ARB_226
+	532.1.1 = {
+		birth = yes
+	}
+	556.1.1 = {
+		add_spouse = ARB_249
+	}
+}
+ARB_255 = {
+	name = "Linect"
+	dynasty = lorel
+	religion = "grevetican"
+	culture = arbundian
+	father = ARB_226
+	535.1.1 = {
+		birth = yes
+	}
+	556.1.1 = {
+		add_spouse = ARB_234
+	}
+}
+ARB_256 = {
+	name = "Arwes"
+	female = yes
+	dynasty = lorel
+	religion = "grevetican"
+	culture = arbundian
+	father = ARB_226
+	538.1.1 = {
+		birth = yes
+	}
+	556.1.1 = {
+		add_spouse = ARB_262
+	}
+}
+ARB_257 = {
+	name = "Ginect"
+	dynasty = wilde
+	religion = "grevetican"
+	culture = arbundian
+	father = ARB_227
+	532.1.1 = {
+		birth = yes
+	}
+	556.1.1 = {
+		add_spouse = ARB_236
+	}
+}
+ARB_258 = {
+	name = "Branella"
+	female = yes
+	dynasty = wilde
+	religion = "grevetican"
+	culture = arbundian
+	father = ARB_227
+	535.1.1 = {
+		birth = yes
+	}
+	556.1.1 = {
+		add_spouse = ARB_261
+	}
+}
+ARB_259 = {
+	name = "Wilderan"
+	dynasty = wilde
+	religion = "grevetican"
+	culture = arbundian
+	father = ARB_227
+	538.1.1 = {
+		birth = yes
+	}
+	556.1.1 = {
+		add_spouse = ARB_265
+	}
+	585.1.1 = {
+		death = yes
+	}
+}
+ARB_260 = {
+	name = "Vonure"
+	female = yes
+	dynasty = loxtris
+	religion = "grevetican"
+	culture = arbundian
+	father = ARB_228
+	532.1.1 = {
+		birth = yes
+	}
+	556.1.1 = {
+		add_spouse = ARB_251
+	}
+}
+ARB_261 = {
+	name = "Anderan"
+	dynasty = loxtris
+	religion = "grevetican"
+	culture = arbundian
+	father = ARB_228
+	535.1.1 = {
+		birth = yes
+	}
+	556.1.1 = {
+		add_spouse = ARB_258
+	}
+	579.1.1 = {
+		death = yes
+	}
+}
+ARB_262 = {
+	name = "Loxtred"
+	dynasty = loxtris
+	religion = "grevetican"
+	culture = arbundian
+	father = ARB_228
+	538.1.1 = {
+		birth = yes
+	}
+	556.1.1 = {
+		add_spouse = ARB_256
+	}
+	581.1.1 = {
+		death = yes
+	}
+}
+ARB_263 = {
+	name = "Heuert"
+	dynasty = heurwald
+	religion = "grevetican"
+	culture = arbundian
+	father = ARB_229
+	532.1.1 = {
+		birth = yes
+	}
+	556.1.1 = {
+		add_spouse = ARB_239
+	}
+	574.1.1 = {
+		death = yes
+	}
+}
+ARB_264 = {
+	name = "Waltheran"
+	dynasty = heurwald
+	religion = "grevetican"
+	culture = arbundian
+	father = ARB_229
+	535.1.1 = {
+		birth = yes
+	}
+	556.1.1 = {
+		add_spouse = ARB_231
+	}
+	584.1.1 = {
+		death = yes
+	}
+}
+ARB_265 = {
+	name = "Heurwala"
+	female = yes
+	dynasty = heurwald
+	religion = "grevetican"
+	culture = arbundian
+	father = ARB_229
+	538.1.1 = {
+		birth = yes
+	}
+	556.1.1 = {
+		add_spouse = ARB_259
+	}
+}
+ARB_266 = {
+	name = "Maebun"
+	female = yes
+	dynasty = eclair
+	religion = "grevetican"
+	culture = arbundian
+	father = ARB_222
+	536.1.1 = {
+		birth = yes
+	}
+	556.1.1 = {
+		add_spouse = ARB_250
+	}
+}
+ARB_267 = {
+	name = "Artrell"
+	female = yes
+	dynasty = erevaire
+	religion = "grevetican"
+	culture = arbundian
+	father = ARB_224
+	536.1.1 = {
+		birth = yes
+	}
+	556.1.1 = {
+		add_spouse = ARB_243
+	}
+}
+ARB_268 = {
+	name = "Lurana"
+	female = yes
+	dynasty = penloran
+	religion = "grevetican"
+	culture = arbundian
+	father = ARB_241
+	mother = ARB_244
+	569.1.1 = {
+		birth = yes
+	}
+	587.1.1 = {
+		add_matrilineal_spouse = 274
+	}
+}
+ARB_269 = {
+	name = "Fenrae"
+	female = yes
+	dynasty = penloran
+	religion = "grevetican"
+	culture = arbundian
+	father = ARB_241
+	mother = ARB_244
+	571.1.1 = {
+		birth = yes
+	}
+}
+ARB_270 = {
+	name = "Heuert"
+	dynasty = heurwald
+	religion = "grevetican"
+	culture = arbundian
+	father = ARB_263
+	mother = ARB_239
+	557.1.1 = {
+		birth = yes
+	}
+	578.1.1 = {
+		add_spouse = ARB_299
+	}
+	585.1.1 = {
+		death = yes
+	}
+}
+ARB_271 = {
+	name = "Folesse"
+	female = yes
+	dynasty = heurwald
+	religion = "grevetican"
+	culture = arbundian
+	father = ARB_263
+	mother = ARB_239
+	559.1.1 = {
+		birth = yes
+	}
+	581.1.1 = {
+		add_spouse = ARB_318
+	}
+}
+ARB_272 = {
+	name = "Carwe"
+	female = yes
+	dynasty = heurwald
+	religion = "grevetican"
+	culture = arbundian
+	father = ARB_263
+	mother = ARB_239
+	561.1.1 = {
+		birth = yes
+	}
+	582.1.1 = {
+		add_spouse = ARB_290
+	}
+}
+ARB_273 = {
+	name = "Pinect"
+	dynasty = heurwald
+	religion = "grevetican"
+	culture = arbundian
+	father = ARB_263
+	mother = ARB_239
+	563.1.1 = {
+		birth = yes
+	}
+	579.1.1 = {
+		add_spouse = ARB_314
+	}
+}
+ARB_274 = {
+	name = "Mardoct"
+	dynasty = heurwald
+	religion = "grevetican"
+	culture = arbundian
+	trait = bastard
+	father = ARB_263
+	566.1.1 = {
+		birth = yes
+	}
+}
+ARB_275 = {
+	name = "Keroll"
+	female = yes
+	dynasty = heurwald
+	religion = "grevetican"
+	culture = arbundian
+	father = ARB_264
+	mother = ARB_231
+	557.1.1 = {
+		birth = yes
+	}
+	581.1.1 = {
+		add_spouse = ARB_311
+	}
+}
+ARB_276 = {
+	name = "Waltheran"
+	dynasty = heurwald
+	religion = "grevetican"
+	culture = arbundian
+	father = ARB_264
+	mother = ARB_231
+	559.1.1 = {
+		birth = yes
+	}
+	582.1.1 = {
+		add_spouse = ARB_321
+	}
+}
+ARB_277 = {
+	name = "Artred"
+	dynasty = heurwald
+	religion = "grevetican"
+	culture = arbundian
+	father = ARB_264
+	mother = ARB_231
+	561.1.1 = {
+		birth = yes
+	}
+	578.1.1 = {
+		add_spouse = ARB_331
+	}
+}
+ARB_278 = {
+	name = "Mardoct"
+	dynasty = thrisby
+	religion = "grevetican"
+	culture = arbundian
+	father = ARB_230
+	mother = ARB_248
+	557.1.1 = {
+		birth = yes
+	}
+	580.1.1 = {
+		add_spouse = ARB_288
+	}
+}
+ARB_279 = {
+	name = "Ablund"
+	dynasty = thrisby
+	religion = "grevetican"
+	culture = arbundian
+	father = ARB_230
+	mother = ARB_248
+	559.1.1 = {
+		birth = yes
+	}
+	579.1.1 = {
+		add_spouse = ARB_295
+	}
+}
+ARB_280 = {
+	name = "Uorecta"
+	female = yes
+	dynasty = thrisby
+	religion = "grevetican"
+	culture = arbundian
+	father = ARB_230
+	mother = ARB_248
+	561.1.1 = {
+		birth = yes
+	}
+	581.1.1 = {
+		add_spouse = ARB_291
+	}
+}
+ARB_281 = {
+	name = "Henral"
+	dynasty = thrisby
+	religion = "grevetican"
+	culture = arbundian
+	father = ARB_232
+	mother = ARB_253
+	557.1.1 = {
+		birth = yes
+	}
+	582.1.1 = {
+		add_spouse = ARB_304
+	}
+}
+ARB_282 = {
+	name = "Ableda"
+	female = yes
+	dynasty = thrisby
+	religion = "grevetican"
+	culture = arbundian
+	father = ARB_232
+	mother = ARB_253
+	559.1.1 = {
+		birth = yes
+	}
+	579.1.1 = {
+		add_spouse = ARB_313
+	}
+}
+ARB_283 = {
+	name = "Teruth"
+	dynasty = thrisby
+	religion = "grevetican"
+	culture = arbundian
+	father = ARB_232
+	mother = ARB_253
+	561.1.1 = {
+		birth = yes
+	}
+	581.1.1 = {
+		add_spouse = ARB_328
+	}
+}
+ARB_284 = {
+	name = "Lurure"
+	dynasty = erroling
+	religion = "grevetican"
+	culture = arbundian
+	father = ARB_235
+	mother = ARB_247
+	557.1.1 = {
+		birth = yes
+	}
+	579.1.1 = {
+		add_spouse = ARB_301
+	}
+}
+ARB_285 = {
+	name = "Heoll"
+	female = yes
+	dynasty = erroling
+	religion = "grevetican"
+	culture = arbundian
+	father = ARB_235
+	mother = ARB_247
+	559.1.1 = {
+		birth = yes
+	}
+	579.1.1 = {
+		add_spouse = ARB_297
+	}
+}
+ARB_286 = {
+	name = "Ablund"
+	dynasty = erroling
+	religion = "grevetican"
+	culture = arbundian
+	father = ARB_235
+	mother = ARB_247
+	561.1.1 = {
+		birth = yes
+	}
+	582.1.1 = {
+		add_spouse = ARB_317
+	}
+}
+ARB_287 = {
+	name = "Ferine"
+	female = yes
+	dynasty = erroling
+	religion = "grevetican"
+	culture = arbundian
+	father = ARB_235
+	mother = ARB_247
+	563.1.1 = {
+		birth = yes
+	}
+}
+ARB_288 = {
+	name = "Dethette"
+	female = yes
+	dynasty = souby
+	religion = "grevetican"
+	culture = arbundian
+	father = ARB_237
+	mother = ARB_252
+	557.1.1 = {
+		birth = yes
+	}
+	580.1.1 = {
+		add_spouse = ARB_278
+	}
+}
+ARB_289 = {
+	name = "Sambar"
+	dynasty = souby
+	religion = "grevetican"
+	culture = arbundian
+	father = ARB_237
+	mother = ARB_252
+	559.1.1 = {
+		birth = yes
+	}
+	580.1.1 = {
+		add_spouse = ARB_292
+	}
+}
+ARB_290 = {
+	name = "Jacure"
+	dynasty = souby
+	religion = "grevetican"
+	culture = arbundian
+	father = ARB_237
+	mother = ARB_252
+	561.1.1 = {
+		birth = yes
+	}
+	582.1.1 = {
+		add_spouse = ARB_272
+	}
+}
+ARB_291 = {
+	name = "Teruth"
+	dynasty = eclair
+	religion = "grevetican"
+	culture = arbundian
+	father = ARB_242
+	mother = ARB_233
+	557.1.1 = {
+		birth = yes
+	}
+	581.1.1 = {
+		add_spouse = ARB_280
+	}
+}
+ARB_292 = {
+	name = "Eclara"
+	female = yes
+	dynasty = eclair
+	religion = "grevetican"
+	culture = arbundian
+	father = ARB_242
+	mother = ARB_233
+	559.1.1 = {
+		birth = yes
+	}
+	580.1.1 = {
+		add_spouse = ARB_289
+	}
+}
+ARB_293 = {
+	name = "Terune"
+	female = yes
+	dynasty = eclair
+	religion = "grevetican"
+	culture = arbundian
+	father = ARB_242
+	mother = ARB_233
+	561.1.1 = {
+		birth = yes
+	}
+	582.1.1 = {
+		add_spouse = ARB_306
+	}
+}
+ARB_294 = {
+	name = "Eclarand"
+	dynasty = eclair
+	religion = "grevetican"
+	culture = arbundian
+	father = ARB_243
+	mother = ARB_267
+	557.1.1 = {
+		birth = yes
+	}
+	583.1.1 = {
+		add_spouse = ARB_326
+	}
+}
+ARB_295 = {
+	name = "Kenesse"
+	female = yes
+	dynasty = eclair
+	religion = "grevetican"
+	culture = arbundian
+	father = ARB_243
+	mother = ARB_267
+	559.1.1 = {
+		birth = yes
+	}
+	579.1.1 = {
+		add_spouse = ARB_279
+	}
+}
+ARB_296 = {
+	name = "Bunled"
+	dynasty = eclair
+	religion = "grevetican"
+	culture = arbundian
+	father = ARB_243
+	mother = ARB_267
+	561.1.1 = {
+		birth = yes
+	}
+	580.1.1 = {
+		add_spouse = ARB_310
+	}
+}
+ARB_297 = {
+	name = "Oethund"
+	dynasty = abens
+	religion = "grevetican"
+	culture = arbundian
+	martial = 7
+	diplomacy = 7
+	trait = ambitious
+	trait = education_martial_3
+	trait = physique_good_2
+	trait = forder
+	father = ARB_245
+	mother = ARB_238
+	557.1.1 = {
+		birth = yes
+	}
+	579.1.1 = {
+		add_spouse = ARB_285
+	}
+	587.1.1 = {
+		effect = {
+			# Event troops
+			spawn_army = {
+				name = tairmorcraig_host
+				levies = 1500
+				men_at_arms = {
+					type = arbundian_cavalry
+					stacks = 4
+				}
+				men_at_arms = {
+					type = light_footmen
+					stacks = 4
+				}
+				men_at_arms = {
+					type = onager
+					stacks = 4
+				}
+
+				location = province:112
+				origin = province:112
+				inheritable = no
+			}
+		}
+	}
+}
+ARB_298 = {
+	name = "Arde"
+	dynasty = abens
+	religion = "grevetican"
+	culture = arbundian
+	father = ARB_245
+	mother = ARB_238
+	559.1.1 = {
+		birth = yes
+	}
+	581.1.1 = {
+		add_spouse = ARB_312
+	}
+}
+ARB_299 = {
+	name = "Fanun"
+	female = yes
+	dynasty = abens
+	religion = "grevetican"
+	culture = arbundian
+	father = ARB_245
+	mother = ARB_238
+	561.1.1 = {
+		birth = yes
+	}
+	578.1.1 = {
+		add_spouse = ARB_270
+	}
+}
+ARB_300 = {
+	name = "Terwen"
+	female = yes
+	dynasty = abens
+	religion = "grevetican"
+	culture = arbundian
+	father = ARB_245
+	mother = ARB_238
+	563.1.1 = {
+		birth = yes
+	}
+	583.1.1 = {
+		add_spouse = ARB_325
+	}
+}
+ARB_301 = {
+	name = "Korune"
+	female = yes
+	dynasty = abens
+	religion = "grevetican"
+	culture = arbundian
+	father = ARB_246
+	mother = ARB_240
+	557.1.1 = {
+		birth = yes
+	}
+	579.1.1 = {
+		add_spouse = ARB_284
+	}
+}
+ARB_302 = {
+	name = "Ourella"
+	female = yes
+	dynasty = abens
+	religion = "grevetican"
+	culture = arbundian
+	father = ARB_246
+	mother = ARB_240
+	559.1.1 = {
+		birth = yes
+	}
+	579.1.1 = {
+		add_spouse = ARB_305
+	}
+}
+ARB_303 = {
+	name = "Ablund"
+	dynasty = abens
+	religion = "grevetican"
+	culture = arbundian
+	father = ARB_246
+	mother = ARB_240
+	561.1.1 = {
+		birth = yes
+	}
+	582.1.1 = {
+		add_spouse = ARB_324
+	}
+}
+ARB_304 = {
+	name = "Gulra"
+	female = yes
+	dynasty = erevaire
+	religion = "grevetican"
+	culture = arbundian
+	father = ARB_249
+	mother = ARB_254
+	557.1.1 = {
+		birth = yes
+	}
+	582.1.1 = {
+		add_spouse = ARB_281
+	}
+}
+ARB_305 = {
+	name = "Carde"
+	dynasty = erevaire
+	religion = "grevetican"
+	culture = arbundian
+	father = ARB_249
+	mother = ARB_254
+	559.1.1 = {
+		birth = yes
+	}
+	579.1.1 = {
+		add_spouse = ARB_302
+	}
+}
+ARB_306 = {
+	name = "Meburl"
+	dynasty = erevaire
+	religion = "grevetican"
+	culture = arbundian
+	father = ARB_249
+	mother = ARB_254
+	561.1.1 = {
+		birth = yes
+	}
+	582.1.1 = {
+		add_spouse = ARB_293
+	}
+}
+ARB_307 = {
+	name = "Ronesse"
+	female = yes
+	dynasty = erevaire
+	religion = "grevetican"
+	culture = arbundian
+	father = ARB_249
+	mother = ARB_254
+	563.1.1 = {
+		birth = yes
+	}
+	582.1.1 = {
+		add_spouse = ARB_322
+	}
+}
+ARB_308 = {
+	name = "Meburr"
+	dynasty = erevaire
+	religion = "grevetican"
+	culture = arbundian
+	father = ARB_250
+	mother = ARB_266
+	557.1.1 = {
+		birth = yes
+	}
+	580.1.1 = {
+		add_spouse = ARB_323
+	}
+}
+ARB_309 = {
+	name = "Qera"
+	female = yes
+	dynasty = erevaire
+	religion = "grevetican"
+	culture = arbundian
+	father = ARB_250
+	mother = ARB_266
+	559.1.1 = {
+		birth = yes
+	}
+	580.1.1 = {
+		add_spouse = ARB_329
+	}
+}
+ARB_310 = {
+	name = "Sarbund"
+	female = yes
+	dynasty = erevaire
+	religion = "grevetican"
+	culture = arbundian
+	father = ARB_250
+	mother = ARB_266
+	561.1.1 = {
+		birth = yes
+	}
+	580.1.1 = {
+		add_spouse = ARB_296
+	}
+}
+ARB_311 = {
+	name = "Vonren"
+	dynasty = euryde
+	religion = "grevetican"
+	culture = arbundian
+	father = ARB_251
+	mother = ARB_260
+	557.1.1 = {
+		birth = yes
+	}
+	581.1.1 = {
+		add_spouse = ARB_275
+	}
+}
+ARB_312 = {
+	name = "Janreya"
+	female = yes
+	dynasty = euryde
+	religion = "grevetican"
+	culture = arbundian
+	father = ARB_251
+	mother = ARB_260
+	559.1.1 = {
+		birth = yes
+	}
+	581.1.1 = {
+		add_spouse = ARB_298
+	}
+}
+ARB_313 = {
+	name = "Colfen"
+	dynasty = euryde
+	religion = "grevetican"
+	culture = arbundian
+	father = ARB_251
+	mother = ARB_260
+	561.1.1 = {
+		birth = yes
+	}
+	579.1.1 = {
+		add_spouse = ARB_282
+	}
+}
+ARB_314 = {
+	name = "Arbine"
+	female = yes
+	dynasty = euryde
+	religion = "grevetican"
+	culture = arbundian
+	father = ARB_251
+	mother = ARB_260
+	563.1.1 = {
+		birth = yes
+	}
+	579.1.1 = {
+		add_spouse = ARB_273
+	}
+}
+ARB_315 = {
+	name = "Linect"
+	dynasty = lorel
+	religion = "grevetican"
+	culture = arbundian
+	father = ARB_255
+	mother = ARB_234
+	557.1.1 = {
+		birth = yes
+	}
+	583.1.1 = {
+		add_spouse = ARB_319
+	}
+}
+ARB_316 = {
+	name = "Lincet"
+	dynasty = lorel
+	religion = "grevetican"
+	culture = arbundian
+	father = ARB_255
+	mother = ARB_234
+	559.1.1 = {
+		birth = yes
+	}
+	581.1.1 = {
+		add_spouse = ARB_330
+	}
+}
+ARB_317 = {
+	name = "Rethera"
+	female = yes
+	dynasty = lorel
+	religion = "grevetican"
+	culture = arbundian
+	father = ARB_255
+	mother = ARB_234
+	561.1.1 = {
+		birth = yes
+	}
+	582.1.1 = {
+		add_spouse = ARB_286
+	}
+}
+ARB_318 = {
+	name = "Ginect"
+	dynasty = wilde
+	religion = "grevetican"
+	culture = arbundian
+	father = ARB_257
+	mother = ARB_236
+	557.1.1 = {
+		birth = yes
+	}
+	581.1.1 = {
+		add_spouse = ARB_271
+	}
+}
+ARB_319 = {
+	name = "Wildera"
+	female = yes
+	dynasty = wilde
+	religion = "grevetican"
+	culture = arbundian
+	father = ARB_257
+	mother = ARB_236
+	559.1.1 = {
+		birth = yes
+	}
+	583.1.1 = {
+		add_spouse = ARB_315
+	}
+}
+ARB_320 = {
+	name = "Sarwen"
+	female = yes
+	dynasty = wilde
+	religion = "grevetican"
+	culture = arbundian
+	father = ARB_257
+	mother = ARB_236
+	561.1.1 = {
+		birth = yes
+	}
+	583.1.1 = {
+		add_spouse = ARB_327
+	}
+}
+ARB_321 = {
+	name = "Porun"
+	female = yes
+	dynasty = wilde
+	religion = "grevetican"
+	culture = arbundian
+	father = ARB_257
+	mother = ARB_236
+	563.1.1 = {
+		birth = yes
+	}
+	582.1.1 = {
+		add_spouse = ARB_276
+	}
+}
+ARB_322 = {
+	name = "Wilderan"
+	dynasty = wilde
+	religion = "grevetican"
+	culture = arbundian
+	father = ARB_259
+	mother = ARB_265
+	557.1.1 = {
+		birth = yes
+	}
+	582.1.1 = {
+		add_spouse = ARB_307
+	}
+}
+ARB_323 = {
+	name = "Eclara"
+	female = yes
+	dynasty = wilde
+	religion = "grevetican"
+	culture = arbundian
+	father = ARB_259
+	mother = ARB_265
+	559.1.1 = {
+		birth = yes
+	}
+	580.1.1 = {
+		add_spouse = ARB_308
+	}
+}
+ARB_324 = {
+	name = "Arwest"
+	female = yes
+	dynasty = wilde
+	religion = "grevetican"
+	culture = arbundian
+	father = ARB_259
+	mother = ARB_265
+	561.1.1 = {
+		birth = yes
+	}
+	582.1.1 = {
+		add_spouse = ARB_303
+	}
+}
+ARB_325 = {
+	name = "Andren"
+	dynasty = wilde
+	religion = "grevetican"
+	culture = arbundian
+	father = ARB_259
+	mother = ARB_265
+	563.1.1 = {
+		birth = yes
+	}
+	583.1.1 = {
+		add_spouse = ARB_300
+	}
+}
+ARB_326 = {
+	name = "Andera"
+	female = yes
+	dynasty = loxtris
+	religion = "grevetican"
+	culture = arbundian
+	father = ARB_261
+	mother = ARB_258
+	557.1.1 = {
+		birth = yes
+	}
+	583.1.1 = {
+		add_spouse = ARB_294
+	}
+}
+ARB_327 = {
+	name = "Anderan"
+	dynasty = loxtris
+	religion = "grevetican"
+	culture = arbundian
+	father = ARB_261
+	mother = ARB_258
+	559.1.1 = {
+		birth = yes
+	}
+	583.1.1 = {
+		add_spouse = ARB_320
+	}
+}
+ARB_328 = {
+	name = "Hulra"
+	female = yes
+	dynasty = loxtris
+	religion = "grevetican"
+	culture = arbundian
+	father = ARB_261
+	mother = ARB_258
+	561.1.1 = {
+		birth = yes
+	}
+	581.1.1 = {
+		add_spouse = ARB_283
+	}
+}
+ARB_329 = {
+	name = "Loxtred"
+	dynasty = loxtris
+	religion = "grevetican"
+	culture = arbundian
+	father = ARB_262
+	mother = ARB_256
+	557.1.1 = {
+		birth = yes
+	}
+	580.1.1 = {
+		add_spouse = ARB_309
+	}
+}
+ARB_330 = {
+	name = "Gerolta"
+	female = yes
+	dynasty = loxtris
+	religion = "grevetican"
+	culture = arbundian
+	father = ARB_262
+	mother = ARB_256
+	559.1.1 = {
+		birth = yes
+	}
+	581.1.1 = {
+		add_spouse = ARB_316
+	}
+}
+ARB_331 = {
+	name = "Oinra"
+	female = yes
+	dynasty = loxtris
+	religion = "grevetican"
+	culture = arbundian
+	father = ARB_262
+	mother = ARB_256
+	561.1.1 = {
+		birth = yes
+	}
+	578.1.1 = {
+		add_spouse = ARB_277
+	}
+}
+ARB_331b = {
+	name = "Marcolle"
+	female = yes
+	dynasty = loxtris
+	religion = "grevetican"
+	culture = arbundian
+	trait = education_learning_4
+	trait = chaste
+	trait = generous
+	trait = just
+	trait = grevetican_devoted
+	father = ARB_262
+	mother = ARB_256
+	563.1.1 = {
+		birth = yes
+	}
+}
+ARB_332 = {
+	name = "Hertia"
+	female = yes
+	dynasty = heurwald
+	religion = "grevetican"
+	culture = arbundian
+	father = ARB_270
+	mother = ARB_299
+	579.1.1 = {
+		birth = yes
+	}
+}
+ARB_333 = {
+	name = "Ablund"
+	dynasty = thrisby
+	religion = "grevetican"
+	culture = arbundian
+	father = ARB_278
+	mother = ARB_288
+	581.1.1 = {
+		birth = yes
+	}
+}
+ARB_334 = {
+	name = "Marcolle"
+	female = yes
+	dynasty = thrisby
+	religion = "grevetican"
+	culture = arbundian
+	father = ARB_278
+	mother = ARB_288
+	585.1.1 = {
+		birth = yes
+	}
+}
+ARB_335 = {
+	name = "Eeine"
+	female = yes
+	dynasty = thrisby
+	religion = "grevetican"
+	culture = arbundian
+	father = ARB_279
+	mother = ARB_295
+	580.1.1 = {
+		birth = yes
+	}
+}
+ARB_336 = {
+	name = "Teruth"
+	dynasty = thrisby
+	religion = "grevetican"
+	culture = arbundian
+	father = ARB_279
+	mother = ARB_295
+	584.1.1 = {
+		birth = yes
+	}
+}
+ARB_337 = {
+	name = "Afenra"
+	female = yes
+	dynasty = thrisby
+	religion = "grevetican"
+	culture = arbundian
+	father = ARB_281
+	mother = ARB_304
+	583.1.1 = {
+		birth = yes
+	}
+}
+ARB_338 = {
+	name = "Teruth"
+	dynasty = thrisby
+	religion = "grevetican"
+	culture = arbundian
+	father = ARB_283
+	mother = ARB_328
+	582.1.1 = {
+		birth = yes
+	}
+}
+ARB_339 = {
+	name = "Herun"
+	dynasty = thrisby
+	religion = "grevetican"
+	culture = arbundian
+	father = ARB_283
+	mother = ARB_328
+	586.1.1 = {
+		birth = yes
+	}
+}
+ARB_340 = {
+	name = "Berand"
+	dynasty = erroling
+	religion = "grevetican"
+	culture = arbundian
+	father = ARB_284
+	mother = ARB_301
+	580.1.1 = {
+		birth = yes
+	}
+}
+ARB_341 = {
+	name = "Ourella"
+	female = yes
+	dynasty = erroling
+	religion = "grevetican"
+	culture = arbundian
+	father = ARB_284
+	mother = ARB_301
+	584.1.1 = {
+		birth = yes
+	}
+}
+ARB_342 = {
+	name = "Ablund"
+	dynasty = erroling
+	religion = "grevetican"
+	culture = arbundian
+	father = ARB_284
+	mother = ARB_301
+	586.1.1 = {
+		birth = yes
+	}
+}
+ARB_343 = {
+	name = "Ablund"
+	dynasty = erroling
+	religion = "grevetican"
+	culture = arbundian
+	father = ARB_286
+	mother = ARB_317
+	583.1.1 = {
+		birth = yes
+	}
+}
+ARB_344 = {
+	name = "Lurana"
+	female = yes
+	dynasty = souby
+	religion = "grevetican"
+	culture = arbundian
+	father = ARB_289
+	mother = ARB_292
+	581.1.1 = {
+		birth = yes
+	}
+}
+ARB_345 = {
+	name = "Sarbel"
+	female = yes
+	dynasty = souby
+	religion = "grevetican"
+	culture = arbundian
+	father = ARB_290
+	mother = ARB_272
+	583.1.1 = {
+		birth = yes
+	}
+}
+ARB_346 = {
+	name = "Korune"
+	female = yes
+	dynasty = eclair
+	religion = "grevetican"
+	culture = arbundian
+	father = ARB_291
+	mother = ARB_280
+	582.1.1 = {
+		birth = yes
+	}
+}
+ARB_347 = {
+	name = "Teruth"
+	dynasty = eclair
+	religion = "grevetican"
+	culture = arbundian
+	father = ARB_291
+	mother = ARB_280
+	584.1.1 = {
+		birth = yes
+	}
+}
+ARB_348 = {
+	name = "Carwe"
+	female = yes
+	dynasty = eclair
+	religion = "grevetican"
+	culture = arbundian
+	father = ARB_291
+	mother = ARB_280
+	586.1.1 = {
+		birth = yes
+	}
+}
+ARB_349 = {
+	name = "Fanra"
+	dynasty = eclair
+	religion = "grevetican"
+	culture = arbundian
+	father = ARB_294
+	mother = ARB_326
+	584.1.1 = {
+		birth = yes
+	}
+}
+ARB_350 = {
+	name = "Colfen"
+	dynasty = eclair
+	religion = "grevetican"
+	culture = arbundian
+	father = ARB_296
+	mother = ARB_310
+	581.1.1 = {
+		birth = yes
+	}
+}
+ARB_351 = {
+	name = "Gerra"
+	female = yes
+	dynasty = eclair
+	religion = "grevetican"
+	culture = arbundian
+	father = ARB_296
+	mother = ARB_310
+	585.1.1 = {
+		birth = yes
+	}
+}
+ARB_352 = {
+	name = "Dolcoth"
+	dynasty = abens
+	religion = "grevetican"
+	culture = arbundian
+	father = ARB_297
+	mother = ARB_285
+	580.1.1 = {
+		birth = yes
+	}
+}
+ARB_353 = {
+	name = "Yurolt"
+	female = yes
+	dynasty = abens
+	religion = "grevetican"
+	culture = arbundian
+	father = ARB_297
+	mother = ARB_285
+	583.1.1 = {
+		birth = yes
+	}
+}
+ARB_354 = {
+	name = "Juresse"
+	female = yes
+	dynasty = abens
+	religion = "grevetican"
+	culture = arbundian
+	father = ARB_297
+	mother = ARB_285
+	585.1.1 = {
+		birth = yes
+	}
+}
+ARB_355 = {
+	name = "Janreya"
+	female = yes
+	dynasty = abens
+	religion = "grevetican"
+	culture = arbundian
+	father = ARB_298
+	mother = ARB_312
+	582.1.1 = {
+		birth = yes
+	}
+}
+ARB_356 = {
+	name = "Vonren"
+	dynasty = abens
+	religion = "grevetican"
+	culture = arbundian
+	father = ARB_298
+	mother = ARB_312
+	585.1.1 = {
+		birth = yes
+	}
+}
+ARB_357 = {
+	name = "Artraed"
+	female = yes
+	dynasty = abens
+	religion = "grevetican"
+	culture = arbundian
+	father = ARB_298
+	mother = ARB_312
+	587.1.1 = {
+		birth = yes
+	}
+}
+ARB_358 = {
+	name = "Ablund"
+	dynasty = abens
+	religion = "grevetican"
+	culture = arbundian
+	father = ARB_303
+	mother = ARB_324
+	583.1.1 = {
+		birth = yes
+	}
+}
+ARB_359 = {
+	name = "Branella"
+	female = yes
+	dynasty = abens
+	religion = "grevetican"
+	culture = arbundian
+	father = ARB_303
+	mother = ARB_324
+	586.1.1 = {
+		birth = yes
+	}
+}
+ARB_360 = {
+	name = "Carde"
+	dynasty = erevaire
+	religion = "grevetican"
+	culture = arbundian
+	father = ARB_305
+	mother = ARB_302
+	580.1.1 = {
+		birth = yes
+	}
+}
+ARB_361 = {
+	name = "Fanun"
+	female = yes
+	dynasty = erevaire
+	religion = "grevetican"
+	culture = arbundian
+	father = ARB_305
+	mother = ARB_302
+	583.1.1 = {
+		birth = yes
+	}
+}
+ARB_362 = {
+	name = "Foline"
+	female = yes
+	dynasty = erevaire
+	religion = "grevetican"
+	culture = arbundian
+	father = ARB_305
+	mother = ARB_302
+	585.1.1 = {
+		birth = yes
+	}
+}
+ARB_363 = {
+	name = "Meburl"
+	dynasty = erevaire
+	religion = "grevetican"
+	culture = arbundian
+	father = ARB_306
+	mother = ARB_293
+	583.1.1 = {
+		birth = yes
+	}
+}
+ARB_364 = {
+	name = "Fenect"
+	dynasty = erevaire
+	religion = "grevetican"
+	culture = arbundian
+	father = ARB_306
+	mother = ARB_293
+	586.1.1 = {
+		birth = yes
+	}
+}
+ARB_365 = {
+	name = "Purund"
+	female = yes
+	dynasty = erevaire
+	religion = "grevetican"
+	culture = arbundian
+	father = ARB_308
+	mother = ARB_323
+	581.1.1 = {
+		birth = yes
+	}
+}
+ARB_366 = {
+	name = "Terilt"
+	dynasty = erevaire
+	religion = "grevetican"
+	culture = arbundian
+	father = ARB_308
+	mother = ARB_323
+	585.1.1 = {
+		birth = yes
+	}
+}
+ARB_367 = {
+	name = "Colfenra"
+	female = yes
+	dynasty = euryde
+	religion = "grevetican"
+	culture = arbundian
+	father = ARB_311
+	mother = ARB_275
+	582.1.1 = {
+		birth = yes
+	}
+}
+ARB_368 = {
+	name = "Vonren"
+	dynasty = euryde
+	religion = "grevetican"
+	culture = arbundian
+	father = ARB_311
+	mother = ARB_275
+	584.1.1 = {
+		birth = yes
+	}
+}
+ARB_369 = {
+	name = "Hanesse"
+	female = yes
+	dynasty = euryde
+	religion = "grevetican"
+	culture = arbundian
+	father = ARB_313
+	mother = ARB_282
+	580.1.1 = {
+		birth = yes
+	}
+}
+ARB_370 = {
+	name = "Korana"
+	female = yes
+	dynasty = euryde
+	religion = "grevetican"
+	culture = arbundian
+	father = ARB_313
+	mother = ARB_282
+	582.1.1 = {
+		birth = yes
+	}
+}
+ARB_371 = {
+	name = "Colfen"
+	dynasty = euryde
+	religion = "grevetican"
+	culture = arbundian
+	father = ARB_313
+	mother = ARB_282
+	584.1.1 = {
+		birth = yes
+	}
+}
+ARB_372 = {
+	name = "Tarbelle"
+	female = yes
+	dynasty = lorel
+	religion = "grevetican"
+	culture = arbundian
+	father = ARB_315
+	mother = ARB_319
+	584.1.1 = {
+		birth = yes
+	}
+}
+ARB_373 = {
+	name = "Talbend"
+	dynasty = lorel
+	religion = "grevetican"
+	culture = arbundian
+	father = ARB_315
+	mother = ARB_319
+	586.1.1 = {
+		birth = yes
+	}
+}
+ARB_374 = {
+	name = "Lincet"
+	dynasty = lorel
+	religion = "grevetican"
+	culture = arbundian
+	father = ARB_316
+	mother = ARB_330
+	582.1.1 = {
+		birth = yes
+	}
+}
+ARB_375 = {
+	name = "Gorure"
+	female = yes
+	dynasty = lorel
+	religion = "grevetican"
+	culture = arbundian
+	father = ARB_316
+	mother = ARB_330
+	585.1.1 = {
+		birth = yes
+	}
+}
+ARB_376 = {
+	name = "Foress"
+	female = yes
+	dynasty = lorel
+	religion = "grevetican"
+	culture = arbundian
+	father = ARB_316
+	mother = ARB_330
+	587.1.1 = {
+		birth = yes
+	}
+}
+ARB_377 = {
+	name = "Folesse"
+	female = yes
+	dynasty = wilde
+	religion = "grevetican"
+	culture = arbundian
+	father = ARB_318
+	mother = ARB_271
+	582.1.1 = {
+		birth = yes
+	}
+}
+ARB_378 = {
+	name = "Arblac"
+	dynasty = wilde
+	religion = "grevetican"
+	culture = arbundian
+	father = ARB_318
+	mother = ARB_271
+	585.1.1 = {
+		birth = yes
+	}
+}
+ARB_379 = {
+	name = "Brandol"
+	dynasty = wilde
+	religion = "grevetican"
+	culture = arbundian
+	father = ARB_318
+	mother = ARB_271
+	586.1.1 = {
+		birth = yes
+	}
+}
+ARB_380 = {
+	name = "Henral"
+	dynasty = wilde
+	religion = "grevetican"
+	culture = arbundian
+	father = ARB_322
+	mother = ARB_307
+	583.1.1 = {
+		birth = yes
+	}
+}
+ARB_381 = {
+	name = "Maebunes"
+	female = yes
+	dynasty = wilde
+	religion = "grevetican"
+	culture = arbundian
+	father = ARB_325
+	mother = ARB_300
+	584.1.1 = {
+		birth = yes
+	}
+}
+ARB_382 = {
+	name = "Andren"
+	dynasty = wilde
+	religion = "grevetican"
+	culture = arbundian
+	father = ARB_325
+	mother = ARB_300
+	586.1.1 = {
+		birth = yes
+	}
+}
+ARB_383 = {
+	name = "Ganran"
+	dynasty = loxtris
+	religion = "grevetican"
+	culture = arbundian
+	father = ARB_327
+	mother = ARB_320
+	584.1.1 = {
+		birth = yes
+	}
+}
+ARB_384 = {
+	name = "Sarwen"
+	female = yes
+	dynasty = loxtris
+	religion = "grevetican"
+	culture = arbundian
+	father = ARB_327
+	mother = ARB_320
+	585.1.1 = {
+		birth = yes
+	}
+}
+ARB_385 = {
+	name = "Marune"
+	female = yes
+	dynasty = loxtris
+	religion = "grevetican"
+	culture = arbundian
+	father = ARB_327
+	mother = ARB_320
+	586.1.1 = {
+		birth = yes
+	}
+}
+ARB_386 = {
+	name = "Ourun"
+	dynasty = loxtris
+	religion = "grevetican"
+	culture = arbundian
+	father = ARB_329
+	mother = ARB_309
+	581.1.1 = {
+		birth = yes
+	}
+}
+ARB_387 = {
+	name = "Carcelle"
+	female = yes
+	dynasty = loxtris
+	religion = "grevetican"
+	culture = arbundian
+	father = ARB_329
+	mother = ARB_309
+	585.1.1 = {
+		birth = yes
+	}
+}
+ARB_388 = {
+	name = "Nuresse"
+	female = yes
+	dynasty = heurwald
+	religion = "grevetican"
+	culture = arbundian
+	father = ARB_273
+	mother = ARB_314
+	580.1.1 = {
+		birth = yes
+	}
+}
+ARB_389 = {
+	name = "Wulun"
+	female = yes
+	dynasty = heurwald
+	religion = "grevetican"
+	culture = arbundian
+	father = ARB_273
+	mother = ARB_314
+	582.1.1 = {
+		birth = yes
+	}
+}
+ARB_390 = {
+	name = "Mebund"
+	dynasty = heurwald
+	religion = "grevetican"
+	culture = arbundian
+	father = ARB_273
+	mother = ARB_314
+	585.1.1 = {
+		birth = yes
+	}
+}
+ARB_391 = {
+	name = "Heuert"
+	dynasty = heurwald
+	religion = "grevetican"
+	culture = arbundian
+	father = ARB_276
+	mother = ARB_321
+	583.1.1 = {
+		birth = yes
+	}
+}
+ARB_392 = {
+	name = "Zethine"
+	female = yes
+	dynasty = heurwald
+	religion = "grevetican"
+	culture = arbundian
+	father = ARB_276
+	mother = ARB_321
+	586.1.1 = {
+		birth = yes
+	}
+}
+ARB_393 = {
+	name = "Oinra"
+	female = yes
+	dynasty = heurwald
+	religion = "grevetican"
+	culture = arbundian
+	father = ARB_277
+	mother = ARB_331
+	581.1.1 = {
+		birth = yes
+	}
+}
+ARB_394 = {
+	name = "Durecta"
+	female = yes
+	dynasty = heurwald
+	religion = "grevetican"
+	culture = arbundian
+	father = ARB_277
+	mother = ARB_331
+	583.1.1 = {
+		birth = yes
+	}
+}
+ARB_395 = {
+	name = "Artred"
+	dynasty = heurwald
+	religion = "grevetican"
+	culture = arbundian
+	father = ARB_277
+	mother = ARB_331
+	579.1.1 = {
+		birth = yes
+	}
+}
+ARB_396 = {
+	name = "Artred"
+	dynasty = 2
+	religion = "grevetican"
+	culture = arbundian
+	father = ARB_400
+	560.1.1 = {
+		birth = yes
+	}
+}
+ARB_397 = {
+	name = "Artred"
+	dynasty = 2
+	religion = "grevetican"
+	culture = arbundian
+	father = ARB_396
+	579.1.1 = {
+		birth = yes
+	}
+}
+ARB_398 = {
+	name = "Atreda"
+	female = yes
+	dynasty = 2
+	religion = "grevetican"
+	culture = arbundian
+	father = ARB_396
+	582.1.1 = {
+		birth = yes
+	}
+}
+ARB_399 = {
+	name = "Mardoct"
+	dynasty = 2
+	religion = "grevetican"
+	culture = arbundian
+	father = ARB_396
+	585.1.1 = {
+		birth = yes
+	}
+}
+ARB_400 = {
+	name = "Artred"
+	dynasty = 2
+	religion = "grevetican"
+	culture = arbundian
+	535.1.1 = {
+		birth = yes
+	}
+	577.1.1 = {
+		death = yes
+	}
+}
+ARB_401 = {
+	name = "Teruth"
+	dynasty = 2
+	religion = "grevetican"
+	culture = arbundian
+	father = ARB_400
+	564.1.1 = {
+		birth = yes
+	}
+}
+ARB_402 = {
+	name = "Arwes"
+	female = yes
+	dynasty = 2
+	religion = "grevetican"
+	culture = arbundian
+	father = ARB_401
+	582.1.1 = {
+		birth = yes
+	}
+}
+ARB_403 = {
+	name = "Ablund"
+	dynasty = 2
+	religion = "grevetican"
+	culture = arbundian
+	father = ARB_401
+	584.1.1 = {
+		birth = yes
+	}
+}
+ARB_404 = {
+	name = "Henral"
+	dynasty = 2
+	religion = "grevetican"
+	culture = arbundian
+	father = ARB_400
+	566.1.1 = {
+		birth = yes
+	}
+}
+arb_fem_001 = {
+	name = "Afenra"
+	female = yes
+	dynasty = souby
+	religion = "grevetican"
+	culture = arbundian
+	learning = 10
+	trait = grevetican_devoted
+	father = ARB_237
+	mother = ARB_252
+	569.1.1 = {
+		birth = yes
+	}
+	587.1.1 = {
+		employer = 331b  # Verris Marcolle
+	}
+}
+grev_fem_001 = {
+	name = "Gorure"
+	female = yes
+	religion = "grevetican"
+	culture = arbundian
+	learning = 11
+	trait = grevetican_devoted
+	trait = education_learning_4
+	trait = compassionate
+	568.1.1 = {
+		birth = yes
+	}
+}
+
+grev_fem_002 = {
+	name = "Jonolt"
+	female = yes
+	religion = "grevetican"
+	culture = arbundian
+	learning = 10
+	trait = grevetican_devoted
+	trait = education_learning_4
+	trait = generous
+	565.1.1 = {
+		birth = yes
+	}
+}
+
+grev_fem_003 = {
+	name = "Folesse"
+	female = yes
+	religion = "grevetican"
+	culture = arbundian
+	learning = 12
+	trait = grevetican_devoted
+	trait = education_learning_3
+	trait = temperate
+	567.1.1 = {
+		birth = yes
+	}
+}
+
+grev_fem_004 = {
+	name = "Tarbune"
+	female = yes
+	religion = "grevetican"
+	culture = arbundian
+	learning = 11
+	trait = grevetican_devoted
+	trait = education_learning_5
+	trait = content
+	570.1.1 = {
+		birth = yes
+	}
+}
+
+grev_fem_005 = {
+	name = "Ardolle"
+	female = yes
+	religion = "grevetican"
+	culture = arbundian
+	learning = 6
+	trait = grevetican_devoted
+	trait = education_learning_5
+	trait = honest
+	trait = generous
+	567.1.1 = {
+		birth = yes
+	}
+}
+
+grev_fem_006 = {
+	name = "Cartuse"
+	female = yes
+	religion = "grevetican"
+	culture = arbundian
+	learning = 9
+	trait = grevetican_devoted
+	trait = education_learning_5
+	trait = chaste
+	trait = zealous
+	565.1.1 = {
+		birth = yes
+	}
+}
+
+grev_fem_007 = {
+	name = "Branella"
+	female = yes
+	religion = "grevetican"
+	culture = arbundian
+	learning = 6
+	trait = grevetican_devoted
+	trait = education_learning_2
+	trait = calm
+	570.1.1 = {
+		birth = yes
+	}
+}
+
+grev_fem_008 = {
+	name = "Mardenne"
+	female = yes
+	religion = "grevetican"
+	culture = arbundian
+	learning = 6
+	trait = grevetican_devoted
+	trait = education_learning_2
+	trait = compassionate
+	570.1.1 = {
+		birth = yes
+	}
+}
+
+grev_fem_009 = {
+	name = "Saraed"
+	female = yes
+	religion = "grevetican"
+	culture = arbundian
+	learning = 10
+	trait = grevetican_devoted
+	trait = education_learning_2
+	trait = generous
+	565.1.1 = {
+		birth = yes
+	}
+}
+
+grev_fem_010 = {
+	name = "Benune"
+	female = yes
+	religion = "grevetican"
+	culture = arbundian
+	learning = 12
+	trait = grevetican_devoted
+	trait = education_learning_2
+	trait = diligent
+	568.1.1 = {
+		birth = yes
+	}
+}
+
+grev_fem_011 = {
+	name = "Heure"
+	female = yes
+	religion = "grevetican"
+	culture = arbundian
+	learning = 5
+	trait = grevetican_devoted
+	trait = education_learning_4
+	trait = compassionate
+	trait = calm
+	562.1.1 = {
+		birth = yes
+	}
+}
+
+grev_fem_012 = {
+	name = "Keroll"
+	female = yes
+	religion = "grevetican"
+	culture = arbundian
+	learning = 10
+	trait = grevetican_devoted
+	trait = education_learning_5
+	trait = zealous
+	trait = calm
+	563.1.1 = {
+		birth = yes
+	}
+}
+
+grev_fem_13 = {
+	name = "Marcolle"
+	female = yes
+	religion = "grevetican"
+	culture = arbundian
+	trait = education_learning_4
+	trait = chaste
+	trait = generous
+	trait = just
+	trait = grevetican_devoted
+	549.1.1 = {
+		birth = yes
+	}
+}
+
+grev_kni_1 = {
+	name = "Arduct"
+	religion = "grevetican"
+	culture = arbundian
+	trait = education_martial_4
+	trait = stubborn
+	trait = forder
+	prowess = 12
+	561.1.1 = {
+		birth = yes
+	}
+}
+
+grev_kni_2 = {
+	name = "Arben"
+	religion = "grevetican"
+	culture = arbundian
+	trait = education_martial_3
+	trait = just
+	trait = aggressive_attacker
+	prowess = 12
+	562.1.1 = {
+		birth = yes
+	}
+}
+
+grev_kni_3 = {
+	name = "Fulure"
+	religion = "grevetican"
+	culture = arbundian
+	trait = education_martial_2
+	trait = brave
+	trait = reckless
+	trait = lifestyle_blademaster
+	prowess = 8
+	557.1.1 = {
+		birth = yes
+	}
+}
+
+grev_kni_4 = {
+	name = "Fenra"
+	religion = "grevetican"
+	culture = arbundian
+	trait = education_martial_4
+	trait = just
+	trait = lifestyle_blademaster
+	prowess = 11
+	564.1.1 = {
+		birth = yes
+	}
+}
+
+grev_kni_5 = {
+	name = "Dolthar"
+	religion = "grevetican"
+	culture = arbundian
+	trait = education_martial_2
+	trait = chaste
+	trait = lifestyle_blademaster
+	prowess = 11
+	564.1.1 = {
+		birth = yes
+	}
+}
+
+grev_kni_6 = {
+	name = "Berund"
+	religion = "grevetican"
+	culture = arbundian
+	trait = education_martial_3
+	trait = stubborn
+	trait = unyielding_defender
+	prowess = 12
+	568.1.1 = {
+		birth = yes
+	}
+}
+
+grev_kni_7 = {
+	name = "Ardol"
+	religion = "grevetican"
+	culture = arbundian
+	trait = education_martial_2
+	trait = sadistic
+	trait = lifestyle_blademaster
+	prowess = 8
+	565.1.1 = {
+		birth = yes
+	}
+}
+
+grev_kni_8 = {
+	name = "Arden"
+	religion = "grevetican"
+	culture = arbundian
+	trait = education_martial_4
+	trait = honest
+	trait = lifestyle_blademaster
+	prowess = 10
+	556.1.1 = {
+		birth = yes
+	}
+}
+
+grev_kni_9 = {
+	name = "Marund"
+	religion = "grevetican"
+	culture = arbundian
+	trait = education_martial_3
+	trait = chaste
+	trait = lifestyle_blademaster
+	prowess = 9
+	562.1.1 = {
+		birth = yes
+	}
+}
+
+grev_kni_10 = {
+	name = "Arblac"
+	religion = "grevetican"
+	culture = arbundian
+	trait = education_martial_2
+	trait = sadistic
+	trait = lifestyle_blademaster
+	prowess = 10
+	563.1.1 = {
+		birth = yes
+	}
+}
+
+grev_kni_11 = {
+	name = "Arbin"
+	religion = "grevetican"
+	culture = arbundian
+	trait = education_martial_2
+	trait = stubborn
+	trait = logistician
+	prowess = 10
+	568.1.1 = {
+		birth = yes
+	}
+}
+
+grev_kni_12 = {
+	name = "Ardene"
+	religion = "grevetican"
+	culture = arbundian
+	trait = education_martial_4
+	trait = stubborn
+	trait = flexible_leader
+	trait = lifestyle_blademaster
+	prowess = 9
+	557.1.1 = {
+		birth = yes
+	}
+}
+
+grev_kni_13 = {
+	name = "Dolcon"
+	religion = "grevetican"
+	culture = arbundian
+	trait = education_martial_3
+	trait = just
+	trait = flexible_leader
+	prowess = 12
+	569.1.1 = {
+		birth = yes
+	}
+}
+
+grev_kni_14 = {
+	name = "Artred"
+	religion = "grevetican"
+	culture = arbundian
+	trait = education_martial_2
+	trait = stubborn
+	trait = unyielding_defender
+	prowess = 11
+	555.1.1 = {
+		birth = yes
+	}
+}
+
+grev_kni_15 = {
+	name = "Finine"
+	religion = "grevetican"
+	culture = arbundian
+	trait = education_martial_2
+	trait = honest
+	trait = reckless
+	trait = lifestyle_blademaster
+	prowess = 10
+	558.1.1 = {
+		birth = yes
+	}
+}
+
+grev_kni_16 = {
+	name = "Gerure"
+	religion = "grevetican"
+	culture = arbundian
+	trait = education_martial_2
+	trait = just
+	trait = flexible_leader
+	trait = lifestyle_blademaster
+	prowess = 8
+	556.1.1 = {
+		birth = yes
+	}
+}
+
+grev_kni_17 = {
+	name = "Arbael"
+	religion = "grevetican"
+	culture = arbundian
+	trait = education_martial_4
+	trait = chaste
+	trait = reckless
+	trait = lifestyle_blademaster
+	prowess = 8
+	567.1.1 = {
+		birth = yes
+	}
+}
+
+grev_kni_18 = {
+	name = "Furect"
+	religion = "grevetican"
+	culture = arbundian
+	trait = education_martial_4
+	trait = just
+	trait = lifestyle_blademaster
+	prowess = 9
+	565.1.1 = {
+		birth = yes
+	}
+}
+
+grev_kni_19 = {
+	name = "Ardest"
+	religion = "grevetican"
+	culture = arbundian
+	trait = education_martial_3
+	trait = stubborn
+	trait = aggressive_attacker
+	trait = lifestyle_blademaster
+	prowess = 10
+	563.1.1 = {
+		birth = yes
+	}
+}
+
+grev_kni_20 = {
+	name = "Horun"
+	religion = "grevetican"
+	culture = arbundian
+	trait = education_martial_4
+	trait = chaste
+	trait = lifestyle_blademaster
+	prowess = 9
+	569.1.1 = {
+		birth = yes
+	}
+}
+
+grev_kni_21 = {
+	name = "Hanoll"
+	religion = "grevetican"
+	culture = arbundian
+	trait = education_martial_4
+	trait = sadistic
+	trait = lifestyle_blademaster
+	prowess = 9
+	566.1.1 = {
+		birth = yes
+	}
+}
+
+grev_kni_22 = {
+	name = "Herure"
+	religion = "grevetican"
+	culture = arbundian
+	trait = education_martial_3
+	trait = chaste
+	trait = lifestyle_blademaster
+	prowess = 10
+	562.1.1 = {
+		birth = yes
+	}
+}
+
+grev_kni_23 = {
+	name = "Fulolt"
+	religion = "grevetican"
+	culture = arbundian
+	trait = education_martial_4
+	trait = chaste
+	trait = logistician
+	prowess = 9
+	558.1.1 = {
+		birth = yes
+	}
+}
+
+grev_kni_24 = {
+	name = "Colfen"
+	religion = "grevetican"
+	culture = arbundian
+	trait = education_martial_2
+	trait = honest
+	trait = lifestyle_blademaster
+	prowess = 8
+	564.1.1 = {
+		birth = yes
+	}
+}
+
+grev_kni_25 = {
+	name = "Vonren"
+	religion = "grevetican"
+	culture = arbundian
+	trait = education_martial_4
+	trait = just
+	trait = flexible_leader
+	prowess = 9
+	555.1.1 = {
+		birth = yes
+	}
+}
+
+grev_kni_26 = {
+	name = "Teruct"
+	religion = "grevetican"
+	culture = arbundian
+	trait = education_martial_2
+	trait = sadistic
+	trait = open_terrain_expert
+	prowess = 8
+	558.1.1 = {
+		birth = yes
+	}
+}
+
+grev_kni_27 = {
+	name = "Genesse"
+	religion = "grevetican"
+	culture = arbundian
+	trait = education_martial_2
+	trait = brave
+	trait = lifestyle_blademaster
+	prowess = 10
+	556.1.1 = {
+		birth = yes
+	}
+}
+
+grev_kni_28 = {
+	name = "Terint"
+	religion = "grevetican"
+	culture = arbundian
+	trait = education_martial_4
+	trait = just
+	trait = lifestyle_blademaster
+	prowess = 10
+	565.1.1 = {
+		birth = yes
+	}
+}
+
+grev_kni_29 = {
+	name = "Marbund"
+	religion = "grevetican"
+	culture = arbundian
+	trait = education_martial_3
+	trait = just
+	trait = flexible_leader
+	prowess = 9
+	566.1.1 = {
+		birth = yes
+	}
+}
+
+grev_kni_30 = {
+	name = "Ablund"
+	religion = "grevetican"
+	culture = arbundian
+	trait = education_martial_4
+	trait = stubborn
+	trait = lifestyle_blademaster
+	prowess = 11
+	558.1.1 = {
+		birth = yes
+	}
+}
+
+grev_kni_31 = {
+	name = "Korra"
+	religion = "grevetican"
+	culture = arbundian
+	trait = education_martial_3
+	trait = chaste
+	trait = aggressive_attacker
+	prowess = 8
+	556.1.1 = {
+		birth = yes
+	}
+}
+
+grev_kni_32 = {
+	name = "Meburl"
+	religion = "grevetican"
+	culture = arbundian
+	trait = education_martial_4
+	trait = chaste
+	trait = lifestyle_blademaster
+	prowess = 10
+	561.1.1 = {
+		birth = yes
+	}
+}
+
+grev_kni_33 = {
+	name = "Arde"
+	religion = "grevetican"
+	culture = arbundian
+	trait = education_martial_3
+	trait = chaste
+	trait = reckless
+	trait = lifestyle_blademaster
+	prowess = 8
+	565.1.1 = {
+		birth = yes
+	}
+}
+
+grev_kni_34 = {
+	name = "Qinund"
+	religion = "grevetican"
+	culture = arbundian
+	trait = education_martial_4
+	trait = sadistic
+	trait = logistician
+	trait = lifestyle_blademaster
+	prowess = 8
+	561.1.1 = {
+		birth = yes
+	}
+}
+
+grev_kni_35 = {
+	name = "Danund"
+	religion = "grevetican"
+	culture = arbundian
+	trait = education_martial_4
+	trait = honest
+	trait = reckless
+	prowess = 8
+	558.1.1 = {
+		birth = yes
+	}
+}
+
+grev_kni_36 = {
+	name = "Bundre"
+	religion = "grevetican"
+	culture = arbundian
+	trait = education_martial_2
+	trait = just
+	trait = lifestyle_blademaster
+	prowess = 12
+	562.1.1 = {
+		birth = yes
+	}
+}
+
+grev_kni_37 = {
+	name = "Meburn"
+	religion = "grevetican"
+	culture = arbundian
+	trait = education_martial_2
+	trait = chaste
+	trait = aggressive_attacker
+	trait = lifestyle_blademaster
+	prowess = 10
+	562.1.1 = {
+		birth = yes
+	}
+}
+
+grev_kni_38 = {
+	name = "Arcotte"
+	religion = "grevetican"
+	culture = arbundian
+	trait = education_martial_2
+	trait = brave
+	trait = forder
+	trait = lifestyle_blademaster
+	prowess = 12
+	556.1.1 = {
+		birth = yes
+	}
+}
+
+grev_kni_39 = {
+	name = "Ardolt"
+	religion = "grevetican"
+	culture = arbundian
+	trait = education_martial_2
+	trait = sadistic
+	trait = lifestyle_blademaster
+	prowess = 12
+	568.1.1 = {
+		birth = yes
+	}
+}
+
+grev_kni_40 = {
+	name = "Mebun"
+	religion = "grevetican"
+	culture = arbundian
+	trait = education_martial_2
+	trait = brave
+	trait = reckless
+	prowess = 9
+	557.1.1 = {
+		birth = yes
+	}
+}
+
+grev_kni_41 = {
+	name = "Mardoc"
+	religion = "grevetican"
+	culture = arbundian
+	trait = education_martial_3
+	trait = chaste
+	trait = forder
+	prowess = 9
+	568.1.1 = {
+		birth = yes
+	}
+}
+
+grev_kni_42 = {
+	name = "Arburt"
+	religion = "grevetican"
+	culture = arbundian
+	trait = education_martial_3
+	trait = brave
+	trait = lifestyle_blademaster
+	prowess = 9
+	561.1.1 = {
+		birth = yes
+	}
+}
+
+grev_kni_43 = {
+	name = "Arburl"
+	religion = "grevetican"
+	culture = arbundian
+	trait = education_martial_2
+	trait = chaste
+	trait = unyielding_defender
+	prowess = 11
+	559.1.1 = {
+		birth = yes
+	}
+}
+
+grev_kni_44 = {
+	name = "Carbund"
+	religion = "grevetican"
+	culture = arbundian
+	trait = education_martial_3
+	trait = sadistic
+	trait = open_terrain_expert
+	prowess = 12
+	565.1.1 = {
+		birth = yes
+	}
+}
+
+grev_kni_45 = {
+	name = "Arburn"
+	religion = "grevetican"
+	culture = arbundian
+	trait = education_martial_4
+	trait = chaste
+	trait = lifestyle_blademaster
+	prowess = 9
+	558.1.1 = {
+		birth = yes
+	}
+}
+
+grev_kni_46 = {
+	name = "Carbin"
+	religion = "grevetican"
+	culture = arbundian
+	trait = education_martial_3
+	trait = just
+	trait = lifestyle_blademaster
+	prowess = 8
+	564.1.1 = {
+		birth = yes
+	}
+}
+
+grev_kni_47 = {
+	name = "Bunled"
+	religion = "grevetican"
+	culture = arbundian
+	trait = education_martial_4
+	trait = stubborn
+	trait = logistician
+	prowess = 10
+	555.1.1 = {
+		birth = yes
+	}
+}
+
+grev_kni_48 = {
+	name = "Tarbun"
+	religion = "grevetican"
+	culture = arbundian
+	trait = education_martial_2
+	trait = stubborn
+	trait = lifestyle_blademaster
+	prowess = 11
+	563.1.1 = {
+		birth = yes
+	}
+}
+
+grev_kni_49 = {
+	name = "Barolt"
+	religion = "grevetican"
+	culture = arbundian
+	trait = education_martial_4
+	trait = just
+	trait = logistician
+	prowess = 12
+	556.1.1 = {
+		birth = yes
+	}
+}
+
+grev_kni_50 = {
+	name = "Arbate"
+	religion = "grevetican"
+	culture = arbundian
+	trait = education_martial_2
+	trait = brave
+	trait = flexible_leader
+	trait = lifestyle_blademaster
+	prowess = 8
+	565.1.1 = {
+		birth = yes
+	}
+}
+
+grev_kni_51 = {
+	name = "Eerund"
+	religion = "grevetican"
+	culture = arbundian
+	trait = education_martial_2
+	trait = chaste
+	trait = logistician
+	prowess = 12
+	558.1.1 = {
+		birth = yes
+	}
+}
+
+grev_kni_52 = {
+	name = "Fonund"
+	religion = "grevetican"
+	culture = arbundian
+	trait = education_martial_4
+	trait = stubborn
+	trait = logistician
+	prowess = 12
+	556.1.1 = {
+		birth = yes
+	}
+}
+
+grev_kni_53 = {
+	name = "Arcolt"
+	religion = "grevetican"
+	culture = arbundian
+	trait = education_martial_3
+	trait = sadistic
+	trait = flexible_leader
+	trait = lifestyle_blademaster
+	prowess = 12
+	563.1.1 = {
+		birth = yes
+	}
+}
+
+grev_kni_54 = {
+	name = "Juresse"
+	religion = "grevetican"
+	culture = arbundian
+	trait = education_martial_3
+	trait = honest
+	trait = aggressive_attacker
+	prowess = 10
+	558.1.1 = {
+		birth = yes
+	}
+}
+
+grev_kni_55 = {
+	name = "Arbun"
+	religion = "grevetican"
+	culture = arbundian
+	trait = education_martial_3
+	trait = chaste
+	trait = lifestyle_blademaster
+	prowess = 9
+	565.1.1 = {
+		birth = yes
+	}
+}
+
+grev_kni_56 = {
+	name = "Terunt"
+	religion = "grevetican"
+	culture = arbundian
+	trait = education_martial_4
+	trait = honest
+	trait = forder
+	prowess = 10
+	569.1.1 = {
+		birth = yes
+	}
+}
+
+grev_kni_57 = {
+	name = "Brabun"
+	religion = "grevetican"
+	culture = arbundian
+	trait = education_martial_2
+	trait = brave
+	trait = forder
+	prowess = 12
+	564.1.1 = {
+		birth = yes
+	}
+}
+
+grev_kni_58 = {
+	name = "Gulect"
+	religion = "grevetican"
+	culture = arbundian
+	trait = education_martial_2
+	trait = brave
+	trait = lifestyle_blademaster
+	prowess = 12
+	558.1.1 = {
+		birth = yes
+	}
+}
+
+grev_kni_59 = {
+	name = "Gonra"
+	religion = "grevetican"
+	culture = arbundian
+	trait = education_martial_4
+	trait = honest
+	trait = aggressive_attacker
+	prowess = 10
+	569.1.1 = {
+		birth = yes
+	}
+}
+
+grev_kni_60 = {
+	name = "Carbult"
+	religion = "grevetican"
+	culture = arbundian
+	trait = education_martial_2
+	trait = just
+	trait = lifestyle_blademaster
+	prowess = 10
+	559.1.1 = {
+		birth = yes
+	}
+}

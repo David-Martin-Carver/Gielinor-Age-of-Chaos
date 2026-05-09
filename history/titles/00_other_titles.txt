@@ -1,0 +1,7 @@
+﻿#The River Coast Company
+d_river_coast_company= {
+    578.1.1 = {
+        holder = calven_001
+        government = republic_government
+    }
+}

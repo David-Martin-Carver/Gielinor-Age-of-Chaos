@@ -1,0 +1,23 @@
+﻿luth_advent_1 = {
+	name = "Artund"
+	dynasty = LUTHD1
+	martial = 13
+	stewardship = 6
+	intrigue = 8
+	diplomacy = 7
+	learning = 10
+	prowess = 12
+	religion = "grevetican"
+	culture = luthani
+	trait = education_martial_3
+	trait = adventurer
+	trait = reckless
+	trait = lifestyle_blademaster
+	trait = callous
+	trait = ambitious
+	trait = stubborn
+	trait = intellect_good_1
+	562.7.17 = {
+		birth = yes
+	}
+}

@@ -1,0 +1,62 @@
+﻿ferran = {
+	color = { 0.95 0.85 0.6 }
+	
+	ethos = ethos_stoic
+	heritage = heritage_ferran
+	language = language_ferran
+	martial_custom = martial_custom_male_only
+	traditions = {
+		tradition_adaptive_skirmishing
+		tradition_hit_and_run
+		tradition_castle_keepers
+		tradition_hereditary_hierarchy
+		tradition_life_is_just_a_joke
+	}
+	
+	name_list = name_list_ferran
+	
+	coa_gfx = { english_coa_gfx western_coa_gfx }
+	building_gfx = { western_building_gfx }
+	clothing_gfx = { dde_hre_clothing_gfx western_clothing_gfx }
+	unit_gfx = { western_unit_gfx }
+	
+	ethnicities = {
+		100 = mon_grellan
+	}
+}
+
+lyrathian = {
+	color = { 0.95 0.85 0.4 }
+	
+	ethos = ethos_egalitarian
+	heritage = heritage_ferran
+	language = language_ferran
+	martial_custom = martial_custom_male_only
+	traditions = {
+		tradition_hill_dwellers
+		tradition_maritime_mercantilism
+		tradition_frugal_armorsmiths
+		tradition_welcoming
+		tradition_equitable
+	}
+
+	dlc_tradition = {
+		trait = tradition_fp3_fierce_independence
+		requires_dlc_flag = legacy_of_persia
+		fallback = tradition_stand_and_fight
+	}
+	
+	name_list = name_list_lyrathian
+	
+	coa_gfx = { english_coa_gfx western_coa_gfx }
+	building_gfx = { western_building_gfx }
+	clothing_gfx = { iberian_christian_clothing_gfx dde_hre_clothing_gfx }
+	unit_gfx = { western_unit_gfx }
+	
+	ethnicities = {
+		100 = mon_grellan
+	}
+}
+
+
+

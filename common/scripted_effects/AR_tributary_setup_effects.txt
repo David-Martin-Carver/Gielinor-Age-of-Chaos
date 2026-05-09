@@ -1,0 +1,14 @@
+
+AR_set_up_tributary_effect = {
+    
+}
+
+AR_tributaries_south_arbundia = {
+    character:159137 = { # Almos Árpád of k_magyar
+        save_scope_as = suzerain
+        character:fictional_mogyers_1 = {
+            break_subject_contract_and_establish_tributary_effect = { SUZERAIN = scope:suzerain TRIBUTARY = this }
+        }
+    }
+}
+

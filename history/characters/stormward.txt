@@ -1,0 +1,5359 @@
+﻿STRM_1 = {
+    name = "Asbjorn"
+    culture = "stormward"
+    faith = "halvran_reformed"
+    dynasty = STRM_Bearkarl #Bearkarl
+    father = STRM_21 #Ketill
+    mother = STRM_236 #Unn
+    0553.1.1 = {
+        birth = yes
+    }
+    0576.1.1 = {
+        add_spouse = STRM_120 #Gertrud
+    }
+}
+
+STRM_10 = {
+    name = "Gorm"
+    culture = "stormward"
+    faith = "halvran_reformed"
+    dynasty = STRM_Bearkarl #Bearkarl
+    father = STRM_35 #Vidfamne
+    mother = STRM_136 #Svala
+    0571.1.1 = {
+        birth = yes
+    }
+}
+
+STRM_100 = {
+    name = "Saxa"
+    culture = "targoth"
+    faith = "halvran_reformed"
+    female = yes
+    dynasty = STRM_Drovenmark #Drovenmark
+    father = STRM_91 #Hoskuld
+    mother = STRM_145 #Arnafrid
+    0577.1.1 = {
+        birth = yes
+    }
+}
+
+STRM_101 = {
+    name = "Sighvat"
+    culture = "targoth"
+    faith = "halvran_reformed"
+    dynasty = STRM_Drovenmark #Drovenmark
+    father = STRM_84 #Floki
+    0521.1.1 = {
+        birth = yes
+    }
+    0545.1.1 = {
+        add_spouse = STRM_311 #Alruna
+    }
+    0581.1.1 = {
+        death = yes
+    }
+}
+
+STRM_102 = {
+    name = "Steinunn"
+    culture = "targoth"
+    faith = "halvran_reformed"
+    female = yes
+    dynasty = STRM_Drovenmark #Drovenmark
+    father = STRM_101 #Sighvat
+    mother = STRM_311 #Alruna
+    0548.1.1 = {
+        birth = yes
+    }
+    0569.1.1 = {
+        add_spouse = STRM_15 #Hoskuld
+    }
+}
+
+STRM_103 = {
+    name = "Steinunn"
+    culture = "targoth"
+    faith = "halvran_reformed"
+    female = yes
+    dynasty = STRM_Drovenmark #Drovenmark
+    father = STRM_106 #Vidfamne
+    mother = STRM_242 #Arnbjorg
+    0577.1.1 = {
+        birth = yes
+    }
+}
+
+STRM_104 = {
+    name = "Tove"
+    culture = "targoth"
+    faith = "halvran_reformed"
+    female = yes
+    dynasty = STRM_Drovenmark #Drovenmark
+    father = STRM_101 #Sighvat
+    mother = STRM_311 #Alruna
+    0552.1.1 = {
+        birth = yes
+    }
+    0572.1.1 = {
+        add_spouse = STRM_33 #Trond
+    }
+}
+
+STRM_105 = {
+    name = "Trond"
+    culture = "targoth"
+    faith = "halvran_reformed"
+    dynasty = STRM_Drovenmark #Drovenmark
+    father = STRM_101 #Sighvat
+    mother = STRM_311 #Alruna
+    0546.1.1 = {
+        birth = yes
+    }
+    0566.1.1 = {
+        add_spouse = STRM_146 #Astrid
+    }
+}
+
+STRM_106 = {
+    name = "Vidfamne"
+    culture = "targoth"
+    faith = "halvran_reformed"
+    dynasty = STRM_Drovenmark #Drovenmark
+    father = STRM_101 #Sighvat
+    mother = STRM_311 #Alruna
+    0549.1.1 = {
+        birth = yes
+    }
+    0570.1.1 = {
+        add_spouse = STRM_242 #Arnbjorg
+    }
+}
+
+STRM_107 = {
+    name = "Viggo"
+    culture = "targoth"
+    faith = "halvran_reformed"
+    dynasty = STRM_Drovenmark #Drovenmark
+    father = STRM_80 #Eldgrim
+    mother = STRM_386 #Skadi
+    0576.1.1 = {
+        birth = yes
+    }
+}
+
+STRM_108 = {
+    name = "Yrsa"
+    culture = "targoth"
+    faith = "halvran_reformed"
+    female = yes
+    dynasty = STRM_Drovenmark #Drovenmark
+    father = STRM_105 #Trond
+    mother = STRM_146 #Astrid
+    0568.1.1 = {
+        birth = yes
+    }
+}
+
+STRM_109 = {
+    name = "Bergdis"
+    culture = "thurn"
+    faith = "halvran_reformed"
+    female = yes
+    dynasty = STRM_Eldskar #Eldskar
+    father = STRM_128 #Hoskuld
+    mother = STRM_376 #Edda
+    0547.1.1 = {
+        birth = yes
+    }
+    0567.1.1 = {
+        add_spouse = STRM_281 #Canute
+    }
+}
+
+STRM_11 = {
+    name = "Gunnar"
+    culture = "stormward"
+    faith = "halvran_reformed"
+    dynasty = STRM_Bearkarl #Bearkarl
+    father = STRM_35 #Vidfamne
+    mother = STRM_136 #Svala
+    0573.1.1 = {
+        birth = yes
+    }
+}
+
+STRM_110 = {
+    name = "Canute"
+    culture = "thurn"
+    faith = "halvran_reformed"
+    dynasty = STRM_Eldskar #Eldskar
+    father = STRM_118 #Eldgrim
+    mother = STRM_312 #Arna
+    0549.1.1 = {
+        birth = yes
+    }
+    0569.1.1 = {
+        add_spouse = STRM_252 #Eira
+    }
+}
+
+STRM_111 = {
+    name = "Dag"
+    culture = "thurn"
+    faith = "halvran_reformed"
+    dynasty = STRM_Eldskar #Eldskar
+    father = STRM_125 #Hallstein
+    mother = STRM_62 #Lotta
+    0579.1.1 = {
+        birth = yes
+    }
+}
+
+STRM_112 = {
+    name = "Dagny"
+    culture = "thurn"
+    faith = "halvran_reformed"
+    female = yes
+    dynasty = STRM_Eldskar #Eldskar
+    father = STRM_128 #Hoskuld
+    mother = STRM_376 #Edda
+    0552.1.1 = {
+        birth = yes
+    }
+    0574.1.1 = {
+        add_spouse = STRM_283 #Dregvar
+    }
+}
+
+STRM_113 = {
+    name = "Dagny"
+    culture = "thurn"
+    faith = "halvran_reformed"
+    female = yes
+    dynasty = STRM_Eldskar #Eldskar
+    father = STRM_110 #Canute
+    mother = STRM_252 #Eira
+    0569.1.1 = {
+        birth = yes
+    }
+}
+
+STRM_114 = {
+    name = "Egil"
+    culture = "thurn"
+    faith = "halvran_reformed"
+    dynasty = STRM_Eldskar #Eldskar
+    father = STRM_118 #Eldgrim
+    mother = STRM_312 #Arna
+    0554.1.1 = {
+        birth = yes
+    }
+    0574.1.1 = {
+        add_spouse = STRM_51 #Hallgerd
+    }
+}
+
+STRM_115 = {
+    name = "Eidunn"
+    culture = "thurn"
+    faith = "halvran_reformed"
+    female = yes
+    dynasty = STRM_Eldskar #Eldskar
+    father = STRM_110 #Canute
+    mother = STRM_252 #Eira
+    0572.1.1 = {
+        birth = yes
+    }
+}
+
+STRM_116 = {
+    name = "Eira"
+    culture = "thurn"
+    faith = "halvran_reformed"
+    female = yes
+    dynasty = STRM_Eldskar #Eldskar
+    father = STRM_110 #Canute
+    mother = STRM_252 #Eira
+    0576.1.1 = {
+        birth = yes
+    }
+}
+
+STRM_117 = {
+    name = "Eirik"
+    culture = "thurn"
+    faith = "halvran_reformed"
+    dynasty = STRM_Eldskar #Eldskar
+    father = STRM_118 #Eldgrim
+    mother = STRM_312 #Arna
+    0558.1.1 = {
+        birth = yes
+    }
+    0579.1.1 = {
+        add_spouse = STRM_54 #Katla
+    }
+}
+
+STRM_118 = {
+    name = "Eldgrim"
+    culture = "thurn"
+    faith = "halvran_reformed"
+    dynasty = STRM_Eldskar #Eldskar
+    father = STRM_121 #Gisli
+    0515.1.1 = {
+        birth = yes
+    }
+    0547.1.1 = {
+        add_spouse = STRM_312 #Arna
+    }
+    0580.1.1 = {
+        death = yes
+    }
+}
+
+STRM_119 = {
+    name = "Eydis"
+    culture = "thurn"
+    faith = "halvran_reformed"
+    female = yes
+    dynasty = STRM_Eldskar #Eldskar
+    father = STRM_125 #Hallstein
+    mother = STRM_62 #Lotta
+    0578.1.1 = {
+        birth = yes
+    }
+}
+
+STRM_12 = {
+    name = "Hakon"
+    culture = "stormward"
+    faith = "halvran_reformed"
+    dynasty = STRM_Bearkarl #Bearkarl
+    father = STRM_8 #Eldgrim
+    mother = STRM_87 #Gudfinna
+    0569.1.1 = {
+        birth = yes
+    }
+}
+
+STRM_120 = {
+    name = "Gertrud"
+    culture = "thurn"
+    faith = "halvran_reformed"
+    female = yes
+    dynasty = STRM_Eldskar #Eldskar
+    father = STRM_118 #Eldgrim
+    mother = STRM_312 #Arna
+    0555.1.1 = {
+        birth = yes
+    }
+    0576.1.1 = {
+        add_spouse = STRM_1 #Asbjorn
+    }
+}
+
+STRM_121 = {
+    name = "Gisli"
+    culture = "thurn"
+    faith = "halvran_reformed"
+    dynasty = STRM_Eldskar #Eldskar
+    0480.1.1 = {
+        birth = yes
+    }
+    0555.1.1 = {
+        death = yes
+    }
+}
+
+STRM_122 = {
+    name = "Gunnar"
+    culture = "thurn"
+    faith = "halvran_reformed"
+    dynasty = STRM_Eldskar #Eldskar
+    father = STRM_128 #Hoskuld
+    mother = STRM_376 #Edda
+    0545.1.1 = {
+        birth = yes
+    }
+    0577.1.1 = {
+        add_spouse = STRM_59 #Laufey
+    }
+}
+
+STRM_123 = {
+    name = "Hallbera"
+    culture = "thurn"
+    faith = "halvran_reformed"
+    female = yes
+    dynasty = STRM_Eldskar #Eldskar
+    father = STRM_125 #Hallstein
+    mother = STRM_62 #Lotta
+    0581.1.1 = {
+        birth = yes
+    }
+}
+
+STRM_124 = {
+    name = "Hallfrid"
+    culture = "thurn"
+    faith = "halvran_reformed"
+    female = yes
+    dynasty = STRM_Eldskar #Eldskar
+    father = STRM_114 #Egil
+    mother = STRM_51 #Hallgerd
+    0574.1.1 = {
+        birth = yes
+    }
+}
+
+STRM_125 = {
+    name = "Hallstein"
+    culture = "thurn"
+    faith = "halvran_reformed"
+    dynasty = STRM_Eldskar #Eldskar
+    father = STRM_128 #Hoskuld
+    mother = STRM_376 #Edda
+    0549.1.1 = {
+        birth = yes
+    }
+    0578.1.1 = {
+        add_spouse = STRM_62 #Lotta
+    }
+}
+
+STRM_126 = {
+    name = "Helga"
+    culture = "thurn"
+    faith = "halvran_reformed"
+    female = yes
+    dynasty = STRM_Eldskar #Eldskar
+    father = STRM_114 #Egil
+    mother = STRM_51 #Hallgerd
+    0577.1.1 = {
+        birth = yes
+    }
+}
+
+STRM_127 = {
+    name = "Hilda"
+    culture = "thurn"
+    faith = "halvran_reformed"
+    female = yes
+    dynasty = STRM_Eldskar #Eldskar
+    father = STRM_114 #Egil
+    mother = STRM_51 #Hallgerd
+    0579.1.1 = {
+        birth = yes
+    }
+}
+
+STRM_128 = {
+    name = "Hoskuld"
+    culture = "thurn"
+    faith = "halvran_reformed"
+    dynasty = STRM_Eldskar #Eldskar
+    father = STRM_121 #Gisli
+    0518.1.1 = {
+        birth = yes
+    }
+    0543.1.1 = {
+        add_spouse = STRM_376 #Edda
+    }
+}
+
+STRM_129 = {
+    name = "Laufey"
+    culture = "thurn"
+    faith = "halvran_reformed"
+    female = yes
+    dynasty = STRM_Eldskar #Eldskar
+    father = STRM_117 #Eirik
+    mother = STRM_54 #Katla
+    0579.1.1 = {
+        birth = yes
+    }
+}
+
+STRM_13 = {
+    name = "Hallstein"
+    culture = "stormward"
+    faith = "halvran_reformed"
+    dynasty = STRM_Bearkarl #Bearkarl
+    father = STRM_35 #Vidfamne
+    mother = STRM_136 #Svala
+    0577.1.1 = {
+        birth = yes
+    }
+}
+
+STRM_130 = {
+    name = "Lotta"
+    culture = "thurn"
+    faith = "halvran_reformed"
+    female = yes
+    dynasty = STRM_Eldskar #Eldskar
+    father = STRM_117 #Eirik
+    mother = STRM_54 #Katla
+    0582.1.1 = {
+        birth = yes
+    }
+}
+
+STRM_131 = {
+    name = "Oddny"
+    culture = "thurn"
+    faith = "halvran_reformed"
+    female = yes
+    dynasty = STRM_Eldskar #Eldskar
+    father = STRM_121 #Gisli
+    0517.1.1 = {
+        birth = yes
+    }
+    0540.1.1 = {
+        add_spouse = STRM_373 #Sten
+    }
+}
+
+STRM_132 = {
+    name = "Rolf"
+    culture = "thurn"
+    faith = "halvran_reformed"
+    dynasty = STRM_Eldskar #Eldskar
+    father = STRM_110 #Canute
+    mother = STRM_252 #Eira
+    0570.1.1 = {
+        birth = yes
+    }
+}
+
+STRM_133 = {
+    name = "Sigbrand"
+    culture = "thurn"
+    faith = "halvran_reformed"
+    dynasty = STRM_Eldskar #Eldskar
+    father = STRM_110 #Canute
+    mother = STRM_252 #Eira
+    0574.1.1 = {
+        birth = yes
+    }
+}
+
+STRM_134 = {
+    name = "Signy"
+    culture = "thurn"
+    faith = "halvran_reformed"
+    female = yes
+    dynasty = STRM_Eldskar #Eldskar
+    father = STRM_122 #Gunnar
+    mother = STRM_59 #Laufey
+    0579.1.1 = {
+        birth = yes
+    }
+}
+
+STRM_135 = {
+    name = "Skadi"
+    culture = "thurn"
+    faith = "halvran_reformed"
+    female = yes
+    dynasty = STRM_Eldskar #Eldskar
+    father = STRM_121 #Gisli
+    0520.1.1 = {
+        birth = yes
+    }
+    0544.1.1 = {
+        add_spouse = STRM_232 #Torgeir
+    }
+    0578.1.1 = {
+        death = yes
+    }
+}
+
+STRM_136 = {
+    name = "Svala"
+    culture = "thurn"
+    faith = "halvran_reformed"
+    female = yes
+    dynasty = STRM_Eldskar #Eldskar
+    father = STRM_118 #Eldgrim
+    mother = STRM_312 #Arna
+    0552.1.1 = {
+        birth = yes
+    }
+    0569.1.1 = {
+        add_spouse = STRM_35 #Vidfamne
+    }
+}
+
+STRM_137 = {
+    name = "Svanhild"
+    culture = "thurn"
+    faith = "halvran_reformed"
+    female = yes
+    dynasty = STRM_Eldskar #Eldskar
+    father = STRM_122 #Gunnar
+    mother = STRM_59 #Laufey
+    0582.1.1 = {
+        birth = yes
+    }
+}
+
+STRM_138 = {
+    name = "Svein"
+    culture = "thurn"
+    faith = "halvran_reformed"
+    dynasty = STRM_Eldskar #Eldskar
+    father = STRM_122 #Gunnar
+    mother = STRM_59 #Laufey
+    0581.1.1 = {
+        birth = yes
+    }
+}
+
+STRM_139 = {
+    name = "Thyra"
+    culture = "thurn"
+    faith = "halvran_reformed"
+    female = yes
+    dynasty = STRM_Eldskar #Eldskar
+    father = STRM_122 #Gunnar
+    mother = STRM_59 #Laufey
+    0585.1.1 = {
+        birth = yes
+    }
+}
+
+STRM_14 = {
+    name = "Hildr"
+    culture = "stormward"
+    faith = "halvran_reformed"
+    female = yes
+    dynasty = STRM_Bearkarl #Bearkarl
+    father = STRM_6 #Brynjolf
+    0520.1.1 = {
+        birth = yes
+    }
+    0541.1.1 = {
+        add_spouse = STRM_243 #Arvid
+    }
+    0570.1.1 = {
+        death = yes
+    }
+}
+
+STRM_140 = {
+    name = "Torgeir"
+    culture = "thurn"
+    faith = "halvran_reformed"
+    dynasty = STRM_Eldskar #Eldskar
+    father = STRM_114 #Egil
+    mother = STRM_51 #Hallgerd
+    0576.1.1 = {
+        birth = yes
+    }
+}
+
+STRM_141 = {
+    name = "Trond"
+    culture = "thurn"
+    faith = "halvran_reformed"
+    dynasty = STRM_Eldskar #Eldskar
+    father = STRM_122 #Gunnar
+    mother = STRM_59 #Laufey
+    0584.1.1 = {
+        birth = yes
+    }
+}
+
+STRM_142 = {
+    name = "Ulf"
+    culture = "thurn"
+    faith = "halvran_reformed"
+    dynasty = STRM_Eldskar #Eldskar
+    father = STRM_114 #Egil
+    mother = STRM_51 #Hallgerd
+    0578.1.1 = {
+        birth = yes
+    }
+}
+
+STRM_143 = {
+    name = "Vermund"
+    culture = "thurn"
+    faith = "halvran_reformed"
+    dynasty = STRM_Eldskar #Eldskar
+    father = STRM_117 #Eirik
+    mother = STRM_54 #Katla
+    0581.1.1 = {
+        birth = yes
+    }
+}
+
+STRM_144 = {
+    name = "Vidfamne"
+    culture = "thurn"
+    faith = "halvran_reformed"
+    dynasty = STRM_Eldskar #Eldskar
+    father = STRM_122 #Gunnar
+    mother = STRM_59 #Laufey
+    0587.1.1 = {
+        birth = yes
+    }
+}
+
+STRM_145 = {
+    name = "Arnafrid"
+    culture = "thurn"
+    faith = "halvran_reformed"
+    female = yes
+    dynasty = STRM_Haskarn #Haskarn
+    father = STRM_153 #Hjalti
+    mother = STRM_45 #Eidunn
+    0547.1.1 = {
+        birth = yes
+    }
+    0572.1.1 = {
+        add_spouse = STRM_91 #Hoskuld
+    }
+}
+
+STRM_146 = {
+    name = "Astrid"
+    culture = "thurn"
+    faith = "halvran_reformed"
+    female = yes
+    dynasty = STRM_Haskarn #Haskarn
+    father = STRM_155 #Hrolf
+    mother = STRM_166 #Frida
+    0550.1.1 = {
+        birth = yes
+    }
+    0566.1.1 = {
+        add_spouse = STRM_105 #Trond
+    }
+}
+
+STRM_147 = {
+    name = "Canute"
+    culture = "thurn"
+    faith = "halvran_reformed"
+    dynasty = STRM_Haskarn #Haskarn
+    father = STRM_153 #Hjalti
+    mother = STRM_45 #Eidunn
+    0545.1.1 = {
+        birth = yes
+    }
+}
+
+STRM_148 = {
+    name = "Egil"
+    culture = "thurn"
+    faith = "halvran_reformed"
+    dynasty = STRM_Haskarn #Haskarn
+    father = STRM_153 #Hjalti
+    mother = STRM_45 #Eidunn
+    0548.1.1 = {
+        birth = yes
+    }
+}
+
+STRM_149 = {
+    name = "Geira"
+    culture = "thurn"
+    faith = "halvran_reformed"
+    female = yes
+    dynasty = STRM_Haskarn #Haskarn
+    father = STRM_154 #Hrafn
+    0517.1.1 = {
+        birth = yes
+    }
+    0543.1.1 = {
+        add_spouse = STRM_347 #Trond
+    }
+}
+
+STRM_15 = {
+    name = "Hoskuld"
+    culture = "stormward"
+    faith = "halvran_reformed"
+    dynasty = STRM_Bearkarl #Bearkarl
+    father = STRM_19 #Jarl
+    mother = STRM_370 #Sif
+    0551.1.1 = {
+        birth = yes
+    }
+    0569.1.1 = {
+        add_spouse = STRM_102 #Steinunn
+    }
+}
+
+STRM_150 = {
+    name = "Gunnar"
+    culture = "thurn"
+    faith = "halvran_reformed"
+    dynasty = STRM_Haskarn #Haskarn
+    father = STRM_155 #Hrolf
+    mother = STRM_166 #Frida
+    0547.1.1 = {
+        birth = yes
+    }
+}
+
+STRM_151 = {
+    name = "Gunnhild"
+    culture = "thurn"
+    faith = "halvran_reformed"
+    female = yes
+    dynasty = STRM_Haskarn #Haskarn
+    father = STRM_154 #Hrafn
+    0520.1.1 = {
+        birth = yes
+    }
+    0547.1.1 = {
+        add_spouse = STRM_313 #Bjarni
+    }
+    0571.1.1 = {
+        death = yes
+    }
+}
+
+STRM_152 = {
+    name = "Hallstein"
+    culture = "thurn"
+    faith = "halvran_reformed"
+    dynasty = STRM_Haskarn #Haskarn
+    father = STRM_155 #Hrolf
+    mother = STRM_166 #Frida
+    0553.1.1 = {
+        birth = yes
+    }
+}
+
+STRM_153 = {
+    name = "Hjalti"
+    culture = "thurn"
+    faith = "halvran_reformed"
+    dynasty = STRM_Haskarn #Haskarn
+    father = STRM_154 #Hrafn
+    0515.1.1 = {
+        birth = yes
+    }
+    0541.1.1 = {
+        add_spouse = STRM_45 #Eidunn
+    }
+    0582.1.1 = {
+        death = yes
+    }
+}
+
+STRM_154 = {
+    name = "Hrafn"
+    culture = "thurn"
+    faith = "halvran_reformed"
+    dynasty = STRM_Haskarn #Haskarn
+    0484.1.1 = {
+        birth = yes
+    }
+    0554.1.1 = {
+        death = yes
+    }
+}
+
+STRM_155 = {
+    name = "Hrolf"
+    culture = "thurn"
+    faith = "halvran_reformed"
+    dynasty = STRM_Haskarn #Haskarn
+    father = STRM_154 #Hrafn
+    0518.1.1 = {
+        birth = yes
+    }
+    0544.1.1 = {
+        add_spouse = STRM_166 #Frida
+    }
+}
+
+STRM_156 = {
+    name = "Alruna"
+    culture = "stormward"
+    faith = "halvran_reformed"
+    female = yes
+    dynasty = STRM_Hroldvyr #Hroldvyr
+    father = STRM_164 #Eystein
+    mother = STRM_221 #Ragnhild
+    0572.1.1 = {
+        birth = yes
+    }
+}
+
+STRM_157 = {
+    name = "Arna"
+    culture = "stormward"
+    faith = "halvran_reformed"
+    female = yes
+    dynasty = STRM_Hroldvyr #Hroldvyr
+    father = STRM_164 #Eystein
+    mother = STRM_221 #Ragnhild
+    0575.1.1 = {
+        birth = yes
+    }
+}
+
+STRM_158 = {
+    name = "Borkvar"
+    culture = "stormward"
+    faith = "halvran_reformed"
+    dynasty = STRM_Hroldvyr #Hroldvyr
+    0482.1.1 = {
+        birth = yes
+    }
+    0558.1.1 = {
+        death = yes
+    }
+}
+
+STRM_159 = {
+    name = "Dag"
+    culture = "stormward"
+    faith = "halvran_reformed"
+    dynasty = STRM_Hroldvyr #Hroldvyr
+    father = STRM_191 #Torgeir
+    mother = STRM_360 #Kari
+    0574.1.1 = {
+        birth = yes
+    }
+}
+
+STRM_16 = {
+    name = "Hreidun"
+    culture = "stormward"
+    faith = "halvran_reformed"
+    female = yes
+    dynasty = STRM_Bearkarl #Bearkarl
+    father = STRM_19 #Jarl
+    mother = STRM_370 #Sif
+    0548.1.1 = {
+        birth = yes
+    }
+    0575.1.1 = {
+        add_spouse = STRM_249 #Bryndric
+    }
+}
+
+STRM_160 = {
+    name = "Einar"
+    culture = "stormward"
+    faith = "halvran_reformed"
+    dynasty = STRM_Hroldvyr #Hroldvyr
+    father = STRM_191 #Torgeir
+    mother = STRM_360 #Kari
+    0577.1.1 = {
+        birth = yes
+    }
+}
+
+STRM_161 = {
+    name = "Elin"
+    culture = "stormward"
+    faith = "halvran_reformed"
+    female = yes
+    dynasty = STRM_Hroldvyr #Hroldvyr
+    father = STRM_172 #Hemming
+    mother = STRM_222 #Randi
+    0570.1.1 = {
+        birth = yes
+    }
+}
+
+STRM_162 = {
+    name = "Erling"
+    culture = "stormward"
+    faith = "halvran_reformed"
+    dynasty = STRM_Hroldvyr #Hroldvyr
+    father = STRM_191 #Torgeir
+    mother = STRM_360 #Kari
+    0580.1.1 = {
+        birth = yes
+    }
+}
+
+STRM_163 = {
+    name = "Eydis"
+    culture = "stormward"
+    faith = "halvran_reformed"
+    female = yes
+    dynasty = STRM_Hroldvyr #Hroldvyr
+    father = STRM_190 #Torben
+    mother = STRM_359 #Jorunn
+    0568.1.1 = {
+        birth = yes
+    }
+}
+
+STRM_164 = {
+    name = "Eystein"
+    culture = "stormward"
+    faith = "halvran_reformed"
+    dynasty = STRM_Hroldvyr #Hroldvyr
+    father = STRM_171 #Hallstein
+    mother = STRM_368 #Runa
+    0545.1.1 = {
+        birth = yes
+    }
+    0570.1.1 = {
+        add_spouse = STRM_221 #Ragnhild
+    }
+}
+
+STRM_165 = {
+    name = "Freydis"
+    culture = "stormward"
+    faith = "halvran_reformed"
+    female = yes
+    dynasty = STRM_Hroldvyr #Hroldvyr
+    father = STRM_172 #Hemming
+    mother = STRM_222 #Randi
+    0573.1.1 = {
+        birth = yes
+    }
+}
+
+STRM_166 = {
+    name = "Frida"
+    culture = "stormward"
+    faith = "halvran_reformed"
+    female = yes
+    dynasty = STRM_Hroldvyr #Hroldvyr
+    father = STRM_158 #Borkvar
+    0519.1.1 = {
+        birth = yes
+    }
+    0544.1.1 = {
+        add_spouse = STRM_155 #Hrolf
+    }
+}
+
+STRM_167 = {
+    name = "Frida"
+    culture = "stormward"
+    faith = "halvran_reformed"
+    female = yes
+    dynasty = STRM_Hroldvyr #Hroldvyr
+    father = STRM_172 #Hemming
+    mother = STRM_222 #Randi
+    0575.1.1 = {
+        birth = yes
+    }
+}
+
+STRM_168 = {
+    name = "Gudrun"
+    culture = "stormward"
+    faith = "halvran_reformed"
+    female = yes
+    dynasty = STRM_Hroldvyr #Hroldvyr
+    father = STRM_158 #Borkvar
+    0522.1.1 = {
+        birth = yes
+    }
+    0546.1.1 = {
+        add_spouse = STRM_244 #Asbjorn
+    }
+}
+
+STRM_169 = {
+    name = "Gunnar"
+    culture = "stormward"
+    faith = "halvran_reformed"
+    dynasty = STRM_Hroldvyr #Hroldvyr
+    father = STRM_158 #Borkvar
+    0517.1.1 = {
+        birth = yes
+    }
+    0541.1.1 = {
+        add_spouse = STRM_300 #Lotta
+    }
+}
+
+STRM_17 = {
+    name = "Inga"
+    culture = "stormward"
+    faith = "halvran_reformed"
+    female = yes
+    dynasty = STRM_Bearkarl #Bearkarl
+    father = STRM_6 #Brynjolf
+    0523.1.1 = {
+        birth = yes
+    }
+    0547.1.1 = {
+        add_spouse = STRM_44 #Egil
+    }
+}
+
+STRM_170 = {
+    name = "Hallbera"
+    culture = "stormward"
+    faith = "halvran_reformed"
+    female = yes
+    dynasty = STRM_Hroldvyr #Hroldvyr
+    father = STRM_190 #Torben
+    mother = STRM_359 #Jorunn
+    0571.1.1 = {
+        birth = yes
+    }
+}
+
+STRM_171 = {
+    name = "Hallstein"
+    culture = "stormward"
+    faith = "halvran_reformed"
+    dynasty = STRM_Hroldvyr #Hroldvyr
+    father = STRM_158 #Borkvar
+    0520.1.1 = {
+        birth = yes
+    }
+    0543.1.1 = {
+        add_spouse = STRM_368 #Runa
+    }
+    0576.1.1 = {
+        death = yes
+    }
+}
+
+STRM_172 = {
+    name = "Hemming"
+    culture = "stormward"
+    faith = "halvran_reformed"
+    dynasty = STRM_Hroldvyr #Hroldvyr
+    father = STRM_171 #Hallstein
+    mother = STRM_368 #Runa
+    0550.1.1 = {
+        birth = yes
+    }
+    0568.1.1 = {
+        add_spouse = STRM_222 #Randi
+    }
+}
+
+STRM_173 = {
+    name = "Hjalti"
+    culture = "stormward"
+    faith = "halvran_reformed"
+    dynasty = STRM_Hroldvyr #Hroldvyr
+    father = STRM_164 #Eystein
+    mother = STRM_221 #Ragnhild
+    0573.1.1 = {
+        birth = yes
+    }
+}
+
+STRM_174 = {
+    name = "Hreidun"
+    culture = "stormward"
+    faith = "halvran_reformed"
+    female = yes
+    dynasty = STRM_Hroldvyr #Hroldvyr
+    father = STRM_190 #Torben
+    mother = STRM_359 #Jorunn
+    0575.1.1 = {
+        birth = yes
+    }
+}
+
+STRM_175 = {
+    name = "Hrolf"
+    culture = "stormward"
+    faith = "halvran_reformed"
+    dynasty = STRM_Hroldvyr #Hroldvyr
+    father = STRM_164 #Eystein
+    mother = STRM_221 #Ragnhild
+    0577.1.1 = {
+        birth = yes
+    }
+}
+
+STRM_176 = {
+    name = "Idunn"
+    culture = "stormward"
+    faith = "halvran_reformed"
+    female = yes
+    dynasty = STRM_Hroldvyr #Hroldvyr
+    father = STRM_183 #Sighvat
+    mother = STRM_230 #Thyra
+    0571.1.1 = {
+        birth = yes
+    }
+}
+
+STRM_177 = {
+    name = "Ingeborg"
+    culture = "stormward"
+    faith = "halvran_reformed"
+    female = yes
+    dynasty = STRM_Hroldvyr #Hroldvyr
+    father = STRM_183 #Sighvat
+    mother = STRM_230 #Thyra
+    0573.1.1 = {
+        birth = yes
+    }
+}
+
+STRM_178 = {
+    name = "Jorunn"
+    culture = "stormward"
+    faith = "halvran_reformed"
+    female = yes
+    dynasty = STRM_Hroldvyr #Hroldvyr
+    father = STRM_183 #Sighvat
+    mother = STRM_230 #Thyra
+    0577.1.1 = {
+        birth = yes
+    }
+}
+
+STRM_179 = {
+    name = "Odd"
+    culture = "stormward"
+    faith = "halvran_reformed"
+    dynasty = STRM_Hroldvyr #Hroldvyr
+    father = STRM_172 #Hemming
+    mother = STRM_222 #Randi
+    0572.1.1 = {
+        birth = yes
+    }
+}
+
+STRM_18 = {
+    name = "Isgerd"
+    culture = "stormward"
+    faith = "halvran_reformed"
+    female = yes
+    dynasty = STRM_Bearkarl #Bearkarl
+    father = STRM_33 #Trond
+    mother = STRM_104 #Tove
+    0574.1.1 = {
+        birth = yes
+    }
+}
+
+STRM_180 = {
+    name = "Orm"
+    culture = "stormward"
+    faith = "halvran_reformed"
+    dynasty = STRM_Hroldvyr #Hroldvyr
+    father = STRM_172 #Hemming
+    mother = STRM_222 #Randi
+    0574.1.1 = {
+        birth = yes
+    }
+}
+
+STRM_181 = {
+    name = "Runa"
+    culture = "stormward"
+    faith = "halvran_reformed"
+    female = yes
+    dynasty = STRM_Hroldvyr #Hroldvyr
+    father = STRM_169 #Gunnar
+    mother = STRM_300 #Lotta
+    0547.1.1 = {
+        birth = yes
+    }
+    0567.1.1 = {
+        add_spouse = STRM_338 #Ketill
+    }
+}
+
+STRM_182 = {
+    name = "Sif"
+    culture = "stormward"
+    faith = "halvran_reformed"
+    female = yes
+    dynasty = STRM_Hroldvyr #Hroldvyr
+    father = STRM_169 #Gunnar
+    mother = STRM_300 #Lotta
+    0551.1.1 = {
+        birth = yes
+    }
+    0572.1.1 = {
+        add_spouse = STRM_339 #Knut
+    }
+}
+
+STRM_183 = {
+    name = "Sighvat"
+    culture = "stormward"
+    faith = "halvran_reformed"
+    dynasty = STRM_Hroldvyr #Hroldvyr
+    father = STRM_171 #Hallstein
+    mother = STRM_368 #Runa
+    0552.1.1 = {
+        birth = yes
+    }
+    0569.1.1 = {
+        add_spouse = STRM_230 #Thyra
+    }
+}
+
+STRM_184 = {
+    name = "Signy"
+    culture = "stormward"
+    faith = "halvran_reformed"
+    female = yes
+    dynasty = STRM_Hroldvyr #Hroldvyr
+    father = STRM_188 #Thorleif
+    mother = STRM_355 #Hallfrid
+    0570.1.1 = {
+        birth = yes
+    }
+}
+
+STRM_185 = {
+    name = "Svanhild"
+    culture = "stormward"
+    faith = "halvran_reformed"
+    female = yes
+    dynasty = STRM_Hroldvyr #Hroldvyr
+    father = STRM_188 #Thorleif
+    mother = STRM_355 #Hallfrid
+    0573.1.1 = {
+        birth = yes
+    }
+}
+
+STRM_186 = {
+    name = "Svein"
+    culture = "stormward"
+    faith = "halvran_reformed"
+    dynasty = STRM_Hroldvyr #Hroldvyr
+    father = STRM_190 #Torben
+    mother = STRM_359 #Jorunn
+    0569.1.1 = {
+        birth = yes
+    }
+}
+
+STRM_187 = {
+    name = "Sven"
+    culture = "stormward"
+    faith = "halvran_reformed"
+    dynasty = STRM_Hroldvyr #Hroldvyr
+    father = STRM_183 #Sighvat
+    mother = STRM_230 #Thyra
+    0572.1.1 = {
+        birth = yes
+    }
+}
+
+STRM_188 = {
+    name = "Thorleif"
+    culture = "stormward"
+    faith = "halvran_reformed"
+    dynasty = STRM_Hroldvyr #Hroldvyr
+    father = STRM_169 #Gunnar
+    mother = STRM_300 #Lotta
+    0545.1.1 = {
+        birth = yes
+    }
+    0570.1.1 = {
+        add_spouse = STRM_355 #Hallfrid
+    }
+}
+
+STRM_189 = {
+    name = "Thorleif"
+    culture = "stormward"
+    faith = "halvran_reformed"
+    dynasty = STRM_Hroldvyr #Hroldvyr
+    father = STRM_183 #Sighvat
+    mother = STRM_230 #Thyra
+    0575.1.1 = {
+        birth = yes
+    }
+}
+
+STRM_19 = {
+    name = "Jarl"
+    culture = "stormward"
+    faith = "halvran_reformed"
+    dynasty = STRM_Bearkarl #Bearkarl
+    father = STRM_6 #Brynjolf
+    0518.1.1 = {
+        birth = yes
+    }
+    0544.1.1 = {
+        add_spouse = STRM_370 #Sif
+    }
+    0585.1.1 = {
+        death = yes
+    }
+}
+
+STRM_190 = {
+    name = "Torben"
+    culture = "stormward"
+    faith = "halvran_reformed"
+    dynasty = STRM_Hroldvyr #Hroldvyr
+    father = STRM_169 #Gunnar
+    mother = STRM_300 #Lotta
+    0548.1.1 = {
+        birth = yes
+    }
+    0566.1.1 = {
+        add_spouse = STRM_359 #Jorunn
+    }
+}
+
+STRM_191 = {
+    name = "Torgeir"
+    culture = "stormward"
+    faith = "halvran_reformed"
+    dynasty = STRM_Hroldvyr #Hroldvyr
+    father = STRM_169 #Gunnar
+    mother = STRM_300 #Lotta
+    0552.1.1 = {
+        birth = yes
+    }
+    0573.1.1 = {
+        add_spouse = STRM_360 #Kari
+    }
+}
+
+STRM_192 = {
+    name = "Torunn"
+    culture = "stormward"
+    faith = "halvran_reformed"
+    female = yes
+    dynasty = STRM_Hroldvyr #Hroldvyr
+    father = STRM_191 #Torgeir
+    mother = STRM_360 #Kari
+    0576.1.1 = {
+        birth = yes
+    }
+}
+
+STRM_193 = {
+    name = "Tove"
+    culture = "stormward"
+    faith = "halvran_reformed"
+    female = yes
+    dynasty = STRM_Hroldvyr #Hroldvyr
+    father = STRM_191 #Torgeir
+    mother = STRM_360 #Kari
+    0573.1.1 = {
+        birth = yes
+    }
+}
+
+STRM_194 = {
+    name = "Trond"
+    culture = "stormward"
+    faith = "halvran_reformed"
+    dynasty = STRM_Hroldvyr #Hroldvyr
+    father = STRM_190 #Torben
+    mother = STRM_359 #Jorunn
+    0573.1.1 = {
+        birth = yes
+    }
+}
+
+STRM_195 = {
+    name = "Valdis"
+    culture = "stormward"
+    faith = "halvran_reformed"
+    female = yes
+    dynasty = STRM_Hroldvyr #Hroldvyr
+    father = STRM_171 #Hallstein
+    mother = STRM_368 #Runa
+    0548.1.1 = {
+        birth = yes
+    }
+    0571.1.1 = {
+        add_spouse = STRM_250 #Canute
+    }
+}
+
+STRM_196 = {
+    name = "Vermund"
+    culture = "stormward"
+    faith = "halvran_reformed"
+    dynasty = STRM_Hroldvyr #Hroldvyr
+    father = STRM_188 #Thorleif
+    mother = STRM_355 #Hallfrid
+    0571.1.1 = {
+        birth = yes
+    }
+}
+
+STRM_197 = {
+    name = "Vidfamne"
+    culture = "stormward"
+    faith = "halvran_reformed"
+    dynasty = STRM_Hroldvyr #Hroldvyr
+    father = STRM_190 #Torben
+    mother = STRM_359 #Jorunn
+    0576.1.1 = {
+        birth = yes
+    }
+}
+
+STRM_198 = {
+    name = "Yngvild"
+    culture = "stormward"
+    faith = "halvran_reformed"
+    female = yes
+    dynasty = STRM_Hroldvyr #Hroldvyr
+    father = STRM_191 #Torgeir
+    mother = STRM_360 #Kari
+    0578.1.1 = {
+        birth = yes
+    }
+}
+
+STRM_199 = {
+    name = "Yrsa"
+    culture = "stormward"
+    faith = "halvran_reformed"
+    female = yes
+    dynasty = STRM_Hroldvyr #Hroldvyr
+    father = STRM_171 #Hallstein
+    mother = STRM_368 #Runa
+    0551.1.1 = {
+        birth = yes
+    }
+    0573.1.1 = {
+        add_spouse = STRM_251 #Egil
+    }
+}
+
+STRM_2 = {
+    name = "Baldr"
+    culture = "stormward"
+    faith = "halvran_reformed"
+    dynasty = STRM_Bearkarl #Bearkarl
+    father = STRM_33 #Trond
+    mother = STRM_104 #Tove
+    0576.1.1 = {
+        birth = yes
+    }
+}
+
+STRM_20 = {
+    name = "Ketilbjorn"
+    culture = "stormward"
+    faith = "halvran_reformed"
+    dynasty = STRM_Bearkarl #Bearkarl
+    father = STRM_8 #Eldgrim
+    mother = STRM_87 #Gudfinna
+    0571.1.1 = {
+        birth = yes
+    }
+}
+
+STRM_200 = {
+    name = "Aslaug"
+    culture = "targoth"
+    faith = "halvran_reformed"
+    female = yes
+    dynasty = STRM_Kurnsgald #Kurnsgald
+    father = STRM_207 #Eystein
+    mother = STRM_379 #Eydis
+    0568.1.1 = {
+        birth = yes
+    }
+}
+
+STRM_201 = {
+    name = "Aud"
+    culture = "targoth"
+    faith = "halvran_reformed"
+    female = yes
+    dynasty = STRM_Kurnsgald #Kurnsgald
+    father = STRM_207 #Eystein
+    mother = STRM_379 #Eydis
+    0572.1.1 = {
+        birth = yes
+    }
+}
+
+STRM_202 = {
+    name = "Bergdis"
+    culture = "targoth"
+    faith = "halvran_reformed"
+    female = yes
+    dynasty = STRM_Kurnsgald #Kurnsgald
+    father = STRM_207 #Eystein
+    mother = STRM_379 #Eydis
+    0574.1.1 = {
+        birth = yes
+    }
+}
+
+STRM_203 = {
+    name = "Brandr"
+    culture = "targoth"
+    faith = "halvran_reformed"
+    dynasty = STRM_Kurnsgald #Kurnsgald
+    father = STRM_231 #Torben
+    mother = STRM_323 #Thora
+    0574.1.1 = {
+        birth = yes
+    }
+}
+
+STRM_204 = {
+    name = "Canute"
+    culture = "targoth"
+    faith = "halvran_reformed"
+    dynasty = STRM_Kurnsgald #Kurnsgald
+    father = STRM_231 #Torben
+    mother = STRM_323 #Thora
+    0577.1.1 = {
+        birth = yes
+    }
+}
+
+STRM_205 = {
+    name = "Egil"
+    culture = "targoth"
+    faith = "halvran_reformed"
+    dynasty = STRM_Kurnsgald #Kurnsgald
+    father = STRM_231 #Torben
+    mother = STRM_323 #Thora
+    0580.1.1 = {
+        birth = yes
+    }
+}
+
+STRM_206 = {
+    name = "Erling"
+    culture = "targoth"
+    faith = "halvran_reformed"
+    dynasty = STRM_Kurnsgald #Kurnsgald
+    0486.1.1 = {
+        birth = yes
+    }
+    0560.1.1 = {
+        death = yes
+    }
+}
+
+STRM_207 = {
+    name = "Eystein"
+    culture = "targoth"
+    faith = "halvran_reformed"
+    dynasty = STRM_Kurnsgald #Kurnsgald
+    father = STRM_234 #Ulf
+    mother = STRM_333 #Halla
+    0548.1.1 = {
+        birth = yes
+    }
+    0567.1.1 = {
+        add_spouse = STRM_379 #Eydis
+    }
+}
+
+STRM_208 = {
+    name = "Freya"
+    culture = "targoth"
+    faith = "halvran_reformed"
+    female = yes
+    dynasty = STRM_Kurnsgald #Kurnsgald
+    father = STRM_214 #Hemming
+    mother = STRM_385 #Oddny
+    0573.1.1 = {
+        birth = yes
+    }
+}
+
+STRM_209 = {
+    name = "Geira"
+    culture = "targoth"
+    faith = "halvran_reformed"
+    female = yes
+    dynasty = STRM_Kurnsgald #Kurnsgald
+    father = STRM_214 #Hemming
+    mother = STRM_385 #Oddny
+    0577.1.1 = {
+        birth = yes
+    }
+}
+
+STRM_21 = {
+    name = "Ketill"
+    culture = "stormward"
+    faith = "halvran_reformed"
+    dynasty = STRM_Bearkarl #Bearkarl
+    father = STRM_6 #Brynjolf
+    0521.1.1 = {
+        birth = yes
+    }
+    0542.1.1 = {
+        add_spouse = STRM_236 #Unn
+    }
+    0574.1.1 = {
+        death = yes
+    }
+}
+
+STRM_210 = {
+    name = "Gunnhild"
+    culture = "targoth"
+    faith = "halvran_reformed"
+    female = yes
+    dynasty = STRM_Kurnsgald #Kurnsgald
+    father = STRM_214 #Hemming
+    mother = STRM_385 #Oddny
+    0580.1.1 = {
+        birth = yes
+    }
+}
+
+STRM_211 = {
+    name = "Halfdan"
+    culture = "targoth"
+    faith = "halvran_reformed"
+    dynasty = STRM_Kurnsgald #Kurnsgald
+    father = STRM_233 #Torgeir
+    mother = STRM_375 #Bodil
+    0574.1.1 = {
+        birth = yes
+    }
+}
+
+STRM_212 = {
+    name = "Halla"
+    culture = "targoth"
+    faith = "halvran_reformed"
+    female = yes
+    dynasty = STRM_Kurnsgald #Kurnsgald
+    father = STRM_233 #Torgeir
+    mother = STRM_375 #Bodil
+    0575.1.1 = {
+        birth = yes
+    }
+}
+
+STRM_213 = {
+    name = "Harald"
+    culture = "targoth"
+    faith = "halvran_reformed"
+    dynasty = STRM_Kurnsgald #Kurnsgald
+    father = STRM_233 #Torgeir
+    mother = STRM_375 #Bodil
+    0576.1.1 = {
+        birth = yes
+    }
+}
+
+STRM_214 = {
+    name = "Hemming"
+    culture = "targoth"
+    faith = "halvran_reformed"
+    dynasty = STRM_Kurnsgald #Kurnsgald
+    father = STRM_234 #Ulf
+    mother = STRM_333 #Halla
+    0552.1.1 = {
+        birth = yes
+    }
+    0571.1.1 = {
+        add_spouse = STRM_385 #Oddny
+    }
+}
+
+STRM_215 = {
+    name = "Herja"
+    culture = "targoth"
+    faith = "halvran_reformed"
+    female = yes
+    dynasty = STRM_Kurnsgald #Kurnsgald
+    father = STRM_231 #Torben
+    mother = STRM_323 #Thora
+    0573.1.1 = {
+        birth = yes
+    }
+}
+
+STRM_216 = {
+    name = "Ingirun"
+    culture = "targoth"
+    faith = "halvran_reformed"
+    female = yes
+    dynasty = STRM_Kurnsgald #Kurnsgald
+    father = STRM_231 #Torben
+    mother = STRM_323 #Thora
+    0576.1.1 = {
+        birth = yes
+    }
+}
+
+STRM_217 = {
+    name = "Jofrid"
+    culture = "targoth"
+    faith = "halvran_reformed"
+    female = yes
+    dynasty = STRM_Kurnsgald #Kurnsgald
+    father = STRM_231 #Torben
+    mother = STRM_323 #Thora
+    0578.1.1 = {
+        birth = yes
+    }
+}
+
+STRM_218 = {
+    name = "Leif"
+    culture = "targoth"
+    faith = "halvran_reformed"
+    dynasty = STRM_Kurnsgald #Kurnsgald
+    father = STRM_207 #Eystein
+    mother = STRM_379 #Eydis
+    0570.1.1 = {
+        birth = yes
+    }
+}
+
+STRM_219 = {
+    name = "Njord"
+    culture = "targoth"
+    faith = "halvran_reformed"
+    dynasty = STRM_Kurnsgald #Kurnsgald
+    father = STRM_207 #Eystein
+    mother = STRM_379 #Eydis
+    0573.1.1 = {
+        birth = yes
+    }
+}
+
+STRM_22 = {
+    name = "Kjartan"
+    culture = "stormward"
+    faith = "halvran_reformed"
+    dynasty = STRM_Bearkarl #Bearkarl
+    father = STRM_1 #Asbjorn
+    mother = STRM_120 #Gertrud
+    0580.1.1 = {
+        birth = yes
+    }
+}
+
+STRM_220 = {
+    name = "Olaf"
+    culture = "targoth"
+    faith = "halvran_reformed"
+    dynasty = STRM_Kurnsgald #Kurnsgald
+    father = STRM_207 #Eystein
+    mother = STRM_379 #Eydis
+    0575.1.1 = {
+        birth = yes
+    }
+}
+
+STRM_221 = {
+    name = "Ragnhild"
+    culture = "targoth"
+    faith = "halvran_reformed"
+    female = yes
+    dynasty = STRM_Kurnsgald #Kurnsgald
+    father = STRM_232 #Torgeir
+    mother = STRM_135 #Skadi
+    0547.1.1 = {
+        birth = yes
+    }
+    0570.1.1 = {
+        add_spouse = STRM_164 #Eystein
+    }
+}
+
+STRM_222 = {
+    name = "Randi"
+    culture = "targoth"
+    faith = "halvran_reformed"
+    female = yes
+    dynasty = STRM_Kurnsgald #Kurnsgald
+    father = STRM_232 #Torgeir
+    mother = STRM_135 #Skadi
+    0552.1.1 = {
+        birth = yes
+    }
+    0568.1.1 = {
+        add_spouse = STRM_172 #Hemming
+    }
+}
+
+STRM_223 = {
+    name = "Rane"
+    culture = "targoth"
+    faith = "halvran_reformed"
+    dynasty = STRM_Kurnsgald #Kurnsgald
+    father = STRM_228 #Thorleif
+    mother = STRM_322 #Solveig
+    0571.1.1 = {
+        birth = yes
+    }
+}
+
+STRM_224 = {
+    name = "Snorri"
+    culture = "targoth"
+    faith = "halvran_reformed"
+    dynasty = STRM_Kurnsgald #Kurnsgald
+    father = STRM_214 #Hemming
+    mother = STRM_385 #Oddny
+    0575.1.1 = {
+        birth = yes
+    }
+}
+
+STRM_225 = {
+    name = "Steinn"
+    culture = "targoth"
+    faith = "halvran_reformed"
+    dynasty = STRM_Kurnsgald #Kurnsgald
+    father = STRM_228 #Thorleif
+    mother = STRM_322 #Solveig
+    0573.1.1 = {
+        birth = yes
+    }
+}
+
+STRM_226 = {
+    name = "Styrkar"
+    culture = "targoth"
+    faith = "halvran_reformed"
+    dynasty = STRM_Kurnsgald #Kurnsgald
+    father = STRM_214 #Hemming
+    mother = STRM_385 #Oddny
+    0579.1.1 = {
+        birth = yes
+    }
+}
+
+STRM_227 = {
+    name = "Thora"
+    culture = "targoth"
+    faith = "halvran_reformed"
+    female = yes
+    dynasty = STRM_Kurnsgald #Kurnsgald
+    father = STRM_228 #Thorleif
+    mother = STRM_322 #Solveig
+    0569.1.1 = {
+        birth = yes
+    }
+}
+
+STRM_228 = {
+    name = "Thorleif"
+    culture = "targoth"
+    faith = "halvran_reformed"
+    dynasty = STRM_Kurnsgald #Kurnsgald
+    father = STRM_232 #Torgeir
+    mother = STRM_135 #Skadi
+    0546.1.1 = {
+        birth = yes
+    }
+    0567.1.1 = {
+        add_spouse = STRM_322 #Solveig
+    }
+}
+
+STRM_229 = {
+    name = "Thorvald"
+    culture = "targoth"
+    faith = "halvran_reformed"
+    dynasty = STRM_Kurnsgald #Kurnsgald
+    father = STRM_228 #Thorleif
+    mother = STRM_322 #Solveig
+    0576.1.1 = {
+        birth = yes
+    }
+}
+
+STRM_23 = {
+    name = "Kolbeinn"
+    culture = "stormward"
+    faith = "halvran_reformed"
+    dynasty = STRM_Bearkarl #Bearkarl
+    father = STRM_1 #Asbjorn
+    mother = STRM_120 #Gertrud
+    0583.1.1 = {
+        birth = yes
+    }
+}
+
+STRM_230 = {
+    name = "Thyra"
+    culture = "targoth"
+    faith = "halvran_reformed"
+    female = yes
+    dynasty = STRM_Kurnsgald #Kurnsgald
+    father = STRM_234 #Ulf
+    mother = STRM_333 #Halla
+    0550.1.1 = {
+        birth = yes
+    }
+    0569.1.1 = {
+        add_spouse = STRM_183 #Sighvat
+    }
+}
+
+STRM_231 = {
+    name = "Torben"
+    culture = "targoth"
+    faith = "halvran_reformed"
+    dynasty = STRM_Kurnsgald #Kurnsgald
+    father = STRM_232 #Torgeir
+    mother = STRM_135 #Skadi
+    0550.1.1 = {
+        birth = yes
+    }
+    0572.1.1 = {
+        add_spouse = STRM_323 #Thora
+    }
+}
+
+STRM_232 = {
+    name = "Torgeir"
+    culture = "targoth"
+    faith = "halvran_reformed"
+    dynasty = STRM_Kurnsgald #Kurnsgald
+    father = STRM_206 #Erling
+    0517.1.1 = {
+        birth = yes
+    }
+    0544.1.1 = {
+        add_spouse = STRM_135 #Skadi
+    }
+    0573.1.1 = {
+        death = yes
+    }
+}
+
+STRM_233 = {
+    name = "Torgeir"
+    culture = "targoth"
+    faith = "halvran_reformed"
+    dynasty = STRM_Kurnsgald #Kurnsgald
+    father = STRM_232 #Torgeir
+    mother = STRM_135 #Skadi
+    0555.1.1 = {
+        birth = yes
+    }
+    0571.1.1 = {
+        add_spouse = STRM_375 #Bodil
+    }
+}
+
+STRM_234 = {
+    name = "Ulf"
+    culture = "targoth"
+    faith = "halvran_reformed"
+    dynasty = STRM_Kurnsgald #Kurnsgald
+    father = STRM_206 #Erling
+    0520.1.1 = {
+        birth = yes
+    }
+    0546.1.1 = {
+        add_spouse = STRM_333 #Halla
+    }
+    0580.1.1 = {
+        death = yes
+    }
+}
+
+STRM_235 = {
+    name = "Unn"
+    culture = "targoth"
+    faith = "halvran_reformed"
+    female = yes
+    dynasty = STRM_Kurnsgald #Kurnsgald
+    father = STRM_228 #Thorleif
+    mother = STRM_322 #Solveig
+    0572.1.1 = {
+        birth = yes
+    }
+}
+
+STRM_236 = {
+    name = "Unn"
+    culture = "targoth"
+    faith = "halvran_reformed"
+    female = yes
+    dynasty = STRM_Kurnsgald #Kurnsgald
+    father = STRM_206 #Erling
+    0519.1.1 = {
+        birth = yes
+    }
+    0542.1.1 = {
+        add_spouse = STRM_21 #Ketill
+    }
+    0568.1.1 = {
+        death = yes
+    }
+}
+
+STRM_237 = {
+    name = "Valdis"
+    culture = "targoth"
+    faith = "halvran_reformed"
+    female = yes
+    dynasty = STRM_Kurnsgald #Kurnsgald
+    father = STRM_228 #Thorleif
+    mother = STRM_322 #Solveig
+    0575.1.1 = {
+        birth = yes
+    }
+}
+
+STRM_238 = {
+    name = "Valdis"
+    culture = "targoth"
+    faith = "halvran_reformed"
+    female = yes
+    dynasty = STRM_Kurnsgald #Kurnsgald
+    father = STRM_206 #Erling
+    0522.1.1 = {
+        birth = yes
+    }
+    0548.1.1 = {
+        add_spouse = STRM_301 #Olaf
+    }
+    0571.1.1 = {
+        death = yes
+    }
+}
+
+STRM_239 = {
+    name = "Vigdis"
+    culture = "targoth"
+    faith = "halvran_reformed"
+    female = yes
+    dynasty = STRM_Kurnsgald #Kurnsgald
+    father = STRM_233 #Torgeir
+    mother = STRM_375 #Bodil
+    0572.1.1 = {
+        birth = yes
+    }
+}
+
+STRM_24 = {
+    name = "Kolfinna"
+    culture = "stormward"
+    faith = "halvran_reformed"
+    female = yes
+    dynasty = STRM_Bearkarl #Bearkarl
+    father = STRM_33 #Trond
+    mother = STRM_104 #Tove
+    0578.1.1 = {
+        birth = yes
+    }
+}
+
+STRM_240 = {
+    name = "Alfhild"
+    culture = "stormward"
+    faith = "halvran_reformed"
+    female = yes
+    dynasty = STRM_Skallvek #Skallvek
+    father = STRM_274 #Varrond
+    0517.1.1 = {
+        birth = yes
+    }
+    0544.1.1 = {
+        add_spouse = STRM_314 #Brandr
+    }
+    0574.1.1 = {
+        death = yes
+    }
+}
+
+STRM_241 = {
+    name = "Arnbjorg"
+    culture = "stormward"
+    faith = "halvran_reformed"
+    female = yes
+    dynasty = STRM_Skallvek #Skallvek
+    father = STRM_274 #Varrond
+    0520.1.1 = {
+        birth = yes
+    }
+    0540.1.1 = {
+        add_spouse = STRM_380 #Fjolnir
+    }
+}
+
+STRM_242 = {
+    name = "Arnbjorg"
+    culture = "stormward"
+    faith = "halvran_reformed"
+    female = yes
+    dynasty = STRM_Skallvek #Skallvek
+    father = STRM_244 #Asbjorn
+    mother = STRM_168 #Gudrun
+    0549.1.1 = {
+        birth = yes
+    }
+    0570.1.1 = {
+        add_spouse = STRM_106 #Vidfamne
+    }
+}
+
+STRM_243 = {
+    name = "Arvid"
+    culture = "stormward"
+    faith = "halvran_reformed"
+    dynasty = STRM_Skallvek #Skallvek
+    father = STRM_274 #Varrond
+    0518.1.1 = {
+        birth = yes
+    }
+    0541.1.1 = {
+        add_spouse = STRM_14 #Hildr
+    }
+    0575.1.1 = {
+        death = yes
+    }
+}
+
+STRM_244 = {
+    name = "Asbjorn"
+    culture = "stormward"
+    faith = "halvran_reformed"
+    dynasty = STRM_Skallvek #Skallvek
+    father = STRM_274 #Varrond
+    0515.1.1 = {
+        birth = yes
+    }
+    0546.1.1 = {
+        add_spouse = STRM_168 #Gudrun
+    }
+    0583.1.1 = {
+        death = yes
+    }
+}
+
+STRM_245 = {
+    name = "Asfrid"
+    culture = "stormward"
+    faith = "halvran_reformed"
+    female = yes
+    dynasty = STRM_Skallvek #Skallvek
+    father = STRM_259 #Hallstein
+    mother = STRM_36 #Vigdis
+    0578.1.1 = {
+        birth = yes
+    }
+}
+
+STRM_246 = {
+    name = "Aslaug"
+    culture = "stormward"
+    faith = "halvran_reformed"
+    female = yes
+    dynasty = STRM_Skallvek #Skallvek
+    father = STRM_244 #Asbjorn
+    mother = STRM_168 #Gudrun
+    0554.1.1 = {
+        birth = yes
+    }
+    0572.1.1 = {
+        add_spouse = STRM_74 #Asbjorn
+    }
+}
+
+STRM_247 = {
+    name = "Aslaug"
+    culture = "stormward"
+    faith = "halvran_reformed"
+    female = yes
+    dynasty = STRM_Skallvek #Skallvek
+    father = STRM_250 #Canute
+    mother = STRM_195 #Valdis
+    0571.1.1 = {
+        birth = yes
+    }
+}
+
+STRM_248 = {
+    name = "Aud"
+    culture = "stormward"
+    faith = "halvran_reformed"
+    female = yes
+    dynasty = STRM_Skallvek #Skallvek
+    father = STRM_250 #Canute
+    mother = STRM_195 #Valdis
+    0575.1.1 = {
+        birth = yes
+    }
+}
+
+STRM_249 = {
+    name = "Bryndric"
+    culture = "stormward"
+    faith = "halvran_reformed"
+    dynasty = STRM_Skallvek #Skallvek
+    father = STRM_244 #Asbjorn
+    mother = STRM_168 #Gudrun
+    0556.1.1 = {
+        birth = yes
+    }
+    0575.1.1 = {
+        add_spouse = STRM_16 #Hreidun
+    }
+}
+
+STRM_25 = {
+    name = "Kollsvein"
+    culture = "stormward"
+    faith = "halvran_reformed"
+    dynasty = STRM_Bearkarl #Bearkarl
+    father = STRM_15 #Hoskuld
+    mother = STRM_102 #Steinunn
+    0572.1.1 = {
+        birth = yes
+    }
+}
+
+STRM_250 = {
+    name = "Canute"
+    culture = "stormward"
+    faith = "halvran_reformed"
+    dynasty = STRM_Skallvek #Skallvek
+    father = STRM_244 #Asbjorn
+    mother = STRM_168 #Gudrun
+    0546.1.1 = {
+        birth = yes
+    }
+    0571.1.1 = {
+        add_spouse = STRM_195 #Valdis
+    }
+}
+
+STRM_251 = {
+    name = "Egil"
+    culture = "stormward"
+    faith = "halvran_reformed"
+    dynasty = STRM_Skallvek #Skallvek
+    father = STRM_244 #Asbjorn
+    mother = STRM_168 #Gudrun
+    0552.1.1 = {
+        birth = yes
+    }
+    0573.1.1 = {
+        add_spouse = STRM_199 #Yrsa
+    }
+}
+
+STRM_252 = {
+    name = "Eira"
+    culture = "stormward"
+    faith = "halvran_reformed"
+    female = yes
+    dynasty = STRM_Skallvek #Skallvek
+    father = STRM_243 #Arvid
+    mother = STRM_14 #Hildr
+    0548.1.1 = {
+        birth = yes
+    }
+    0569.1.1 = {
+        add_spouse = STRM_110 #Canute
+    }
+}
+
+STRM_253 = {
+    name = "Eystein"
+    culture = "stormward"
+    faith = "halvran_reformed"
+    dynasty = STRM_Skallvek #Skallvek
+    father = STRM_256 #Gunnar
+    mother = STRM_32 #Torhild
+    0576.1.1 = {
+        birth = yes
+    }
+}
+
+STRM_254 = {
+    name = "Freya"
+    culture = "stormward"
+    faith = "halvran_reformed"
+    female = yes
+    dynasty = STRM_Skallvek #Skallvek
+    father = STRM_251 #Egil
+    mother = STRM_199 #Yrsa
+    0575.1.1 = {
+        birth = yes
+    }
+}
+
+STRM_255 = {
+    name = "Geira"
+    culture = "stormward"
+    faith = "halvran_reformed"
+    female = yes
+    dynasty = STRM_Skallvek #Skallvek
+    father = STRM_251 #Egil
+    mother = STRM_199 #Yrsa
+    0578.1.1 = {
+        birth = yes
+    }
+}
+
+STRM_256 = {
+    name = "Gunnar"
+    culture = "stormward"
+    faith = "halvran_reformed"
+    dynasty = STRM_Skallvek #Skallvek
+    father = STRM_243 #Arvid
+    mother = STRM_14 #Hildr
+    0545.1.1 = {
+        birth = yes
+    }
+    0571.1.1 = {
+        add_spouse = STRM_32 #Torhild
+    }
+}
+
+STRM_257 = {
+    name = "Gunnhild"
+    culture = "stormward"
+    faith = "halvran_reformed"
+    female = yes
+    dynasty = STRM_Skallvek #Skallvek
+    father = STRM_251 #Egil
+    mother = STRM_199 #Yrsa
+    0580.1.1 = {
+        birth = yes
+    }
+}
+
+STRM_258 = {
+    name = "Halfdan"
+    culture = "stormward"
+    faith = "halvran_reformed"
+    dynasty = STRM_Skallvek #Skallvek
+    father = STRM_250 #Canute
+    mother = STRM_195 #Valdis
+    0573.1.1 = {
+        birth = yes
+    }
+}
+
+STRM_259 = {
+    name = "Hallstein"
+    culture = "stormward"
+    faith = "halvran_reformed"
+    dynasty = STRM_Skallvek #Skallvek
+    father = STRM_243 #Arvid
+    mother = STRM_14 #Hildr
+    0549.1.1 = {
+        birth = yes
+    }
+    0572.1.1 = {
+        add_spouse = STRM_36 #Vigdis
+    }
+}
+
+STRM_26 = {
+    name = "Ragnfrid"
+    culture = "stormward"
+    faith = "halvran_reformed"
+    female = yes
+    dynasty = STRM_Bearkarl #Bearkarl
+    father = STRM_8 #Eldgrim
+    mother = STRM_87 #Gudfinna
+    0568.1.1 = {
+        birth = yes
+    }
+}
+
+STRM_260 = {
+    name = "Hallvard"
+    culture = "stormward"
+    faith = "halvran_reformed"
+    dynasty = STRM_Skallvek #Skallvek
+    father = STRM_259 #Hallstein
+    mother = STRM_36 #Vigdis
+    0576.1.1 = {
+        birth = yes
+    }
+}
+
+STRM_261 = {
+    name = "Harald"
+    culture = "stormward"
+    faith = "halvran_reformed"
+    dynasty = STRM_Skallvek #Skallvek
+    father = STRM_250 #Canute
+    mother = STRM_195 #Valdis
+    0576.1.1 = {
+        birth = yes
+    }
+}
+
+STRM_262 = {
+    name = "Ingunn"
+    culture = "stormward"
+    faith = "halvran_reformed"
+    female = yes
+    dynasty = STRM_Skallvek #Skallvek
+    father = STRM_249 #Bryndric
+    mother = STRM_16 #Hreidun
+    0576.1.1 = {
+        birth = yes
+    }
+}
+
+STRM_263 = {
+    name = "Jokul"
+    culture = "stormward"
+    faith = "halvran_reformed"
+    dynasty = STRM_Skallvek #Skallvek
+    father = STRM_259 #Hallstein
+    mother = STRM_36 #Vigdis
+    0579.1.1 = {
+        birth = yes
+    }
+}
+
+STRM_264 = {
+    name = "Kara"
+    culture = "stormward"
+    faith = "halvran_reformed"
+    female = yes
+    dynasty = STRM_Skallvek #Skallvek
+    father = STRM_249 #Bryndric
+    mother = STRM_16 #Hreidun
+    0580.1.1 = {
+        birth = yes
+    }
+}
+
+STRM_265 = {
+    name = "Katla"
+    culture = "stormward"
+    faith = "halvran_reformed"
+    female = yes
+    dynasty = STRM_Skallvek #Skallvek
+    father = STRM_249 #Bryndric
+    mother = STRM_16 #Hreidun
+    0584.1.1 = {
+        birth = yes
+    }
+}
+
+STRM_266 = {
+    name = "Leif"
+    culture = "stormward"
+    faith = "halvran_reformed"
+    dynasty = STRM_Skallvek #Skallvek
+    father = STRM_251 #Egil
+    mother = STRM_199 #Yrsa
+    0577.1.1 = {
+        birth = yes
+    }
+}
+
+STRM_267 = {
+    name = "Njord"
+    culture = "stormward"
+    faith = "halvran_reformed"
+    dynasty = STRM_Skallvek #Skallvek
+    father = STRM_251 #Egil
+    mother = STRM_199 #Yrsa
+    0579.1.1 = {
+        birth = yes
+    }
+}
+
+STRM_268 = {
+    name = "Olaf"
+    culture = "stormward"
+    faith = "halvran_reformed"
+    dynasty = STRM_Skallvek #Skallvek
+    father = STRM_251 #Egil
+    mother = STRM_199 #Yrsa
+    0582.1.1 = {
+        birth = yes
+    }
+}
+
+STRM_269 = {
+    name = "Randi"
+    culture = "stormward"
+    faith = "halvran_reformed"
+    female = yes
+    dynasty = STRM_Skallvek #Skallvek
+    father = STRM_256 #Gunnar
+    mother = STRM_32 #Torhild
+    0571.1.1 = {
+        birth = yes
+    }
+}
+
+STRM_27 = {
+    name = "Rakel"
+    culture = "stormward"
+    faith = "halvran_reformed"
+    female = yes
+    dynasty = STRM_Bearkarl #Bearkarl
+    father = STRM_8 #Eldgrim
+    mother = STRM_87 #Gudfinna
+    0570.1.1 = {
+        birth = yes
+    }
+}
+
+STRM_270 = {
+    name = "Saxa"
+    culture = "stormward"
+    faith = "halvran_reformed"
+    female = yes
+    dynasty = STRM_Skallvek #Skallvek
+    father = STRM_256 #Gunnar
+    mother = STRM_32 #Torhild
+    0574.1.1 = {
+        birth = yes
+    }
+}
+
+STRM_271 = {
+    name = "Sigrid"
+    culture = "stormward"
+    faith = "halvran_reformed"
+    female = yes
+    dynasty = STRM_Skallvek #Skallvek
+    father = STRM_256 #Gunnar
+    mother = STRM_32 #Torhild
+    0578.1.1 = {
+        birth = yes
+    }
+}
+
+STRM_272 = {
+    name = "Styrkar"
+    culture = "stormward"
+    faith = "halvran_reformed"
+    dynasty = STRM_Skallvek #Skallvek
+    father = STRM_249 #Bryndric
+    mother = STRM_16 #Hreidun
+    0582.1.1 = {
+        birth = yes
+    }
+}
+
+STRM_273 = {
+    name = "Varrond"
+    culture = "stormward"
+    faith = "halvran_reformed"
+    dynasty = STRM_Skallvek #Skallvek
+    father = STRM_249 #Bryndric
+    mother = STRM_16 #Hreidun
+    0578.1.1 = {
+        birth = yes
+    }
+}
+
+STRM_274 = {
+    name = "Varrond"
+    culture = "stormward"
+    faith = "halvran_reformed"
+    dynasty = STRM_Skallvek #Skallvek
+    0480.1.1 = {
+        birth = yes
+    }
+    0552.1.1 = {
+        death = yes
+    }
+}
+
+STRM_275 = {
+    name = "Viggo"
+    culture = "stormward"
+    faith = "halvran_reformed"
+    dynasty = STRM_Skallvek #Skallvek
+    father = STRM_256 #Gunnar
+    mother = STRM_32 #Torhild
+    0573.1.1 = {
+        birth = yes
+    }
+}
+
+STRM_276 = {
+    name = "Yrsa"
+    culture = "stormward"
+    faith = "halvran_reformed"
+    female = yes
+    dynasty = STRM_Skallvek #Skallvek
+    father = STRM_259 #Hallstein
+    mother = STRM_36 #Vigdis
+    0574.1.1 = {
+        birth = yes
+    }
+}
+
+STRM_277 = {
+    name = "Aldis"
+    culture = "targoth"
+    faith = "halvran_reformed"
+    female = yes
+    dynasty = STRM_Targund #Targund
+    father = STRM_301 #Olaf
+    mother = STRM_238 #Valdis
+    0554.1.1 = {
+        birth = yes
+    }
+    0574.1.1 = {
+        add_spouse = STRM_55 #Ketill
+    }
+}
+
+STRM_278 = {
+    name = "Alruna"
+    culture = "targoth"
+    faith = "halvran_reformed"
+    female = yes
+    dynasty = STRM_Targund #Targund
+    father = STRM_301 #Olaf
+    mother = STRM_238 #Valdis
+    0558.1.1 = {
+        birth = yes
+    }
+    0574.1.1 = {
+        add_spouse = STRM_57 #Knut
+    }
+}
+
+STRM_279 = {
+    name = "Arngrim"
+    culture = "targoth"
+    faith = "halvran_reformed"
+    dynasty = STRM_Targund #Targund
+    father = STRM_295 #Hallstein
+    mother = STRM_332 #Gudrun
+    0585.1.1 = {
+        birth = yes
+    }
+}
+
+STRM_28 = {
+    name = "Runa"
+    culture = "stormward"
+    faith = "halvran_reformed"
+    female = yes
+    dynasty = STRM_Bearkarl #Bearkarl
+    father = STRM_8 #Eldgrim
+    mother = STRM_87 #Gudfinna
+    0572.1.1 = {
+        birth = yes
+    }
+}
+
+STRM_280 = {
+    name = "Asny"
+    culture = "targoth"
+    faith = "halvran_reformed"
+    female = yes
+    dynasty = STRM_Targund #Targund
+    father = STRM_295 #Hallstein
+    mother = STRM_332 #Gudrun
+    0578.1.1 = {
+        birth = yes
+    }
+}
+
+STRM_281 = {
+    name = "Canute"
+    culture = "targoth"
+    faith = "halvran_reformed"
+    dynasty = STRM_Targund #Targund
+    father = STRM_301 #Olaf
+    mother = STRM_238 #Valdis
+    0551.1.1 = {
+        birth = yes
+    }
+    0567.1.1 = {
+        add_spouse = STRM_109 #Bergdis
+    }
+}
+
+STRM_282 = {
+    name = "Dag"
+    culture = "targoth"
+    faith = "halvran_reformed"
+    dynasty = STRM_Targund #Targund
+    0484.1.1 = {
+        birth = yes
+    }
+    0554.1.1 = {
+        death = yes
+    }
+}
+
+STRM_283 = {
+    name = "Dregvar"
+    culture = "targoth"
+    faith = "halvran_reformed"
+    dynasty = STRM_Targund #Targund
+    father = STRM_301 #Olaf
+    mother = STRM_238 #Valdis
+    0555.1.1 = {
+        birth = yes
+    }
+    0574.1.1 = {
+        add_spouse = STRM_112 #Dagny
+    }
+}
+
+STRM_284 = {
+    name = "Droplaug"
+    culture = "targoth"
+    faith = "halvran_reformed"
+    female = yes
+    dynasty = STRM_Targund #Targund
+    father = STRM_295 #Hallstein
+    mother = STRM_332 #Gudrun
+    0581.1.1 = {
+        birth = yes
+    }
+}
+
+STRM_285 = {
+    name = "Edda"
+    culture = "targoth"
+    faith = "halvran_reformed"
+    female = yes
+    dynasty = STRM_Targund #Targund
+    father = STRM_302 #Ragnvald
+    mother = STRM_81 #Eydis
+    0548.1.1 = {
+        birth = yes
+    }
+    0569.1.1 = {
+        add_spouse = STRM_66 #Roar
+    }
+}
+
+STRM_286 = {
+    name = "Eir"
+    culture = "targoth"
+    faith = "halvran_reformed"
+    female = yes
+    dynasty = STRM_Targund #Targund
+    father = STRM_302 #Ragnvald
+    mother = STRM_81 #Eydis
+    0552.1.1 = {
+        birth = yes
+    }
+    0572.1.1 = {
+        add_spouse = STRM_68 #Rurik
+    }
+}
+
+STRM_287 = {
+    name = "Eirik"
+    culture = "targoth"
+    faith = "halvran_reformed"
+    dynasty = STRM_Targund #Targund
+    father = STRM_296 #Hjalti
+    mother = STRM_336 #Inga
+    0574.1.1 = {
+        birth = yes
+    }
+}
+
+STRM_288 = {
+    name = "Eldgrim"
+    culture = "targoth"
+    faith = "halvran_reformed"
+    dynasty = STRM_Targund #Targund
+    father = STRM_293 #Gunnar
+    mother = STRM_330 #Frida
+    0572.1.1 = {
+        birth = yes
+    }
+}
+
+STRM_289 = {
+    name = "Fjolnir"
+    culture = "targoth"
+    faith = "halvran_reformed"
+    dynasty = STRM_Targund #Targund
+    father = STRM_296 #Hjalti
+    mother = STRM_336 #Inga
+    0577.1.1 = {
+        birth = yes
+    }
+}
+
+STRM_29 = {
+    name = "Solvei"
+    culture = "stormward"
+    faith = "halvran_reformed"
+    female = yes
+    dynasty = STRM_Bearkarl #Bearkarl
+    father = STRM_35 #Vidfamne
+    mother = STRM_136 #Svala
+    0570.1.1 = {
+        birth = yes
+    }
+}
+
+STRM_290 = {
+    name = "Frode"
+    culture = "targoth"
+    faith = "halvran_reformed"
+    dynasty = STRM_Targund #Targund
+    father = STRM_293 #Gunnar
+    mother = STRM_330 #Frida
+    0568.1.1 = {
+        birth = yes
+    }
+}
+
+STRM_291 = {
+    name = "Gudfinna"
+    culture = "targoth"
+    faith = "halvran_reformed"
+    female = yes
+    dynasty = STRM_Targund #Targund
+    father = STRM_295 #Hallstein
+    mother = STRM_332 #Gudrun
+    0584.1.1 = {
+        birth = yes
+    }
+}
+
+STRM_292 = {
+    name = "Gudrun"
+    culture = "targoth"
+    faith = "halvran_reformed"
+    female = yes
+    dynasty = STRM_Targund #Targund
+    father = STRM_281 #Canute
+    mother = STRM_109 #Bergdis
+    0568.1.1 = {
+        birth = yes
+    }
+}
+
+STRM_293 = {
+    name = "Gunnar"
+    culture = "targoth"
+    faith = "halvran_reformed"
+    dynasty = STRM_Targund #Targund
+    father = STRM_302 #Ragnvald
+    mother = STRM_81 #Eydis
+    0545.1.1 = {
+        birth = yes
+    }
+    0566.1.1 = {
+        add_spouse = STRM_330 #Frida
+    }
+}
+
+STRM_294 = {
+    name = "Gyda"
+    culture = "targoth"
+    faith = "halvran_reformed"
+    female = yes
+    dynasty = STRM_Targund #Targund
+    father = STRM_281 #Canute
+    mother = STRM_109 #Bergdis
+    0570.1.1 = {
+        birth = yes
+    }
+}
+
+STRM_295 = {
+    name = "Hallstein"
+    culture = "targoth"
+    faith = "halvran_reformed"
+    dynasty = STRM_Targund #Targund
+    father = STRM_302 #Ragnvald
+    mother = STRM_81 #Eydis
+    0551.1.1 = {
+        birth = yes
+    }
+    0576.1.1 = {
+        add_spouse = STRM_332 #Gudrun
+    }
+}
+
+STRM_296 = {
+    name = "Hjalti"
+    culture = "targoth"
+    faith = "halvran_reformed"
+    dynasty = STRM_Targund #Targund
+    father = STRM_302 #Ragnvald
+    mother = STRM_81 #Eydis
+    0554.1.1 = {
+        birth = yes
+    }
+    0572.1.1 = {
+        add_spouse = STRM_336 #Inga
+    }
+}
+
+STRM_297 = {
+    name = "Kari"
+    culture = "targoth"
+    faith = "halvran_reformed"
+    female = yes
+    dynasty = STRM_Targund #Targund
+    father = STRM_283 #Dregvar
+    mother = STRM_112 #Dagny
+    0575.1.1 = {
+        birth = yes
+    }
+}
+
+STRM_298 = {
+    name = "Ketila"
+    culture = "targoth"
+    faith = "halvran_reformed"
+    female = yes
+    dynasty = STRM_Targund #Targund
+    father = STRM_283 #Dregvar
+    mother = STRM_112 #Dagny
+    0579.1.1 = {
+        birth = yes
+    }
+}
+
+STRM_299 = {
+    name = "Laufey"
+    culture = "targoth"
+    faith = "halvran_reformed"
+    female = yes
+    dynasty = STRM_Targund #Targund
+    father = STRM_282 #Dag
+    0517.1.1 = {
+        birth = yes
+    }
+    0548.1.1 = {
+        add_spouse = STRM_48 #Eirik
+    }
+    0583.1.1 = {
+        death = yes
+    }
+}
+
+STRM_3 = {
+    name = "Bera"
+    culture = "stormward"
+    faith = "halvran_reformed"
+    female = yes
+    dynasty = STRM_Bearkarl #Bearkarl
+    father = STRM_1 #Asbjorn
+    mother = STRM_120 #Gertrud
+    0578.1.1 = {
+        birth = yes
+    }
+}
+
+STRM_30 = {
+    name = "Sturla"
+    culture = "stormward"
+    faith = "halvran_reformed"
+    dynasty = STRM_Bearkarl #Bearkarl
+    father = STRM_8 #Eldgrim
+    mother = STRM_87 #Gudfinna
+    0574.1.1 = {
+        birth = yes
+    }
+}
+
+STRM_300 = {
+    name = "Lotta"
+    culture = "targoth"
+    faith = "halvran_reformed"
+    female = yes
+    dynasty = STRM_Targund #Targund
+    father = STRM_282 #Dag
+    0520.1.1 = {
+        birth = yes
+    }
+    0541.1.1 = {
+        add_spouse = STRM_169 #Gunnar
+    }
+}
+
+STRM_301 = {
+    name = "Olaf"
+    culture = "targoth"
+    faith = "halvran_reformed"
+    dynasty = STRM_Targund #Targund
+    father = STRM_282 #Dag
+    0515.1.1 = {
+        birth = yes
+    }
+    0548.1.1 = {
+        add_spouse = STRM_238 #Valdis
+    }
+}
+
+STRM_302 = {
+    name = "Ragnvald"
+    culture = "targoth"
+    faith = "halvran_reformed"
+    dynasty = STRM_Targund #Targund
+    father = STRM_282 #Dag
+    0518.1.1 = {
+        birth = yes
+    }
+    0541.1.1 = {
+        add_spouse = STRM_81 #Eydis
+    }
+}
+
+STRM_303 = {
+    name = "Sif"
+    culture = "targoth"
+    faith = "halvran_reformed"
+    female = yes
+    dynasty = STRM_Targund #Targund
+    father = STRM_293 #Gunnar
+    mother = STRM_330 #Frida
+    0566.1.1 = {
+        birth = yes
+    }
+}
+
+STRM_304 = {
+    name = "Sigmund"
+    culture = "targoth"
+    faith = "halvran_reformed"
+    dynasty = STRM_Targund #Targund
+    father = STRM_281 #Canute
+    mother = STRM_109 #Bergdis
+    0569.1.1 = {
+        birth = yes
+    }
+}
+
+STRM_305 = {
+    name = "Signe"
+    culture = "targoth"
+    faith = "halvran_reformed"
+    female = yes
+    dynasty = STRM_Targund #Targund
+    father = STRM_293 #Gunnar
+    mother = STRM_330 #Frida
+    0570.1.1 = {
+        birth = yes
+    }
+}
+
+STRM_306 = {
+    name = "Skadi"
+    culture = "targoth"
+    faith = "halvran_reformed"
+    female = yes
+    dynasty = STRM_Targund #Targund
+    father = STRM_296 #Hjalti
+    mother = STRM_336 #Inga
+    0572.1.1 = {
+        birth = yes
+    }
+}
+
+STRM_307 = {
+    name = "Thrud"
+    culture = "targoth"
+    faith = "halvran_reformed"
+    female = yes
+    dynasty = STRM_Targund #Targund
+    father = STRM_296 #Hjalti
+    mother = STRM_336 #Inga
+    0575.1.1 = {
+        birth = yes
+    }
+}
+
+STRM_308 = {
+    name = "Ulfrekr"
+    culture = "targoth"
+    faith = "halvran_reformed"
+    dynasty = STRM_Targund #Targund
+    father = STRM_295 #Hallstein
+    mother = STRM_332 #Gudrun
+    0580.1.1 = {
+        birth = yes
+    }
+}
+
+STRM_309 = {
+    name = "Vali"
+    culture = "targoth"
+    faith = "halvran_reformed"
+    dynasty = STRM_Targund #Targund
+    father = STRM_283 #Dregvar
+    mother = STRM_112 #Dagny
+    0577.1.1 = {
+        birth = yes
+    }
+}
+
+STRM_31 = {
+    name = "Svala"
+    culture = "stormward"
+    faith = "halvran_reformed"
+    female = yes
+    dynasty = STRM_Bearkarl #Bearkarl
+    father = STRM_35 #Vidfamne
+    mother = STRM_136 #Svala
+    0575.1.1 = {
+        birth = yes
+    }
+}
+
+STRM_310 = {
+    name = "Yngling"
+    culture = "targoth"
+    faith = "halvran_reformed"
+    dynasty = STRM_Targund #Targund
+    father = STRM_295 #Hallstein
+    mother = STRM_332 #Gudrun
+    0582.1.1 = {
+        birth = yes
+    }
+}
+
+STRM_311 = {
+    name = "Alruna"
+    culture = "thurn"
+    faith = "halvran_reformed"
+    female = yes
+    dynasty = STRM_thurnvold #thurnvold
+    father = STRM_316 #Halfdan
+    0519.1.1 = {
+        birth = yes
+    }
+    0545.1.1 = {
+        add_spouse = STRM_101 #Sighvat
+    }
+    0576.1.1 = {
+        death = yes
+    }
+}
+
+STRM_312 = {
+    name = "Arna"
+    culture = "thurn"
+    faith = "halvran_reformed"
+    female = yes
+    dynasty = STRM_thurnvold #thurnvold
+    father = STRM_316 #Halfdan
+    0522.1.1 = {
+        birth = yes
+    }
+    0547.1.1 = {
+        add_spouse = STRM_118 #Eldgrim
+    }
+    0571.1.1 = {
+        death = yes
+    }
+}
+
+STRM_313 = {
+    name = "Bjarni"
+    culture = "thurn"
+    faith = "halvran_reformed"
+    dynasty = STRM_thurnvold #thurnvold
+    father = STRM_316 #Halfdan
+    0517.1.1 = {
+        birth = yes
+    }
+    0547.1.1 = {
+        add_spouse = STRM_151 #Gunnhild
+    }
+    0580.1.1 = {
+        death = yes
+    }
+}
+
+STRM_314 = {
+    name = "Brandr"
+    culture = "thurn"
+    faith = "halvran_reformed"
+    dynasty = STRM_thurnvold #thurnvold
+    father = STRM_316 #Halfdan
+    0520.1.1 = {
+        birth = yes
+    }
+    0544.1.1 = {
+        add_spouse = STRM_240 #Alfhild
+    }
+}
+
+STRM_315 = {
+    name = "Eystein"
+    culture = "thurn"
+    faith = "halvran_reformed"
+    dynasty = STRM_thurnvold #thurnvold
+    father = STRM_314 #Brandr
+    mother = STRM_240 #Alfhild
+    0545.1.1 = {
+        birth = yes
+    }
+}
+
+STRM_316 = {
+    name = "Halfdan"
+    culture = "thurn"
+    faith = "halvran_reformed"
+    dynasty = STRM_thurnvold #thurnvold
+    0482.1.1 = {
+        birth = yes
+    }
+    0555.1.1 = {
+        death = yes
+    }
+}
+
+STRM_317 = {
+    name = "Hemming"
+    culture = "thurn"
+    faith = "halvran_reformed"
+    dynasty = STRM_thurnvold #thurnvold
+    father = STRM_314 #Brandr
+    mother = STRM_240 #Alfhild
+    0548.1.1 = {
+        birth = yes
+    }
+}
+
+STRM_318 = {
+    name = "Nanna"
+    culture = "thurn"
+    faith = "halvran_reformed"
+    female = yes
+    dynasty = STRM_thurnvold #thurnvold
+    father = STRM_313 #Bjarni
+    mother = STRM_151 #Gunnhild
+    0550.1.1 = {
+        birth = yes
+    }
+    0572.1.1 = {
+        add_spouse = STRM_362 #Knut
+    }
+}
+
+STRM_319 = {
+    name = "Ragnfrid"
+    culture = "thurn"
+    faith = "halvran_reformed"
+    female = yes
+    dynasty = STRM_thurnvold #thurnvold
+    father = STRM_313 #Bjarni
+    mother = STRM_151 #Gunnhild
+    0554.1.1 = {
+        birth = yes
+    }
+    0571.1.1 = {
+        add_spouse = STRM_366 #Roar
+    }
+}
+
+STRM_32 = {
+    name = "Torhild"
+    culture = "stormward"
+    faith = "halvran_reformed"
+    female = yes
+    dynasty = STRM_Bearkarl #Bearkarl
+    father = STRM_21 #Ketill
+    mother = STRM_236 #Unn
+    0546.1.1 = {
+        birth = yes
+    }
+    0571.1.1 = {
+        add_spouse = STRM_256 #Gunnar
+    }
+}
+
+STRM_320 = {
+    name = "Rakel"
+    culture = "thurn"
+    faith = "halvran_reformed"
+    female = yes
+    dynasty = STRM_thurnvold #thurnvold
+    father = STRM_313 #Bjarni
+    mother = STRM_151 #Gunnhild
+    0558.1.1 = {
+        birth = yes
+    }
+    0575.1.1 = {
+        add_spouse = STRM_369 #Rurik
+    }
+}
+
+STRM_321 = {
+    name = "Sighvat"
+    culture = "thurn"
+    faith = "halvran_reformed"
+    dynasty = STRM_thurnvold #thurnvold
+    father = STRM_314 #Brandr
+    mother = STRM_240 #Alfhild
+    0553.1.1 = {
+        birth = yes
+    }
+}
+
+STRM_322 = {
+    name = "Solveig"
+    culture = "thurn"
+    faith = "halvran_reformed"
+    female = yes
+    dynasty = STRM_thurnvold #thurnvold
+    father = STRM_314 #Brandr
+    mother = STRM_240 #Alfhild
+    0546.1.1 = {
+        birth = yes
+    }
+    0567.1.1 = {
+        add_spouse = STRM_228 #Thorleif
+    }
+}
+
+STRM_323 = {
+    name = "Thora"
+    culture = "thurn"
+    faith = "halvran_reformed"
+    female = yes
+    dynasty = STRM_thurnvold #thurnvold
+    father = STRM_314 #Brandr
+    mother = STRM_240 #Alfhild
+    0551.1.1 = {
+        birth = yes
+    }
+    0572.1.1 = {
+        add_spouse = STRM_231 #Torben
+    }
+}
+
+STRM_324 = {
+    name = "Thorleif"
+    culture = "thurn"
+    faith = "halvran_reformed"
+    dynasty = STRM_thurnvold #thurnvold
+    father = STRM_313 #Bjarni
+    mother = STRM_151 #Gunnhild
+    0547.1.1 = {
+        birth = yes
+    }
+}
+
+STRM_325 = {
+    name = "Torben"
+    culture = "thurn"
+    faith = "halvran_reformed"
+    dynasty = STRM_thurnvold #thurnvold
+    father = STRM_313 #Bjarni
+    mother = STRM_151 #Gunnhild
+    0552.1.1 = {
+        birth = yes
+    }
+}
+
+STRM_326 = {
+    name = "Torgeir"
+    culture = "thurn"
+    faith = "halvran_reformed"
+    dynasty = STRM_thurnvold #thurnvold
+    father = STRM_313 #Bjarni
+    mother = STRM_151 #Gunnhild
+    0555.1.1 = {
+        birth = yes
+    }
+}
+
+STRM_327 = {
+    name = "Alruna"
+    culture = "thurn"
+    faith = "halvran_reformed"
+    female = yes
+    dynasty = STRM_Varkhuld #Varkhuld
+    father = STRM_339 #Knut
+    mother = STRM_182 #Sif
+    0573.1.1 = {
+        birth = yes
+    }
+}
+
+STRM_328 = {
+    name = "Arna"
+    culture = "thurn"
+    faith = "halvran_reformed"
+    female = yes
+    dynasty = STRM_Varkhuld #Varkhuld
+    father = STRM_339 #Knut
+    mother = STRM_182 #Sif
+    0576.1.1 = {
+        birth = yes
+    }
+}
+
+STRM_329 = {
+    name = "Arnafrid"
+    culture = "thurn"
+    faith = "halvran_reformed"
+    female = yes
+    dynasty = STRM_Varkhuld #Varkhuld
+    father = STRM_331 #Gudbrand
+    0521.1.1 = {
+        birth = yes
+    }
+    0546.1.1 = {
+        add_spouse = STRM_90 #Hemming
+    }
+    0579.1.1 = {
+        death = yes
+    }
+}
+
+STRM_33 = {
+    name = "Trond"
+    culture = "stormward"
+    faith = "halvran_reformed"
+    dynasty = STRM_Bearkarl #Bearkarl
+    father = STRM_21 #Ketill
+    mother = STRM_236 #Unn
+    0545.1.1 = {
+        birth = yes
+    }
+    0572.1.1 = {
+        add_spouse = STRM_104 #Tove
+    }
+}
+
+STRM_330 = {
+    name = "Frida"
+    culture = "thurn"
+    faith = "halvran_reformed"
+    female = yes
+    dynasty = STRM_Varkhuld #Varkhuld
+    father = STRM_344 #Svein
+    mother = STRM_377 #Eir
+    0550.1.1 = {
+        birth = yes
+    }
+    0566.1.1 = {
+        add_spouse = STRM_293 #Gunnar
+    }
+}
+
+STRM_331 = {
+    name = "Gudbrand"
+    culture = "thurn"
+    faith = "halvran_reformed"
+    dynasty = STRM_Varkhuld #Varkhuld
+    0481.1.1 = {
+        birth = yes
+    }
+    0551.1.1 = {
+        death = yes
+    }
+}
+
+STRM_332 = {
+    name = "Gudrun"
+    culture = "thurn"
+    faith = "halvran_reformed"
+    female = yes
+    dynasty = STRM_Varkhuld #Varkhuld
+    father = STRM_344 #Svein
+    mother = STRM_377 #Eir
+    0556.1.1 = {
+        birth = yes
+    }
+    0576.1.1 = {
+        add_spouse = STRM_295 #Hallstein
+    }
+}
+
+STRM_333 = {
+    name = "Halla"
+    culture = "thurn"
+    faith = "halvran_reformed"
+    female = yes
+    dynasty = STRM_Varkhuld #Varkhuld
+    father = STRM_331 #Gudbrand
+    0518.1.1 = {
+        birth = yes
+    }
+    0546.1.1 = {
+        add_spouse = STRM_234 #Ulf
+    }
+    0572.1.1 = {
+        death = yes
+    }
+}
+
+STRM_334 = {
+    name = "Hjalti"
+    culture = "thurn"
+    faith = "halvran_reformed"
+    dynasty = STRM_Varkhuld #Varkhuld
+    father = STRM_338 #Ketill
+    mother = STRM_181 #Runa
+    0569.1.1 = {
+        birth = yes
+    }
+}
+
+STRM_335 = {
+    name = "Hrolf"
+    culture = "thurn"
+    faith = "halvran_reformed"
+    dynasty = STRM_Varkhuld #Varkhuld
+    father = STRM_338 #Ketill
+    mother = STRM_181 #Runa
+    0571.1.1 = {
+        birth = yes
+    }
+}
+
+STRM_336 = {
+    name = "Inga"
+    culture = "thurn"
+    faith = "halvran_reformed"
+    female = yes
+    dynasty = STRM_Varkhuld #Varkhuld
+    father = STRM_347 #Trond
+    mother = STRM_149 #Geira
+    0547.1.1 = {
+        birth = yes
+    }
+    0572.1.1 = {
+        add_spouse = STRM_296 #Hjalti
+    }
+}
+
+STRM_337 = {
+    name = "Ingunn"
+    culture = "thurn"
+    faith = "halvran_reformed"
+    female = yes
+    dynasty = STRM_Varkhuld #Varkhuld
+    father = STRM_347 #Trond
+    mother = STRM_149 #Geira
+    0551.1.1 = {
+        birth = yes
+    }
+    0568.1.1 = {
+        add_spouse = STRM_361 #Ketill
+    }
+}
+
+STRM_338 = {
+    name = "Ketill"
+    culture = "thurn"
+    faith = "halvran_reformed"
+    dynasty = STRM_Varkhuld #Varkhuld
+    father = STRM_344 #Svein
+    mother = STRM_377 #Eir
+    0548.1.1 = {
+        birth = yes
+    }
+    0567.1.1 = {
+        add_spouse = STRM_181 #Runa
+    }
+}
+
+STRM_339 = {
+    name = "Knut"
+    culture = "thurn"
+    faith = "halvran_reformed"
+    dynasty = STRM_Varkhuld #Varkhuld
+    father = STRM_344 #Svein
+    mother = STRM_377 #Eir
+    0553.1.1 = {
+        birth = yes
+    }
+    0572.1.1 = {
+        add_spouse = STRM_182 #Sif
+    }
+}
+
+STRM_34 = {
+    name = "Urd"
+    culture = "stormward"
+    faith = "halvran_reformed"
+    female = yes
+    dynasty = STRM_Bearkarl #Bearkarl
+    father = STRM_15 #Hoskuld
+    mother = STRM_102 #Steinunn
+    0570.1.1 = {
+        birth = yes
+    }
+}
+
+STRM_340 = {
+    name = "Odd"
+    culture = "thurn"
+    faith = "halvran_reformed"
+    dynasty = STRM_Varkhuld #Varkhuld
+    father = STRM_339 #Knut
+    mother = STRM_182 #Sif
+    0574.1.1 = {
+        birth = yes
+    }
+}
+
+STRM_341 = {
+    name = "Orm"
+    culture = "thurn"
+    faith = "halvran_reformed"
+    dynasty = STRM_Varkhuld #Varkhuld
+    father = STRM_339 #Knut
+    mother = STRM_182 #Sif
+    0577.1.1 = {
+        birth = yes
+    }
+}
+
+STRM_342 = {
+    name = "Roar"
+    culture = "thurn"
+    faith = "halvran_reformed"
+    dynasty = STRM_Varkhuld #Varkhuld
+    father = STRM_347 #Trond
+    mother = STRM_149 #Geira
+    0545.1.1 = {
+        birth = yes
+    }
+}
+
+STRM_343 = {
+    name = "Rurik"
+    culture = "thurn"
+    faith = "halvran_reformed"
+    dynasty = STRM_Varkhuld #Varkhuld
+    father = STRM_347 #Trond
+    mother = STRM_149 #Geira
+    0548.1.1 = {
+        birth = yes
+    }
+}
+
+STRM_344 = {
+    name = "Svein"
+    culture = "thurn"
+    faith = "halvran_reformed"
+    dynasty = STRM_Varkhuld #Varkhuld
+    father = STRM_331 #Gudbrand
+    0516.1.1 = {
+        birth = yes
+    }
+    0545.1.1 = {
+        add_spouse = STRM_377 #Eir
+    }
+}
+
+STRM_345 = {
+    name = "Torunn"
+    culture = "thurn"
+    faith = "halvran_reformed"
+    female = yes
+    dynasty = STRM_Varkhuld #Varkhuld
+    father = STRM_338 #Ketill
+    mother = STRM_181 #Runa
+    0570.1.1 = {
+        birth = yes
+    }
+}
+
+STRM_346 = {
+    name = "Tove"
+    culture = "thurn"
+    faith = "halvran_reformed"
+    female = yes
+    dynasty = STRM_Varkhuld #Varkhuld
+    father = STRM_338 #Ketill
+    mother = STRM_181 #Runa
+    0568.1.1 = {
+        birth = yes
+    }
+}
+
+STRM_347 = {
+    name = "Trond"
+    culture = "thurn"
+    faith = "halvran_reformed"
+    dynasty = STRM_Varkhuld #Varkhuld
+    father = STRM_331 #Gudbrand
+    0519.1.1 = {
+        birth = yes
+    }
+    0543.1.1 = {
+        add_spouse = STRM_149 #Geira
+    }
+    0574.1.1 = {
+        death = yes
+    }
+}
+
+STRM_348 = {
+    name = "Alfhild"
+    culture = "targoth"
+    faith = "halvran_reformed"
+    female = yes
+    dynasty = STRM_Veidral #Veidral
+    father = STRM_361 #Ketill
+    mother = STRM_337 #Ingunn
+    0571.1.1 = {
+        birth = yes
+    }
+}
+
+STRM_349 = {
+    name = "Einar"
+    culture = "targoth"
+    faith = "halvran_reformed"
+    dynasty = STRM_Veidral #Veidral
+    0485.1.1 = {
+        birth = yes
+    }
+    0555.1.1 = {
+        death = yes
+    }
+}
+
+STRM_35 = {
+    name = "Vidfamne"
+    culture = "stormward"
+    faith = "halvran_reformed"
+    dynasty = STRM_Bearkarl #Bearkarl
+    father = STRM_21 #Ketill
+    mother = STRM_236 #Unn
+    0549.1.1 = {
+        birth = yes
+    }
+    0569.1.1 = {
+        add_spouse = STRM_136 #Svala
+    }
+}
+
+STRM_350 = {
+    name = "Eir"
+    culture = "targoth"
+    faith = "halvran_reformed"
+    female = yes
+    dynasty = STRM_Veidral #Veidral
+    father = STRM_362 #Knut
+    mother = STRM_318 #Nanna
+    0574.1.1 = {
+        birth = yes
+    }
+}
+
+STRM_351 = {
+    name = "Eldrid"
+    culture = "targoth"
+    faith = "halvran_reformed"
+    female = yes
+    dynasty = STRM_Veidral #Veidral
+    father = STRM_362 #Knut
+    mother = STRM_318 #Nanna
+    0576.1.1 = {
+        birth = yes
+    }
+}
+
+STRM_352 = {
+    name = "Eyja"
+    culture = "targoth"
+    faith = "halvran_reformed"
+    female = yes
+    dynasty = STRM_Veidral #Veidral
+    father = STRM_362 #Knut
+    mother = STRM_318 #Nanna
+    0579.1.1 = {
+        birth = yes
+    }
+}
+
+STRM_353 = {
+    name = "Gertrud"
+    culture = "targoth"
+    faith = "halvran_reformed"
+    female = yes
+    dynasty = STRM_Veidral #Veidral
+    father = STRM_361 #Ketill
+    mother = STRM_337 #Ingunn
+    0568.1.1 = {
+        birth = yes
+    }
+}
+
+STRM_354 = {
+    name = "Gunnhild"
+    culture = "targoth"
+    faith = "halvran_reformed"
+    female = yes
+    dynasty = STRM_Veidral #Veidral
+    father = STRM_372 #Skarde
+    mother = STRM_88 #Hallbera
+    0548.1.1 = {
+        birth = yes
+    }
+    0578.1.1 = {
+        add_spouse = STRM_70 #Sigmund
+    }
+}
+
+STRM_355 = {
+    name = "Hallfrid"
+    culture = "targoth"
+    faith = "halvran_reformed"
+    female = yes
+    dynasty = STRM_Veidral #Veidral
+    father = STRM_372 #Skarde
+    mother = STRM_88 #Hallbera
+    0552.1.1 = {
+        birth = yes
+    }
+    0570.1.1 = {
+        add_spouse = STRM_188 #Thorleif
+    }
+}
+
+STRM_356 = {
+    name = "Hervor"
+    culture = "targoth"
+    faith = "halvran_reformed"
+    female = yes
+    dynasty = STRM_Veidral #Veidral
+    father = STRM_366 #Roar
+    mother = STRM_319 #Ragnfrid
+    0571.1.1 = {
+        birth = yes
+    }
+}
+
+STRM_357 = {
+    name = "Hildr"
+    culture = "targoth"
+    faith = "halvran_reformed"
+    female = yes
+    dynasty = STRM_Veidral #Veidral
+    father = STRM_366 #Roar
+    mother = STRM_319 #Ragnfrid
+    0574.1.1 = {
+        birth = yes
+    }
+}
+
+STRM_358 = {
+    name = "Ivar"
+    culture = "targoth"
+    faith = "halvran_reformed"
+    dynasty = STRM_Veidral #Veidral
+    father = STRM_361 #Ketill
+    mother = STRM_337 #Ingunn
+    0570.1.1 = {
+        birth = yes
+    }
+}
+
+STRM_359 = {
+    name = "Jorunn"
+    culture = "targoth"
+    faith = "halvran_reformed"
+    female = yes
+    dynasty = STRM_Veidral #Veidral
+    father = STRM_373 #Sten
+    mother = STRM_131 #Oddny
+    0546.1.1 = {
+        birth = yes
+    }
+    0566.1.1 = {
+        add_spouse = STRM_190 #Torben
+    }
+}
+
+STRM_36 = {
+    name = "Vigdis"
+    culture = "stormward"
+    faith = "halvran_reformed"
+    female = yes
+    dynasty = STRM_Bearkarl #Bearkarl
+    father = STRM_21 #Ketill
+    mother = STRM_236 #Unn
+    0551.1.1 = {
+        birth = yes
+    }
+    0572.1.1 = {
+        add_spouse = STRM_259 #Hallstein
+    }
+}
+
+STRM_360 = {
+    name = "Kari"
+    culture = "targoth"
+    faith = "halvran_reformed"
+    female = yes
+    dynasty = STRM_Veidral #Veidral
+    father = STRM_373 #Sten
+    mother = STRM_131 #Oddny
+    0549.1.1 = {
+        birth = yes
+    }
+    0573.1.1 = {
+        add_spouse = STRM_191 #Torgeir
+    }
+}
+
+STRM_361 = {
+    name = "Ketill"
+    culture = "targoth"
+    faith = "halvran_reformed"
+    dynasty = STRM_Veidral #Veidral
+    father = STRM_372 #Skarde
+    mother = STRM_88 #Hallbera
+    0545.1.1 = {
+        birth = yes
+    }
+    0568.1.1 = {
+        add_spouse = STRM_337 #Ingunn
+    }
+}
+
+STRM_362 = {
+    name = "Knut"
+    culture = "targoth"
+    faith = "halvran_reformed"
+    dynasty = STRM_Veidral #Veidral
+    father = STRM_372 #Skarde
+    mother = STRM_88 #Hallbera
+    0551.1.1 = {
+        birth = yes
+    }
+    0572.1.1 = {
+        add_spouse = STRM_318 #Nanna
+    }
+}
+
+STRM_363 = {
+    name = "Mardoll"
+    culture = "targoth"
+    faith = "halvran_reformed"
+    female = yes
+    dynasty = STRM_Veidral #Veidral
+    father = STRM_369 #Rurik
+    mother = STRM_320 #Rakel
+    0576.1.1 = {
+        birth = yes
+    }
+}
+
+STRM_364 = {
+    name = "Olrun"
+    culture = "targoth"
+    faith = "halvran_reformed"
+    female = yes
+    dynasty = STRM_Veidral #Veidral
+    father = STRM_369 #Rurik
+    mother = STRM_320 #Rakel
+    0580.1.1 = {
+        birth = yes
+    }
+}
+
+STRM_365 = {
+    name = "Ragnvald"
+    culture = "targoth"
+    faith = "halvran_reformed"
+    dynasty = STRM_Veidral #Veidral
+    father = STRM_362 #Knut
+    mother = STRM_318 #Nanna
+    0575.1.1 = {
+        birth = yes
+    }
+}
+
+STRM_366 = {
+    name = "Roar"
+    culture = "targoth"
+    faith = "halvran_reformed"
+    dynasty = STRM_Veidral #Veidral
+    father = STRM_373 #Sten
+    mother = STRM_131 #Oddny
+    0545.1.1 = {
+        birth = yes
+    }
+    0571.1.1 = {
+        add_spouse = STRM_319 #Ragnfrid
+    }
+}
+
+STRM_367 = {
+    name = "Roar"
+    culture = "targoth"
+    faith = "halvran_reformed"
+    dynasty = STRM_Veidral #Veidral
+    father = STRM_362 #Knut
+    mother = STRM_318 #Nanna
+    0577.1.1 = {
+        birth = yes
+    }
+}
+
+STRM_368 = {
+    name = "Runa"
+    culture = "targoth"
+    faith = "halvran_reformed"
+    female = yes
+    dynasty = STRM_Veidral #Veidral
+    father = STRM_349 #Einar
+    0518.1.1 = {
+        birth = yes
+    }
+    0543.1.1 = {
+        add_spouse = STRM_171 #Hallstein
+    }
+    0581.1.1 = {
+        death = yes
+    }
+}
+
+STRM_369 = {
+    name = "Rurik"
+    culture = "targoth"
+    faith = "halvran_reformed"
+    dynasty = STRM_Veidral #Veidral
+    father = STRM_373 #Sten
+    mother = STRM_131 #Oddny
+    0548.1.1 = {
+        birth = yes
+    }
+    0575.1.1 = {
+        add_spouse = STRM_320 #Rakel
+    }
+}
+
+STRM_37 = {
+    name = "Ylva"
+    culture = "stormward"
+    faith = "halvran_reformed"
+    female = yes
+    dynasty = STRM_Bearkarl #Bearkarl
+    father = STRM_15 #Hoskuld
+    mother = STRM_102 #Steinunn
+    0574.1.1 = {
+        birth = yes
+    }
+}
+
+STRM_370 = {
+    name = "Sif"
+    culture = "targoth"
+    faith = "halvran_reformed"
+    female = yes
+    dynasty = STRM_Veidral #Veidral
+    father = STRM_349 #Einar
+    0521.1.1 = {
+        birth = yes
+    }
+    0544.1.1 = {
+        add_spouse = STRM_19 #Jarl
+    }
+}
+
+STRM_371 = {
+    name = "Sighvat"
+    culture = "targoth"
+    faith = "halvran_reformed"
+    dynasty = STRM_Veidral #Veidral
+    father = STRM_369 #Rurik
+    mother = STRM_320 #Rakel
+    0578.1.1 = {
+        birth = yes
+    }
+}
+
+STRM_372 = {
+    name = "Skarde"
+    culture = "targoth"
+    faith = "halvran_reformed"
+    dynasty = STRM_Veidral #Veidral
+    father = STRM_349 #Einar
+    0516.1.1 = {
+        birth = yes
+    }
+    0544.1.1 = {
+        add_spouse = STRM_88 #Hallbera
+    }
+    0574.1.1 = {
+        death = yes
+    }
+}
+
+STRM_373 = {
+    name = "Sten"
+    culture = "targoth"
+    faith = "halvran_reformed"
+    dynasty = STRM_Veidral #Veidral
+    father = STRM_349 #Einar
+    0519.1.1 = {
+        birth = yes
+    }
+    0540.1.1 = {
+        add_spouse = STRM_131 #Oddny
+    }
+    0574.1.1 = {
+        death = yes
+    }
+}
+
+STRM_374 = {
+    name = "Thorstein"
+    culture = "targoth"
+    faith = "halvran_reformed"
+    dynasty = STRM_Veidral #Veidral
+    father = STRM_366 #Roar
+    mother = STRM_319 #Ragnfrid
+    0573.1.1 = {
+        birth = yes
+    }
+}
+
+STRM_375 = {
+    name = "Bodil"
+    culture = "thurn"
+    faith = "halvran_reformed"
+    female = yes
+    dynasty = STRM_Ylgrid #Ylgrid
+    father = STRM_380 #Fjolnir
+    mother = STRM_241 #Arnbjorg
+    0546.1.1 = {
+        birth = yes
+    }
+    0571.1.1 = {
+        add_spouse = STRM_233 #Torgeir
+    }
+}
+
+STRM_376 = {
+    name = "Edda"
+    culture = "thurn"
+    faith = "halvran_reformed"
+    female = yes
+    dynasty = STRM_Ylgrid #Ylgrid
+    father = STRM_382 #Harald
+    0520.1.1 = {
+        birth = yes
+    }
+    0543.1.1 = {
+        add_spouse = STRM_128 #Hoskuld
+    }
+}
+
+STRM_377 = {
+    name = "Eir"
+    culture = "thurn"
+    faith = "halvran_reformed"
+    female = yes
+    dynasty = STRM_Ylgrid #Ylgrid
+    father = STRM_382 #Harald
+    0523.1.1 = {
+        birth = yes
+    }
+    0545.1.1 = {
+        add_spouse = STRM_344 #Svein
+    }
+    0568.1.1 = {
+        death = yes
+    }
+}
+
+STRM_378 = {
+    name = "Eldgrim"
+    culture = "thurn"
+    faith = "halvran_reformed"
+    dynasty = STRM_Ylgrid #Ylgrid
+    father = STRM_380 #Fjolnir
+    mother = STRM_241 #Arnbjorg
+    0545.1.1 = {
+        birth = yes
+    }
+}
+
+STRM_379 = {
+    name = "Eydis"
+    culture = "thurn"
+    faith = "halvran_reformed"
+    female = yes
+    dynasty = STRM_Ylgrid #Ylgrid
+    father = STRM_380 #Fjolnir
+    mother = STRM_241 #Arnbjorg
+    0548.1.1 = {
+        birth = yes
+    }
+    0567.1.1 = {
+        add_spouse = STRM_207 #Eystein
+    }
+}
+
+STRM_38 = {
+    name = "Arvid"
+    culture = "stormward"
+    faith = "halvran_reformed"
+    dynasty = STRM_Darnhul #Darnhul
+    father = STRM_55 #Ketill
+    mother = STRM_277 #Aldis
+    0580.1.1 = {
+        birth = yes
+    }
+}
+
+STRM_380 = {
+    name = "Fjolnir"
+    culture = "thurn"
+    faith = "halvran_reformed"
+    dynasty = STRM_Ylgrid #Ylgrid
+    father = STRM_382 #Harald
+    0518.1.1 = {
+        birth = yes
+    }
+    0540.1.1 = {
+        add_spouse = STRM_241 #Arnbjorg
+    }
+    0583.1.1 = {
+        death = yes
+    }
+}
+
+STRM_381 = {
+    name = "Geir"
+    culture = "thurn"
+    faith = "halvran_reformed"
+    dynasty = STRM_Ylgrid #Ylgrid
+    father = STRM_382 #Harald
+    0521.1.1 = {
+        birth = yes
+    }
+    0544.1.1 = {
+        add_spouse = STRM_43 #Dagny
+    }
+}
+
+STRM_382 = {
+    name = "Harald"
+    culture = "thurn"
+    faith = "halvran_reformed"
+    dynasty = STRM_Ylgrid #Ylgrid
+    0483.1.1 = {
+        birth = yes
+    }
+    0550.1.1 = {
+        death = yes
+    }
+}
+
+STRM_383 = {
+    name = "Hoskuld"
+    culture = "thurn"
+    faith = "halvran_reformed"
+    dynasty = STRM_Ylgrid #Ylgrid
+    father = STRM_380 #Fjolnir
+    mother = STRM_241 #Arnbjorg
+    0547.1.1 = {
+        birth = yes
+    }
+}
+
+STRM_384 = {
+    name = "Kollsvein"
+    culture = "thurn"
+    faith = "halvran_reformed"
+    dynasty = STRM_Ylgrid #Ylgrid
+    father = STRM_380 #Fjolnir
+    mother = STRM_241 #Arnbjorg
+    0549.1.1 = {
+        birth = yes
+    }
+}
+
+STRM_385 = {
+    name = "Oddny"
+    culture = "thurn"
+    faith = "halvran_reformed"
+    female = yes
+    dynasty = STRM_Ylgrid #Ylgrid
+    father = STRM_381 #Geir
+    mother = STRM_43 #Dagny
+    0548.1.1 = {
+        birth = yes
+    }
+    0571.1.1 = {
+        add_spouse = STRM_214 #Hemming
+    }
+}
+
+STRM_386 = {
+    name = "Skadi"
+    culture = "thurn"
+    faith = "halvran_reformed"
+    female = yes
+    dynasty = STRM_Ylgrid #Ylgrid
+    father = STRM_381 #Geir
+    mother = STRM_43 #Dagny
+    0553.1.1 = {
+        birth = yes
+    }
+    0573.1.1 = {
+        add_spouse = STRM_80 #Eldgrim
+    }
+}
+
+STRM_387 = {
+    name = "Trond"
+    culture = "thurn"
+    faith = "halvran_reformed"
+    dynasty = STRM_Ylgrid #Ylgrid
+    father = STRM_381 #Geir
+    mother = STRM_43 #Dagny
+    0545.1.1 = {
+        birth = yes
+    }
+}
+
+STRM_388 = {
+    name = "Vidfamne"
+    culture = "thurn"
+    faith = "halvran_reformed"
+    dynasty = STRM_Ylgrid #Ylgrid
+    father = STRM_381 #Geir
+    mother = STRM_43 #Dagny
+    0551.1.1 = {
+        birth = yes
+    }
+}
+
+STRM_39 = {
+    name = "Asbjorn"
+    culture = "stormward"
+    faith = "halvran_reformed"
+    dynasty = STRM_Darnhul #Darnhul
+    father = STRM_55 #Ketill
+    mother = STRM_277 #Aldis
+    0577.1.1 = {
+        birth = yes
+    }
+}
+
+STRM_4 = {
+    name = "Borkvar"
+    culture = "stormward"
+    faith = "halvran_reformed"
+    dynasty = STRM_Bearkarl #Bearkarl
+    father = STRM_33 #Trond
+    mother = STRM_104 #Tove
+    0579.1.1 = {
+        birth = yes
+    }
+}
+
+STRM_40 = {
+    name = "Asleif"
+    culture = "stormward"
+    faith = "halvran_reformed"
+    female = yes
+    dynasty = STRM_Darnhul #Darnhul
+    father = STRM_57 #Knut
+    mother = STRM_278 #Alruna
+    0579.1.1 = {
+        birth = yes
+    }
+}
+
+STRM_41 = {
+    name = "Baldr"
+    culture = "stormward"
+    faith = "halvran_reformed"
+    dynasty = STRM_Darnhul #Darnhul
+    0481.1.1 = {
+        birth = yes
+    }
+    0553.1.1 = {
+        death = yes
+    }
+}
+
+STRM_42 = {
+    name = "Dagny"
+    culture = "stormward"
+    faith = "halvran_reformed"
+    female = yes
+    dynasty = STRM_Darnhul #Darnhul
+    father = STRM_66 #Roar
+    mother = STRM_285 #Edda
+    0571.1.1 = {
+        birth = yes
+    }
+}
+
+STRM_43 = {
+    name = "Dagny"
+    culture = "stormward"
+    faith = "halvran_reformed"
+    female = yes
+    dynasty = STRM_Darnhul #Darnhul
+    father = STRM_41 #Baldr
+    0518.1.1 = {
+        birth = yes
+    }
+    0544.1.1 = {
+        add_spouse = STRM_381 #Geir
+    }
+    0576.1.1 = {
+        death = yes
+    }
+}
+
+STRM_44 = {
+    name = "Egil"
+    culture = "stormward"
+    faith = "halvran_reformed"
+    dynasty = STRM_Darnhul #Darnhul
+    father = STRM_41 #Baldr
+    0516.1.1 = {
+        birth = yes
+    }
+    0547.1.1 = {
+        add_spouse = STRM_17 #Inga
+    }
+    0582.1.1 = {
+        death = yes
+    }
+}
+
+STRM_45 = {
+    name = "Eidunn"
+    culture = "stormward"
+    faith = "halvran_reformed"
+    female = yes
+    dynasty = STRM_Darnhul #Darnhul
+    father = STRM_41 #Baldr
+    0521.1.1 = {
+        birth = yes
+    }
+    0541.1.1 = {
+        add_spouse = STRM_153 #Hjalti
+    }
+}
+
+STRM_46 = {
+    name = "Eidunn"
+    culture = "stormward"
+    faith = "halvran_reformed"
+    female = yes
+    dynasty = STRM_Darnhul #Darnhul
+    father = STRM_66 #Roar
+    mother = STRM_285 #Edda
+    0574.1.1 = {
+        birth = yes
+    }
+}
+
+STRM_47 = {
+    name = "Eira"
+    culture = "stormward"
+    faith = "halvran_reformed"
+    female = yes
+    dynasty = STRM_Darnhul #Darnhul
+    father = STRM_66 #Roar
+    mother = STRM_285 #Edda
+    0577.1.1 = {
+        birth = yes
+    }
+}
+
+STRM_48 = {
+    name = "Eirik"
+    culture = "stormward"
+    faith = "halvran_reformed"
+    dynasty = STRM_Darnhul #Darnhul
+    father = STRM_41 #Baldr
+    0519.1.1 = {
+        birth = yes
+    }
+    0548.1.1 = {
+        add_spouse = STRM_299 #Laufey
+    }
+}
+
+STRM_49 = {
+    name = "Floki"
+    culture = "stormward"
+    faith = "halvran_reformed"
+    dynasty = STRM_Darnhul #Darnhul
+    father = STRM_57 #Knut
+    mother = STRM_278 #Alruna
+    0577.1.1 = {
+        birth = yes
+    }
+}
+
+STRM_5 = {
+    name = "Brynhild"
+    culture = "stormward"
+    faith = "halvran_reformed"
+    female = yes
+    dynasty = STRM_Bearkarl #Bearkarl
+    father = STRM_1 #Asbjorn
+    mother = STRM_120 #Gertrud
+    0581.1.1 = {
+        birth = yes
+    }
+}
+
+STRM_50 = {
+    name = "Hallfrid"
+    culture = "stormward"
+    faith = "halvran_reformed"
+    female = yes
+    dynasty = STRM_Darnhul #Darnhul
+    father = STRM_68 #Rurik
+    mother = STRM_286 #Eir
+    0573.1.1 = {
+        birth = yes
+    }
+}
+
+STRM_51 = {
+    name = "Hallgerd"
+    culture = "stormward"
+    faith = "halvran_reformed"
+    female = yes
+    dynasty = STRM_Darnhul #Darnhul
+    father = STRM_44 #Egil
+    mother = STRM_17 #Inga
+    0551.1.1 = {
+        birth = yes
+    }
+    0574.1.1 = {
+        add_spouse = STRM_114 #Egil
+    }
+}
+
+STRM_52 = {
+    name = "Helga"
+    culture = "stormward"
+    faith = "halvran_reformed"
+    female = yes
+    dynasty = STRM_Darnhul #Darnhul
+    father = STRM_68 #Rurik
+    mother = STRM_286 #Eir
+    0576.1.1 = {
+        birth = yes
+    }
+}
+
+STRM_53 = {
+    name = "Jarl"
+    culture = "stormward"
+    faith = "halvran_reformed"
+    dynasty = STRM_Darnhul #Darnhul
+    father = STRM_66 #Roar
+    mother = STRM_285 #Edda
+    0572.1.1 = {
+        birth = yes
+    }
+}
+
+STRM_54 = {
+    name = "Katla"
+    culture = "stormward"
+    faith = "halvran_reformed"
+    female = yes
+    dynasty = STRM_Darnhul #Darnhul
+    father = STRM_48 #Eirik
+    mother = STRM_299 #Laufey
+    0551.1.1 = {
+        birth = yes
+    }
+    0579.1.1 = {
+        add_spouse = STRM_117 #Eirik
+    }
+}
+
+STRM_55 = {
+    name = "Ketill"
+    culture = "stormward"
+    faith = "halvran_reformed"
+    dynasty = STRM_Darnhul #Darnhul
+    father = STRM_44 #Egil
+    mother = STRM_17 #Inga
+    0549.1.1 = {
+        birth = yes
+    }
+    0574.1.1 = {
+        add_spouse = STRM_277 #Aldis
+    }
+}
+
+STRM_56 = {
+    name = "Ketill"
+    culture = "stormward"
+    faith = "halvran_reformed"
+    dynasty = STRM_Darnhul #Darnhul
+    father = STRM_66 #Roar
+    mother = STRM_285 #Edda
+    0575.1.1 = {
+        birth = yes
+    }
+}
+
+STRM_57 = {
+    name = "Knut"
+    culture = "stormward"
+    faith = "halvran_reformed"
+    dynasty = STRM_Darnhul #Darnhul
+    father = STRM_44 #Egil
+    mother = STRM_17 #Inga
+    0552.1.1 = {
+        birth = yes
+    }
+    0574.1.1 = {
+        add_spouse = STRM_278 #Alruna
+    }
+}
+
+STRM_58 = {
+    name = "Knut"
+    culture = "stormward"
+    faith = "halvran_reformed"
+    dynasty = STRM_Darnhul #Darnhul
+    father = STRM_66 #Roar
+    mother = STRM_285 #Edda
+    0578.1.1 = {
+        birth = yes
+    }
+}
+
+STRM_59 = {
+    name = "Laufey"
+    culture = "stormward"
+    faith = "halvran_reformed"
+    female = yes
+    dynasty = STRM_Darnhul #Darnhul
+    father = STRM_48 #Eirik
+    mother = STRM_299 #Laufey
+    0556.1.1 = {
+        birth = yes
+    }
+    0577.1.1 = {
+        add_spouse = STRM_122 #Gunnar
+    }
+}
+
+STRM_6 = {
+    name = "Brynjolf"
+    culture = "stormward"
+    faith = "halvran_reformed"
+    dynasty = STRM_Bearkarl #Bearkarl
+    0483.1.1 = {
+        birth = yes
+    }
+    0551.1.1 = {
+        death = yes
+    }
+}
+
+STRM_60 = {
+    name = "Laufey"
+    culture = "stormward"
+    faith = "halvran_reformed"
+    female = yes
+    dynasty = STRM_Darnhul #Darnhul
+    father = STRM_70 #Sigmund
+    mother = STRM_354 #Gunnhild
+    0578.1.1 = {
+        birth = yes
+    }
+}
+
+STRM_61 = {
+    name = "Ljot"
+    culture = "stormward"
+    faith = "halvran_reformed"
+    female = yes
+    dynasty = STRM_Darnhul #Darnhul
+    father = STRM_55 #Ketill
+    mother = STRM_277 #Aldis
+    0576.1.1 = {
+        birth = yes
+    }
+}
+
+STRM_62 = {
+    name = "Lotta"
+    culture = "stormward"
+    faith = "halvran_reformed"
+    female = yes
+    dynasty = STRM_Darnhul #Darnhul
+    father = STRM_48 #Eirik
+    mother = STRM_299 #Laufey
+    0559.1.1 = {
+        birth = yes
+    }
+    0578.1.1 = {
+        add_spouse = STRM_125 #Hallstein
+    }
+}
+
+STRM_63 = {
+    name = "Lotta"
+    culture = "stormward"
+    faith = "halvran_reformed"
+    female = yes
+    dynasty = STRM_Darnhul #Darnhul
+    father = STRM_70 #Sigmund
+    mother = STRM_354 #Gunnhild
+    0582.1.1 = {
+        birth = yes
+    }
+}
+
+STRM_64 = {
+    name = "Rakelina"
+    culture = "stormward"
+    faith = "halvran_reformed"
+    female = yes
+    dynasty = STRM_Darnhul #Darnhul
+    father = STRM_57 #Knut
+    mother = STRM_278 #Alruna
+    0575.1.1 = {
+        birth = yes
+    }
+}
+
+STRM_65 = {
+    name = "Rannveig"
+    culture = "stormward"
+    faith = "halvran_reformed"
+    female = yes
+    dynasty = STRM_Darnhul #Darnhul
+    father = STRM_55 #Ketill
+    mother = STRM_277 #Aldis
+    0579.1.1 = {
+        birth = yes
+    }
+}
+
+STRM_66 = {
+    name = "Roar"
+    culture = "stormward"
+    faith = "halvran_reformed"
+    dynasty = STRM_Darnhul #Darnhul
+    father = STRM_48 #Eirik
+    mother = STRM_299 #Laufey
+    0550.1.1 = {
+        birth = yes
+    }
+    0569.1.1 = {
+        add_spouse = STRM_285 #Edda
+    }
+}
+
+STRM_67 = {
+    name = "Rolf"
+    culture = "stormward"
+    faith = "halvran_reformed"
+    dynasty = STRM_Darnhul #Darnhul
+    father = STRM_68 #Rurik
+    mother = STRM_286 #Eir
+    0574.1.1 = {
+        birth = yes
+    }
+}
+
+STRM_68 = {
+    name = "Rurik"
+    culture = "stormward"
+    faith = "halvran_reformed"
+    dynasty = STRM_Darnhul #Darnhul
+    father = STRM_48 #Eirik
+    mother = STRM_299 #Laufey
+    0554.1.1 = {
+        birth = yes
+    }
+    0572.1.1 = {
+        add_spouse = STRM_286 #Eir
+    }
+}
+
+STRM_69 = {
+    name = "Sigbrand"
+    culture = "stormward"
+    faith = "halvran_reformed"
+    dynasty = STRM_Darnhul #Darnhul
+    father = STRM_68 #Rurik
+    mother = STRM_286 #Eir
+    0577.1.1 = {
+        birth = yes
+    }
+}
+
+STRM_7 = {
+    name = "Edda"
+    culture = "stormward"
+    faith = "halvran_reformed"
+    female = yes
+    dynasty = STRM_Bearkarl #Bearkarl
+    father = STRM_1 #Asbjorn
+    mother = STRM_120 #Gertrud
+    0584.1.1 = {
+        birth = yes
+    }
+}
+
+STRM_70 = {
+    name = "Sigmund"
+    culture = "stormward"
+    faith = "halvran_reformed"
+    dynasty = STRM_Darnhul #Darnhul
+    father = STRM_48 #Eirik
+    mother = STRM_299 #Laufey
+    0557.1.1 = {
+        birth = yes
+    }
+    0578.1.1 = {
+        add_spouse = STRM_354 #Gunnhild
+    }
+}
+
+STRM_71 = {
+    name = "Steinunn"
+    culture = "stormward"
+    faith = "halvran_reformed"
+    female = yes
+    dynasty = STRM_Darnhul #Darnhul
+    father = STRM_55 #Ketill
+    mother = STRM_277 #Aldis
+    0582.1.1 = {
+        birth = yes
+    }
+}
+
+STRM_72 = {
+    name = "Torgeir"
+    culture = "stormward"
+    faith = "halvran_reformed"
+    dynasty = STRM_Darnhul #Darnhul
+    father = STRM_70 #Sigmund
+    mother = STRM_354 #Gunnhild
+    0580.1.1 = {
+        birth = yes
+    }
+}
+
+STRM_73 = {
+    name = "Arvid"
+    culture = "targoth"
+    faith = "halvran_reformed"
+    dynasty = STRM_Drovenmark #Drovenmark
+    father = STRM_105 #Trond
+    mother = STRM_146 #Astrid
+    0573.1.1 = {
+        birth = yes
+    }
+}
+
+STRM_74 = {
+    name = "Asbjorn"
+    culture = "targoth"
+    faith = "halvran_reformed"
+    dynasty = STRM_Drovenmark #Drovenmark
+    father = STRM_101 #Sighvat
+    mother = STRM_311 #Alruna
+    0554.1.1 = {
+        birth = yes
+    }
+    0572.1.1 = {
+        add_spouse = STRM_246 #Aslaug
+    }
+}
+
+STRM_75 = {
+    name = "Asbjorn"
+    culture = "targoth"
+    faith = "halvran_reformed"
+    dynasty = STRM_Drovenmark #Drovenmark
+    father = STRM_105 #Trond
+    mother = STRM_146 #Astrid
+    0569.1.1 = {
+        birth = yes
+    }
+}
+
+STRM_76 = {
+    name = "Asfrid"
+    culture = "targoth"
+    faith = "halvran_reformed"
+    female = yes
+    dynasty = STRM_Drovenmark #Drovenmark
+    father = STRM_105 #Trond
+    mother = STRM_146 #Astrid
+    0571.1.1 = {
+        birth = yes
+    }
+}
+
+STRM_77 = {
+    name = "Asleif"
+    culture = "targoth"
+    faith = "halvran_reformed"
+    female = yes
+    dynasty = STRM_Drovenmark #Drovenmark
+    father = STRM_74 #Asbjorn
+    mother = STRM_246 #Aslaug
+    0575.1.1 = {
+        birth = yes
+    }
+}
+
+STRM_78 = {
+    name = "Bjarni"
+    culture = "targoth"
+    faith = "halvran_reformed"
+    dynasty = STRM_Drovenmark #Drovenmark
+    father = STRM_105 #Trond
+    mother = STRM_146 #Astrid
+    0575.1.1 = {
+        birth = yes
+    }
+}
+
+STRM_79 = {
+    name = "Bodil"
+    culture = "targoth"
+    faith = "halvran_reformed"
+    female = yes
+    dynasty = STRM_Drovenmark #Drovenmark
+    father = STRM_105 #Trond
+    mother = STRM_146 #Astrid
+    0574.1.1 = {
+        birth = yes
+    }
+}
+
+STRM_8 = {
+    name = "Eldgrim"
+    culture = "stormward"
+    faith = "halvran_reformed"
+    dynasty = STRM_Bearkarl #Bearkarl
+    father = STRM_19 #Jarl
+    mother = STRM_370 #Sif
+    0546.1.1 = {
+        birth = yes
+    }
+    0566.1.1 = {
+        add_spouse = STRM_87 #Gudfinna
+    }
+}
+
+STRM_80 = {
+    name = "Eldgrim"
+    culture = "targoth"
+    faith = "halvran_reformed"
+    dynasty = STRM_Drovenmark #Drovenmark
+    father = STRM_90 #Hemming
+    mother = STRM_329 #Arnafrid
+    0547.1.1 = {
+        birth = yes
+    }
+    0573.1.1 = {
+        add_spouse = STRM_386 #Skadi
+    }
+}
+
+STRM_81 = {
+    name = "Eydis"
+    culture = "targoth"
+    faith = "halvran_reformed"
+    female = yes
+    dynasty = STRM_Drovenmark #Drovenmark
+    father = STRM_84 #Floki
+    0520.1.1 = {
+        birth = yes
+    }
+    0541.1.1 = {
+        add_spouse = STRM_302 #Ragnvald
+    }
+}
+
+STRM_82 = {
+    name = "Eystein"
+    culture = "targoth"
+    faith = "halvran_reformed"
+    dynasty = STRM_Drovenmark #Drovenmark
+    father = STRM_80 #Eldgrim
+    mother = STRM_386 #Skadi
+    0579.1.1 = {
+        birth = yes
+    }
+}
+
+STRM_83 = {
+    name = "Floki"
+    culture = "targoth"
+    faith = "halvran_reformed"
+    dynasty = STRM_Drovenmark #Drovenmark
+    father = STRM_106 #Vidfamne
+    mother = STRM_242 #Arnbjorg
+    0574.1.1 = {
+        birth = yes
+    }
+}
+
+STRM_84 = {
+    name = "Floki"
+    culture = "targoth"
+    faith = "halvran_reformed"
+    dynasty = STRM_Drovenmark #Drovenmark
+    0487.1.1 = {
+        birth = yes
+    }
+    0558.1.1 = {
+        death = yes
+    }
+}
+
+STRM_85 = {
+    name = "Gisli"
+    culture = "targoth"
+    faith = "halvran_reformed"
+    dynasty = STRM_Drovenmark #Drovenmark
+    father = STRM_106 #Vidfamne
+    mother = STRM_242 #Arnbjorg
+    0576.1.1 = {
+        birth = yes
+    }
+}
+
+STRM_86 = {
+    name = "Gudbrand"
+    culture = "targoth"
+    faith = "halvran_reformed"
+    dynasty = STRM_Drovenmark #Drovenmark
+    father = STRM_106 #Vidfamne
+    mother = STRM_242 #Arnbjorg
+    0578.1.1 = {
+        birth = yes
+    }
+}
+
+STRM_87 = {
+    name = "Gudfinna"
+    culture = "targoth"
+    faith = "halvran_reformed"
+    female = yes
+    dynasty = STRM_Drovenmark #Drovenmark
+    father = STRM_90 #Hemming
+    mother = STRM_329 #Arnafrid
+    0550.1.1 = {
+        birth = yes
+    }
+    0566.1.1 = {
+        add_spouse = STRM_8 #Eldgrim
+    }
+}
+
+STRM_88 = {
+    name = "Hallbera"
+    culture = "targoth"
+    faith = "halvran_reformed"
+    female = yes
+    dynasty = STRM_Drovenmark #Drovenmark
+    father = STRM_84 #Floki
+    0523.1.1 = {
+        birth = yes
+    }
+    0544.1.1 = {
+        add_spouse = STRM_372 #Skarde
+    }
+    0575.1.1 = {
+        death = yes
+    }
+}
+
+STRM_89 = {
+    name = "Hallvard"
+    culture = "targoth"
+    faith = "halvran_reformed"
+    dynasty = STRM_Drovenmark #Drovenmark
+    father = STRM_91 #Hoskuld
+    mother = STRM_145 #Arnafrid
+    0576.1.1 = {
+        birth = yes
+    }
+}
+
+STRM_9 = {
+    name = "Gerd"
+    culture = "stormward"
+    faith = "halvran_reformed"
+    female = yes
+    dynasty = STRM_Bearkarl #Bearkarl
+    father = STRM_35 #Vidfamne
+    mother = STRM_136 #Svala
+    0572.1.1 = {
+        birth = yes
+    }
+}
+
+STRM_90 = {
+    name = "Hemming"
+    culture = "targoth"
+    faith = "halvran_reformed"
+    dynasty = STRM_Drovenmark #Drovenmark
+    father = STRM_84 #Floki
+    0518.1.1 = {
+        birth = yes
+    }
+    0546.1.1 = {
+        add_spouse = STRM_329 #Arnafrid
+    }
+    0570.1.1 = {
+        death = yes
+    }
+}
+
+STRM_91 = {
+    name = "Hoskuld"
+    culture = "targoth"
+    faith = "halvran_reformed"
+    dynasty = STRM_Drovenmark #Drovenmark
+    father = STRM_90 #Hemming
+    mother = STRM_329 #Arnafrid
+    0553.1.1 = {
+        birth = yes
+    }
+    0572.1.1 = {
+        add_spouse = STRM_145 #Arnafrid
+    }
+}
+
+STRM_92 = {
+    name = "Ingunn"
+    culture = "targoth"
+    faith = "halvran_reformed"
+    female = yes
+    dynasty = STRM_Drovenmark #Drovenmark
+    father = STRM_80 #Eldgrim
+    mother = STRM_386 #Skadi
+    0575.1.1 = {
+        birth = yes
+    }
+}
+
+STRM_93 = {
+    name = "Jarl"
+    culture = "targoth"
+    faith = "halvran_reformed"
+    dynasty = STRM_Drovenmark #Drovenmark
+    father = STRM_74 #Asbjorn
+    mother = STRM_246 #Aslaug
+    0574.1.1 = {
+        birth = yes
+    }
+}
+
+STRM_94 = {
+    name = "Jokul"
+    culture = "targoth"
+    faith = "halvran_reformed"
+    dynasty = STRM_Drovenmark #Drovenmark
+    father = STRM_91 #Hoskuld
+    mother = STRM_145 #Arnafrid
+    0579.1.1 = {
+        birth = yes
+    }
+}
+
+STRM_95 = {
+    name = "Kara"
+    culture = "targoth"
+    faith = "halvran_reformed"
+    female = yes
+    dynasty = STRM_Drovenmark #Drovenmark
+    father = STRM_80 #Eldgrim
+    mother = STRM_386 #Skadi
+    0578.1.1 = {
+        birth = yes
+    }
+}
+
+STRM_96 = {
+    name = "Ljot"
+    culture = "targoth"
+    faith = "halvran_reformed"
+    female = yes
+    dynasty = STRM_Drovenmark #Drovenmark
+    father = STRM_106 #Vidfamne
+    mother = STRM_242 #Arnbjorg
+    0572.1.1 = {
+        birth = yes
+    }
+}
+
+STRM_97 = {
+    name = "Rakelina"
+    culture = "targoth"
+    faith = "halvran_reformed"
+    female = yes
+    dynasty = STRM_Drovenmark #Drovenmark
+    father = STRM_74 #Asbjorn
+    mother = STRM_246 #Aslaug
+    0572.1.1 = {
+        birth = yes
+    }
+}
+
+STRM_98 = {
+    name = "Randi"
+    culture = "targoth"
+    faith = "halvran_reformed"
+    female = yes
+    dynasty = STRM_Drovenmark #Drovenmark
+    father = STRM_91 #Hoskuld
+    mother = STRM_145 #Arnafrid
+    0574.1.1 = {
+        birth = yes
+    }
+}
+
+STRM_99 = {
+    name = "Rannveig"
+    culture = "targoth"
+    faith = "halvran_reformed"
+    female = yes
+    dynasty = STRM_Drovenmark #Drovenmark
+    father = STRM_106 #Vidfamne
+    mother = STRM_242 #Arnbjorg
+    0575.1.1 = {
+        birth = yes
+    }
+}
+
+STRM_3333 = {
+    name = "Hemming"
+    culture = "stormward"
+    faith = "halvran_reformed"
+    0570.1.1 = {
+        birth = yes
+    }
+}
+
+STRM_3334 = {
+    name = "Rolf"
+    culture = "stormward"
+    faith = "halvran_reformed"
+    0570.1.1 = {
+        birth = yes
+    }
+}
+

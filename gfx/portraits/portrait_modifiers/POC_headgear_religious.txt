@@ -1,0 +1,171 @@
+﻿headgear_religious = {
+
+	usage = game
+	selection_behavior = weighted_max
+	priority = 3
+
+## Grevetican ##
+
+	grevetican_devoted = {
+		dna_modifiers = {
+			accessory = {
+				mode = add
+				gene = headgear
+				template = religious_grevetican_devoted
+				range = { 0 1 } # For the randomness to work correctly
+			}
+			accessory = {
+				mode = add
+				gene = additive_headgear
+				template = no_additive
+				range = { 0 1 }
+			}
+		}
+		outfit_tags = { monk_outfit }
+		weight = {
+			base = 0
+			modifier = {
+				add = 100
+				portrait_religious_devoted_trigger = yes
+				portrait_religious_grevetican_trigger = yes
+			}
+		}
+	}
+
+	grevetican_head = {
+		outfit_tags = { rank_headgear }
+		usage = game
+		dna_modifiers = {
+			accessory = {
+				mode = add
+				gene = headgear
+				template = grevetican_head
+				range = { 0 1 }
+			}
+			accessory = {
+				mode = add
+				gene = additive_headgear
+				template = no_additive
+				range = { 0 1 }
+			}
+		}
+		weight = {
+			base = 0
+			modifier = {
+				add = 100			
+				portrait_religious_head_trigger = yes
+				portrait_religious_grevetican_trigger = yes	
+			}	
+		}
+	}
+
+	grevetican_high = {
+		outfit_tags = { rank_headgear }
+		usage = game
+		dna_modifiers = {
+			accessory = {
+				mode = add
+				gene = headgear
+				template = grevetican_high
+				range = { 0 1 }
+			}
+			accessory = {
+				mode = add
+				gene = additive_headgear
+				template = no_additive
+				range = { 0 1 }
+			}
+		}
+		outfit_tags = { priest_outfit bishop_outfit }
+		weight = {
+			base = 0
+			modifier = {
+				add = 80
+				portrait_religious_grevetican_trigger = yes
+				portrait_religious_high_trigger = yes
+			}
+		}
+	}
+	
+## Colocist ##
+
+	colocist_devoted = {
+		dna_modifiers = {
+			accessory = {
+				mode = add
+				gene = headgear
+				template = religious_colocist_devoted
+				range = { 0 1 } # For the randomness to work correctly
+			}
+			accessory = {
+				mode = add
+				gene = additive_headgear
+				template = no_additive
+				range = { 0 1 }
+			}
+		}
+		outfit_tags = { monk_outfit }
+		weight = {
+			base = 0
+			modifier = {
+				add = 100
+				portrait_religious_devoted_trigger = yes
+				portrait_religious_colocist_trigger = yes
+			}
+		}
+	}
+
+	colocist_head = {
+		outfit_tags = { rank_headgear }
+		usage = game
+		dna_modifiers = {
+			accessory = {
+				mode = add
+				gene = headgear
+				template = colocist_head
+				range = { 0 1 }
+			}
+			accessory = {
+				mode = add
+				gene = additive_headgear
+				template = no_additive
+				range = { 0 1 }
+			}
+		}
+		weight = {
+			base = 0
+			modifier = {
+				add = 100			
+				portrait_religious_head_trigger = yes
+				portrait_religious_colocist_trigger = yes	
+			}	
+		}
+	}
+
+	colocist_high = {
+		outfit_tags = { rank_headgear }
+		usage = game
+		dna_modifiers = {
+			accessory = {
+				mode = add
+				gene = headgear
+				template = colocist_high
+				range = { 0 1 }
+			}
+			accessory = {
+				mode = add
+				gene = additive_headgear
+				template = no_additive
+				range = { 0 1 }
+			}
+		}
+		outfit_tags = { priest_outfit bishop_outfit }
+		weight = {
+			base = 0
+			modifier = {
+				add = 80
+				portrait_religious_colocist_trigger = yes
+				portrait_religious_high_trigger = yes
+			}
+		}
+	}
