@@ -214,7 +214,7 @@ name_list_troll = {
 				"dynn_Yurkolgokh"
 			}
 			male_names = {
-				Brokeface Hollowtoof Lumpnose Stinkears Wormbrain Yelps Clothears Creakyknees Bentnoze Wartface Goutbones Greasycheeks
+				Brokeface Hollowtoof Lumpnose Stinkears Wormbrain Dimwit Clothears Creakyknees Bentnoze Wartface Goutbones Greasycheeks
 				Greldo Grubfoot Bighead Murknose Ramsay Rumbleguts Mossfists Slimetoes Slimepits Smellytoes Snotgut Stubthumb Snailfeet
 				Snothead Gubblebak Snailhead Shuddergob Toadbrain Wartknees Dumbface Grimeface Kringle "Phlegm Knee" Barkfoot Frogtongue
 				Maggotscratch Mossbrain Snakearms Tiptup Weakback Bilegut Spitfoot Wormelbow Mouldfinger Offalfoot Spittletoe Snotpit
@@ -305,7 +305,7 @@ name_list_troll = {
 				Wormnose Wormteeth Wormthighs Wormthumb Wormtoes Wormtongue
 			}
 			female_names = {
-				Nostrillia Brokeface Hollowtoof Lumpnose Stinkears Wormbrain Clothears Creakyknees Bentnoze Wartface Goutbones Greasycheeks
+				Nostrillia Dimwit Brokeface Hollowtoof Lumpnose Stinkears Wormbrain Clothears Creakyknees Bentnoze Wartface Goutbones Greasycheeks
 				Grubfoot Bighead Murknose Rumbleguts Mossfists Slimetoes Slimepits Smellytoes Snotgut Stubthumb Snailfeet
 				Snothead Snailhead Shuddergob Toadbrain Wartknees Dumbface Grimeface "Phlegm Knee" Barkfoot Frogtongue
 				Maggotscratch Mossbrain Snakearms Tiptup Weakback Bilegut Spitfoot Wormelbow Mouldfinger Offalfoot Spittletoe Snotpit
