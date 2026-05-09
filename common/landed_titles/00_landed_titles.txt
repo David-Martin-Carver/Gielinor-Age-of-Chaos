@@ -1,41 +1,252 @@
 e_one = {
-  color = { 82 84 47 }
-  capital = c_one
-  k_one = {
-    color = { 67 96 16 }
-    capital = c_one
-    d_one = {
-      color = { 74 44 221 }
-      capital = c_one
-      c_one = {
-        color = { 115 208 108 }
-        b_one = {
-          province = 1
-          color = { 115 208 108 }
-        }
-        b_two = {
-          province = 2
-          color = { 115 30 180 }
-        }
-        b_5 = {
-          province = 5
-          color = { 115 30 180 }
-        }
-        b_6 = {
-          province = 6
-          color = { 115 30 180 }
-        }
-        b_7 = {
-          province = 7
-          color = { 115 30 180 }
-        }
-        b_8 = {
-          province = 8
-          color = { 115 30 180 }
-        }
-      }
-    }
-  }
+	color = { 82 84 47 }
+	capital = c_one
+	k_one = {
+		color = { 67 96 16 }
+		capital = c_one
+		d_one = {
+			color = { 74 44 221 }
+			capital = c_one
+			c_one = {
+				color = { 115 208 108 }
+				b_one = {
+					province = 1
+					color = { 115 208 108 }
+				}
+				b_two = {
+					province = 2
+					color = { 115 30 180 }
+				}
+				b_5 = {
+					province = 5
+					color = { 115 30 180 }
+				}
+				b_6 = {
+					province = 6
+					color = { 115 30 180 }
+				}
+				b_7 = {
+					province = 7
+					color = { 115 30 180 }
+				}
+				b_8 = {
+					province = 8
+					color = { 115 30 180 }
+				}
+			}
+			c_two = {
+				color = { 255 255 255 }
+				b_9 = {
+					province = 9
+					color = { 255 255 255 }
+				}
+				b_10 = {
+					province = 10
+					color = { 255 255 255 }
+				}
+				b_11 = {
+					province = 11
+					color = { 255 255 255 }
+				}
+			}
+			c_three = {
+				color = { 255 255 255 }
+				b_12 = {
+					province = 12
+					color = { 255 255 255 }
+				}
+				b_13 = {
+					province = 13
+					color = { 255 255 255 }
+				}
+				b_14 = {
+					province = 14
+					color = { 255 255 255 }
+				}
+			}
+			c_four = {
+				color = { 255 255 255 }
+				b_15 = {
+					province = 15
+					color = { 255 255 255 }
+				}
+				b_16 = {
+					province = 16
+					color = { 255 255 255 }
+				}
+				b_17 = {
+					province = 17
+					color = { 255 255 255 }
+				}
+			}
+			c_five = {
+				color = { 255 255 255 }
+				b_18 = {
+					province = 18
+					color = { 255 255 255 }
+				}
+				b_19 = {
+					province = 19
+					color = { 255 255 255 }
+				}
+				b_20 = {
+					province = 20
+					color = { 255 255 255 }
+				}
+			}
+			c_six = {
+				color = { 255 255 255 }
+				b_21 = {
+					province = 21
+					color = { 255 255 255 }
+				}
+				b_22 = {
+					province = 22
+					color = { 255 255 255 }
+				}
+				b_23 = {
+					province = 23
+					color = { 255 255 255 }
+				}
+			}
+			c_seven = {
+				color = { 255 255 255 }
+				b_24 = {
+					province = 24
+					color = { 255 255 255 }
+				}
+				b_25 = {
+					province = 25
+					color = { 255 255 255 }
+				}
+				b_26 = {
+					province = 26
+					color = { 255 255 255 }
+				}
+			}
+		}
+		d_two = {
+			color = { 225 145 145 }
+			capital = c_eight
+			c_eight = {
+				color = { 225 145 145 }
+				b_27 = {
+					province = 27
+					color = { 225 145 145 }
+				}
+				b_28 = {
+					province = 28
+					color = { 115 30 180 }
+				}
+				b_29 = {
+					province = 29
+					color = { 115 30 180 }
+				}
+				b_30 = {
+					province = 30
+					color = { 115 30 180 }
+				}
+				b_31 = {
+					province = 31
+					color = { 115 30 180 }
+				}
+				b_32 = {
+					province = 32
+					color = { 115 30 180 }
+				}
+			}
+			c_nine = {
+				color = { 225 145 145 }
+				b_33 = {
+					province = 33
+					color = { 225 145 145 }
+				}
+				b_34 = {
+					province = 34
+					color = { 225 145 145 }
+				}
+				b_35 = {
+					province = 35
+					color = { 225 145 145 }
+				}
+			}
+			c_ten = {
+				color = { 225 145 145 }
+				b_36 = {
+					province = 36
+					color = { 225 145 145 }
+				}
+				b_37 = {
+					province = 37
+					color = { 225 145 145 }
+				}
+				b_38 = {
+					province = 38
+					color = { 225 145 145 }
+				}
+			}
+			c_eleven = {
+				color = { 225 145 145 }
+				b_39 = {
+					province = 39
+					color = { 225 145 145 }
+				}
+				b_40 = {
+					province = 40
+					color = { 225 145 145 }
+				}
+				b_41 = {
+					province = 41
+					color = { 225 145 145 }
+				}
+			}
+			c_twelve = {
+				color = { 225 145 145 }
+				b_42 = {
+					province = 42
+					color = { 225 145 145 }
+				}
+				b_43 = {
+					province = 43
+					color = { 225 145 145 }
+				}
+				b_44 = {
+					province = 44
+					color = { 225 145 145 }
+				}
+			}
+			c_thirteen = {
+				color = { 225 145 145 }
+				b_45 = {
+					province = 45
+					color = { 225 145 145 }
+				}
+				b_46 = {
+					province = 46
+					color = { 225 145 145 }
+				}
+				b_47 = {
+					province = 47
+					color = { 225 145 145 }
+				}
+			}
+			c_fourteen = {
+				color = { 225 145 145 }
+				b_48 = {
+					province = 48
+					color = { 225 145 145 }
+				}
+				b_49 = {
+					province = 49
+					color = { 225 145 145 }
+				}
+				b_50 = {
+					province = 50
+					color = { 225 145 145 }
+				}
+			}
+		}
+	}
 }
 # These titles cut hundreds of errors from logs.
 e_hre = { landless = yes }
