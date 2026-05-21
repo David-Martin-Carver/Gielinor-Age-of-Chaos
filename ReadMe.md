@@ -14,8 +14,8 @@ The project was revived by Martin David Carter, and quickly grew to include a nu
 
 ## Scope
 
-We seek to implement the entirety of Gielinor as it existed after the World Guardian reinstated the Edicts; and as a stretch goal, between the death of Guthix and the original instatiation of his edicts.
-For the initial release, our plan is to implement the F2P areas as of the 6th Age, after the gods have left for good.
+We seek to implement the entirety of Gielinor as it existed after the World Guardian reinstated the Edicts; and as a stretch goal, between the death of Guthix and the original instatiation of His edicts.
+For the initial release, our plan is to fully implement the F2P areas as of the 6th Age, after the gods have left for good.
 
 In future releases, we will add the 4th and 5th ages, and we will expand the world to include P2P areas and even OSRS content.
 
@@ -28,4 +28,4 @@ This project is licensed under the Unlicense.  You may do whatever you want with
 We strive to ensure that no works with incompatible copyrights are included in this repository.
 If you find any, please create an [issue](https://github.com/David-Martin-Carver/Gielinor-Age-of-Chaos/issues) and let us know.
 
-Jagex has confirmed that the music used the mod [has no copyright](https://twitter.com/runescape/status/1270839410469339137) and may therefore be redistributed freely and without issue.
+Jagex has confirmed that the music used the mod [has no copyright](https://x.com/runescape/status/1270839410469339137) and may therefore be redistributed freely and without issue.
