@@ -1,24 +1,24 @@
 firstage = {
-	alias = { ageFA }
+	alias = { age1 }
 	parent = age
 }
 secondage = {
-	alias = { ageSA }
+	alias = { age2 }
 	parent = age
 }
 thirdage = {
-	alias = { ageTA }
+	alias = { age3 }
 	parent = age
 }
 fourthage = {
-	alias = { ageFA }
+	alias = { age4 }
 	parent = age
 }
 fifthage = {
-	alias = { ageFIA }
+	alias = { age5 }
 	parent = age
 }
 sixthage= {
-	alias = { ageSIA }
+	alias = { age6 }
 	parent = age
 }
