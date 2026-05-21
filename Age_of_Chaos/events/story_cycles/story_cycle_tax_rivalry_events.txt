@@ -1188,7 +1188,7 @@ scripted_effect tax_rivalry_4010_deepen_rivalry_effect = {
 		# Add an opinion malus if the two are nemeses and their relationship cannot deteriorate any further
 		if = {
 			limit = {
-				has_relation_nemesis = scope:tax_collector
+				has_relation_nemesis = scope:tax_collector
 			}
 			add_opinion = {
 				target = scope:tax_collector
