@@ -2,13 +2,7 @@
 
 5000002 = d_varrock
 
-
-
-
 5000003 = d_lumbridge
-
-
-
 
 5000006 = {
 	pattern = "pattern_solid.dds"
@@ -19,13 +13,7 @@
 		color1 = "blue"
 		color2 = "red"
 	}
-	
+
 }
 
-
-
-
-
 8000008 = d_kharid
-	
-	
