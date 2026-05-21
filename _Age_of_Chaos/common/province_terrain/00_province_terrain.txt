@@ -1,7 +1,0 @@
-default_land=plains
-default_sea=sea
-default_coastal_sea=coastal_sea
-1=plains
-2=plains
-3=sea
-4=sea
