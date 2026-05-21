@@ -1,16 +1,16 @@
 ﻿5000000 = {
 	name = "dynn_tester"
-	culture = "testish"
+	culture = "misthalanian"
 }
 
 5000002 = {
 	name = "Remanis"
-	culture = "testish"
+	culture = "misthalanian"
 }
 
 5000003 = {
 	name = "Lumbridge"
-	culture = "testish"
+	culture = "misthalanian"
 }
 
 5000006 = {
@@ -20,36 +20,36 @@
 
 5000007 = {
 	name = "Miller"
-	culture = "testish"
+	culture = "misthalanian"
 }
 5000008 = {
 	name = "Leptoc"
-	culture = "testish"
+	culture = "misthalanian"
 }
 5000009 = {
 	name = "Prysin"
-	culture = "testish"
+	culture = "misthalanian"
 }
 5000010 = {
 	name = "Raispher"
-	culture = "testish"
+	culture = "misthalanian"
 }
 5000011 = {
 	name = "Halen"
-	culture = "testish"
+	culture = "misthalanian"
 }
 
 5000012 = {
 	name = "Gontamue"
-	culture = "testish"
+	culture = "misthalanian"
 }
 5000013 = {
 	name = "Paldock"
-	culture = "testish"
+	culture = "misthalanian"
 }
 5000014 = {
 	name = "Jatizso"
-	culture = "testish"
+	culture = "misthalanian"
 }
 
 8000008 = {
@@ -82,7 +82,7 @@
 
 7000009 = {
 	name = "Nurmof"
-	culture = "testish"
+	culture = "misthalanian"
 }
 
 7000014 = {
@@ -107,7 +107,7 @@
 }
 9000044 = {
 	name = "Horfyre"
-	culture = "testish"
+	culture = "misthalanian"
 }
 9000050 = {
 	name = "Sinclair"

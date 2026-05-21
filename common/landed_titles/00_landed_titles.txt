@@ -13,7 +13,7 @@ e_zaros = {
 	ai_primary_priority = {
 		if = {
 			limit = {
-				culture = culture:testish
+				culture = culture:misthalanian
 			}
 			add = @correct_culture_primary_score
 		}
@@ -28,7 +28,7 @@ k_polonia = {
 		ai_primary_priority = {
 			if = {
 				limit = {
-					culture = culture:testish
+					culture = culture:misthalanian
 				}
 				add = @correct_culture_primary_score
 			}
@@ -1129,7 +1129,7 @@ k_polonia = {
 
 
 		}
-		
+
 		d_dalery = {
 				color = { 175 30 130 }
 				color2 = { 255 255 255 }
@@ -1157,7 +1157,7 @@ k_polonia = {
 					color = { 170 55 90 }
 					color2 = { 255 255 255 }
 				}
-				
+
 			}
 		c_pendle = {
 				color = { 180 25 100 }
@@ -1188,7 +1188,7 @@ k_polonia = {
 					color2 = { 255 255 255 }
 				}
 			}
-			
+
 		c_mirstone = {
 				color = { 180 25 100 }
 				color2 = { 255 255 255 }
@@ -1224,7 +1224,7 @@ k_polonia = {
 					color2 = { 255 255 255 }
 				}
 			}
-			
+
 		c_berxley = {
 				color = { 180 25 100 }
 				color2 = { 255 255 255 }
@@ -1253,15 +1253,15 @@ k_polonia = {
 					color = { 170 55 90 }
 					color2 = { 255 255 255 }
 				}
-				
+
 			}
-			
-			
+
+
 		}
-		
-		
-		
-		
+
+
+
+
 
 		d_varrock = {
 				color = { 171 168 32 }
@@ -1443,7 +1443,7 @@ k_polonia = {
 
 
 		}
-		
+
 		c_wvar = {
 
 				color = { 171 168 32 }
@@ -1485,7 +1485,7 @@ k_polonia = {
 
 
 		}
-		
+
 
 
 
@@ -3350,7 +3350,7 @@ e_menaphite = {
 	ai_primary_priority = {
 		if = {
 			limit = {
-				culture = culture:testish
+				culture = culture:misthalanian
 			}
 			add = @correct_culture_primary_score
 		}
@@ -3365,7 +3365,7 @@ e_menaphite = {
 		ai_primary_priority = {
 			if = {
 				limit = {
-					culture = culture:testish
+					culture = culture:misthalanian
 				}
 				add = @correct_culture_primary_score
 			}
@@ -3405,9 +3405,9 @@ e_menaphite = {
 					color = { 170 55 90 }
 					color2 = { 255 255 255 }
 				}
-				
+
 				}
-				
+
 			c_haihar = {
 				color = { 232 255 86 }
 				color2 = { 255 255 255 }
@@ -3443,7 +3443,7 @@ e_menaphite = {
 					color2 = { 255 255 255 }
 				}
 				}
-			
+
 			c_alsisatra = {
 				color = { 232 255 86 }
 				color2 = { 255 255 255 }
@@ -3483,7 +3483,7 @@ e_menaphite = {
 				color = { 232 255 86 }
 				color2 = { 255 255 255 }
 
-				
+
 				b_khahidaha = {
 					province = 401
 
@@ -3509,13 +3509,13 @@ e_menaphite = {
 					color2 = { 255 255 255 }
 				}
 				}
-			
-				
-				
-				
-				
+
+
+
+
+
 			}
-			
+
 		d_citharede = {
 			color = { 232 255 86 }
 			color2 = { 255 255 255 }
@@ -3557,7 +3557,7 @@ e_menaphite = {
 					color2 = { 255 255 255 }
 				}
 				}
-				
+
 			c_darayaan = {
 				color = { 232 255 86 }
 				color2 = { 255 255 255 }
@@ -3586,7 +3586,7 @@ e_menaphite = {
 					color = { 170 55 90 }
 					color2 = { 255 255 255 }
 				}
-				
+
 				}
 			c_mosuya = {
 				color = { 232 255 86 }
@@ -3630,8 +3630,8 @@ e_menaphite = {
 				}
 				}
 			}
-			
-			
+
+
 		d_sumusna = {
 			color = { 232 255 86 }
 			color2 = { 255 255 255 }
@@ -3672,10 +3672,10 @@ e_menaphite = {
 					color = { 170 55 90 }
 					color2 = { 255 255 255 }
 				}
-				
+
 			}
-			
-			
+
+
 			c_lahibar = {
 				color = { 232 255 86 }
 				color2 = { 255 255 255 }
@@ -3698,10 +3698,10 @@ e_menaphite = {
 					color = { 170 55 90 }
 					color2 = { 255 255 255 }
 				}
-				
-				
+
+
 			}
-			
+
 			c_sahayeh = {
 				color = { 232 255 86 }
 				color2 = { 255 255 255 }
@@ -3730,9 +3730,9 @@ e_menaphite = {
 					color = { 170 55 90 }
 					color2 = { 255 255 255 }
 				}
-				
+
 			}
-			
+
 			c_modin = {
 				color = { 232 255 86 }
 				color2 = { 255 255 255 }
@@ -3755,13 +3755,13 @@ e_menaphite = {
 					color = { 170 55 90 }
 					color2 = { 255 255 255 }
 				}
-				
-				
+
+
 			}
 		}
-		
-		
-		
+
+
+
 		d_kharid = {
 			color = { 232 255 86 }
 			color2 = { 255 255 255 }
@@ -3784,16 +3784,16 @@ e_menaphite = {
 					color = { 170 55 90 }
 					color2 = { 255 255 255 }
 				}
-				
+
 				b_shirayeh = {
 					province = 439
 
 					color = { 170 55 90 }
 					color2 = { 255 255 255 }
 				}
-			
+
 		}
-		
+
 		c_kharid = {
 				color = { 232 255 86 }
 				color2 = { 255 255 255 }
@@ -3858,7 +3858,7 @@ e_menaphite = {
 					color2 = { 255 255 255 }
 				}
 		}
-		
+
 		c_alqusiya = {
 				color = { 232 255 86 }
 				color2 = { 255 255 255 }
@@ -3877,7 +3877,7 @@ e_menaphite = {
 				}
 				b_alqusiyab = {
 					province = 427
-					
+
 					color = { 170 55 90 }
 					color2 = { 255 255 255 }
 				}
@@ -3887,9 +3887,9 @@ e_menaphite = {
 					color = { 170 55 90 }
 					color2 = { 255 255 255 }
 				}
-				
+
 		}
-		
+
 		c_jaladina = {
 				color = { 232 255 86 }
 				color2 = { 255 255 255 }
@@ -3908,7 +3908,7 @@ e_menaphite = {
 				}
 				b_jaladinab = {
 					province = 428
-					
+
 					color = { 170 55 90 }
 					color2 = { 255 255 255 }
 				}
@@ -3931,8 +3931,8 @@ e_menaphite = {
 					color2 = { 255 255 255 }
 				}
 		}
-		
-		
+
+
 	}
 	}
 }
@@ -3948,7 +3948,7 @@ e_fremenik = {
 	ai_primary_priority = {
 		if = {
 			limit = {
-				culture = culture:testish
+				culture = culture:misthalanian
 			}
 			add = @correct_culture_primary_score
 		}
@@ -3963,13 +3963,13 @@ e_fremenik = {
 		ai_primary_priority = {
 			if = {
 				limit = {
-					culture = culture:testish
+					culture = culture:misthalanian
 				}
 				add = @correct_culture_primary_score
 			}
 		}
-		
-		
+
+
 		d_grenivik = {
 			color = { 76 127 76}
 			color2 = { 255 255 255 }
@@ -3980,7 +3980,7 @@ e_fremenik = {
 				color = { 76 127 76 }
 				color2 = { 255 255 255 }
 
-				
+
 				b_grenivika = {
 					province = 445
 
@@ -4011,21 +4011,21 @@ e_fremenik = {
 					color = { 170 55 90 }
 					color2 = { 255 255 255 }
 				}
-				
+
 				b_grenivikf = {
 					province = 874
 
 					color = { 170 55 90 }
 					color2 = { 255 255 255 }
 				}
-				
+
 				}
-				
+
 				c_orrastaoir = {
 				color = { 76 127 76 }
 				color2 = { 255 255 255 }
 
-				
+
 				b_orrastaoir = {
 					province = 562
 
@@ -4050,14 +4050,14 @@ e_fremenik = {
 					color = { 170 55 90 }
 					color2 = { 255 255 255 }
 				}
-				
+
 				}
-				
-				
+
+
 			}
-		
-		
-		
+
+
+
 		d_relleka = {
 			color = { 76 127 76}
 			color2 = { 255 255 255 }
@@ -4112,8 +4112,8 @@ e_fremenik = {
 				}
 				}
 			}
-		
-		
+
+
 		d_reistara = {
 			color = { 76 127 76}
 			color2 = { 255 255 255 }
@@ -4148,9 +4148,9 @@ e_fremenik = {
 					color = { 170 55 90 }
 					color2 = { 255 255 255 }
 				}
-				
+
 				}
-			
+
 			c_hofsfell = {
 				color = { 80 127 76 }
 				color2 = { 255 255 255 }
@@ -4186,9 +4186,9 @@ e_fremenik = {
 					color2 = { 255 255 255 }
 				}
 				}
-			
-			
-				
+
+
+
 			c_arnarnes = {
 				color = { 76 107 76 }
 				color2 = { 255 255 255 }
@@ -4224,7 +4224,7 @@ e_fremenik = {
 					color2 = { 255 255 255 }
 				}
 				}
-			
+
 			c_grimsgil = {
 				color = { 60 127 60 }
 				color2 = { 255 255 255 }
@@ -4260,7 +4260,7 @@ e_fremenik = {
 					color2 = { 255 255 255 }
 				}
 				}
-				
+
 			c_bregentved  = {
 				color = { 76 147 76 }
 				color2 = { 255 255 255 }
@@ -4289,13 +4289,13 @@ e_fremenik = {
 					color = { 170 55 90 }
 					color2 = { 255 255 255 }
 				}
-				
+
 				}
-				
+
 				}
-				
-				
-				
+
+
+
 			d_aebeltoft  = {
 			color = { 90 117 90 }
 			color2 = { 255 255 255 }
@@ -4343,7 +4343,7 @@ e_fremenik = {
 					color2 = { 255 255 255 }
 				}
 			}
-			
+
 			c_skufsloekr = {
 				color = { 76 127 84 }
 				color2 = { 255 255 255 }
@@ -4379,7 +4379,7 @@ e_fremenik = {
 					color2 = { 255 255 255 }
 				}
 				}
-			
+
 			c_essetofte = {
 				color = { 70 117 80 }
 				color2 = { 255 255 255 }
@@ -4414,11 +4414,11 @@ e_fremenik = {
 					color = { 170 55 90 }
 					color2 = { 255 255 255 }
 				}
-				
+
 			}
-			
-			
-			
+
+
+
 			c_hofsland = {
 				color = { 90 117 80 }
 				color2 = { 255 255 255 }
@@ -4453,11 +4453,11 @@ e_fremenik = {
 					color = { 170 55 90 }
 					color2 = { 255 255 255 }
 				}
-				
+
 			}
-			
-			
-		
+
+
+
 			c_laugarbrekka = {
 				color = { 70 107 70 }
 				color2 = { 255 255 255 }
@@ -4499,17 +4499,17 @@ e_fremenik = {
 					color2 = { 255 255 255 }
 				}
 			}
-			
-			
-			
-			
-			
-				
+
+
+
+
+
+
 			}
-			
-			
-			
-			
+
+
+
+
 			d_fjalltorp = {
 			color = { 232 255 86 }
 			color2 = { 255 255 255 }
@@ -4526,7 +4526,7 @@ e_fremenik = {
 					color = { 170 55 90 }
 					color2 = { 255 255 255 }
 				}
-			
+
 				b_fjalltorpa = {
 					province = 716
 
@@ -4545,10 +4545,10 @@ e_fremenik = {
 					color = { 170 55 90 }
 					color2 = { 255 255 255 }
 				}
-				
+
 		}
-		
-		
+
+
 			c_ravndal  = {
 				color = { 232 255 86 }
 				color2 = { 255 255 255 }
@@ -4559,7 +4559,7 @@ e_fremenik = {
 					color = { 170 55 90 }
 					color2 = { 255 255 255 }
 				}
-			
+
 				b_ravndala = {
 					province = 696
 					color = { 170 55 90 }
@@ -4571,11 +4571,11 @@ e_fremenik = {
 					color = { 170 55 90 }
 					color2 = { 255 255 255 }
 				}
-				
-				
+
+
 		}
-		
-		
+
+
 		c_tjarn  = {
 				color = { 232 255 86 }
 				color2 = { 255 255 255 }
@@ -4586,7 +4586,7 @@ e_fremenik = {
 					color = { 170 55 90 }
 					color2 = { 255 255 255 }
 				}
-			
+
 				b_tjarna = {
 					province = 783
 					color = { 170 55 90 }
@@ -4610,16 +4610,16 @@ e_fremenik = {
 					color = { 170 55 90 }
 					color2 = { 255 255 255 }
 				}
-				
+
 		}
-		
-		
-		
-	}	
+
+
+
 	}
-	
-	
-	
+	}
+
+
+
 	k_misc = {
 		color = { 107 190 255 }
 		color2 = { 255 255 23 }
@@ -4629,7 +4629,7 @@ e_fremenik = {
 		ai_primary_priority = {
 			if = {
 				limit = {
-					culture = culture:testish
+					culture = culture:misthalanian
 				}
 				add = @correct_culture_primary_score
 			}
@@ -4676,7 +4676,7 @@ e_fremenik = {
 					color2 = { 255 255 255 }
 				}
 			}
-			
+
 			c_etceteria= {
 				color = { 155 170 255 }
 				color2 = { 255 255 255 }
@@ -4711,7 +4711,7 @@ e_fremenik = {
 					color = { 170 55 90 }
 					color2 = { 255 255 255 }
 				}
-				
+
 			}
 			c_northetceteria= {
 				color = { 155 200 245 }
@@ -4747,17 +4747,17 @@ e_fremenik = {
 					color = { 170 55 90 }
 					color2 = { 255 255 255 }
 				}
-				
+
 			}
 			}
-			
+
 			d_misce = {
 			color = { 107 190 255}
 			color2 = { 255 255 255 }
 
 			capital = c_misc
 
-			
+
 			c_northmisc= {
 				color = { 107 170 255 }
 				color2 = { 255 255 255 }
@@ -4792,9 +4792,9 @@ e_fremenik = {
 					color = { 170 55 90 }
 					color2 = { 255 255 255 }
 				}
-				
+
 			}
-			
+
 			c_northeastmisc= {
 				color = { 127 190 255 }
 				color2 = { 255 255 255 }
@@ -4872,17 +4872,17 @@ e_fremenik = {
 					color = { 170 55 90 }
 					color2 = { 255 255 255 }
 				}
-	
-	
+
+
 			}
-			
-			
-			
-			
+
+
+
+
 			}
 		}
-		
-		
+
+
 		k_jatizso = {
 		color = { 166 160 94 }
 		color2 = { 255 255 23 }
@@ -4892,7 +4892,7 @@ e_fremenik = {
 		ai_primary_priority = {
 			if = {
 				limit = {
-					culture = culture:testish
+					culture = culture:misthalanian
 				}
 				add = @correct_culture_primary_score
 			}
@@ -4944,9 +4944,9 @@ e_fremenik = {
 					color = { 170 55 90 }
 					color2 = { 255 255 255 }
 				}
-				
+
 				}
-				
+
 			c_isafjoror = {
 				color = { 145 170 94 }
 				color2 = { 255 255 255 }
@@ -4981,11 +4981,11 @@ e_fremenik = {
 					color = { 170 55 90 }
 					color2 = { 255 255 255 }
 				}
-				
-				
-				
-				}	
-			
+
+
+
+				}
+
 			c_hjorleifshofoi = {
 				color = { 145 170 94 }
 				color2 = { 255 255 255 }
@@ -5043,7 +5043,7 @@ e_fremenik = {
 					color = { 170 55 90 }
 					color2 = { 255 255 255 }
 				}
-				
+
 				b_hegranesc = {
 					province = 660
 
@@ -5051,7 +5051,7 @@ e_fremenik = {
 					color2 = { 255 255 255 }
 				}
 				}
-				
+
 			c_holmlond = {
 				color = { 145 170 94 }
 				color2 = { 255 255 255 }
@@ -5080,9 +5080,9 @@ e_fremenik = {
 					color = { 170 55 90 }
 					color2 = { 255 255 255 }
 				}
-				
+
 				}
-				
+
 			c_fnjoska = {
 				color = { 145 170 94 }
 				color2 = { 255 255 255 }
@@ -5117,8 +5117,8 @@ e_fremenik = {
 					color = { 170 55 90 }
 					color2 = { 255 255 255 }
 				}
-				}	
-			
+				}
+
 			c_jokulsa = {
 				color = { 145 170 94 }
 				color2 = { 255 255 255 }
@@ -5154,11 +5154,11 @@ e_fremenik = {
 					color2 = { 255 255 255 }
 				}
 				}
-			
+
 			}
-			
+
 		}
-		
+
 		k_neitiznot = {
 		color = { 215 204 79 }
 		color2 = { 255 255 23 }
@@ -5168,7 +5168,7 @@ e_fremenik = {
 		ai_primary_priority = {
 			if = {
 				limit = {
-					culture = culture:testish
+					culture = culture:misthalanian
 				}
 				add = @correct_culture_primary_score
 			}
@@ -5208,8 +5208,8 @@ e_fremenik = {
 					color = { 170 55 90 }
 					color2 = { 255 255 255 }
 				}
-				
-				
+
+
 				}
 			c_neitiznotwest = {
 				color = { 205 204 79 }
@@ -5240,14 +5240,14 @@ e_fremenik = {
 					color2 = { 255 255 255 }
 				}
 				}
-				
-				
-				
+
+
+
 				}
 				}
-		
-		
-		
+
+
+
 		k_keldagrim = {
 		color = { 255 127 76 }
 		color2 = { 255 125 55 }
@@ -5257,7 +5257,7 @@ e_fremenik = {
 		ai_primary_priority = {
 			if = {
 				limit = {
-					culture = culture:testish
+					culture = culture:misthalanian
 				}
 				add = @correct_culture_primary_score
 			}
@@ -5304,7 +5304,7 @@ e_fremenik = {
 					color2 = { 255 255 255 }
 				}
 				}
-				
+
 			c_keldagrimwest = {
 				color = { 255 127 55 }
 				color2 = { 255 255 255 }
@@ -5345,18 +5345,18 @@ e_fremenik = {
 					color = { 170 55 90 }
 					color2 = { 255 255 255 }
 				}
-				}	
-				
-				
+				}
+
+
 			}
 			}
-				
-		
-		
-	
+
+
+
+
 	}
-	
-	
+
+
 e_kandarin = {
 	color = { 255 2 2 }
 	color2 = { 255 255 255 }
@@ -5368,7 +5368,7 @@ e_kandarin = {
 	ai_primary_priority = {
 		if = {
 			limit = {
-				culture = culture:testish
+				culture = culture:misthalanian
 			}
 			add = @correct_culture_primary_score
 		}
@@ -5383,7 +5383,7 @@ e_kandarin = {
 		ai_primary_priority = {
 			if = {
 				limit = {
-					culture = culture:testish
+					culture = culture:misthalanian
 				}
 				add = @correct_culture_primary_score
 			}
@@ -5430,7 +5430,7 @@ e_kandarin = {
 					color2 = { 255 255 255 }
 				}
 			}
-			
+
 			c_bowden  = {
 				color = { 255 2 2 }
 				color2 = { 255 255 255 }
@@ -5459,9 +5459,9 @@ e_kandarin = {
 					color = { 170 55 90 }
 					color2 = { 255 255 255 }
 				}
-				
+
 			}
-			
+
 			c_richmond  = {
 				color = { 255 2 2 }
 				color2 = { 255 255 255 }
@@ -5497,7 +5497,7 @@ e_kandarin = {
 					color2 = { 255 255 255 }
 				}
 			}
-			
+
 			c_aval  = {
 				color = { 255 2 2 }
 				color2 = { 255 255 255 }
@@ -5533,9 +5533,9 @@ e_kandarin = {
 					color2 = { 255 255 255 }
 				}
 			}
-			
+
 		}
-		
+
 		d_catherby = {
 			color = { 255 42 2}
 			color2 = { 255 255 255 }
@@ -5577,7 +5577,7 @@ e_kandarin = {
 					color2 = { 255 255 255 }
 				}
 			}
-			
+
 			c_caerleon = {
 				color = { 255 42 2 }
 				color2 = { 255 255 255 }
@@ -5625,7 +5625,7 @@ e_kandarin = {
 					color2 = { 255 255 255 }
 				}
 			}
-			
+
 			c_penrhionydd = {
 				color = { 255 42 2 }
 				color2 = { 255 255 255 }
@@ -5661,7 +5661,7 @@ e_kandarin = {
 					color2 = { 255 255 255 }
 				}
 			}
-			
+
 			c_arran = {
 				color = { 255 42 2 }
 				color2 = { 255 255 255 }
@@ -5698,7 +5698,7 @@ e_kandarin = {
 				}
 			}
 		}
-		
+
 		d_seers = {
 			color = { 255 102 102}
 			color2 = { 255 255 255 }
@@ -5740,8 +5740,8 @@ e_kandarin = {
 					color2 = { 255 255 255 }
 				}
 			}
-			
-			
+
+
 			c_guinnon  = {
 				color = { 255 102 80 }
 				color2 = { 255 255 255 }
@@ -5770,9 +5770,9 @@ e_kandarin = {
 					color = { 170 55 90 }
 					color2 = { 255 255 255 }
 				}
-				
+
 			}
-			
+
 			c_tribruit   = {
 				color = { 255 80 102 }
 				color2 = { 255 255 255 }
@@ -5808,7 +5808,7 @@ e_kandarin = {
 					color2 = { 255 255 255 }
 				}
 			}
-			
+
 			c_saltwell   = {
 				color = { 255 80 102 }
 				color2 = { 255 255 255 }
@@ -5838,9 +5838,9 @@ e_kandarin = {
 					color2 = { 255 255 255 }
 				}
 			}
-			
+
 		}
-				
+
 		d_sinclair = {
 			color = { 255 42 2}
 			color2 = { 255 255 255 }
@@ -5910,7 +5910,7 @@ e_kandarin = {
 					color = { 170 55 90 }
 					color2 = { 255 255 255 }
 				}
-				
+
 			}
 			c_brocéliande  = {
 				color = { 255 42 2 }
@@ -5940,9 +5940,9 @@ e_kandarin = {
 					color = { 170 55 90 }
 					color2 = { 255 255 255 }
 				}
-				
+
 			}
-			
+
 			c_plounevez  = {
 				color = { 255 42 2 }
 				color2 = { 255 255 255 }
@@ -5971,11 +5971,10 @@ e_kandarin = {
 					color = { 170 55 90 }
 					color2 = { 255 255 255 }
 				}
-				
+
 			}
 		}
 	}
 	}
-	
+
 }
-	
