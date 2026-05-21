@@ -1,4 +1,4 @@
-bandosian = {
+﻿bandosian = {
 	color = { 0.3 0.3 0.3 }
 
 	ethos = ethos_bellicose
