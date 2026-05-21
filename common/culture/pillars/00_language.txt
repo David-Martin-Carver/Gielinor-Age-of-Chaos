@@ -12,7 +12,7 @@ language_common_tongue = {
 			multiply = 10
 		}
 	}
-	
+
 	color = misthalanian
 }
 language_goblin = {
@@ -29,7 +29,7 @@ language_goblin = {
 			multiply = 10
 		}
 	}
-	
+
 	color = surface_goblin
 }
 language_dwarven = {
@@ -46,7 +46,7 @@ language_dwarven = {
 			multiply = 10
 		}
 	}
-	
+
 	color = dwarven
 }
 language_elven = {
@@ -63,7 +63,7 @@ language_elven = {
 			multiply = 10
 		}
 	}
-	
+
 	color = elven
 }
 language_gnomish = {
@@ -80,7 +80,7 @@ language_gnomish = {
 			multiply = 10
 		}
 	}
-	
+
 	color = gnomish
 }
 language_icyene = {
@@ -97,7 +97,7 @@ language_icyene = {
 			multiply = 10
 		}
 	}
-	
+
 	color = icyene
 }
 language_karamjan = {
@@ -114,7 +114,7 @@ language_karamjan = {
 			multiply = 10
 		}
 	}
-	
+
 	color = karamjan
 }
 language_menaphite = {
@@ -131,7 +131,7 @@ language_menaphite = {
 			multiply = 10
 		}
 	}
-	
+
 	color = menaphite
 }
 language_werewolf = {
@@ -148,7 +148,7 @@ language_werewolf = {
 			multiply = 10
 		}
 	}
-	
+
 	color = werewolf
 }
 language_fremennik = {
@@ -165,7 +165,7 @@ language_fremennik = {
 			multiply = 10
 		}
 	}
-	
+
 	color = fremennik
 }
 language_wushanko = {
@@ -182,7 +182,7 @@ language_wushanko = {
 			multiply = 10
 		}
 	}
-	
+
 	color = wushanko
 }
 language_monkeyspeak = {
@@ -199,6 +199,6 @@ language_monkeyspeak = {
 			multiply = 10
 		}
 	}
-	
+
 	color = monkey
 }
