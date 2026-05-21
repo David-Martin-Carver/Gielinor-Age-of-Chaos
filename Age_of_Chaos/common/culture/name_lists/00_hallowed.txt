@@ -1,0 +1,334 @@
+name_list_icyene = { # Also shamelessly stolen from Imperator
+
+	cadet_dynasty_names = {
+		"dynn_Hallow"
+		"dynn_Agathoklid"
+		"dynn_Alketid"
+		"dynn_Apollonid"
+		"dynn_Aratid"
+		"dynn_Helladid"
+		"dynn_Omirid"
+		"dynn_Peithid"
+		"dynn_Peneid"
+		"dynn_Philonid"
+		"dynn_Proktid"
+		"dynn_Pytheid"
+		"dynn_Sosiklid"
+		"dynn_Tauromeneid"
+		"dynn_Therid"
+		"dynn_Theronid"
+		"dynn_Timolid"
+		"dynn_Xenonid"
+		"dynn_Zagreid"
+		"dynn_Zosimid"
+		"dynn_Zotikid"
+		"dynn_Pelopid"
+		"dynn_Philetid"
+		"dynn_Proteid"
+		"dynn_Zenonid"
+		"dynn_Sostratid"
+		"dynn_Tauriskid"
+		"dynn_Sosthenid"
+		"dynn_Pyhrrid"
+		"dynn_Leonidid"
+		"dynn_Killistratid"
+		"dynn_Nikoklid"
+		"dynn_Pantauchid"
+		"dynn_Leukonid"
+		"dynn_Onomastid"
+		"dynn_Kephistodid"
+		"dynn_Karsid"
+		"dynn_Nikokrid"
+		"dynn_Persid"
+		"dynn_Hippostratid"
+		"dynn_Epandrid"
+		"dynn_Gylippid"
+		"dynn_Helenid"
+		"dynn_Megalid"
+		"dynn_Charinid"
+		"dynn_Dydid"
+		"dynn_Dionid"
+		"dynn_Hiketasid"
+		"dynn_Stratoklid"
+		"dynn_Spartokid"
+		"dynn_Stratonikid"
+		"dynn_Taurid"
+		"dynn_Timaid"
+		"dynn_Timarchid"
+		"dynn_Timoleid"
+		"dynn_Timotheid"
+		"dynn_Tryphid"
+		"dynn_Xanthippid"
+		"dynn_Xenarid"
+		"dynn_Xenokratid"
+		"dynn_Xenophid"
+		"dynn_Zenid"
+		"dynn_Lagid"
+		"dynn_Magid"
+		"dynn_Euryklid"
+		"dynn_Aleuadai"
+		"dynn_Philaidai"
+		"dynn_Demostenid"
+	}
+
+	dynasty_names = {
+		"dynn_Hallow"
+		"dynn_Agathoklid"
+		"dynn_Alketid"
+		"dynn_Apollonid"
+		"dynn_Aratid"
+		"dynn_Helladid"
+		"dynn_Omirid"
+		"dynn_Peithid"
+		"dynn_Peneid"
+		"dynn_Philonid"
+		"dynn_Proktid"
+		"dynn_Pytheid"
+		"dynn_Sosiklid"
+		"dynn_Tauromeneid"
+		"dynn_Therid"
+		"dynn_Theronid"
+		"dynn_Timolid"
+		"dynn_Xenonid"
+		"dynn_Zagreid"
+		"dynn_Zosimid"
+		"dynn_Zotikid"
+		"dynn_Pelopid"
+		"dynn_Philetid"
+		"dynn_Proteid"
+		"dynn_Zenonid"
+		"dynn_Sostratid"
+		"dynn_Tauriskid"
+		"dynn_Sosthenid"
+		"dynn_Pyhrrid"
+		"dynn_Leonidid"
+		"dynn_Killistratid"
+		"dynn_Nikoklid"
+		"dynn_Pantauchid"
+		"dynn_Leukonid"
+		"dynn_Onomastid"
+		"dynn_Kephistodid"
+		"dynn_Karsid"
+		"dynn_Nikokrid"
+		"dynn_Persid"
+		"dynn_Hippostratid"
+		"dynn_Epandrid"
+		"dynn_Gylippid"
+		"dynn_Helenid"
+		"dynn_Megalid"
+		"dynn_Charinid"
+		"dynn_Dydid"
+		"dynn_Dionid"
+		"dynn_Hiketasid"
+		"dynn_Stratoklid"
+		"dynn_Spartokid"
+		"dynn_Stratonikid"
+		"dynn_Taurid"
+		"dynn_Timaid"
+		"dynn_Timarchid"
+		"dynn_Timoleid"
+		"dynn_Timotheid"
+		"dynn_Tryphid"
+		"dynn_Xanthippid"
+		"dynn_Xenarid"
+		"dynn_Xenokratid"
+		"dynn_Xenophid"
+		"dynn_Zenid"
+		"dynn_Lagid"
+		"dynn_Magid"
+		"dynn_Euryklid"
+		"dynn_Aleuadai"
+		"dynn_Philaidai"
+		"dynn_Demostenid"
+	}
+
+	male_names = {
+		Padomenes Safalaan Asclepius Bable Calix Ceremino Chambour Dazune Domus Garmel Liamenes Marino Mesomedes Mazakon
+		Tarnation Tromple Vulkat Xavix Xephios
+	}
+	
+	female_names = {
+		Efaritay Garlandia Zilyana Aserima Aurora Briar Haylesse Hebe Hylandia Larina Padosan Pinwheel Prescia Ravina Selemone
+		Viridia Whippoorwhill Adrasteia
+	}
+
+	dynasty_of_location_prefix = "dynnp_of"
+}
+name_list_havenhythian = {
+cadet_dynasty_names = {
+		"dynn_Hayles"
+		{ "dynnp_of" "dynn_Norfolk" }
+		"dynn_Rose"
+		"dynn_Dodington"
+		"dynn_Stawell"
+		"dynn_Huntingdon"
+		"dynn_Lockhart"
+		"dynn_Wuffing"
+		"dynn_Henry"
+		"dynn_Hastings"
+		"dynn_Puttoc"
+		{ "dynnp_of" "dynn_Havenhythe" }
+		"dynn_A_theling"
+		"dynn_Moore"
+		"dynn_Fysche"
+		"dynn_Dall"
+		"dynn_Slee"
+		"dynn_Kiil"
+		"dynn_Mel"
+		"dynn_Holter"
+		"dynn_Randolph"
+		"dynn_Percy"
+		"dynn_Despencer"
+		"dynn_Bacon"
+		"dynn_Reresby"
+		"dynn_Cornwallis"
+		"dynn_Clifford"
+		"dynn_Carew"
+		"dynn_Maddock"
+		"dynn_Fortescue"
+		{ "dynnp_de" "dynn_Ros" }
+		"dynn_Howard"
+		"dynn_Maudit"
+		"dynn_Berkeley"
+		"dynn_Barton"
+		"dynn_Colvile"
+		"dynn_Grey"
+		"dynn_Darcy"
+		{ "dynnp_de" "dynn_Garlande" }
+		"dynn_Perry"
+		"dynn_Bethell"
+		"dynn_Perry"
+		"dynn_Borthwick"
+		{ "dynnp_de" "dynn_London" }
+		{ "dynnp_of" "dynn_Wendlewick" }
+		{ "dynnp_of" "dynn_Amberfell" }
+		{ "dynnp_of" "dynn_Bandlesbury" }
+		"dynn_Crawford"
+		"dynn_Tynedale"
+		"dynn_Pudsey"
+		"dynn_Marshal"
+		"dynn_Rowe"
+		{ "dynnp_de" "dynn_Criel" }
+		"dynn_Ciesla"
+		"dynn_Ross"
+		"dynn_Wuffing"
+		"dynn_Beorming"
+		"dynn_Eorling"
+		"dynn_A_bbing"
+		"dynn_A_lling"
+		"dynn_Wintaling"
+	}
+
+	dynasty_names = {
+		"dynn_Hayles"
+		{ "dynnp_of" "dynn_Norfolk" }
+		"dynn_Rose"
+		"dynn_Dodington"
+		"dynn_Stawell"
+		"dynn_Huntingdon"
+		"dynn_Lockhart"
+		"dynn_Wuffing"
+		"dynn_Henry"
+		"dynn_Hastings"
+		"dynn_Puttoc"
+		{ "dynnp_of" "dynn_Havenhythe" }
+		"dynn_A_theling"
+		"dynn_Moore"
+		"dynn_Fysche"
+		"dynn_Dall"
+		"dynn_Slee"
+		"dynn_Kiil"
+		"dynn_Mel"
+		"dynn_Holter"
+		"dynn_Randolph"
+		"dynn_Percy"
+		"dynn_Despencer"
+		"dynn_Bacon"
+		"dynn_Reresby"
+		"dynn_Cornwallis"
+		"dynn_Clifford"
+		"dynn_Carew"
+		"dynn_Maddock"
+		"dynn_Fortescue"
+		{ "dynnp_de" "dynn_Ros" }
+		"dynn_Howard"
+		"dynn_Maudit"
+		"dynn_Berkeley"
+		"dynn_Barton"
+		"dynn_Colvile"
+		"dynn_Grey"
+		"dynn_Darcy"
+		{ "dynnp_de" "dynn_Garlande" }
+		"dynn_Perry"
+		"dynn_Bethell"
+		"dynn_Perry"
+		"dynn_Borthwick"
+		{ "dynnp_de" "dynn_London" }
+		{ "dynnp_of" "dynn_Wendlewick" }
+		{ "dynnp_of" "dynn_Amberfell" }
+		{ "dynnp_of" "dynn_Bandlesbury" }
+		"dynn_Crawford"
+		"dynn_Tynedale"
+		"dynn_Pudsey"
+		"dynn_Marshal"
+		"dynn_Rowe"
+		{ "dynnp_de" "dynn_Criel" }
+		"dynn_Ciesla"
+		"dynn_Ross"
+		"dynn_Wuffing"
+		"dynn_Beorming"
+		"dynn_Eorling"
+		"dynn_A_bbing"
+		"dynn_A_lling"
+		"dynn_Wintaling"
+	
+	male_names = {
+		14 = { # most common
+			William
+		}
+		8 = { # second most common
+			John
+		}
+		48 = { # other common names
+			Adam Geoffrey Henry Hugh Nicholas Peter Ralph Richard Robert Roger Simon Thomas Walter
+		}
+		30 = { # everything else
+			Alan Albert Alexander Alfred Andrew Anselm Arnold Arthur Aubrey Baldrick Christopher David Edmund Edward Eric Eustace Fulk George Gerald Gilbert
+			Godfrey Gregory Guy Harold Humphrey Jocelyn Jordan Laurence Lionel Mark Martin Matthew Maurice Michael Paul Philip
+			Randolph Reginald Roderick Samuel Stephen Theobald Waleran Ezekiel Zeke Ben Gil Jocko Isaac Nathan Lev Tom Hawk 
+			Reuben Jacob Jedediah Kaleb Nathaniel Demetrius
+		}
+		0 = { # translated versions of other culture names
+			Blethin Duncan Douglas Fergus Findlay Griffith Kenneth Patrick Teague Howell Meredith Owen Tristan Cecil Sweeney Cedric Merlin Sebastian Zachary
+		}
+		
+	}
+	female_names = {
+		Adela Adelaide Alice Amice Anne Aveline Beatrice Blanche Catherine Cecilia Constance Edith Ela Eleanor Elizabeth Emma Hawise Isabel
+		Isabella Joan Joanna Juliana Mahaut Margaret Mary Matilda Maud Philippa Sybilla Geva Esther Gefen Sharon Lilah Rachel
+		Maya Zeeva Naomi Mathilda Hannah Winifred Gefen Dalia Joanna Bracha Raz
+	}
+	dynasty_of_location_prefix = "dynnp_of"
+	bastard_dynasty_prefix = "dynnp_fitz"
+
+	patronym_suffix_male = "dynnpat_suf_s"
+	patronym_suffix_female = "dynnpat_suf_s"
+	
+	# Chance of male children being named after their paternal or maternal grandfather, or their father. Sum must not exceed 100.
+	pat_grf_name_chance = 30
+	mat_grf_name_chance = 10
+	father_name_chance = 25
+	
+	# Chance of female children being named after their paternal or maternal grandmother, or their mother. Sum must not exceed 100.
+	pat_grm_name_chance = 20
+	mat_grm_name_chance = 40
+	mother_name_chance = 5
+	
+	
+
+	mercenary_names = {
+		{ name = "mercenary_company_white_company" coat_of_arms = "mc_white_company" }
+		{ name = "mercenary_company_hawkwoods_band" }
+	}
+}
+}

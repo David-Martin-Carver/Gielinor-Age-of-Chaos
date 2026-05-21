@@ -1,0 +1,53 @@
+name_list_monkey = {
+    cadet_dynasty_names = {
+		"dynn_Solomonid"
+		"dynn_Muqurrid"
+		"dynn_Pakhoras"
+		"dynn_Ramlid"
+		"dynn_Sebsibeid"
+		"dynn_Kebedeid"
+		"dynn_Bekeleid"
+		"dynn_Abateid"
+		"dynn_Sabraid"
+		"dynn_Astatkeid"
+		"dynn_Habeshid"
+		"dynn_DubE_"
+		"dynn_Gobena"
+		"dynn_Selassie"
+		"dynn_Dengel"
+		"dynn_Mesafint"
+		"dynn_Sehul"
+		"dynn_Nadjahid"
+		"dynn_Zagwe"
+	}
+	
+	dynasty_names = {
+		"dynn_Solomonid"
+		"dynn_Muqurrid"
+		"dynn_Pakhoras"
+		"dynn_Ramlid"
+		"dynn_Sebsibeid"
+		"dynn_Kebedeid"
+		"dynn_Bekeleid"
+		"dynn_Abateid"
+		"dynn_Sabraid"
+		"dynn_Astatkeid"
+		"dynn_Habeshid"
+		"dynn_DubE_"
+		"dynn_Gobena"
+		"dynn_Selassie"
+		"dynn_Dengel"
+		"dynn_Mesafint"
+		"dynn_Sehul"
+		"dynn_Nadjahid"
+		"dynn_Zagwe"
+	}
+
+    male_names = {
+        Awowogei Bonzara Daga Dealga Denadu Dugopol Ifaba Iwazaru Kikazaru Kruk Lofu Mizaru Muruwoi Solihib Tutab Uwogo Aberab
+        Hafuba Trefaji Unuki Duke Oipuis Ouhai Padulah Uodai Uyoro
+    }
+    female_names = {
+        Emilee Hamab
+    }
+}

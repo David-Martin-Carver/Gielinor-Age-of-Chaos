@@ -1,0 +1,310 @@
+name_list_misthalanian = {
+
+	cadet_dynasty_names = {
+		"dynn_Remanis"
+		"dynn_Marjoribanks"
+		"dynn_Clutterbuck"
+		{ "dynnp_de" "dynn_Adlard" }
+		"dynn_Valzin"
+		"dynn_Mews"
+		"dynn_Ruthven"
+		"dynn_Frey"
+		"dynn_Hoarse"
+		"dynn_Hyett"
+		"dynn_Despaard"
+		"dynn_Prysin"
+		"dynn_DeMarne"
+		"dynn_Fitzharmon"
+		"dynn_Midas"
+		"dynn_Vandercrank"
+		"dynn_Lapucet"
+		"dynn_Raispher"
+		"dynn_Halen"
+		"dynn_Ravitz"
+		"dynn_Gontamue"
+		"dynn_O'Niall"
+	}
+	dynasty_names = {
+		"dynn_Remanis"
+		"dynn_Marjoribanks"
+		"dynn_Clutterbuck"
+		{ "dynnp_de" "dynn_Adlard" }
+		"dynn_Valzin"
+		"dynn_Mews"
+		"dynn_Ruthven"
+		"dynn_Frey"
+		"dynn_Hoarse"
+		"dynn_Hyett"
+		"dynn_Despaard"
+		"dynn_Prysin"
+		"dynn_DeMarne"
+		"dynn_Fitzharmon"
+		"dynn_Midas"
+		"dynn_Vandercrank"
+		"dynn_Lapucet"
+		"dynn_Raispher"
+		"dynn_Halen"
+		"dynn_Ravitz"
+		"dynn_Gontamue"
+		"dynn_O'Niall"
+	}
+	male_names = {
+		14 = { # most common
+			William
+		}
+		8 = { # second most common
+			John
+		}
+		48 = { # other common names
+			Adam Geoffrey Henry Hugh Nicholas Peter Ralph Richard Robert Roger Simon Thomas Walter
+		}
+		30 = { # everything else
+			Alan Albert Alexander Alfred Andrew Anselm Arnold Arthur Aubrey Baldrick Christopher David Edmund Edward Eric Eustace Fulk George Gerald Gilbert
+			Godfrey Gregory Guy Harold Humphrey Jocelyn Jordan Laurence Lionel Mark Martin Matthew Maurice Michael Paul Philip
+			Randolph Reginald Roderick Samuel Stephen Theobald Waleran Roald Tenebra Bran Hywell Botolph Tarquin Cole Augustus
+			Reinhard Enhtor Dimintheis Caleb Avan Johnathon Rodney Haig Horvik Jake Horacio Teondor
+		}
+		0 = { # translated versions of other culture names
+			Blethin Duncan Douglas Fergus Findlay Griffith Kenneth Patrick Teague Howell Meredith Owen Tristan Cecil Sweeney Cedric Merlin Sebastian Zachary
+		}
+		
+	}
+	female_names = {
+		Adela Adelaide Alice Amice Anne Aveline Beatrice Blanche Catherine Cecilia Constance Edith Ela Eleanor Elizabeth Emma Hawise Isabel
+		Isabella Joan Joanna Juliana Mahaut Margaret Mary Matilda Maud Philippa Sybilla Sanafin Iris Alba Annette Caroline
+	}
+	dynasty_of_location_prefix = "dynnp_of"
+	bastard_dynasty_prefix = "dynnp_fitz"
+
+	patronym_suffix_male = "dynnpat_suf_s"
+	patronym_suffix_female = "dynnpat_suf_s"
+	
+	# Chance of male children being named after their paternal or maternal grandfather, or their father. Sum must not exceed 100.
+	pat_grf_name_chance = 30
+	mat_grf_name_chance = 10
+	father_name_chance = 25
+	
+	# Chance of female children being named after their paternal or maternal grandmother, or their mother. Sum must not exceed 100.
+	pat_grm_name_chance = 20
+	mat_grm_name_chance = 40
+	mother_name_chance = 5
+	
+	
+
+	mercenary_names = {
+		{ name = "mercenary_company_white_company" coat_of_arms = "mc_white_company" }
+		{ name = "mercenary_company_hawkwoods_band" }
+	}
+}
+
+name_list_asgarnian = {
+	cadet_dynasty_names = {
+		"dynn_Sonde"
+		"dynn_Radebaugh"
+		"dynn_Amthyst"
+		"dynn_Tremene"
+		"dynn_Hagg"
+		"dynn_Rennard"
+		"dynn_Perior"
+		"dynn_Varze"
+		"dynn_Vyvin"
+		"dynn_Renitee"
+		"dynn_Berus"
+		"dynn_Cadian"
+		"dynn_Cull"
+		"dynn_Dated"
+		"dynn_Fsup"
+		"dynn_Schism"
+		"dynn_Lection"
+		"dynn_Plus"
+		"dynn_Demand"
+		"dynn_Tenlee"
+		"dynn_Vant"
+		"dynn_Vile"
+		"dynn_Ving"
+		"dynn_Ayke"
+		"dynn_Pent"
+		"dynn_Rebrum"
+		"dynn_Remony"
+		"dynn_Render"
+		"dynn_Rial"
+		"dynn_Rillic"
+		"dynn_Rinch"
+		"dynn_Rogate"
+		"dynn_Rownd"
+		"dynn_Ruppe"
+		"dynn_Vey"
+		"dynn_Cerlyn"
+		"dynn_Cashien"
+		"dynn_Cheevers"
+		"dynn_Gerry"
+		"dynn_Terprett"
+		"dynn_Leye"
+		"dynn_Itchood"
+		"dynn_Spishyus"
+		"dynn_Table"
+		"dynn_Tendeth"
+		"dynn_Tinley"
+	 }
+	 dynasty_names = {
+		"dynn_Sonde"
+		"dynn_Radebaugh"
+		"dynn_Amthyst"
+		"dynn_Tremene"
+		"dynn_Hagg"
+		"dynn_Rennard"
+		"dynn_Perior"
+		"dynn_Varze"
+		"dynn_Vyvin"
+		"dynn_Renitee"
+		"dynn_Berus"
+		"dynn_Cadian"
+		"dynn_Cull"
+		"dynn_Dated"
+		"dynn_Fsup"
+		"dynn_Schism"
+		"dynn_Lection"
+		"dynn_Plus"
+		"dynn_Demand"
+		"dynn_Tenlee"
+		"dynn_Vant"
+		"dynn_Vile"
+		"dynn_Ving"
+		"dynn_Ayke"
+		"dynn_Pent"
+		"dynn_Rebrum"
+		"dynn_Remony"
+		"dynn_Render"
+		"dynn_Rial"
+		"dynn_Rillic"
+		"dynn_Rinch"
+		"dynn_Rogate"
+		"dynn_Rownd"
+		"dynn_Ruppe"
+		"dynn_Vey"
+		"dynn_Cerlyn"
+		"dynn_Cashien"
+		"dynn_Cheevers"
+		"dynn_Gerry"
+		"dynn_Terprett"
+		"dynn_Leye"
+		"dynn_Itchood"
+		"dynn_Spishyus"
+		"dynn_Table"
+		"dynn_Tendeth"
+		"dynn_Tinley"
+		}
+		male_names = {
+		14 = { # most common
+			William
+		}
+		8 = { # second most common
+			John
+		}
+		48 = { # other common names
+			Adam Geoffrey Henry Hugh Nicholas Peter Ralph Richard Robert Roger Simon Thomas Walter
+		}
+		30 = { # everything else
+			Alan Albert Alexander Alfred Andrew Anselm Arnold Arthur Aubrey Baldrick Christopher David Edmund Edward Eric Eustace Fulk George Gerald Gilbert
+			Godfrey Gregory Guy Harold Humphrey Jocelyn Jordan Laurence Lionel Mark Martin Matthew Maurice Michael Paul Philip
+			Randolph Reginald Roderick Samuel Stephen Theobald Waleran Vallance Anlaf Raddallin Owen Stario Daquarius Amik Ken 
+			Plyan Loynst Marius Tiffy Kuam Ren Keerdan Martyn Iban
+		}
+		0 = { # translated versions of other culture names
+			Blethin Duncan Douglas Fergus Findlay Griffith Kenneth Patrick Teague Howell Meredith Owen Tristan Cecil Sweeney Cedric Merlin Sebastian Zachary
+		}
+		
+	}
+	female_names = {
+		Adela Adelaide Alice Amice Anne Aveline Beatrice Blanche Catherine Cecilia Constance Edith Ela Eleanor Elizabeth Emma Hawise Isabel
+		Isabella Joan Joanna Juliana Mahaut Margaret Mary Matilda Maud Philippa Sybilla Altra Nora Lucy Eva Hynn Geniven Ilme
+		Moranna Miazrqa
+	}
+	dynasty_of_location_prefix = "dynnp_of"
+	bastard_dynasty_prefix = "dynnp_fitz"
+
+	patronym_suffix_male = "dynnpat_suf_s"
+	patronym_suffix_female = "dynnpat_suf_s"
+	
+	# Chance of male children being named after their paternal or maternal grandfather, or their father. Sum must not exceed 100.
+	pat_grf_name_chance = 30
+	mat_grf_name_chance = 10
+	father_name_chance = 25
+	
+	# Chance of female children being named after their paternal or maternal grandmother, or their mother. Sum must not exceed 100.
+	pat_grm_name_chance = 20
+	mat_grm_name_chance = 40
+	mother_name_chance = 5
+	
+	
+
+	mercenary_names = {
+		{ name = "mercenary_company_white_company" coat_of_arms = "mc_white_company" }
+		{ name = "mercenary_company_hawkwoods_band" }
+	}
+}
+
+name_list_kandarian = {
+	cadet_dynasty_names = {
+		"dynn_Carnillean"
+		"dynn_Sinclair"
+		"dynn_Servil"
+		"dynn_Ardignas"
+		"dynn_Berry"
+		"dynn_Rivance"
+		"dynn_Handelmort"
+		"dynn_Halgrive"
+		"dynn_McGrubor"
+	}
+	dynasty_names = {
+		"dynn_Carnillean"
+		"dynn_Sinclair"
+		"dynn_Servil"
+		"dynn_Ardignas"
+		"dynn_Berry"
+		"dynn_Rivance"
+		"dynn_Handelmort"
+		"dynn_Halgrive"
+		"dynn_McGrubor"
+	}
+	male_names = {
+		14 = { # most common
+			William
+		}
+		8 = { # second most common
+			John
+		}
+		48 = { # other common names
+			Adam Geoffrey Henry Hugh Nicholas Peter Ralph Richard Robert Roger Simon Thomas Walter
+		}
+		30 = { # everything else
+			Alan Albert Alexander Alfred Andrew Anselm Arnold Arthur Aubrey Baldrick Christopher David Edmund Edward Eric Eustace Fulk George Gerald Gilbert
+			Godfrey Gregory Guy Harold Humphrey Jocelyn Jordan Laurence Lionel Mark Martin Matthew Maurice Michael Paul Philip
+			Randolph Reginald Roderick Samuel Stephen Theobald Waleran Nevan Ceril Philipe Narras Ulthas Lathas Tyras Thoros
+			Clive Cecil Bob David Frank Justin Sammy Chad Francis Kurt Edmond
+		}
+		0 = { # translated versions of other culture names
+			Blethin Duncan Douglas Fergus Findlay Griffith Kenneth Patrick Teague Howell Meredith Owen Tristan Cecil Sweeney Cedric Merlin Sebastian Zachary
+		}
+		
+	}
+	female_names = {
+		Adela Adelaide Alice Amice Anne Aveline Beatrice Blanche Catherine Cecilia Constance Edith Ela Eleanor Elizabeth Emma Hawise Isabel
+		Isabella Joan Joanna Juliana Mahaut Margaret Mary Matilda Maud Philippa Sybilla Henryeta Sarsaparilla Anna Carol
+	}
+	dynasty_of_location_prefix = "dynnp_of"
+	bastard_dynasty_prefix = "dynnp_fitz"
+
+	patronym_suffix_male = "dynnpat_suf_s"
+	patronym_suffix_female = "dynnpat_suf_s"
+	
+	# Chance of male children being named after their paternal or maternal grandfather, or their father. Sum must not exceed 100.
+	pat_grf_name_chance = 30
+	mat_grf_name_chance = 10
+	father_name_chance = 25
+	
+	# Chance of female children being named after their paternal or maternal grandmother, or their mother. Sum must not exceed 100.
+	pat_grm_name_chance = 20
+	mat_grm_name_chance = 40
+	mother_name_chance = 5
+}

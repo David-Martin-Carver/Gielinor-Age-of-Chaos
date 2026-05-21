@@ -1,0 +1,10 @@
+﻿AR_doctrine_core_tenets = {
+	group = "core_tenets"
+	number_of_picks = 3
+
+
+	#############################
+	# Syncretic Faith Tenets	#
+	#############################
+
+

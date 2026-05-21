@@ -1,0 +1,41 @@
+name_list_dwarven = {
+	cadet_dynasty_names = { 
+		"dynn_Grimsson"
+		"dynn_Stoutbeard"
+		"dynn_Tonweight"
+		"dynn_Loric"
+		"dynn_Arnhold"
+		"dynn_Macagan"
+		"dynn_Blenheim"
+		"dynn_Peregrine"
+		"dynn_Halbaddon"
+	}
+	dynasty_names = {
+		"dynn_Grimsson"
+		"dynn_Stoutbeard"
+		"dynn_Tonweight"
+		"dynn_Loric"
+		"dynn_Arnhold"
+		"dynn_Macagan"
+		"dynn_Blenheim"
+		"dynn_Peregrine"
+		"dynn_Halbaddon"
+	}
+	male_names = {
+		Audmann Bentamir Blandebir Blasidar Brunolt Derni Dernu Dondakan Dromund Drorkar
+		Jaak Gauss Gulldamar Gunslik Hegir Hervi Hirko Hreidmar Jorzik Karl Kjut Klaas
+		Sven Hugi Luitger Miodvetnir Myndill Nolar Odmar Ordan Randivor Reinald Riki Rind
+		Runvastr Joe Sune Tati Thak Tombar Santiri Saro Ulifed Veldaban Vigr Wemund Aksel
+		Austri Boric Doc Doric Drogo Egil Elof Farli Gadrin Gamfred Gudrik Hammerspike Hura
+		Lakki Lige Nigall Nulodion Nurmof Ramarno Rolad Rupert Sabbot Sten Suak Thaki Thurgo
+		Bordiss Dororan Hofuthand Urist Alviss Brendt Brundt Donal Ferd Fullangr Grendt
+		Grundt Thorodin Alvijar Baden Lawgof Yodri Gilob Glosur Holoy Kamen Khorvak Klank
+		Lollk Medwin Niloof Obert Rohak Rutmir Stankers Teplin Thalmund Thordur Thorgel Vestri
+		Alvis Axanamander Azdaran Barakur Daedaric Brehan Gozdaron Korick Phyllis Nestor 
+		Thorbarkin Velenki Abel Armicus Dardar Evryn Fior Isak Ivar Jacob Boff Lukas Nigel Oxi
+        Rauborn Vaeringk Seppan Temur Malt Gidon
+	}
+	female_names = {
+		Solonis Agmundi Grenda Fjoila Haera Hilda Brae Meike Sieglinde Vermundi Freda Jari 
+		Kili Anleif Kara Sagira Sarah Liat }
+	}

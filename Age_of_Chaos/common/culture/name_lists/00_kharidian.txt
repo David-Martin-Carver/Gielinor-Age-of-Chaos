@@ -1,0 +1,160 @@
+name_list_al_kharidian = {
+
+	cadet_dynasty_names = {
+		"dynn_Mirza"
+		"dynn_Morrisane"
+		"dynn_Tist"
+		"dynn_Ali-Abdula"
+		"dynn_Nite"
+		"dynn_Legs"
+	}
+
+	dynasty_names = {
+		"dynn_Mirza"
+		"dynn_Morrisane"
+		"dynn_Tist"
+		"dynn_Ali-Abdula"
+		"dynn_Nite"
+		"dynn_Legs"
+	}
+
+	male_names = {
+		Ali Ozan Khnum Osman Shah Dommik Ellis Faruq Reen Hassan Jaraah Karim Louie Mubariz Zeke Shantay Fayez Musa Raheem Hamid
+		Waseem Zeid Fadli Jadid Mubariz Zahwa Siad Ima Sabeil Sabreen Iqbar Jalal Faisal Jasim Sami Malik Amir Meshari
+		Isma'il Hakeem Abbas Badir Hesham Aligra Mostafa Al-Shabim Eblis Laheeb Rasolo Farid Nen Qar Farhad Kaleef Lazim Faryd
+	}
+	female_names = {
+		Leela Ayesha Ranael Aadeela Tafani Afrah Dalal A'abla Jeed Anahita Naida Rana Maysa Dafi Munsim Maisa Lydia
+	}
+	dynasty_of_location_prefix = "dynnp_mn"
+	
+	patronym_prefix_male = "dynnpat_pre_ibn"
+	patronym_prefix_female = "dynnpat_pre_bint"
+	
+	founder_named_dynasties = yes
+	house_based_map_names = yes
+
+	
+
+	mercenary_names = {
+		{ name = "mercenary_company_the_wanderers" }
+		{ name = "mercenary_company_bedabin_company_of_place" }
+	}
+}
+name_list_menaphite = {
+
+	cadet_dynasty_names = {
+		"dynn_Ahmid"
+		"dynn_Galestid"
+		"dynn_Kenamid"
+		"dynn_Naravid"
+		"dynn_Penamid"
+		"dynn_Senuid"
+		"dynn_Setnid"
+		"dynn_Arganid"
+		"dynn_Psammid"
+		"dynn_Philothid"
+		"dynn_Timolid"
+		"dynn_Zosid"
+		"dynn_Phileid"
+		"dynn_Nicodemid"
+		"dynn_Nefarid"
+		"dynn_Bastid"
+		"dynn_Xeneid"
+		"dynn_Naravid"
+		"dynn_Ezanid"
+		"dynn_Ahmid"
+		"dynn_Alarus"
+		"dynn_Alara"
+		"dynn_Alarid"
+		"dynn_Harsiotes"
+		"dynn_Harsiotid"
+		"dynn_Henus"
+		"dynn_Hena"
+		"dynn_Henid"
+		"dynn_Ibus"
+		"dynn_Iba"
+		"dynn_Ibid"
+		"dynn_Khabbash"
+		"dynn_Khabbashid"
+		"dynn_Amasus"
+		"dynn_Amasa"
+		"dynn_Amasid"
+		"dynn_Nectanebo"
+		"dynn_Nectanebid"
+		"dynn_Petubast"
+		"dynn_Petubastes"
+		"dynn_Petubastid"
+		"dynn_Djedhid"
+		"dynn_Tachys"
+		"dynn_Tachya"
+		"dynn_Tachyes"
+		"dynn_Tachyid"
+		"dynn_Mago"
+		"dynn_Magid"
+	}
+
+	dynasty_names = {
+		"dynn_Ahmid"
+		"dynn_Galestid"
+		"dynn_Kenamid"
+		"dynn_Penamid"
+		"dynn_Senuid"
+		"dynn_Setnid"
+		"dynn_Arganid"
+		"dynn_Psammid"
+		"dynn_Philothid"
+		"dynn_Timolid"
+		"dynn_Zosid"
+		"dynn_Phileid"
+		"dynn_Nicodemid"
+		"dynn_Nefarid"
+		"dynn_Bastid"
+		"dynn_Xeneid"
+		"dynn_Naravid"
+		"dynn_Ezanid"
+		"dynn_Alarus"
+		"dynn_Alara"
+		"dynn_Alarid"
+		"dynn_Harsiotes"
+		"dynn_Harsiotid"
+		"dynn_Henus"
+		"dynn_Hena"
+		"dynn_Henid"
+		"dynn_Ibus"
+		"dynn_Iba"
+		"dynn_Ibid"
+		"dynn_Khabbash"
+		"dynn_Khabbashid"
+		"dynn_Amasus"
+		"dynn_Amasa"
+		"dynn_Amasid"
+		"dynn_Nectanebo"
+		"dynn_Nectanebid"
+		"dynn_Petubast"
+		"dynn_Petubastes"
+		"dynn_Petubastid"
+		"dynn_Djedhid"
+		"dynn_Tachys"
+		"dynn_Tachya"
+		"dynn_Tachyes"
+		"dynn_Tachyid"
+		"dynn_Mago"
+		"dynn_Magid"
+	}
+
+	male_names = {
+		Djer Nebra Abeni Padanu Osmumten Aristarchus Emharses Muthirat Artimeus Awusah Garai Ghaslor Kazemde Nkuku Rokuh Usi
+		Poltenip Radat Tarik Jareesh Jex Klenter Raetul Tarik Jabari Kohnen Amunemen Coenus Jhonatan Wadjmos Rashid Subotai Khattak
+        Azibo Psalmtik Qaseem Septhys Urluk Imhapi Wadud Harkhebi Charnak Danlozep Henutemipet Makhredrup Kags Rhotep Tamsah Batal
+		Khamud Danwad Inhamat Kharl
+	}
+	female_names = {
+		Satia Henaka Karytis Senliten Habibah Meskhenet Seddu Shiratti Zahra Zahur Jamila Nathifa Neferti Siamun Urbi Akhomet
+		Acenath Quibilah Sagira Anhur Banafrit Bes Esha Sabrina Selma Ehsan Nefertari Wafa Pia Lisah Meena Malala Sennefer Tefebi
+		Jess Rashida Neite Ka Bestopet Shebit Takhuit Katarina
+	}
+	dynasty_of_location_prefix = "dynnp_of"
+
+	dynasty_name_first = yes
+}

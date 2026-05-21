@@ -1,0 +1,72 @@
+name_list_elven = {
+
+	cadet_dynasty_names = {
+		"dynn_Iorwerth"
+		"dynn_Cadarn"
+		"dynn_Trahaearn"
+		"dynn_Crwys"
+		"dynn_Meilyr"
+		"dynn_Hefin"
+		"dynn_Amlodd"
+		"dynn_Ithell"
+		"dynn_Cywir"
+		"dynn_Edern"
+		"dynn_Anterth"
+		"dynn_Dail"
+		"dynn_Daethstod"
+		"dynn_Lage"
+	}
+
+	dynasty_names = {
+		"dynn_Iorwerth"
+		"dynn_Cadarn"
+		"dynn_Trahaearn"
+		"dynn_Crwys"
+		"dynn_Meilyr"
+		"dynn_Hefin"
+		"dynn_Amlodd"
+		"dynn_Ithell"
+		"dynn_Cywir"
+		"dynn_Edern"
+		"dynn_Anterth"
+		"dynn_Dail"
+		"dynn_Daethstod"
+		"dynn_Lage"
+	}
+
+	male_names = {
+		Erethdor Helwyr Essyllt Iestin Morvran Nissyen Cynog Eudav Gruffydd Adwr Arianwyn Baxtorian Cerridwyn Dai Dalldav Goreu Islwyn
+        Alfon Amaethwr Briallen Eifion Sior Teclyn Trevelian Gethin Piquan Rhobert Rhodri Wythien Ieuan Daffyd Ianto Eoin Idris
+		Berwyn Ysgawyn Maldwyn Daiglolas Tywyll Oluien Saeldor Skil Valis
+	}
+	female_names = {
+		Mwynen Tangwen Meredith Mhistyll Heriau Eirlys Elen Endwyr Haf Lunet Rhiannon Afenen Eirlys Emlyn Tiwlip Gwir Ffion
+		Carys Eilwynn Arvel Auron Bronwyn Eluned Haluned Ilfeen Iona Kelyn Mawrth Oronwen Angof Hanesydd Myf Adyna Ceidwad Eira
+        Faerdhinen Finda Glarial Merethiel Myfi
+	}
+	
+	dynasty_of_location_prefix = ""
+	
+	
+	patronym_prefix_male = "dynnpat_pre_ap"
+	patronym_prefix_male_vowel = "dynnpat_pre_vow_ab"
+	patronym_prefix_female = "dynnpat_pre_ferch"	
+	always_use_patronym = yes
+
+	# Chance of male children being named after their paternal or maternal grandfather, or their father. Sum must not exceed 100.
+	pat_grf_name_chance = 80
+	mat_grf_name_chance = 0
+	father_name_chance = 0
+	
+	# Chance of female children being named after their paternal or maternal grandmother, or their mother. Sum must not exceed 100.
+	pat_grm_name_chance = 10
+	mat_grm_name_chance = 50
+	mother_name_chance = 0
+	
+	
+
+	mercenary_names = {
+		{ name = "mercenary_company_lawgochs_followers" }
+		{ name = "mercenary_company_band_of_horned_elves" }
+	}
+}
