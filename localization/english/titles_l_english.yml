@@ -157,14 +157,12 @@
  c_shantay:0 "Shantay Pass"
  b_meiyar:0 "Meiyerditch"
 
-
  b_catherby:0 "Catherby"
  c_catherby:0 "Catherby"
  d_catherby:0 "Catherby"
  b_camelot:0 "Camelot"
  c_camelot:0 "Camelot"
  d_camelot:0 "Camelot"
-
 
  k_khazard:0 "General Khazard's Kingdom"
  d_khazard:0 "General Khazard's Territory"
@@ -473,7 +471,6 @@
  trait_sleepofguthix:0 "Sleep of Guthix"
  trait_sleepofguthix_character:0 "While the world remains at peace, Guthix sleeps"
 
-
  c_gutanoth:0 "Gu'Tanoth"
  c_jiggig:0 "Jiggig"
  c_oisle:0 "Toban's island"
@@ -508,10 +505,8 @@
 
  Shah_desc:0 "Emir Shah is the ruler of Al Kharid, a small city on the northern fringe of the massive Kharidian Desert. He is notable for having negotiated peace with The Pharaoh of Menaphos, ending the war between the cities."
 
-
  ldemon:0 "Lesser Demon"
  ldemon_group:0 "Demonic"
-
 
  guthixian_high_god_name:0 "Guthix"
  guthixian_high_god_name_possessive:0 "Guthixian"
@@ -587,6 +582,5 @@
  DSLAYER.9.t:0 "Victory over Elvarg"
  DSLAYER.9.d:0 "With Elvarg gone Crandor can once again be a human city, and maybe restored to it's former glory"
  DSLAYER.9.a:0 "Quest Complete"
-
 
  duel_melzar:0 "Melzar is an unpredictable foe"
