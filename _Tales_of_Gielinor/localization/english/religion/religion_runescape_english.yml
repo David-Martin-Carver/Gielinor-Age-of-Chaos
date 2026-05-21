@@ -1,7 +1,6 @@
 ﻿l_english:
 
- #Common Testist Localization
-saradominism_religion:0 "Saradominism"
+ saradominism_religion:0 "Saradominism"
  saradominism_religion_adj:0 "Saradominist"
  saradominism_religion_adherent:0 "Saradominist"
  saradominism_religion_adherent_plural:0 "Saradominists"
@@ -67,12 +66,12 @@ saradominism_religion:0 "Saradominism"
  saradominism_water_god_name:0 "$saradominism_high_god_name$"
  saradominism_water_god_name_possessive:0 "$saradominism_high_god_name_possessive$"
 
-#saradominism
  saradominism:0 "Saradominism"
  saradominism_adj:0 "Saradominist"
  saradominism_adherent:0 "Saradominist"
  saradominism_adherent_plural:0 "Saradominists"
  saradominism_desc:0 "Following the teachings of Saradominist."
+
  zamorakian:0 "Zamorakian"
  guthixian:0 "Guthixian"
  guthixian_adj:0 "Guthixian"
