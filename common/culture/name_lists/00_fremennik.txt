@@ -100,6 +100,9 @@ name_list_fremennik = {
 		 Taldar  Taldor  Taldur  Talkal  Talkar  Tallak  Tallor  Talton  Taltor  Talvald
 		Thordar Thordor Thordur Thorkal Thorkar Thorlak Thorlor Thorton Thortor Thorvald
 		 Tondar  Tondor  Tondur  Tonkal  Tonkar  Tonlak  Tonlor  Tonton  Tontor  Tonvald
+
+		# V's names
+		Vasador Valator Vaasdor Varosad Verisad Vudisor Vlatoad Vedolas Vundiar Versita Vislota Vanjuta
 	}
 	female_names = {
 		# NPC/lore Fremennik/Barbarian names
@@ -180,14 +183,16 @@ name_list_moon_clan = {
 	male_names = {
 		# Male Moon Clan members
 		Hannu
-		# Deliberately misinterpreted male Moon Clan member names
-		Sirsal
+		# V's names
+		Vasador Valator Vaasdor Varosad Verisad Vudisor Vlatoad Vedolas Vundiar Versita Vislota Vanjuta
 		# Male Moon Clan animals
 		Berty
+		# Deliberately misinterpreted male Moon Clan member names
+		#Sirsal
 		# Male Moon Clan visitors
-		Cyrisus
+		#Cyrisus Silas
 		# Fathers of female Moon Clan visitors
-		Fell
+		#Fell
 	}
 	female_names = {
 		# Known female Moon Clan members
@@ -195,7 +200,7 @@ name_list_moon_clan = {
 		# Implied Moon Clan members
 		Hyacinth
 		# Female Moon clan visitors
-		Aesa
+		#Aesa
 	}
 
 	dynasty_of_location_prefix = "dynnp_of"
