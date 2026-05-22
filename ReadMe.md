@@ -10,7 +10,7 @@ This means that certain liberties have to be taken;  however, the goal is still 
 As a part of this, the map used for the mod is somewhat of an artistic representation, ultimately based on a [concept map](https://imgur.com/Ih5DPnd) created by [u/baroquespoon](https://www.reddit.com/user/baroquespoon) on Reddit.
 
 The project was started in February 2022 by @niefia, and quickly grew to include a number of contributors. It died later that year.
-The project was revived by Martin David Carter, and quickly grew to include a number of contributors, including some members of the original project.
+The project was revived in April 2026 by @David-Martin-Carter, and quickly grew to include a number of contributors, including some members of the original project.
 
 ## Scope
 
