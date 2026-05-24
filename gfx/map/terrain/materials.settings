@@ -536,6 +536,30 @@
 		material = "gen_central_lowlands_03_properties.dds"
 		mask     = "masks/central_lowlands_03_mask.png"
 		id       = "central_lowlands_03"
+	}
+	{
+		name     =	"hardened Lava"
+		diffuse  =	"hardened_lava_diffuse.dds"
+		normal   =	"hardened_lava_normal.dds"
+		material =	"hardened_lava_properties.dds"
+		mask     =	"masks/hardened_lava_mask.png"
+		id       =	"hardened_lava"
+	}
+	{
+		name      =	"lava"
+		diffuse	  =	"lava_diffuse.dds"
+		normal	  =	"lava_normal.dds"
+		material  =	"lava_properties.dds"
+		mask	  =	"masks/lava_mask.png"
+		id 		  =	"lava"
+	}
+	{
+		name      =	"rock_european"
+		diffuse   =	"rock_european_diffuse.dds"
+		normal    =	"rock_european_normal.dds"
+		material  =	"rock_european_properties.dds"
+		mask      =	"masks/rock_european_mask.png"
+		id        =	"rock_european"
 	}	
 
 
